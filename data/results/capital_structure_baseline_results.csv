@@ -1,0 +1,300 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1.0,A firm's capital structure consists of which of the following?,Common stock,Preferred stock,Bonds,All of the above,D,"The answer is
+d. All of the above
+A corporation can raise capital from the following sources:
+Common stocks: A firm will sell common stocks to public investors to raise common equity.
+Preferred stocks: Compared to common stocks, investors will receive higher dividends.
+Bonds: A firm can sell bonds to the public for debt capital. The firm will need to return the bond's principal to the investors.","Capital Structure: The firm's capital structure should be designed to optimize the firm's weighted average cost of capital. A change in the firm's capital structure will affect the cost of capital, which might change the investment decision.",,,D
+2.0,A firm's capital structure is the mix of financial securities used to finance its activities and can include all of the following except:,stock,bonds,equity options,preferred stock,C,"Correct Answer:
+Option C. equity options
+.
+Equity options are short-term opportunities to make returns. It is a derivate that provides the investor a right to buy a call or sell a put option at the strike price. A capital structure, on the other hand, is made of sources of capital from various sources, such as equity capital, debt capital, and preferred capital. These sources are long-term sources that help a company maintain its long-term solvency.",Financing Activities: Financing activities include raising money and repaying it using long-term sources. The short-term sources of finance are reported under the operating activities section of the statement of cash flows.,,,C
+3.0,"A taxpaying, levered firm's optimal capital structure consists of equal amounts of debt and equity financing.",TRUE,FALSE,,,B,"The correct answer to the given question is option
+b. False
+.
+An optimal capital structure for a taxpaying, levered firm is the proportion of debt and equity in the overall capital where the weighted average cost of capital is minimum for the firm. The proportion of debt and equity for the optimal capital structure is governed by the cost of debt and equity and hence they may or may not be equal.","Capital Structure: In the context of finance, the overall assets of a firm are usually funded by a mix of sources of funds such as debt and equity. The cost of debt is usually lower than the cost of equity as the risk associated with debt is lower as compared to that associated with the equity.",,,B
+4.0,"A taxpaying, levered firm's optimal capital structure is the mixture of debt and equity financing that minimizes the weighted average cost of capital.",TRUE,FALSE,,,A,"The answer is
+True
+In the optimal capital structure, the mix of equity and debt is apt, such that the cost of debt shouldn't increase more than the cost of equity. The cost of capital, WACC, is minimized as the interest on the debt capital is tax-deductible; also the debt is tax-advantaged, compared to equity. The optimal capital structure leads to an increase in the shareholder's wealth, stock prices, and value of operations.","Dividend Payout: Indeed, the dividend payouts to the shareholders are not obligatory for the firm to pay each year. First, the debt holders' interest payments are paid, from the increase in the operating profits only then the dividends are paid out; for a firm financed with debt capital.",,,A
+5.0,"According to the tradeoff model of capital structure, which is true at the optimal capital structure?",The firm's stock price is maximized.,Earnings Per Share are maximized.,The total value of equity is maximized.,Return on Equity is Maximized.,D,"The correct answer is
+option (a). The firm's stock price is maximized.
+The optimal capital structure increases the firm's stock price by a factor of two. The capital structure refers to the sources of long-term funds used by the company to buy the assets for the business. The long-term funds include debt capital, common stock, and preferred stock. All the different sources of funds form the capital structure for the company. The optimal capital structure means, the best mix of debt and equity funds that maximizes the company's stock value and minimizes the company's cost of capital.
+Reasons for incorrect options:
+Option (b) is incorrect because earnings per share are maximized by buying back their own shares from the shareholders.
+Option (c) is incorrect because the total value of equity is known by the multiplication of the current stock price divided by the currently outstanding shares in the market. The value of equity is not maximized by an optimal capital structure.
+Option (d) is incorrect because the optimal capital structure does not maximize return on equity.","Capital structure: The term capital structure means the combination of equity and debt that is used to finance or fund the assets and processes of the business or company. The equity fund is more expensive, and the equity fund is also a permanent source of capital.",,,A
+6.0,"As a firm reduces the amount of debt in its capital structure,",The return on the firm's assets should increase.,The required return on debt should increase.,The required return on equity should fall.,,A,"a. Incorrect. According to Modigliani-Miller Proposition 1, the firm's return on assets is not affected by its capital structure.
+b. Incorrect. As the amount of debt reduces, the firm's risk should be lower. Hence, its required return on new debt should be reduced accordingly.
+c. Correct. According to Modigliani-Miller Proposition 2, the required cost of common equity is affected by the firm's capital structure. Due to a lower debt-equity ratio, the cost of common equity will reduce.","Return On Assets: Return on assets (ROA) is one of financial ratios to assess a firm's profitability. If the firm's ROA grows annually, it indicates that the firm is operated efficiently, in which its profit increases over years.",,,C
+7.0,Capital structure refers to the financing of long-term investments.,TRUE,FALSE,,,B,"The statement is
+FALSE.
+A firm's capital structure points out how the firm finances its assets through different sources of capital. Alternatively, it refers to the proportion of equity capital and debt capital, which is to encourage the firm's growth in the long run. In practice, a firm is expected to maintain a stable capital structure to minimize its cost of capital.","Capital Structure: Within a fundamental analysis, investors can evaluate the financial health of a firm through an assessment of its capital structure. Usually, a firm's capital structure will be analyzed by a group of leverage ratios.",,,A
+8.0,Gamer Co. has no debt. Its cost of capital is 10.1 percent. Suppose the company converts to a debt-equity ratio of 1. The interest rate on the debt is 7.2 percent.,What is the company s new cost of equity?,What is its new WACC?,,,A,"Part a.
+The introduction of debt into the capital structure is likely to increase the cost of equity.  This is because, debt elevates the level of risk associated with the company's future earnings and cash flows.  That said, given the case facts, it is not possible to definitively ascertain the impact on the cost of equity.
+Part b.
+Assuming no taxes and no change in the cost of equity, the new WACC is computed as follows:
+WACC = Debt Weight * Cost of Debt + Equity Weight * Cost of Equity
+WACC = .50 * .072 +.50 *.101 = .0865 or 8.65%","WACC: WACC stands for weighted average cost of capital.  It is a holistic cost of financing measure that considers a company's proportional utilization of all possible sources of capital.  Generally, this includes debt, common stock, and preferred stock.",,,A
+9.0,"Generally, it is not wise to use_.",long-term debt to finance short-term assets,short-term debt to finance short-term assets,short-term debt to finance long-term assets,long-term debt to finance long-term assets,C,"The answer is
+c. short-term debt to finance long-term assets
+Usually, the loan term should match with the useful life of the project that is financed by that loan. That means short-term debt should finance short-term assets while long-term debt should fund long-term assets.
+In fact, a firm might aim to stabilize its debt, in which it might acquire long-term debt and finance available short-term projects. This strategy ensures that the firm's debt capital and the cost of debt are under the firm's control.
+In the other hand, if long-term assets are financed by short-term debt, the firm might involve the lack of capital to continue funding long-term assets if it cannot acquire new short-term debt after the maturity of the previous short-term debt. In addition, if the market interest rates are expected to increase in the future, the use of short-term debt to fund long-term assets will maximize the cost of debt to the firm.","Debt Capital: Within a business, its operation will be financed by both equity and debt capital. The need of capital in the future will decide how the firm's capital should be structured, which aims to minimize the overall financing cost.",,,C
+10.0,"In perfect capital markets, how does the choice of leverage impact firm value?","In perfect capital markets, leverage decreases the firm value by increasing the risk to equity.","In perfect capital markets, leverage increases firm value because debt costs less than equity.","In perfect capital markets, leverage increases firm value because interest is tax-deductible.","In perfect capital markets, leverage does not affect firm value.",D,"The answer is
+d. In perfect capital markets, leverage does not affect firm value.
+Within a perfect capital market, the value of a firm will not be affected by its leverage. Alternatively, the use of debt and equity capital will not either increase or decrease the firm's value.","Leverage: Within a firm, the leverage refers to the firm's capital structure, in which it depicts how the firm's total assets are financed by debt and equity capital. Consequently, if the firm changes its leverage, it will affect the average financing cost to the entire firm.",,,D
+11.0,"In perfect capital markets, how does the choice of leverage impact firm value?","In perfect capital markets, leverage decreases firm value by increasing the the risk to equity.","In perfect capital markets, leverage increases firm value because debt costs less than equity.","In perfect capital markets, leverage increases firm value because interest is tax deductible.","In perfect capital markets, leverage does not affect firm value.",D,"The answer is
+d. In perfect capital markets, leverage does not affect firm value.
+According to Modigliani-Miller theory, the firm's capital structure has no impact to the firm's value in a perfect capital market. Thus, the firm's value will stay unchanged regardless of any change in the firm's leverage.","Perfect Capital Market: Within in a perfect capital market, there are several traders which will increase the competitiveness for traders. In addition, the market information will be always available to people at no cost.",,,D
+12.0,"Meyer & Co. expects its EBIT to be $62,000 every year forever. The firm can borrow at 8 percent. Meyer currently has no debt, and its cost of equity is 14 percent.","If the tax rate is 35 percent, what is the value of the firm?","What will the value be if the company borrows $142,000 and uses the proceeds to repurchase shares?",,,A,"a. The computation is as follows:
+{eq}\begin{align*}{\rm\text{Value of Unlevered Firm}} &= \dfrac{{{\rm\text{Expected Annual EBIT}} \times \left( {1 - {\rm\text{Tax Rate}}} \right)}}{{{\rm\text{Cost of Equity}}}}\\ &= \dfrac{{\$ 62,000 \times \left( {1 - 35\% } \right)}}{{14\% }}\\ &= \$ 287,857.14\end{align*}
+
+{/eq}
+b. The computation is as follows:
+{eq}\begin{align*}{\rm\text{Value of Levered Firm}} &= {\rm\text{Value of Unlevered Firm}} + \left( {{\rm\text{Amount to be Borrowed}} \times {\rm\text{Tax Rate}}} \right)\\ &= \$ 287,857.14 + \left( {\$ 142,000 \times 35\% } \right)\\ &= \$ 337,557.14\end{align*}
+
+{/eq}","Levered Firm: Levered firm refers to the firm that uses the debt capital in its total capital. As a result of using debt capital, such a firm obtains the benefit of tax-deductibility of its debt capital. Unlevered firms do not use debt capital.",,,A
+13.0,The difference between the weighted-average cost of capital (WACC) and the pre-tax (unlevered) WACC is:,the weighted-average cost of capital multiplies the cost of debt by (1 - tax rate) and the pre-tax WACC does not.,the weighted-average cost of capital is based on the after-tax cost of equity and the pre-tax WACC is based on the after-tax cost of debt.,"the weighted-average cost of capital multiplies the component costs of equity and debt by their weight in the capital structure, and the pre-tax WACC does not.",the weighted-average cost of capital multiplies the cost of equity and the cost of debt by (1 - tax rate) and the pre-tax WACC does not.,A,"The correct answer choice is option A.
+In the pre-tax WACC, the tax rate is not considered for any of the capital components, so tax value is added to the equity cost. But in the case of WACC, debt cost after tax is reduced and is considered.
+Pre-tax and WACC formula:
+{eq}\begin{aligned}   \text{Pre-tax WACC }&=\text{ Ke}\times \text{We}\times \frac{1}{1-\text{tax rate}}+\text{Wd}\times \text{Kd} \\   \text{WACC }&=\text{ Ke}\times \text{We +Wd}\times \text{Kd}\times (1-\text{tax rate}) \\     \end{aligned}
+
+{/eq}
+Here,
+Ke=Equity cost
+Kd=Debt cost
+Wd=Weight of debt
+We=Weight of equity
+Note: only equity and debt are considered as the enterprises capital.","Capital cost A capital cost is a total cost that an enterprise incurs in order to procure a certain amount of capital. There are many sources to procure capital, such as retained earnings, stock issue, debt issue, procuring through loans, and so on.",,,A
+14.0,"The mixture of debt and equity, used to finance a corporation is also known as _____.",capital budgeting,capital structure,investing,treasury,B,"The answer is
+b. capital structure.
+The capital structure will describe the proportion of debt and equity capital to finance its total assets. Generally, a firm should stabilize its capital structure in the long run to maintain a consistent average cost of capital.
+a. Incorrect. Capital budgeting is a process that analyzes the feasibility of a project.
+b. Correct.
+c. Incorrect. Investing is an activity in that the firm will acquire an asset and expect that asset to generate a higher value after a holding period.
+d. Incorrect. Within a business, treasury refers to the management of money, which intends to maintain a normal operation.","Capital: Within a business, capital refers to sources of money to fund the firm's assets. In practice, there are two sources of capital: debt capital and equity capital. Each business will have different characteristics that cause a different mixture of debt and equity capital.",,,B
+15.0,The optimal capital structure is:,mix of securities that will maximize the fund's EPS,the mix of funds used by the firm that minimizes the cost of financing the firm's project,the mix of assets owned by the firm that are optimally employed,the mix of funds that will minimize the firm's beta,D,"a) Incorrect. The mix of securities to increase the fund's EPS should refer to a process for establishing an investment portfolio of different securities, which is to maximize the profit of the fund.
+b) Correct. The main purpose of an optimal capital structure is to determine the proportion of equity capital and debt capital, which can maximize the firm's market value. Simultaneously, an optimal capital structure should minimize the firm's overall financing cost.
+c) Incorrect. The mix of assets refers to a diversification process to allocate assets efficiently.
+d) Incorrect. A fund's beta coefficient should be measured from the market prospect, which represents the relationship between the fund's return and the market return. The capital structure has no impact on the beta coefficient.","Capital Structure: The firm's capital structure indicates the value of each source of capital, including equity capital and debt capital. In practice, equity capital can be raised by selling common stocks and preferred stocks.",,,B
+16.0,The optimal capital structure minimizes the firm's cost of debt. True or False?,TRUE,FALSE,,,A,"The above statement is true.
+In the optimal capital structure, the firm tries to minimize its overall cost of its business by reducing the weighted average cost of capital (WACC) of the firm. WACC is calculated by adding cost of debt and cost of equity. Reducing the WACC means firm needs to reduce its cost of debt and cost of equity. Cost of debt may influence the choice of firm in forming capital structure, since low interest rates enlarge a firm's ability to issue higher debt. Higher debt will increase the WACC and thus affects the optimal capital structure, so it is better to minimize cost of debt to achieve best optimal capital structure.","Cost of Debt The cost of debt is the amount that a company has to pay on its debt, which is in form of interest on bonds and on loans. The company come into a contract with its bondholders and lenders where they pay them a fixed amount at regular intervals.",,,B
+17.0,The trade-off theory of capital structure describes the optimal capital structure for any firm as being the level of debt that:,minimizes the financial distress costs.,maximizes the present value of the interest tax shield.,equates the present values of the interest tax shield and the financial distress costs.,maximizes the after-tax cash flows that are internally generated.,D,"The correct answer is d, which maximizes the after-tax cash flows internally generated. This is the idea in which a firm determines the debt and equity finance appropriate to balance profits and expenses and one that can yield the highest value of the firm.
+Options a, b and c are incorrect. Minimization of the financial distress course is not applicable under the trade-off theory of capital following the major aim, which is to maximize the firm's internal value. Also, interest tax shields that are highly applicable in debt are less of concern in balancing the firm value on its financial outcomes.","Capital Structure: Capital structure is defined as a mix of equity and debt that a company uses to finance its operations and assets in the business setting. It is the result of the factors of a company, such as maturity and size, that affect the financing options.",,,C
+18.0,The weighted average cost of capital (WACC) for a firm with an optimal capital structure is?,higher than the cost of equity.,lower than the cost of debt.,lower than the cost of unlevered equity.,independent of the capital structure.,C,"Correct answer is Option c.
+The optimal capital structure includes both debt and equity. Debt is a cheaper source of financing for a firm due to the fixed nature of its payments and tax deductibility on its interest payments. Equity, on the other hand, is relatively more expensive because the cost is based on the expectations of the shareholders and no fixed dividends are paid.
+The inclusion of debt in the capital structure lowers the overall cost of capital as it replaces the expensive equity. The financial leverage of the debt leads to fall in the WACC as more debt is used in the firm, thus making it lesser than the cost of unlevered equity.
+The optimal capital structure will include such a level of debt that will minimize the WACC. Hence, the increase in risk to the equity shareholders as a result of more debt financing will not happen in this case.
+Thus, the WACC for a firm with an optimal capital structure is lower than the cost of unlevered equity.
+Explanation for incorrect answers:
+a. It is incorrect because WACC, in this case, is not higher than cost of equity.
+b. It is incorrect because WACC will never be lesser than cost of debt because cost of debt is fixed due to fixed interest payments. Moreover, a firm can never be 100% debt. Thus, the element of cost of equity will always be added to that of debt.
+d. It is incorrect because debt is cheaper than equity and the inclusion of debt reduces the WACC. Even the MM Approach with taxes states that WACC is cheaper in case of levered firm over an unlevered firm. Thus, WACC is dependent upon the capital structure.",Optimal Capital Structure: Optimal Capital Structure is such a mix of different sources of long-term financing (including both debt and equity) which minimizes the overall cost of capital to the firm and maximizes the total value of firm. There are several theories to find an optimal capital structure.,,,C
+19.0,"Twice Shy Industries has a debt-equity ratio of 1.6. Its WACC is 9.6 percent, and its cost of debt is 7.1 percent. The corporate tax rate is 35 percent.",What is the company's cost of equity capital?,What is the company's unlevered cost of equity capital?,What would the cost of equity be if the debt-equity ratio were 2?,What would the cost of equity be if the debt-equity ratio were 1.0?,A,"a. The computation is as follows:
+{eq}\begin{align*}{\rm\text{Cost of Equity}} &= \dfrac{{{\rm\text{WACC}} - \left( {\dfrac{{{\rm\text{Existing Debt}}}}{{{\rm\text{Existing Debt}} + {\rm\text{Existing Equity}}}} \times {\rm\text{Cost of Debt}}} \right) \times \left( {1 - {\rm\text{Tax Rate}}} \right)}}{{\dfrac{{{\rm\text{Existing Equity}}}}{{{\rm\text{Existing Debt}} + {\rm\text{Existing Equity}}}}}}\\ &= \dfrac{{9.6\%  - \left( {\dfrac{{1.6}}{{1.6 + 1}} \times 7.1\% } \right) \times \left( {1 - 35\% } \right)}}{{\dfrac{1}{{1.6 + 1}}}}\\ &= 17.58\% \end{align*}
+
+{/eq}
+b. The computation is as follow:
+{eq}\begin{align*}{\rm\text{Unlevered Cost of Equity}} &= \dfrac{{{\rm\text{WACC}} - \left( {\dfrac{{{\rm\text{Debt}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}} \times {\rm\text{Cost of Debt}}} \right) \times \left( {1 - {\rm\text{Tax Rate}}} \right)}}{{\dfrac{{{\rm\text{Equity}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}}}}\\ &= \dfrac{{9.6\%  - \left( {\dfrac{0}{{0 + 1}} \times 7.1\% } \right) \times \left( {1 - 35\% } \right)}}{{\dfrac{1}{{0 + 1}}}}\\ &= 9.6\% \end{align*}
+
+{/eq}
+c. The computation is as follows:
+{eq}\begin{align*}{\rm\text{Cost of Equity}} &= \dfrac{{{\rm\text{WACC}} - \left( {\dfrac{{{\rm\text{Debt}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}} \times {\rm\text{Cost of Debt}}} \right) \times \left( {1 - {\rm\text{Tax Rate}}} \right)}}{{\dfrac{{{\rm\text{Equity}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}}}}\\ &= \dfrac{{9.6\%  - \left( {\dfrac{2}{{2 + 1}} \times 7.1\% } \right) \times \left( {1 - 35\% } \right)}}{{\dfrac{1}{{2 + 1}}}}\\ &= 19.57\% \end{align*}
+
+{/eq}
+d. The computation is as follows:
+{eq}\begin{align*}{\rm\text{Cost of Equity}} &= \dfrac{{{\rm\text{WACC}} - \left( {\dfrac{{{\rm\text{Debt}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}} \times {\rm\text{Cost of Debt}}} \right) \times \left( {1 - {\rm\text{Tax Rate}}} \right)}}{{\dfrac{{{\rm\text{Equity}}}}{{{\rm\text{Debt}} + {\rm\text{Equity}}}}}}\\ &= \dfrac{{9.6\%  - \left( {\dfrac{1}{{1 + 1}} \times 7.1\% } \right) \times \left( {1 - 35\% } \right)}}{{\dfrac{1}{{1 + 1}}}}\\ &= 14.59\% \end{align*}
+
+{/eq}","Unlevered Firm: Unlevered firm refers to the firm which does not use debt in its capital structure. Its entire business capital is financed by the equity source of finance. As a result, its weighted average cost of capital becomes equal to its cost of equity.",,,A
+20.0,Using additional debt in the capital mix lowers the leverage and decreases the return on equity.,TRUE,FALSE,,,B,"The correct answer is
+b. False
+.
+Additional debt increases the financial leverage; therefore, the return on equity (ROE) also increases. Increasing debt up to a certain limit will provide financial leverage because debt interest is tax-deductible. Thus, it increases the earnings per share, the ROE. Hence, the given statement is false.","Capital Mix: The capital mix is a combination of various sources of capital, like debt, equity, preferred stock, etc. All these have different features like equity holds ownership rights, and debt and preferred stock have fixed interest rates.",,,B
+21.0,Which of the following combinations of asset structures and financing patterns is likely to create the most volatile earnings?,Illiquid assets and heavy long-term borrowing,Illiquid assets and heavy short-term borrowing,Liquid assets and heavy short-term borrowing,Liquid assets and heavy long-term borrowing,B,"The correct answer is b. Illiquid assets and heavy short-term borrowing
+The illiquid assets cannot be easily converted into cash and the heavy short-term borrowings indicate that the organization can repay its borrowings within a period of 12 months. This ensures that the organization have volatile earnings.
+The explanation for incorrect answers:
+a. Illiquid assets and heavy long-term borrowing
+This will lead to an increase in the cash outflows of the organization and will lower their earnings.
+c. Liquid assets and heavy short-term borrowing
+This will result in low volatile earnings as the liquid assets will be sold within a year and will not contribute much to the organization's earnings and the short-term earnings will lower the cash outflow.
+d. Liquid assets and heavy long-term borrowing
+This will result in low volatile earnings as the assets will be sold within a short period and will be utilized for a particular period and will not contribute much to the organization's earnings.",Asset Structure: The asset structure is the composition of assets owned by an organization. It is used to determine the long-term and short-term assets held by the organization. It affects the financial structure of an organization.,,,B
+22.0,Which of the following enterprises would be most likely to secure a large business loan?,A struggling national grocery store chain,A well-established real-estate developer,A one-year-old e-commerce company,A small database design company,A,"a. Incorrect. A grocery store will not require a large amount of business loan as its cash conversion cycle is shorter than other types of business.
+b. Correct. A real-estate developer will need more funds for its core business.
+c. Incorrect. A young e-commerce company will not need a large amount of debt capital as it will collect money after sales immediately. That means the cash conversion cycle of an e-commerce business is quick as a grocery store in part a.
+d. Incorrect. A design company is a service firm, which will not require a large capital for tangible asset. Thus, it will not acquire a large amount of debt to fund its assets.","Capital Structure: The firm's capital structure refers to its debt and equity capital. In practice, the capital structure will vary on different business sectors due to special capital requirements for each industry.",,,B
+23.0,Which of the following is false regarding the issue of stock versus the issue of bonds to raise capital?,The payment of dividends is at the discretion of the board of directors.,The payment of interest on bonds payable is required by law.,"Interest accrues, whereas dividends do not accrue.",The declaration of dividends reduces the amount of income taxes the corporation must pay.,D,"The correct option is (D)
+Option D is correct as it is not the declaration of dividend rather it is the payment of dividend that reduces the tax of the company.
+Explanation of incorrect options:
+Option A is incorrect as this is a true statement dividends are declared by the board of directors.
+Option B is incorrect as this is a true statement that interest on bond is required by law. It is a type of loan and law required the company to pay at least 6% interest on the amount of loan.
+Option C is incorrect as this is also true that interest accrues but dividend not because a company have to pay the interest even it is suffering from loss if the company do not pay interest in any year then it need to pay the interest in following years. Rather dividends are paid only if there is profits.",Capital Structure: Capital structure refers to capital mix of the company or in other words how the company has acquired money for the business. With this we come to know how much is owned capital and is borrowed capital .,,,D
+24.0,Which of the following is true about agency considerations in finding the optimal capital structure for a firm?,The optimal level of debt is determined by trading off the benefits of deducting interest from taxes and the costs of financial distress.,"Through their control of management, stockholders will take more risk than what is in bondholders' interest.","Outside equity costs more than debt, and debt costs more than retained earnings due to information asymmetry. Therefore, finance projects with retained earnings first, debt second, and outside equity last.",No answer text provided.,B,"Correct Answer: Option (b)
+Agency consideration is one of the essential determinants of the capital structure. It arises because of the risk faced by the debtholders. The risk arises because shareholders are the firm's owners, and management is under the shareholders' control. Hence, debtholders are worried that shareholders may undertake specific actions that may influence the debtholders badly. So, the agency factor is a determinant for the capital structure.
+Explanation for incorrect options:
+Option a: The cost and benefit of debt is a factor in every capital structure model. This factor is not a specific factor associated with the agency consideration.
+Option c: The statement under this option applies to pecking order theory, and not to the agency considerations.","Optimal Debt Level: The optimal debt level facilitates a firm in determining the additional debt amount that the firm must raise. Also, firms with excess debt levels may utilize it to know the debt amount they must retire for optimal levels.",,,B
+25.0,Which of the following will initially bring down the WACC of a company?,Issuing debt to finance a new project.,The firm's tax rate rises.,Issuing stock to finance a new project.,Buying back bonds by issuing more stock.,A,"WACC formula:
+{eq}WACC = \displaystyle Weight_{equity} \times Cost_{Equity} + Weight_{debt} \times Cost_{debt} \times (1 - Tax) {/eq}
+a. Incorrect. An increase in debt capital might cause a fact that shareholders raises their required rate of return. Thus, it is undecidable that new debt will definitely lower the WACC.
+b. Correct. An increase in the firm's tax rate will lower the after-tax cost of debt. Hence, the WACC will reduce accordingly.
+c. Incorrect. The cost of new equity is high due to the flotation costs, which increases the WACC.
+d. Incorrect. See the explanation in part c.",Weighted Average Cost Of Capital: The weighted average cost of capital (WACC) has a direct impact to the firm's capital budgeting decisions. It is the firm's discount rate for cash flows in a capital budgeting analysis.,,,A
+26.0,Which of the following would not be a characteristic of a firm that would tend to have a high proportion of debt in its capital structure?,A large amount of fixed assets,Steady profitability,In a regulated industry,Many growth opportunities,A,"A. Incorrect. A large number of fixed assets will usually require a significant amount of capital. Compared to equity capital, debt capital provides more benefits in this case since the firm can obtain both an interest tax shield and a depreciation tax shield.
+B. Correct. A steady profitability business will have plenty of money, which might not require large debt capital. Alternatively, the business can generate excessive retained earnings or internal equity capital to support its operations.
+C. Incorrect. Regulated industries will usually include the following sectors: health care, pharmaceuticals, banking and insurance, energy and nuclear, etc. These industries will need significant debt capital to fund their normal operations efficiently.
+D. Incorrect. A firm that has many growth opportunities will usually acquire debt capital to fund these opportunities, which intends to raise the firm's valuation in the future. The available internal equity capital will not be sufficient to fund available opportunities simultaneously. In addition, the new debt capital will be less expensive than the new equity capital.","Capital Structure: The firm's capital structure refers to the proportion of debt capital and equity capital. The capital structure has a direct effect on the firm's average financing cost on its total assets. Specifically, a firm intends to maintain a reasonable and stable average financing cost in the long run.",,,D
+27.0,Which of the following would NOT be a part of a firm's capital structure?,long-term bonds,preferred stock,short-term notes payable,common stock,C,"Correct Answer:
+Option c. short-term notes payable
+.
+Capital structure lists the long-term sources a company uses and the weights of each source to the total capital raised. Each company should maintain an optimal capital structure which requires the overall cost of capital to be minimum.
+Options
+Analysis
+a. long-term bonds
+Long-term bonds refer to a long-term source of finance reported on the capital structure.
+b. preferred stock
+Preferred stock is a long-term source of finance reported on the capital structure.
+c. short-term notes payable
+Short-term notes payable is a short-term financing source that is not reported on the capital structure.
+d. common stock
+Common stock is a long-term source of finance reported on the capital structure.",Short-Term Financing: The short-term sources of financing cannot help a company's long-term solvency. They enable to manage the day-to-day operations. Short-term sources are due within the next twelve months.,,,C
+28.0,"While market values are preferable, it is common to use capital structure targets when computing the WACC, especially for private companies.",TRUE,FALSE,,,A,"Answer:  This statement will be true.
+Explanation:
+Private companies makes use of the capital structure to calculate the weighted average cost of capital. The reason being, there is no market value for these companies.",Capital is known as the resources supplied to a business by the owners. Capital is a  financial resource that the business is owned that is beneficiary to generate the value in the companies. Capital can include items such as cash or any other assets introduced into a business by the owners.,,,A
+29.0,"Whispering Pines, Inc., is all-equity-financed. The expected rate of return on the company's shares is 12 percent.",What is the opportunity cost of capital for an average-risk Whispering Pines investment?,"Suppose the company issues debt, repurchases shares, and moves to a 30 percent debt-to-value ratio (D/V = 0.30 ). What will the company's weighted-average cost of capital be at the new capital structure? The borrowing rate is 7.5 percent and the tax rate is 35 percent.",,,A,"Summary:
+Cost of equity = 12%
+Cost of deb = 7.5%
+Tax rate = 35%
+Weight of debt = 30%
+Weight of equity = 100% - 30% = 70%
+a. Determine the opportunity cost of an average-risk investment:
+Initially, the capital structure is all-equity firm, which implies that the firm's average cost of capital is also the cost of equity. Hence, an average-risk investment will have the same cost of capital as the firm. Alternatively, this investment engages an opportunity cost of 12%.
+b. Determine the firm's WACC:
+WACC = Weight of equity x Cost of equity + Weight of debt x Cost of debt x (1 - Tax rate)
+WACC = 70% x 12% + 30% x 7.5% x (1 - 35%)
+WACC = 9.86%","Weighed Average Cost Of Capital: The weighted average cost of capital (WACC) represents the firm's average financing cost, including all capital components. If a new investment has an average risk related to the firm, analysts can analyze its value-added by discounting all expected cash flows at the firm's WACC.",,,B
+176.0,A firm has determined its cost of each source of capital and the percentage of each source making up the firm's capital structure.,6 percent,10.7 percent,11 percent,15 percent,C,"Weighted average cost of capital refers to the summation of product of all the costs of different sources of capital with their proportion in the overall capital structure.
+Computation of  Weighted Average Cost of Capital (WACC)
+SourceÂ Â Â of Capital
+CapitalÂ Â Â Structure Proportions
+After-Tax Value
+Product
+Long-term Debt
+40%
+6%
+[6% * 40%] = 2.4%
+Preferred Stock
+10%
+11%
+[11% * 10%] = 1.1%
+Common Stock Equity
+50%
+15%
+[15% * 50%] = 7.5%
+TOTAL
+100%
+11.0%
+Hence the correct answer is
+(c) 11 percent.","Capital Structure The capital structure and cost of capital can vary for every firm. The cost of capital differ for each firm on the basis of risks associated with the business, management's experience, macro economic factors etc..",,,B
+177.0,According to the trade-off theory of capital structure:,optimal capital structure is reached when the present value of tax savings on account of additional borrowing is just offset by increases in the present value of costs of distress.,optimal capital structure is reached when stockholders' right to default is balanced by the the bondholders' right to get interest and principal payments.,optimal capital structure is reached when the benefits of limited liability is just offset by the value of the lawyers' claim.,none of the above,A,"The correct answer is
+A.
+Capital structure is defined as a specific plan of stock and debt used by organizations in funding their general activities and growth.  An outstanding capital structure should have the following elements, flexibility, control, maximum return, safety, less risk, economy, and capacity, among other elements. The theory involves balancing debt costs alongside the debt benefits. An organization should decide on the use of equity and debt finance to balance each's disadvantages and advantages. The theory explains that companies are funded partly by stock and partly by debt.","Capital: Capital is defined as the total amount of money used to start a business or invest in getting more profits. Various types of capital include financial, debt, equity, human and working capital, among others. The two sources of capital include debt financing and equity financing. In debt financing, the business borrows money in which they repay with specified interest. In equity financing, the money is invested in the business in exchange for fractional ownership.",,,A
+178.0,"As more debt is added to the capital structure of a firm, the cost of debt capital:","initially rises slowly, then falls beyond some point",increases at a steady rate throughout the entire range,"beyond some point, becomes greater than the cost of equity","initially rises slowly, then increases rapidly beyond some point",D,"Answer
+is d. initially rises slowly, then increases rapidly beyond some point.
+The main propositions of the traditional approach are:
+The cost of debt capital remains more or less constant upto a certain level of leverage but rises at an increasing rate thereafter.
+The cost of equity remains stable or grows slightly upto a certain level of leverage and rises rapidly thereafter.
+As a consequence of the above behavior of cost of debt and cost of equity, the weighted average cost of capital (WACC) decreases upto a certain point, remains constant and then rises, with increases in the proportion of debt in the capital structure.",Traditional Theory of Capital Structure The traditional theory of capital structure states that the cost of capital is dependent on the capital structure and there exists an optimal capital structure at which the cost of capital is minimum.,,,D
+179.0,"Calculate a firm's WACC given that the total value of the firm is $2 million, $600,000 of which is debt, the pre-tax cost of debt is 10%, and the cost of equity is 15%. The firm pays no taxes.",9.00%,11.50%,13.50%,14.40%,C,"The answer is
+C. 13.5%.
+The following formula usually estimates the weighted average cost of debt of a specific firm:
+{eq}\boxed{\text{WACC=Cost of debt*Weight of debt + Cost of equity*Weight of equity}}
+
+{/eq}
+According to the capital structure theories the value of the firm is equal to:
+{eq}\text{Value of the firm=Value of debt + Value of equity}
+
+{/eq}
+Therefore, given the firm's total value and the value of debt, we can estimate the value of equity, which will be used in the computation of weights.
+{eq}$2,000,000=$600,000 + \text{Value of equity}
+
+{/eq}
+{eq}\text{Value of equity}=$2,000,000-$600,000
+
+{/eq}
+{eq}\text{Value of equity}=$1,400,000
+
+{/eq}
+WACC will thus be equal to:
+{eq}\text{WACC}=10\%\times \dfrac{600,000}{2,000,000}+ 15\% \times \dfrac{1,400,000}{2,000,000}
+
+{/eq}
+{eq}\boxed{\text{WACC}=13.5\%}
+
+{/eq}",Components of WACC: The WACC is mainly composed of the respective cost of capital multiplied by respective weights. WACC consist of the following costs:,,,C
+180.0,Capital Structure decisions refer to the:,Dividend yield of the firm's stock,Blend of equity and debt used by the firm,Capital gains available on the firm's stock,Maturity date for the firm's securities,B,"Capital Structure decisions refer to the
+B. Blend of equity and debt used by the firm
+.
+In corporate finance, capital structure refers to a firm's composition of debts versus equity in financing its assets. There are various measures for a firm's capital structure, and the most commonly used one is the debt-equity ratio. All else the same, the higher the debt-equity ratio, the more levered a firm is because it uses more debt than equity in financing its assets.",Modigliani-Miller Theorem: The Modigliani-Miller theorem is an imperative postulate in the study of corporate finance. The theorem provides important theoretical foundations for firms to determine the optimal capital structure.,,,B
+181.0,"Generally the _____ a firm's business risk, the _____ the amount of financial leverage that will be used in the optimal capital structure.","greater, greater","smaller, less","greater, less","smaller, greater",C,"The answer is c.
+If a firm engages a high business risk, it should optimize the capital structure with less debt, which refers to a lower financial leverage. The reason for this suggestion is to ensure that the firm will be able to meet its debt obligation when business risk arises. Alternatively, even when revenue reduces, the firm is still able to cover its debt payments.","Business Risk: In practice, business risks would refer to any types of risk that would have a negative impact to business profit. Or, a serious business risk might default the entire operation as well.",,,C
+182.0,"In considering a firm's capital structure, the firm should increase its _____ which will maximize its value.",stock outstanding,earnings,cash flow from investing,debt,D,"The answer is d. debt.
+In considering the firm's capital structure, it should
+increase its debt
+as it will maximize its value by optimizing the weighted average cost of capital. The debt provides  tax shield benefit  on interest payout to the firm resulting in lowering of the weighted average cost of capital. Except for equity, no other options are components of capital structure, and there is no benefit of tax shield in equity.","Shareholders Value: The Corporates are incorporating""increasing shareholder value""as one of the objectives in the vision statements.  One of the methods of estimating shareholders' value is by calculating the market capitalization of the organization. The return to the shareholder is capital appreciation and dividend payout.",,,D
+183.0,"In determining the capital structure for an international firm, the managerial objective is to:",minimize exchange rate risk,minimize the risk of expropriation,minimize the overall cost of capital,minimize available local low-cost financing,C,"The answer is c. minimize the overall cost of capital.  When it comes to establishing the optimal capital structure, this is the overriding goal for any organization, regardless of whether it has an international footprint.  By minimizing the overall cost of capital (generally, measured as the weighted average cost of capital), a firm will be optimally positioned sustainably create economic value.","Capital Structure: Capital structure is a phrase used to describe the composition of a firm's sources of financing.  Generally, this boils down to debt and equity.  The former represents corporate borrowing, and the latter represents the issuance of ownership shares in the company.",,,C
+184.0,Increasing debt financing will do all of the following except:,cause investors to demand a higher interest rate on debt,increase the risk to the firm's common stockholders,cause stockholders to demand a higher return,decrease the firm's cost of common equity,D,"The answer is D.
+An increase in debt will raise the default risk in business. That would make shareholders to raise their required rate of return, which aims to offset the additional risk caused by debt.","Debt Financing: In a business, its capital could be obtained from owners' capital or debt financing. Debt financing refers to short-term and long-term borrowings.",,,D
+185.0,Internal financing is more costly than external financing because of issuance costs.,TRUE,FALSE,,,B,"The statement is FALSE.
+External financing will be more expansive compared to the internal financing because there would be issuance costs (flotation cost, relative fees) imposed on new external financing.","Capital Structure: Capital structure indicates how a firm funds its assets by the use of shareholders' funds and external borrowings. An optimal capital structure will minimize the cost of capital, which has a direct impact on valuing new investments.",,,B
+186.0,Textile Mills borrows money at a rate of 13.5 percent. This interest rate is referred to as the:,current yield.,cost of debt.,capital gains yield.,cost of capital.,B,"The answer is b.
+The interest rate on a loan would be treated as the cost of debt, which is accounted for the weighted average cost of capital in a firm. Note that, the cost of debt associated with a bond would be its yield to maturity, but not the interest rate on bond. In the case of bonds, the interest rate is the coupon bond.","Borrowings: Apart from owners' capital, a business might raise funds from borrowings. The term of borrowings would refers to bank loan, commercial papers and bonds. Usually, large corporations would be allowed to issue bonds for additional funds while small businesses would apply for bank loans.",,,B
+187.0,"The amount of permanent short-term debt, long-term debt, preferred stock, and common stock used to finance a firm defines the firm's:",financial structure,capital structure,target capital structure,optimal financial structure,B,"The amount of permanent short-term debt, long-term debt, preferred stock, and common stock used to finance a firm defines the firm's
+b. capital structure
+.
+The proportion of debt and equity used for financing the assets of a firm is called the capital structure of the firm. The debt may be raised in the form of permanent short-term debt and long-term debt. The equity may be raised in the form of common equity and preferred equity.","Sources of Financing: In the parlance of finance, the total assets of a firm may be financed using various sources of funding. The total assets may also be classified into current and non-current items based on their time till maturity. Also, the common sources of funding are debt and equity.",,,B
+188.0,The capital structure decision attempts to minimize _____ which maximizes the value of the firm.,leverage costs,the cost of capital,labor costs,compensation packages,B,"The correct answer to the given question is option
+b. the cost of capital
+.
+The objective of any firm is usually to have an optimal capital structure so that the overall cost of capital, which is also called as the weighted average cost of capital (WACC), is minimum. A lower cost of capital helps in increasing the present value of the firm.","Capital Structure: In the parlance of finance, the capital structure is defined as the proportion of sources of funding such as common equity, preferred equity and debt in the overall capital of the firm. This capital is then used to finance the assets and operations of the firm during its economic or useful life.",,,B
+189.0,The optimal capital structure of a firm is a function of the:,business risk of the firm,tax structure,business risk of the firm and the tax structure,the variability of sales volumes,C,"The correct answer to the given question is
+c. business risk of the firm and the tax structure
+.
+For a firm, the optimal capital structure is the capital structure for which the weighted average cost of capital (WACC) is minimum. The WACC in turn  is usually determined by taking into account the proportion of all sources of funding such as debt, common equity and preferred equity along with their respective costs. The corporate tax rate affects the tax of debt and hence the WACC value.
+The cost of debt and equity is governed by the financial risk and business risk associated with the firm. Hence, it can be concluded that the minimum WACC value is governed by the optimum capital structure and the minimum value of WACC is governed by the business risk, financial risk and tax structure of the firm.","Optimal Capital Structure: In the parlance of finance, the capital structure for a firm signifies the mix of sources of funds used for financing the assets and operations of the firm. The sources of funding which may be prominently used are debt and equity. The debt may be raised in the form of bonds or loans while the equity may be raised in the form of common equity or preferred equity.",,,C
+190.0,The pecking order theory of capital structure predicts that:,"If two firms are equally profitable, the more rapidly growing firm will borrow more, other things equal",Firms prefer equity to debt financing,Risky firms will end up borrowing less,Risky firms will end up borrowing more,A,"The best answer choice is A. If two firms are equally profitable, the more rapidly growing firm will borrow more, other things equal.  Essentially, the pecking order theory of capital structure hypothesizes that a company should prefer the following sources of financing (in the order listed): self-financing via retained earnings, debt financing, and equity financing.","Capital Structure: The phrase ""capital structure"" refers to the mix of debt and equity a firm utilizes to finance its operation.  At one end of the spectrum, you could have 100% equity.  As you move along the spectrum, you can increase debt (and the inherent riskiness of the firm's cash flows).  However, any company must have some level of equity (i.e. ownership).",,,C
+191.0,"The term ""capital structure"" refers to:",the manner in which a firm obtains its long-term sources of funding.,the length of time needed to repay debt.,whether or not the firm invests in capital budgeting projects.,the types of assets a firm acquires.,A,"The term ""capital structure"" refers to:
+A. the manner in which a firm obtains its long-term sources of funding.
+The capital structure of a firm indicates the mix or proportion of various sources of funding used to make investments in its assets. These sources of funding are mainly shareholders' equity and liabilities.",Capital Structure: The capital structure of a firm governs the weighted average cost of capital for the funds acquired by it. There is an optimal capital structure for which the weighted average cost of capital is minimal and the value of the firm is maximal.,,,A
+192.0,The trade-off theory of capital structure predicts that:,Unprofitable firms should borrow more than profitable ones,Safe firms should borrow more than risky ones,Rapidly growing firms should borrow more than mature firms,Increasing leverage increases firm value,B,"The best answer choice is B. Safe firms should borrow more than risky ones.  The logic here is that safe firms can borrow at lower rates than risky ones.  So, the notion of adding more debt (rather than equity) to the capital structure will result in a lower overall cost of capital.",Trade-off Theory of Capital Structure: The trade-off theory of capital structure asserts that a firm should choose how much debt and equity to include in its capital structure based on the costs and benefits associated with the various potential compositions.,,,B
+193.0,"What proportion of a firm is equity financed if the WACC is 1%, the before-tax cost of debt is 10.77%, the tax rate is 35%, and the required return on equity is 18%?",54.00%,63.64%,70.26%,77.78%,B,"The answer is B.
+Assume the WACC is 14%.
+WACC = Weight of equity x Cost of equity + (1 - Weight of equity) x Cost of debt x (1 - Tax rate)
+14% = Weight of equity x 18% + (1 - Weight of equity) x 10.77% x (1 - 35%)
+Weight of equity = 63.64%",Capital Structure: Capital structure refers to the proportion of debt and equity in a business. A high debt-used capital structure will raise the business risk of default,,,C
+194.0,With an optimal capital structure:,overall capital costs are minimized,the net present value of new projects is minimized,financial leverage is minimized,the weighted cost of capital is maximized,A,"The answer is a.
+An optimal capital structure would acquire the financing resources at appropriate weights and affordable costs, which will aim to minimize the weighted average cost of capital (WACC).","Capital Structure: Capital structure refers to the portion of all financing resources that supports the business operation. Usually, it would indicate the percentage of debt and equity over total assets. Some corporations might issue preferred stocks as well.",,,A
+277.0,"According to the table, what is the socially optimal output level?",4,7,3,0,C,"The correct option is
+c. 3
+.
+We know that at the socially optimal output level, Price = Social Marginal Cost and Social Marginal Cost = Private Marginal Cost + External Marginal Cost
+Now, consider the given table in which the socially optional level occurs where P = Social Marginal Cost. That is Q = 3 units.","Social Marginal Cost: In economics, the term social marginal cost is associated with the total cost that the society has to pay for the production of an additional unit or taking other actions in the economy.",,,B
+278.0,"Economists who do not accept the cost-shifting hypothesis claim that if Medicare reduces the amount it pays physicians, profit-maximizing physicians would likely",increase the prices they charge to higher-paying privately insured patients.,increase the number of Medicare patients they see.,lower the prices they charge to higher-paying privately insured patients.,decrease the number of privately insured patients they see.,A,"The correct answer is
+A. increase the prices they charge to higher-paying privately insured patients
+This is because to keep the costing at a constant level, the profit maximizing physicians would prefer to charge a higher price from the privately insured patients. This would be done to compensate the reduction in amount paid by the Medicare to the physicians.",Output: The production of products and services for a given period at the equilibrium level is considered as the optimal output. It includes the final production of products and services. An increase in the economic output is the catalyst for an increase in the economic growth.,,,B
+285.0,"According to signalling theory, a firm with a very positive outlook might tend to use debt financing _____ the normal capital structure.",beyond,equal to,,,A,"Answer
+is a. beyond
+A firm which has a positive outlook ( that is firm expecting higher profitability) would use debt finance instead of selling stocks.
+This is because, if the firm decides to sell stock when profits start accruing, the share price would rise sharply and new shareholders would be benefited as much as the current shareholders. Evidently, the existing shareholders would have benefited  more if the financing had not been through equity.
+Therefore it would be more beneficial to the existing shareholders if management uses debt instead of equity to raise the funds","Signalling Theory The signalling theory is based on the premise of asymmetric information.That is, managers in general, have more information than outside investors about the future prospects of a firm. According to this model, financing decisions taken by managers convey future prospects to investors.",,,A
+,,,,,,,,,,,A
+287.0,"Firms prefer internal funds, but if forced to raise external capital, they prefer debt rather than equity issuance.",Trade-off theory,Pecking-order hypothesis,,,B,"Answer
+is b. Pecking order hypothesis
+Pecking order theory states the order of financing normally followed by most firms.
+Firms prefer internal financing / retained earnings to external financing.
+When financing needs of the firm exceed its retained earnings, it opts for debt finance.
+External equity is the last choice.
+In other words the pecking order of financing is:
+1. Internal finance
+2. Debt finance
+3. External equity finace","Pecking Order Theory One of the shortcomings of the MM theory of capital structure is that does not consider the costs, taxes and other factors related to debt financing, that exist in reality. Some of the theories that explain the impact of these factors on the capital structure of a firm are: (1) Trade off theory (2) Signalling theory and (3) Pecking order theory",,,B

@@ -1,0 +1,389 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,ABC Inc. is expected to pay an annual dividend of R0.80 a share next year. The market price of the share is R22.40 and the growth rate is 5%.,7.6%,7.9%,8.2%,8.6%,D,"The correct answer is
+d. 8.6%
+.
+The dividend growth model equation will use the following inputs to determine the cost of equity:
+Expected dividend = R0.80
+Current stock price = R22.40
+Constant growth rate = 5%
+Upon substitutin these inputs, we have the following output:
+{eq}\text{Expected return} = \dfrac{\text{Expected dividend}}{\text{Current stock price}} + \text{Constant growth rate} = \dfrac{0.80}{22.40} + 5\% = 8.6\% {/eq}","Cost of Capital: The cost of capital is associated with a company's financing activities, which involve raising capital from sources like stocks and debt. Debt capital attracts interest costs, and stock attracts dividend costs. The company's overall cost of capital differs from the individual costs of the sources.",,,C
+2,An increase in a firm's expected growth rate would normally cause its required rate of return to:,"increaseB. decreaseC. remain constantD. possibly increase, possibly decrease, or possibly have no effect",,,,A,"An increase in a firm's expected growth rate would normally cause its required rate of return to
+(A) increase.
+According to the Gordon growth model, the required rate of return can be calculated using the following formula:
+{eq}\text{Required Rate of Return} = \displaystyle \text{Capital Gain Yield} + \text{Growth Rate} {/eq}
+If the capital gain yield remains the same, an increase in the expected growth rate will raise the required rate of return on a stock.",Required Rate Of Return: The required rate of return on a stock refers to an investor's minimum expected return. The required rate of return is also the discount rate for dividends to determine the stock's intrinsic value.,,,D
+3,An increase in the cost of capital will:,increase an investment's IRR.,decrease an investment's IRR.,Increase an investment's NPV.,decrease an investment's NPV.,A,"A. Incorrect. A project's internal rate of return (IRR) is affected by cash inflows generated during the project's life expectancy. Alternatively, the IRR is not affected by the financing cost of all sources of capital.
+B. Incorrect. See the explanation in part A.
+C. Incorrect. The project's net present value and its cost of capital have an inverse relationship. Consequently, an increase in the cost of capital will reduce the net present value.
+D. Correct. See the explanation in part C.","Cost Of Capital: The cost of capital is the average financing cost associated with a firm's total capital. With that being said, the cost of capital is averaged out from the following components: cost of common equity, cost of debt, and cost of preferred equity (preferred stocks).",,,D
+4,"Columbus Clinic expects to receive $10,000 five years from now. If the clinic's cost of capital is 12% per year, what is the value of the $10,000 three years from now?","$14,049","$7,972","$5,917",None of the above,B,"The correct option is B.
+Step 1: Calculation of present value of the $10,000 five years from now is as follow:
+{eq}\begin{align*}{\rm\text{PV}} &= \frac{{{\rm{FV}}}}{{{{\left( {1 + {\rm\text{r}}} \right)}^{\rm\text{n}}}}}\\ &= \frac{{\$ 10,000}}{{{{\left( {1 + 0.12} \right)}^5}}}\\ &= \frac{{\$ 10,000}}{{1.76234}}\\ &= \$ 5674.27\end{align*} {/eq}
+Where:
+PV is the present value
+FV is the future value = $10,000
+r is the cost of capital = 12% or 0.12
+n is the number of years = 5
+Step 2: Calculate the future value of the $5674.27 three years from now:
+{eq}\begin{align*}{\rm\text{PV}} &= \frac{{{\rm\text{FV}}}}{{{{\left( {1 + {\rm\text{r}}} \right)}^{\rm\text{n}}}}}\\{\rm\text{FV}} &= {\rm\text{PV}} \times {\left( {1 + {\rm\text{r}}} \right)^{\rm\text{n}}}\\ &= \$ 5674.27 \times {\left( {1 + 0.12} \right)^3}\\ &= \$ 7972\end{align*} {/eq}
+Therefore, the value of the $10,000 three years from now, assuming a cost of capital of 12% per year, is $7972.
+So, the answer is option
+B
+.","Cost of Capital: When an investor invests in a project, he is liable for getting a return from the project. Hence, that return is the project's cost of capital. It is a good technique to check the feasibility of a project.",,,B
+5,"Expected cash dividends are $2, the dividend yield is 6%, flotation costs are 3% of price, and the growth rate is 4%.",12.29%,11.19%,10.19%,9.94%,C,"The correct answer is
+c. 10.19%.
+Given information:
+Expected dividend (D1) = $2
+Dividend yield = 6%
+Flotation costs = 3%
+Growth rate (g) = 4%
+Step 1: Estimate the current price of stock (P0):
+{eq}\text{P0} = \displaystyle \frac{\text{D1}}{\text{Dividend yield}} \\ \text{P0} = \displaystyle \frac{\$2}{6\%} \\ \text{P0} = \displaystyle \$33.33 {/eq}
+Step 2: Estimate the cost of common equity:
+{eq}\text{Cost of common equity} = \displaystyle \frac{\text{D1}}{\text{P0} \times (1 - \text{Flotation cost})} + \text{g} \\ \text{Cost of common equity} = \displaystyle \frac{\$2}{\$33.33 \times (1 - 3\%) } + 4\% \\ \text{Cost of common equity} = 10.19\% {/eq}",Cost Of Common Equity: The cost of common equity is one of the main financing cost components to estimate a company's average cost of capital. The cost of common equity is usually greater than the cost of long-term debt dye to higher flotation costs.,,,C
+6,"If a required rate of return increases, what is the impact on the following?",Present value of an annuity,Future value of an annuity,The market value of a bond,,A,"a. To estimate the present value of an annuity, all payments are discounted to today at the required rate of return. Thus, an increase in the required rate of return will lower the presets value of an annuity.
+b. An increase in the required rate of return will raise the compounding factor associated with each payment. Briefly, the future value of an annuity will increase accordingly.
+c. The market value of a bond should reflect its fair value, which is the present value of all expected coupons and par value. The required rate of return and the bond's present value have an inverse relationship, which causes a decrease in the market value of a bond in this case.","Required Rate Of Return: The required rate of return on investment can be determined as the investor's opportunity cost since the investor must give n up other available investments. Generally, the required rate of return has a direct relationship with the investment's risk level. With that being said, if an investment become riskier, its corresponding required rate of return should increase to account for a risk premium.",,,A
+7,"If the expected return were above the required return, investors would buy an asset driving its price up and its expected return down.",True,False,,,A,"The statement is
+TRUE.
+If the expected return exceeds the required rate of return, it indicates that the asset is profitable. Thus, it is relevant to execute a purchase decision. Consequently, the price of the asset will increase due to a rise in its demand. Simultaneously, the expected rate of return will approach to the required rate of return since the price of an asset and an associaed rate of retunr have an inverse relaitonship.","Required Rate Of Return: Theoretically, a required rate of return on investment should be considered as a minimum percentage return that is to accept a project. This required rate of return can be estimated by evaluating the project's forecasted cash flows.",,,A
+8,"If the risk-free rate is 10.1 percent and the market risk premium is 4.2 percent, what is the required return for the market?",4.2 percent.,5.9 percent.,14.3 percent.,10.1 percent.,C,"The correct answer is
+C. 14.3 percent.
+The required rate for the market can be determined using the Capital Asset Pricing Model (CAPM). CAPM utilizes the systematic risk or beta of a stock to estimate the returns required from an investment in that stock. However, the market beta will always be one since it reflects the market index employed in the model.
+Given information:
+Risk-free rate: 10.1%
+Market-risk premium: 4.2%
+{eq}\begin{aligned} \text{Required return for the market} &=\text{Risk-free rate}+\left( \text{Beta}\times \text{Market risk premium} \right) \\ &=10.1\%+1\times 4.2\% \\ &=10.1\%+4.2\% \\ &=14.3\% \end{aligned} {/eq}",Market Index: A market index is a portfolio of investments that exhibits close correlations with the overall financial market. It serves as a representation or proxy for the vast financial market.,,,C
+9,"If the risk-free rate is 8.5 percent and the market risk premium is 3.0 percent, what is the required return for the market?",8.5 percent.,3.0 percent.,5.5 percent.,11.5 percent.,D,"The correct answer is
+d. 11.5 percent.
+Given information:
+Risk-free rate: 8.5%
+Market risk premium: 3.0%
+Determine the required return for the market as follows:
+{eq}\begin{aligned} \text{Market risk premium} &=\text{Required return for the market}-\text{Risk-free rate} \\ 8.5\% &=x-3\% \\ x &=8.5\%+3\% \\ &=11.5\% \end{aligned} {/eq}
+The market risk premium is the additional return that investors require because they are not choosing a risk-free investment. The risk premium denotes the compensation for taking on risk. It is expressed as the difference between the market rate and the risk-free rate.
+Note: 'x' denotes the required return for the market.","Capital Asset Pricing Model: The capital asset pricing model uses inputs such as the risk-free rate, market risk premium, and the respective beta coefficient to determine a fair return that the security must provide.",,,D
+10,"Internet Corporation has an EBIT of $1 million, 30% debt in their capital structure, and total capital of $10 million. Their tax rate is 35%. What is their return on capital employed (ROCE)?",6.5%,10.0%,33.33%,21.67%,B,"The correct answer is
+option b. 10.0%.
+Given information:
+EBIT = $1,000,000
+Debt weightage = 30%
+Total Capital = $10,000,000
+Tax rate = 35%
+Calculate the return on capital employed by dividing the earnings before interest and taxes by the total capital.
+{eq}\begin{aligned} \text{Return on Capital Employed} &=\frac{\text{Earnings Before Interest and Taxes}}{\text{Total Capital Employed}} \\ &=\frac{\$1,000,000}{\$10,000,000} \\ &=10\% \end{aligned} {/eq}
+The return on capital employed is 10%.",Return on Capital Employed: The overall return that the firm has been able to generate on the amount of total capital invested in the business is known as the return on capital employed. It allows for comparing the overall performance of the firm against that of its peers.,,,B
+11,The investor's required rate of return will equal the firm's cost of capital if corporate transaction costs are taken into account.,True,False,,,B,"The statement 'The investor's required rate of return will equal the firm's cost of capital if corporate transaction costs are taken into account' is
+false
+as the corporate transaction costs may impact the cost of capital by raising the entire cost of financing for the firm. The investor's required rate of return will be determined by their evaluation of the risks and returns involved with the investment. Thus, the required return rate is not comparable to the firm's cost of capital.",Cost of Capital: The cost of capital is used as a standard for measuring the profitability of investments and whether they are worthwhile to pursue. It depends on the company's debt instrument's interest rate.,,,B
+12,The minimum acceptable rate of return for a project is the required rate of return.,True,False,,,A,"The correct answer is option
+a. True
+.
+The minimum acceptable rate of return for a project represents the rate of return required by the investors. It is used as a discount rate to come up with the net present value of a project.
+The income amount earned on a project in excess of the minimum required return is called the residual income.","Minimum Rate of Return: In accounting and finance, the minimum acceptable rate of return is used to decide whether a project should be accepted or rejected. If the calculated rate of return on a project is more than the minimum acceptable rate of return, it is considered investible.",,,A
+13,"The stock of Delta Electrical, Inc., has a beta of 0.98. The market risk premium is 9 percent and the risk-free rate is 2.4 percent. What is the expected return on this stock?",8.91 percentB) 9.43 percentC) 10.67 percentD) 11.22 percentE) 13.22 percent,,,,A,"We are given the following information:
+Beta, β = 0.98
+Market risk premium = 9%
+Risk-free rate = 2.4%
+We can estimate the expected return on this stock with the following formula:
+{eq}\text{Expected return} = \displaystyle \text{Risk-free rate} + \text{Market risk premium} \times \beta \\ \text{Expected return} = \displaystyle 2.4\% + 9\%\times 0.98 \\ \text{Expected return} = 11.22\% {/eq}
+The answer is
+(D) 11.22%
+.",Required Rate Of Return: The required rate of return on a stock can be estimated from the market perspective by using the Capital Asset Pricing Model (CAPM). The required rate of return is directly affected by the systematic risk if its beta coefficient is positive.,,,C
+14,Which one of the following statements is true?,The yield to maturity can be used as the cost of debt when bonds are traded in the market.,After cost of debt is greater than the before tax cost of debt due to the tax advantage.,Cost of external equity is less than the cost of internal equity because of issuance costs.,Component costs of capital represent historical costs rather than marginal costs.,A,"a. Correct. From the firm's perspective, the bond's yield to maturity is also the firm's cost of debt.
+b. Incorrect. Due to an interest tax shield, the after-tax cost of debt is always less than the before-tax cost of debt.
+c. Incorrect. The cost of external equity is more than the cost of internal equity due to the flotation costs.
+d. Incorrect. The component costs of capital reflect its current financing cost in the long run, which are not historical costs. In addition, each component cost of capital also represents the additional financing cost to acquire more capital in a firm. Hence, these component costs of capital can be treated as marginal costs.","Average Cost Of Capital: The firm's average cost of capital is an important measure of the financing cost to fund the firm's total assets. It includes the cost of debt, cost of equity and cost of preferred stocks.",,,A
+98,A decrease in market-wide interest rates will result in a/an:,increase in the cost of equity capital.,decrease in the cost of equity capital.,increase in the cost of debt.,decrease in the demand for fixed-rate bond investments.,A,"The correct option is
+b
+.
+A positive or negative change in market interest rate will cause a positive or negative impact and result in change in the cost of equity as there exist a direct relation between interest rate and cost of equity. Thus, decrease in market wide interest rate will cause decrease in the cost of equity capital.
+The explanation for incorrect options:
+Option a: Decrease in market wide interest rate will cause increase in the cost of equity capital under the condition if there will be an inverse relation but there exists a direct relation between interest rate and cost of equity capital.
+Option c: Increase in cost of debt is not possible because both equity and debt financing have costs, and both are affected by interest rates in a similar manner.
+Option d: Bond prices and market interest rates generally move in opposite directions, which is a fundamental principle of bond investing. Fixed-rate bond prices fall when market interest rates rise. This is referred to as interest rate risk.",Cost of equity capital The cost of equity is the return required by a company to determine whether an investment meets capital return prerequisites. It is frequently used as a capital budgeting criterion for the required rate of return by companies.,,,B
+99,"Doris Corporation's stock has a market price of {eq}\$20.00
+
+{/eq} and pays a constant dividend of {eq}\$2.50
+
+{/eq}. What is the required rate of return on its stock?","{eq}13.0\%
+
+{/eq}.","{eq}12.5\%
+
+{/eq}.","{eq}12.0\%
+
+{/eq}.","{eq}11.5\%
+
+{/eq}.",B,"The answer is
+B. 12.5%
+Summary:
+Price = $20
+Constant dividend = $2.50
+Determine the required rate of return on the stock:
+{eq}Required\:rate\:of\:return = \displaystyle \frac{Constant\:Dividend}{Price} {/eq}
+{eq}Required\:rate\:of\:return = \displaystyle \frac{\$2.50}{\$20} {/eq}
+{eq}Required\:rate\:of\:return = 0.125 \ or \ 12.50\% {/eq}
+The required rate of return on this stock is 12.50%.","Dividend: A dividend is a capital distribution to the firm's shareholders. It reduces the total equity capital held in the firm. In practice, investors can estimate the intrinsic value of a stock by discounting all expected dividends.",,,B
+100,"Holding all other things equal, as the relative amount of debt in the capital structure of the firm increases, the cost of equity capital will _____.",increase,decrease,remain unchanged; there is no relationship between the two,"initially rise rapidly, then increase slowly",A,"The answer is
+a. increase.
+According to the M&M proposition II, the cost of levered equity will increase if the capital structure has an increase in debt capital, holding all other things equal.
+M&M II:
+{eq}\displaystyle r_{levered} = r_{unlevered} + \frac{Debt}{Equity} \times (r_{unlevered} - r_{debt}) {/eq}","Cost Of Equity: The firm's cost of equity is its financing cost on owners' capital. From the perspective of the business owners, it is the required rate of return on capital invested in the operations. Note that an increase in the cost of equity will increase the firm's average cost of capital.",,,A
+101,"If you started out with $100,000 in total capital with all equity and then incurred $40,000 of debt, your new capital structure would be:","$50,000 Debt, $50,000 Equity","$60,000 Debt, $40,000 Equity","$40,000 Debt, $60,000 Equity","$40,000 Debt, $40,000 Equity",C,"The correct answer is option
+c. $40,000 Debt, $60,000 Equity
+.
+In the given scenario, the initial value of equity is $100,000, out of which, $40,000 was replaced with debt later. Hence, the
+revised equity is $60,000
+(i.e. $100,000 - $40,000) and
+debt is $40,000
+.","Capital Structure: The capital structure of a firm represents the proportion of various sources of funds used to finance the assets on a given date. These sources could be debt, common equity, and preferred equity.",,,C
+102,"In replacement analysis, the PW method is the best method to solve a problem.",True,False,,,B,"The statement is
+False
+.
+The best approach to solving a replacement analysis problem depends on the nature of the problem itself as well as the objectives, constraints, and available resources. The Payback period (PW) method is a straightforward approach that can be used for preliminary project screening, but it has a few drawbacks and ignores the value of time. For a more in-depth analysis of investment projects, other techniques like  NPV,  IRR, and the Benefit-Cost Ratio (BCR) may be more suitable.",Net Present Value: An investment's value can be calculated by using a financial statistic called net present value (NPV). It is the present value of all of the cash flows that are anticipated in the future from an investment.,,,B
+103,One way to think about the required rate of return is:,as the highest return a risk-averse investor wants from an investment.,as the risk-free rate of return plus a risk premium.,as the historical rate of return plus a risk premium.,as a comparison between the expected and historical rates of return.,A,"A. Incorrect. The required rate of return should be the minimum acceptable rate of return on investment.
+B. Correct. By giving up a risk-free asset, and taking another investment, an investor will require an additional return to offset the risk premium associated with the investment. Hence, the required rate of return can be determined by adding the risk premium on top of the risk-free rate.
+C. Incorrect. The required rate of return is an expected rate of return, in which the use of the historical rate of return is not relevant.
+D. Incorrect. See part C.","Required Rate Of Return: A required rate of return on an investment considers all potential returns in a relationship with the initial cash outlays. For instance, a rate of return on a stock should include capital gain yield and dividend gain yield.",,,B
+104,The pre-tax cost of capital is higher than the after-tax cost of capital because:,interest expense is deductible for tax purposes.,principal payments on debt are deductible for tax purposes.,the cost of capital is a deductible expense for tax purposes.,dividend payments to stockholders are deductible for tax purposes.,A,"The answer is
+a. interest expense is deductible for tax purposes.
+After-tax Cost Of Capital = Weighted Cost of equity + Weighted Pretax Cost Of Debt x (1 - Tax rate)
+Since interest expenses are deducted from the firm's earnings, it will reduce the total amount of income tax liability. Alternatively, it offers an interest tax shield, which reduces the after-tax cost of debt. Consequently, it also decreases the after-tax cost of capital.","After-Tax Cost Of Capital: The after-tax cost of capital represents the effective cost of capital in a firm. In practice, capital budgeting approaches will usually obtain the after-tax cost of capital as the discount rate for cash inflows.",,,A
+105,Usually new companies have a lower cost of capital.,True,False,,,B,"This statement is False
+The capital cost is the minimum return a company calculates to seek capital-budgeted projects. An investor uses this as an evaluation tool to know the potential return on the investment. Generally, a company uses capital structure to finance the business expansion.
+The cost of capital is calculated by weighted average cost (WACC) derived from all the Capital sources. A new company's investment is always a crucial decision for new projects. It is essential to generate a return that increases the capital cost for the company to finance the project.
+If the cost of capital is lower, the project will not generate a return for the investors. Hence the new entities have a higher cost of capital, not lower.","Capital structure: Capital structure is a combined mixture of debt and equity, increasing the company's value. Capital structure is optimal when the marginal cost of debt and equity gets equal. It is different for every industry.",,,B
+106,"What is the cost of equity on a new issue of stock if the firm pays a $2 dividend with an expected growth rate of 7%? The current stock price is $40, but flotation costs on new issues are 10%.",10.4%,12.3%,12.9%,15.3%,C,"The answer is
+c. 12.9%.
+Summary:
+Current dividend (D0) = $2
+Growth rate (g) = 7%
+Offer price = $40
+Flotation cost = 10%
+Determine the cost of equity:
+{eq}Cost\:of\:equity = \displaystyle \frac{D0\times (1 + g)}{Offer\:price\times (1 - Flotation)} + Growth rate {/eq}
+{eq}Cost\:of\:equity = \displaystyle \frac{\$2\times (1 + 7\%)}{\$40\times (1 - 10\%)} + 7\% {/eq}
+{eq}Cost\:of\:equity = 12.9\% {/eq}",Cost Of Equity: The cost of equity is a component to determine the firm's average cost of capital. Note that the cost of equity is not affected by the corporate income tax since dividends are not tax-deductible.,,,C
+107,Which of the following statements concerning the required rate of return on stocks is true?,"If risk is reduced, the required return will decrease because more investors are risk-averse.",The required return on preferred stock is generally higher than the required return on common stock.,"The higher an investor's required rate of return, the higher the value of the stock.","The higher the risk, the higher the required return, other things being equal.",D,"The correct answer option is
+D) The higher the risk, the higher the required return, other things being equal
+.
+The required rate of return (RRR) refers to the minimum gains an investor would expect after investing in a particular security considering the risks and uncertainty associated with the security. If a stock is associated with high risk, the investor would invest in the same only with the intention of gaining high returns. So, for an investor to invest in a high-risk stock, it is a requirement that the stock is expected to provide higher returns, assuming that other things remain constant. So, with respect to the required rate of return on stocks, other things being the same, the higher the risk, the higher should be the required return.
+The evaluation of the incorrect options is as follows:
+A) As more investors become risk-averse, the required return will also drop if the risk is lowered: This statement is false because being risk-averse means being reluctant to take risks. This situation takes place with high-risk securities. Though the low risk is associated with low return, the risk-averse behavior of the investors is not the reason for the same.
+B) Preferential stock often has a greater required return than common stock does. This statement is false because preference share has low risk, as compared to common stock. So, the RRR on preferred stock is generally lower as compared to the RRR on common stock.
+C) The value of the stock increases as the investor's required rate of return rises: The value of the stocks is the result of the demand and supply forces in the market. It is not related to the investor's required rate of return or the rise in the same.",Rate of Return The rate of return refers to the percentage change in the price of the asset with respect to its original value or investment amount. It can be a positive or negative change. The rate of return on security depicts the profit earned or loss faced by investing in a security for a specified timeframe. It is calculated as a percentage change over the original or the investment cost of the security.,,,D
+176,"A business is considering a cash outlay of $300,000 for the purchase of land, which it could lease for $36,000 per year. If alternative investments are available that yield an 18% return, the opportunity cost of the purchase of the land is:","$36,000","$72,000","$18,000","$54,000",C,"The return amount that could be generated on the cash outlay is given by:
+{eq}\begin{align*}
+
+&= \text{Cash outlay * return percentage} \\[0.3 cm]
+
+&= $300,000 * 18\% \\[0.3 cm]
+
+&= $54,000
+
+\end{align*}
+
+{/eq}
+The opportunity cost is given by:
+{eq}\begin{align*}
+
+&= \text{Return amount earned on the cash outlay - lease amount if the land is purchased} \\[0.3 cm]
+
+&= $54,000 - $36,000 \\[0.3 cm]
+
+&= $18,000
+
+\end{align*}
+
+{/eq}
+The correct answer is option
+C. $18,000
+.",Opportunity Cost: The opportunity cost for a chosen alternative is the incremental net gain associated with the best alternative forsaken. The economic cost for a decision is the sum of explicit cost and opportunity or implicit cost.,,,B
+203,A proposed investment must earn at least as much as the _____ if it is to be deemed acceptable.,company cost of capital,risk-free rate,market risk premium,project cost of capital,D,"The answer is
+D. Project cost of capital
+A. Incorrect. A new investment should consider the firm's cost of capital as its required minimum rate of return if the firm and the new investment have the same degree of risk.
+B. Incorrect. Only government securities should expect to generate a rate of return at the risk-free rate. Other investments will involve other risk premium, meaning that the expected return should be higher than the risk-free rate.
+C. Incorrect. A particular investment will have a significant degree of risk, which is different from the entire market. Hence, the market risk premium is not relevant to be the investment's minimum rate of return.
+D. Correct. The sources of capital for a particular project might be different from the entire firm. And, there might be an adjustment to the project's cost of capital if it has a higher risk.","Cost Of Capital: The term of cost of capital refers to the financing cost to raise available capital for the entire firm or a particular project. In practice, a firm might raise its capital by selling stocks or bonds to external investors. In addition, the firm could borrow money from commercial banks as well.",,,A
+204,"Aaron Company is considering spending $100,000 for a new grinding machine. This amount could be invested to yield a 7% return. What is the opportunity cost?","$93,000","$7,000","$107,000","$100,000",A,"Correct option: Option A
+Computation of Economic profit:
+Amount invested
+$100,000
+Multiplied by; Percentage of return
+7%
+Amount of economic profit
+$7,000
+Computation of opportunity cost:
+Invested amount
+$`100,000
+Less: Economic profit (refer part A)
+$ (7,000)
+Amount of opportunity cost
+$93,000",Opportunity cost: The amount of gain that can earn from the alternative foregone is called opportunity cost. It represents a variation between the amount of investment and the profit earned from that particular investment. It helps in selecting the most profitable option concerning the investment decision.,,,B
+205,"According to pecking-order theory, managers will often choose to finance with:","new equity rather than debt, due to bankruptcy costs.","debt rather than new equity, to avoid reduced share price.","debt rather than retained earnings, to lower the WACC.","new equity rather than debt, to strengthen EPS.",B,"The correct answer is option
+B. debt rather than new equity, to avoid reduced share price.
+In corporate finance, peking-order theory suggests that the following order must be followed by a company when funding its business operation.
+Priority #1 - financing through internal funds;
+Priority #2 - financing through debt;
+Priority #3 - financing through equity.
+So, the correct answer is option
+B. debt rather than new equity, to avoid reduced share price.","Capital Structure: In corporate finance, the capital structure refers to the mixed capital financing to support business operations. It includes equity, reserves, debt, surplus, etc.",,,B
+206,"According to the 2nd M&M proposition, cost of equity does not depend upon which of the following?",The required return of firm's assets.,The firm's cost of debt.,The firm's stockholders.,The firm's debt-equity ratio.,A,"Option c
+is the right answer.
+Stockholders are a group of people who deal with the company in a direct or indirect capacity. The firm's stockholders are immaterial to the cost of equity (COE). The COE depends on the firm's return on assets, the degree of leverage used, and the cost of debt.
+Reasons for incorrect options
+Option a:
+The required return on a firm's assets affects the COE. With higher required returns, COE should deliver higher returns. Hence, option a is wrong.
+Option b:
+With a surge in debt, there is an interest burden that the company has to take. In the event of default, the downside of debt holders is limited, whereas equity holders have an unlimited downside, which prompts them to increase COE. Hence, option b is wrong.
+Option d:
+A higher debt-to-equity ratio will lead to a higher COE. Hence, option d is wrong.","Source of Capital: Traditional sources of capital for any business were previously confined to equity and debt. Among them, equity is the most expensive, whereas debt is considered the cheapest form of capital.",,,C
+207,Flotation costs are the highest on,mutual funds and bonds.,preferred stock.,bonds.,common stock.,D,"Correct Answer: Option D) common stock.
+Explanation:
+Flotation costs incur when a firm issues new security to raise capital. The cost of new equity is always higher than retained earnings because of the flotation costs. It incurs even when issuing preferred stock and bonds, but it is higher in common stock than the other two.","Sources of Capital: A corporate form of organization must have the capital for business expansion or investment in fixed assets. The sources of capital include common stock, preferred stock, bonds, debentures, etc.",,,D
+208,Flotation costs are the highest on,mutual funds and bonds.,preferred stock.,bonds.,common stock.,D,"Correct Answer: Option D) common stock.
+Explanation:
+Flotation costs incur when a firm issues new security to raise capital. The cost of new equity is always higher than retained earnings because of the flotation costs. It incurs even when issuing preferred stock and bonds, but it is higher in common stock than the other two.","Sources of Capital: A corporate form of organization must have the capital for business expansion or investment in fixed assets. The sources of capital include common stock, preferred stock, bonds, debentures, etc.",,,D
+209,The overall cost of capital is the:,Minimum rate a firm must earn on high risk projects.,Average rate of return a firm earns on its assets.,Rate of return on assets that covers the costs associated with the funds employed.,Cost of the firm's equity capital at which the market value of the firm will remain unchanged.,C,"The correct answer is option
+c. Rate of return on assets that covers the costs associated with the funds employed.
+The overall cost of capital for a firm is ascertained by taking into account the sources of funds, their weight in the overall capital, and their respective costs. The sources of funds are categorized into shareholders' equity and debt at a very high level. The rate of return generated on the assets of the firm that covers the total cost associated with all the funds may be called the overall cost of capital. It is also the minimum rate of return required by all the investors of a firm.","Cost of Capital: In the context of finance, the net present value of a project is the net value that would be added to the investors' wealth if a given project is undertaken. It is inversely related to the overall cost of capital or funds deployed for the project.",,,C
+210,The required rate of return used to calculate an investment's net present value is related to the firm's _____.,contribution margin,cost of capital,total assets,price/earnings ratio,B,"Correct Answer:
+Option b. cost of capital
+.
+Explanation:
+a. contribution margin
+It represents the difference between the sales and variable costs and is unrelated to net present value.
+b.
+cost of capital
+The cost of capital is the required return that a company uses to discount the present value of the cash flows generated from the investments.
+c. total assets
+Total assets are the company's economic resources unrelated to net present value.
+d. price/earnings ratio
+It indicates the number of times the market price exceeds the earnings unrelated to net present value.","Capital Budgeting: The capital budgeting process helps determine whether any investment alternative the company is evaluating is worth the capital expenditure. The techniques include net present value, profitability index, and others.",,,B
+211,What is it called when the federal government's revenue equals its expenses?,A lowered budget,A balanced budget,A fiscally balanced budget,Fiscal net,B,"It is called a
+b) balanced budget
+when the federal government's revenue equals its expenses.
+A balanced budget occurs when tax revenues are equal to government expenditures and the government does not run a deficit. A balanced budget may not mean that the national debt is decreased, only that it is not increased due to the current years' spending and taxation.","Federal Budget: The president proposes a budget to Congress each fiscal year and the legislature is tasked with developing and passing a budget for the federal government each year. In the event that the budget is not completed before the fiscal year, Congress can pass a continuing resolution that projects the past year's budget out for a set period of time.",,,B
+212,What is it called when the federal government's revenue equals its expenses?,A lowered budget,A balanced budget,A fiscally balanced budget,Fiscal net,B,"It is called a
+b) balanced budget
+when the federal government's revenue equals its expenses.
+A balanced budget occurs when tax revenues are equal to government expenditures and the government does not run a deficit. A balanced budget may not mean that the national debt is decreased, only that it is not increased due to the current years' spending and taxation.","Federal Budget: The president proposes a budget to Congress each fiscal year and the legislature is tasked with developing and passing a budget for the federal government each year. In the event that the budget is not completed before the fiscal year, Congress can pass a continuing resolution that projects the past year's budget out for a set period of time.",,,B
+213,"What is the Economic Value Added (EVA) for a firm that is entirely equity financed with $1 million in capital, $300,000 in after-tax operating income, and a 20% cost of capital?","$140,000","$500,000","$220,000","$100,000",D,"The correct option is $100,000 (D).
+The calculation for economic value added is shown below.
+Economic value added = After-tax operating income - (Capital * Cost of capital)
+Economic value added = $300,000 - ($1,000,000 * 20%)
+Economic value added = $300,000 - ($1,000,000 * 0.20)
+Economic value added = $300,000 - $200,000
+Economic value added = $100,000",Cost of Capital: The total amount of money paid by a company to the equity shareholders as well as debt shareholders is called as cost of capital. This value is useful for determining the minimum required rate of return from the Investments.,,,A
+214,"When new capital must be raised for an expansion project, flotation costs should:",be deducted from the operating cash flows.,increase the initial investment outlay.,be ignored.,,B,"The answer is
+b. increase the initial investment outlay.
+The flotation costs occur for a single time during the lifetime of the project. Thus, the analyst should include it in the initial cash outlays of the project. Flotation costs should not be spread out over the lifetime of the project as it is an one-time cost, which is not a recovery cost as depreciation.","Capital: Within a firm, its total capital refers to the financial sources to fund the firm's assets. In practice, there are following sources of capital: equity capital, and debt capital. Each type of capital will have both advantages and disadvantages, which affects the firm's average cost of capital.",,,B
+215,Which of the following is true of debt securities?,Debt securities represent ownership interests of the investors.,Debt securities typically pay interest for a fixed period.,Debt securities entitle the holder to receipt of a share of profit in the form of dividends.,Debt securities include preferred stocks.,B,"The correct answer is option B.
+Option B: The debt securities give the investor the right to receive fixed interest payments together with the principal payments at a prespecified date for a defined period of time.
+Option A is incorrect because debt securities are a type of loan that does not indicate the ownership interests of investors. The investors are not the possessor of the firm; they are the lenders of capital to the firm.
+Option C: The debt holders are paid a fixed interest payment. They are not paid dividends from the profit generated by the firm, as debt holders do not have the right to a share of the profits of the firm. Therefore, option C gets eliminated.
+Option D is not the right option because debt securities consist of bonds. Debt securities and preferred stock are two different types of financial instruments.",Debt Securities Financial instruments that guarantee a regular flow of interest payments to investors are described as debt securities. The lender of debt is the entity that has the right to receive fixed principal and interest payments at pre-decided dates from the borrower.,,,B
+216,Which of the following statements is CORRECT?,"Suppose you are managing a stock portfolio, and you have information that leads you to believe the stock market is likely to be very strong in the immediate future. That is, you are convinced that the market is about to rise sharply. You should sell your high-beta stocks and buy low-beta stocks in order to take advantage of the expected market move.","Suppose of two stocks A and B, where A has a beta of 1.23, while B has a beta of 0.67. The stocks each have the same standard deviation as the market. The returns on Stock B must have a lower correlation with returns on the market than on Stock A.","You think that investor sentiment is about to change, and investors are about to become more risk averse. This suggests that you should re-balance your portfolio to include more high-beta stocks.","If the market risk premium remains constant, but the risk-free rate declines, then the required returns on low-beta stocks will rise while those on high-beta stocks will decline.",A,"a. The answer is incorrect. If the market is to rise sharply, then the stocks with a high Beta will rise even more sharply than the market. Thus, you shouldn't sell them yet.
+b. The answer is correct. A stock's Beta can be calculated by first dividing standard deviation of the stock by that of the market and multiplying the outcome by the correlation of the stock with the market. Now, since both stocks have the same standard deviation, stock B must have a lower correlation since it's value is smaller than that of stock A.
+c. The answer is incorrect. Risk averse investors would prefer stocks with lower volatility/risk. However, high Beta stocks imply a higher volatility than the overall market.
+d. The answer is incorrect. The required rate of return on a stock(RRR) in terms of risk free rate of return(Rf), market risk premium(MRP) and the Beta, is given by the following formula;
+{eq}RRR = Rf+Beta* MRP
+
+{/eq}
+Looking at the formula above, we can easily see that if the Rf declines and MRP remains constant, then the stocks with a higher Beta will produce a higher RRR than the stock with a lower Beta.","Beta of a Stock ""Beta"" basically measures a stock's volatility in comparison to the overall market volatility. For example, a stock with a Beta of 1 has the same volatility as the market. On the other hand, a stock with a Beta of greater than 1 will have a higher volatility than the market; meaning it will go up more than the market if the market goes up, and go down more than the market if the market goes down. In the case of Beta of less than 1, the situation is just the opposite.",,,B
+217,Which one following will lower required rates of return?,Higher rates of inflation.,Lower rates of inflation.,Higher risk premiums.,Lower dividend yields.,A,"Option B, Lower Inflation Rate
+is correct.
+With a lower or decreased inflation rate, an investor's risk return also decreases. Returns are composed of real returns and inflation. Let's say an investor wants 10% returns from an instrument bifurcated into 4% as an inflation return and 6% as a real return. In this case, assume that the inflation rate has dropped to 3%. In this case, the investor will now get 9% as an expected return, as real returns are usually constant in normal conditions.
+Option A: As the inflation rate rises, the RRR also rises because the investor must now earn more to compensate for the increased inflation. Hence, option a is wrong.
+Option C: Higher risk premium attributed to the higher riskiness of an instrument. To cater to higher risk, an investor will seek higher returns, leading to a surge in RRR. Hence, option c is wrong.
+Option D: Lower dividend yield indicates that the dividend paid is significantly lower in comparison to the market price. Thus, the investors want a higher RRR to compensate for the risk. Hence, option d is wrong.","Required Rate of Return: The Required Rate of Return (RRR)  is the minimum return an investor wants to achieve or requires against the instrument's risks. Different financial instruments have different risk and return profiles, and it is based on these profiles that potential investors invest.",,,B
+218,Which one of the following lists presents the order of financing from most preferred to least preferred according to the pecking-order theory?,"Debt issue, stock issue, internally generated funds","Internally generated funds, debt issue, stock issue","Stock issue, internally generated funds, debt issue","Internally generated funds, stock issue, debt issue",B,"The correct answer is option
+B. Internally generated funds, debt issue, stock issue.
+Under pecking-order theory, companies must finance their business operation using the following funding sources.
+Priority 1 = Intenal Financing
+Priority 2 = Debt
+Priority 3 = Equity Financing
+So, the correct answer is option
+B. Internally generated funds, debt issue, stock issue.","Capital Structure: In corporate finance, knowing the capital structure present in the business is significant. Through this, an investor can assist if he/she will pursue his/her investments.",,,B
+309,"Dorpac Corporation has a dividend yield of 1.4%. Dorpac's equity cost of capital is 8.3%, and its dividends are expected to grow at a constant rate.",What is the expected growth rate of Dorpac's dividends?,What is the expected growth rate of Dorpac's share price?,,,A,"The growth rate of share price is known as the capital gains yield and it is equal to the growth rate of dividends on the share.
+The sum of dividend yield (DY) and the capital gains yield is equal to the cost of capital of equity (ke).
+Let the growth rate be g.
+a. The expected growth rate of dividends will be calculated as follows:
+{eq}\begin{array}{l}
+
+g = ke - DY\\
+
+g = 8.3\%  - 1.4\% \\
+
+g = 6.9\%
+
+\end{array}
+
+{/eq}
+Thus, the growth rate of dividends is equal to 6.9%.
+b. The growth rate of share price i.e., Capital gains yield is equal to the growth rate of dividends.
+Thus, the growth rate of share price is 6.9%.",Dividend Yield: Dividend yield refers to the amount earned through returns on a stock in the form of dividends. This rate is calculated in the form of a percentage by dividing the next dividend to be received by the current share price of the stock.,,,A
+310,"The company cost of capital for a firm with a 75/25 debt/equity split, 7% cost of debt, 15% cost of equity, and a 30% tax rate would be:",7.43%.,8.63%.,9.00%.,13.80%,A,"Option (A) is correct
+Calculation of the cost of capital:
+{eq}\begin{align*}
+
+{\rm\text{Cost of Capital}} &= Ke \times We + Kd\left( {1 - {\rm\text{Tax Rate}}} \right) \times We\\
+
+&= 15\%  \times 25\%  + 7\% \left( {1 - 0.30} \right) \times 75\% \\
+
+&= 7.43\%
+
+\end{align*}
+
+{/eq}","Debt-to-Equity Ratio: The debt-to-equity ratio is used to ascertain the contribution of debt or equity in the total capital of the company. A high amount of debt provides high leverage. But sometimes, it increases the obligation to pay the debt.",,,B
+311,The firm's cost of retained earnings is the rate of return stockholders require on a firm's common stock.,True,False,,,B,"The above statement is false as the Retained earnings are whatever is left with the business after making all payments; it is the final rate of return that the stockholders earn from business operations. Therefore, we can say that it is a part of the cost of equity.","Cost of equity: It is the rate of return that the company's shareholders expect to receive on its investment in equity shares of the company. In other words, it is the compensation that it receives in return for their investment in the company.",,,A
+341,A firm's stock is selling for $85. The dividend yield is 5%. A 7% growth rate is expected for the common stock. The firm's tax rate is 32%. What is the firm's cost of common equity?,12.00%,12.35%,can not be determined,,A,"Correct Answer: Option A) 12.00%.
+Explanation:
+Cost of equity = Dividend yield + Growth rate
+Cost of equity = 5% + 7%
+Cost of equity = 12%",Cost of Equity: The cost of equity is the required return that investors expect from the investment in the shares of a company. It can be determined using the dividend growth model and the capital asset pricing model.,,,A
+342,"New buyers of Simmonds Inc. stock expect a return of about {eq}22\%
+
+{/eq}. The firm pays flotation costs of {eq}9\%
+
+{/eq} when it issues new securities. What is Simmonds' cost of equity?",From retained earnings?,From new stock?,,,A,"Answer (a)
+Given that the buyers of Simmonds Inc. stock expect a return of 22%.
+So, the cost of retained earnings for Simmonds Inc. would be
+22%
+Answer (b)
+If Simmonds Inc. issues new stock, then it would have to pay floatation costs of 9%.
+This would increase the cost of new equity.
+{eq}\text{Cost of new equity} = \text{Expected rate of return} * (1 + \text{Flotation cost})
+
+{/eq}
+{eq}\text{Cost of new equity} = 0.22 * (1 + 0.09)
+
+{/eq}
+{eq}\text{Cost of new equity} = 0.22 * (1.09)
+
+{/eq}
+{eq}\text{Cost of new equity} = 0.2398
+
+{/eq}
+{eq}\text{Cost of new equity} = 23.98\%
+
+{/eq}",Cost Of Capital: The cost of capital is the cost of the company's funds. We generally represent the cost of capital as a percentage. The companies that involve high risks have a higher cost of capital.,,,B
+343,Which of the following are not considered a part of the firm's capital structure?,Long-term debt,Retained earnings,Inventory,Preferred stock,C,"The correct answer is
+c. Inventory
+.
+The capital structure of a business organization defines the proportionate use of various securities to finance the business assets to operate the business activity; it includes long term debts, various forms of stocks such as common stock, preferred stock, and so on. But it does not include the inventory as it is part of the assets of the company.",Capital: The capital of a corporation is described as the monetary value of its resources that it has available to satisfy its everyday operations and support the future expansion and growth of the corporation.,,,C
+344,Which of the following best describes a firm's cost of capital?,The average yield to maturity on debt,The average cost of the firm's assets,The rate of return that must be earned on its investments in order to satisfy the firm's investors,The coupon rate on preferred stock,B,"The answer is
+b. The average cost of the firm's assets
+The firm's capital will be raised and reinvested in the firm's assets. Hence, the firm's cost of capital is also the average cost of the firm's assets.",Cost Of Capital: A manager will need to determine the firm's cost of capital before a project's assessment. A change in the cost of capital will affect the assessed value of the project.,,,C
+379,The investor's required rate of return differs from the firm's cost of capital due to the:,firm's beta.,tax deductibility of interest.,CAPM.,time value of money.,B,"Correct answer is Option b.
+It is the expectations of the investor for return that makes up the cost of capital for the firm. However, the two differ when there is an involvement of debt. The interest payable on debt is the cost of using debt as the source of financing.
+Depending upon the riskiness of the investment and credit worthiness of the firm, the investor requires a minimum interest on debt.
+However, interest on debt is deducted from the Net operating income before assessing the taxable amount. Thus, the cost of debt is lower for the firm as compared to the rate of interest paid to the investor.
+Explanation for incorrect answers:
+a: It is incorrect because the beta coefficient of the firm reflects the sensitivity of its returns with respect to the market rate of return. Since, it reflects the systematic risk on investment, the investor incorporates this element of risk into his required rate of return and chooses an investment which can compensate it for this risk.
+c: It is incorrect because CAPM reflects the expected return based upon the risk-free rate of interest and market risk premium for the investor and that is included in cost of capital for the firm as well.
+d: It is incorrect because time value of money calculates the absolute amount rather than relative percentages and the difference in cost of capital to the firm and the return to investor occurs in relative terms only.","Cost of Capital: The cost of capital refers to the compensation that a firm pays to its investors for the use of their funds. Depending upon various factors, like risk of the investment, market rate of return, etc., the investor have some expectations for return and that becomes the cost to the firm.",,,A
+380,The weights used to determine the relative importance of the firm's sources of capital should reflect:,book values in accord with generally accepted accounting principles.,"current market values for bonds, stock, and preferred stock and book values for retained earnings.",current market values.,subjective adjustments for firm risk.,C,"The answer is
+c. current market values
+To calculate the weighted average cost of capital, the weight of each capital component should be estimated according to the market value of each capital component. The use of market value will reflect the true value of the stocks, preferred stocks and bonds in the market.","Cost Of Capital: The firm's cost of capital represents the average cost of all sources of capital. It is also the required rate of return on the firm's assets. In practice, an increase in the cost of capital will decrease the value of a project.",,,C

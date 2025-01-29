@@ -1,0 +1,245 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,Financial capital does not include:,stock,bonds,preferred stock,working capital,A,"The correct option is
+D, i.e., working capital
+.
+Explanation:
+Working capital is the money available to a firm to fulfill its short-term operating expenditures and commitments. It is essential for a company's day-to-day operations since it can pay for costs. It may be accomplished by optimizing cash flow, maintaining inventory levels, and collecting outstanding consumer debts more efficiently. Thus, it is not financial capital for a company.
+The explanation for the incorrect options:
+Option A: Stock is financial capital that a company issues to its shareholders to generate capital through those investments.
+Option B: Bonds are the financial capital a company issues to raise funds which will be introduced into the company for furtherance.
+Option C: Preferred stock is a type of financial capital that firm issues to raise funds from the owners or purchasers of the stock.","Financial Capital: Financial capital is available monetary resources to allow investment in new entities, infrastructure, and other initiatives. Financial institutions manage this capital and provide services to people and firms.",,,D
+2,"Historically, the most widely accepted goal of financial management has been to:",analyze the risk associated with investments.,organize and manage a firm's resources.,help a firm fulfill its social responsibility.,maximize the value of a firm to its owners.,D,"The correct option is
+d. maximize the value of a firm to its owners.
+Explanation:
+In the past, the main focus of financial management was on maximizing shareholders' wealth. The ways were identified to provide increased returns to the shareholders. These returns were in the form of dividends and stock appreciation (increase in the value of the stock).
+Explanation for incorrect options:
+Option a. It is incorrect because analyzing the risks related to the investment was not the primary goal.
+Option b. It is incorrect because, in the early periods, there was no focus on the efficient utilization of resources.
+Option c. It is incorrect because social responsibility is a goal of the modern era.",Financial Management: Financial management is referred to as a technique used to manage and control the financial resources of a business entity. It assists the management in achieving its short-term and long-term objectives by measuring the current performances.,,,D
+3,"If the current assets and working capital of a concern are Rs. 80,000 and Rs. 50,000 respectively then current liabilities will be:","Rs. 1,00,000.","Rs. 70,000.","Rs. 1,30,000.","Rs. 30,000.",D,"The correct answer is option
+d. Rs. 30,000
+.
+The amount of current liabilities is given by:
+{eq}\begin{align*}
+
+&= \text{Current assets - working capital} \\[0.3 cm]
+
+&= 80,000 - 50,000 \\[0.3 cm]
+
+&= 30,000
+
+\end{align*}
+
+{/eq}",Working Capital: The working capital of a firm gives an estimate of the net funds available with a firm after paying off the short-term current liabilities. This metric is useful for a period of less than 1 year or 1 operating cycle.,,,D
+4,Maximization of shareholder wealth as a goal is superior to accounting profit maximization because:,it considers the time value of the money.,following the shareholder wealth maximization goal will ensure high stock prices.,a and b.,accounting profits are not the same as cash flows.,A,"The answer is
+option A.
+The maximization of shareholder wealth is when the company has invested in capital or a project that increases the firm's value. Its calculation considers all the future cash flows of the said investment, so these are discounted to today's value to evaluate if it increases the company's value. Because of that, it indeed considers the time value of the money. In contrast, accounting profit maximization considers only the current business performance, like the revenue generated and the profit earned. Option B is incorrect because maximizing shareholder wealth does not assure that stock prices will increase. Option D is also wrong because the statement does not mean maximizing shareholder wealth is superior to maximizing accounting profit. Thus, option A is correct.",Profit Maximation: Profit maximization is one of the company's goals to achieve its objectives of being successful in the future. It applies to generating revenue in its daily operations and making decisions on capital investments because these must be profitable to be pushed through.,,,C
+5,"True or False: An increase in current assets increases net working capital, thereby reducing the risk of technical insolvency.",True,False,,,A,"The statement is true.
+A company's cash convertibility is measured by its net working capital, which evaluates if it has sufficient current assets to meet its current liabilities. Trade Payables and accrued expenses are liabilities a business must pay off during a year. Assets that can quickly convert into cash, such as closing stock and sundry debtors, are considered current assets.
+The difference between current liabilities from current assets is termed net working capital. A specific commercial division's capacity to fulfill its existing aging commitments (less than twelve months) is called technical solvency. Thus, if there is an increase in current assets, there will be an increase in net working capital by reducing technical solvency risk.","Working Capital: Working capital is a liquidity measure in the company. The business has the resources to pay off the short-term obligation if there is positive working capital. If it is negative, then there is a credit crunch.",,,A
+6,"Using the maturity-matching principle, which of the following types of assets should be financed with long-term financing?",Fixed assets only,Fixed assets and temporary current assets,Fixed assets and permanent current assets,Temporary and permanent current assets,C,"Answer
+C. Fixed assets and permanent current assets.
+Under aggressive financing policy, long-term funds are utilized to finance fixed assets and a part of permanent current assets The remaining part of permanent current assets and the entire temporary current assets is financed by short-term funds. This approach is risky because part of the permanent working capital is financed by short-term sources, which may lead to liquidity problems.
+Under the conservative policy, long-term financing is used to meet fixed asset requirements, permanent current assets, and a portion of temporary current assets. The remaining portion of temporary current assets is financed by short-term funds. This will reduce the risk of short-term cash shortages but will reduce long-term profitability.
+Under the maturity matching principle, the maturity of the sources of finance matches the maturity of the assets being financed. Long-term financing is used to meet fixed asset requirements and permanent current asset requirements. short term financing is used to meet temporary current asset requirements.
+If a firm finances a long-term asset with short-term debt, then it will have to periodically refinance the asset whenever the short-term debt falls due. This is risky and also inconvenient. Hence this approach tries to ensure that the maturity of the asset and the life of the source of financing is properly matched.","Working Capital Financing Policy A firm can use different strategies to finance its capital requirements. These strategies are (1) conservative strategy, which involves low risk (2) aggressive strategy, which involves high risk, and (3) matching principle.",,,C
+7,Which of the following is a debt management service offered by commercial banks?,Leasing,Factoring,Brokerage,Safe keeping,B,"The correct answer is B.Factoring.
+Explanation:
+1. Factoring is a method banks use to sell their account receivables to a third party to obtain or recover the loan amount and meet immediate needs.
+2. The commercial bank sells the details of its accounts receivable to a third party, which immediately pays the receivables after deducting the basic factorage commission. This third party is then in charge of collecting the total loan amount and interest.
+3. Banks use factoring as a powerful tool for debt management and to prevent bankruptcy.",Debt Management Debt management is the process or technique of creating an action plan that aids in reducing an organization's debt load. Debt management is essential for handling urgent needs.,,,B
+8,Which of the following ratios would best disclose effective management of working capital by a given firm relative to other firms in the same industry?,a high rate of financial leverage relative to the industry average,a high number of days' sales uncollected relative to the industry average,a high turnover of net working capital relative to the industry average,a high number of days' sales in inventory relative to the industry average,A,"Option C is correct.
+A high turnover of Net working capital indicates effective management of working capital. It clearly shows how effective the current assets are utilized for meeting the current liabilities and generate revenues.
+Explanations for other options
+Option A: A high rate of financial leverage indicates that the investment made by the company are highly risky and hence earnings of the company are highly volatile.
+Option B: Days sales uncollected means the average collection period. Higher the average collection period is not good for a company.
+Option D: Days sales in inventory are more means the company is taking more days to sell its products in the market. Also, it indicates that there is no proper inventory management in the company.","Working capital management: Effective management of short-term assets and liabilities is known as working capital management. When there is efficient management of working capital, the company will have sufficient liquid funds to meet its current obligations.",,,C
+9,Working capital management is primarily concerned with the management and financing of _____.,cash and inventory,current assets and current liabilities,current assets,receivables and payables,C,"Correct Answer:
+Option c. current assets
+.
+We use the following formula to determine the working capital:
+Working capital = Current assets - Current liabilities
+Working capital is all about managing and financing the current assets so that the current obligations can be met. It is also used to manage the needs of daily operations.
+Why other options are incorrect?
+a. cash and inventory
+Cash and inventory form part of the current assets and don't constitute total current assets.
+b. current assets and liabilities
+Working capital doesn't manage or finance the current liabilities. It instead helps repay them using current assets.
+d. receivables and payables
+Receivables are part of current assets and don't constitute total current assets. Payables are current liabilities and are not managed by the working capital.","Liquidity: Liquidity means a company's ability to meet its short-term obligations that are due within a year. A company's liquidity position can be understood by looking at its liquidity ratios such as cash, current, and quick ratios.",,,B
+10,Working capital to support the demands of a new project must be funded with cash. The assets primarily associated with such working capital requirements include:,inventory and accounts receivable.,machinery and equipment.,land and buildings.,all of these.,A,"The correct option is A.
+A. The correct option because when a company takes on a new project, it may need to increase its inventory levels to meet the demand for its products or services. This requires cash to purchase or produce the additional inventory.
+Accounts receivable represents the amounts owed to a company by its customers for goods or services that have been sold but not yet paid for. When a company takes on a new project, it may need to extend credit to its customers to make sales. This results in an increase in accounts receivable, which ties up cash until the customers pay their bills.
+The explanation for the incorrect option:
+B. The incorrect option is because Machinery and equipment are typically long-term assets that are used to support a company's operations over years. While these assets may be used in a new project, they are not typically associated with working capital requirements because they do not tie up cash in the same way as inventory and accounts receivable.
+C. The incorrect option is because land and buildings are typically not considered part of working capital requirements because they are long-term assets that are not typically used in the day-to-day operations of the business. While they may be necessary for the project, they are not directly related to the company's ability to fund the working capital needs of the project.
+D. The incorrect option is because the correct answer is A, inventory, and accounts receivable. These assets are the primary drivers of working capital requirements and need to be funded with cash to support a new project. By contrast, machinery and equipment and land and buildings are typically funded with long-term financing and are not directly tied to a company's short-term cash needs.","Working Capital: Maintaining a healthy working capital balance is essential for the financial health of a business, as it ensures that the company can continue to operate and grow without running into cash flow problems.",,,A
+77,A small company needs fixed capital to expand and grow the business.,True,False,,,A,"The statement is true.
+Explanation:
+Small companies required capital for expanding their business. Corporate financing helps enterprises to make effective decisions to raise business capital and funding. Business capital includes finance, human resources, machinery, etc. A small company must have enough resources and funds for expanding its operations.","Corporate Finance: It refers to the business area that deals with the decision-making related to funding, investments, and business finance. It helps in generating allocation and maximization of business investment that returns revenue. It utilizes business capital effectively.",,,A
+78,An arbitrary amount assigned by the board of directors to each share of a given class of no-par stock is:,Redemption value.,Liquidation value.,Quasi-par value.,Stated value.,D,"Answer: Option d.
+Stated value refers to the value or amount allocated to a share for the purposes of internal accounting. This is done when a given stock does bot have a par value. It should be noted that a relationship does not exist between the stated value and the market price of shares. On the other hand, liquidation value refers to the amount the shareholders would get if a corporation makes discontinuation of its business operations. The shareholders would receive this amount after the corporation has settled all its debts or liabilities.","Corporate Finance Corporate finance engages in corporate funding sources, the structure of capital, and the decisions the management engages on behalf of the company and the shareholders. The decisions or actions of managers may contribute to the success or failure of a business. One of the aims of corporate finance is to ensure that stock increases in value for the benefit of stockholders.",,,D
+79,"Answer True or False: If a company gets into financial difficulty, it can use some of its shareholders' equity to pay its bills for a time.",True,False,,,B,"The statement is false. Shareholder's equity is the claim of the shareholder on the assets of a company and it is indicated on the liability side of the organization's balance sheet. Shareholder's equity, therefore, has already been put into use for a company to acquire assets. If it were dividends, then the company can suspend issuing of the dividend to shareholders to settle the company's bills for some time. However, as it stands, the owner's equity is the amount of money that shareholders would claim if the company assets get liquidated and after the company has paid off all its debts.","Corporate finance Corporate finance deals with corporation capital structure, funding sources, and decisions or the actions that are made by company managers to ensure that an organization increases in value for the benefit of shareholders. Corporate finance presents tools that are employed in the allocation of resources of finance. It should be noted that the maximization of shareholder value is one of the main goals of corporate finance.",,,B
+80,Enterprise Value represents the:,Market Value of Equity plus the dollar value of all 'in-the-money' dilutive securities.,Equity plus gross debt.,Value attributable to the owners of the business.,Value of all capital invested in a business.,C,"Answer: Option
+C. Value attributable to the owners of the business.
+Enterprise value refers to a measure of a given organization's total value. It is employed when calculating valuation ratios or metrics in case of a takeover. Therefore, enterprise value is equivalent to market capitalization plus total debt (short and long-term). Cash and other cash equivalents are not included in the determination of the enterprise value. In other words, it is the value of the company's operations that are attributed to the shareholders (those who provide capital) of a company.","Corporate Finance: Corporate finance deals with the decisions that managers make that are aimed at increasing the value of the company's stock. Also, it deals with the sources of corporate funding and the structure of the corporate capital. It should be noted that the main purpose of corporate finance is to ensure that the company's stock increases in value for the shareholders' benefit.",,,D
+81,"Greg and Sally have input values into the financial registers. To check to see if they have put in the numbers they intended, they use which function?",BGN,RCL,2nd,STO,B,"They use RCL (b).
+The RCL function is a Recall function that checks the values entered previously in the financial registers. It is therefore the correct option.
+BGN is used as a Begin mode.
+The 2nd function selects alternative functions for calculations.
+STO stores the values in the register.
+To check whether you put the intended numbers, the RCL function is used.",Financial register: The financial services register refers to a public record of organizations and individuals and various bodies that have been or are being regulated by the FCA. It lists firms or individuals that have been previously or currently approved that are involved in regulated activities. It indicates whether the firm one is using or plans to use is regulated.,,,B
+82,"Ideally, which of the following type of assets should be financed with long-term financing?",Fixed assets only,Fixed assets and temporary current assets,Fixed assets and permanent current assets,Temporary and permanent current assets,C,"Answer
+is C) fixed assets and permanent current assets
+Under conservative policy, long term financing is used to meet meet fixed asset requirements, permanent current assets and a portion of temporary current assets
+Under aggressive policy, long term financing is used to finance fixed assets and a part of permanent current assets. The remaining part of permanent current assets as well as the entire temporary current assets is financed by short term funds
+Under matching policy, long term financing is used to finance fixed assets and permanent current assets, while short term financing is used to finance temporary current assets.
+This is an ideal method of financing because the maturity of sources of finance matches the maturity of assets being financed. If a firm finances a long term asset with a short term debt, it will have to refinance the asset periodically as and when the short term debt becomes due..This is risky as well as inconvenient. Hence it is better to match the maturity of assets and the sources of finance.",Working Capital Financing Policy Determining the financing mix for its current assets is one of the important decisions in working capital management. The common strategies used by a firm to finance its working capital requirement are : (1) conservative policy (2) aggressive policy and (3) matching policy.,,,C
+83,In finance the primary goal of management is to:,utilize its economic resources in the most advantageous way,minimize all possible expenses,maximize shareholder wealth which is generally achieved by maximizing stock price,make the best use of its assets,C,"The correct answer is option
+c. maximize shareholder wealth which is generally achieved by maximizing stock price.
+The primary goal of management is to maximize shareholder wealth which is generally achieved by maximizing stock price. It is done by achieving the highest possible value of the firm by utilizing its economic resources efficiently and effectively. Maximizing stock price means increasing its market value, the reason why shareholders invest.",Financial Management: Financial Management means to plan and control the finances of the company. It is primarily concerned about raising financial resources and how to effectively and efficiently utilize them.,,,C
+84,"In the context of managing working capital, the hedging principle refers to which of the following?",protecting the firm against the risk of rising interest rates,speculation regarding the direction of short-term interest rates,matching the maturity of the source of financing to the cash flow generating characteristics of the asset being financed,the usage of interest rate swaps,C,"In the context of managing working capital, the hedging principle refers to
+c. matching the maturity of the source of financing to the cash flow generating characteristics of the asset being financed
+The heading principal for the working capital is the hedging of the interest rate risk. This can be measured by the duration of the current liabilities and can be matched with the cash flows.
+Let's analyze the inapplicable options:
+a. protecting the firm against the risk of rising interest rates - This is also hedging; however, this is a generalized definition.
+b. speculation regarding the direction of short-term interest rates - Speculation is taking a position even when one is not affected by it.
+d. the usage of interest rate swaps - This is a hedging tool and not hedging in particular.",Working Capital: The working capital is the capital of the firm that is used for the daily operations of the firm. It is the difference between the current assets and the current liabilities of the firm.,,,C
+85,Small Business Investment Companies (SBICs):,"prefer to finance companies in later stages rather than ""raw start-ups.""",only provide long-term debt financing to small businesses.,"cannot make their own investment decisions, which are controlled by the SBA.",loan money through debentures not requiring regular interest payments.,A,"The correct option A) prefers to finance companies in later stages rather than ""raw start-ups.""
+Small Business Investment Companies are private entities that provide financing to small businesses and start-ups through capital raised and bank loans. They prefer to finance companies in their later stage rather than new start-ups since later-stage companies have generated liquidity and the risk associated with them is lesser than that of a raw start-up.
+Reason for incorrect options:
+Option B) is incorrect because SBICs provides long-term as well as short-term equity and debt financing to small businesses.
+Option C) is incorrect because SBICs are allowed to make their own investment decisions and are regulated by the SBA.
+Option D) is incorrect because SBICs do not mainly provide loan money through debentures, and they expect regular interest payments.",Investment company: An investment company is a legal corporation formed to provide both equity and debt financing to a business in need of funds. They are willing to take on the risk of investing in small businesses in exchange for a high return on investment.,,,A
+86,Suppose a firm occasionally faces demand for short-term credit but usually has an excess of short-term capital to finance current assets.,Maturity matching approach,Conservative,Aggressive,,B,"The correct answer is letter
+b. Conservative
+.
+In a conservative approach, the firm uses the long term funds to finance the current assets of the firm, leaving the short term funds available for emergencies. This is at the end, capital that the firm can define as an excess of short term capital.","Conservative Approach (Working Capital): The Conservative Approach in Working Capital is a financial strategy that is used to increase the efficiency in the Working Capital. This approach propose to use long term financial sources to cover the current assets, while short term financial sources are left in case of emergencies.",,,B
+87,The Basic Corporate Finance Functions do not include which of the following?,external financing,risk management,corporate governance,corporate charter,C,"The definition of the following items are:
+A) external financing - External financing is a process of procuring funds from outside of the company. Usually companies apply for a line of credit from banks, or offer bonds to investors and the public.
+B) risk management - Risk management is the process of analyzing and preventing certain losses to be incurred by the company. The fund manager or investor tries to quantify the potential losses and implements certain actions or inaction to mitigate the risk.
+C) corporate governance - Corporate governance is a process that involves meeting the interest of the stockholders.
+D) corporate charter - Corporate Charter is a document created by the founders of the corporation.
+The basic corporate finance functions includes external financing, risk management and corporate governance. It does not include
+D) Corporate Charter.","Corporate Finance Corporate Finance is a process of sourcing funds for the company, manage the capital structure of the corporation and increase the value of the company to the stockholders.",,,D
+88,The following position(s) and/or department(s) is/are in the finance department under the CFO:,Treasurer,Controller,Accounting department,All of these are correct.,D,"The correct option is
+(d) All of these are correct
+.
+All the above-mentioned options are correct in the context of the finance department of the organization.
+A treasurer
+is responsible for maintaining relationships with institutions or arranging funds for the projects.
+The controller
+is responsible for controlling the accounting activities, which leads to regulatory compliance of a company.
+The accounting department
+is responsible for making and processing payments and receivables of the company.
+So, the position of the treasurer, controller and the accounting department plays a major role in the finance department under the CFO.",Accounting: Accounting is a profession where certain qualified and talented individuals are required to perform the financial functions of a company. It helps in representing the factual and correct information to the internal and external users of a company.,,,D
+89,The most common method used by commercial finance companies to provide credit to small businesses is:,asset-based.,insurance-based.,"unsecured lines of credit or ""character loans.""",balance-sheet based.,D,"The answer is A) asset-based.
+Asset-based financing is an extension of credit or a loan that is secured with a tangible asset such as land or receivables accounts.
+Insurance-based finance is when insurance benefits are issued in exchange for financial support. Unsecured lines of credit allow access to funds at any given time, making credit available as payments are made.",Commercial Finance Companies Commercial finance companies offer credit lines to business owners. These finance companies fulfill the role of support for companies in need of financial resources beyond their own limits. Commercial finance companies are also more lenient in their acceptance of new customers making it easier for business owners to launch their businesses.,,,A
+90,The treasurer is usually responsible the following functions of a corporation except:,Raising new capital,Cash management,Banking relationships,Internal accounting,D,"The answer is D.
+Internal accounting should be processed and monitored by account department, but not the treasurer.
+A treasurer will have following core responsibilities: cash management, liquidity management, raising capital, corporate finance, etc.","Treasurer: A treasurer would be the person who is responsible for the the firm's corporate finance, liquidity management, etc. This person will have to cooperate with internal and external stakeholders to ensure the business treasury will be running smoothly.",,,D
+91,What are the tools available for the manager in financial planning?,"Delaying disbursement of cash, reducing collection period, cash management, and Increasing inventory turnover.",Reducing collection period and delaying disbursement of cash.,Increasing inventory turnover and reducing the collection period.,Delaying disbursement of cash and cash management.,A,"The correct answer is
+a. Delaying disbursement of cash, reducing collection period, cash management, and Increasing inventory turnover.
+The firm can delay disbursement of cash without damaging its credit score by negotiating longer payment terms with the supplier.
+Increasing inventory turnover increases cash flow. A way to increase inventory turnover is Just-in-Time which requires virtually no inventories stuck at the warehouse.",Working Capital Management Working capital management is defined as a way of managing current assets and current liabilities which enables the company to freely move its resources and convert into cash while maintaining the liquidity and satisfying short-term debts and commitments.,,,A
+92,What is false about the cash flows between financial markets and firm's operations:,The corporation invests cash in firm operations.,The corporation raised cash from suppliers.,The corporation obtains cash from the firm's operations.,The corporation returns cash to investors.,A,"A. is true.  Investing cash in the firm's operations is also called capital budgeting.  It is the main reason corporations exist.
+B. is false.  The corporation purchases inputs from suppliers and pays with cash.
+C. is true.  The cash obtained from operations is the return on projects.
+D. is true.  Some of the cash from operations is paid out to investors.","Financial Management: Financial management is the process of directing the firm's cash flows in a way that maximizes shareholder wealth.  This may include, financing, investment, cash management, and risk management.",,,B
+93,When a liquidating corporation pays off an unsecured debt obligation:,the corporation recognizes any gains but not losses realized.,the corporation recognizes no gain or loss if it uses appreciated property.,the corporation recognizes losses but not gains realized.,the corporation recognizes no gain or loss if it uses cash.,D,"The correct answer is
+D. the corporation recognizes no gain or loss if it uses cash.
+This is because the fair value of the cash is equal to its book value. If the company were to use property which had increased in value, then there would be a gain.","What Is A Corporate Liquidation: A Corporate Liquidation is one of the steps taken before either dissolving a company or declaring bankruptcy. A Corporate Liquidation involves sellingallof a company's property (e.g. buildings, inventory, etc.) and settling all debt.",,,D
+94,Where does a corporation sell a new issue of common stock? (Points : 5),accounts receivable.,days inventory outstanding.,cash conversion cycle.,liquidity ratio.,A,"1. The correct answer is
+A.	The primary market
+All new shares, meaning not previously traded and held are traded in the primary
+2. The correct answer is
+D.	current assets minus current liabilities.
+Others do not represent the meaning of net working capital.
+3. The correct answer is
+C.	increases returns and decreases risk.
+An increase in assets relative to the total assets evidenced a profitable company hence the return increases as well.
+4. The correct answer is
+A.	greater than
+NPV represents the present value of the total cash flow of the project. Therefore, if the NPV is positive it indicates that the IRR is higher than its cost of capital, as the IRR is the rate of return which equals the NPV to zero.
+5. The correct answer is
+C.	cash conversion cycle.
+This is a metric used to calculate how long the business transaction will convert into cash.","Financial Management Financial management is a business discipline that focuses on the efficient use of the company's resources, debt, and equity through variety of methods like financial ratios, asset and liability management, etc.",,,D
+95,Which of the following does not reflect the practice of liability management on the part of banks?,increases bank holding of excess reserves,an increased emphasis on bank profits,increased used of negotiable CDs to raise funds.,an increased proportion of bank assets held in loans.,D,"The correct option is
+d. an increased proportion of bank assets held in loans.
+Bank loans are part of the bank's total assets and it is part of the asset management and not liability management.","Financial Management Financial management is a process of managing the company's financial operations, particularly the efficient and effective use of assets, liabilities, and capital. This is usually the work of financial managers to keep the company's finances in shape.",,,A
+96,Which statement relating to ordinary shares is not true?,The market price of ordinary shares tends to fluctuate with expectations of future profits.,Ordinary shares receive their dividends after the preference shares.,Ordinary shares have a fixed rate of dividend attached.,Holders of ordinary shares have the right to sell their shares.,C,"Answer: Option c.
+Ordinary shares are also referred to as common stock.  An ordinary share represents equity ownership in a given organization. The ordinary shares give shareholders the voting rights (one vote for every share). It should be noted that dividend payment on ordinary stock fluctuates depending on an organization's performance. A corporation is required to issue ordinary shares as stipulated in the corporation's articles of association.","Corporate Finance Corporate finance concerns itself with the decisions that managers make to ensure that a given company is profitable. also, corporate finance deals with funding sources of a given organization. The aim of corporate finance is to provide strategies that would ensure the value of the stock of a company increases in value.",,,C
+97,Why is it important to understand accounting when studying finance?,Net income is used to calculate the net present value (NPV) of a proposed investment.,Companies distribute net income to shareholders in the form of dividends.,A business cannot go bankrupt if it is generating profits on its income statement.,It is important to understand why the profits reported on a company's income statement differ from the actual cash generated by the firm's activities.,D,"Why is it important to understand accounting when studying finance?
+d. It is important to understand why the profits reported on a company's income statement differ from the actual cash generated by the firm's activities.
+The accounting rule being used to report earnings may allow some items which may not be real earnings. Finance adjusts them to analyze true earnings. Hence knowledge of accounting is important.
+Let's analyze the incorrect options:
+a. Net income is used to calculate the net present value (NPV) of a proposed investment. - NPV is calculated using cash flows and not Net Income.
+b. Companies distribute net income to shareholders in the form of dividends. - True, but it doesn't have anything to do with the problem at hand.
+c. A business cannot go bankrupt if it is generating profits on its income statement. - It can go bankrupt even if there is a profit as the managers may be cooking the books or it is generating a very low profit.","Financial Accounting: The fields of Finance and Accounting are intricately linked and one cannot do without the other. To analyze and report the income and earnings, manager require knowledge of both.",,,D
+180,"1. Which of the following makes this a true statement? Ideally, when searching for a beta for a new line of business",executive stock options,privately held information,restricted stock,stock market bubble,D,"Part 1.
+The answer is d. All the answer make this a true statement.  While it would be optimal to find a lot of firms engaged solely in the new line of business, a reasonable beta can be determined with an imperfect, but reasonable, data set.
+Part 2.
+None of the cash flow information necessary to evaluate the project was provided.  Nonetheless, I can provide clear guidance with which to evaluate the project in question.  If the MIRR (modified internal rate of return) is greater than the risk-adjusted hurdle rate for the company, accept it.  Otherwise, reject it.
+Part 3.
+The answer is c. modified internal rate of return.  The modified internal rate of return (MIRR) technique converts a project's cash flow using a more consistent reinvestment rate than the internal rate of return (IRR) technique.  The MIRR assumes cash flows are reinvested at the firm's cost of capital and the initial outlays are financed at the firm's financing cost.  Conversely, the IRR assumes cash flows are reinvested at the IRR itself, which can lead to overly optimistic outcomes.
+Part 4.
+The answer is b. 48.43%.  Rationale is below.
+The market value (MV) of each component is computed below.
+MV Common Stock = 10,000,000 * $32.00 = $320,000,000
+MV Preferred Stock = 20 million * $20.00 = $400,000,000
+MV Bonds = 100,000 * $1,000 * 1.06 * $106,000,000
+The MV Capital = $320,000,000 + $400,000,000 + $106,000,000 = $826,000,000
+Therefore, the weight of the preferred stock is $400,000,000 / $826,000,000 = .4843
+Part 5.
+The answer is c. restricted stock.  As the name implies, restricted stock has limitations on when it can be sold.  Generally, such restrictions are specified in terms of a vesting period or holding period designed to encourage employee retention and a focus on enhancing long-term corporate performance.","Corporate Finance: Corporate finance is the business discipline that handles capital structuring, treasury and cash management, and investment matters.  Corporate finance endeavors to be in tune with the perspectives of all stakeholders; however, this area has traditionally focused on maximizing shareholder value.",,,B
+182,Financial managers can take a variety of actions to influence the market value of a company's stock. All of the following are classifications of actions taken EXCEPT:,investing decisions,financing decisions,dividend decisions,tax implication decisions,A,"a. Incorrect.
+Investing decisions, like the allocation of the firm's capital budget, are actions taken by financial managers.
+b. Incorrect.
+Financing decisions, like the issuance of new stock, are within the purview of financial managers.
+c. Incorrect
+Dividend decisions are a type of financing actions taken by financial managers.
+d. Correct
+Tax implications depend on the tax rate.  The tax rate is determined by the government, not financial managers.","Financial Management: Financial management is a term that applies to all actions taken by financial managers.  The paramount goal of financial management is maximizing shareholder wealth.  Therefore, financial managers take actions to fulfill that objective.",,,D
+183,"Ms. Smith borrowed $ 2,000 at an 8% stated rate of interest and was to pay back the loan in 12 monthly payments. What is her effective rate of interest using the installment loan formula?",2%,30%,36.7%,22.0%,B,"Effective rate of interest using the installment loan formula: Option b. 14.8% is correct answer
+P= $2,000
+Stated rate= 8%
+no of payments= 12 monthly payment
+Interest= $2,000*0.08= $160
+{eq}Effective\ Annual\ Rate= 2\times Annual\ No.\ of\ payments\times \frac{Interest}{{(Total\ no.\ of\ payments + 1)}\times Principal}
+
+{/eq}
+{eq}Effective\ Annual\ Rate= 2\times 12\times \frac{160}{{(12 + 1)}\times 2,000}
+
+{/eq}= 14.8%
+11.  ABC Company can borrow from its bank at 12% to take a cash discount. The terms of the cash discount are 2/10, net 50. ABC Company should:
+Option a. Borrow from the bank to take the cash discount  is correct answer.
+a.Because the annualized savings of 24.49% is much higher than the cost of borrowing the funds at 12%
+b.Cost of not taking loan from bank and to not to take the cash discount:
+(2% / (100% - 2%)) * (360 / (50 - 20))
+(2% / (98%)) * (360 / 30))
+0.0204 * 12 = 0.2448
+14. If a firm is given trade credit terms of 2/10, net 30, then the cost of the firm failing to take the discount is:
+Option c. 36.7%
+{eq}Cost\ of\ Credit= \frac{Discount\ percentage}{(1-Discount percentage)}\times \frac{360}{(Full\ allowed\ payment\ days - Discount\ days)}
+
+{/eq}
+{eq}Cost\ of\ Credit= \frac{0.02}{(1-0.02)}\times \frac{360}{(30 - 10)}
+
+{/eq}= 36.7%",Corporate Finance: 1. Installment loan  Formula: Installment loans are loans that are repaid with a set number of payments. Installment loan interest rates are generally the highest interest rates. 2. Borrowings from bank for cash discount: Amount can be borrowed from bank at rates lower than discount rate offered by supplier to reduce the cost of materials. 3. Cost of credit: The amount to be paid on principal amount as addition cost for not paying the amount on specified period.,,,D
+184,"Respond with True or False. A. The cash budget shows, often on a monthly basis, expected collections from sales, the cash payments that must be made during the period, and the projected cash flow for the period. Cumulative cash flow is determined, and the target cash balance is subtracted from the cumulative cash flow to determine the firm's need for financing or surplus cash available for investment. True or False",True,False,,,A,"A. The cash budget shows, often on a monthly basis, expected collections from sales, the cash payments that must be made during the period, and the projected cash flow for the period. Cumulative cash flow is determined, and the target cash balance is subtracted from the cumulative cash flow to determine the firm's need for financing or surplus cash available for investment. * True.
+B. A line of credit is just another name for a promissory note. * False. While it is true that both the line of credit and promissory note rises to liability, in essence these are different types of financing schemes. Promissory notes are unsecured while line of credit may be secured or unsecured.
+C. If Jakob were able to delay payment for 50 days rather than paying in 25 days, it would be ""stretching""its trade credit. This would cause the calculated nominal cost of its trade credit to increase. * False. The longer the payment terms, the lower the cost of trade credit.
+D. Currency and demand deposits are defined to be ""cash."" Also, very safe, short-term, highly liquid marketable securities are sometimes included when people discuss a firm's ""cash account."" True.","Financial Management Financial management is a broad branch of the entire Finance world that focuses on debts, equities, and the company's valuation. It also plays a vital role in the organization to avoid fund mismanagement and increasing shareholders' wealth.",,,A
+185,The working capital cycle looks at which of the following.,obtaining cash back.,turning cash into resources and paying bills.,billing and collecting revenues earned.,all of the above.,D,"The working capital cycle looks at which of the following.
+d. all of the above.
+Working capital cycle includes all of the given options. It starts with using the raw materials to produce inventory, sell the inventory and billing it. The suppliers are paid and the revenue collected from customers. Finally, the cash is received in for of revenue.",Working Capital Cycle: The working capital cycle includes the production of the product with the help of raw materials. It starts with using the factor of production to produce the given products and ens up with the revenue.,,,D
+237,A survey of Fortune 500 companies' executives said the following goals were most important to their firms:,Maximization of the percent return on total asset investment,Achievement of a desired growth rate in earnings per share,Maximization of aggregate dollar earnings,,A,"a.
+Maximization of the percent return on total asset investment ensures that the projects that generate more bang for the buck are given preference.  This may help increase wealth by generating higher cash flows from the assets invested.
+b.
+Achievement of a desired growth rate in earnings per share can help maximize shareholder wealth by selecting projects that increase earnings and hence company value.
+c.
+Maximization of aggregate dollar earnings can also help maximize shareholder wealth by selecting projects that provide higher future cash flows.
+It should be noted however, that, all of the approaches described in a., b., and c. do not maximize shareholder wealth if used in isolation.  The reason is that each of these principles ignores the risk of investments and may end up choosing very risky projects that ultimately hurt shareholder value.",Executives' Goals: The goal of every executive in the company should be maximizing shareholder wealth.  The only thing shareholders care about is the value of their shares and executives are employees hired by shareholders.,,,B
+238,The risk-return trade-off in managing a firm's working capital involves which of the following?,a trade-off between liquidity and activity,a trade-off between debt and equity,a trade-off between the firm's liquidity and its profitability,none of the above,C,"Working capital is the difference between current assets and current liabilities.  Companies maintain working capital to ensure they have the liquidity required in normal business operations.  At the same time, however, working capital ties up cash in items like inventory and accounts receivable that do not bring any profit while sitting on the balance sheet.  The more cash is tied up, the less profitable the company is.  So managing working capital involves a trade-off between the firm's liquidity and its profitability.
+Correct answer is c.","Working Capital: To support its day-to-day business operations, every firm needs to have some cash on hand, maintain some inventory, have some accounts receivable etc.  The term working capital refers to current assets minus current liabilities.",,,C

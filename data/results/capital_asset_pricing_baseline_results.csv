@@ -1,0 +1,578 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,A stock's risk premium is equal to the:,risk-free rate plus the expected market risk premium,expected market risk premium times beta,expected market return times beta,treasury bill yield plus the expected market return,B,"The answer is
+b. expected market risk premium times beta
+A stock's risk premium represents an additional expected return that an investor desires to obtain from the stock, rather than investing in a risk-free security. According to the CAPM model, the stock's risk premium is addressed below:
+{eq}\text{Risk premium} = (\text{Market return} - \text{Risk-free rate})\times beta {/eq}
+a. Incorrect. The sum of the risk-free rate and market risk premium is the market return.
+b. Correct.
+c. Incorrect. By multiplying the market return with the stock's beta coefficient, it indicates the potential total risk on the stock, which does not refers to a risk premium.
+d. Incorrect. The combination of risk-free rate and market return is not relevant for the concept of a risk premium.",Capital Asset Pricing Model: The capital asset pricing model (CAPM) is a popular model to estimate the required rate of return on stock. This model describes how the stock's expected return is subjected to changes in the market return. CAPM: {eq}\text{Required rate of return} = \text{Risk-free rate} + (\text{Market return}-\text{Risk-free rate}) \times \beta {/eq},,,B
+2,"Assume that a company has a beta of 0.78 and the risk-free rate is 5%. If the market risk premium is 7% calculate the cost of equity capital, using the capital asset pricing model:",10.5%.,5.3%.,11.2%.,6.0%.,A,"The correct answer is
+A. 10.5%
+.
+The capital asset pricing model uses the following inputs to compute the cost of equity:
+Beta = 0.78
+Risk-free return = 5%
+Market risk premium = 7%
+These inputs are arranged in the equation as follows:
+Cost of equity = Risk-free return + (Beta × Market risk premium)
+Cost of equity = 5% + (0.78 × 7%)
+Cost of equity = 10.5%","Risk Premium: Under the capital asset pricing model, the cost of equity has two components: risk-free return and the market risk premium based on the stock beta. The risk premium is the additional return for the risk associated with stocks.",,,C
+3,,,,,,,,,,,A
+4,,,,,,,,,,,A
+5,,,,,,,,,,,A
+6,"If the risk-free rate is 2%, and the market risk premium is 6%, what is the required rate of return on a stock with a beta of 2?",4%,8%,12%,14%,D,"The answer is
+D)14%.
+Estimate the required rate of return on the stock:
+{eq}\text{Required rate of return} = \displaystyle \text{Risk-free rate} + \text{Market risk premium} \times \beta \\ \text{Required rate of return} = \displaystyle 2\% + 6\% \times 2 \\ \text{Required rate of return} = 14\% {/eq}","Required Rate Of Return: The required rate of return on common stock can be treated as the investor's opportunity since the investor has to give n up other available investments. In practice, the required rate of return can be estimated by the Capital Asset Pricing Model (CAPM).",,,D
+7,"If the risk-free rate of return is 3 percent and the market risk premium is 6 percent, what is the expected return on a stock with a beta of 1.8?",{eq}8.40\% {/eq}.,{eq}10.80\% {/eq}.,{eq}13.80\% {/eq}.,{eq}19.20\% {/eq}.,C,"The correct answer is
+option C. 13.80%.
+Given information:
+Risk-free rate: 3%
+Market risk premium: 6%
+Stock beta: 1.8
+Determine the stock's expected return by adding the product of stock beta and the market risk premium to the risk-free rate.
+{eq}\begin{aligned} \text{Stock }\!\!'\!\!\text{ s expected return}&=\text{Risk-free rate}+\text{Stock}\ \text{Beta}\times \text{Market risk premium} \\ &=3\%+1.8\times 6\% \\ &=3\%+10.80\% \\ &=13.80\% \end{aligned} {/eq}
+Thus, the expected return is 13.80%.","Rate of Return: The rate of return is the percentage gain from an investment over the initial investment. In the case of stocks, the rate of return comprises capital gain yield and dividend yield. The dividend is the portion of earnings received by the stockholder, and capital gain is the increase in the market price of a stock.",,,D
+8,"If Treasury bills yield 6% and the market risk premium is 9%, then a stock with a beta of 1.5 would be expected to yield:",12.00%,17.00%,19.50%,21.50%,C,"The correct answer is
+option c. 19.5%.
+Given information:
+Treasury bills yield: 6%
+Market risk premium: 9%
+Beta: 1.5
+Determine the expected yield of the stock by adding the product of market risk premium and beta to the treasury bills yield.
+{eq}\begin{aligned} \text{Expected yield of the stock}&=\text{Treasury bills yield}+\text{Beta}\times \text{Market risk premium} \\ &=6.00\%+1.50\times 9.00\% \\ &=6.00\%+13.50\% \\ &=19.50\% \end{aligned} {/eq}
+Thus, the expected yield is 19.50%.",Market Risk Premium: The market risk premium is the surplus return that an investor wishes to receive on investing in a risky asset as compared to a risk-free asset. Risk-free assets can be government securities or Treasury bills. Risky assets can be stocks and real estate.,,,C
+9,"J&M Corporation's common stock has a beta, b, of 1.2. The risk-free rate is 6%, and the market return is 11%. Determine J&M's cost of common stock equity using the CAPM.",11%,12%,10%,13%,B,"A stock's expected return can be calculated using the CAPM. We will calculate the expected return on J&M's stock and interpret it as the cost of equity:
+As per CAPM, the expected return
+{eq}E_{r} = R_{f} + \beta \times (R_{m}-R_{f}) {/eq}
+Where,
+{eq}E_{r} {/eq} is the expected return
+{eq}R_{f} {/eq} is the risk-free rate given here as 6%
+{eq}\beta {/eq} is the beta(measure of the risk) of the security, 1.2
+{eq}R_{m} {/eq} is the market return given here as 11%
+Therefore, the beta of Ren Corp. is calculated as
+{eq}E_{r} = 0.06 + 1.2 \times (0.11 - 0.06) {/eq}
+{eq}E_{r} = 0.06 + 1.2 \times 0.05 {/eq}
+{eq}E_{r} = 0.06 + 0.06 {/eq}
+{eq}E_{r} = 0.12 {/eq}
+Therefore, the correct answer is
+B. 12%","CAPM and The Cost of Equity: The capital asset pricing model is an effective tool to calculate the expected return from a stock by taking into account the systematic risk of the stock. As the cost of equity is also the minimum expected return from the stock, the expected return and the cost of equity both can be calculated using this model.",,,D
+10,"Jalisco, Inc. is estimating its cost of equity capital. Jalisco has a beta of 1.5 when the market risk premium is {eq}8\%
+
+{/eq} and the risk-free rate is {eq}3.5\%
+
+{/eq}. What is Jalisco's cost of equity capital?","{eq}8\%
+
+{/eq}.","{eq}15.5\%
+
+{/eq}.","{eq}10.25\%
+
+{/eq}.","{eq}8.75\%
+
+{/eq}.",B,"The calculated value of the cost of equity for Jalisco is
+b. {eq}15.5\%
+
+{/eq}.
+The cost of equity capital as per the CAPM equation is computed by:
+= Risk-free rate + (market risk premium * beta)
+= 3.5% + (8% * 1.5)
+= 3.5% + 12%
+= 15.5%",Capital Asset Pricing Model (CAPM) The CAPM equation is used to determine the cost of equity or rate of return required by shareholders of a firm. It is primarily influenced by the beta or systematic risk coefficient value of the stock.,,,B
+11,"Winter Goods, Inc.'s cost equity is {eq}22\% {/eq} and its beta 1.8. The expected market return is {eq}14\% {/eq}. What is the risk-free rate?",{eq}4\% {/eq}.,{eq}8\% {/eq}.,{eq}12\% {/eq}.,{eq}22\% {/eq}.,A,"The correct answer is
+option a. 4%.
+Given information:
+Cost equity: 22%
+Beta: 1.8
+Market return: 14%
+Determine the risk-free rate using the capital asset pricing model as follows:
+{eq}\begin{aligned} \text{Cost of Equity }&=\text{Risk-free rate of return}+\text{Beta}\times \left( \text{Market rate}-\text{Risk-free rate of return} \right) \\ 22\% &=r+1.8\times \left( 14\%-r \right) \\ 22\% &=r+25.2\%-1.8r \\ 0.80r&=25.2\%-22\% \\ r &=\frac{3.2\%}{0.80} \\ &=4\% \end{aligned} {/eq}
+The risk-free rate of return (r) is 4.00%.","Risk-Free Rate: A risk-free rate is a rate earned on an investment with zero risks. It is often used as a benchmark rate for evaluating the performance of other investments. In practice, it is difficult to find completely risk-free investments as government securities also have some risk.",,,B
+12,Your estimate of the market risk premium is 6%. The risk-free rate of return is 3% and General Motors has a beta of 1.7.,12.50%,13.90%,11.90%,13.20%,D,"The company's cost of equity capital can be anticipated by the capital asset pricing model (CAPM).
+Determine the cost of equity capital, given information:
+{eq}\text{Cost of equity capital}=\displaystyle \text{Risk-free rate} + \text{Market risk premium} \times \beta \\ \text{Cost of equity capital}=\displaystyle 3\% + 6\% \times 1.7 \\ \text{Cost of equity capital}=13.20\% {/eq}
+Therefore, the correct answer is
+D. 13.2%.",Cost of Equity Capital: A firm's cost of equity capital is a component to estimate the firm's weighted average cost of capital since equity capital is one of the main sources of capital to finance the firm's assets and investments. The cost of equity capital will likely increase in a new issue of equity due to flotation costs.,,,B
+134,"A stock has a beta of 1.5, the market risk premium is 7% and the risk-free rate is 2%.  What is the lowest return the company should accept on a new investment?",15.25%,7.50%,10.50%,12.50%,D,"The expected return is 12.50% (D)
+The expected return is calculated as follows.
+Expected return = Risk-free rate + (Beta * Market risk premium)
+Expected return = 2% + (1.5 * 7%)
+Expected return = 2% + 10.5%
+Expected return = 12.50%",CAPM: The capital asset pricing model is a relationship between the expected rate of return and the risk of investment in a particular security. Expected return = Risk-free rate + (Beta * Market risk premium),,,D
+135,"Bruce & Co. expects its EBIT to be $78,000 every year forever. The company can borrow at 7 percent. The company currently has no debt, and its cost of equity is 12 percent.","If the tax rate is 35 percent, what is the value of the company?","What will the value be if the company borrows $103,000 and uses the proceeds to repurchase shares?",,,A,"a.
+The value of the company is $422,500
+The explanation is provided below.
+{eq}Value \ of \ company \ = \ \dfrac{EBIT \ \times \ \left ( 1 \ - \ Tax \ rate \right )}{Cost \ of \ equity}
+
+\\
+
+Value \ of \ company \ = \ \dfrac{\$78,000 \ \times \ \left ( 1 \ - \ 35\% \right )}{12\%}
+
+\\
+
+Value \ of \ company \ = \ \dfrac{\$78,000 \ \times \ 0.65}{0.12}
+
+\\
+
+Value \ of \ company \ = \ \dfrac{\$50,700}{0.12}
+
+\\
+
+Value \ of \ company \ = \ \$422,500
+
+{/eq}
+b.
+The new value of the company is $458,550
+The explanation is provided below.
+{eq}New \ value \ of \ company \ = \ Value \ of \ company \ + \ \left ( Amount \ borrow \ \times \ Tax \ rate \right )
+
+\\
+
+New \ value \ of \ company \ = \ \$422,500 \ + \ \left ( \$103,000 \ \times \ 35\% \right )
+
+\\
+
+New \ value \ of \ company \ = \ \$422,500 \ + \ \$36,050
+
+\\
+
+New \ value \ of \ company \ = \ \$458,550
+
+{/eq}",Cost of Equity: The cost of equity is the total return a company is paying to the equity shareholders. The value of the cost of equity can be calculated with the help of the capital asset pricing model.,,,A
+136,Calculate the risk premium on stock C given the following information:,8%,10.40%,15.40%,16.90%,B,"The risk premium is 10.4% (B)
+The risk premium is calculated as follows.
+Risk premium = Risk-free rate + (Beta * (Market return - Risk-free rate)) - Risk-free rate
+Risk premium = 5% + (1.3 * (13% - 5%)) - 5%
+Risk premium = (5% + (1.3 * 8%)) - 5%
+Risk premium = (5% + 10.4%) - 5%
+Risk premium = 15.4% - 5%
+Risk premium = 10.4%",CAPM: The capital Asset pricing model is used to calculate the expected rate of return of common stock considering the additional risk taken by the investor. Expected return = Risk free return + Beta * Market risk premium,,,B
+137,"Given the following data, calculate the cost of equity:",The 12-month government treasury bill rate is 10%,The average return in the stock market for the last 12 months has been 18%,The beta value is 1.1,,A,"In this scenario, we are required to calculate the cost of equity.
+We have the values of the risk-free rate of return (treasury bills are assumed to be the most risk-free asset as payments are guaranteed by the sovereign), the market rate of return, and the equity beta. Therefore, we can use the Capital Asset Pricing Model formula to determine the cost of equity as follows:
+Cost of Equity = Risk-free rate + Beta (Market return - Risk-free rate)
+Cost of Equity = 10% + 1.1 ( 18% - 10%)
+Cost of Equity = 10% + 1.1 * 8%
+Cost of Equity = 10% + 0.088
+Cost of Equity = 0.1 + 0.088
+Cost of Equity = 0.188
+So the cost of equity will be 18.8%","Capital Asset Pricing Model: The capital Asset Pricing Model establishes a relationship between the expected return from equity investment and risk. The values required to calculate the cost of equity are the risk-free rate, market risk premium, and equity beta.",,,C
+138,"If the {eq}r_f
+
+{/eq} = 0.07 and the {eq}r
+
+{/eq} = 0.10, calculate the risk premium.",0.06,0.05,0.04,0.03,D,"In the given case, {eq}r_f = 0.07 {/eq} and {eq}R_m = 0.10 {/eq}.
+Thus, the risk premium {eq}(r_p) {/eq} is expressed as
+$$\begin{align}
+
+r_p = r_m - r_f
+
+\end{align}
+
+$$
+$$\begin{align}
+
+r_p = 0.10 - 0.07
+
+\end{align}
+
+$$
+$$\begin{align}
+
+r_p = 0.03
+
+\end{align}
+
+$$
+Correct Answer: D. 0.03",Capital Asset Pricing Model (CAPM) CAPM is a model for determine the required rate of return form an asset and is stated as {eq}E_i = r_f + \beta_i ( r_m) - r_f)  {/eq} where,,,D
+139,"Moerdyk Company's stock has a beta of 1.40, the risk-free rate is 4.25%, and the market risk premium is 5.50%. What is the firm's required rate of return?",11.36%,11.65%,11.95%,12.25%,C,"The answer is
+c. 11.95%.
+CAPM formula:
+Required rate of return = Risk-free rate + Market risk premium x Beta coefficient
+Determine the he required rate of return on Moerdyk's stocks:
+Required rate of return = 4.25% + 5.5% x 1.40
+Required rate of return = 11.95%","CAPM: The capital asset pricing model (CAMP) is a technique to assess a stock's required rate of return. The CAPM is graphically represented by the Security Market Line (SML). In practice, an investor should integrate this method with other available models to gain the best estimate for the required rate of return.",,,D
+140,,,,,,,,,,,A
+141,The risk-return tradeoff that Investors face on a day-to-day basis is based on realized rates of return because expected returns involve too much uncertainty.,TRUE,FALSE,,,B,"Answer: The statement mentioned above is False.
+Explanation: The risk-reward tradeoff that investors face every day is based on expected returns. The higher the risk, the higher the probability of a high return, and the lower the risk, the higher the probability of a low return. An investor's tradeoff when making an investment decision is known as the risk-return tradeoff.",Risk-return tradeoff: It shows that the potential reward increases as the risk increases. Individuals associate low levels of uncertainty with low potential returns and high levels of uncertainty with high potential returns.,,,B
+142,"The slope of the security market line, which is the difference between the expected return on a market portfolio and the risk-free rate, is called the _____.",market risk premium,portfolio variance,arithmetic average return,cost of capital,A,"The answer is
+a. market risk premium.
+Expected market return - Risk-free rate = Market risk premium
+In detail, the difference between the expected return on a market portfolio and the risk-free rate represents a required additional return by giving up a risk-free investment. Alternatively, the required additional return is intended to offset the risk premium by taking the market portfolio.","Security Market Line: The security market line represents the capital asset pricing model graphically. Alternatively, it indicates the relationship between the required rate of return on a stock and the systematic risk.",,,A
+143,What is the expected rate of return for a stock that has a beta of 1.0 if the expected return on the market is 15%?,15%,More than 15%,Cannot be determined without the risk-free rate,,C,"Correct Answer:
+Option c. Cannot be determined without the risk-free rate
+.
+The capital asset pricing model equation is given as follows:
+Expected return = Risk-free return + Beta × (Market return - Risk-free return)
+The difference between the market and the risk-free return is called the market risk premium.
+We cannot determine the expected return using the beta and market return alone. The risk-free rate should also be known.",Expected Return: The expected return is the return on stock investment that investors expect. The return can be computed using the capital asset pricing model equation and the dividend growth model of stock valuation.,,,A
+256,Circle Globes' stock has a beta of 1.1 and a standard deviation of 9.23%. The market risk premium is 8% and the risk-free rate is 3.8%.,9.67%,8.42%,12.52%,12.60%,D,"Correct Answer:
+Option d. 12.6%
+.
+Circle Globes' cost of equity is computed using the capital asset pricing model equation:
+Cost of equity = Risk-free return + (Beta × Market risk premium)
+Cost of equity = 3.8% + (1.1 × 8%)
+Cost of equity = 12.60%","Capital Asset Pricing Model: The capital asset pricing model determines the required return that investors should expect. It considers the risk-free return, stock beta, and market risk premium to determine the necessary return.",,,D
+257,"Consider an asset that has a beta of 1.20. If the risk-free rate is 2.0% and the market risk premium is 3%, the expected return on the asset is:",5.00%,6.20%,3.20%,5.60%,D,"Expected rate of return = Risk free rate + (Beta * Market risk premium)
+Expected rate of return = 2% + (1.2 * 3%)
+Expected rate of return = 0.056 or 5.6%
+The expected rate of return on a stock is 5.6%. Hence the correct option is D.","Risk Free Rate Of Return: The risk-free rate of return is the lowest rate of return an investor can expect from a risk-free investment. All investments involve some level of risk, which implies that an investor may not be able to obtain a risk-free rate of return while making a purchase. This phrase, on the other hand, is used to describe the returns gained from certain investment options such as US Treasury bonds or German government bonds.",,,D
+258,The risk-free rate of return is 5.2 percent and the market risk premium is 8.4 percent. What is the expected rate of return on a stock with a beta of 1.34?,8.29 percentb. 9.49 percentc. 13.60 percentd. 16.46 percente. 18.22 percent,,,,D,"The expected rate of return is
+(d.) 16.46%
+.
+We will use the capital asset pricing model to calculate the expected rate of return that the investor seeks on the investment. The formula is:
+{eq}\rm Expected\ rate\ of\ return\ = Risk-free\ rate\ + (Beta\ \times\  Market\ risk\ premium) \\
+
+Expected\ rate\ of\ return\ = 5.2 \% + (1.34 \times\ 8.4 \%) \\
+
+Expected\ rate\ of\ return\ = 5.2 \% + 11.26 \%\\
+
+Expected\ rate\ of\ return\ = 16.46 \%
+
+{/eq}",CAPM: The capital asset pricing model (CAPM) calculates the additional return that is expected from the investor due to the investment made in that particular stock. The associated formula is expressed as follows:,,,D
+259,"The Zombie Corporation's common stock has a beta of 1.3. If the risk-free rate is 4.4 percent and the expected return on the market is 10 percent, what is the company's cost of equity capital?",11.68%,12.34%,23.45%,12.12%,A,"The correct option is
+(A) 11.68%
+We can use the capital asset pricing model (CAPM) to calculate the cost of equity from the given information.
+Given that -
+Risk-free rate of return = 4.4%
+Market rate of return = 10%
+Beta = 1.30
+As per CAPM,
+{eq}\text{Cost of equity} = \text{Risk-free rate of return} + \text{Beta} * (\text{Market rate of return - Risk-free rate of return})\\
+
+\text{Cost of equity} = 4.4\% + 1.3 * (10\% - 4.4\%)\\
+
+\text{Cost of equity} = 4.4\% + 1.3 * (5.56)\\
+
+\text{Cost of equity} = 4.4\% + 7.28\%\\
+
+\text{Cost of equity} = 11.28\%
+
+{/eq}","CAPM: CAPM stands for capital asset pricing model. It is a mathematical model to determine the cost of equity using the systematic risk measure, risk-free rate of return, and market risk premium.",,,B
+260,What is the expected rate of return on a stock that has a beta of 1.48 if the market risk premium is 8.0 percent and the risk-free rate is 3.3 percent?,14.21 percent,15.14 percent,11.13 percent,13.28 percent,B,"The answer is
+b. 15.14%
+CAPM:
+Cost of equity = Risk-free rate + Market risk premium x Beta
+Cost of equity = 3.3% + 8% x 1.48
+Cost of equity = 15.14%","CAPM: Capital asset pricing model (CAPM) is a financial approach that investors can determine the required rate of return on a security. Note that, this model considers the relationship between the security and the entire market in term of price volatility.",,,B
+305,"A company has a beta of 0.95. If the market return is expected to be 10% and the risk-free rate is 3%, what is the company's required return?",12.65%,9.50%,9.65%,12.50%,C,"The required return is
+(c) 9.65%.
+Required return using CAPM:
+Particulars
+Amount
+a
+Beta
+0.95
+b
+Market return
+10%
+c
+Risk-free (RF) rate
+3%
+d
+Market risk premium (MRP)
+(b - c)
+7%
+e
+Required return
+( c + a x d)
+9.65%
+Notes:
+The required return is the sum of the RF rate and the MRP after the multiplicand with the beta.
+The MRP is any variation between the market return and the RF rate.",Beta Beta measures inherent market risk and is utilized in the CAPM (capital asset pricing model). Beta is essential in identifying the direction of movement of a stock in comparison to the market. It helps in determining the stock's volatility.,,,C
+306,"According to the CAPM (capital asset pricing model), what is the single factor that explains differences in returns across securities?",The beta of security.,The expected return on the market portfolio.,The risk-free rate.,The expected risk premium on the market portfolio.,A,"Option a. is correct.
+In CAPM, if we want to calculate the return of different stocks under the CAPM method for the same period then, the market return will be the same for all the security, risk-free return will be the same for all the security hence market risk premium will also be same; the beta for each stock will be different as each company will have its sensitivity to the systematic risk. So while calculating the expected return under CAPM, returns will differ for each security as the beta for each stock will be different.","Expected Risk Premium: The expected risk premium is the difference between market risk and risk-free return. It is the extra return which an investor expects when taking more and more risk in the market. In simple words, it is the premium return for taking more risks.",,,A
+307,"According to the CAPM, what is the expected market return given an expected return on the security of 13.6%, a stock beta of 1.2, and a risk-free interest rate of 4%?",11.30%,11.50%,4.80%,12%,D,"The correct option is option d. 12%
+{eq}\begin{align*}
+
+{\rm\text{Expected return on portfolio}} &= {\rm\text{Risk-free rate}} + {\rm\text{Beta}} \times \left( {{\rm\text{Market Return}} - {\rm\text{Risk-free rate}}} \right)\\
+
+13.6\%  &= 4\%  + 1.2 \times \left( {{\rm\text{Market Return}} - 4\% } \right)\\
+
+1.2 \times {\rm\text{Market Return}} &= 13.6\%  - 4\%  + \left( {1.2 \times 4\% } \right)\\
+
+{\rm\text{Market Return}} &= 12\%
+
+\end{align*}
+
+{/eq}",Expected Return: Any investment decision is made purely based on the returns that are expected from the investment and the risk associated with it. There are various methods used to calculate the return.,,,A
+308,"FlavR Co stock has a beta of 2.02, the current risk-free rate is 2.02 percent, and the expected return on the market is 9.02 percent. What is FlavR Co's cost of equity?",20.24%,16.16%,11.04%,13.06%,B,"The correct answer to the above is Option b. 16.16%
+Explanation
+As per Capital Asset Pricing Model, the cost of equity is calculated by the equation
+Cost of Equity = Risk-free rate + Beta * (Expected return - Risk-free rate)
+Given:
+Risk-free rate = 2.02%
+Expected return = 9.02%
+Beta = 2.02
+Cost of Equity = 2.02% + 2.02 * (9.02% - 2.02%)
+Cost of Equity = 2.02% + 2.02 * 7%
+Cost of Equity = 16.16%",Cost of Equity: Cost of Equity is the rate of return that a company expects from an investment or project. The cost of equity can be calculated using various methods. The Capital Asset Pricing Model is one of the methods by which the cost of equity is calculated.,,,D
+309,"Stock A has a beta of 1.2 and a standard deviation of returns of 18%. Stock B has a beta of 1.8 and a standard deviation of returns of 18%. If the market risk premium increases, then",the required return on stock B will increase more than the required return on stock A.,the required returns on stocks A and B will both increase by the same amount.,the required returns on stocks A and B will remain the same.,the required return on stock A will increase more than the required return on stock B.,A,"The answer is
+A. the required return on stock B will increase more than the required return on stock A.
+CAPM:
+Required rate of return = Risk-free rate + Market risk premium x Beta
+In this case, stock B has a higher beta coefficient, which means the required rate of return on stock B will be higher than stock A's return if there is an increase in the market risk premium.",Capital Asset Pricing Model: The capital asset pricing model (CAPM) is a financial approach to determine the required rate of return on a stock. This approach will consider the stock's volatility over the entire market by including the beta coefficient in its model.,,,A
+310,,,,,,,,,,,A
+311,"Wildings, Inc. common stock has a beta of 1.2. If the expected risk free return is 4% and the expected market risk premium is 9%, what is the expected return on Wildings' stock?",10.00%,12.00%,13.80%,14.80%,D,"The correct answer to the given question is option
+D. 14.8%
+.
+The project's expected rate of return is given by:
+{eq}\begin{align*}
+
+&= \text{Risk-free return + (beta of the stock * market risk premium)} \\[0.3 cm]
+
+&= 4\% + (1.2 * 9\%) \\[0.3 cm]
+
+&= 4\% + 10.8\% \\[0.3 cm]
+
+&\approx 14.8\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}","Capital Asset Pricing Model (CAPM): The capital asset pricing model (CAPM) is used to come up with the rate of return required by shareholders of a stock. It takes into account factors such as risk-free return, market risk premium, and the beta of the stock.",,,D
+438,"You own $5,000 of Software Corp's stock that has a beta of 3.75. You also own $10,000 of Home Improvement Corp (beta = 1.5) and $15,000 of Publishing Corp (beta = 0.35). Assume that the market return will be 13 percent and the risk-free rate is 4.5 percent. What is the risk premium of the portfolio?",11.05%,16.50%,17.00%,24.70%,,"The correct option is (a) 11.05%
+
+
+
+As per CAPM, we know that -
+
+
+Where,
+
+
+First, we will calculate the expected return of individual stocks and then compute the weighted average to arrive at the portfolio return.
+
+Computation of expected rate of return of the portfolio
+
+Company	Amount Invested	Weight (A)	Beta	Expected Rate of Return (B)	Product (A * B)
+Software Corp	$5,000	$5,000 / $30,000 = 0.17	3.75	4.5% + 3.75 * (13% - 4.5%) = 36.38%	6.06%
+Improvement Corp	$10,000	$10,000 / $30,000 = 0.33	1.50	4.5% + 1.50 * (13% - 4.5%) = 17.25%	5.75%
+Publishing Corp	$15,000	$15,000 / $30,000 = 0.50	0.35	4.5% + 0.35 * (13% - 4.5%) = 7.48%	3.74%
+TOTAL	$30,000				15.55%
+
+","Capital Asset Pricing Model:
+The capital Asset Pricing Model is used to determine the expected rate of return by using the risk-free rate of return, systematic risk, and market rate of return.",,,B
+439,"What is the expected return on the market portfolio at a time when the risk-free rate (e.g., T-Bill rate) is 4% and a stock with a beta of 1.5 is expected to yield 16%?",10%,11%,8%,12%,D,"Correct answer is Option d.
+Let Rm be the rate of return on market portfolio.
+As per CAPM,
+{eq}\begin{align*}
+
+{\rm\text{Return on stock}}& = {\rm\text{Risk - free rate}} + {\rm\text{Beta}}\left( {{\rm\text{Market return}} - {\rm\text{Risk - free rate}}} \right)\\
+
+16\%&  = 4\%  + 1.5\left( {Rm - 4\% } \right)\\
+
+Rm - 4\%&  = \frac{{16\%  - 4\% }}{{1.5}}\\
+
+Rm& = 12\%
+
+\end{align*}
+
+{/eq}
+Thus, the expected return on market portfolio is 12%.","T-bill Rate: T-bill rate is the risk-free rate of return that the holder of T-bill receives at the time of maturity. Actually, the T-bills are issued at discount and redeemed at face value. This interest rate is based on the amount of discount that the holder receives on the T-bill.",,,B
+565,,,,,,,,,,,A
+566,The intercept in the regression equations calculated by beta books is equal to:,"{eq}\alpha
+
+{/eq} in the CAPM.","{eq}\alpha
+
+{/eq} + rf(1 + {eq}\beta
+
+{/eq}).","{eq}\alpha
+
+{/eq} + rf(1 - {eq}\beta
+
+{/eq}).","1 - {eq}\alpha
+
+{/eq}.",C,"The correct option is C.
+Reason:
+The regression equation is derived by CAPM model;
+CAPM Return = Rf + Beta * (Rm - Rf)
+Where
+Rf is the risk-free rate of return
+Rm is the market return
+In the regression equation, Rf is the alpha which is the intercept in the equation of regression. Beta is the slope of regression that measures the stock volatility in comparison to market volatility.
+Incorrect options:
+a. It is incorrect as alpha is only the intercept.
+b. It is incorrect because beta will always be subtracted from 1 in the regression equation.
+d. It is incorrect because alpha is the intercept, and it cannot be subtracted from 1.","Beta: It is the risk of the market. It cannot be diversified by including more securities in the portfolio. It affects the overall market at a time. In the regression equation, beta is the slope. It is computed using covariance of the stock and market and variance of the stock.",,,C
+570,The Capital Asset Pricing Model states that the expected return on a particular asset relates to all of the following components except:,The beta risk,The risk-free rate,The alpha risk,The market risk premium,C,"As per CAPM, the expected share price can be computed by below formula -
+
+{eq}\text{Share Price} = R_f + \beta \times (R_m - R_f) {/eq}
+
+where,
+
+{eq}R_f {/eq} = Risk-free rate of return
+
+{eq}R_m - R_f {/eq} = Market Risk Premium
+
+Thus, we can see that the expected return on a particular asset is related to the risk-free rate, the market risk premium, and the beta risk.
+
+But, it is not dependent on the alpha risk.","CAPM:
+The capital asset pricing model (CAPM) is the mathematical model used to estimate the share price by using systematic risk. The capital asset pricing model equation is widely used in financial mathematics.",,,C
+574,"Company A has a beta of 0.70, while Company B's beta is 1.30. The required return on the stock market is 11.00%, and the risk-free rate is 4.25%. What is the difference between A's and B's required rates of return? (Hint: First find the market risk premium, then find the required returns on the stocks.)",3.73%,4.74%,4.05%,4.90%,C,"Correct Answer: Option c. 4.05%.
+
+The first step is to determine the required return for Company A:
+
+Let's use the capital asset pricing model equation (CAPM):
+
+Required return = Risk-free return + Beta � (Marker return - Risk free return)
+Required return = 4.25% + 0.70 � (11% - 4.25%)
+Required return = 8.98%
+The second step is to determine the required return for Company B:
+
+Required return = Risk-free return + Beta � (Marker return - Risk free return)
+Required return = 4.25% + 1.30 � (11% - 4.25%)
+Required return = 13.03%
+The final step is to determine the difference between the required returns of each company:
+
+Difference = Company A's required return - Company B's required return
+Difference = 8.98% - 13.03%
+Difference = 4.05%","Capital Asset Pricing Model:
+The capital asset pricing model determines the required return that a stock should provide to its investors. It uses stock beta, market return, and risk-free return to determine the necessary return.",,,C
+578,"Linke Motors has a beta of 1.30, the T-bill rate is 3.00%, and the T-bond rate is 6.5%. The annual return on the stock market during the past 3 years was 15.00%, but investors expect the annual future stock market return to be 13.75%. Based on the SML, what is the firm's required return?",15.93%,13.38%,13.06%,13.22%,A,"The answer is a. 15.93%.
+
+Summary:
+
+Beta = 1.30
+Risk-free rate = Interest rate on T-bond = 6.5%
+Market return = 13.75%
+
+
+Determine the required rate of return:
+
+Required rate of return = Risk-free rate + (Market return - Risk-free rate) x Beta
+Required rate of return = 6.5% + (13.75% - 6.5%) x 1.30
+Required rate of return = 15.93%","Capital Asset Pricing Model:
+The capital asset pricing model (CAPM) is an approach to determine the required rate of return on common stock. It is described graphically by the Security Market Line.
+",,,C
+582,"Stock A has an expected return of 10% and a beta of 1.0. Stock B has a beta of 2.0. Portfolio P is a two-stock portfolio, where part of the portfolio is invested in Stock A and the other part is invested in Stock B. Assume that the risk-free rate is 5% and that the market is in equilibrium. Portfolio P has an expected return of 12%. What proportion of Portfolio P consists of Stock B?",20%,40%,50%,60%,B,"The answer is b. 40%.
+
+Summary:
+
+Return on stock A (rA) = 10%
+Beta of stock A (bA) = 1
+Beta of stock B (bB) = 2
+Risk-free rate (rF)= 5%
+Portfolio's return (rP) = 12%
+Weight of stock A = wA
+Weight of stock B = wB = 1 - wA
+
+
+Determine the market risk premium (MRP):
+
+{eq}MRP = \displaystyle \frac{rA - rF}{bA} = \frac{10\% - 5\%}{1} = 5\% {/eq}
+
+
+
+Determine the return on stock B:
+
+rB = rF + MRP x bB = 5% + 5% x 2 = 15%
+
+
+
+Determine the weight of stock A:
+
+{eq}rP = \displaystyle wA\times rA + wB\times rB {/eq}
+
+{eq}rP = \displaystyle wA\times rA + (1 - wA) \times rB {/eq}
+
+{eq}12\% = wA\times 10\% + (1 - wA) \times 15\% {/eq}
+
+{eq}12\% = wA\times 10\% + 15\% - wA \times 15\% {/eq}
+
+{eq}wA = \displaystyle \frac{15\% - 12\%}{15\% - 10\%} {/eq}
+
+{eq}wA = 60\% {/eq}
+
+
+
+Determine the weight of stock B:
+
+wB = 100% - wA = 100% - 60% = 40%
+","CAPM:
+The capital asset pricing model (CAPM) refers to a financial technique to estimate the cost of common stock, which considered the effect of systematic risk. In practice, this technique can be integrated with other methods to provide a relevant average value of the cost of common stock.",,,D
+586,The risk-free rate of return is 3 percent and the market risk premium is 10 percent. What is the expected rate of return on a stock with a beta of 1.28?,9.84,12.8,16.64,15.8,D,"The correct answer is option d. 15.80.
+
+The expected return on the stock is given by:
+
+= Risk-free rate of return + (beta for the stock * market risk premium)
+= 3% + (1.28 * 10%)
+= 3% + 12.8%
+= 15.8%","Capital Asset Pricing Model (CAPM):
+The CAPM model is used to figure out the return required by shareholders of a firm. The model takes into consideration various parameters like the risk-free return, market risk premium, and beta of the stock.",,,C
+592,"Which one of the following stocks is correctly priced if the risk-free rate of return is 2.5 percent and the market risk premium is 7.50 percent?
+
+
+Stock	Beta	Expected Return
+A	0.72	8.53%
+B	1.50	13.80%
+C	1.39	12.93%
+D	1.05	10.61%",Stock A,Stock B,Stock C,Stock D,C,"The answer is 3) Stock C.
+
+CAPM:
+
+Required rate of return = Risk-free rate + Market risk premium x Beta
+
+
+
+Determine the required rate of return on stock A (rA):
+
+rA = 2.5% + 7.5% x 0.72 = 7.9%
+
+
+
+Determine the required rate of return on stock B (rB):
+
+rB = 2.5% + 7.5% x 1.5 = 13.75%
+
+
+
+Determine the required rate of return on stock C (rC):
+
+rC = 2.5% + 7.5% x 1.39 = 12.93%
+
+
+
+Determine the required rate of return on stock D (rD):
+
+rD = 2.5% + 7.5% x 1.05 = 10.38%","CAPM:
+The capital asset pricing model is a common approach to estimating the required rate of return on common stock. Within this model, the systematic risk has a direct impact on the required rate of return.",,,A
+598,"In the capital asset pricing model (CAPM), a security's expected return is",the return on the market portfolio.,the risk-free rate plus the return on the market portfolio.,the return on the market portfolio plus a market risk premium.,the risk-free rate plus a market risk premium.,D,"The answer is D) the risk-free rate plus a market risk premium.
+
+CAPM formula:
+
+Required Rate Of Return = Risk-free rate + (Market return - Risk-free rate) x Beta; Or,
+Required Rate Of Return = Risk-free rate + Market risk premium x Beta
+
+
+A) Incorrect. An expected return on a security is not the market return since the market portfolio includes several securities.
+
+B) Incorrect. See the formula.
+
+C) Incorrect. See the formula.
+
+D) Correct. It is estimated by the risk-free rate plus the market risk premium adjusted by the beta coefficient.","CAPM:
+The capital asset pricing model (CAPM) is a financial approach to estimating the required rate of return on a security. It is described graphically by the Security Market Line, which depicts the relationship between the expected return on a security and the systematic risk.",,,D
+600,"The CAPM implies that if you could find an investment with a negative beta, its expected return would be less than the interest rate. True or false?",TRUE,FALSE,,,A,"The statement is TRUE.
+
+CAPM formula:
+
+Required rate of return = Risk-free rate + (Market return - Risk-free rate) x Beta
+
+
+
+If beta is a negative number, the required rate of return is less than the risk-free rate since the formual will turn into:
+
+Required rate of return = Risk-free rate - Market risk premium x Absolute value of Beta","CAPM:
+The capital asset pricing model (CAPM) is a concept to estimate the expected rate of return on an asset. In practice, investors usually analyze the required rate of return on a stock by using this model.",,,A
+602,The risk-free rate of return is 4.6 percent and the market risk premium is 14 percent. What is the expected rate of return on a stock with a beta of 1.7?,14.20 percent,21.82 percent,23.80 percent,28.40 percent,D,"Expected rate of return = Risk free rate + (Beta * Market risk premium)
+
+Expected rate of return = 4.6% + (1.7 * 14%)
+
+Expected rate of return = 0.2840 or 28.40%
+
+
+
+The expected rate of return on a stock is 28.40%. Hence the correct option is d.","Market Risk Premium:
+The rate of return on a risky investment is known as the market risk premium. The market risk premium is calculated as the difference between the projected return and the risk-free rate. Rather than risk-free assets, investors who have a risky portfolio employ the market risk premium. It is a component of the Capital Asset Pricing Model, which is used to calculate investment rates of return.",,,D
+622,,,,,,,,,,,A
+623,,,,,,,,,,,A
+624,Stocks with a beta of zero offer an expected rate of return of zero.,TRUE,FALSE,,,B,0.158,"Beta Coefficient: The beta coefficient describes the reaction of the stock return to a change in the return on the market portfolio. If a stock has a beta of 1, it will reward investors by an exact rate of return on the market portfolio.",,,B

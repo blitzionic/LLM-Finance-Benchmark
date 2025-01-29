@@ -1,0 +1,1416 @@
+id,question,A,B,C,D,answer,explanation ,guess,reasoning,baseline_guess
+1,"Guy dePrimo buys a new car for $9,837.91. He puts 10% down and obtains a simple interest amortized loan for the rest at {eq}8 \frac 7 8 \% {/eq} interest for four years. (Round all answers to the nearest cent.) 
+Payment Number,Principal Portion,Interest Portion,Total Payment,Balance
+Find his monthly payment. 
+<table>
+  <thead>
+    <tr>
+      <th>Payment Number</th>
+      <th>Principal Portion</th>
+      <th>Interest Portion</th>
+      <th>Total Payment</th>
+      <th>Balance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>$8854.12</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>",$210.55,$219.81,$225.45,$230.00,B,"For a loan to be repaid in regular equal payments, let {eq}P {/eq} be the amount borrowed (the present value), in dollars.
+
+Let {eq}R {/eq} be the regular payment, in dollars.
+
+Let {eq}i {/eq} be the periodic interest rate, in decimal.
+
+Let {eq}n {/eq} be the total number of payments.
+
+Then the formula for the present value of the annuity is
+
+{eq}\ \ \ \ \ P = R \left[ \dfrac{1 - (1 + i)^{-n}}{i} \right] {/eq}
+
+
+
+For the given loan, we must solve for {eq}R {/eq} to find the monthly payment amount.
+
+Then we substitute the given values for the other variables.
+
+Since the car costs $9,837.91 and a 10% down payment is paid, the amount borrowed is
+
+{eq}\ \ \ \ \ P = (9837.91)(0.90) = \$8854.12 {/eq}
+
+The periodic interest rate for {eq}8.875\% {/eq} compounded monthly is
+
+{eq}\ \ \ \ \ i = 0.08875/12 {/eq}
+
+The total number of payments (12 times per year for 4 years) is
+
+{eq}\ \ \ \ \ n = (12)(4) = 48 {/eq}
+
+Substituting these values of the other variables yields
+
+{eq}\ \ \ \ \ 8854.12 = R \left[ \dfrac{1 - (1 + 0.08875/12)^{-48}}{0.08875/12} \right] {/eq}
+
+Thus we obtain
+
+{eq}\ \ \ \ \ 8854.12 = R(40.28078859) {/eq}
+
+and hence
+
+{eq}\ \ \ \ \ R = \$219.81 {/eq}
+
+So the monthly payment for this loan is $219.81.",,,B
+2,"Guy dePrimo buys a new car for $9,837.91. He puts 10% down and obtains a simple interest amortized loan for the rest at {eq}8 \frac 7 8 \% {/eq} interest for four years. (Round all answers to the nearest cent.)
+Find the total interest.
+<table>
+  <thead>
+    <tr>
+      <th>Payment Number</th>
+      <th>Principal Portion</th>
+      <th>Interest Portion</th>
+      <th>Total Payment</th>
+      <th>Balance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>$8854.12</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>",A. 1542.33,B. 1678.69,C. 1696.76,D. 1750.5,C,"The total interest paid on the loan is the total payment minus the amount borrowed.
+
+Then the total interest for this loan is
+
+{eq}\ \ \ \ \ I = (219.81)(48) - 8854.12 = \$1696.76 {/eq}
+
+So the total interest paid is $1696.76.",,,C
+3,"Guy dePrimo buys a new car for $9,837.91. He puts 10% down and obtains a simple interest amortized loan for the rest at {eq}8 \frac 7 8 \% {/eq} interest for four years. (Round all answers to the nearest cent.)
+What is the principal portion of the first payment?
+<table>
+  <thead>
+    <tr>
+      <th>Payment Number</th>
+      <th>Principal Portion</th>
+      <th>Interest Portion</th>
+      <th>Total Payment</th>
+      <th>Balance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>$8854.12</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>",$150.00,$152.50,$154.33,$156.00,C,"To construct the first line in the amortization schedule, we first calculate the portion of the monthly payment applied to interest.
+
+The interest portion is based on the balance still owed, the interest rate, and the amount of time.
+
+For the first payment, the balance owed is $8854.12, the interest rate is 8.875%, and the time is one month (1/12 of a year).
+
+Taking the product of these three factors, we have
+
+{eq}\ \ \ \ \ (8854.12)(0.08875)(1/12) = \$65.48 {/eq}
+
+Then the remaining portion of the monthly payment applied to principal is
+
+{eq}\ \ \ \ \ 219.81 - 65.48 = \$154.33 {/eq}",,,C
+4,"Guy dePrimo buys a new car for $9,837.91. He puts 10% down and obtains a simple interest amortized loan for the rest at {eq}8 \frac 7 8 \% {/eq} interest for four years. (Round all answers to the nearest cent.)
+What is the interest portion of the first payment?
+<table>
+  <thead>
+    <tr>
+      <th>Payment Number</th>
+      <th>Principal Portion</th>
+      <th>Interest Portion</th>
+      <th>Total Payment</th>
+      <th>Balance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>$8854.12</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>",$60.00,$62.50,$64.00,$65.48,D,"To construct the first line in the amortization schedule, we first calculate the portion of the monthly payment applied to interest.
+
+The interest portion is based on the balance still owed, the interest rate, and the amount of time.
+
+For the first payment, the balance owed is $8854.12, the interest rate is 8.875%, and the time is one month (1/12 of a year).
+
+Taking the product of these three factors, we have
+
+{eq}\ \ \ \ \ (8854.12)(0.08875)(1/12) = \$65.48 {/eq}",,,D
+5,"Guy dePrimo buys a new car for $9,837.91. He puts 10% down and obtains a simple interest amortized loan for the rest at {eq}8 \frac 7 8 \% {/eq} interest for four years. (Round all answers to the nearest cent.)
+What is the new balance after the first payment?
+<table>
+  <thead>
+    <tr>
+      <th>Payment Number</th>
+      <th>Principal Portion</th>
+      <th>Interest Portion</th>
+      <th>Total Payment</th>
+      <th>Balance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>$8854.12</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td>$219.81</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>","$8,700.00","$8,699.79","$8,650.00","$8,600.00",B,"To construct the first line in the amortization schedule, we first calculate the portion of the monthly payment applied to interest.
+
+The interest portion is based on the balance still owed, the interest rate, and the amount of time.
+
+For the first payment, the balance owed is $8854.12, the interest rate is 8.875%, and the time is one month (1/12 of a year).
+
+Taking the product of these three factors, we have
+
+{eq}\ \ \ \ \ (8854.12)(0.08875)(1/12) = \$65.48 {/eq}
+
+Then the remaining portion of the monthly payment applied to principal is
+
+{eq}\ \ \ \ \ 219.81 - 65.48 = \$154.33 {/eq}
+
+Finally, the new balance is the previous balance minus the amount applied to principal:
+
+{eq}\ \ \ \ \ 8854.12 - 154.33 = \$8699.79 {/eq}",,,B
+6,What is the present value of an annuity if 15 payments of $300 are made at 6% interest?,"$4,500","$1,748","$5,140","$2,913",D,"The correct answer is Option d) $2,913.
+
+An annuity investment requires multiple deposits for a defined period periodically.
+
+As we have multiple deposits, we will first compute the present value annuity factory for the even cash flows over the next fifteen years:
+
+{eq}\begin{align*} PV_{oa} &= \dfrac{1-(1+r)^{-n}}{r} \\ &= \dfrac{1-(1 + 0.06)^{-15}}{0.06} \\ &= 9.7122489 \end{align*} {/eq}
+
+Where,
+
+{eq}PV_{oa} = \text{Present Value ordinary annuity factor}\\ r = \text{Interest rate} = 6\% \\ n = \text{Number of time periods} = 15\\ {/eq}
+
+We can now determine the present value of the annuity:
+
+{eq}\begin{align*} \text{Present value of the annuity} &= \text{Annual investment amount × Present Value ordinary annuity factor} \\ &= \$300 × 9.7122489 \\ &= \$2913 \end{align*} {/eq}",,,C
+7,"Onix Corporation is required to pay the pension cost of one of its unionized employees. According to the union contract terms, the employee will retire in eight years and receive $ 20,000 at the end of the three consecutive years following retirement. Interest is compounded annually.
+
+Compute the pension obligation that Onix has incurred today if the discount rate is 4 %.
+
+Pension Obligation:
+Pension obligation refers to the amount that a business must give its workers after they retire. It is computed based on factors such as employee salary, years of service, and the company's pension plan regulations. It is sometimes referred to as pension liability. On the balance sheet of a firm, it is represented as a liability.","$38,765.43","$40,554.64","$42,321.12","$44,217.89",B,"Given data,
+
+Years left to the retirement of the employee = 8 years
+The amount of pension the employee will receive at the end of the three consecutive years following retirement = $20,000
+Annual interest rate = 4%
+Interest is compounded annually.
+To compute the pension obligation that Onix Corporation has incurred today, we need to go through the following steps:
+
+Step - 1: Calculate the present value of the three pension instalments at the time of retirement, i.e., at the end of Year 8
+
+
+Since an equal amount of pension is received by the employee at the end of each year for the 3 consecutive years following retirement, i.e., at the end of Year 9, Year 10 and Year 11, respectively, this cash flow series represents an ordinary annuity. The present value of this cash flow series in Year 8 can be calculated using the following present value of an ordinary annuity formula:
+
+{eq}PV = PMT \times \dfrac{1-(1+r)^{-n}}{r} {/eq}
+
+Where,
+
+PMT = payment per period = $20,000
+r = discount rate = 4%
+n = number of periods of payments = 3 years
+PV = Present value of the three pension instalments in Year 8
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= $20,000 \times \dfrac{1-(1+0.04)^{-3}}{0.04}\\ &= $20,000 \times 2.775091033\\ &= $55,501.82\\ \end{align*} {/eq}
+
+
+
+Step - 2: Calculate the present value of Onix Corporation's pension obligation
+
+The present value of the pension obligation that Onix has incurred today can be calculated using the following formula:
+
+{eq}PV = \dfrac{FV}{(1+r)^n} {/eq}
+
+Where,
+
+PV = Present value of the pension obligation today
+FV = The accumulated value of the 3-year pension instalment in Year 8 = $55,501.82
+r = discount rate = 0.04
+n = Years left to retirement = 8
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= \dfrac{55,501.82}{(1+0.04)^8}\\ &=$40,554.64\\ \end{align*} {/eq}
+
+
+
+Therefore, the total amount of pension obligation that Onix has incurred today is $40,554.64.",,,A
+8,"If you start making $170 monthly contributions today and continue them for five years, what's their future value if the compounding rate is 10.50 percent APR? Round your final answer to 2 decimal places","$12,345.67","$13,456.44","$14,567.89","$15,678.12",B,"Since you will start making the monthly contributions today and continue them for the next 5 years consecutively, this cash flow represents an annuity due as the payment is made at the beginning of each period.
+
+The future value of an annuity due can be calculated using the following formula:
+
+{eq}FV_{Annuity\ Due}=P\times \dfrac{(1+r)^n-1}{r}\times(1+r) {/eq}
+
+Where,
+
+P = payment per month = $170
+n = number of periods of payments {eq}= 12\times 5=60\ months {/eq}
+{eq}r = \text{interest rate per period}=\dfrac{Annual\ percentage\ rate}{12}=\dfrac{0.105}{12}=0.00875 {/eq}
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} FV &= $170\times \dfrac{(1+0.00875)^{60}-1}{0.00875}\times(1+0.00875)\\ &=$170\times 78.46891221 \times 1.00875\\ &=$13,456.44\\ \end{align*} {/eq}
+
+
+
+Therefore, the future value of your total contributions to an annuity due after 5 years = $13,456.44.",,,B
+9,Compute the present value of your total contributions to an annuity due of 5 years if the monthly contribution is $170 and the annual interest rate is 10.5%.,"$7,000.00","$7,978.43","$8,654.32","$9,321.45",B,"The present value of an annuity due is calculated using the following formula:
+
+{eq}PV_{Annuity\ Due}=PMT \times \dfrac{1-(1+r)^{-n}}{r}\times(1+r) {/eq}
+
+Where,
+
+PMT = payment at the beginning of each month = $170
+n = number of periods of payments {eq}= 12\times 5=60\ months {/eq}
+{eq}r = \text{interest rate per month}=0.00875 {/eq}
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= $170\times \dfrac{1 - (1+0.00875)^{-60}}{0.00875} \times (1+0.00875)\\ &=$170\times 46.52482716 \times 1.00875\\ &=$7,978.43\\ \end{align*} {/eq}
+
+
+
+Therefore, the present value of your total contributions to an annuity due of 5 years = $7,978.43.",,,B
+10,"Sam wants to save money to open a tutoring center. He buys an annuity with a quarterly payment of $75 that pays 3% interest compounded quarterly. Payments will be made at the end of each quarter. Find the total value of the annuity in seven years.
+
+Purpose of an Annuity:
+An annuity is a flexible financial instrument with multiple uses, but its main objective is to offer a reliable source of income in retirement. Because of its tax-deferred growth feature, earnings will compound more quickly over time. Retirement planning can be stable and protected from asset outliving due to this consistent income. Annuities can also reduce market volatility, diversify sources of income, and provide advantages for long-term care planning. By enabling beneficiaries to receive any remaining funds after the annuitant's death, they also help facilitate legacy planning. Annuities are useful instruments for long-term financial objectives such as retirement planning since they are generally intended to offer stability, financial security, and peace of mind.","$2,100.35","$2,450.50","$2,327.12","$2,600.75",C,"Given information,
+
+Amount of payment made for the annuity at the end of each quarter = $75
+Annual interest rate = 3%
+The interest is compounded quarterly.
+Duration of the purchased annuity = 7 years.
+Since the annuity requires an equal amount of payment to be made at the end of each quarter consecutively over the next 7 years, this cash flow series represents an ordinary annuity.
+
+The total accumulated value of the annuity at the end of 7 years can be calculated using the following future value of an ordinary annuity formula:
+
+{eq}FV_{Ordinary\ Annuity} = P\times \dfrac{(1+i)^n-1}{i} {/eq}
+
+Where,
+
+FV = Future accumulated value of the annuity
+P = payment per period
+i = interest rate per period
+n = number of periods of payment
+In the above-given problem,
+
+{eq}P =$75\\ \text{Since the interest is compounded quarterly},\ i = \dfrac{\text{Annual interest rate}}{4}=\dfrac{0.03}{4}=0.0075\\ n = 7\times 4=28 {/eq}
+
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} FV &= $75 \times \dfrac{(1+0.0075)^{28}-1}{0.0075}\\ &=$75\times 31.02823301\\ &=$2,327.12\\ \end{align*} {/eq}
+
+
+
+Thus, the total value of the annuity in seven years is $2,327.12.",,,C
+11,"You won a lottery that promises to pay $10,000 every year for 6 years at the beginning of each year starting from today. If 5% is the interest rate, how much are all these payments worth today?
+Present Value of an Annuity Due:
+An annuity due is an annuity wherein the periodic payment is made at the beginning of each period. To compute the present value, PV, of an annuity due, we can implement the following formula:
+
+{eq}PV = P \bigg(\dfrac{1-(1+r)^{-n}}{r}\bigg)(1+r) {/eq}
+
+In this formula:
+
+P is the periodic payment
+r is the interest rate in decimal form
+n is the number of periods","$51,294.35","$51,250.40","$54,012.50","$53,294.77",D,"Since the payments occur at the beginning of each year, we are dealing with an annuity due.
+
+Also, we want to know how much the payments are worth today, so we want to determine its present value.
+
+In other words, we want to determine the present value of the given annuity due.
+
+Here are the given values:
+
+Periodic payments (P) = $10,000
+Interest Rate in decimal form (r) = 0.05
+Number of periods (n) = 6
+Plugging all three of these values into the present value formula for an annuity due will give us:
+
+{eq}\begin{align*} PV & = P \bigg(\dfrac{1-(1+r)^{-n}}{r}\bigg)(1+r) \\ & = \$ 10,000 \bigg(\dfrac{1-(1+0.05)^{-6}}{0.05}\bigg)(1+0.05) \\ & = \$ 10,000 \bigg(\dfrac{1-(1.05)^{-6}}{0.05}\bigg)(1.05) \\ & \approx \$ 53,294.77\\ \end{align*} {/eq}
+
+Thus, the payments are worth $53,294.77 today.",,,A
+12,"Gina Dare, who wants to be a millionaire, plans to retire at the end of 40 years. Gina's plan is to invest her money by depositing into an IRA at the end of every year. What is the amount that she needs to deposit annually in order to accumulate $1,000,000? Assume that the account will earn an annual rate of 11.5%. Round off to the nearest $1.
+
+A) $3,622
+B) $5,281
+C) $75
+D) $1,497
+
+Individual Retirement Account (IRA):
+One form of investing account that people can utilize to accumulate tax-advantaged money for retirement is an Individual Retirement Account (IRA). Because IRAs are created and maintained by individuals rather than by businesses, they provide people more control over the money they save for retirement. The IRA is largely intended for use by independent contractors who lack access to corporate retirement plans, such the 401(k), which are solely offered by employers. However, anyone who has access to a workplace retirement plan can also open an IRA and use it to make additional savings investments. An IRA account can be opened through a bank, financial firm, internet brokerage, or personal broker.","$3,622","$5,281",$75,"$1,497",D,"We are given the following data:
+
+The future value of Gina Dare's retirement savings = $1,000,000
+The annual rate of return earned by an IRA account = 11.5%.
+Time to retirement = 40 years
+This problem tells us that Gina plans to deposit equal amounts of money at regular intervals into an IRA account. She'll make one deposit at the end of each year over the next 40 years with the goal of accumulating $1 million for retirement. This cash flow represents an ordinary annuity because a fixed amount is invested at the end of each consecutive period.
+
+The amount of money Gina is required to invest annually can be calculated using the following future value of ordinary annuity formula:
+
+{eq}\rm FV_{Ordinary\ Annuity}=P\times \dfrac{(1+r)^n-1}{r} {/eq}, where:
+
+{eq}\rm FV = \text{Future accumulated value of Gina's retirement savings}=$1,000,000 {/eq}
+{eq}\rm r = \text{interest rate per period}=11.5\% = 0.115 {/eq}
+{eq}\rm n = \text{number of periods of investment} = 40\ years {/eq}
+
+
+By putting the corresponding values in the above formula and solving for P, we get:
+
+{eq}\rm $1,000,000 =P \times \dfrac{(1+0.115)^{40}-1}{0.115}\\ $1,000,000 =P \times 667.8496068\\ P = \dfrac{1,000,000}{667.8496068}\\ P = $1,497.34 {/eq}
+
+
+
+The amount of money Gina needs to invest at the end of each year over the next 40 years is (D) $1,497.34.",,,A
+13,"Find the periodic payments PMT necessary to accumulate the given amount in an annuity account. (Assume end-of-period deposits and compounding at the same intervals as deposits. Round your answer to the nearest cent.)
+
+$55,000 in a fund paying 3% per year, with quarterly payments for 20 years
+
+Annuity Account:
+An annuity account is a type of financial instrument that investment firms and insurance companies generally offer. It entails a number of equal payments made on a monthly, quarterly, or annual basis. These payments, which offer a steady income stream, can be issued for a predetermined amount of time or the entirety of the account holder's life.
+
+Annuity accounts can be used for a number of things, including retirement planning and securing a consistent income stream for a predetermined amount of time. They are frequently used to augment other income sources like Social Security or pensions in order to guarantee a consistent flow of funds during retirement.
+
+Annuities come in several varieties, such as variable, fixed, and index annuities. Every kind has unique qualities, advantages, and risks.",$502.34,$504.25,$506.19,$508.72,B,"The amount of quarterly payment necessary to accumulate $55,000 in an annuity account after 20 years is $504.25.
+
+
+
+Since the periodic deposits are to be made in the annuity account at regular intervals and the end of each period, this cash flow represents an ordinary annuity.
+To find the amount of each periodic payment (PMT) necessary to accumulate $55,000 in the above-mentioned annuity account at the end of the 20th year, we can use the following future value of ordinary annuity formula:
+{eq}FV_{Ordinary\ Annuity}=PMT\times \dfrac{(1+r)^n-1}{r} {/eq}
+
+Where,
+
+FV = Future accumulated value of the annuity account
+PMT = payment/deposit per period
+r = interest rate per period
+n = number of periods of payments
+In the above-given problem,
+
+FV = $55,000
+{eq}r = \text{interest rate per quarter}=\dfrac{\text{Annual interest rate}}{4}=\dfrac{0.03}{4}=0.0075 {/eq}
+{eq}n = \text{number of periods of deposits} = 20\times 4 = 80 {/eq}
+By putting the corresponding values in the above formula, we get:
+
+{eq}$55,000 = PMT \times \dfrac{(1+0.0075)^{80}-1}{0.0075}\\ Or,\ $55,000 = PMT \times 109.0725307\\ Or,\ PMT = \dfrac{55,000}{109.0725307}\\ Or,\ PMT = $504.2516171 {/eq}
+
+
+
+Therefore, the required amount of periodic payment is $504.25.
+",,,B
+14,"If a $100,000 payment at the end of each year for the next five years is scheduled, what is the equivalent amount if one were to make a lump sum payment now? (10% interest.)
+Annuity:
+An annuity if a security that pays a sum of money over a scheduled period of time based on the size and terms of the investment. Common forms of issuing payment may be issued annually, monthly, or weekly. Annuities are often assessed for comparison purposes based on the size of the annual payment relative to the total amount of money invested. Annuities are complex forms of investment based on variations in the size of payments, interest rates, and the length of time payments will be issued.","$162,370","$679,397","$379,100","$500,000",C,"The correct answer is C. $379,100. Below is the work used to find this. This is the Present Value (PV) of an Annuity.
+
+We are given the following known values:
+
+Annual Payment = $100,000
+
+Annual interest rate (r) = 10% or 0.1
+
+Number of period (n) = 5
+
+{eq}Present\:Value\:Annuity=Annual\:Payment * \frac{1-(1+r)^{-n}}{r} {/eq}
+
+{eq}Present\:Value\:Annuity=100000 * \frac{1-(1+.1)^{-5}}{.1} {/eq}
+
+{eq}Present\:Value\:Annuity=379,100 {/eq}",,,A
+15,"To pay for her college education, Sephia is saving RM2,000 at the beginning of each year for the next eight years in a bank account paying 12 percent interest. How much will Sephia have in that account at the end of 8th year?
+
+Annuity Due Meaning:
+A succession of equal payments made at the same interval at the start of each period is referred to as an annuity due. Periods can be any specified length of time, such as quarterly, semi-annually, yearly, or monthly. Rent, lease payments, and insurance premiums are a few instances of annuity due payments. These payments are designed to cover services rendered in the time frame that follows the payment.","RM26,400.52","RM27,551.31","RM28,789.43","RM29,012.75",B,"Given information,
+
+Amount of money deposited in a savings account at the beginning of each year = RM2,000
+Duration of savings = 8 years
+Annual interest rate = 12%
+The total amount of money that will have at the end of the 8th year in her savings bank account can be calculated using the future value of an annuity due formula.
+
+Since an equal amount of money is saved and invested at the beginning of each year consecutively over the next 8 years, the cash flow series represents an annuity due.
+
+The future value of an annuity due formula can be represented mathematically as follows:
+
+{eq}FV = P\times \dfrac{(1+r)^n-1}{r}\times(1+r) {/eq}
+
+Where,
+
+FV = Future value of the annuity due
+P = payment at the beginning of each period
+r = interest rate per period
+n = number of periods
+In the above-given problem,
+
+FV = Future accumulated value of Sephia's savings account at the end of the 8th year
+P = RM2,000
+r = 12%
+n = 8 years
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} FV &= 2,000\times \dfrac{(1+0.12)^8-1}{0.12}\times(1+0.12)\\ &=2,000\times 12.29969314\times 1.12\\ &=2,000\times 13.77565631\\ &=27,551.31262\\ \end{align*} {/eq}
+
+
+
+Therefore, the total amount of money Sephia will have in her savings account at the end of the 8th year is RM27,551.31.",,,C
+16,"If $20,000 is invested at the end of each fiscal year for the next 10 years, how much would the total investment be worth assuming the interest is at 10%?
+
+Present and Future value of Annuities:
+Annuities refer to periodic payments, such as interest on a bond or the rent on a flat. In ordinary annuities, payments/deposits are made at the end of each period. Annuities that are paid at the start of each period are referred to as annuity due.
+
+The total accumulated value of a series of payments at some point in the future at a given interest rate is referred to as the future value of an annuity. In contrast, the present value of an annuity measures how much principal is needed now to generate a series of annuity payments in the future at a predetermined rate of interest.","$300,542.67","$318,748.49","$320,895.23","$325,456.78",B,"Given information,
+
+Amount of money invested per annum = $20,000
+The investment is made at the end of each year.
+Duration of investment = 10 years.
+Interest rate per annum = 10%
+Since an equal amount of money is deposited in an investment account at the end of each year for the next 10 years, this cash flow series represents an ordinary annuity. We know that in an ordinary annuity, an equal amount of cash is deposited at the end of each period for a fixed duration.
+
+The future value of an ordinary annuity can be calculated using the following formula:
+
+{eq}FV_{Ordinary\ Annuity}=P\times \dfrac{(1+r)^n-1}{r} {/eq}
+
+Where,
+
+FV = Future accumulated value of the investment account
+P = deposit per period = $20,000
+r = interest rate per period = 10%
+n = number of periods = 10 years
+By putting the corresponding values in the above formula, we get the future value of the investment account at the end of 10 years as follows:
+
+{eq}\begin{align*} FV &=$20,000\times \dfrac{(1+0.10)^{10}-1}{0.10}\\ &=$20,000\times 15.9374246\\ &=$318,748.49\\ \end{align*} {/eq}
+
+
+
+The worth of the total investment at the end of 10 years would be $318,748.49.",,,B
+17,"Please explain what PVIFA is and how it equals 6.2788 in the calculations shown below.
+
+Initial investment = $90,000
+Period = 10 years
+Compounding = Annually
+Rate of interest = 9.5%
+
+The equal annual withdrawals = Initial investment / PVIFA(9.5%,10)
+The equal annual withdrawals = 90,000 / 6.2788 = $14,333.95
+
+What is the value of PVIFA(9.5%, 10)?",6.2788,5.8934,7.1239,6.5741,A,"PVIFA stands for Present Value Interest Factor for Annuity. It is a factor used to calculate the present value of periodic payments of equal amounts (Annuity) to be made in the future at a given interest rate for a set period.
+
+The present value interest factor for an annuity (PVIFA) @ 9% per annum for ten years can be calculated using the following formula:
+
+{eq}\begin{align*} \text{PVIFA} &= \dfrac{1-(1+r)^{-n}}{r}\\ &= \dfrac{1-(1+ 0.095)^{-10}}{0.095}\\ &= \dfrac{1-(1.095)^{-10}}{0.095}\\ &= \dfrac{0.5964858}{0.095}\\ &= 6.2788 \end{align*} {/eq}
+
+Where,
+
+{eq}PVIFA = \text{Present value interest factor for annuity }\\ r = \text{Interest rate} = 9.5\%\\ n = \text{Number of periods} = 10\\ {/eq}
+
+",,,A
+18,"There are 35 years left until retirement, and the desired amount to have for retirement is $4.5 million. The salary is paid annually, and $91,000 will be received at the end of the current year. The salary will increase at 3 percent per year, and a return of 9.4 percent can be earned on the money invested. If a constant percentage of the salary is saved, what percentage of the salary must be saved each year?
+
+Present Value of a Growing Annuity:
+The present value of a growing annuity formula helps estimate the current value of a sequence of cash flows that increase proportionately. In other words, it refers to the present value of a series of payments or deposits that increases (or decreases) at a steady rate per period. The PV of a growing annuity has a set number of periods, in contrast to a growing perpetuity that continues for an indefinite time.
+
+For a predetermined number of periods, the annuity payments are made at the end of each period. A discount rate is then applied, and the formula reduces the value of each payment to its present value. A growing annuity is also referred to as an increasing or graduated annuity.",14.35%,15.52%,16.75%,17.10%,B,"The above-given problem can be solved through the following steps:
+
+Step - 1: Computation of the present value of retirement amount of $4.5 million
+
+The present value of the desired retirement amount of $4.5 million can be calculated using the following formula:
+
+{eq}PV = \dfrac{FV}{(1+r)^n} {/eq}
+
+Where,
+
+PV = Present value
+FV = Future value of the retirement amount = $4,500,000
+r = annual interest rate = 9.4%
+n = number of years = 35
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= \dfrac{4,500,000}{(1+0.094)^{35}}\\ &=$193,912.70\\ \end{align*} {/eq}
+
+
+
+The present value of the retirement amount is $193,912.70.
+
+
+
+Step - 2: Computation of the first year savings amount
+
+To accumulate $4.5 million for retirement after 35 years, a fixed percentage of the salary is saved and invested at the end of each year.
+Again, the annual salary will increase at a rate of 3% per year.
+To calculate the amount of money that is invested at the end of the first year we can use the following present value of a growing ordinary annuity formula:
+
+{eq}PV = P \times \dfrac{1 - \left(\dfrac{(1+g)^n}{(1+r)^n }\right)}{r-g}\\ {/eq}
+
+Where,
+
+PV = Present value of the growing ordinary annuity
+P = First year annuity payment
+r = annual interest rate
+n = number of periods of annuity
+g = growth rate per annum
+In the above-given problem,
+
+PV = $193,912.70
+r = 0.094
+g = 0.03
+n = 35
+By putting the corresponding values in the above formula, we get:
+
+{eq}$193,912.70 = P \times \dfrac{1 - \left(\dfrac{(1+0.03)^{35}}{(1+0.094)^{35}}\right)}{0.094-0.03}\\ Or,\ $193,912.70 = P \times \dfrac{1-0.121254145}{0.064}\\ Or,\ $193,912.70 = P \times 13.73040398\\ Or,\ P = \dfrac{193,912.70}{13.73040398}\\ Or,\ P = $14,122.86924 {/eq}
+
+
+
+The portion of the salary that is saved at the end of the first year is $14,122.87.
+
+
+
+Step - 3: Computation of the constant salary percentage that is saved every year
+
+Amount of money saved at the end of the first year = $14,122.87.
+Amount of salary received at the end of the first year = $91,000
+{eq}\begin{align*} \text{Percentage of the salary saved} &=\dfrac{14,122.87}{91,000}\\ &= 0.155196373\\ &= 15.52\%\ (rounded\ off)\\ \end{align*} {/eq}
+
+
+
+Therefore, the fixed percentage of the annual salary that is saved and invested at the end of each of the next 35 years is 15.52%.",,,B
+19,"Robert is repaying a debt with 19 annual end-of-the-year payments of $1,000 each. At the end of the 4th year, he makes an extra payment of $2,000. He then refinances his loan by reducing his remaining payment period by 2 years and making level payments over the remaining time. If the effective rate of interest is 7.1%, what is the amount of his new annual payment
+
+Calculating a Loan Refinance Amount
+Given a loan that is being repaid with regular equal payments over a period of time, it is possible to determine the new present value of the loan if an extra payment is made after a certain point. We can also calculate the new regular payment amount if the original time period is shortened by a specified number of years.",$837.92,$848.41,$859.54,$872.18,B,"Because the loan is being repaid with regular equal payments, we use the present value annuity formula to answer this question. This formula is expressed as:
+
+{eq}\rm P = R \left[ \dfrac{1 - (1 + i)^{-n}}{i} \right] {/eq}, where:
+
+P is the present value of the loan
+R is the regular payment amount
+i is the periodic interest rate
+n is the total number of payments
+
+
+We are given that the loan was set up to be paid off over 19 years. To determine the new present value P (amount still owed) after 4 years, we note that there are 15 years remaining.
+
+Then, we have the following values:
+
+R = $1,000
+i = 7.1% = 0.071
+n = 15 years
+
+
+Thus, the new present value of the loan after 4 years is:
+
+{eq}\rm P = 1000 \left[ \dfrac{1 - (1 + 0.071)^{-15}}{0.071} \right] = \$9050.66 {/eq}
+
+
+
+Next, when the extra payment of $2,000 is made, the present value is reduced to P = $7,050.66. Also, the number of remaining annual payments is reduced from 15 to 13. This produces the following values:
+
+P = $7,050.66
+i = 0.071
+n = 13
+
+
+Then, the new annual payment amount may be found by solving for R in the formula:
+
+{eq}\rm 7050.66 = R \left[ \dfrac{1 - (1 + 0.071)^{-13}}{0.071} \right] {/eq}
+
+
+
+This yields:
+
+{eq}\rm 7050.66 = R(8.310483763) {/eq}
+
+
+
+Hence, the new annual payment amount is:
+
+{eq}\boxed{\bf R = \$848.41} {/eq}",,,C
+20,"Sherwin Williams will receive $21,250 a year for the next 16 years as a result of a picture he has painted. What is the present value of these payments if the discount rate is 6 percent?
+
+Present Value of Annuity:
+The current value of a series of future payments made at regular intervals is known as the present value of an annuity. This value is determined by discounting the future cash flows at a specific interest rate, and it signifies the sum of money required to be invested currently to generate those future payments.","$210,342.56","$212,456.78","$214,750.27","$217,892.19",C,"We can use the formula for the present value of an annuity to calculate the present value of future payments. This is given by:
+
+{eq}\rm PV=PMT\:\times \frac{1-\frac{1}{\left(1+r\right)^n}}{r} {/eq}
+
+where PV is the present value, PMT is the annual payment, r is the discount rate (expressed as a decimal), and is the number of periods where the payment is made
+
+
+With respect to these variables, the given are:
+
+PMT= {eq}\rm \$21, 250 {/eq}, r= {eq}\rm 0.06 {/eq}, and n= {eq}\rm 16 {/eq}
+
+
+
+Substituting these values into the formula:
+
+{eq}\rm PV=\$21,\:250\times \frac{1-\frac{1}{\left(1+0.06\right)^{16}}}{0.06\:}\\ PV=\$21,\:250\times \frac{1-\frac{1}{\left(1.06\right)^{16}}}{0.06\:}\\ PV=\$21250\times \frac{0.60635\:}{0.06}\\ PV=\$214750.27451 {/eq}
+
+
+
+Based on our calculation, the present value, receiving {eq}\rm \$21,250 {/eq} and discount rate of {eq}\rm 6\% {/eq} a year for the next 16 years is approximately {eq}\rm \$214,750 {/eq}.",,,A
+21,"Find the savings plan balance after 9 months with an APR of 7% and monthly payments of $200.
+
+Savings Plan:
+A savings plan is a type of financial tool that offers life insurance and helps an investor accumulate funds for both short and long-term financial objectives. When an investor participates in a savings plan, they make consistent monthly investments that are placed in money market funds for growth. If the policyholder passes away during the plan's duration, the beneficiary will receive payment. Savings plans are the greatest investment option for risk-averse people who wish to save for their future financial objectives because they offer a guaranteed return on maturity.","$1,842.58","$1,825.45","$1,832.67","$1,850.34",A,"Given data,
+
+Amount of monthly deposit = $200
+Number of periods of deposits = 9 months
+Annual interest rate = 7%
+Assuming an equal amount of money, i.e., $200 is deposited at the end of each month into the savings account for the next 9 months, this cash flow series represents an ordinary annuity. The savings account balance after 9 months can be estimated using the following future value of an ordinary annuity formula:
+
+{eq}FV_{Ordinary\ Annuity}=PMT \times \dfrac{(1+r)^n-1}{r} {/eq}
+
+Where,
+
+FV = Future value or balance of the savings account
+PMT = payment per period = $200
+{eq}r = \text{interest rate per period or monthly interest rate} =\dfrac{APR}{12}=\dfrac{0.07}{12}=0.0058333333 {/eq}
+n = number of periods of payments = 9 months
+By putting the corresponding values in the above-mentioned formula, we get:
+
+{eq}\begin{align*} FV &= $200 \times \dfrac{(1+0.0058333333)^9-1}{0.0058333333}\\ &=$200\times 9.212883489\\ &=$1,842.58\\ \end{align*} {/eq}
+
+
+
+Therefore, the savings plan balance after 9 months is $1,842.58.",,,C
+22,"Suppose you want to have $500,000 for retirement in 30 years. Your account earns 5% interest.
+
+How much would you need to deposit in the account each month?
+
+Interest:
+Interest is the cost of borrowing money or the compensation received for lending money. It is typically expressed as a percentage of the principal amount, which is the original sum of money borrowed or invested. Interest is calculated over a certain period, usually on an annual basis.",$590.34,$600.78,$610.45,$620.89,B,"A fixed value needs to be deposited in the account each month to achieve a retirement fund of $500,000 after 30 years. The monthly deposit value can be calculated using the future value of an annuity formula shown below:
+
+{eq}FV=P\times \left( \dfrac{(1+r)^n-1}{r} \right) {/eq}
+
+Where:
+
+{eq}FV {/eq} is the future value of the annuity. Here, {eq}FV=\$500,000 {/eq}
+
+{eq}P {/eq} is the monthly deposit.
+
+{eq}r {/eq} is the monthly interest rate, in this case, expressed in decimal form.
+
+{eq}n {/eq} is the total number of deposits.
+
+The deposits are made each month for 30 years. Since there are 12 months in a year, the number of months in 30 years {eq}= 30\times 12 = 360 {/eq}
+
+So, in this case, {eq}n=360 {/eq}
+
+Since it is not explicitly mentioned in the question, we consider the rate of interest of 5% offered on the account to be an annual rate rather than a monthly rate. The monthly deposits require the calculations to be using a monthly rate of interest. So, {eq}r=\dfrac{0.05}{12}=0.004167 {/eq}
+
+Rearranging the formula and using the values in it, we get:
+
+{eq}\begin{align*} P&=\dfrac{FV\times r}{(1+r)^n-1} \\ &=\dfrac{500,000\times 0.004167}{(1+0.004167)^{360}-1} \\ &=\dfrac{2083.33}{4.4677-1} \\ &=\dfrac{2083.33}{3.4677} \\ &=\$600.78 \end{align*} {/eq}
+
+So, $600.78 needs to be deposited in the account each month to reach $500,000 for retirement in 30 years, given a 5% interest rate.",,,A
+23,"Suppose you deposit $1,000 in three payments of $333.333 each on January 1, 2010, 2011, and 2012.
+
+How much will you have in your account on January 1, 2012, based on 8% annual compounding?
+
+Future Value of an Annuity Due:
+The total accumulated value of a series of cash payments made at the start of each pay period at a specific date in the future is determined by the future value of an annuity due formula. It helps ascertain the cash flow potential of a financial investment. The formula includes three variables: the amount of payment per period, the number of periods of payments and the interest rate per period.","$1,082.12","$1,075.50","$1,088.45","$1,095.67",A,"The amount of money in your account on January 01, 2012 = $1,082.12.
+
+
+
+Given information,
+
+The amount of money deposited on January 01, 2010, 2011, and 2012, respectively is $333.33.
+The account earns an interest rate of 8% compounded annually.
+Since an equal amount of money is deposited at the beginning of each year for three years consecutively, this cash flow represents an annuity due.
+
+The future value of an annuity due is calculated using the following formula:
+
+{eq}FV_{Annuity\ due}=PMT \times \dfrac{(1+r)^n-1}{r}\times(1+r) {/eq}
+
+Where,
+
+PMT = payment per period =$333.33
+r = interest rate per period =0.08
+n = number of periods = 2
+
+
+As per the above-given problem, we are required to calculate the amount of money that you will have in your account on January 01, 2012.
+Since $333.33 is deposited at the beginning of each of the above-given 3 consecutive years, it's an annuity due.
+First, we need to calculate the accumulated future value of the two deposits of $333.33 made on January 01, 2010, and 2011, respectively, on January 01, 2012. Then, the estimated future value is added to the amount deposited on January 01, 2012, i.e., $333.33 to get the final account balance.
+The future value calculation is shown below:
+
+{eq}\begin{align*} FV &= $333.33\times \dfrac{(1+0.08)^2-1}{0.08}\times (1+0.08)\\ &=$333.33\times2.08\times1.08\\ &=$748.792512\\ \end{align*} {/eq}
+
+
+
+The future value of the two consecutive deposits of $333.33 made in 2010, and 2011, on January 01, 2012, is $748.792512.
+
+
+
+Therefore, the amount of money you will have in your account on January 01, 2012, is
+
+{eq}=$748.792512+\text{Deposit made on January 01, 2012}\\ =$748.792512+$333.33\\ =$1,082.122512\\ =$1,082.12\ (rounded\ off) {/eq}",,,C
+24,"Calculate the present value of a warranty that is $75 per unit for 5 years. The inflation is 4%.
+
+Warranties:
+Warranties are provided to the customer by the seller on the products in case of faults found in the products sold during a predefined warranty period. The warranty covers a free service on the product within that period. There is a separate accounting treatment for warranties",$315.78,$320.45,$333.89,$340.12,C,"The present value of the warranty is $333.89.
+
+Use the present value of an annuity formula to determine the present value of the warranty:
+
+{eq}PV_{oa}=A\times \dfrac{1-(1+r)^{-n}}{r}\\ {/eq}
+
+Where,
+
+{eq}PV_{oa} = \text{Present value of ordinary annuity}\\ A = \text{Amount of annuity payment} = \$75\\ r = \text{Interest rate} = 4\%\\ n = \text{Number of periods} = 5\\ {/eq}
+
+Upon substituting these values into our present value formula and simplifying, we have:
+
+{eq}PV_{oa}=A×\frac{1-(1+r)^{-n}}{r}\\ PV_{oa}=$75 × \frac{1\,-\,(1\,+\,0.04)^{-5}}{0.04}\\ PV_{oa}=$75 × 4.45182233\\ PV_{oa}= \,$333.89 {/eq}",,,C
+25,"Congratulations! You have won a state lottery. The state lottery offers you the following (after-tax) payout options:
+
+$14,000,000 after five years
+$2,000,000 per year for five years
+$13,000,000 after three years
+Present value of the payout, Option #1 is $_____.
+
+Round your answer to the nearest dollar.
+
+Annuity:
+An annuity is an investment opportunity that offers periodic cash flows of equal amounts until the end of a defined period. Annuities involve payments at the beginning of the period and the end of the period.","$9,528,165","$9,732,150","$9,845,250","$10,000,001",A,"The present value of the payout, Option 1, is $9,528,164.76.
+
+The present value of the state lottery offered in Option 1 is computed below:
+
+As per option 1) $14,000,000 will be received at the end of five years, and the interest rate is 8%.
+
+As the cash flow is single, the present value of a single cash flow formula should be used to determine the present value of the lottery:
+
+{eq}PV=P\times \dfrac{1}{(1+r)^{n}}\\ {/eq}
+
+Where,
+
+{eq}PV = \text{Present value of a single payment}\\ A = \text{Amount of payment} = \$14,000,000\\ r = \text{Interest rate} = 8\%\\ n = \text{Number of periods} = 5\\ {/eq}
+
+Upon substituting these values into our present value formula and simplifying, we have:
+
+{eq}PV=P\times \dfrac{1}{(1+r)^{n}}\\ PV=$14,000,000 × \frac{1}{(1 + 0.08)^{5}}\\ PV=$14,000,000 × 0.6805832\\ PV= \,$9,528,164.76 {/eq}
+
+",,,A
+26,"The income from an established chain of laundromats is a continuous stream with its annual rate of flow at time t given by f(t)=$400,000 (dollars per year). If money is worth 4% compounded continuously, find the present value of this chain over the next 6 years. (Round your answers to the nearest dollar.)","$2,133,721","$2,125,345","$2,145,678","$2,150,123",A,"We are given:
+
+The annual cash flow (the amount of money that will be deposited per year) is {eq}\rm f(t) = \$400,000 {/eq}.
+The rate of interest compounded continuously is {eq}\rm r=4\% = 0.04 {/eq}.
+The time is {eq}\rm t=6 {/eq} years.
+
+
+The formula for finding the present value of income is expressed as:
+
+{eq}\rm PV=\int_0^t f(t)e^{-rt}dt {/eq}, where:
+
+t is the time
+r is the interest rate
+f(t) is the annual cash flow in dollars per year
+
+
+Substituting the relevant values, we have:
+
+{eq}\begin{aligned} \rm PV&=\rm \int_0^6 400000e^{-0.04t}dt\\ &=\rm 400000\int_0^6 e^{-0.04t}dt\\ &=\rm 400000\left(\dfrac{e^{-0.04t}}{-0.04}\right)_0^6\\ &=\rm 400000\left(\dfrac{e^{-0.04\times 6}-e^{0}}{-0.04}\right)\\ &=\rm 2133721.4 \end{aligned} {/eq}
+
+
+
+Therefore, the present value of the income is $2,133,721.40.",,,A
+27,"If the annuity pays interest at a rate of 4% per year, with interest paid continuously, how much will be in the account when you retire in 30 years? Round value to the nearest cent; do not include a dollar sign with your answer.",3.200P,3.250P,3.217P,3.243P,D,"We are given:
+
+The rate of interest per year is r = 4% (r = 0.04)
+The time is t = 30 years.
+
+
+The formula for compound interest is expressed as:
+
+{eq}\rm A=P\left(1+\dfrac{r}{n}\right)^{nt} {/eq}, where:
+
+P is the principal amount
+r is the interest rate (r = 0.04)
+t is the time (t = 30 years)
+n is the number of times compounded annually (n = 1)
+
+
+Substituting the known values into the above formula, we have:
+
+{eq}\begin{aligned} \rm A&=\rm P\left(1+\dfrac{0.04}{1}\right)^{1\times 30}\\ &=\rm P\left(1.04\right)^{30}\\ &=3.243P\\ \end{aligned} {/eq}
+
+
+
+Therefore, the amount of money in the person's account after 30 years is 3.243 times the initial principal balance.",,,D
+28,"You want to be able to withdraw $30,000 from your account each year for 30 years after you retire. You expect to retire in 20 years.
+
+If your account earns 6% interest, how much will you need to deposit each year until retirement to achieve your retirement goals?
+
+Future Value of an Annuity:
+The future value (FV) of an annuity depends on various factors, such as the annual payment {eq}(P) {/eq}, the annual interest rate {eq}(r) {/eq}, and the number of payments {eq}(n) {/eq}. Making a change in any of these quantities leads to a change in the future value. The formula for the future value is {eq}FV=P\times\dfrac{(1+r)^n-1}{r} {/eq}.","$23,500.23","$24,466.49","$25,123.78","$26,789.45",B,"If we wish to withdraw $30,000 each year, then we must have {eq}30 \times \$30,000=\$900,000 {/eq} in our account. This is our future value.
+
+The annual rate of interest is {eq}r=6\% {/eq}.
+
+Represent the rate of interest in decimal by dividing the percentage rate of interest by 100.
+
+{eq}\begin{aligned} r &=6\% \\ r &=\dfrac{6}{100} \\ r &=0.06 \\ \end{aligned} {/eq}
+
+The number of payments is {eq}n=20 {/eq} since the person expects to retire in 20 years.
+
+Now, substitute {eq}n=20 {/eq}, {eq}FV=900,000 {/eq}, and {eq}r=0.06 {/eq} in the formula {eq}FV=P\times\dfrac{(1+r)^n-1}{r} {/eq} to find the annual deposit {eq}P {/eq}.
+
+{eq}\begin{aligned} 900,000 &=P\times \dfrac{(1+0.06)^{20}-1}{0.06} \\ 900,000 &=P\times \dfrac{(1.06)^{20}-1}{0.06} \\ 54,000 &=P\times[ (1.06)^{20}-1] \end{aligned} {/eq}
+
+Solve the obtained equation for {eq}P {/eq}.
+
+{eq}\begin{aligned} P &=\dfrac{54,000}{(1.06)^{20}-1} \\ P &\approx \dfrac{54,000}{3.2071-1} \\ P &\approx \dfrac{54,000}{2.2071} \\ P &\approx 24,466.49 \end{aligned} {/eq}
+
+Consequently, one must deposit approximately $24,466.49 each year until retirement to achieve retirement goals.",,,B
+29,"Amanda wants to be able to have yearly withdrawals of $25,000 from her retirement account for 30 years starting a year after she turns 65.
+
+If she can earn a yearly rate of return of 7% in her retirement account during the 30 years of her retirement, what must be the approximate balance on her 65th birthday?
+
+Individual Retirement Account (IRA):
+The earning individuals in the USA can use an Individual Retirement Account (IRA) to save for retirement while taking advantage of certain tax benefits. The IRA is largely intended for self-employed people who lack access to corporate retirement plans, such as the 401(k), which are solely offered by employers. A bank, financial firm, online brokerage, or personal broker can all help an individual start an IRA. There are different types of IRAs like traditional IRAs, Roth IRAs, Simplified Employee Pension (SEP) IRAs, etc. Everyone who has earned income, including those who have a 401(k) account through their workplace, is eligible to open and make contributions to an IRA. The only limitation is the maximum amount of money that one can contribute to their account per year.","$308,125.45","$310,226.03","$312,345.78","$315,450.67",B,"The approximate balance of Amanda's retirement account on her 65th birthday must be $310,226.03.
+
+
+
+Given information,
+
+Yearly withdrawal amount = $25,000
+Total duration of withdrawal = 30 years
+Annual interest rate = 7%
+Amanda will start withdrawing money a year after she turns 65.
+Since Amanda intends to withdraw an equal amount of money from her retirement account at the end of each year over a period of 30 years after she turns 65, this cash flow series represents an ordinary annuity.
+
+The amount of money that Amanda should have in her retirement account on her 65th birthday to fund this withdrawal plan can be estimated using the following present value of the ordinary annuity formula:
+
+{eq}PV = PMT \times \dfrac{1-(1+r)^{-n}}{r} {/eq}
+
+Where,
+
+PV = Present value of ordinary annuity
+PMT = payment per period
+r = annual interest rate
+n = number of periods
+In the above-given problem,
+
+PMT = $25,000
+r = 7%
+n = 30 years
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= $25,000 \times \dfrac{1-(1+0.07)^{-30}}{0.07}\\ &=$25,000 \times 12.40904118\\ &=$310,226.03\\ \end{align*} {/eq}
+
+
+
+Thus, the approximate balance that Amanda should have in her retirement account on her 65th birthday is $310,226.03.",,,B
+30,"What is the present value of $9,000 to be received at the end of each of the 20 periods, discounted at 5% compound interest?
+
+Present Value of Annuity:
+An annuity is an investment opportunity that offers periodic interest payments of the same value for a specific time horizon. The equivalent present worth of the annuity can be determined by considering the prevailing interest rate on the investment and the periodicity of payments.","$65,432.10","$66,789.45","$67,840.11","$68,912.30",C,"The present value of $9,000 to be received at the end of each year for 20 years is $67,840.11.
+
+We will use the ordinary annuity formula to calculate the present value as the cash flows are received at the end of each year.
+
+Assuming the interest is compounded annually, the present value formula for an investment is provided below:
+
+{eq}PV_{oa}=A\times \dfrac{1-(1+r)^{-n}}{r}\\ {/eq}
+
+Where,
+
+{eq}PV_{oa} = \text{Present Value of ordinary annuity}\\ A = \text{Amount of annuity payment} = $9,000 \\ r = \text{interest rate} = 5\%\\ n = \text{number of time periods} = 20\\ {/eq}
+
+Upon substituting these values into our present value formula and simplifying, we have:
+
+{eq}PV_{oa}=A×\frac{1-(1+r)^{-n}}{r}\\ PV_{oa}=$9,000 × \frac{1\,-\,(1\,+\,0.05)^{-20}}{0.05}\\ PV_{oa}=$9,000 × 7.5377897\\ PV_{oa}= \,$67,840.11 {/eq}
+
+If $9,000 is received annually for 20 years at 5% interest compounded annually, then its present value will be $67,840.11.",,,C
+31,"Blake contributed $534 at the end of every 3 months into an RRSP fund earning 4.45% compounded quarterly for 14 years.
+
+What is the future value of the fund at the end of 14 years?
+
+(Round to the nearest cent.)
+
+Registered Retirement Savings Plan (RRSP):
+In Canada, self-employed people and workers can invest in and save for retirement through Registered Retirement Savings Plans (RRSPs). They resemble American Individual Retirement Accounts (IRAs) and 401(k) plans in many respects. Pre-tax contributions are made to an RRSP, where they grow tax-free until they are withdrawn and subject to marginal rate taxation. A RRSP fund allows for a broad variety of investment options, such as bonds, equities, mutual funds, and exchange-traded funds.","$40,982.45","$41,189.30","$41,452.10","$41,732.55",B,"The future value of the fund at the end of 14 years is $41,189.30.
+
+
+
+An annuity's future value formula can be used to estimate the total accumulated value of a series of equal payments at a specific future date. On the other hand, the amount needed currently to generate a series of future payments is measured by the present value of an annuity formula.
+In an ordinary annuity the payments are made at the end of each period. In contrast, in an annuity due the payments are made at the start of each period.
+An annuity's future value can only be determined by knowing its expected rate of return, total number of periods, and annuity payment amount per period.
+Given data,
+
+Amount of money contributed at the end of every 3 months into an RSSP fund = $534.
+Annual interest rate = 4.45%.
+The interest is compounded quarterly.
+Duration of investment = 14 years.
+Since an equal amount of money is contributed to the RRSP fund at the end of every 3 months for the next 14 years, this cash flow represents an ordinary annuity. The future value of an ordinary annuity can be calculated using the following formula:
+
+{eq}FV_{Ordinary Annuity} = A\times \dfrac{\left(1+\dfrac{r}{m}\right)^{mT}-1}{\dfrac{r}{m}} {/eq}
+
+Where,
+
+A = deposit per period = $534
+r = annual interest rate = 4.45%
+m = number of times the interest is compounded per period = 4 (quarterly)
+T = duration of investment = 14 years
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} FV_{Ordinary Annuity} &= $534 \times \dfrac{\left(1+\dfrac{0.0445}{4}\right)^{4*14}-1}{\dfrac{0.0445}{4}}\\ &= $534 \times \dfrac{(1+0.011125)^{56}-1}{0.011125}\\ &=$534 \times 77.1335182\\ &=$41,189.30\\ \end{align*} {/eq}
+
+
+
+Therefore, the future value of the fund at the end of 14 years = $41,189.30.",,,C
+32,"What is the accumulated value of periodic deposits of $30 at the beginning of every quarter for 18 years if the interest rate is 3.68% compounded quarterly?
+
+Annuity:
+An annuity is a series of periodic cash flows. In financial mathematics, annuities are used in insurance plans, loan schedules, systematic investments, and withdrawal plans.","$3,052.15","$3,072.28","$3,089.45","$3,110.30",B,"To calculate the accumulated value of an annuity, we will use the cumulative accumulation factor.
+
+{eq}\text{Cumulative Accumulation Factor} = \dfrac{(1 + \frac{i}{p})^{n \times p} - 1}{\dfrac{\frac{i}{p}}{1 + \frac{i}{p}}} {/eq}
+
+Here,
+
+i = 3.68%
+
+n = 18 years
+
+p = 4 years
+
+Putting values, we get -
+
+{eq}\begin{align} \text{Cumulative Accumulation Factor} &= \dfrac{(1 + \frac{i}{p})^{n \times p} - 1}{\dfrac{\frac{i}{p}}{1 + \frac{i}{p}}}\\ &= \dfrac{(1 + \frac{0.0368}{4})^{18 \times 4} - 1}{\dfrac{\frac{0.0368}{4}}{1 + \frac{0.0368}{4}}}\\ &= 102.4093093\\ \end{align} {/eq}
+
+So, the total accumulated value will be $30 X 102.4093093 = $3,072.28",,,C
+33,"How much should Abir's dad invest in a savings account today, to be able to pay for Luis's rent for the next four years if the rent is $900 payable at the beginning of each month?
+
+The savings account earns 3.21% compounded monthly.
+
+Annuity:
+An annuity is a series of periodic cash flows. Generally, annuities are of two types viz. annuity due and annuity regular. If the cash flows are at the end of the period, it is annuity regular and if the cash flows are at the beginning of the period, it is annuity due.","$39,750.67","$40,599.13","$41,345.78","$42,123.45",B,"As the rent is to be paid at the beginning of the month, it will form an annuity due.
+
+Abir's dad should invest an amount equal to the present value of $900 at the end of every month for 4 years at 3.21% compounded monthly.
+
+{eq}\text{Cumulative Present Value Factor (i%,n)} = \dfrac{1 - (1 + \frac{i}{p})^{-n \times p}}{\dfrac{\frac{i}{p}}{1 + \frac{i}{p}}} {/eq}
+
+Here, i = 3.21%
+
+p = 12
+
+n = 4 years
+
+Putting values, we get -
+
+{eq}\begin{align} \text{Cumulative Present Value Factor (i%,n)} &= \dfrac{1 - (1 + \frac{i}{p})^{-n \times p}}{\dfrac{\frac{i}{p}}{1 + \frac{i}{p}}}\\ &= \dfrac{1 - (1 + \frac{0.0321}{12})^{-4 \times 12}}{\dfrac{\frac{0.0321}{12}}{1 + \frac{0.0321}{12}}}\\ &= \dfrac{1 - (1.002765)^{-48}}{0.00266783}\\ &= 45.1101445\\ \end{align} {/eq}
+
+So, Abir's Dad should invest $900 X 45.1101445 = $40,599.13 in the savings account.",,,A
+34,"Kay purchased an annuity that had an interest rate of 2.75% compounded semi-annually. It provides with payment of $3,500 at the end of every month for 6 years. If the first withdrawal is to be made in 5 years and 1 month, how much did she pay for it?
+
+Deferred Annuity:
+A deferred annuity is a kind of annuity plan or policy offered by insurance companies that promise the investor to provide them with a set income starting at a future date of their choice, primarily after retirement. An investor can save during their working years and get income during retirement with deferred annuity programs. The annuity may pay a fixed amount of money at regular intervals or a lump sum in the future. Thus a deferred annuity can be divided into two phases: the accumulation phase and the withdrawal phase. In the accumulation phase, the investor adds money to the annuity account and the interest is deferred until the end of the accumulation phase. In the withdrawal phase, the annuity starts paying money to the investor.","$200,543.25","$202,145.00","$204,789.33","$206,123.45",B,"Given data,
+
+Annuity payment per period = $3,500
+Annuity amount is paid at the end of every month
+Interest rate on annuity = 2.75% compounded semi-annually
+The first withdrawal is to be made in 5 years and 1 month.
+
+
+To find out the amount of money Kay paid to purchase the annuity, we need to determine the present value of the annuity.
+Since the annuity pays an equal amount of money at the end of every month for 6 years, it's an ordinary annuity.
+The present value of the given annuity can be determined through the following steps:
+
+Step - 1: Computation of the interest rate compounded monthly
+
+Since the compounding frequency of the given interest rate is semi-annual but the frequency of money withdrawal from the annuity is monthly, we need to first convert the compounding frequency into monthly using the following formula:
+
+{eq}i =q\times \left[\left(1+\dfrac{r}{m}\right)^{m/q}-1\right]\\ {/eq}
+
+Where,
+
+i = new interest rate with compounding frequency as monthly
+r = interest rate compounded semi-annually = 0.275
+m = old compounding frequency i.e. semi-annually = 2
+q = new compounding frequency i.e. monthly = 12
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} i &=12\times \left[\left(1+\dfrac{0.0275}{2}\right)^{2/12}-1\right]\\ &=12\times[1.002278647-1]\\ &=0.027343759\\ &=2.7343759\%\\ \end{align*} {/eq}
+
+
+
+Thus, the equivalent interest rate compounded monthly is 2.73% (rounded off to two decimal places).
+
+
+
+Step - 2: Computation of the present value of the deferred annuity
+
+Since the withdrawal of money from the given annuity doesn't start immediately and is deferred by 5 years and 1 month, we need to determine the present value of the ordinary annuity by using the following formula:
+
+{eq}PV_{Ordinary\ Annuity}=PMT\times \dfrac{1-(1+r)^{-n}}{(1+r)^t\times r} {/eq}
+
+Where,
+
+{eq}PMT = \text{annuity payment per period} = $3,500\\ r = \text{monthly interest rate on the annuity} = \dfrac{0.0273}{12}=0.002275\\ n = \text{number of periods of payment} = 6\times 12=72\\ t = \text{number of periods of deferral} = \text{5 years and 1 month} = 61\ months {/eq}
+
+
+
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} PV &= $3,500\times \dfrac{1-(1+0.00275)^{-72}}{(1+0.00275)^{61}\times 0.00275}\\ &=$3,500\times \dfrac{0.150930266}{0.0026132573}\\ &=$3,500\times 57.755608\\ &=$202,144.63\\ \end{align*} {/eq}
+
+
+
+Therefore, the present value of the given deferred ordinary annuity is $202,145 (rounded off).",,,C
+35,"You make $6,000 annual deposits into a retirement account that pays 10.3 percent interest compounded monthly. How large will your account balance be in 35 years?
+
+Nominal Interest Rate:
+The interest rate that banks, debt issuers, and other financial institutions like investment banks promote for loans and other investments is known as the nominal interest rate. It is the declared interest rate that an investor or lender has paid or received. The real rate of interest equals the nominal interest rate plus the estimated inflation rate.","$1,925,430.45","$1,956,598.86","$1,978,345.78","$2,002,123.67",B,"Given data,
+
+Amount of annual deposit = $6,000
+Nominal interest rate per annum = 10.30%
+Number of times the interest is compounded per period = 12 (monthly)
+Duration of investment = 35 years
+To find out the future accumulated balance after 35 years, we need to first estimate the effective annual rate of interest applicable to the account.
+
+{eq}\text{Effective annual rate or EAR} = \left(1+\dfrac{i}{m}\right)^m - 1 {/eq}
+
+Where,
+
+i = nominal interest rate = 10.3%
+m = compounding frequency per period = 12
+By putting the corresponding values in the above formula, we get,
+
+{eq}\begin{align*} EAR &= \left(1+\dfrac{0.103}{12}\right)^{12} - 1\\ &=0.108004302\\ &=10.8004302\% \\ \end{align*} {/eq}
+
+Thus, the effective annual rate of interest is 10.8004302%.
+
+
+
+The future accumulated value of the given ordinary annuity of $6,000 per annum after 35 years can be calculated using the following formula:
+
+{eq}FV = PMT \times \dfrac{(1+r)^n-1}{r} {/eq}
+
+Where,
+
+PMT = Annual deposit = $6,000
+r = effective annual rate of return = 10.8004302%
+n = number of periods = 35 years
+By putting the corresponding values in the above formula, we get:
+
+{eq}\begin{align*} FV &= $6,000 \times \dfrac{(1+0.108004302)^{35}-1}{0.108004302}\\ &=$6,000 \times 326.0998091\\ &=$1,956,598.86\\ \end{align*} {/eq}
+
+
+
+Therefore, after 35 years your account balance will be $1,956,598.86.",,,B
+36,"What is the interest rate of a 9-year, annual $3,400 annuity with a present value of $20,000?
+
+Present Value Annuity:
+The present value is the amount deposited/invested and the amount in the future at a regular interval received is called the annuity. The formula of the present value of the annuity is {eq}\displaystyle{PV=P\left[ \frac{1-{{\left( 1+r \right)}^{-n}}}{r} \right]} {/eq}
+
+Here, {eq}PV {/eq} is the present value of an annuity.
+
+{eq}P {/eq} is the annuity per period.
+
+{eq}r {/eq} is the rate per period.
+
+{eq}n {/eq} is the number of periods.",9.25%,9.50%,9.75%,9.47%,D,"It is given that the annuity amount is {eq}P=$3400 {/eq} per annual, {eq}PV=$20000 {/eq}, and {eq}n=9 {/eq}.
+
+Substitute the above values into the formula {eq}\displaystyle{PV=P\left[ \frac{1-{{\left( 1+r \right)}^{-n}}}{r} \right]} {/eq} and simplify.
+
+{eq}\begin{aligned} \$20000&=\$3400\left[ \frac{1-{{\left( 1+r \right)}^{-9}}}{r} \right] \\ \left[ \frac{1-{{\left( 1+r \right)}^{-9}}}{r} \right]&=\frac{\$20000}{\$3400} \\ \left[ \frac{1-{{\left( 1+r \right)}^{-9}}}{r} \right]&\approx 5.882352 \\ 1-{{\left( 1+r \right)}^{-9}}&\approx 5.882352r \\ \end{aligned} {/eq}
+
+Use a graphing calculator to solve the obtained equation and use the fact that {eq}r {/eq} is positive.
+
+{eq}r\approx 0.0947 {/eq}
+
+Multiply the obtained rate by 100 to convert it into the percentage.
+
+{eq}\begin{aligned} r&\approx 0.0947\times 100\% \\ &\approx 9.47\% \\ \end{aligned} {/eq}
+
+Thus, the required rate is approximately {eq}\mathbf{9.47\%} {/eq}.",,,D
+37,"A corporation starts making payments into a quarterly sinking fund in order to have $850,000 in 10 years, assuming an annual interest rate of 6.8% compounded quarterly. How much interest will be earned over the life of the fund?
+
+Future Value of Annuity:
+The rate of interest and the frequency of payments are assumed to remain constant in the formula used to calculate the future value of an annuity. The formula to calculate the future value of an annuity is {eq}FV=PMT\left[\dfrac{(1+r)^n-1}{r} \right] {/eq}, where {eq}r {/eq} is the interest rate per period in decimal, {eq}n {/eq} is the number of periods, {eq}PMT {/eq} is the periodic payment.","$248,500.75","$249,560.00","$250,345.45","$251,789.67",B,"The formula to calculate the future value of an annuity is {eq}FV=PMT\left[\dfrac{(1+r)^n-1}{r} \right] {/eq}, where {eq}r {/eq} is the interest rate per period in decimal, {eq}n {/eq} is the number of periods, {eq}PMT {/eq} is the periodic payment.
+
+Let {eq}P {/eq} dollars be the periodic payment for the future value of {eq}FV=\$850,000 {/eq}. The annual rate of interest is {eq}r=6.8\%=0.068 {/eq}. The rate of interest is compounded quarterly. So, the interest rate per quarter is {eq}r=\dfrac{0.068}{4}=0.017 {/eq}.
+
+There are four quarters in one year. So, there will be {eq}4 \times 10=44 {/eq} quarters in 10 years. So, the number of periods is {eq}n=44 {/eq}.
+
+Now, substitute {eq}FV=850,000 {/eq}, {eq}r=0.017 {/eq}, and {eq}n=44 {/eq} in the formula {eq}FV=PMT\left[\dfrac{(1+r)^n-1}{r} \right] {/eq} to find the value of {eq}PMT {/eq}.
+
+{eq}\begin{aligned}850,000 &=PMT\left[\dfrac{(1+0.017)^{40}-1}{0.017} \right]\\ 850,000 &=PMT\left[\dfrac{(1.017)^{40}-1}{0.017} \right]\\ 850,000 &\approx PMT\left[\dfrac{1.9626-1}{0.017} \right]\\850,000 &\approx PMT\left[\dfrac{0.9626}{0.017} \right]\\850,000 &\approx PMT\times 56.6235 \end{aligned} {/eq}
+
+Now, divide both sides of the obtained equation by 56.6235 and solve for {eq}PMT {/eq}.
+
+{eq}\begin{aligned} \dfrac{PMT\times 56.6235}{56.6235} &\approx \dfrac{850,000}{56.6235} \\ PMT &\approx 15,011 \\ \end{aligned} {/eq}
+
+So, the payment per quarter is approximately $15,011.
+
+Multiply the payment per quarter by 40 to calculate the total investment made in the fund.
+
+{eq}\begin{aligned} \text{Total investment} &=40(\$15,011) \\ &=\$600,440 \\ \end{aligned} {/eq}
+
+Now, subtract the total investment from the future value to find the interest earned over the life of the fund.
+
+{eq}\begin{aligned} \text{Total interest} &=\$850,000-\$600,440 \\ &=\$249,560 \\ \end{aligned} {/eq}
+
+Consequently, the corporation will earn approximately $249,560 as an interest over the life of the fund.",,,A
+38,"A Corp creates a sinking fund in order to have $400,000 to replace machinery in 10 years. How much should be placed in this account at the end of each week if the annual interest rate is 5.4% compounded weekly?
+
+Future Value of Annuity:
+The future value of an annuity is the value of a series of payments made on a certain date in the future at a fixed interest rate. The future value gives the value of the series of payments made at a certain date in the future.",$575.67,$585.42,$580.53,$590.35,C,"We're given that A Corp creates a sinking fund to save up $400,000 to replace machinery after 10 years. The annual interest rate is 5.4% compounded weekly.
+
+The amount that needs to be placed in the sinking fund each week will be equal to the annuity payment each week that yields $400,000 after 10 years with an interest rate of 5.4% compounded weekly.
+
+The weekly annuity payment can be determined using the Future Value of Annuity (FVOA) formula:
+
+{eq}\begin{align*} FV &= PMT \dfrac{(1+r)^n -1}{r} \end {align*} {/eq}
+
+where
+
+{eq}FV = {/eq} annuity value in future = $400,000,
+
+{eq}PMT = {/eq} weekly annuity payment that needs to be determined,
+
+{eq}r = {/eq} interest rate per compounding period = {eq}\dfrac{5.4\%}{52} \approx 0.001 {/eq} per year,
+
+{eq}n = {/eq} number of compounding periods = {eq}10 \textrm{ years } \times 52 \textrm { weeks per year } = 520 {/eq} weeks.
+
+Plugging the values into the FVOA formula yields:
+
+{eq}\begin{align*} FV &= PMT \times \dfrac{(1+r)^n -1}{r} \\ \implies PMT &= \dfrac{FV \times r}{(1+r)^n -1} \\ &=\dfrac{\$400,000 \times 0.001}{(1 + 0.001)^{520} -1} \\ &\approx \$580.53 \end {align*} {/eq}
+
+Therefore, the amount that needs to be placed each week in the account for the sinking fund is around $580.53.",,,C
+39,"Find the amount needed to deposit into an account today that will yield pension payments of {eq}\displaystyle \$30,000 {/eq} at the end of each of the next {eq}\displaystyle 13 {/eq} years if the account earns interest at a rate of {eq}\displaystyle 6.9\% /yr {/eq} compounded annually. (Round your answer to the nearest cent.)
+
+Annuity:
+When studying investment, the annuity becomes the most critical topic to be discussed. It is a series of payments that are paid after certain intervals. In annuities, the deposit date of the amount can be weekly, monthly, yearly, etc. The annuity function helps to evaluate the annuities. To use the annuity function the interest rate, the period, and the present deposited amount or future obtained amount should be known.","$250,000.00","$252,156.87","$255,000.45","$258,789.12",B,"The necessary data are:
+
+The amount that will be found per period (as a pension) is {eq}{P_t} = \$ 30,000. {/eq}
+The interest rate is {eq}r = 6.9\%. {/eq}
+The number of periods (number of years) is {eq}n = 13{\text{ years}}. {/eq}
+Using the annuity formula, the amount needed to deposit today is given by
+
+{eq}\displaystyle P={P}_{t} \left( \dfrac{1-\left( \dfrac{1}{{{\left( 1+r \right)}^{n}}} \right)}r \right) {/eq}
+
+By substituting the necessary values, we can get the amount needed to deposit to get the required pension after 13 years.
+
+{eq}\displaystyle \begin{aligned} P&=\$30,000\left( \dfrac{1-\left( \dfrac{1}{{{\left( 1+0.069 \right)}^{13}}} \right)}{0.069} \right) \\ P&=\$30,000\left( \dfrac{1-\left( 0.42004 \right)}{0.069} \right) \\ P&=\$30,000\left( \dfrac{0.57996}{0.069} \right) \\ P&\approx\$252,156.87 \\ \end{aligned} {/eq}
+
+Hence, the amount needed to deposit into the account today is {eq}\displaystyle \$252,156.87 {/eq}",,,B
+40,Find the present value of the ordinary annuity: Payments of $450 made annually for 13 years at 6% compounded annually.,"$4,182.75","$3,772.71","$3,982.28","$3,983.71",D,"Consider the given data.
+
+Fixed payout, {eq}PMT= \$450 {/eq}
+Number of years, {eq}n =13 {/eq}
+Compounding period is annual, {eq}m =1 {/eq}
+Annual Interest rate, {eq}r = 6\% {/eq}
+The payment that occurs at the end of the period is called an ordinary annuity. The present value of an annuity is the current value of a series of future payments. The value of the annuity is equal to the sum of the present values of all of the regular payments.
+
+Recall the formula to find the present value of the annuity.
+
+{eq}PV = PMT \left ( \dfrac{{1 - {{\left( {1 + r/m} \right)}^{ - n}}}}{{r/m}} \right ) {/eq}
+
+Substitute the known values in the above equation:
+
+$$\begin{aligned} PV &= PMT \left ( \dfrac{{1 - {{\left( {1 + r/m} \right)}^{ - n}}}}{{r/m}} \right )\\&= 450 \times \left ( \dfrac{{1 - {{\left( {1 + 0.06/1} \right)}^{ -13 }}}}{{{0.06/1}}} \right )\\&=450\left ( \dfrac{1-\left ( 1.06 \right )^{-13}}{0.06} \right )\\&\approx 450\left ( \dfrac{1-0.4688}{0.06} \right )\\&\approx 450\left ( 8.8526 \right )\\ &\approx 3983.71\end{aligned}\\ $$
+
+The present value of the ordinary annuity is approximately {eq}\bf{\$3983.71} {/eq}.",,,C
+41,"The state lottery's million-dollar payout provides for $1 million to be paid in 20 installments of $50,000 per payment. The first $50,000 payment is made immediately, and the 19 remaining $50,000 payments occur at the end of each of the next 19 years. If 7 percent is the discount rate, what is the present value of this stream of cash flows?","$566,779.76","$555,000.00","$580,450.00","$573,112.45",A,"Given information:
+
+Annual payment = $50,000
+Period = 19 years
+Discount rate = 7% and 14%
+First payment = $50,000 paid immediately on winning the lottery
+Present value is the value of future cash flows discounted at the given discount rates. Here, $50,000 is received immediately, so there is no need to discount this amount; this is the present value. Thus, $50,000 is added to the discounted cashflows to calculate the total present value of cash flow streams.
+
+Calculation of present value of cash flow streams:
+
+A) At a 7% discount rate:
+
+{eq}\begin{aligned} \text{Present}\ \text{value of cash flows} &=\text{First}\ \text{payment}+\text{Annual payment}\times \frac{1-\left( \frac{1}{{{\left( 1+\text{Discount rate} \right)}^{\text{Period}}}} \right)}{\text{Discount rate}} \\ &=\$50,000+\$50,000\times \frac{1-\left( \frac{1}{{{\left( 1+7\% \right)}^{19}}} \right)}{7\%} \\ &=\$50,000+\$50,000\times \frac{1-0.2765083330}{7\%} \\ &=\$50,000+\$50,000\times \frac{0.7234916670}{7\%} \\ &=\$50,000+\$50,000\times 10.3355952 \\ &=\$50,000+\$516,779.76 \\ &=\$566,779.76 \end{aligned} {/eq}",,,A
+42,"The state lottery's million-dollar payout provides for $1 million to be paid in 20 installments of $50,000 per payment. The first $50,000 payment is made immediately, and the 19 remaining $50,000 payments occur at the end of each of the next 19 years. If 14 percent is the discount rate, what is the present value of the cash flows?","$370,000.00","$377,518.44","$385,450.12","$395,123.89",B,"Given information:
+
+Annual payment = $50,000
+Period = 19 years
+Discount rate = 7% and 14%
+First payment = $50,000 paid immediately on winning the lottery
+Present value is the value of future cash flows discounted at the given discount rates. Here, $50,000 is received immediately, so there is no need to discount this amount; this is the present value. Thus, $50,000 is added to the discounted cashflows to calculate the total present value of cash flow streams.
+
+Calculation of present value of cash flow streams:
+
+At 14% discount rate:
+
+{eq}\begin{aligned} \text{Present}\ \text{value of cash flows} &=\text{First}\ \text{payment}+\text{Annual payment}\times \frac{1-\left( \frac{1}{{{\left( 1+\text{Discount rate} \right)}^{\text{Period}}}} \right)}{\text{Discount rate}} \\ &=\$50,000+\$50,000\times \frac{1-\left( \frac{1}{{{\left( 1+14\% \right)}^{19}}} \right)}{14\%} \\ &=\$50,000+\$50,000\times \frac{1-0.082948364}{14\%} \\ &=\$50,000+\$50,000\times \frac{0.917051636}{14\%} \\ &=\$50,000+\$50,000\times 6.5503688 \\ &=\$50,000+\$327,518.44 \\ &=\$377,518.44 \end{aligned} {/eq}",,,B
+43,"How much would you have to invest today to receive $15,000 in 8 years at 10 percent?","$7,000.00","$6,997.61","$6,800.00","$6,950.00",B,"$15,000 in 8 years at 10 percent.
+
+{eq}\begin{aligned} \text{Present}\ \text{value} &=\text{Future}\ \text{value}\times \frac{1}{{{\left( 1+\text{Interest}\ \text{rate} \right)}^{\text{Period}}}} \\ &=\$15,000\times \frac{1}{{{\left( 1+10\% \right)}^{8}}} \\ &=\$15,000\times \frac{1}{2.14358881} \\ &=\$15,000\times 0.46650738 \\ &=\$6,997.61 \end{aligned} {/eq}",,,B
+44,"How much would you have to invest today to receive $20,000 in 12 years at 13 percent?","$4,600.00","$4,700.00","$4,614.12","$4,650.00",C,"$20,000 in 12 years at 13 percent.
+
+{eq}\begin{aligned} \text{Present}\ \text{value} &=\text{Future}\ \text{value}\times \frac{1}{{{\left( 1+\text{Interest}\ \text{rate} \right)}^{\text{Period}}}} \\ &=\$20,000\times \frac{1}{{{\left( 1+13\% \right)}^{12}}} \\ &=\$20,000\times \frac{1}{4.3345231002} \\ &=\$20,000\times 0.2307058878 \\ &=\$4,614.12 \end{aligned} {/eq}",,,C
+45,"How much would you have to invest today to receive $6,000 each year for 10 years at 9 percent?","$38,500.00","$38,505.95","$38,600.00","$38,550.00",B,"$6,000 each year for 10 years at 9 percent.
+
+{eq}\begin{aligned} \text{Present}\ \text{value} &=\text{Annual payment}\times \frac{1-\left( \frac{1}{{{\left( 1+\text{Interest rate} \right)}^{\text{Period}}}} \right)}{\text{Interest rate}} \\ &=\$6,000\times \frac{1-\left( \frac{1}{{{\left( 1+9\% \right)}^{10}}} \right)}{9\%} \\ &=\$6,000\times \frac{1-0.42241081}{9\%} \\ &=\$6,000\times \frac{0.57758919}{9\%} \\ &=\$6,000\times 6.4176577 \\ &=\$38,505.95 \end{aligned} {/eq}",,,B
+46,"How much would you have to invest today to receive $50,000 each year for 50 years at 7 percent?","$690,000.00","$690,037.31","$690,100.00","$690,050.00",B,"$50,000 each year for 50 years at 7 percent.
+
+{eq}\begin{aligned} \text{Present}\ \text{value} &=\text{Annual payment}\times \frac{1-\left( \frac{1}{{{\left( 1+\text{Interest rate} \right)}^{\text{Period}}}} \right)}{\text{Interest rate}} \\ &=\$50,000\times \frac{1-\left( \frac{1}{{{\left( 1+7\% \right)}^{50}}} \right)}{7\%} \\ &=\$50,000\times \frac{1-0.03394776}{7\%} \\ &=\$50,000\times \frac{0.96605224}{7\%} \\ &=\$50,000\times 13.8007462 \\ &=\$690,037.31 \end{aligned} {/eq}",,,B
+47,"Mr. Johnson wants to buy an annuity due that will provide him with income of $50,000 per year for six years. The going interest rate is 6.25%.
+
+How much would it cost him to buy the annuity today? (Draw a timeline and show your work.)
+
+Annuity Due:
+When the periodic cashflows happen at the beginning of the period, it makes an annuity due. This makes it different from annuity regular where cash flows happen at the end of the period.","$250,000.00","$259,193.50","$265,789.12","$240,000.70",B,"The timeline on an annuity due of $50,000 for six years will be -
+
+
+The value of the annuity will be it present value.
+
+To calculate the value of the annuity, we will calculate the cumulative present value factor first.
+
+{eq}\text{Cumulative present value factor} = \dfrac{1 - (1 + i)^{-n}}{\frac{i}{1 + i}} {/eq}
+
+where,
+
+i = interest rate
+
+n = number of years
+
+Here,
+
+i = 6.25%
+
+n = 6 years
+
+Putting values, we get -
+
+{eq}\begin{align} \text{Cumulative present value factor} &= \dfrac{1 - (1 + i)^{-n}}{\frac{i}{1 + i}}\\ &= \dfrac{1 - (1 + 0.0625)^{-6}}{\frac{0.0625}{1 + 0.0625}}\\ &= \dfrac{1 - (1.0625)^{-6}}{\frac{0.0625}{1.0625}}\\ &= 5.18387\\ \end{align} {/eq}
+
+So, the value of annuity today will be $50,000 X 5.18387 = $259,193.50
+
+Hence, it would cost Mr, Johnson $259,193.50 to buy an annuity due that will provide him with an income of $50,000 per year for six years at an interest rate of 6.25%.",,,C
+48,"Find the amount needed to deposit into an account today that will yield pension payments of {eq}\displaystyle \$30,000 {/eq} at the end of each of the next {eq}\displaystyle 13 {/eq} years if the account earns interest at a rate of {eq}\displaystyle 6.9\% /yr {/eq} compounded annually. (Round your answer to the nearest cent.)
+
+Annuity:
+When studying investment, the annuity becomes the most critical topic to be discussed. It is a series of payments that are paid after certain intervals. In annuities, the deposit date of the amount can be weekly, monthly, yearly, etc. The annuity function helps to evaluate the annuities. To use the annuity function the interest rate, the period, and the present deposited amount or future obtained amount should be known.","$250,000.00","$248,500.75","$252,156.87","$254,789.12",C,"The necessary data are:
+
+The amount that will be found per period (as a pension) is {eq}{P_t} = \$ 30,000. {/eq}
+The interest rate is {eq}r = 6.9\%. {/eq}
+The number of periods (number of years) is {eq}n = 13{\text{ years}}. {/eq}
+Using the annuity formula, the amount needed to deposit today is given by
+
+{eq}\displaystyle P={P}_{t} \left( \dfrac{1-\left( \dfrac{1}{{{\left( 1+r \right)}^{n}}} \right)}r \right) {/eq}
+
+By substituting the necessary values, we can get the amount needed to deposit to get the required pension after 13 years.
+
+{eq}\displaystyle \begin{aligned} P&=\$30,000\left( \dfrac{1-\left( \dfrac{1}{{{\left( 1+0.069 \right)}^{13}}} \right)}{0.069} \right) \\ P&=\$30,000\left( \dfrac{1-\left( 0.42004 \right)}{0.069} \right) \\ P&=\$30,000\left( \dfrac{0.57996}{0.069} \right) \\ P&\approx\$252,156.87 \\ \end{aligned} {/eq}
+
+Hence, the amount needed to deposit into the account today is {eq}\displaystyle \$252,156.87 {/eq}",,,C
+49,"You want to be able to withdraw $45,000 each year for 30 years. Your account earns 10% interest.
+
+How much do you need in your account at the beginning?","$400,000.00","$450,000.00","$424,211.15","$430,500.75",C,"The formula for the present value of an annuity is
+
+{eq}\ \ \ \ \ P = R \left[ \dfrac{1 - (1 + i)^{-n}}{i} \right] {/eq},
+
+where {eq}P {/eq} is the present value, {eq}R {/eq} is the regular payment, {eq}i {/eq} is the periodic interest rate, and {eq}n {/eq} is the total number of payments.
+
+
+
+We assume that the interest will be compounded annually over the 30 year period.
+
+Then for this account, we have:
+
+{eq}\ \ \ \ \ R = 45,000, \ \ \ i = 0.10/1 = 0.10, \ \ \ n = (30)(1) = 30 {/eq}
+
+Thus the present value formula yields the amount needed at the start:
+
+{eq}\ \ \ \ \ P = 45,000 \left[ \dfrac{1 - (1 + 0.10)^{-30}}{0.10} \right] = \$424,211.15 {/eq}.",,,C
+50,"You want to be able to withdraw $45,000 each year for 30 years. Your account earns 10% interest.
+
+
+How much total money will you pull out of the account?","$1,350,000.00","$1,300,000.00","$1,320,000.00","$1,375,000.00",A,"The formula for the present value of an annuity is
+
+{eq}\ \ \ \ \ P = R \left[ \dfrac{1 - (1 + i)^{-n}}{i} \right] {/eq},
+
+where {eq}P {/eq} is the present value, {eq}R {/eq} is the regular payment, {eq}i {/eq} is the periodic interest rate, and {eq}n {/eq} is the total number of payments.
+
+The total amount that will be withdrawn over the 30 years is
+
+{eq}\ \ \ \ \ (45,000)(30) = \$1,350,000.00 {/eq}.",,,A

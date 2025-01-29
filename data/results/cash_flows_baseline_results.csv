@@ -1,0 +1,422 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,"A company paid $4,000 cash on the principal of a bank loan. How should this be classified on the statement of cash flows?",operating activity,investing activity,financing activity,none of the above,C,"The correct answer is
+c. Financing activity
+.
+The payment of the principal of a bank loan is classified as a financing activity on the statement of cash flow. A bank loan is part of the company's debt, and any cash flow related to debt and equity is a financing activity. The repayment of a bank loan is a cash outflow and will be shown as negative (-$4,000) in the cash flow statement.
+The other options are incorrect.
+a. Operating activity: Operating activities include the day-to-day activities of businesses like the sale and purchase of goods and services.
+b. Investing activity: Investing activities include the sale and purchase of long-term assets and investments.
+d. None of the above: As one of the options is correct, this is the incorrect option.","Statement of Cash Flow: A statement of cash flows is one of the mandatory financial statements that businesses have to prepare at the end of the financial year. It shows the cash flow from three business activities, namely operating, financing, and investing.",,,C
+2,"A compony reported a net income of $340 million for the most recent fiscal year. The firm had depreciation expenses of $115 million and capital expenditures of $145 million. Although it had no interest expense, the firm did have an increase in net working capital of $30 million.",$630 million,$340 million,$280 million,$50 million,C,"Given information:
+Net income = $340 million
+Depreciation expenses = $115 million
+Capital expenditures = $145 million
+Interest expense = 0
+Increase in net working capital of $30 million
+Free cash flow is computed by adding non-cash expenses (depreciation) and deducting capital expenditures and a change in net working capital from the net operating income after tax.
+{eq}\begin{aligned} \text{Free}\ \text{cash}\ \text{flow} &=\text{Net}\ \text{income}+\text{Depreciation}-\text{Change}\ \text{in}\ \text{net}\ \text{working}\ \text{capital}-\text{Capital}\ \text{expenditure} \\ &=\$340\ \text{million}+\$115\ \text{million}-30\ \text{million}-\$145\ \text{million} \\ &=\$455\ \text{million}-\$175\ \text{million} \\ &=\$280\ \text{million} \end{aligned} {/eq}
+The company's free cash flow is
+$280 million
+and the correct answer is
+option c.","Free Cash Flow: Free cash flow refers to the cash remaining with the organization after paying all operating and capital expenditures. These free cash flows are used for distribution as dividends, the growth of the company, etc.",,,C
+3,"Identify the type of cash flow activity for each of the following events (operating, investing, or financing):",Sold equipmentb. Issued bondsc. Issued common stockd. Paid cash dividendse. Purchased treasury stockf. Redeemed bondsg. Purchased patentsh. Purchased buildingsi. Sold long-term investmentsj. Issued preferred stockk. Net income,,,,A,"Cash flow activity
+Classification
+Comment
+a. Sold equipment
+Investing
+All property, plant, and equipment sales are cash inflows under investing activities.
+b. Issued bonds
+Financing
+Cash flows related to long-term liabilities are financing cash flows.
+c. Issued common stock
+Financing
+All transactions with shareholders are recorded in the financing activities section.
+d. Paid cash dividends
+Financing
+All transactions with shareholders are recorded in the financing activities section.
+e. Purchased treasury stock
+Financing
+All transactions with shareholders are recorded in the financing activities section.
+f. Redeemed bonds
+Financing
+Cash flows related to long-term liabilities are financing cash flows.
+g. Purchased patents
+Investing
+Patents are long-term assets, and all long-term asset cash flows are classified as investing activities.
+h. Purchased buildings
+Investing
+All property, plant, and equipment purchases are cash outflows under investing activities.
+i. Sold long-term investments
+Investing
+The cash flow from the sale of long-term assets is included in the investing activities section.
+j. Issued preferred stock
+Financing
+All transactions with shareholders are recorded in the financing activities section.
+k. Net income
+Operating
+The operating activities section starts with net income.","Preparing the Statement of Cash Flow: The statement of cash flows presents a summary of the cash movements that record the difference(s) between the beginning and ending cash balances. The statement is prepared in three sections, and all cash flows must be classified into one of these sections.",,,A
+4,"In a statement of cash flows, receipts from sales of property, plant, and equipment generally are classified as:",Investing activitiesb. Selling activitiesc. Operating activitiesd. Financing activities,,,,A,"In a statement of cash flows, receipts from sales of property, plant, and equipment generally are classified as
+(a.) Investing activities
+.
+The investing activities section is used to record all the cash inflows and outflows related to long-term assets. The cash outflows from the purchase of plant assets or investments are also included in this section.
+The other options are wrong because:
+b. Selling activities
+- There is no selling activities section in the statement of cash flow.
+c. Operating activities
+- The cash receipts from customers and cash payments to suppliers and employees are listed in the operating activities section. The sales of property, plant, and equipment are not routine sales to customers and their cash flows cannot be included in this section.
+d. Financing activities
+- The financing activities section presents the cash flows from transactions related to long-term assets and stockholders' equity, not transactions related to operating assets.","Cash Flow Statement: All companies are required to include a statement of cash flow in the financial statements they publish for external use. The statement lists the summarized cash inflows and outflows during the reporting period, organized into three sections.",,,A
+5,The indirect method of preparing the statement of cash flows _____.,starts by converting net income into an accrual-based number,is preferred by businesses over the direct method,reports a greater amount of cash than the direct method,provides greater clarity for users than the direct method,B,"The indirect method of preparing the statement of cash flows
+b. is preferred by businesses over the direct method.
+Most companies use the indirect method to prepare the statement of cash flow, even though the accounting standards (both US GAAP and IFRS) encourage the use of the direct method. Under the indirect method, the cash flow from operating activities is derived from net income. Companies consider this the easiest method to apply.
+The other options are wrong:
+Option a. (starts by converting net income into an accrual-based number) is wrong because net income is already an accrual-based number. It would be correct to say that the indirect method starts by converting net income into an
+cash
+-based number because, under the indirect method, non-cash items like depreciation and the gains or losses on the sale of assets are removed from the net income to determine the cash from operating activities.
+Option c. (reports a greater amount of cash than the direct method) is wrong because the cash from operating activities is the same, regardless of which method is used to calculate it.
+d. (provides greater clarity for users than the direct method) is also wrong. The reason the accounting standards prefer the direct method is because standard setters believe the direct method gives greater clarity to users.",Operating Activities: The first section is the first section in the statement of cash flow. It is used to report on the cash used or provided by selling goods to customers and paying the product and period costs. The section can be prepared using either the direct or indirect method.,,,B
+6,Which of the following is true of the statement of cash flows?,It covers a span of time and is dated the same as the income statement .,It reports on the qualitative behavior of the company's performance.,It shows how the profits or losses of the company were generated.,It indicates when long-term debt will mature.,A,"The correct option is
+A. It covers a span of time and is dated the same as the income statement.
+The cash flows of an organization are detailed and presented in the statement of cash flows over a specified time frame, usually a year. It details cash flow in and out, broken down by operating, investing, and financing functions. Like the income statement, the statement of cash flows provides coverage over a period of time. The balance sheet and the income statement are typically prepared for the same time period. When a cash flow statement and an income statement have the same date range, it's easy to see how the two relate to one another.
+Reasons why other options are incorrect:
+B. It reports on the qualitative behavior of the company's performance. The statement of cash flows is more concerned with quantitative information, such as cash flows than it is with qualitative information, so choice B is incorrect.
+C. It shows how the profits or losses of the company were generated. Since the statement of cash flows focuses on cash inflows and outflows rather than the causes of profits and losses, option C is incorrect. The income statement details the sources of any profits or losses.
+D. It indicates when the long-term debt will mature. Option D is incorrect because the maturation dates of long-term debt are not shown on the statement of cash flows. This data is typically located in the balance sheet or in the notes to the financial statements.",Cash Flow Statement: The cash flow statement lists the cash inflows that the company earns from selling its products and services and also from other sources. The cash flow statement also covers all the cash outflows that the company has.,,,A
+7,Which of the following items is not necessary for preparing a statement of cash flows?,Determine the change in cash.,Determine the cash provided by operations.,Determine cash from financing and investing activities.,Determine the cash in all bank accounts.,D,"The correct option is
+d. Determine the cash in all bank accounts.
+Preparing a statement of cash flows does not require knowing how much money is in each bank account. The statement of cash flows details the inflow and outflow of funds over a specified time frame, breaking down these flows by operational, investment, and financing activities. Rather than detailing individual bank account balances, it sheds light on the flow of money associated with these endeavors as a whole. The cash balance, cash from operations, and cash from financing and investing are the three main components of the cash flow statement. Cash on hand is a vital piece of information for any financial manager, but it isn't strictly necessary for putting together a statement of cash flows.
+Reasons why other options are incorrect:
+a. Determine the change in cash: Choice (a) is incorrect because calculating the cash flow change is a crucial part of creating a cash flow statement. It aids in determining whether cash has increased or decreased overall during the time frame.
+b. Determine the cash provided by operations: Option b is incorrect because knowing how much money comes in and goes out of a company every day is impossible without first calculating the cash provided by operations.
+c. Determine cash from financing and investing activities: Choice (c) is incorrect because analyzing financing (such as issuing or repurchasing stock) and investing (such as buying or selling assets) cash flows requires knowing how much cash was generated from these activities.",Cash Flow: One of the most important financial statements produced by the company each quarter is the cash flow statement. Cash movement within the company is reported in this financial statement.,,,D
+8,Which of the following will increase cash?,Issues $2MM in new common stock,Invests $3MM in PPE,Generates negative net income and net cash flow,Increases dividend,A,"The right answer choice is option a.
+a. Correct.
+A new issue of common stocks will generate a cash inflow, which raises the firm's total amount of common equity.
+b. Incorrect. Investments in PPE are recognized as long-term investments, which will lower the amount of cash available immediately.
+c. Incorrect. A negative cash flow indicates that total cash disbursement is greater than total cash receipt during a year. Hence, there will be a decrease in cash.
+d. Incorrect. Cash dividends will reduce the amount of cash. Thus, an increase in dividend payment will lower the firm's cash.","Free Cash Flow: A firm's free cash flow (FCF) is the amount of cash available at the end of each year, which is utilized for future business growth. Negative free cash flows indicate that the firm lacks capital, which might cause a ceasing of its operations in the short term.",,,A
+9,Which one of the following items is not generally used in preparing a statement of cash flows?,Additional information.,Adjusted trial balance.,Current income statement.,Comparative balance sheets.,B,"The correct option is
+b. Adjusted trial balance
+Accounts and their balances at the end of an accounting period are summarized in what is called an ""adjusted trial balance."" It serves as the foundation for other financial statements like the cash flow statement. Before generating the financial statements, the adjusted trial balance guarantees that all accounts have been properly adjusted for revenues, expenses, and other adjustments.
+The explanation for other option:
+a. Additional information: When providing specifics about cash flows that may not be directly reflected in the financial statements, supplementary information is often required. The items presented in the statement of cash flows can be supported or clarified with this data.
+c. Current income statement: Revenues, expenditures, and net income (or loss) for a given time period can all be found on the current income statement, also called a profit and loss statement. The operating cash flows portion of the statement of cash flows relies heavily on the income statement, but the income statement is only a source of information and is not included in the statement itself.
+d. Comparative balance sheets: Changes in a company's assets, liabilities, and equity between two time periods can be seen in a comparative balance sheet. Cash flows from investing and financing activities on the statement of cash flows depend on these adjustments. Changes in financial standing over time can be examined with the help of comparative balance sheets.","Cash Flow Statement: The statement of cash flow, also known as the ""cash flow statement,"" refers to a periodic statement that reports the movement of cash such as the inflow and outflow of cash during a specific time period.",,,B
+105,Which financial statement is used to review a firm s sources and uses of cash flows over the year?,the Income Statement,the Statement of Retained Earnings,the Statement of Cash Flows,the Balance Sheet,C,"Option C. The Statement of Cash Flows
+is correct.
+It is because cash flows are separate statements reported by the companies. This statement explicitly explains the movement of the cash flows and helps the investors or any other stakeholders review the firm's sources and the uses of cash flows over the year.
+The other options are incorrect.
+Option A. The Income Statement: It is incorrect because the income statement records all the incomes and expenses regardless of their nature (non-cash or cash).
+Option B. Statement of Retained Earnings: It is incorrect because this statement shows the historical retained earnings of the company and the changes that occurred over the year.
+Option D. The Balance Sheet: It is incorrect because it reflects the financial position of the company in terms of the total assets and the total liabilities of the company.",Cash Flows: Cash flows can be explained as the part of the income or expenditure that is in terms of cash. It is the amount that a company receives or pays at the time of the transaction. The cash flow reflects the economic reality of the firm in terms of cash position and liquidity.,,,C
+112,After-tax cash flows will always be less than before-tax cash flows.,True,False,,,A,"The statement is
+TRUE.
+{eq}\text{After-tax cash flow} = \text{Pretax cash flow} \times (1 - \text{Tax rate}) \\ \text{After-tax cash flow} =\text{Pretax cash flow} - \text{Pretax cash flow} \times \text{Tax rate}) {/eq}
+According to the above equation, the after-tax cash low is lower the pretax cash flow.","Cash Flow; To analyze feasibility of a project, a capital budgeting analyst will usually analyze the project's cash flows, which is to estimate the potential value-added by taking the project. However, it is uncertain to forecast future cash flows under fast-changing market conditions, which recommends analysts to review and update their analysis.",,,A
+113,All of the following are considered inflows from cash EXCEPT:,New issues of securities,Increase in inventory,Deferred taxes and wages,Increase in accounts payable,B,"The answer is
+b. Increase in inventory
+a. New issues of securities will generate more equity capital, which should be recognized as cash inflows.
+b. Increase in inventory requires cash payments to suppliers. Hence, it refers to cash outflows.
+c. Deferred taxes and wages imply that the firm does not need to make cash payments today. Thus, analysts can treat these transactions as cash inflows.
+d. Increase in accounts payable indicates that the firm will not need to pay its short-term obligation immediately. Thus, it can be considered cash inflows in this case.","Statement Of Cash Flows: The statement of cash flows is a financial report that includes all cash receipts and cash disbursements during the year. Usually, a firm can group its cash flows into 3 categories: Operating cash flows, Investing cash flows, and Financing cash flows.",,,B
+114,Cash flows associated with the purchase and sale of fixed assets and business interests are called cash flow from _____.,operating activities,financing activities,equity activities,investment activities,D,"The correct answer is
+option D
+Investment activities.
+Cash inflows or outflows generated with the investment activities come under the investment activities head. This section records the cash outflows from the purchase of fixed assets, such as property and equipment, or cash inflows from the sale of these assets. Additionally, it includes the cash flows from the acquisition or disposition of business and investments. Cash flow related to business interests, purchase, and sale of fixed assets, or comes under the head of cash flow from investment activities.
+Reasons for incorrect options:
+A.
+Operating activities are the basic activities of any firm that helps them in making revenue. Cash flow incurred or generated from daily activities, such as production or sale, comes under the cash flow from operating activities.
+B.
+Financing activities under the cash flow statement include all the activities related to either raising funds, paying interest or dividends on them, and paying their principal amount back.
+C.
+Equity activities in the cash flow statement come under the financing activities head. Equity activities include cash flows from activities such as issuance and repurchasing of common stocks, payments, or receipt of dividends, including all the activities related to a firm's common stock.",Cash Flow: Cash flow is the payments and receipts that change the position of money and other equivalents in a company. This cash inflow or outflow is regularly monitored with the help of a cash flow statement.,,,D
+115,Cash inflows come from:,purchase of marketable securities.,purchase of fixed assets.,credit sales.,cash sales.,D,"The answer is
+d. cash sales.
+a. Incorrect. The purchase of marketable securities indicates that the firm will make a payment. Hence, it refers to a cash outflow.
+b. Incorrect. A purchase of a fixed asset requires a payment from the firm. Thus, it is a cash outflow.
+c. Incorrect. A credit sale allows the buyer to delay the payment to a given date in the future. Hence, there is no cash payment at sales.
+d. Correct. For a cash sale, the firm will receive cash immediately.","Cash Flow: The analysis of cash flows during a given period can generalize how the firm manages its capital to maintain a normal operation and to invest in available projects. To be specific, cash flows are classified into 3 groups: operating cash flows, financing cash flows, and investing cash flows.",,,D
+116,Cash payment of dividends is reported in the _____ activities section of the statement of cash flows.,Investing,Financing,Operating,Dividends are not reported on the statement of cash flows.,B,"The correct answer is option
+B. Financing
+.
+The dividend payments by a firm are made to the stockholders. These payments represent returns to the stockholders in exchange for the funds provided to finance the purchase of operating assets. Hence, dividend payments are categorized as cash outflows from financing activities.
+The cash outflows and cash inflows from the investing activities represent the movement of cash for the purchase of physical or financial assets and proceeds received from selling them. The operating cash flows represent cash movement related to core business activities like payment of salaries, payment to suppliers, and receipts from customers.","Cash Flows: The cash outflows, cash inflows, and net cash flows for a firm during a given year are depicted by means of a cash flow statement. It shows cash flows for three kinds of activities - operating activities, investing activities, and financing activities.",,,B
+117,Cash purchases of long-term assets are reported in the _____ activities section of the statement of cash flows.,Operating,Investing,Financing,Non-cash investing and financing,B,"The correct answer is option
+B. Investing
+.
+Cash purchases of long-term physical or financial assets are reported as cash outflows from investing activities. These assets represent objects of investments for a firm and hence, the corresponding cash flows are shown under the investing activities. The proceeds received from the sale of these investments are shown as cash inflows from investing activities.
+The operating cash flows specifically depict cash inflows and cash outflows for business operations like receipts from customers, cash payments to employees, and cash payments to suppliers. The financing cash flows show cash received from shareholders and lenders for financing the assets along with the cash payments to them in the form of dividends or interest.","Cash Flow Statement: The cash flow statement of a firm is a financial statement that shows the cash flows from operating activities, investing activities, and financing activities during a given year. The net cash flows are determined by deducting the cash outflows from the cash inflows.",,,B
+118,Cash received from issuing Common Stock would appear in which of the following sections of the statement of cash flows?,Cash inflow from operating activities.,Cash inflow from investing activities.,Cash inflow from financing activities.,None of the above.,C,"The correct answer is option
+c. Cash inflow from financing activities.
+The funds or cash received from issuing financial instruments like common stock, preferred stock, and bonds are reported as cash inflows from financing activities. Similarly, the returns paid to the investors in the form of dividends or coupons are shown as cash outflows from financing activities.
+The cash inflow from operating activities predominantly represents the cash received from customers for the goods or services sold. The cash inflow from investing activities the returns or proceeds received from holding or selling the physical and financial investments","Cash Flow Statement: The cash flow statement is a financial statement that depicts the net cash flows from three types of activities - operating activities, investing activities, and financing activities. It is prepared by considering the data available on the balance sheet and income statement.",,,C
+119,Classify the following transaction according to its correct cash flow activity: Issuance of corporate mortgage.,Operating,Investing,Financing,Not Applicable,C,"The correct answer is option
+c. Financing
+.
+The issuance of a corporate mortgage is a financing activity because the proceeds received from the investors will be used to finance the purchase of the corporate property.
+Cash flows from operating activities refer to the cash flows related to the business operations of a firm whereas the cash flows from investing activities refer to the cash flows related to investments made in tangible and intangible assets.","Cash Flows: The cash flows of a firm refer to the net cash flows, cash inflows, and cash outflows during a given year. They are usually categorized into three types to facilitate the analysis. These categories are cash flows from investing activities, cash flows from financing activities, and cash flows from operating activities.",,,C
+120,Classify the following transaction according to its correct cash flow activity: Receipt of interest and dividends.,Operating,Investing,Financing,Not Applicable,B,"The correct option is
+option b. Investing
+.
+The dividend and interest received are classified as cash inflows from investing activity. Cash flow from investing activity consists of inflows and outflows of cash resulting from the acquisition and disposal of long-term assets and certain investments. Thus, option b is correct.
+Explanations for incorrect options:
+Option a: Operating activities consist of cash inflows and outflows of all core activities of a company, like the sale of products.
+Option c: Financial activity consists of all cash inflows and outflows resulting from transactions affecting the capital structure of a firm.
+Notes:
+For a financial firm, the dividend and interest received are operating activities, but for non-financial businesses, they are investing activities.","Cash Flow Statement: A cash flow statement can be explained as a statement of cash receipts and payments, wherein all cash receipts and payments are recorded for a given accounting period. It includes three heads: cash flow from operating activities, cash flow from financing activities, and cash flow from financing activities.",,,A
+121,Dividend payment will _____ cash flows.,increase,decrease,have no effect on,,B,"The correct option is
+Option b: decrease
+.
+Option a: Dividend payouts depict the distribution of money to the entity's stockholders. This doesn't increase the firm's cash flow. So, this option is inaccurate.
+Option b: Cash dividend has no impact on the entity's income statement as it is reported in the cash flow statement and it reduces the retained earnings. The payout of dividends will result in a shrinking of the entity's cash flow and the shareholder's equity. Thus, it decreases the entity's cash balance and is an accurate option.
+Option c: Dividend payments are considered a cash outflow. This will have an influence on the cash balances of the entity. Therefore, this option is inaccurate.","Financing Activity: Financing activity depicts how an entity raises its capital and plans to pay back its investors. These activities comprise issuing stock, providing cash dividends, raising loans, etc.",,,B
+122,"If sales revenue is {eq}\$110
+
+{/eq} million and accounts receivable increased by {eq}\$18
+
+{/eq} million, the amount of cash received from customers:","was {eq}\$110
+
+{/eq} million.","was {eq}\$73
+
+{/eq} million.",depends on the mix of cash sales and credit sales.,"was {eq}\$92
+
+{/eq} million.",D,"The correct answer is option
+d. was {eq}\$92
+
+{/eq} million.
+The cash received from customers can be ascertained by deducting the increase in accounts receivable from the sales revenue.
+The amount of cash received from customers is computed as:
+{eq}\begin{align*}
+
+&= \text{Sales revenue - increase in accounts receivable} \\[0.3 cm]
+
+&= $110 - $18 \\[0.3 cm]
+
+&= 92 \text{ million}
+
+\end{align*}
+
+{/eq}","Cash Flows: The cash flows of a firm can be categorized into three types - operating activities, investing activities, and financing activities. The net income is different from the cash flows because net income is calculated by considering the accrual principle.",,,D
+123,In which section of the statement of cash flows would the payment of a dividend by a company to its shareholders be included?,operating activities.,investing activities.,financing activities.,would not be included.,C,"The correct option is
+Option c: financing activities
+.
+Option a: Operating activities comprise those cash-generating items that result from the entity's core businesses or operations. Dividend payments are not operating expenses. This option is incorrect.
+Option b: Investing activities depict the cash flow in making the purchase or sale of long-term assets, their acquisition or investments, in any securities. Dividends are not long-term assets. This option is also incorrect.
+Option c: Financing activities involve cash flow linked to equity and debt financing. The dividend paid is considered under this activity because it is the return that the shareholders received. This option is correct.",Income Statement: Income statements are reports prepared by the entity to determine its expenditures and revenues for the accounting year. It shows the profits or losses incurred by the business from its business activities.,,,C
+124,Interest paid will _____  cash flows.,increase,decrease,have no effect on,,B,"The correct answer is option
+b. decrease
+.
+The interest paid amount represents cash outflows to the lenders in the form of returns for the capital provided by them. Hence, interest payment decreases the overall cash flows of a firm.","Cash Flows: The net cash flows of a firm during a given year are computed by deducting the cash outflows from cash inflows. Furthermore, there are three types of cash flows - investing cash flows, financing cash flows, and operating cash flows.",,,B
+125,Issue of common shares will _____ cash flows.,increase,decrease,have no effect on,,A,"The correct answer is
+Option a.
+The issue of shares can be explained as the selling of shares or diluting the ownership to raise capital. It results in an inflow of cash which the firm uses to operate the business efficiently. Hence, option a is correct.
+Options b and c are not valid as the transaction of issuing shares does impact the cash flow position but it does not represent a decrease in the cash flow.
+Hence, the cash flow will increase whenever a firm issues shares.","Common Shares: Common shares can be explained as ordinary shares and they denote the company's ownership. An investor who purchases a share of any firm is not only eligible to share profits but also becomes the true owner of the company. However, the holders of common shares only have a residual claim on the firm's assets.",,,A
+126,The dividend received is part of which activity of the cash flow statement:,Operating.,Investing.,Financing.,None of the above.,B,"The correct answer is
+Option b.
+All transactions regarding the investment in long-term assets to be used in the business or the purchase of securities are recorded under investing activities. It also includes the selling of assets and securities. Under IFRS, If the firm has invested in any other firm's securities, then the accruing benefit in the form of interest or dividend is also recorded under this heading. Hence, option b is correct.
+The explanation for incorrect options:
+Option a:
+It is not a valid choice because, under operating activities, transactions that are concerned with the firm's core operations are recorded.
+Option c:
+Transactions that are related to the firm's capital providers are recorded under financing activities. If the firm pays its shareholders any dividend, then such transactions are recorded here but not the ones in which the firm receives it.
+Option d:
+As one of the given options is correct, so option d is incorrect.","Cash Flow Statement: Recording the source of cash along with the corresponding amount is done under the statement of cash flows. It is one of the most important statements, allowing users to understand the firm's cash position. It records only those transactions that denote the actual cash, resulting in an inflow or an outflow.",,,A
+127,The firm obtains cash from which of the following?,from operations,from the sale of assets,through borrowing,All of the above.,D,"The answer is
+d. All of the above.
+The statement of cash flows classifies all cash flows into 3 groups:
+Operating cash flows: Cash flows from the firm's main operations.
+Investing cash flows: Cash flows from asset purchases, sales of assets
+Financing cash flows: Cash flows from selling stocks or bonds; Borrowings from commercial banks; Dividend payments
+Hence, the firm can obtain cash from its main operations, sales of assets, and borrowing as well.","Cash Flows: The firm's cash flows include both cash receipts and cash disbursements. These cash flows are reported in the firm's statement of cash flows. In practice, an investor can analyze the statement of cash flows and other financial reports to evaluate the firm's performance within a given period.",,,D
+128,The Free cash flow is the amount of cash available from operating activities before paying for planned investments in long-term assets.,True,False,,,B,"The statement ""the free cash flow is the amount of cash available from operating activities before paying for planned investments in long-term assets"" is
+false
+.
+Free cash flow shows the available cash or funds left with an entity before paying its debts and financial obligations.
+It measures the cash that is available to the investors after deducting major investments like the purchase of plant, property, and equipment.
+It is computed by deducting capital expenditures from operating cash.",Operating Activities: Operating activities consist of functions that depict core business activities and have a direct impact on an entity's profitability. It involves assessing operating incomes and expenses.,,,A
+129,The item that would not be included in the operating section of a statement of cash flows is:,cash payment of expenses.,cash interest received.,cash received from the sale of surplus machinery.,cash received from sales.,B,"The correct options are
+B. cash interest received
+and
+C. cash received from the sale of surplus machinery.
+The cash payment of expenses and cash received from sales represent cash related to operating activities or core business operations.
+The cash received from the sale or surplus machinery is a cash inflow from investment activity because machinery represents an object of investment.
+The cash interest received is a cash inflow from investing activity because it represents the interest received on the loans advanced to borrowers.","Cash Flows: The cash flow statement for a firm shows the cash inflows and outflows for three types of activities in a given year. These activities are operating activities, investing activities, and financing activities.",,,C
+130,To arrive at a more accurate estimate of cash flow we would add depreciation expense to net income. The next step would be to:,reduce our estimate by the increases in liabilities.,reduce our estimate by the decreases in assets.,increase our estimate by the increases in liabilities.,do nothing more because we have an accurate estimate.,C,"The correct answer is C.
+increase our estimate by the increase in liabilities.
+Financial obligations and reductions in the asset are adjusted to the net income to estimate cash flows. Similarly, any financial obligations and asset revenue fall are subtracted from net income.
+Reason for incorrect options:
+Option A
+Increases in liabilities typically indicate that the company owes more money in the future, which would reduce the cash flow rather than increase it.
+Option B
+Decreases in assets, such as decreased accounts receivable, indicate that the company has collected cash from customers and therefore has more cash available. So, adjust the cash flow estimate upward by the amount of the decrease in assets, and not downward.
+Option D
+Adding depreciation expense to net income provides a more accurate cash flow estimate, but it is still incomplete. It needs to be adjusted for changes in non-cash current assets and liabilities to arrive at an accurate cash flow estimate.","Cash Flow Analysis: Using cash flow analysis, a company's management can better comprehend the amount of cash a business has earned and how effectively it has used it during a particular financial year.",,,C
+131,Which of the following is not an operating activity?,Cash receipts for interest earned.,Cash payments for operating expenses.,Cash collections from credit customers.,Cash payments for dividends to shareholders.,A,"We are asked which options are NOT operating activities. The answers are
+a. Cash receipts for interest earned.
+and
+d. Cash payments for dividends to shareholders.
+Neither of these are operating activities.
+Cash receipts for interest earned are categorized under investing activities
+Cash payments for dividends to shareholders are classified under financing activities.
+The other answer options are operating activities.
+b. Cash payments for the operating expenses and inventory purchases are categorized under the operating activities section.
+c. Cash collections from credit customers are classified under operating activities.","Cash Flows: The net cash flows for a firm during a given period are obtained by deducting the cash outflows from the cash inflows. Moreover, to facilitate the analysis, activities related to cash flows are categorized into operating activities, financing activities, and investing activities.",,,D
+132,Which of the following sections of the statement of cash flows include purchases and sales of long-term assets?,the financing activities section,the investing activities section,the operating activities section,the non-cash investing and financing section,B,"The correct answer is option B. the investing activities section.
+The statement of cash flows section that includes purchases and sales of long-term assets is called Investing Activities. This section focuses on cash transactions related to acquiring and disposing of long-term assets, such as property, plant, equipment, and investments like marketable securities or stakes in other companies.
+Incorrect Options
+(Option A) Financing Activities: This section focuses on cash transactions that affect a company's capital structure, such as issuing or repurchasing shares, paying dividends, and borrowing or repaying loans. Financing activities show how a company raises and returns capital to and from investors and its ability to meet its financial obligations.
+(Option C) Operating Activities: This section reports cash flows related to the company's core business operations. It includes cash received from customers, cash paid to suppliers and employees, and cash flows related to interest and taxes. Operating activities reflect the company's ability to generate cash through its primary business activities.","Statement of Cash Flows: In accounting, the statement of cash flows helps analyze how well the company can generate cash from its core business operations (operating activities), investments (investing activities), and financing (financing activities).",,,B
+133,Which of the following would be reported as a cash receipt from investing activities?,Loaning money to another business,Proceeds from the sale of long-term investments,Purchase of plant assets,Proceeds from the sale of treasury stock,B,"The correct answer is option
+B. Proceeds from the sale of long-term investments
+.
+The cash flows related to long-term investments are categorized into cash inflows and cash outflows from investing activities. The cash outflows represent the purchase of physical and financial assets whereas the cash inflows represent the proceeds received from the sale of the assets or returns received in the form of interest or dividends.
+Incorrect Options:
+Option A
+- Loaning money to another business is an example of cash outflow from investing activities.
+Option C
+- Purchase of plant assets is an example of cash outflow from investing activities.
+Option D
+- Proceeds from the sale of treasury stock is an example of cash inflow from financing activities.","Cash Flow Statement: The cash flow statement is one of the three prominent financial statements any firm prepares for a fiscal year. It depicts the cash flows related to financing, investing, and operating activities.",,,B
+134,"Which of the following would represent a use of funds and, indirectly, a reduction in cash balances?",an increase in accounts payable,the sale of new bonds by the firm,an increase in inventories,a decrease in marketable securities,C,"The correct answer is option
+C. an increase in inventories
+.
+An increase in assets except cash means a reduction in cash balances, whereas an increase in liabilities means an increase in cash balances. Thus, an increase in accounts payable and the sale of new bonds (i.e. increase in bonds payable) indicate an increase in cash balances as they signify an increase in liabilities.
+Inventories and marketable securities are current assets. An increase in inventories represents a reduction in the cash balance, while a decrease in marketable securities represents an increase in the cash balance.","Cash Flows: The cash flows of a firm for a given year can be categorized into cash flows from operating activities, investing activities, and financing activities. The cash flows from operating activities represent the cash flows related to core business operations.",,,C
+286,"If cash flows from operating activities is a positive amount, then:",The company must have paid off more debts than it earned during the year.,The company may still have a decrease in the total amount of cash for the period.,The company must have had a net profit for the year.,The amount will be shown on the statement of cash flows in parentheses.,B,"The answer is
+B.
+Operating activities of statement of cash flows record the transactions that affect the company's net income or regular daily operation, like increases or decreases in current assets. If the amount is positive, it is not an indicator that the cash has a net increase (positive) since there are two activities: financing and investing activities, to consider, aside from operating, also to find out if there was a total increase or decrease in cash. These two could decrease the total amount of cash when they have negative amounts. So, B is correct.
+Analysis of other options
+A. Debts are under financing activities. So, it is not considered in operating activities.
+C. Positive cash flows from operating activities are not an assurance of net profit since there could be a net loss that had turned positive because of the higher adjustments in non-cash expenses, losses, and others that increase operating activities.
+D. The negative, not positive, cash flow is shown in parentheses in the statement of cash flows.",Statement of Cash Flows: The company's statement of cash flows lists or summarizes the transactions that had caused an increase or decrease in the total cash during the period.,,,B
+287,Providing services to customers on the account is considered a(n):,Operating cash flow.,Investing cash flow.,Financing cash flow.,Not a cash flow.,D,"The correct answer is option
+D) Not a cash flow.
+Providing services to customers on the account is not a cash flow activity because the services have been provided on credit and the due amount is recorded in the accounts receivable account under the assets section of the balance sheet. When the customers pay the outstanding amount only then that amount will be recorded as a cash flow from operating activities.
+The investing cash flows are usually related to investments made in assets and returns received from them. The financing cash flows relate to the funds raised from investors and returns paid to them.","Cash Flows: The cash flows of a firm can be broadly categorized into cash flows from operating activities, financing activities, and investing activities. The cash flows from operating activities can be computed by using the direct method or indirect method.",,,D
+288,Which of the following best identifies an example of an uneven cash flow?,Mortgage payments,Dividends,Corporate bond interest,Insurance premiums,B,"Correct Answer:
+Option b. Dividends
+.
+Options
+Analysis
+a. Mortgage payments
+Mortgage payments are usually even cash flows comprised of interest and principal repayments.
+b. Dividends
+Dividends are not even in the case of common stock but even in the case of preferred stock.
+c. Corporate bond interest
+Interest payments are even until maturity.
+d. Insurance premiums
+Insurance premiums are even cash flows to the insurance company.",Cash Flows: Cash can flow into or out of business and can be even or uneven. Even cash flows are amounts that repeat periodically with the same values. Uneven cash flows are amounts that repeat periodically with different values.,,,B
+289,Which of the following would result in a decrease in cash flow and a use of cash?,A decrease in notes payable,An increase in long-term debt,A decrease in inventory,A decrease in common stock,A,"Correct Answer:
+Option a. A decrease in notes payable
+.
+Options
+Analysis
+a. A decrease in notes payable
+A decrease in notes payable indicates a reduction in cash flow as cash is used in paying notes payable.
+b. An increase in long-term debt
+An increase in long-term debt indicates a cash inflow and is a source of cash.
+c. A decrease in inventory
+an inventory reduction indicates sales and cash inflows.
+d. A decrease in common stock
+A reduction of common stock need not mean cash outflow. It merely reflects the changes in the value of the shares over time.","Cash Flows: Cash can flow into the business in the form of receipts from credit sales, interest, dividends, and other income. Cash can flow out of business in the form of payments for capital and revenue expenses.",,,A
+290,Which one of the following is NOT included in cash flow from assets?,accounts payable,inventory sales,interest expense,cash account,C,"The correct option is
+c) interest expense
+When the company borrows funds, it has some interest. This cost is known as the interest expense. This is shown on the income statement of the company as it is a non-operating expense.",Cash Flow: This is a statement regarding the generation of cash and its usage during a time period. This is one of the three statements that have to be published periodically by the public companies for the stakeholders.,,,C
+326,"A company purchases a $323,500 building, paying $222,000 in cash and signing a $101,500 promissory note. What will be reported on the statement of cash flows as a result of this transaction?","A $222,000 cash outflow from investing activities and a $101,500 noncash transaction.","A $222,000 cash outflow from investing activities and a $101,500 cash inflow from financing activities.","A $323,500 cash outflow from investing activities.","A $323,500 cash outflow from investing activities and a $101,500 cash inflow from financing activities.",A,"The correct answer is A.
+Explanation:
+As per accounting standards, there are $222,000 in cash transactions and $101,500 in non-cash transactions. Therefore, $222,000 will be reported under cash outflow from investing activities, and the remaining $101,500 will be reported as non-cash transactions. We add the amount of investment in cash flow from investing activities which we have spent in the company to expand the productivity; because of these activities, we can know when we have spent the money and where we have received the money.","Non-Cash Transaction: Financial and investing-related operations that don't involve cash or a monetary equivalent are known as non-cash transactions, whenever a business makes a purchase or incurs a cost but doesn't pay with cash.",,,A
+327,Cash flow that changes by the same amount each interest period is called a,Series cash flow.,Uniform gradient.,Uniform cash flow.,Geometric series.,B,"The correct option is
+B) Uniform gradient
+.
+Explanation:
+Option A): In a series cash flow, there are regular payments of matching amounts in regular intervals. Thus, it is an incorrect option.
+Option B): In a uniform gradient, the cash flows change every payment (interest) period in equal amounts. For example, cash flow in the 1st period is $100, and the cash flow in the 2nd period is $120, then the cash flow in the subsequent period will increase uniformly by $20. Here, $20 is a uniform gradient.  Thus, it is the correct option.
+Option C): In uniform cash flow, the amount and the time interval between the payments are the same. Thus, it is an incorrect option.
+Option D): In a geometric series, the cash flow either increases or decreased constantly every period. Thus, it is an incorrect option.",Cash Flow: The movement of money (cash or cash equivalent) in and out of an organization is called cash flow. It includes all the cash inflows that a company receives and all the cash outflows a company pays.,,,C
+328,Cash paid to purchase long-term investments would be reported in the statement of cash flows in:,a separate schedule.,the cash flows from investing activities section.,the cash flows from the operating activities section.,the cash flows from the financing activities section.,B,"The correct answer is option
+(b)
+.
+The ""Cash flow from Investing Operations"" component of the cash flow statement displays the cash generated or used in connection with investing activities. Purchasing tangible assets, investing in securities, or selling securities or assets are all examples of investing activities. Cash spent on long-term investments would be included in the statement of cash flows under investing activities.
+Explanation for wrong options:
+(a)There is not any special schedule required to record this.
+(c) The amount of money made by a company's typical business operations is measured in operating activities.
+(d) The cash flow statement's financing activity focuses on how a company obtains capital and returns it to investors via capital markets.","Cash flow statement A company can track its cash flow by using a cash flow, another crucial tool for managing finances. Along with the income statement and balance sheet, this is one of the three financial documents that contribute to assessing the success of the business.",,,B
+329,"Investors who want to know the amount of cash a company has available for new opportunities, such as expanding into a new sales region, should analyze the company's free cash flow.",True,False,,,A,"Answer: The statement mentioned above is True as surplus funds can be used to increase production, capture new opportunities, etc.
+Explanation: Free cash flow (FCF) is a company's cash flow after accounting for cash outflows to support its business and maintain capital assets. In other words, free cash flow is the money left over after a company pays for  operating and capital expenditures (CapEx).
+FCF is the money left over after paying salaries, rent,  taxes, etc., that businesses can use properly. Calculating and analyzing free cash flow can help your company manage cash. FCF calculations also provide investors insight into a company's financials and help them make better investment decisions.
+Free cash flow is a key indicator of how efficiently a company generates cash. Investors use free cash flow to determine whether a company has enough cash to pay dividends or buy back shares.
+Therefore, the more free cash flow a company has, the better positioned it is to pay off debt and take advantage of opportunities that can improve its business, making it an attractive option for investors.",Free Cash Flow: It is the cash flow into a company or stock after all debts and other obligations have been paid. It measures how much cash a company generates after considering working capital and capital expenditures.,,,A
+330,Many companies use free cash flow to estimate the amount of cash that would be available for unexpected opportunities.,True,False,,,A,"This statement is True.
+Free cash flow refers to the amount which remains after deducting the amount company pays for its normal operations and any capital expenditure from the net income. Thus by preparing free cash flow company comes to know how much cash is available and can use it to invest in any other profitable project.","Cash Flow Statement: The cash flow statement is prepared to calculate cash separately from the operating, investing, and financing activities. This cash flow statement is prepared by indirect and direct method.",,,A
+331,There is no difference in the investing and financing sections of the statement of cash flows using indirect and direct methods.,True,False,,,A,"The correct option is
+A
+; i.e., True.
+Under both methods, the presentation of the investing activities section and financing activities section is similar; the only difference is in the presentation of the operating activities section.
+Investing activities identify the cash transactions correlated to the sale or purchase of fixed assets or investments. However, financing activities depict the cash change in the owners' equity and debt borrowings.","Cash Flow Statement There are two methods of preparing the statement of cash flows, one direct and the other indirect method. Both methods indicate the changes in the cash level of the business or organization for the fiscal year.",,,A
+332,Which of the following entities may not use the cash method of accounting?,A partnership with average annual gross receipts in excess of $5 million.,A C corporation whose average annual gross receipts for the preceding three taxable years do not exceed $5 million.,A C corporation that is substantially owned by its employees and whose business is selling goods with annual gross receipts in excess of $5 million for all tax years since its inception.,An S corporation.,C,"A correct answer is an option (C)
+Explanation:
+A C company with yearly gross sales of more than $5 million for each tax year since its founding is primarily owned by its employees and does business selling products.
+General Guideline for Choosing an Accounting Method for C Corporations excepting firms:
+If the average annual total revenues over the previous three years have been greater than $5 million, C companies are required to use the accrual method of accounting.
+As a result, the C company in Option (C) cannot employ the cash basis since its average annual total revenues exceed $5 million.
+C corporations are exempt from the rules mentioned above if they are personal service corporations.
+It must have offered a large part of activities in the following areas for a personal service firm to qualify: engineering, architecture, performing arts, accountancy, and health care.","Average annual revenue: Under Law, The Average Annual Revenue or Bonus is the sum of the Executive's annual bonuses received from the Company for the three fiscal years immediately before the Date of Termination.",,,C
+333,Which of the following statements is most true? (NI = net income; CF = cash flow),"NI and CF are totally unconnected, and investors care more about NI.","NI and CF are certainly positively related, but investors care more about NI.","NI and CF are totally unconnected, and investors care more about CF.","NI and CF are certainly positively related, but investors care more about CF.",D,"The answer is
+option D.
+Net income is the company's revenues after expenses were deducted using the accrual basis of accounting, and cash flow is the net income under the cash basis of accounting. They are positively related because cash flow is obtained from reconciling items adjusted to or from the net income amount. It results from increasing or decreasing net income on an accrual basis to a cash basis. Investors care more about cash flow since it determines the actual cash available instead of net income, which includes the revenue still to be collected.","Cash Flow: The business's cash flow is either inflows (receipts) or outflows (disbursements), which would result in net cash inflow when the receipts are higher than disbursements; otherwise, net cash outflows.",,,D
+368,"Generally, postaudits are conducted for large projects:",shortly after the completion of the project.,several years after the completion of the project.,shortly after the project has begun to operate.,well before the start of the project.,C,"The correct option is
+C)
+.
+Post-audit refers to an examination of the outcomes of a capital budgeting investment. This study is done to determine whether the project's outcome met expectations and whether the assumptions included in the initial capital proposal turned out to be correct.
+Post-implementation audits offer a crucial feedback loop that helps the business learn from its mistakes and keep enhancing how well it delivers IT projects. They can also assist the IT department in demonstrating its worth to the company.
+To determine if the process is operating as intended, post-auditing is required for large projects immediately after the project has started. Therefore, there won't be any lasting effects.
+OptionA)
+is incorrect because completing the project will cause an increase in the work of the whole process of the project.
+OptionB)
+is incorrect because, after several years, there will be a change in everything in the economy, like technology.
+OptionD)
+is incorrect because before starting the work will find no mistakes.","Context header: Cash Flow Cash flow is the net balance of money entering and going out of a business at a particular period. A firm constantly receives and expends cash, when a retailer buys merchandise; money leaves the company and goes to its suppliers.",,,B
+369,"Under the indirect method, an increase in accounts payable is added to net income to arrive at net cash flows from operating activities.",True,False,,,A,"The correct answer is option
+a. True.
+As a general rule, using the indirect method of accounting cash flows under operating activities, the following must be considered.
+Particulars
+Effect on Net Income
+Increase in Asset
+Decreases Net Income
+Decrease in Asset
+Increase in Net Income
+Increase in Liability
+Increase in Net Income
+Decrease in Liability
+Decrease in Net Income
+Non-cash Expenses
+Decrease in Net Income
+Gain Recognized
+Decrease in Net Income
+Loss Recognized
+Increase in Net Income
+Accordingly, an increase in current liabilities such as accounts payable, accrued liabilities, and income tax payable are added to net income to arrive at net cash flows from operating activities. So, the correct answer is true.","Cash Flows: In business and finance, the cash flow is a significant report that shows all cash inflow and cash outflow in the business. These inflows and outflows are mainly categorized into operating, financing, and investing.",,,A
+370,We report the purchase of stock in another corporation as a cash outflow from investing activities.,True,False,,,A,"The correct answer is option a. True.
+The investing activities of accounting cash flows are generally related to the purchase of non-current assets and other long-term investments. It also relates to the purchase of marketable securities. Accordingly, the purchase of stock in another company must be accounted for as cash outflow under investing activities. Thus, the above statement is true.","Cash Flow Statement: In financial accounting, the cash flow statement (or the statement of cash flows) refers to the annual accounting report that shows the exact cash balance presented on the balance sheet. It shows how much cash the business generated and how much cash is disbursed.",,,A
+402,"Given the following, what is free cash flow?","$115,000","$224,000","$181,000","$234,000",A,"Correct Answer:
+Option a) $115,000.
+The free cash flow can be computed in the following format:
+Amount
+Cash flow from operating activities
+$191,000
+Capital expenditures
+$(43,000)
+Dividends
+$(33,000)
+Free cash flow
+$115,000",Free Cash Flow: The operating cash flow available after meeting the shareholders' capital expenditures and dividend payments is called free cash flow. Free cash flow helps in company valuation.,,,C
+403,Which of the following statements is INCORRECT?,"The more depreciation an investor-owned healthcare firm reports, the lower its tax bill, other things held constant.","Depreciation is an expense, so an increase in depreciation would normally lead to a reduction in the firm's net cash flow.","Depreciation is not a cash charge, however, it does have an effect on a firm's reported profits.","The more depreciation an investor-owned healthcare firm reports, the higher its net cash flow, other things held constant.",A,"Let us discuss each alternative:
+a. The more depreciation an investor-owned healthcare firm reports, the lower its tax bill, other things held constant.
+This statement is true, because depreciation is a deductible expense for income tax purposes, so it reduces the firm's tax bill.
+b. Depreciation is an expense, so an increase in depreciation would normally lead to a reduction in the firm's net cash flow.
+This is the correct option because the statement is incorrect. An increase in depreciation will reduce a firm's net income, but it would not have any impact on its net cash flow.
+c. Depreciation is not a cash charge, however, it does have an effect on a firm's reported profits.
+This is also true because depreciation is deducted to calculate a firm's reported profits.
+d. The more depreciation an investor-owned healthcare firm reports, the higher its net cash flow, other things held constant.
+Again, this is true. Depreciation is not a cash expense but it lowers the cash outflow for income tax, so it increases the net cash flow.","Cash Flow in Business: The cash flow of a business is reported in its statement of cash flows. It is determined by summarizing all the cash inflows and outflows for the year, while ignoring non-cash transactions such as depreciation and accounting gains or losses.",,,B

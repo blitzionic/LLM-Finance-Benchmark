@@ -1,0 +1,103 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,An exception to disbursements being made by check is acceptable when cash is paid:,to an owner,from petty cash,to employees as wages,to employees as loans,A,"To follow the internal controls, the companies are strict on issuing checks.
+A. Issuing cash to the owner must be in check to ensure that the transaction is approved and authorized.
+B. If the disbursement is from petty cash, there is no need to issue a check because it has a voucher system, and the amount is minimal.
+C. The wages are a large amount of money, so it needs to be disbursed by check.
+D. The employee's loans need approval from the authorized persons, so making a check for that is necessary.
+The answer is B.",Disbursements: Every company has its rules and policies in issuing checks for disbursement. The most important thing to consider is it was approved and authorized for issuance.,,,B
+2,"Cash includes currency, coins, and deposits in most checking accounts.",True,False,,,A,"The correct answer is
+a. True
+.
+Currency, coins, and most checking account deposits are all examples of cash. A checking account is referred to as a deposit account that is maintained by financial institutions for receiving deposits and making withdrawals.
+Checking accounts may be ideal for storing funds for daily or short-term spending. Checking account balances are recorded on the balance sheet of a firm as a component of current assets since they are regarded as cash.","Account: An account is a standardized format that records financial transactions, and it is made to record the daily transactions of an entity in a proper format to avoid any discrepancies.",,,A
+3,Documents used to control checking accounts do not include:,deposit tickets,bank statements,score cards,signature cards,C,"The correct option is c. Scorecards
+Explanation:
+The above option is correct because the scorecard is used to evaluate the performance of the individual working in the business organization rather than controlling the checking account. Managers use the scorecard to determine the efficiency of the personnel in executing the activities.
+The explanation for incorrect options:
+Option a is incorrect because the slips used to deposit money in the checking account are used for keeping control because it will provide information about inflow in the checking accounts.
+Option b is incorrect because the bank statement will provide a brief summary of all the inflows and outflows from the current account, therefore, it will be used to control the checking account.
+Option d is incorrect because it contains the authorized signature of the account holder and therefore, it is used to control all the withdrawals from the account.",Checking Account: An account maintained by the business entity or individual in the banking or financial institution that allows numerous deposits and withdrawals on daily basis is known as a checking account.,,,C
+4,"For a check, a ""reasonable time"" is ninety days after the date of the check.",True,False,,,A,"The answer is
+true
+A reasonable time in which to deposit or convert a check to cash is ninety days. Some financial institutions will honor personal and banking checks beyond 90 days, up to 180 days and often beyond that time.","Checking Account A checking account, historically, was a financial account in which money could be deposited and withdrawn with the use of a check. Every financial institution has varying policies that are dependent upon their state laws, regarding check cashing and check writing.",,,B
+5,Peggy needs to pay car insurance two times every year. She has divided the payment by six and saves that amount each month. Which account below is the best account in which to save this money?,401-K retirement fund with matching deposits from Peggy's employer,"a checking account, or a savings account for other expenses (predictable), and emergencies",a savings account for college tuition,a coin jar,B,"Option ( b)
+is the correct answer.
+Peggy needs to make car insurance payments twice a year. She has divided the half-yearly payment by six to arrange for timely payments and saves that amount monthly. The best account for her to save money would be a checking account or a savings account for other expenses (predictable) and emergencies. Since a checking account imposes no limit on withdrawals, it is most widely used for immediate outgoings. Hence, it is the most practical alternative for Peggy to pay the monthly insurance dues.
+Incorrect Options are explained below:
+Option a):
+401-K retirement fund with matching deposits from Peggy's employer is irrelevant in the given scenario. It is not used for saving or spending money.
+Option c):
+A savings account for college tuition is maintained for a specific purpose of paying college tuition fees. So, it does not apply to Peggy's situation.
+Option d):
+A coin jar is an irrelevant option for Peggy as it is related to a digital currency account.",Checking Account A checking account is a category that provides flexibility to the account holder to deposit and remove funds as and when required. It can be linked to the debit card for making essential and emergency payments.,,,B
+6,Which form of payment is taken directly from your checking account?,check,electronic payment,debit card,all of the above,C,"The correct answer is
+C. Debit card
+.
+When an individual makes a purchase with their debit card, the money is drawn directly from their checking accounts as opposed to offering a loan. This method is considered a quick and secure form of payment since the funds are transferred electronically from their money in the account. People often use debit cards to automatically pay their service providers and merchants directly from their banks.","Checking Accounts: Checking accounts are created for the owner's daily use since it allows them to deposit their money, which they can easily access to make purchases or pay bills. This type of account allows for direct money deposit, even through mobile deposit for people to add money in their accounts after they share their account information. the different ways people can transfer money to and out of their checking accounts include wire transfers, use of ATM cards, and debit cards.",,,D
+7,Which of the following is NOT a banking term or fee that could result in an additional charge on your checking account?,Maximum Balance Service Fee,Checking Account Overdraft,Minimum Balance Service Fee,Out-of-Network ATM Withdrawal,D,"A
+maximum balance services fee
+is not a banking term or fee that could result in an additional charge on your checking acocunt.
+Banks want to encourage members to carry larger balances and penalizing such activity would undermine the bank's ability to have sufficient reserves to issue loans. Many banks even incentivize holding higher balances by offering to pay interest on the amount held.
+Analysis of Alternatives
+b) Banks assess this fee when a check is issued and there are not sufficient funds.
+c) Is usually assessed for savings accounts or business accounts.
+d) Occurs as many ATM transfers to out-of-network involving processing fees that are passed through to the card holder.",Banking: A bank secures the value of the cash that individuals or businesses hold by promising that they can access their funds at a future date. Banks primarily raise money by the extension of loans and the assessment of fees for their services.,,,A
+45,A. How do checkable deposits differ from demand deposits? Only demand deposits can be utilized as a medium of exchange.,,Demand deposits are those transactions accounts against which an unlimited number of checks can ordinarily be written. Checkable deposits often carry restrictions on transferability.,Only checkable deposits can be utilized as a medium of exchange.,Demand deposits are those transactions accounts against which a limited number of checks can ordinarily be written. Checkable deposits carry no restrictions on transferability.,B,"The answer is:
+B. Demand deposits are those transactions accounts against which an unlimited number of checks can ordinarily be written. Checkable deposits often carry restrictions on transferability
+. Checkable deposits carry restrictions primarily due to interest rate guarantees. In general, the restrictions limit transactions by requiring a longer notice before making a withdrawal.","Negotiable Order of Withdrawal (NOW) Vs. Money Market: A negotiable order of withdrawal (NOW) account is a checking account that allows you to earn interest on the money deposited. Some NOW accounts require at least seven days written notice before a withdrawal. Money market accounts, by contrast, may allow you to write checks, but the check writing is restricted.",,,B
+46,An ordinary check that does not require the signature of the person or firm on whose account it is being drawn is a:,cashier's check,preauthorized check,depository check,float,A,"The answer is a. cashier's check.  These instruments are drawn from a bank's own funds (rather than an accountholder) and signed by a cashier or teller.  Oftentimes, such checks are required to facilitate certain transactions, given their virtual equivalence to cash.  In order to obtain a cashier's check, an individual or business must provide a bank with the required funds for it to write the check.","Check: A check is a paper instrument that is used by an individual or organization to remit funds to another party.  There are difference types of checks; the most commonly used is a regular checking account check, which is used to draw against the checking account funds of the check presenter.",,,B
+47,Determine the annual net cost of these checking accounts:,"Monthly fee $4, check-processing fee of 20 cents, average of 23 checks written per month","Annual interest of 1.5% paid if balance exceeds $750, $8 monthly fee if account falls below minimum balance, average monthly balance $815, account falls below $750 during four months",,,A,"The annual net cost of the checking accounts is $135.20 ($103.20 + $32).
+a)
+Given:
+Monthly Fees = $4
+Check-processing fee = $0.20 per check
+Number of checks written per month = 23 checks.
+Therefore, monthly fees = $4 + ($0.20 * 23 checks) = $8.60
+Annual fees = Monthly fees * 12 months = $8.6 * 12 = $103.20.
+b)
+Given:
+Interest paid if balance exceeds $750 is an income and not a cost, hence is not relevant.
+Minimum balance = $750
+Fees if minimum balance is not maintained = $8 per month
+Number of times, minimum balance falls below $750 = 4
+Therefore, the fees for the year = $8 * 4 months = $32","Checking Accounts: Checking accounts are also called transactional accounts or demand accounts and it refers to a deposit account held at a bank or a financial institution that does not restrict the count on number of deposits and withdrawals. The checking accounts are liquid in nature i.e they help in easy access to cash, either by checks or ATM or E-transfers etc.",,,A
+48,Determine the annual net cost of these checking accounts:,Monthly fee $4; check processing fee of 20 cents; average of 23 checks written per month.,Annual interest of 1.5 percent paid if balance exceeds $750; $8 monthly fee if account falls below the minimum average monthly balance of $815; account falls below $750 during four months.,,,A,"a.
+Monthly fee $4; check processing fee of 20 cents; average of 23 checks written per month.
+Annual net cost of checking account = Yearly Fees + Yearly check processing fees
+Annual net cost of checking account = ($4 * 12 months) + ($0.20 * 23 checks * 12 months)
+Annual net cost of checking account = $48 + $55.20
+Annual net cost of checking account =
+$103.20.
+b.
+Annual interest of 1.5 percent paid if balance exceeds $750; $8 monthly fee if account falls below the minimum average monthly balance of $815; account falls below $750 during four months.
+Interest paid = $815 * 1.5 / 12 = 101.875
+Interest paid for 8 months = $101.875 * 8 months
+Interest paid for 8 months = $815.
+Monthly fee = $8 * 4 months
+Monthly fee = $32.
+Annual net cost = $815 - $32
+Annual net cost =
+$783.","Checking Account: A checking account is a type of bank deposit account that can be either interest or non-interest bearing. Its most salient feature is that the depositor will receive a checkbook from the bank to use for disbursement transactions. Usually, a checking account has a minimum balance that must be maintained to avoid fees, and a minimum average daily balance that must be maintained as well to earn interest.",,,A
+49,"The ABC Commercial Bank has $5,000 in excess reserves and the reserve ratio is 30 percent. The bank must have:","$100,000 in outstanding loans and $30,000 in reserves.","$100,000 in checkable deposit liabilities and $22,000 in reserves.","$100,000 in checkable deposit liabilities and $20,000 in reserves.","$100,000 in checkable deposit liabilities and $30,000 in reserves.",D,"The ABC Commercial Bank has $5,000 in excess reserves and the reserve ratio is 30 percent. The bank must have
+D. $100,000 in checkable deposit liabilities and $30,000 in reserves
+.
+It is because the bank contains some excess reserves for financial emergencies. And by the number of deposits present with the borrower and the required reserve, the bank would keep the required reserve which is accounted for by the percentage share of required reserves subjected with the deposits and also the bank keeps the checkable deposits in the current liabilities account of the balance sheet. Hence, as per norms, the bank has checkable deposits of $1,00,000 and as per the required reserve ratio, the bank would contain $30000 in its required reserve.",Checkable deposits Checkable deposits refer to the deposits which a bank contains which is checkable on demand. These deposits are a major source of money creation made by commercial banks.,,,B
+50,The fastest method for moving funds between banks is:,special courier services,wire transfers,drafts,float,B,"The answer is
+b. Wire transfer.
+Wire transfer would allow receiver to access to money immediately if both receiver and sender have accounts in the same institution. If bank accounts are from different banks, it might take up to 24 hours to process the transaction.",Checking Account: Checking account is a type of bank accounts that will not earn interest. Account owner can drawn money on the checking account by using a connected debit card or mutual checks. Each type of checking accounts will have different set of requirements about maintenance fee.,,,B
+51,There are three parties to a check.  The drawer is,the party to whom payment is to be made,a written document signed by the company,the bank on which the check is drawn,is the one who signs the check ordering payment by the bank,D,"The correct answer is
+d. is the one who signs the check ordering payment by the bank.
+Drawer is the one who had written the check for the payee, who will receive the amount from the drawee, which is the bank. Drawer is the owner or holder of the bank account.","Checking Account: A checking account is a company's bank account that is maintained by the bank. The three parties involve in a check are drawee, drawer, and payee. Each of them has role.",,,D
+52,What would be the net annual cost of the following checking accounts?,"Monthly fee, $4.25; processing fee, 50 cents per check; assume checks written average to 16 per month.","Interest earnings of 2 percent with a $550 minimum balance; average monthly balance, $750; monthly service charge of $14 for falling below the minimum balance, which occurs five times a year (no interest earned in these months).",,,A,"a)
+The net annual cost of the checking accounts is $147
+Given monthly fee = $4.25.
+Yearly fee = Monthly fee * 12 months = $4.25 * 12 = $51
+Processing fee = Number of checks * 12 months * Processing charges per check = 16 * 12 * $0.5 = $96
+Total net annual cost = Yearly fee + Processing charges = $51 + $96 = $147.
+b)
+The net annual cost of the checking accounts is $61.25
+Given service charges = $14 per month and it occurs five times
+Total service charges = $14 * 5 = $70
+Interest is not earned for 5 months. Therefore it will be calculated for 7 months (12 - 5)
+Interest earned = $750 * 2% * 7 / 12 =  $8.75
+Total net annual cost = Interest earned - Service charges  = $8.75 - $70 = $61.25","Checking Account and Related Costs: A checking account is a deposit account which is opened and held in a bank or financial institution with the facility of deposits and withdrawals of the amount held in the account. Checking accounts are super liquid and can be accessed using ATMs, electronic transfers, etc. For the services provided, a fee and service charges are collected from the account holder. A checking account often provides less interest compared to other types of accounts such as money market accounts and certificates of deposit.",,,A

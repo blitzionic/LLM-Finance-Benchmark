@@ -1,0 +1,96 @@
+{
+  "inital": {
+    "name": "generate_initial_solution",
+    "description": "Generates the initial solution to a finance question.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "solution": {
+          "type": "string",
+          "description": "The initial solution to the finance question."
+        }
+      },
+      "required": ["solution"]
+    }
+  },
+  "reviewer": {
+    "name": "review_solution",
+    "description": "Reviews the solution for accuracy, completeness, strengths, and weaknesses.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "accuracy": {
+          "type": "string",
+          "description": "Evaluation of the solution's accuracy."
+        },
+        "completeness": {
+          "type": "string",
+          "description": "Evaluation of the solution's completeness."
+        },
+        "strengths": {
+          "type": "string",
+          "description": "Strengths of the solution."
+        },
+        "weaknesses": {
+          "type": "string",
+          "description": "Weaknesses of the solution."
+        }
+      },
+      "required": ["accuracy", "completeness", "strengths", "weaknesses"]
+    }
+  },
+  "challenger": {
+    "name": "challenge_solution",
+    "description": "Identifies potential flaws, overlooked aspects, or additional constraints in the solution.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "flaws": {
+          "type": "string",
+          "description": "Potential flaws in the solution."
+        },
+        "overlooked_aspects": {
+          "type": "string",
+          "description": "Aspects that were overlooked."
+        },
+        "additional_constraints": {
+          "type": "string",
+          "description": "Additional constraints or considerations."
+        }
+      },
+      "required": ["flaws", "overlooked_aspects", "additional_constraints"]
+    }
+  },
+  "refiner": {
+    "name": "refine_solution",
+    "description": "Refines the solution by addressing feedback from the Reviewer and Challenger.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "refined_solution": {
+          "type": "string",
+          "description": "The improved solution text."
+        }
+      },
+      "required": ["refined_solution"]
+    }
+  },
+  "decider": {
+    "name": "decide_final_solution",
+    "description": "Evaluates all iterations and selects the final answer based on predefined criteria.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "selected_solution": {
+          "type": "string",
+          "description": "The most optimal solution selected."
+        },
+        "evaluation": {
+          "type": "string",
+          "description": "Explanation of why this solution was selected."
+        }
+      },
+      "required": ["selected_solution", "evaluation"]
+    }
+  }
+}

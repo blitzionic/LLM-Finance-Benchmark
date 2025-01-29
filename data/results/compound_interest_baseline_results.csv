@@ -1,0 +1,390 @@
+id,question,A,B,C,D,answer,explanation,hint,guess,reasoning,baseline_guess
+1,"A quick, rough estimate of the time required for money to double can be obtained by dividing which of the following numbers by the compound interest rate?",56,64,72,100,C,"The correct option is
+(c) 72
+Rule of 72,
+Under compound interest, the rule of 72 helps us to determine in how much time the accumulated amount will be twice of the initial investment. It can be roughly calculated by dividing 72 by the compound interest. The answer will be the number of years in which the initial investment will be doubled.","Compound Interest: Compound interest is the interest that earns interest on itself. In financial mathematics, compound interest is used in annuities, loan schedules, time value of money, investment and insurance plans, etc.",,,C
+2,"An investment of $30,000 increased to $80,000 over an 8-year period. What was the compound rate of return on the investment?",10.8%,The interest rate cannot be determined.,13.0%,9.0%,C,"The correct option is
+(c.) 13.0%
+Under compound interest,
+{eq}\text{Accumulated Amount} = \text{Initial Amount} \times (1 + i)^{n} {/eq}
+where,
+i = interest rate
+n = number of years
+Here,
+Accumulated Amount = $80,000
+Initial Amount = $30,000
+n = 8 years
+Putting values, we can solve for i
+{eq}\text{Accumulated Amount} = \text{Initial Amount} \times (1 + i)^{n}\\ \$80,000 = \$30,000 \times (1 + i)^{8}\\ (1 + i)^{8} = \dfrac{\$80,000}{\$30,000}\\ (1 + i)^{8} = 2.6667\\ \text{Taking log on both sides}\\ 8 \times log(1 + i) = log(2.6667)\\ 8 \times log(1 + i) = 0.98084\\ log(1 + i) = \dfrac{0.98084}{8}\\ log(1 + i) = 0.122605\\ \text{Taking anti-log on both sides} 1 + i = 1.1304\\ i = 0.1304\\ i = 13.04\% {/eq}
+The closest option is (c.) 13%",Compound Interest: Compound Interest is the interest that earns interest on itself. The accumulation under compound interest is faster than that in simple interest because of compounding.,,,A
+3,Compute the amount of money that would accumulate in an account if {eq}\$5000 {/eq} is invested for 4 years at {eq}2\% {/eq} per annum compounded:,annually.,monthly.,continuously.,quarterly.,A,"The given problem is a compound interest problem.
+The formula for compound interest is:
+$$A(t)=P\left( 1 + \dfrac{r}{m} \right)^{m \cdot t} $$
+where:
+{eq}A(t) {/eq} is the accumulated value at the time {eq}t {/eq}.
+{eq}P {/eq} is the principal or the initial amount of investment.
+{eq}t {/eq} is the number of years.
+{eq}r {/eq} is the annual rate of interest.
+{eq}m {/eq} is the number of compounding periods per year.
+{eq}t {/eq} is the time in years.
+In the given problem, we are given {eq}P=5,000 {/eq}, {eq}t=4 {/eq}, and {eq}r=2%=0.02 {/eq}.
+a.
+If the compounding period is annual, it follows that {eq}m=1 {/eq}.
+Hence, substitute {eq}P=5000,r=0.02,t=4,m=1 {/eq} into the formula and solve for {eq}A(4) {/eq}:
+$$A(4)=5000\left( 1 + \dfrac{0.02}{1} \right)^{1 \cdot 4}=5412.1608 $$
+Thus, the accumulated value at year 4 is approximately {eq}\$5,412.16 {/eq}.
+b.
+If the compounding period is monthly, it follows that {eq}m=12 {/eq}.
+Hence, substitute {eq}P=5000,r=0.02,t=4,m=12 {/eq} into the formula and solve for {eq}A(4) {/eq}:
+$$A(4)=5000\left( 1 + \dfrac{0.02}{12} \right)^{12 \cdot 4}=5416.074655 $$
+Thus, the accumulated value at year 4 is approximately {eq}\$5,416.07 {/eq}.
+c.
+If the compounding period is continuous, we need to use the formula {eq}A(t)=Pe^{rt} {/eq} where {eq}e {/eq} is the Euler's constant.
+Hence, substitute {eq}P=5000,r=0.02,t=4 {/eq} into the formula and solve for {eq}A(4) {/eq}:
+$$A(4)=5000e^{0.2 \cdot 4}=5416.435338 $$
+Thus, the accumulated value at year 4 is approximately {eq}\$5,416.44 {/eq}.
+d.
+If the compounding period is quarterly, it follows that {eq}m=4 {/eq}.
+Hence, substitute {eq}P=5000,r=0.02,t=4,m=4 {/eq} into the formula and solve for {eq}A(4) {/eq}:
+$$A(4)=5000\left( 1 + \dfrac{0.02}{4} \right)^{4 \cdot 4}=5415.355756 $$
+Thus, the accumulated value at year 4 is approximately {eq}\$5,415.36 {/eq}.","Compound Interest: In finding the accumulated value of compound interest, we need to first analyze the problem and determine the number of compounding periods per year. The statement saying the number of compounding periods per year is crucial in determining the value of {eq}m {/eq} in the formula {eq}A(t)=P\left( 1 + \dfrac{r}{m} \right)^{m \cdot t} {/eq}. The given formula is the formula to determine the accumulated value at the time {eq}t {/eq}.",,,A
+4,Find the following values for a lump sum assuming annual compounding:,"The future value of $7,500 invested at 4.52 percent for one year.","The future value of $7,500 invested at 4.52 percent for five years.","The present value of $8,700 to be received in one year when the opportunity cost rate is 3.5 percent.","The present value of $8,700 is to be received in five years when the opportunity cost rate is 3.5 percent.",A,"The future value and present value under compound interest can be calculated by the following formulae.
+{eq}\text{Future Value} = \text{Initial Amount} \times (1 + i)^{n} {/eq}
+{eq}\text{Present Value} = \dfrac{\text{Future Value}}{(1 + i)^{n}} {/eq}
+where,
+i = interest rate
+n = number of years
+Answer a. The future value of $7,500 invested at 4.52 percent for one year.
+Here,
+Initial Amount = $7,500
+i = 4.52%
+n = 1 year
+{eq}\begin{align} \text{Future Value} &= \text{Initial Amount} \times (1 + i)^{n}\\ &= \$7,500 \times (1 + 0.0452)^{1}\\ &= \$7,500 \times 1.0452\\ &= \$7,839\\ \end{align} {/eq}
+Answer b. The future value of $7,500 invested at 4.52 percent for five years.
+Here,
+Initial Amount = $7,500
+i = 4.52%
+n = 5 years
+{eq}\begin{align} \text{Future Value} &= \text{Initial Amount} \times (1 + i)^{n}\\ &= \$7,500 \times (1 + 0.0452)^{5}\\ &= \$7,500 \times 1.24738\\ &= \$9,355.35\\ \end{align} {/eq}
+Answer c. The present value of $8,700 to be received in one year when the opportunity cost rate is 3.5 percent.
+Here,
+Future Value = $8,700
+i = 3.5%
+n = 1 year
+{eq}\begin{align} \text{Present Value} &= \dfrac{\text{Future Value}}{(1 + i)^{n}}\\ &= \dfrac{\$8,700}{(1 + 0.035)^{1}}\\ &= \dfrac{\$8,700}{1.035}\\ &= \$8,405.80\\ \end{align} {/eq}
+Answer d. The present value of $8,700 is to be received in five years when the opportunity cost rate is 3.5 percent.
+Here,
+Future Value = $8,700
+i = 3.5%
+n = 5 years
+{eq}\begin{align} \text{Present Value} &= \dfrac{\text{Future Value}}{(1 + i)^{n}}\\ &= \dfrac{\$8,700}{(1 + 0.035)^{5}}\\ &= \dfrac{\$8,700}{1.18769}\\ &= \$7,325.14\\ \end{align} {/eq}",Future Value: The future value under compound interest shows the accumulated amount of the initial amount invested at a certain interest rate for n number of years. The future value is also called the accumulated value.,,,A
+5,"Find the value of an investment of $1,000 in an account:",bearing 4.5% simple interest after 30 years.,bearing 4.5% interest compounded monthly after 30 years.,,,A,"We'll use the following formulas to determine an investment's worth using various interest calculations:
+a. Simple Interest: The following formula can be used to determine simple interest:
+$$A = P(1 + rt), $$
+where:
+A is the total sum.
+P stands for the initial investment's capital.
+r is equal to the period interest rate.
+T is the total number of periods.
+The principal sum is {eq}\$1,000 {/eq} in this instance, the interest rate is {eq}4.5~\text{%} {/eq}, and the repayment duration is 30 years.
+By applying the formula, we get:
+$$\begin{align} A &= 1000(1+ 0.045 \times 30)\\ A &= 1000 \times 2.35\\ A &= 2350 \end{align} $$
+As a result, after 30 years, the investment would be worth {eq}\$14,500 {/eq} at {eq}4.5~\text{%} {/eq} simple interest.
+b. Compound Interest (compounded monthly):
+The formula for calculating compound interest with monthly compounding is:
+$$A = P\left (1 + \dfrac{r}{n} \right )^{nt)} $$
+where:
+A = the final amount
+P = the principal amount (initial investment)
+r = the annual interest rate (as a decimal)
+n = the number of times interest is compounded per year
+t = the number of years
+We have a {eq}\$1,000 {/eq} principal amount, a {eq}4.5~\text{%} {/eq} interest rate (0.045 decimal), a monthly compounding (n = 12), and a 30-year time period.
+Solving:
+$$\begin{align} A &= P\left (1 + \dfrac{r}{n} \right )^{nt}\\ A &= 1000\left (1 + \dfrac{0.045}{12} \right )^{12 \times 30}\\ A &= 3847 \end{align} $$
+Hence after 30 years, the investment would be {eq}\$3847 {/eq}.",Interest: Compound interest is a more complicated type of interest that considers both the initial principal and the interest that has accrued over time. Compound interest involves adding interest to the principal on a regular basis; subsequent interest computations are then based on the updated principal. Simple interest is a fundamental type of interest in which the interest is only determined by the initial principal sum. It doesn't account for any further interest that might have accrued or been earned.,,,B
+6,If 2000 dollars is invested in a bank account at an interest rate of 10 percent per year.,Find the amount in the bank after 12 years if interest is compounded annually.,Find the amount in the bank after 12 years if interest is compounded quarterly.,Find the amount in the bank after 12 years if interest is compounded monthly.,"Finally, find the amount in the bank after 12 years if interest is compounded continuously.",D,"The given problem is a compound interest problem.
+The formula of compound interest is:
+$$FV=P \left(1 + \dfrac{r}{m} \right)^{mt} $$
+where:
+FV is the future value.
+P is the principal or the initial amount invested.
+t is the time in years.
+m is the number of compounding periods.
+r is the annual rate of interest.
+The following are the values of m:
+Annually: m=1
+Quarterly: m=4
+Monthly: m=12
+On the other hand, the formula for compounded continuously is {eq}FV=Pe^{rt} {/eq}.
+In the given problem, we are given {eq}P=2000,t=12,r=10%=0.10 {/eq}.
+Hence, we will substitute the values to the formula:
+a.
+Find the amount in the bank after 12 years if interest is compounded annually.
+$$FV=2000 \left(1 + \dfrac{0.10}{1} \right)^{1 \cdot 12} \approx 6276.86 $$
+b.
+Find the amount in the bank after 12 years if interest is compounded quarterly.
+$$FV=2000 \left(1 + \dfrac{0.10}{4} \right)^{4 \cdot 12} \approx 6542.98 $$
+c.
+Find the amount in the bank after 12 years if interest is compounded monthly.
+$$FV=2000 \left(1 + \dfrac{0.10}{12} \right)^{12 \cdot 12} \approx 6607.30 $$
+d.
+Finally, find the amount in the bank after 12 years if interest is compounded continuously.
+$$FV=2000 \cdot e^{0.10 \cdot 12} \approx 6640.23 $$","Compound Interest: The future value in compound interest is the value that can be obtained when a specific initial amount is invested subject to an interest and compounding period. The future value in a compound interest can be determined if the following parameters are given; initial amount, rate of interest, number of compounding periods, and time in years.",,,A
+7,"Sam just deposited $5,000 into a savings account paying 3.5 percent interest, compounded annually. Assume there are no additional deposits or withdrawals.","After four years, how much will he have in the savings account?",What will be the total interest at the end of the fourth year?,What will be the total interest on the principal at the end of the fourth year?,What will be the total interest on interest at the end of the fourth year?,A,"Given information:
+Initial deposit = $5,000
+Annual compounding interest rate (I) = 3.5%
+Holding periods (N) = 4 years
+a. Estimate the account balance after 4 years:
+{eq}\text{Account balance}_4 = \displaystyle \text{Initial deposit} \times (1 + \text{I})^N \\ \text{Account balance}_4 = \displaystyle \$5,000 \times (1 + 3.5\%)^4 \\ \text{Account balance}_4 = \displaystyle \$5,000 \times 1.14752 \\ \text{Account balance}_4 = \$5,737.60 {/eq}
+b. Estimate the total interest earnings within 4 years:
+{eq}\text{Total interest earnings} = \text{Account balance}_4 - \text{Initial deposit} \\ \text{Total interest earnings} = \$5,737.60 - \$5,000 \\ \text{Total interest earnings} = \$737.60 {/eq}
+c. Estimate the total original interest earnings on the initial deposit after 4 years:
+{eq}\text{Total original interest earnings} = \displaystyle \text{Initial deposit} \times \text{I} \times \text{N} \\ \text{Total original interest earnings} = \displaystyle \$5,000 \times 3.5\% \times 4 \\ \text{Total original interest earnings} = \$700 {/eq}
+d. Estimate the total interest earnings on original interest after 4 years:
+{eq}\text{Total additional interest on interest} = \text{Total interest earnings} - \text{Total original interest earnings} \\ \text{Total additional interest on interest} = \$737.60 - \$700 \\ \text{Total additional interest on interest} = \$37.60 {/eq}","Compounding Interest: Since original interests are reinvested in the initial investment, an investor can obtain additional interest earnings on original interests. Consequently, the practice of compounding interest can raise the future value of an investment.",,,A
+8,The compound interest method refers to:,Interest is calculated only on the original principle.,Interest is calculated on a dollar received today.,Interest is calculated on both the original principle and on all interest accumulated since the beginning of the interest period.,All of the above.,C,"The correct answer is
+c. Interest is calculated on both the original principal and on all interest accumulated since the beginning of the interest period.
+Interest charged on a compounded basis implies that interest is calculated on the initial principal and the interest accumulated since the beginning. So, the interest keeps increasing with each period, and the money multiplies at a faster rate when compared to simple interest. Thus, compound interest makes investments more desirable but debt riskier.
+The other options are incorrect.
+a.
+Interest is calculated only on the original principal:
+When the interest is calculated only on the original principal amount without considering the accumulated interest, it is called simple interest.
+b.
+Interest is calculated on a dollar received today:
+The interest calculated on a dollar received today does not represent compound interest.",Interest: Interest is the cost of funds lent by the lender to the borrower. It is the compensation to the lender for providing capital and bearing the risk involved in the process. Interest is usually expressed as a percentage.,,,C
+9,"Travis invested {eq}\$9,250 {/eq} in an account that pays 6 percent simple interest. How much more could he have earned over a 7-year period if the interest had compounded annually?",{eq}\$773.58 {/eq}.,{eq}\$802.16 {/eq}.,{eq}\$741.41 {/eq}.,{eq}\$833.33 {/eq}.,A,"The answer is a. $773.58.
+Given information:
+Initial investment = $9,250
+Annual interest rate (I) = 6%
+Holding period (N) = 7 years
+Estimate the total interest earnings if the simple interest is applied to the case:
+{eq}\text{Interest earnings}_{Simple} = \displaystyle \text{Initial investment} \times \text{I} \times \text{N} \\ \text{Interest earnings}_{Simple} = \displaystyle \$9,250 \times 6\% times 7 \\ \text{Interest earnings}_{Simple} = \$3,885 {/eq}
+Estimate the total interest earnings if the compounding interest is applied to the case:
+{eq}\text{Interest earnings}_{Compounding} = \displaystyle \text{Initial investment} \times (1 + \text{I})^N - \text{Initial investment} \\ \text{Interest earnings}_{Compounding} = \displaystyle $9,250 \times (1 + 6\%)^7 - $9,250 \\ \text{Interest earnings}_{Compounding} = \$4,658.58 {/eq}
+Estimate the additional interest earnings generated by the compounding interest:
+{eq}\text{Additional interest earnings} = \text{Interest earnings}_{Compounding} - \text{Interest earnings}_{Simple} \\ \text{Additional interest earnings} = \$4,658.58 - \$3,885 \\ \text{Additional interest earnings} = \$773.58 {/eq}","Simple Interest: The simple interest indicates that interest earnings are estimated on the investment principal and will not be reinvested in the initial investment. With that being said, simple interest produces fewer interest earnings than compounding interest.",,,A
+10,"When interest is paid on both the principal amount and prior interest earned, this is called:",accounting rate of return.,the discount factor.,compound interest.,simple interest.,C,"The correct answer is option c. compound interest.
+Compound interest is a type of interest that is applied not only to the principal amount of an investment or loan, but also to the interest accrued during the lifetime of that investment or loan.
+For example, if a savings account earns compound interest where interest is compounded monthly, then the interest earned at the end of each compounding period, or month in this case, is added to the balance of the account, and then interest accrues on that amount as well as the principal amount invested.
+The explanations for why the other answer options are incorrect are as follows:
+Choice A. Accounting rate of return:
+This is not a correct option, because an accounting rate of return is used to calculate the profitability of an investment as opposed to being a type of interest earned on an account.
+Choice B. The discount factor:
+The discount factor is not a type of interest, but rather, it is used to calculate the present value of future cash flows. Thus, this is not a correct answer option.
+Choice D. Simple interest:
+This option is not correct, because simple interest is a type of interest in which interest is only paid on the principal amount and not on any prior interest earned.","Principal Amount: In accounting and finance, the term 'principal amount' refers to original amount invested in an interest-bearing account or investment. In terms of loans, principal amount can also refer to the original amount borrowed from a lender.",,,C
+11,Which of the given interest rates and compounding periods would provide the best investment?,"2% per year, compounded semiannually","2% per year, compounded monthly","2% per year, compounded continuously",,D,"When everything else is held constant, a higher compounding frequency always yields a higher investment. This is because the interest is added back into the investment more often, meaning that future interest calculations are made with a larger balance. If interest is compounded semiannually, it is compounded twice per year. If it is compounded monthly, that is 12 times per year. Continuously compounded interest is a little different, as interest is compounded more frequently than once per second! Thus, continuously compounding is the highest compounding frequency, and we want to use that.
+We can illustrate this problem with some calculations to support our claims. The following three calculations use an initial balance of $1000 placed into an account earning 2% interest for 10 years. The only difference is the compounding frequency. The first calculation uses semiannually compounded interest, the second uses monthly compounded interest, and the third uses continuously compounded interest. While the differences in the final amount are slight, we can see that continuously compounded interest does yield the highest amount in the end.
+{eq}\begin{align*} A_a &= 1000\left(1 + \dfrac{0.02}{2}\right)^{2(10)}\\ &=1000(1+0.01)^{20}\\ &= 1000(1.01)^{20}\\ &= 1000(1.22019)\\ &= 1220.19\\ \\ A_b&= 1000\left( 1+\dfrac{0.02}{12}\right)^{12(10)}\\ &= 1000(1+0.001667)^{120}\\ &= 1000(1.001667)^{120}\\ &=1000(1.221199)\\ &=1221.20\\ \\ A_c &= 1000e^{0.02(10)}\\ &=1000e^{0.2}\\ &= 1000(1.22140)\\ &= 1221.40 \end{align*} {/eq}","Compound Interest: The most common application of exponential functions comes in finance. This is because when money is placed in the bank, it grows at a specified interest rate. Most of the time, this interest is compounded either annually or continuously, though other compounding frequencies exist.",,,C
+12,"You have 15 more years to achieve your goal of being a millionaire. At an exponential growth of 10 percent annually, how much do you need to invest today to reach your goal?","$22,026","$262,910","$223,130","$100,000",B,"The equation for calculating the compounding interest is an exponential equation.
+Using this formula, we can solve for the minimum amount of money that must be invested to attain 1,000,000 after 15 years if the interest is 10 percent compounded annually.
+{eq}P_{n}\;=\;P_{0}\;\times\;(1\;+\;\frac{r}{k})^{Nk} {/eq}
+where:
+{eq}\begin{aligned} P_{n}\;&=\;\text{ total amount in the account after N years have passed}\\ P_{0}\;&=\;\text{starting amount in the account or the initial balance}\\ r\;&=\;\text{the annual interest rate given in decimal form}\\ k\;&=\;\text{the number of compounding periods in a year (e.g., if compounding is done quarterly, k=4)}\\ \end{aligned} {/eq}
+We will now substitute the values in the equation. We know that if the interest is compounded annually then the number of compounding periods in a year is 1.
+{eq}\begin{aligned} P_{n}\;&=\;P_{0}\;\times\;(1\;+\;\frac{r}{k})^{Nk}\\ 1,000,000\;&=\;P_{0}\;\times\;(1\;+\;\frac{0.10}{1})^{(15)(1)}\\ P_{0}\;&=\;\frac{1,000,000}{(1\;+\;\frac{0.10}{1})^{(15)(1)}}\\ P_{0}\;&=\;\frac{1,000,000}{(1\;+\;0.10)^{15}}\\ P_{0}\;&=\;\frac{1,000,000}{(1.10)^{15}}\\ P_{0}\;&=\;239,392.0494\\ \end{aligned} {/eq}
+The minimum amount that must be invested is approximately 239,392 in order to attain 1,000,000 after 15 years.
+In the given choices, only option B surpasses the minimum amount. If you invest 262,910 today, after 15 years, you will have approximately 1,098,240. Thus, making you a millionaire.
+{eq}\begin{aligned} P_{n}\;&=\;P_{0}\;\times\;(1\;+\;\frac{r}{k})^{Nk}\\ P_{n}\;&=\;262,910\;\times\;(1\;+\;\frac{0.10}{1})^{(15)(1)}\\ P_{n}\;&=\;262,910\;\times\;(1\;+\;0.10)^{15}\\ P_{n}\;&=\;1,098,240.316\\ \end{aligned} {/eq}
+The answer is option B.","Interest When you borrow money from a bank, you usually hear the terminterest. Interest is the added amount of money that must be paid by the borrower aside from the loaned money. This is how banks earn from lending money. Interest is a certain percentage of the loaned money. Interest can be compounded at different periods in a year. It can be compounded annually, semi-annually, or quarterly.",,,A
+13,"You just inherited $10,000. You are investing this money for two years at 5% compounding interest. In whole dollars, how much money will you have at the end of the two years?","$10,500","$11,000","$11,025","$12,000",C,"The final amount that can be expected to be earned in two years at 5% compound interest is
+= {eq}\displaystyle P \times \left ( 1 + \dfrac{r}{n} \right )^{nt} {/eq}
+Where,
+A is the amount to be earned
+P is the principal amount invested, $10,000
+r is the interest rate on the deposit, 5%
+n is the frequency of compounding, annual
+t is the time in years, 2
+Therefore,
+A = {eq}\displaystyle \$10,000 \times \left ( 1 + \dfrac{0.05}{1} \right )^{1 \times 2} {/eq}
+A = {eq}\displaystyle \$10,000 \times ( 1 + 0.05)^{2} {/eq}
+A = {eq}\displaystyle \$10,000 \times ( 1.05)^{2} {/eq}
+A = {eq}\displaystyle \$10,000 \times 1.1025 {/eq}
+A =
+$11,025
+Hence, the correct answer is
+c. $11,025",Inheritance: Inheritance is the passing down of personal assets and cash from one person to another after the former's death as per the arrangement made by the former in his/her will before dying. The person who inherits the sum of money can choose to spend it entirely as he or she wishes or choose to grow the money through fixed deposit schemes at banks or through other investment channels.,,,C
+208,"A $7 million deposit earns 5% for 9 years. If the account loses 2% per year after that, how long will it take to be reduced back to $7 million?",21.74 years,10.29 years,11.29 years,6.78 years,A,"The answer is
+a. 21.74 years.
+Summary:
+Initial deposit = $7,000,000
+Holding period (N1) = 9 years
+Annual interest rate (I1) = 5%
+Annual decrease percentage (I2) = - 2%
+Determine the account balance after 9 years:
+{eq}Balance_9 = \displaystyle Initial\:deposit \times (1 + I1)^{N1} {/eq}
+{eq}Balance_9 = \displaystyle $7,000,000\times (1 + 5\%)^9 {/eq}
+{eq}Balance_9 = \displaystyle $10,859,297.51 {/eq}
+Determine the number of years to reduce the amount of $10,859,297.51 to $7,000,000 at an annual decrease percentage of 2%:
+{eq}Initial\:deposit =\displaystyle Balance_9 \times (1 + I2)^{N2} {/eq}
+{eq}$7,000,000 =\displaystyle \$10,859,297.51 \times (1 - 2\%)^{N2} {/eq}
+{eq}0.98^N = \displaystyle \frac{\$7,000,000}{\$10,859,297.51} {/eq}
+{eq}0.98^N = 0.64461 {/eq}
+{eq}N = \displaystyle \frac{ln(0.64461)}{ln(0.98)} {/eq}
+{eq}N = 21.74\:years {/eq}","Compounding Interest: The theorem of the compounding interest assumes that received interests will be reinvested in the same investment immediately. Thus, the future value of the investor will include an additional interest earned on original interests.",,,A
+209,"A deposit of $10,000 now at an interest rate of 10% per year will accumulate in 20 years to an amount equal to _____.","$54,600","$61,500","$67,280","$51,900",C,"The correct option is C. $67275
+The principal amount here is $10,000 and the interest rate is 10% or 0.1. Since the deposit has been made for 20 years, the time period taken would be 20 years. The amount after 20 years can be estimated by using the formula below:
+{eq}A=P{{\left( 1+\frac{r}{n} \right)}^{n*t}}
+
+{/eq}
+Here, A is the amount after 20 years, P is the principal amount, r is the interest rate, n is the number of times compounding happens which is taken as 1 and t is the time period which is 20 years. Substitute the values and solve for A as below:
+{eq}\begin{aligned}   A&=\$10,000{{\left( 1+\frac{0.1}{1} \right)}^{1*20}} \\   &=\$10,000{{\left( 1.1 \right)}^{20}} \\   &=\$10,000\times 6.72749 \\   &=\$67274.9 \\   &=\$67,275  \end{aligned}
+
+{/eq}
+The amount after 20 years would be $67,275.
+A. The option is incorrect since the amount after 20 years would be $67,275 and not $54,600.
+B. The option is incorrect since the amount after 20 years would be $67,275 and not $61,500.
+D. The option is incorrect since the amount after 20 years would be $67,275 and not $51,900.","Principal and Amount: When a person makes a deposit of a certain amount, that amount is called the principal deposit. The amount that the depositor would receive after the maturity of the deposit period is called the amount. The amount received after the maturity is the sum of the principal deposit and the interest earnings that get accumulated over the time period for which the deposit has been made.",,,C
+210,"Assume ABC Company deposits $25,000 with First National Bank in an account earning interest at 6% per annum, compounded semi-annually. How much will ABC have in the account after five years?","$33,598.","$25,000.","$32,500.","$33,456.",A,"The future value after five years is $33,598 (a)
+The calculation for future value is shown below.
+{eq}Future \ value \ = \ Deposits \ + \ \left ( Deposits \ \times \ \left ( \left ( 1 \ + \ \dfrac{Interest \ rate}{2} \right )^{Years \ \times \ 2} \ - \ 1 \right ) \right )
+
+\\
+
+Future \ value \ = \ \$25,000 \ + \ \left ( \$25,000 \ \times \ \left ( \left ( 1 \ + \ \dfrac{6\%}{2} \right )^{5 \ \times \ 2} \ - \ 1 \right ) \right )
+
+\\
+
+Future \ value \ = \ \$25,000 \ + \ \left ( \$25,000 \ \times \ \left ( \left ( 1 \ + \ 3\% \right )^{10} \ - \ 1 \right ) \right )
+
+\\
+
+Future \ value \ = \ \$25,000 \ + \ \left ( \$25,000 \ \times \ \left ( 1.34392 \ - \ 1 \right ) \right )
+
+\\
+
+Future \ value \ = \ \$25,000 \ + \ \left ( \$25,000 \ \times \ 0.34392 \right )
+
+\\
+
+Future \ value \ = \ \$25,000 \ + \ \$8,598
+
+\\
+
+Future \ value \ = \ \$33,598
+
+{/eq}",Compounding: Compounding is a method in which the interest on investment is added to the principal amount at the end of the compounding period. The earned interest becomes a part of the principle which earns additional interest from the next period.,,,A
+211,"How much money will be in an account 10 years from today if $20,000 is deposited today at a rate of 10% per year compounded continuously?","$29,750","$39,750","$54,365","$66,365",C,"The answer is
+c. $54,365.
+Summary:
+Initial deposit = $20,000
+Holding period (N) = 10
+Annual interest rate (I) = 10%
+Determine the account balance after 10 years:
+{eq}\text{Balance_{20}} = \displaystyle \text{Initial deposit} \times e^{N \times I} \\
+
+\text{Balance_{20}} = \displaystyle \$20,000 \times e^{10 \times 10\%} \\
+
+\text{Balance_{20}} = $54,365 {/eq}","Compounding Interest: The compounding interest method will reinvest the received interest immediately into the initial investment. Hence, this method will raise the total return on investment since it generates an additional interest on interest.",,,C
+212,"If you borrow $5,000 with 4% interest compounded annually, how much total interest do you need to pay after 2 years?",$400,$404,$412,$408,D,"The correct answer is option
+d. $408
+.
+The value of the borrowed amount after 2 years is given by:
+{eq}\begin{align*}
+
+&=  \text{Amount borrowed * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= \$5,000 * (1 + 4\%)^{2} \\[0.3 cm]
+
+&= \$5,000 * (1.04)^{2} \\[0.3 cm]
+
+&= \$5,000 * 1.0816 \\[0.3 cm]
+
+&= \$5,408
+
+\end{align*}
+
+{/eq}
+The interest amount paid is given by:
+{eq}\begin{align*}
+
+&=  \text{Value of the borrowed amount after 2 years - borrowed amount} \\[0.3 cm]
+
+&= $5,408 - $5,000 \\[0.3 cm]
+
+&= $408
+
+\end{align*}
+
+{/eq}",Time Value of Money: The concept of the time value of money is used to figure out the equivalent worth after a certain number of years. The compounding effect takes into account the interest earned on the already earned interest amount.,,,B
+213,"If you deposit $200 per month at 12% per year compounded annually (no inter-period compounding), how much will you have at the end of 12 years?","$28,589","$37,698","$43,798","$57,919",D,"The answer is
+d. $57.919.
+Summary:
+Monthly deposit = $200
+Annual deposit = $200 x 12 = $2,400
+Annual interest rate (I) = 12%
+Number of months (N) = 12
+Determine the account balance after 12 years:
+{eq}\text{Account balance} = \displaystyle \text{Annual deposit} \times  \times \frac{(1 + I)^{N}-1}{I} {/eq}
+{eq}\text{Account balance} = \displaystyle $2,400 \times  \times \frac{(1 + 12\%)^{12}-1}{12\%} {/eq}
+{eq}\text{Account balance} = \displaystyle $2,400 \times 24.13313 {/eq}
+{eq}\text{Account balance} = \$57,919 {/eq}","Compounding Interest: The concept of compounding interest assumes that original interests are reinvested in the same investment. Thus, an investor can earn interest on interest if the investment is offered with compounding interest.",,,C
+214,"Two years ago, Marc paid $450 for a baseball signed by Andy Pettitte. The value of the card grew by 6% each year. If Marc sells the ball five years from now, what percent profit will he make?",50%,75%,25%,100%,D,"The answer is A, Marc will profit 50 percent if the value of the card grows by 6% each year.
+The key to solving this problem is to perform a series of operations. As the final price will occur seven years after Marc bought the card for $450, the original price needs to be multiplied by 1.06 for the first year, then the product of that calculation multiplied by 1.06 for the second year. Each year will involve multiplying the previous year's product by 1.06, which represents the original price plus the 6 percent increase, or the value of 106 percent of the original price.
+Marc Purchases the card for $450
+End of the first year: {eq}$450 \times 1.06 = $477
+
+{/eq}
+End of the second year: {eq}$477 \times 1.06 = $505.62
+
+{/eq}
+End of the third year: {eq}$505.62 \times 1.06 = $535.9572
+
+{/eq}
+End of the fourth year: {eq}$535.9572 \times 1.06 = $568.114632
+
+{/eq}
+End of the fifth year: {eq}$568.114632 \times 1.06 = $602.20150992
+
+{/eq}
+End of the sixth year: {eq}$602.20150992 \times 1.06 = $638.3336005152
+
+{/eq}
+End of the seventh year: {eq}$638.3336005152 \times 1.06 = $676.633616546112
+
+{/eq}
+At this point, we can round off the price to $676.63.
+To find out the percentage profit, we must subtract the original price from the final price, then divide that answer by the original price to find a decimal that represents the percentage profit.
+{eq}676.63 - 450 = 226.63
+
+{/eq}
+{eq}226.63 \div 450 = 0.5036222222222222
+
+{/eq}
+As this is slightly over 50 percent, that tells us that the most accurate of the four answer choices is 50% profit from the baseball card.","Compound Interest: When calculating a value increase that occurs over several years, it is always important to remember that interest is compounded. This means that one does not simply multiply the percentage increase per year and multiply by the number of years. Future years multiply the percentage increase by the amount created by the previous year's value increase.",,,A
+215,"What is the future value in 30 years of $100,000 invested today in a savings account earning a 1% compound interest rate every year?","$130,000","$134,785","$30,000","More than $134,785",B,"The correct option is
+(b) $134,785
+Given that -
+Initial Value = $100,000
+Interest Rate = 1% p.a.
+Number of years = 30 years
+{eq}\begin{align}
+
+\text{Future Value} &= \text{Initial Value} \times (1 + \text{Interest Rate})^{\text{Number of years}}\\
+
+&= \$100,000 \times (1 + 0.01)^{30}\\
+
+&= \$100,000 \times 1.01^{30}\\
+
+&= \$100,000 \times 1.34785\\
+
+&= \$134,785\\
+
+\end{align}
+
+{/eq}","Compound Interest: Compound interest means interest earning interest on itself. After every compounding, the earned interest gets accumulated with the initial amount and gets invested at the same interest rate.",,,B
+216,Which is the largest if interest rates are 7 percent?,$100 compounded for three years,the future value of a $100 annuity for three years,the present value of $100 after three years,the present value of a $100 annuity,B,"The answer is
+B. the future value of a $100 annuity for three years
+A. Determine the value of $100 after 3 years:
+{eq}Future\:Value_A = Initial\:deposit\times (1 + Interest\:rate)^{Periods} = $100\times (1 + 7\%)^3 = $122.50 {/eq}
+B. Determine the future value of the annuity:
+{eq}Future\:Value_B = \displaystyle Annual\:deposit\times \frac{(1 + Interest\:rate)^{Periods}-1}{Interest\:rate} {/eq}
+{eq}Future\:Value_B = \displaystyle \$100\times \frac{(1 + 7\%)^{3}-1}{7\%} {/eq}
+{eq}Future\:Value_B = \$321.49 {/eq}
+C. Determine the present value of $100 to be received after 3 years:
+{eq}Present\:value_C = \displaystyle \frac{Future\:value}{(1 + Interest\:rate)^{Periods}} = \frac{\$100}{(1 + 7\%)^3} = \$81.63 {/eq}
+D. Determine the present value of the annuity:
+{eq}Present\:Value_C = \displaystyle Annual\:deposit\times \frac{1-(1 + Interest\:rate)^{Periods}}{Interest\:rate} {/eq}
+{eq}Present\:Value_C = \displaystyle \$100\times \frac{1 - (1 + 7\%)^{3}}{7\%} {/eq}
+{eq}Present\:Value_C = \$262.43 {/eq}","Compounding Interest: The theorem of the compounding interest assumes that earnings from an interest-bearing investment will be reinvested in the same investment. With that being said, an investor can obtain an additional amount of interest on the original interest earnings.",,,B

@@ -1,0 +1,546 @@
+id,question,A,B,C,D,answer,expanation,hint,guess,reasoning,baseline_guess
+1,"The journal entry to write off an individual customer""s account receivable using the allowance method will?",reduce net income and total current assets,reduce net income but will not affect total current assets,not affect net income but will reduce total current assets,did not affect net income or total current assets,C,"The journal entry to write off an individual customer's account receivable using the allowance method will c. not affect net income but will reduce total current assets.
+
+Under the allowance method, the bad debt expense is recorded with an adjusting entry at the end of each reporting period. This entry reduces net income. When an individual customer account is written off, the journal entry debits Allowance for Doubtful Accounts and credits Accounts Receivable. This entry does not affect net income. It also does not affect total current assets because the net accounts receivable does not change. Net accounts receivable is Accounts Receivable minus Allowance for Doubtful Accounts.
+
+The other options are incorrect:
+
+a. reduce net income and total current assets is correct under the direct write-off method, but not the allowance method.
+b. reduce net income but will not affect total current assets and d. did not affect net income or total current assets are incorrect because these are never consequences of the journal entry to write off an individual customer account.","Allowance Method:
+In financial accounting, the allowance method is used to account for the bad debt expense. The Allowance for Doubtful Accounts account balance amounts to a provision for bad debts and is deducted from the Accounts Receivable balance to find the net realizable value of accounts receivable, as presented on the balance sheet.",,,D
+2,What is wrong with the direct write-off method of accounting for uncollectibles?,The direct write-off method overstates assets on the balance sheet.,The direct write-off method does not match expenses against revenue very well.,The direct write-off method does not set up an allowance for uncollectibles.,All of the above,D,"Under the direct write-off method, the bad debt expense is only recorded when a customer account is identified as being uncollectible. The Allowance for Doubtful Accounts account is not used under the direct write-off method.
+
+Let us look at why all the alternatives are correct:
+
+a. The direct write-off method overstates assets on the balance sheet is correct because, under the direct write-off method, the carrying amount of Accounts Receivable is not reduced by the Allowance for Doubtful Accounts.
+b. The direct write-off method does not match expenses against revenue very well is correct because the estimated bad debts are not recorded in the same period the sales are recognized. Instead, bad debt is only recorded when an individual account becomes uncollectible.
+c. The direct write-off method does not set up an allowance for uncollectible is also correct. The Allowance for Doubtful Accounts is not used under the direct write-off method.",Bad debt is defined as the loss(es) a company suffers when customers do not pay their outstanding accounts. It is recognized as an operating expense in the income statement and can be accounted for using either the allowance or direct write-off method.,,,D
+3,"When an account is written off using the allowance method, the:",allowance account will increase,cash realizable value of total accounts receivable will increase,net accounts receivable will stay the same,net accounts receivable will decrease,C,"The journal entry is to credit accounts receivable to remove the account and to debit the Allowance for Doubtful Accounts account. The net accounts receivable is the difference between accounts receivable and the allowance account balances. This means that this journal entry would not change the net accounts receivable.
+
+The other options are incorrect:
+
+a. allowance account will increase is incorrect because the allowance account has a normal credit balance because it is a contra-asset account. This means that the debit entry will decrease its balance.
+b. cash realizable value of total accounts receivable will increase is incorrect because the cash realizable value of total accounts receivable is the same as the net accounts receivable. We have seen that it would not change.
+d. net accounts receivable will decrease is incorrect because we have seen that net accounts receivable will not change.
+",A reserve for bad debts that may occur in the future is created using the allowance method. It is usually a set percentage of sales that were made during a particular period. This method allows bad debts to be matched with sales during the same reporting period.,,,C
+4,The entry to adjust for bad debts was ignored. This error would cause:,total liabilities to be understated.,net income to be understated.,total assets to be overstated.,none of these are correct,C,"The correct answer is C. total assets to be overstated. This is the correct alternative because the bad debt adjustment decreases the carrying amount of accounts receivable, and therefore total assets. If this adjustment is missing, accounts receivable is too high and total assets are then overstated.
+
+The other answers are incorrect.
+
+A. total liabilities to be understated.        The bad debt adjustment does not affect any liability account.
+B. net income to be understated.        Net income is overstated because the bad debt expense is understated.
+D. none of these are correct        No
+","Each accounting transaction affects at least two general ledger accounts. Likewise, each transaction that are not recorded leads to errors in at least two general ledger account balances, and often in two or more financial statement items.",,,C
+5,"The following information is available for Criminy Company: Accounts Receivable, 12/31/10 = $83,000; Allowance for doubtful accounts at 12/31/10: $3,000 (credit balance). As a result of a review and aging of accounts receivable, it has been estimated that 10% of the accounts receivable will never be collected. There is no write-off of A/R. Grover is getting ready to record its 12/31/10 adjusting journal entries. By what amount should it debit ""bad debt expense""?","$3,000","$5,300","$8,300","$11,300",B,"The correct answer is B. $5,300.
+
+Given information:
+
+Accounts receivable = $83,000
+Allowance for doubtful accounts = $3000 (credit balance)
+Estimated uncollectible = 10% of accounts receivable
+The credit balance of the allowance for doubtful accounts is deducted from the estimated uncollectible to compute the amount of bad debt expense.
+
+{eq}\begin{aligned} \text{Bad}\ \text{debt}\ \text{expense} &=\left( \text{Accounts receivable}\times \text{Uncollectible}\ \text{rate} \right)-\text{Allowance}\ \text{for}\ \text{doubtful}\ \text{accounts} \\ &=\left( \$83,000\times 10\% \right)-\$3,000 \\ &=\$8,300-\$3,000 \\ &=\$5,300 \end{aligned} {/eq}","Bad debt expense refers to the expense or losses that occur when any debtor fails to repay their dues and will not be able to pay them in the future. The bad debt can be written off from the accounts receivable.
+
+",,,B
+6,"Net sales for the month are $800,000, and bad debts are expected to be 1.5% of net sales. The company uses the percentage-of-sales basis. If the Allowance for Doubtful Accounts has a credit balance of $15,000 before adjustment, what is the balance after adjustment?",,,,,B,"The correct answer is b. $27,000.
+
+
+
+Given information:
+
+Allowance for Doubtful Accounts (credit balance) = $15,000
+Sales = $800,000
+Bad debt expected = 1.5% of sales
+Under the percentage-of-sales method, the allowance for doubtful debts is computed based on the estimated percentage of sales.
+
+{eq}\begin{aligned} \text{Allowance}\ \text{for}\ \text{doubtful}\ \text{accounts} &=\text{Allowance}\ \text{for}\ \text{doubtful}\ \text{accounts credit balance}+\left( \text{Sales}\times \text{Bad debt expected} \right) \\ &=\$15,000+\left( \$800,000\times 1.5\% \right) \\ &=\$15,000+\$12,000 \\ &=\$27,000 \end{aligned} {/eq}
+
+Thus, the allowance for doubtful accounts after adjustment amounts to $27,000.",Allowance for doubtful accounts refers to the reserve created under the allowance method to write off bad debts. The allowance for doubtful accounts shows the estimated amount of doubtful debts.,,,A
+7,A debit balance in the Allowance for Uncollectible Accounts account before the year-end adjustment for the current year's uncollectible accounts expense means:,that the prior year's estimated uncollectible accounts receivable must have been overestimated,that the prior year's estimated uncollectible accounts receivable must have been underestimated,that the current year's write-offs of uncollectible accounts receivable were less than the prior year's ending allowance for uncollectible accounts balance,that the direct write-off rather than the allowance method was used to account for uncollectible receivables,C,"The correct option is C. that the current year's write-offs of uncollectible accounts receivable were less than the prior year's ending allowance for uncollectible accounts balance.
+
+The table explores each answer option and explains the right and wrong answers with reasons:
+
+A. that the prior year's estimated uncollectible accounts receivable must have been overestimated        This would lead to an unadjusted credit balance in the Allowance for Uncollectible Accounts account because the beginning credit balance would have been significantly higher than the debit entries to record the write-offs.
+B. that the prior year's estimated uncollectible accounts receivable must have been underestimated        This is a possible reason but not the only one. It can also be that the company had large bad debts in the current year, and the expense recorded at the end of the year will reflect this.
+C. that the current year's write-offs of uncollectible accounts receivable were less than the prior year's ending allowance for uncollectible accounts balance        This is the correct alternative because the current year's write-offs are debits in the Allowance for Uncollectible Accounts account and the beginning balance is a credit.
+D. that the direct write-off rather than the allowance method was used to account for uncollectible receivables        When a company has an Allowance for Uncollectible Accounts account in its general ledger, it uses the allowance method. The account is not used under the direct write-off method.",Allowance for Uncollectible Accounts is a contra-asset account. The ending balance is deducted from the Accounts Receivable account balance to determine the net realizable value of receivables that is presented on the balance sheet.,,,B
+8,"Allowance for Doubtful Accounts has an unadjusted balance of $400 at the end of the year, and uncollectible accounts expense is estimated at 1% of net sales. If net sales are $300,000, the amount of the adjustment to record the provision for doubtful accounts is:",$400.00,"$3,400","$3,000","$2,600",C,"The correct answer is c. $3,000.
+
+The amount of the adjustment to record the provision for doubtful accounts can be computed using the net sales and estimated bad debts percentage. The percentage of credit sales method doesn't take into account, the unadjusted balance in the allowance account for estimating the bad debts.
+
+Amount of adjustment = Net sales × Estimated bad debts percentage
+Amount of adjustment = $300,000 × 1%
+Amount of adjustment = $3,000","The allowance for doubtful accounts records the estimated amount uncollectible during a period. The conservatism principle requires using the allowance method to account for an expense that may or may not incur but has the probability of occurrence.
+
+",,,C
+9,"Allowance for Doubtful Accounts has an unadjusted balance of $500 at the end of the year, and uncollectible accounts expense is estimated at 1% of net sales. If net sales are $950,000, the amount of the adjustment to record the provision for doubtful accounts is:","$9,500.00",$500.00,"$8,500.00","$9,000.00",A,"The correct answer is a. $9,500.
+
+Let's note that the percentage of credit sales method ignores the unadjusted balance in the allowance account when estimating bad debts for the period. Therefore, the $500 balance in the allowance account has no relevance in the given scenario.
+
+The bad debt expense can be computed using the following equation:
+
+Bad debts expense = Net credit sales × Estimated percentage
+Bad debts expense = $950,000 × 1%
+Bad debts expense = $9,500
+The adjusting entry at year-end for the uncolle",Uncollectible accounts refer to debtor balances that are deemed unlikely or impossible to collect. These accounts are typically written off as bad debts by a business due to non-payment or the inability of the debtor to fulfill their financial obligations.,,,A
+10,Allowance for Doubtful Accounts is a contra-equity account.,True.,False.,,,B,"The statement is b. False. It is false to say that Allowance for Doubtful Accounts is a contra-equity account because Allowance for Doubtful Accounts is a contra-asset account. This means that Allowance for Doubtful Accounts decreases the carrying amount of an asset account (Accounts Receivable in this case) on the balance sheet, not that of an equity account.
+
+Treasury stock is an example of a contra-equity account because it reduced total stockholders' equity on the balance sheet.","Companies incur bad debt expenses when their customers do not pay for sales on credit fully. In accrual accounting, the bad debt expense should be matched to the related sales revenue, and the allowance method is used for this purpose.",,,B
+11,A properly adjusted Allowance for Uncollectible Accounts will always have a credit balance.,,,,,A,"The statement is A. True.
+
+It is true to say that a properly adjusted Allowance for Uncollectible Accounts will always have a credit balance because Allowance for Uncollectible Accounts is a contra-asset account. Asset accounts have normal debit balances, and therefore contra-asset accounts have normal credit balances.
+
+The Allowance for Uncollectible Accounts account can have an unadjusted debit balance when the total of the actual accounts written off in a period is more than the account's beginning balance, but after the account is adjusted, its ending balance must be a credit.",Allowance for Uncollectible Accounts is a balance sheet account used to record the actual and estimated bad debt expenses when a company uses the allowance method to account for its uncollectible customer accounts.,,,A
+12,Assume a business records a journal entry that debits allowance for doubtful accounts and credits bad debt expense. Choose the item that most accurately and completely describes this situation.,The business is recording a write-off under the direct write-off method.,The business is recording a write-off under the allowance method.,The business is recording a recovery under the direct write-off method.,The business is recording a recovery under the allowance method.,D,"The correct option is D. The business is recording a recovery under the allowance method..
+
+The table explores each answer option and explains the right and wrong answers with reasons:
+
+a. The business is recording a write-off under the direct write-off method.        A write-off under the direct write-off method is recorded between Accounts Receivable and Bad Debts. It does not affect Allowance for Doubtful Accounts.
+b. The business is recording a write-off under the allowance method.        A write-off under the allowance method is recorded between Accounts Receivable and Allowance for Doubtful Accounts. It does not affect bad debts.
+C. The business is recording a recovery under the direct write-off method.        Allowance for Doubtful Accounts is not used under the direct write-off method. Accounts Receivable would be debited, not Allowance for Doubtful Accounts.
+E. The business is recording a recovery under the allowance method.        This is the correct alternative because the bad debt expense decreases with this entry. This means that the business most likely overestimated the expense in prior periods and it is now recovering some of the expense.",The allowance method and direct write-off method are two methods used to account for bad debts. The allowance method is prescribed by the accounting standards because it complies with the matching concept in accounting.,,,D
+13,Bad debt expense is estimated and recorded in the period corresponding to the sale in which it was incurred because of which one of the following principles?,economic entity principle,going concern principle,historical cost principle,matching principle,D,"The correct option is D. matching principle.
+
+The table explores each answer option and explains the right and wrong answers with reasons:
+
+a. economic entity principle	The economic entity principle states that the financial statements are prepared on the appropriate entity level, meaning that if a group of companies exists, consolidated financial statements are prepared.
+b. going concern principle	The going concern principle means that users of the financial statements can assume that the company will continue trading in the foreseeable future.
+c. historical cost principle	The historical cost principle states that assets are recognized at their costs not fair values.
+d. matching principle	This is the correct alternative because when the bad debt expense is recorded using estimates it means that the expense is recorded in the same period as the related sales revenue, even if the individual uncollectible accounts have not yet been identified.","Loss due to uncollectible accounts are called bad debts and these losses can be recorded using either the direct write-off or the allowance method. When the allowance method is used, the bad debt expense in the income statement is based on estimates.",,,D
+14,"Hughes Company has a credit balance of $5,000 in its Allowance for Doubtful Accounts before any adjustments are made at the end of the year. Based on the review and aging of its accounts receivable at the end of the year, Hughes estimates that $60,000 of its receivables is uncollectible. The amount of bad debts expense that should be reported for the year is:","$55,000.00","$65,000.00","$60,000.00","$5,000.00",A,"The correct option is a. $55,000.
+
+The company uses the balance sheet or percentage-or-receivables approach. This means that the bad debt expense will be the amount necessary to adjust the Allowance for Doubtful Accounts account to its desired ending balance of $60,000 credit. The unadjusted balance of the Allowance for Doubtful Accounts account is $5,000 credit, so the adjusting entry must be for $55,000.
+
+The journal entry must be:
+
+Date	Description	Debit	Credit
+Dec 31	Bad Debt Expense	$55,000	
+Allowance for Doubtful Accounts		$55,000
+To adjust the allowance account to its desired balance		
+",The allowance method is used to account for bad debt expenses. This approach is necessary in accrual accounting to match the bad debt expense to the related sales revenue and to record it is the period the expense was incurred.,,,A
+15,"On December 31, 2003, Nomad Company has a $150,000 debit balance in Accounts Receivable. The Allowance for Uncollectible Accounts has a $2,100 debit balance. Sales total $800,000. From aging its accounts receivables, Nomad estimates that $14,000 of its accounts receivable may be uncollectible.
+
+The Uncollectible Account Expense would be:","$16,000","$16,100","$14,000","$119,000",B,"The correct answer is B. $16,100.
+
+
+
+Given information:
+
+Allowance for uncollectible accounts = $2,100
+Estimated uncollectible accounts = $14,000
+The uncollectible account expense can be computed by adding the debit balance of the allowance for uncollectible and estimated uncollectible accounts.
+
+{eq}\begin{aligned} \text{Uncollectible}\ \text{account expense} &=\text{Allowance}\ \text{for}\ \text{doubtful}\ \text{accounts}+\text{Estimated}\ \text{uncollectible}\ \text{accounts} \\ &=\$2,100+\$14,000 \\ &=\$16,100 \end{aligned} {/eq}
+
+Thus, the uncollectible account expense is $16,100.","The allowance method refers to the method used to manage the uncollectible accounts. In this method, the reserve is created for estimated bad debts. The allowance for the uncollectible account is created by this method.",,,A
+16,"Sanders Company has a debit balance of $7,000 in its Allowance for Doubtful Accounts before any adjustments are made. Based on a review of its accounts receivable at the end of the year, Sanders estimates that $70,000 of its receivables are uncollectible. The amount of bad debts expense that should be reported for the year is:","$63,000","$70,000","$77,000","$7,000",C,"The correct answer is c. $77,000.
+
+
+
+Given information:
+
+Allowance for doubtful accounts (debit balance) = $7,000
+Uncollectible amount = $70,000
+The bad debt expense amount that should be reported for the year can be computed by adding the debit balance of the allowance for doubtful debts and uncollectible amounts.
+
+{eq}\begin{aligned} \text{Bad}\ \text{debt}\ \text{expense} &=\text{Allowance}\ \text{for}\ \text{doubtful}\ \text{accounts}+\text{Uncollectible}\ \text{amount} \\ &=\$7,000+\$70,000 \\ &=\$77,000 \end{aligned} {/eq}
+
+Thus, the amount of bad debt expense is $77,000.",Bad debt expense refers to those debtors of the business who do not repay their debts. Such unpaid amounts are shown as bad debt expenses and also reduce the balance of accounts receivable.,,,C
+17,The allowance for doubtful accounts is an example of what type of an account?,contra-equity,contra-liability,contra-asset,liability,C,"The correct answer is option c. contra-asset.
+
+An allowance for doubtful account is considered a contra-asset account. A contra-asset account is an account that is paired with and offsets a specific asset account. Its normal balance is opposite to that of the associated asset account.
+
+In the case of an allowance for doubtful accounts, it is paired with accounts receivable. Businesses use this account to record the portion of receivables they expect may not be collectible. It reduces the amount of receivables to reflect their estimated realizable value. It is recorded in the book of accounts as follows.
+
+Date	Account Title	Debit	Credit
+xx	Doubtful Accounts	xx	
+Allowance for Doubtful Accounts		xx
+To record an allowance for doubtful accounts.		
+The allowance for doubtful accounts is a credit balance that decreases the total amount of accounts receivable reported on the balance sheet.","Bad debt expense is recorded in the income statement, and the corresponding decrease in receivables. It is reflected in the allowance for doubtful accounts on the balance sheet.",,,C
+18,The net realizable value of accounts receivable reduces with a(n):,increase in cash sales,decrease in cash sales,increase in credit sales,collection of an account receivable,D,"The correct answer is D. collection of an account receivable.
+
+Two accounts impact the net realizable value:
+
+Accounts Receivable
+Allowance for doubtful accounts
+The account listed second is subtracted from the first account to arrive at the net realizable value. As a result, if this account balance decreases, the net realizable value will increase.
+
+If credit sales increase, the Accounts receivable balance will increase, and keeping the allowance constant, the net realizable value will increase.
+
+If the accounts are collected, the Accounts receivable balance will decrease, and keeping the allowance constant, the net realizable value will also decrease.","When a company sells goods on a cash basis, the account to be debited is the cash account. When the company sells goods on a credit basis, the accounts receivable account will be debited as a result of the accrual of earned revenue.",,,D
+19,The two accounting methods for bad accounts are the reservation method and the:,Cost method,Method of interest,Method of participation,Direct cancellation method,D,"The two main accounting methods for bad debt are the Allowance Method and the Direct Write-off Method (or the Direct Cancellation Method).
+
+The Allowance Method: This method estimates and records bad debt expense in the same accounting period in which the related sales are made. It establishes an allowance for doubtful accounts, a contra-asset account that reduces the total receivables on the balance sheet to reflect only amounts expected to be paid.
+The Direct Write-off Method: This method recognizes bad debts only when an account is considered uncollectible and is written off. It does not match the bad debt expense to the related sales revenue in the same accounting period, which violates the matching principle in accounting. This method is typically used for tax purposes or when the amounts are insignificant.","In accounting, the recognition of bad debts results in an expense in the income statement and reduces the amount of receivables on the balance sheet.",,,D
+20,True or False: A company may choose to estimate its uncollectible accounts expense based on a percentage of sales or a percentage of accounts receivable.,True.,False.,,,A,"The statement is True.
+
+The three methods that come under the allowance method of estimating bad debts are listed below:
+
+Percentage of credit sales
+Percentage of accounts receivable
+Aging of accounts receivable
+A company can choose from any of these three approaches to estimate its bad debts. However, if it chooses a method, it should follow the consistency principle until it proves that changing the method will provide a better picture of the financial statements.",Bad debts result from the credit sales made by the business to increase its sales volume. Credit sales require a company to have a strong credit policy and receivables management to reduce bad debt losses to the minimum.,,,A
+21,"True or False:
+
+Under the allowance method, the recording of bad debt expense decreases assets and stockholders' equity.",True.,False.,,,A,"The statement is True.
+
+Under the allowance method, bad debt expense is recorded as follows:
+
+Date        Account Title        Debit        Credit
+Bad Debt Expense        $XX        
+Allowance for Doubtful Accounts                $XX
+Expenses decrease the net income which is added to Retained Earnings, an equity account. Hence, the recognition of bad debt expense decreases the stockholders' equity.
+Allowance for Doubtful Accounts is a contra-asset account that increases with a credit entry. A contra-asset account reduces the total assets.","As per the conservatism principle, it is advised to account for losses beforehand and recognize profits only when the business realizes them. When a company sells goods on credit, it should prepare itself for the associated bad debts risk.",,,A
+22,"True or False:
+
+Under the allowance method, the recording of bad debt expense decreases assets and stockholders' equity.",True.,False.,,,A,"The statement is True.
+
+Under the allowance method, bad debt expense is recorded as follows:
+
+Date        Account Title        Debit        Credit
+Bad Debt Expense        $XX        
+Allowance for Doubtful Accounts                $XX
+Expenses decrease the net income which is added to Retained Earnings, an equity account. Hence, the recognition of bad debt expense decreases the stockholders' equity.
+Allowance for Doubtful Accounts is a contra-asset account that increases with a credit entry. A contra-asset account reduces the total assets.","As per the conservatism principle, it is advised to account for losses beforehand and recognize profits only when the business realizes them. When a company sells goods on credit, it should prepare itself for the associated bad debts risk.
+
+",,,A
+23,"Under the direct write-off method, an attempt is made to match Bad Debt Expenses to sales revenues in the same accounting period.",True.,False.,,,B,"The statement is b. False. It is false to say that, under the direct write-off method, an attempt is made to match Bad Debt Expenses to sales revenues in the same accounting period because, under the direct write-off method, the bad debt expense is only recorded when a specific customer account is identified as uncollectible and is written off. No attempt is therefore made to match the bad debt expense with the related sales revenue.
+
+It would be true to say that, under the allowance method, an attempt is made to match bad debt expense to sales revenues in the same accounting period because, under the allowance method, estimates are used to calculate the bad debt expense incurred in each period, regardless of whether individual accounts have been identified as being uncollectible or not.",The bad debt expense is an operating expense that is incurred by most companies making sales to customers on credit. It is an expense recorded using accounting entries because it is not an expense that is ever paid in cash.,,,B
+24,"When the estimate based on analysis of receivables is used, income is reduced when a specific receivable is written off.",True.,False.,,,B,"The statement is b. False. It is false to say that, when the estimate based on analysis of receivables is used, income is reduced when a specific receivable is written off because net income is only reduced when a specific receivable is written off under the direct write-off method.
+
+Under both approaches of the allowance method (the percentage-of-sales method or the analysis-of-receivables method), the bad debt expense increases when the estimated bad debt for the period is recorded, and when a specific receivable is written off, it only affects Accounts Receivable and Allowance for Doubtful Accounts.
+
+",The allowance method is the preferred method to account for bad debt expenses. This method can be employed using either the percentage-of-sales or the analysis-of-receivables approach to estimate the bad debt expense.,,,B
+25,Which of the following accounts reported on a balance sheet is merely an estimate?,Buildings,Equipment,Accounts payable,Allowance for doubtful accounts,D,"The correct answer is d. Allowance for doubtful accounts.
+
+Answer Options        Explanation
+a. Buildings        Buildings are fixed assets reported at their historical cost on the balance sheet.
+b. Equipment        Equipment is a fixed asset reported at its historical cost on the balance sheet.
+c. Accounts payable        Accounts payable represents the supplier's balance that must be paid within the next twelve months resulting from credit purchases.
+d. Allowance for doubtful accounts        Allowance account is a mere estimate of the amounts that will be uncollectible from the customers during the period.","Estimates are amounts that are not accurate and are based on assumptions and past experiences. Estimated amounts on the balance sheet represent the conservatism principle, which suggests accounting for losses even if their occurrence is doubtful and not confirmed.",,,D
+26,"During the current year, Manipulator Corporation reports a beginning balance in the allowance account of {eq}\$200,000 {/eq} and reports a bad debt expense on the income statement of {eq}\$64,000 {/eq}. The ending balance in the allowance account is {eq}\$84,000 {/eq}. Calculate Manipulator Corporation's charge-offs for the year.","$52,000","$264,000","$180,000","$220,000",C,"Based on the above problem, the beginning balance of the allowance account is $200,000, and an ending balance is worth $84,000. It was also stated that the amount of bad debt expense during the said period is equivalent to $64,000.
+
+To calculate Manipulator Corporation's charge-offs for the year, we can use the following formula:
+
+Amount Written-Off = Beginning Allowance Balance + Bad Debt Expense - Ending Allowance Balance
+Amount Written-Off = $200,000 + $64,000 - $84,000
+Amount Written-Off = $264,000 - $84,000
+Amount Written-Off = $180,000
+Therefore, Manipulator Corporation's written-off receivables for the year amount to $180,000. The correct answer is option c. $180,000.","In accounting, the bad debt allowance is a credit account that offsets accounts receivable, providing a more accurate balance sheet value of collectible funds.",,,D
+27,"Gross Accounts Receivable is $15,000. Allowance for Doubtful Accounts has a credit balance of $300. Net credit sales for the year are $140,000. In the past, 1% of credit sales had proved uncollectible.
+
+What would be the adjusted balance of the Allowance account under the income statement approach?","$1,100","$2,400","$1,700","$1,400",C,"The adjusted balance of the Allowance account under the income statement approach equals c. $1,700.
+
+The income statement approach ignores the unadjusted balance in the Allowance account in estimating the bad debts expense. The bad debts expense under this approach is calculated in the following manner:
+
+Bad debts expense = Credit sales × Bad debts percentage
+Bad debts expense = $140,000 × 1%
+Bad debts expense = $1,400
+The adjusted balance of the Allowance account will be computed using the following formula:
+
+Adjusted Allowance account balance = Bad debts expense + Unadjusted credit balance in the Allowance account
+Adjusted Allowance account balance = $1,400 + $300
+Adjusted Allowance account balance = $1,700",The allowance method uses the income statement's net credit sales to estimate the bad debts expense for the period. The estimate is based on a percentage of credit sales the company believes will be uncollectible.,,,A
+28,Harry's Hardware estimates that approximately $1.75 out of every $100 of credit sales proves to be uncollectible. Harry calculates Bad Debts Expenses using the:,direct write-off method.,balance sheet approach.,income statement approach.,aging the Accounts Receivable approach.,C,"The correct answer is c. income statement approach.
+
+A percentage of credit sales to determine the bad debts expense is called the income statement approach because credit sales are reported on this respective statement. Harry's Hardware estimates that approximately $1.75 out of every $100 will be uncollectible, which indicates the estimated percentage to be 1.75%.
+
+Other options are incorrect for the following reasons:
+
+Options	Reasoning
+a. direct write-off method.	The method doesn't estimate the bad debts but records them when incurred.
+b. balance sheet approach.	Accounts receivable are the basis for estimating bad debts under this approach.
+d. aging the Accounts Receivable approach.	This method depends on the timing of customer payments rather than on credit sales and receivables.",A contra-asset account intends to reduce the gross value of the asset account recorded in the first place. Fixed assets need reduction through depreciation due to continuous wear and tear. Accounts receivable needs reduction due to customer defaults.,,,C
+29,"Jody Sport and Hobby's Allowance for Doubtful Accounts had an unadjusted credit balance of $600. The manager estimates that $700 of the Accounts Receivable is uncollectible. Using the balance sheet approach, the year-end adjusting entry for Bad Debts Expenses:",includes a debit to the Bad Debts Expense account for $700.,includes a debit to the Bad Debt Expense account for $100.,"includes credit to the Bad Debts Expense account for $1,300.",includes credit to the Bad Debts Expense account for $100.,B,"The correct answer is b. includes a debit to the Bad Debt Expense account for $100.
+
+The balance sheet approach considers the unadjusted balance in the Allowance account when estimating the bad debts expense. The inputs needed to estimate the bad debts expense are given below:
+
+Estimated amount of receivables uncollectible = $700
+Unadjusted credit balance in the Allowance account = $600
+Upon a logical arrangement of these inputs, we have the following result:
+
+Bad Debts Expense = Estimated amount of receivables uncollectible - Unadjusted credit balance in the Allowance account
+Bad Debts Expense = $700 - $600
+Bad Debts Expense = $100
+The entry to record the estimated bad debts expense is made below:
+
+Date	Account Title	Debit	Credit
+Bad Debts Expense	$100	
+Allowance for Doubtful Accounts		$100
+The entry recognizes the losses for the period and increases the contra-asset balance.
+
+","The balance sheet approach, also known as the percentage of receivables method, estimates the bad debt losses that a company should recognize in the books based on past statistics. Accounts receivable are used as a base to estimate bad debts.",,,B
+30,Joe's Auto Repair estimates that approximately 3% of net credit sales are uncollectible. Joe calculates Bad Debts Expenses using the:,gross method.,balance sheet method.,direct write-off method.,income statement method.,D,"The correct answer is d. income statement method.
+
+Joe's Auto Repair uses credit sales to estimate bad debts. Credit sales can be found on the income statement alone. Therefore, we can conclude that Joe's Auto Repair uses the income statement approach to estimate the uncollectible amount. The approach excludes the current balance in the allowance account while calculating the uncollectible amounts.
+
+Other options are incorrect for the following reasons:
+
+Options	Reasoning
+a. gross method.	There is no such method used for estimating bad debts.
+b. balance sheet method.	The balance sheet method uses the accounts receivable for bad debts estimation.
+c. direct write-off method.	Direct write-off method records bad debts when incurred.",The sources used to determine bad debts expense under the allowance method include net credit sales and accounts receivable. These two items are the basis of why bad debts can incur in the first place.,,,D
+31,"Myra's balance of Accounts Receivable is $4,000. The balance of the Allowance account is $600 credit. Myra writes off a $150 uncollectible account. The effect on the net realizable value of the receivables is that it:",reduces net realizable value.,is unchanged.,increases net realizable value.,is undeterminable.,B,"The correct option is b. is unchanged.
+
+The net realizable value of accounts receivable is the Accounts Receivable asset minus the Allowance for Doubtful Accounts contra-asset.
+In the allowance method, when an uncollectible account is written off, the Accounts Receivable is credited and Allowance for Doubtful Accounts is debited. This means that the net reliable value of accounts receivable before and after the write-off is:
+Accounts Receivable	Allowance for Doubtful Accounts	Net accounts receivable
+Before the write off	$4,000 debit	$600 credit	$3,400 debit
+Write-off	$150 credit	$150 debit	$0
+After write-off	$3,850 debit	$450 credit	$3,400","Allowance for Doubtful Accounts is a contra-asset account. This means that, although it has a normal credit balance, it is not included in the liability section of the balance sheet. Instead, its balance reduces the carrying amount of the accounts receivable current asset.",,,B
+32,"On December 31, Gill Co. reported accounts receivable of $228,000 and an allowance for uncollectible accounts of $1,300 (debit) before any adjustments. An analysis of accounts receivable suggests that the allowance for uncollectible accounts should be 2% of accounts receivable. The amount of the adjustment for uncollectible accounts would be","$1,300","$4,540","$5,860","$3,260",C,"To calculate the adjustment for uncollectible accounts, we need to determine the desired balance for the allowance based on the accounts receivable analysis.
+
+Given the information provided:
+
+Accounts Receivable: $228,000
+Allowance for Uncollectible Accounts (before adjustments): $1,300 (debit)
+Desired percentage for the allowance: 2% of accounts receivable
+Now, let us calculate the adjustment for uncollectible accounts:
+
+Desired balance in the allowance for uncollectible accounts = Accounts Receivable * Desired percentage
+Desired balance in the allowance for uncollectible accounts = $228,000 * 2%
+Desired balance in the allowance for uncollectible accounts = $228,000 * 0.02
+Desired balance in the allowance for uncollectible accounts = $4,560
+It means the required allowance for doubtful accounts at year-end equals $4,560. The debit balance of allowance for doubtful accounts at the beginning of the year must be added to the required allowance to get the total adjustments that must be recognized during the year.
+
+Total Adjustments = Required Allowance + Debit Balance of Allowance
+Total Adjustments = $4,560 + $1,300
+Total Adjustments = $5,860
+It must be recorded in the book of accounts as follows.
+
+Date	Account Title	Debit	Credit
+xx	Bad Debt Expense	$5,860	
+Allowance for Bad Debts		$5,860
+To record adjustments for doubtful accounts.		
+Therefore, the correct answer is option C) $5,860.","In accounting, bad debts are considered an expense because they reflect the financial loss incurred by a company due to uncollectible accounts receivable.",,,C
+33,"The account, ""Allowance for Uncollectible Accounts"", is a contra-asset account.",TRUE,FALSE,,,A,"The statement is a) True.
+
+The Allowance for Uncollectible Accounts account has a contra-asset balance that reduces the balance in the accounts receivable to their net realizable value.
+
+Amount
+Accounts Receivable	$XX
+Less: Allowance for Uncollectible Accounts	$(XX)
+Net realizable value of receivables	$XX
+A contra account intends to reduce the balance of the main account involved.
+
+","One of the strategies that a company uses to increase its current sales level is by encouraging credit sales. Credit sales allow some time for the customers to make payments, which involves risks of incurring bad debt losses.",,,A
+34,The adjustment for bad debts using the percentage of receivables ignored the credit balance in the Allowance account. This error would cause:,total assets to be overstated.,total liabilities to be understated.,none of these is correct.,net income to be understated.,D,"The correct option is d. net income to be understated.
+
+Under the percentage of receivables method, the uncollectible amount included in accounts receivable is estimated and the Allowance for Doubtful Accounts account is adjusted to that amount. For example, if the estimated uncollectible amount is calculated to be $25,000 and the unadjusted balance of the allowance account is $3,000 credit, the adjusting entry would increase the bad debt expense by $22,000 and credit the allowance account with $22,000.
+
+If the credit balance is ignored, the adjusting would have been processed for $25,000 and this would cause:
+
+Total assets to be understated because the allowance account is overstated and that would cause the net accounts receivable to be understated
+Net income to be understated because the bad debt expense is overstated and expenses decrease the net income.
+The error has no effect on total liabilities.","The percentage-of-receivables method is one approach used to account for the bad debt expense under the allowance method. Under this method, the net realizable amount for accounts receivable is estimated and the bad debt expense is based on the adjustment required.",,,A
+35,The current balance of Allowance for Doubtful Accounts is considered when calculating the current period's Bad Debts Expense under the following approach:,Income statement approach.,Direct write-off method.,All of these answers are correct.,Balance sheet approach.,D,"The correct answer is d. Balance sheet approach.
+
+It is under the balance sheet approach that the current balance in the Allowance account before adjustment is considered. The estimated bad debts expense will be calculated as follows:
+
+Estimated bad debts = Amount determined to be uncollectible + Debit balance in the Allowance account.
+Note:
+
+A credit balance in the Allowance account will be deducted.
+
+Other options are incorrect for the following reasons:
+
+Options	Reasoning
+a. Income statement approach.	Income statement approach ignores the current balance in the Allowance account before adjustment.
+b. Direct write-off method.	The direct write-off method doesn't use the Allowance account.
+c. All of these answers are correct.	Option d) alone is correct.",The allowance method is useful in determining the bad debts to be recorded for the period. The allowance method estimates the expense and adjusts the provision when the actual bad debts are incurred.,,,D
+36,"Using the aging method, estimated uncollectible accounts are $3,000. If the balance in the Allowance for Doubtful Accounts is a $600 debit before adjustment, what is the Bad Debts Expense adjustment for the period?","$3,600","$2,400","$3,000",$600,A,"The correct answer is a. $3,600.
+
+The bad debts expense adjustment for the period under the aging of receivables method can be calculated using the following inputs:
+
+Estimated amount of receivables uncollectible = $3,000
+Unadjusted debit balance in the Allowance account = $600
+Upon a logical arrangement of these inputs, we have the following outcome:
+
+Bad Debts Expense = Estimated amount of receivables uncollectible + Unadjusted debit balance in the Allowance account
+Bad Debts Expense = $3,000 + $600
+Bad Debts Expense = $3,600
+The entry to record the estimated bad debts expense is made below:
+
+Date	Account Title	Debit	Credit
+Bad Debts Expense	$3,600	
+Allowance for Doubtful Accounts		$3,600
+The debit balance in the Allowance account changes to the credit balance after recording this entry.",The aging of receivables method involves categorizing accounts receivable based on the time length for which they have been outstanding and estimating the probability of collecting payment for each category.,,,A
+37,When an account is written off using the allowance method:,Shareholders equity will be reduced.,Net income for the period will be reduced.,None of these statements are true.,The net realizable value of accounts receivable will be reduced.,D,"The correct answer is d. The net realizable value of accounts receivable will be reduced.
+
+We need to record the journal entry to understand the effect of a write-off:
+
+Date	Account Title	Debit	Credit
+Allowance for Doubtful Accounts	$XX	
+Accounts Receivable		$XX
+The balance in the Allowance account decreases with a debit entry, and the customer account determined to be uncollectible is closed with a credit entry. As a result, the net realizable value of receivables will reduce.
+
+Other options are incorrect for the following reasons:
+
+Answer Options	Explanation
+a. Shareholders' equity will be reduced.	The write-off entry doesn't directly impact the stockholders' equity.
+b. Net income for the period will be reduced.	The balance sheet accounts alone are affected by the write-off.
+c. None of these statements are true.	Option d) is correct.",The allowance method estimates the bad debts expense before its incurrence. The idea behind creating a provision is to help the business prepare for bad debts when they incur them. Bad debts occur when customers default on their payments.,,,C
+38,"When using the percentage of accounts receivable method of estimating uncollectible accounts, any existing balance in Allowance for Uncollectible Accounts is ignored.",TRUE,FALSE,,,B,"The statement is ii. False.
+
+Let's see the table below to get a clear picture of how the Allowance account is treated by various methods:
+
+Method	Treatment of Allowance balance before adjustment
+Percentage of credit sales	Ignores the unadjusted allowance account balance in determining the estimated bad debts.
+Percentage of accounts receivable	Considers the unadjusted allowance account balance in determining the estimated bad debts.
+Aging of accounts receivable	Considers the unadjusted allowance account balance in determining the estimated bad debts.","Uncollectible accounts occur from the sale of goods on a credit basis. Credit sales allow customers to make payments at a later date, which gives them the scope to default on their payments. Bad debts are losses that reduce the net income for the period.",,,B
+39,Which financial statement would contain the following account balance: Allowance for doubtful accounts?,Balance Sheet,Income Statement,Statement of Owners' Equity,,B,"The correct answer is a. Balance Sheet
+
+When the allowance method is used to account for bad debts expense, the estimated uncollectible account is transferred to a provision called the ""Allowance for Doubtful Debts"" account. It represents a contra-asset account reported on the balance sheet. The purpose of the account is to report the accounts receivable at their net realizable value.
+
+Other options are incorrect for the following reasons:
+
+Answer Options	Explanation
+b. Income Statement	Income statement reports the bad debts expense.
+c. Statement of Owners' Equity	The statement of owner's equity doesn't report the allowance account.
+",Bad debts incur when the business fails to convert receivables into cash. Bad debts impact the net profit of the business. One can record bad debts through estimation or by waiting for the loss to incur for the period.,,,A
+40,Which of the following is not an attribute of the Allowance for Uncollectible Accounts?,It is a contra account.,It is on the asset side of the balance sheet.,It normally has a credit balance.,The balance in the account increases when an uncollectible account is written off.,D,"The correct answer is d. The balance in the account increases when an uncollectible account is written off.
+
+When an uncollectible account is written off, the following entry is recorded.
+
+Date        Account Title        Debit        Credit
+Allowance for Doubtful Accounts        $XX        
+Accounts Receivable                $XX'
+This entry shows how the balance in the Allowance account is used to compensate for the account write-off. When the Allowance account is used, its balance decreases.
+
+The following answer options are all characteristics of the Allowance account and are therefore incorrect.
+
+a. It is a contra account.
+b. It is on the asset side of the balance sheet.
+c. It normally has a credit balance. ","Generally Accepted Accounting Principles (GAAP) don't permit the use of the direct write-off method, which is one reason, why companies should use the allowance method to estimate the bad debts resulting from credit sales. Three approaches are defined under the allowance method.",,,D
+41,Which of the following is true of the Allowance for Uncollectible Accounts account?,"It is a ""nominal"" or income statement account.",It is a contra-revenue account.,It may have a debit balance at year-end following the adjustment for estimated uncollectible accounts receivable.,Its balance following the year-end adjustment should reflect an estimate of the amount of ending accounts receivable that will ultimately prove to be uncollectible.,D,"The correct answer is d. Its balance following the year-end adjustment should reflect an estimate of the amount of ending accounts receivable that will ultimately prove to be uncollectible.
+
+Allowance for Uncollectible Accounts, also known as Allowance for Doubtful Accounts, is a contra-asset account offsetting the Accounts Receivable account. Its purpose is to reflect the estimated amount of accounts receivable the company does not expect to collect, thus providing a more accurate representation of the collectible receivables in the financial statements. The balance in this account is adjusted at year-end based on the company's estimation of uncollectible accounts.
+
+Incorrect Options
+
+a. It is a ""nominal"" or income statement account. : An allowance for an uncollectible account is a permanent account located in the balance sheet.
+b. It is a contra-revenue account. : An allowance for an uncollectible account is a contra-asset account, not a contra-revenue account.
+c. It may have a debit balance at year-end following the adjustment for estimated uncollectible accounts receivable. : An allowance for doubtful accounts has a credit balance account, hence considered a contra-asset account.
+","Bad debts in accounting are unpaid balances on accounts receivable or loans that are no longer expected to be collected due to debtor's inability or unwillingness to pay, caused by financial difficulties, bankruptcy, fraud, or disputes.",,,D
+42,"A company writes off a specific account as uncollectible, but later the customer pays. The journal entry to record the reinstatement under the allowance method includes a(n):",decrease in Sales.,decrease Bad Debts Expenses.,increase to Allowance for Doubtful Accounts.,decrease to Cash.,C,"The correct answer is c. increase to Allowance for Doubtful Accounts.
+
+The journal entry to record the reinstatement under the allowance method is given below:
+
+Date        Account Title        Debit        Credit
+Accounts Receivable        $XX        
+Allowance for Doubtful Accounts                $XX
+The entry indicates an increase in the Allowance and Accounts Receivable accounts to nullify the effect of the write-off.
+
+Other options are incorrect for the following reasons:
+
+Options        Reasoning
+a. decrease in Sales.        A write-off entry does not directly impact sales.
+b. decrease Bad Debts Expenses.        Bad debts decrease only in case of reinstatement under the direct method.
+d. decrease to Cash.        Cash is not involved in a write-off entry.","Credit and cash sales are the two ways a company can sell goods and services. Credit sales involve bad debt risk because customers can default on the due date, while cash sales are pretty straight.",,,C
+43,"In the direct write-off method, writing off an account causes:",an increase in expense.,an increase in Accounts Receivable.,a decrease in the Allowance account.,a decrease in expense.,A,"The correct answer is a. an increase in expense .
+
+Let's first record the write-off of an account under the direct method:
+
+Date	Account Title	Debit	Credit
+Bad Debts Expense	$XX	
+Accountd Receivable		$XX
+The expenses are recorded with a debit entry to the Bad Debts Expense, and the customer account is closed with a credit to Accounts Receivable.
+
+Other options are incorrect for the following reasons:
+
+Options	Reasoning
+b. an increase in Accounts Receivable.	Accounts Receivable decrease when written off.
+c. a decrease in the Allowance account.	Allowance account is not used under the direct method.
+d. a decrease in expense.	The expense increases with a debit entry, and bad debts are expenses.
+",We consider debtors bad when they default on credit sales payments to be made on the due date. Bad debts force the company to rethink the management of receivables and ways to improve.,,,A
+44,Pittsburgh Tours collected $190 on an account that had been directly written off the previous year. The journal entry to record the transaction would include:,a credit to Bad Debts Expense.,a debit to Bad Debts Recovered.,a credit to Bad Debts Recovered.,a debit to Allowance for Doubtful Accounts.,A,"The correct answer is a. a credit to Bad Debts Expense.
+
+Pittsburgh Tours uses the direct write-off method to account for bad debts. It has already written down an account worth $190 in the previous year, which is collected in the current year. Two steps should be followed to record the collection:
+
+Reinstatement of the accounts written off:
+
+Date	Account Title	Debit	Credit
+Accounts Receivable	$190	
+Bad Debts Expense		$190
+The entry brings back the accounts to their respective balances before write-off.
+
+Collection of receivables:
+
+Date	Account Title	Debit	Credit
+Cash	$190	
+Accounts Receivable		$190
+The entry records the collection of receivables.","Bad debts refer to the losses incurred due to the failure of the business to collect credit sales from the customers. Those accounts must be closed, and losses should be recorded in the income statement in the name of bad debts.",,,C
+45,"The Allowance for Bad Debts has a credit balance of $3,000 at the end of the year before adjustment, and a ""percent of sales"" estimate indicates there are accounts that are uncollectible of $9,000. Which of the following adjusting entries would correctly record the adjustment to Allowance for Bad Debts?",no adjustment is required for the allowance method.,"debit Allowance for Bad Debts, $9,000; credit Bad Debt Expense, $9,000.","debit Bad Debt Expense, $9,000; credit Allowance for Bad Debts, $9,000.","debit Bad Debt Expense, $12,000; credit Allowance for Bad Debts, $12,000.",C,"The correct answer is c. debit Bad Debt Expense, $9,000; credit Allowance for Bad Debts, $9,000.
+
+Under the percent of sales method of estimating bad debts, the balance in the Allowance for Bad Debts account before adjustment, whether debit or credit, will not be included in calculating the bad debts.
+
+The uncollectible accounts for the period are estimated to be $9,000. The current balance of $3,000 in the allowance account will not be adjusted.
+
+The adjusting entry to record bad debts is recorded below:
+
+Date	Account Title	Debit	Credit
+December	Bad Debt Expense	$9,000	
+Allowance for Bad Debts		$9,000
+The expense for the period is recorded with a debit entry, and a contra-asset account increases with a credit entry.","The allowance method requires estimating bad debts using credit sales or the balance in the receivables account. The former is also called the income statement approach, and the latter is called the balance sheet approach.",,,C
+46,The direct write-off method for uncollectible accounts receivable:,is considered to follow Generally Accepted Accounting Principles,estimates uncollectible accounts as a percentage of sales,does not use an Allowance for Uncollectible Accounts,reports receivables at their net realizable value,C,"The correct answer is C. does not use an Allowance for Uncollectible Accounts.
+
+The direct write-off method for uncollectible accounts receivable involves writing off specific accounts deemed uncollectible without using an Allowance for Uncollectible Accounts or estimating bad debts. However, this method does not follow Generally Accepted Accounting Principles (GAAP) as it does not comply with the matching principle. It means bad debt expenses are only recorded when they occur rather than when the related revenues are earned.
+
+The other answers are incorrect.
+
+A. is considered to follow Generally Accepted Accounting Principles: Under the Generally Accepted Accounting Principles, the allowance method is required, not the direct write-off method.
+B. estimates uncollectible accounts as a percentage of sales: This option is incorrect because it refers to the allowance method, not the direct write-off method.
+D. reports receivables at their net realizable value: The direct write-off method does not use an allowance account and does not report receivables at their net realizable value.
+",Businesses use either the Direct Write-Off Method or the Allowance Method to deal with bad debts. The Generally Accepted Accounting Principles require the use of the Allowance Method.,,,C
+47,The journal entry to write off an account judged to be uncollectible under the allowance would include a credit to:,Bad Debts Expense.,Sales.,Allowance for Doubtful Accounts.,Accounts Receivable.,D,"The correct answer is d. Accounts Receivable.
+
+When the business uses the allowance method of bad debts expense, the recording of bad debts and write-offs will involve the following accounts:
+
+Date	Account Title	Debit	Credit
+Bad Debts Expense	$XX	
+Allowance for Doubtful Accounts		$XX
+This entry reports the estimated amount uncollectible during the period.
+
+Date	Account Title	Debit	Credit
+Allowance for Doubtful Accounts	$XX	
+Accounts Receivable		$XX
+This entry records the write-off of an account determined to be uncollectible.",Credit sales of the business are risky when it comes to the collection of sales made on account to customers. There's always a possibility that customers can default on their payments on the due date.,,,D
+48,The two methods of accounting for uncollectible receivables are the allowance method and the:,equity method.,interest method.,cost method.,direct write-off method.,D,"The correct answer is d. direct write-off method.
+
+Options	Reasoning
+a. equity method.	Equity method is used to record investments with significant influence. It is not related to the calculation of bad debts.
+b. interest method.	There is no such method as an interest method used to calculate bad debts.
+c. cost method.	Cost method is also used to record investments and is unrelated to the bad debts computation.
+d. direct write-off method.	Other than the allowance method, the business can use the direct write-off method to determine bad debt expense. The former is again split into three types: the balance sheet approach, the income statement approach, and the aging of receivables. The latter is not allowed per the Generally Accepted Accounting Principles (GAAP).",Sales revenue should be recorded when earned rather than when received. Both credit and cash sales are recorded when made per the accrual basis of accounting. We should note that credit sales come with bad debt risks.,,,D
+49,Town and Country Saddle learns the account receivable for a customer is uncollectible. The journal entry under the allowance method to write-off an account is to:,debit Bad Debts Expenses; credit Accounts Receivable.,debit Sales; credit Allowance for Doubtful Accounts.,debit Allowance for Doubtful Accounts; credit Accounts Receivable.,debit Allowance for Doubtful Accounts; credit Bad Debts Expenses.,C,"The correct answer is c. debit Allowance for Doubtful Accounts; credit Accounts Receivable.
+
+Town and Country Saddle should write off its customer account under the allowance method by recording the following entry:
+
+Date	Account Title	Debit	Credit
+Allowance for Doubtful Accounts	$XX	
+Accounts Receivable		$XX
+The Allowance is used to account for the bad debt losses. The contra account decreases with a debit entry, and the customer account decreases with a credit entry.
+
+Other options are incorrect for the following reasons:
+
+Options	Reasoning
+a. debit Bad Debts Expenses; credit Accounts Receivable.	This entry is useful in recording a write-off under the direct write-off.
+b. debit Sales; credit Allowance for Doubtful Accounts.	Sales are never recorded when writing off an account.
+d. debit Allowance Accounts; credit Bad Debts Expenses.	Bad Debts Expense account is credited only when reinstating the accounts under the direct method.","An account is written off when it is determined to be uncollectible. The write-off entry requires closing the customer account because it is no more receivable and reporting the losses for the period, as they incur when the customer defaults.",,,C
+50,"Using the percentage-of-receivables basis, uncollectible accounts are estimated to be $39,100. If the balance for the Allowance for Doubtful Accounts is a $6,520 debit before adjustment, what is the amount of bad debt expense for the period?","$65,200","$45,620","$32,580","$39,100",B,"The correct option is b. $45,620.
+
+Under the percentage-of-receivables basis, the balance of the Allowance for Doubtful Accounts account is adjusted to the estimated uncollectible receivables, which is $39,100. The Allowance for Doubtful Accounts account has a normal credit balance because it is a contra-asset account, so the journal entry must restore its current unadjusted debit balance to the desired credit balance. The amount is the entry is therefore:
+
+Allowance for Doubtful Accounts        
+Unadjusted balance        $6,520 debit
+Desired ending balance        $39,100 credit
+Journal entry to adjust balance        $45,620 credit
+The journal entry to adjust the balance is recorded to the bad debt expense. It is, therefore:
+
+Date        Description        Debit        Credit
+Dec 31        Bad debt expense        $45,620        
+Allowance for Doubtful Accounts                $45,620
+To adjust the balance of the allowance account and record the bad debt expense                
+","The percentage of receivables or balance sheet basis is one approach used to estimate the bad debt expense under the allowance method. Under this approach, the ending balance of the Allowance for Doubtful Accounts account is estimated based on the aging of Accounts Receivable.",,,B
