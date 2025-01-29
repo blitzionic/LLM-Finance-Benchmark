@@ -1,0 +1,155 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The number of shares of a class of stock that are outstanding is:,the number of shares authorized minus the number of shares issued.,the number of shares authorized minus the number of shares held as treasury stock.,the number of shares issued minus the number of shares held as treasury stock.,the number of shares issued minus the number of shares owned by directors.,A,"The correct answer is
+option a. the number of shares authorized minus the number of shares issued.
+The number of shares authorized is the total number of shares that are allowed to be issued to the investors. If we say issued stock, it means the number of stock issued out of those authorized shares. Meanwhile, the outstanding stock is the difference between the authorized stock and the issued stock. In layman's terms, we simply refer to outstanding stock as unissued stock. Accordingly, the correct answer is option
+option a. the number of shares authorized minus the number of shares issued.","Stocks: In business and finance, stocks refer to the ownership that are issued by a business establishment. The one who purchase stocks is called the stockholder/investor."
+2,The basic unit of stock is called a(n),authorization.,ownership record.,certificate.,share.,D,"The correct choice is option D. Share
+A. Authorization: The shares need to be authorized for the duration of the issue as found in the prospectus given by the firm.
+B. Ownership record: This is the record that denotes an individual or an entity that owns the shares of an enterprise.
+C. Certificate: This is legal proof that could be in physical form or electronic form that shows the ownership of holding shares in an enterprise.
+D. Share: It is a basic unit that a shareholder can own and is a piece of the stock in an enterprise.","Corporate Finance (CF) Corporate finance is a vital field of finance that includes the funding source, how the funds are managed, and making investments. The kinds of funding for a firm are equity, debt, and internal financing."
+3,Cyclical stocks tend to perform well when other stocks are performing well also.,True,False,,,A,"The statement is true. The returns on cyclical stocks are directly related to the economic cycle of the economy. When the economic cycle passes through a boom period, then the cyclical stocks tend to produce high volatility and provide greater returns. Generally, the other stocks also perform well in such an economic period.","Stock Stock can sometimes refer to as equity that represents the ownership of a corporation. It can be seen in two forms, via preferred and ordinary stock. It is one of the ways to increase the wealth of investors. But it poses risks."
+4,The following data were reported by a corporation:,"1,500.","34,000.","6,000.","32,500.",D,"We find the number of outstanding shares by subtracting the treasury stock from the issued shares:
+$38,500 - $6,000 =
+d) $32,500
+Treasure stock are shares that are taken out of circulation and held by the company, so they are not included in the calculation for outstanding shares.",Stocks: A stock is an investment product that offers equity in a company with the promise of rights and payments of dividends. The issuance of stocks is noted by a company as increasing outstanding shares on the balance sheet.
+5,The random walk theory of stock prices indicates that,"if they are willing to research, even beginning investors will be able to pick the stocks that will increase most in price in the future. research, even beginning investors will be able to pick the stocks that will increase most in price in the future.",managed mutual funds will persistently earn a higher rate of return than indexed funds.,current stock prices already reflect information about factors influencing future stock prices that can be forecast with any degree of accuracy.,stock market investors can expect to earn a steady real rate of return of about 7 percent annually.,C,"Answer: C
+The random walk theory argues that stock prices follow a random walk and thus can't be predicted. It argues the price of a stock reflects all public information and thus doing extra research will not help an investor earn an above-market rate of return.",Stock Market: The past decades in financial markets has seen a rise in indexed funds and a fall in actively managed funds. Most believe this trend was caused by the Federal Reserve's actions and the greater adoption of 401k accounts.
+6,Which classification of stock is considered residual equity?,Preferred stock,Common stock,Treasury stock,All classifications,B,"The correct option is
+(B.) Common Stock.
+Common stock represents the ownership of the company. They are entitle to receive the residual portion in case of liquidation of the company. The will receive their share only after all external creditors have been paid.",Stocks: Stocks are financial securities that indicates the owners' share in the pool of resources. Stock can be common stock or preferred stock depending on their nature.
+7,Which of the following would not be a reason for the market price of Bishop Corporation stock to decrease?.,The general condition and future outlook of the economy are shaky.,There has been a recent decrease in key interest rates.,Investors expect Bishop's financial performance to decline in the future.,Bishop's net income for the current year was lower than last year.,B,"b) A recent decrease in key interest rates
+would not be a reason for the market price of Bishop Corporation stock to decrease.
+The decrease in interest rates means that investors will seek other investments to protect their assets and this usually means an increase rather than a decrease in stock market prices. By contrast, a rising interest rate disincentivizes the risk stocks and lowers their prices as compared to bonds and loans.
+Analysis of Alternatives
+a) Is a systemic force that would cause stock prices to fall.
+c) and d) are both company-specific reasons that would suggest that the stock market price would fall for Bishop Corporation.",Stocks: A stock is a share of ownership in a company that entitles the holder to certain rights and future benefits. The value of a stock is determined by the market trading price for investors and is influenced by multiple factors.
+8,At least one class of stock must have,voting rights.,liquidation rights.,preemptive rights.,dividend rights.,A,"The correct answer is option
+A. voting rights.
+Major corporations have at least two classes of stocks. These stocks are common stocks and preferred stocks. Common stocks are stocks that have voting power. Meanwhile, preferred stocks do not have voting power, but they are preferred when there are dividend payments. Accordingly, it is correct to say that at least one class of stock must have voting rights.","Stocks: In business and finance, stocks are ownership held by the investors in a particular company. These stocks are reported in the equity section of the statement of financial position."
+9,"On January 1, 2016, Caifeng Foods issued stock options for 40,000 shares to a division manager. The options have an estimated fair value of $5 each. To provide additional incentive for managerial achievement, the options are not exercisable unless Caifeng's stock price increases by 5% in four years. Caifeng Foods initially estimates that it is not probable the goal will be achieved. How much compensation will be recorded in each of the next four years?","$10,000","$45,000","$50,000",No effect,C,"The correct option is (C) i.e. $50,000
+Calculation of the total compensation:
+{eq}\begin{align*}{\rm\text{Total compensation}} &= {\rm\text{No}}{\rm\text{. of shares issued}} \times {\rm\text{Cost per share}}\\ &= 40,000 \times \$ 5\\ &= \$ 200,000\end{align*}
+
+{/eq}
+Calculation of compensation recorded in each year:
+{eq}\begin{align*}{\rm\text{Compensation of 1 year}} &= \frac{{{\rm\text{Total compensation}}}}{{{\rm\text{Total no}}{\rm\text{. of years}}}}\\ &= \frac{{\$ 200,000}}{4}\\ &= \$ 50,000\end{align*}
+
+{/eq}
+Therefore, $50,000 of compensation will be recorded in each of the next four years.",Stocks: A stock refers to a security that issues an ownership share to the stockholder in a company. Stocks can be also called equities. Common and preferred stocks are the main two types of stocks.
+10,"A long-term, buy-and-hold investor is most worried about  {eq}\_\_\_\_\_\_\_\_\_.
+
+{/eq}",Market price risk,Basis risk,Coupon reinvestment rate risk,Interest rate risk.,A,"The correct answer is A.
+The market price risk refers to the change in the value of the financial security due to fluctuations in the market. This risk includes variations in interest rates, market volatility, and exchange rates. These fluctuations affect the short-term as well as the long-term value of the financial securities. This risk can be categorized as general and specific risk.
+The explanation for incorrect answers are:
+Option B is incorrect as the basis risk arises due to the imperfect hedge position of the financial security, and the hedge does not offset the loss. This does not impact the buy and hold strategy as it is concerned with forward contracts.
+Option C is incorrect as the coupon reinvestment risk is concerned with the amount to be reinvested by the investor.
+Option D is incorrect as the interest rate risk is variations in interest rates due to market fluctuations. This is included in the market price risk.","Buy and Hold: Buy and hold refers to an investment strategy. In this strategy, the investor holds the securities for the long-term irrespective of the market fluctuations. This strategy does not track short-term movements of securities."
+11,Which of the following individuals is not considered family for purposes of applying the stock attribution rules to a stock redemption?,parents,grandchildren,grandparents,spouse,C,"For the purpose of applying stock attribution rules to a stock redemption, the term ""Family"" is considered.
+""Family"" is said to include individual's Spouse, Parents and Grandchildren. However, it does not includes Grandparents.
+Hence, the correct answer is (c) Grandparents.",Stock Redemption Stock Redemption is the activity where the company requires shareholder to sell his/her share back to the company at a predetermined price.
+12,"Suppose you own 4,000 common shares of Laurence Incorporated. The EPS is $8.00, the DPS is $4.75, and the stock sells for $65 per share. Laurence announces a 2-for-1 split.","Immediately after the split, how many shares will you have?",What will the adjusted EPS and DPS be? Round your answers to the nearest cent.,What would you expect the stock price to be? Round your answer to the nearest cent.,,A,"Answer (a)
+Given that we has 4,000 shares of Laurence Incorporated, as the company had announced a 2-for-1 split.
+New number of shares = 4,000 * (2 / 1)
+New number of shares = 8,000
+Answer (b)
+Before stock split, EPS = $8.00
+After stock split,
+EPS = $8.00 * (1 / 2)
+EPS = $4.00
+Before stock split, DPS = $4.75
+After stock split,
+DPS = $4.75 * (1 / 2)
+DPS = $2.375
+Answer (c)
+Before stock split, Price = $65
+After stock split,
+Price = $65 * (1 / 2)
+Price = $32.50",Stocks: Stocks constitutes the share capital of corporation. The authorized capital of corporation is distributed in number of stocks to make them affordable to common public. These stocks can be split or combined in future.
+13,Vaughan Company has one class of capital stock issued. It is,common stock.,"preferred stock, voting.","preferred stock, noncumulative.","common stock, nonvoting.",A,"Answer:
+a. common stock.
+When a company has only one class of capital stock issued, it is identified as common stock. Common stock is a type of stock that is owned commonly owned by stockholders.",Stocks: Stocks are the form of ownership in a corporation. There are different type of stocks that results in different power in a corporation. An example is preferred stocks which have more power when it comes to priority in dividends.
+14,"Illusions Corp. issues 6,000 shares of $22 par common stock for $28 per share. The amount credited to paid - in capital in excess of par is:","$132,000.","$6,000.","$36,000.","$168,000.",C,"To find the amount credited to paid-in capital in excess of par, we find the difference between the issue price and par value:
+$28 - $22 = $6
+We multiply this by the shares issued:
+$6 × 6,000 =
+c) $36,000",Stocks: A stock certificate entitles the holder of it to rights and privileges involved in owning the company including a say in corporate governance and a share of profits. Stocks often include a face value known as the par value on the certificate.
+15,Which of the following statements is true with regard to contributed capital?,Preferred stock is stock that has been retired.,It is very unlikely corporations may have more than one class of stock outstanding.,The outstanding number of shares is the maximum number of shares that can be issued by a corporation.,The shares that are in the hands of the stockholders are said to be outstanding.,D,"It is true that
+D) the shares that are in the hands of the stockholders are said to be outstanding
+.
+When a company declares dividends, the dividends are distributed to shares that are outstanding as of a given date. When shares are reacquired by a company, they are recorded as treasury stocks.
+Analysis of Alternatives
+a) Preferred stock is stock that is issued with special preference for dividends to certain investors.
+b) It is common to have different types of stock outstanding.
+c) The charter of the corporation and board of directors determine the total number of shares, the outstanding number of shares may be less than this amount.","Stocks: When a corporation is formed, the ownership of the corporation can be divided into units or shared and these can be sold for capital. Capital that is raised by the issuance of stocks is known as contributed capital."
+16,Common stocks are always traded in:,the liquidity market.,the primary market.,the capital market.,the money market.,C,"The answer is
+c. the capital market.
+The main purpose that a corporation sells stocks is to raise equity capital. Hence, common stocks will be traded in the capital market where firms can issue both debt and equity securities to raise capital.",Common Stocks: Common stocks are a firm's shares that represent s the business ownership. Common stockholders will have the voting right for electing the Board Of Directors and other business strategies.
+17,The following statement below describes a term associated with common stock. Identify what is being described.,Income stocks,Growth stocks,Proxy,Preemptive right,B,"The answer is
+b. Growth stocks
+Apart from income stocks, growth stocks would not receive regular dividend payments. Instead, the money will be reinvested in the existing operation to generate more additional value for the firm. With that being said, the value of the stock is expected to increase significantly in the future. Hence, growth stocks represent a higher possibility to earn a massive capital gain.","Capital Gain: Capital gain refers to the value appreciation of an asset or security within a particular period. If a capital gain occurs, it will contribute more money to investor's wealth in the future. In practice, a capital gain will be more attractive than other cash inflows associated with a security."
+18,The par value of a share of stock is,the original selling price of the stock,the market value of the stock at the end of the year,the legal value assigned by the corporation,the average selling price of stocks of similar companies,C,"The answer is
+c. the legal value assigned by the corporation
+Par Value is the value of each stock assigned by the corporation when it is being it files for legal title. When a par value is mentioned, a stated value must be assigned.",Stocks: Stocks are the form of ownership in a corporation. The buyers of stocks are called stockholders which will receive dividends when the company declares. Stocks can be preferred or common.
+19,The par value per share of common stock represents the:,The minimum selling price of the stock established by the articles of incorporation.,The minimum amount the stockholder will receive when the corporation is liquidated.,An arbitrary amount established in the articles of incorporation.,The amount of dividend per share to be received each year.,A,"The correct option is
+(a) the minimum selling price of the stock established by the articles of incorporation.
+The par value of a share represents the face value of the share as per its corporate charter or articles of incorporation. It is also called the nominal value of shares.
+The number of shares that can be issued and face value is to be mentioned in the corporate charter of a corporation.
+Generally, corporations cannon sell their share below par value or face value.
+Thus it can be said that par value is the minimum selling price of the stock established by the articles of incorporation.",Stocks: A stock is the minimum amount of capital one can invest in a corporation. A corporation's capital consists of a large number of stocks. The ownership a person holds in a corporation can be determined by the number of stocks he owns.
+20,"If you own stock ABC and the Wall Street Journal announces that it failed to meet the earnings expected for the year, what would you expect to happen to the value of this stock?",decrease,increase,stay the same,,A,"If you own stock ABC and the Wall Street Journal announces that it failed to meet the earnings expected for the year, what would you expect to happen to the value of this stock?
+A. decrease
+If the earnings didn't meet the forecast, then the stock price is likely to decline.
+If you read this news on your lunch break at work, would you be able to sell the stock in time to avoid losing money on it?
+Probably not. The New York Stock Exchange (NYSE) has strict rules on insider trading to keep people from taking advantage of privileged information. That would keep company execs from selling. If the stock price started to decline very quickly, the NYSE would halt the trading to protect your investment.",Investing in Stocks: Investing in the stock market means buying shares of stock in a company. The investor becomes a part-owner of the company and expects a return on their investment.
+21,A very safe investment that generally attracts conservative investors is called a(n) _____ stock.,penny,cyclical,growth,blue chip,D,"The correct answer is
+D) blue chip
+A blue-chip stock is considered a huge stock market instrument that is reliable, valid, and even ethical. Large, established, and financially strong companies offer blue-chip stocks in the market for investors to buy. The conservative investors are the ones who cannot prone their funds to risky assets and require considerable return safely. For these investors, the blue-chip stock is offered by large companies for stabilizing their portfolio and ensuring them higher and stable returns. Thus, investment in blue-chip stock is considered safe and attracts conservative investors.","Investor: An investor is a person who puts his earned funds in the financial markets for earning more income and making money. An investor indulges in speculative activities and can make money or get returns by investing in stocks, bonds, debentures, and other instruments."
+22,The S&P 500 is an example of a:,Stock exchange,Primary market,Capital structure,Stock index,D,"The correct answer is d.
+The S&P 500 is an example of a
+(d) stock index.
+A stock index can be defined as an index used to measure the changes in stock or share prices of different specific companies in particular countries. The S&P 500 is used to measure the changes in prices of the largest 500 companies in the United States. The index also focuses on only the publicly traded shares of the companies. Investors can use the S&P500 index to determine and measure the risks involved in investing in large companies by analyzing the market price trends within a given period. If the trends are not stable, it indicates that the investment is risky and vice versa.","Shares: Shares, commonly known as stocks, are divisions of a particular company representing the company's ownership. For example, an individual (investor) with 50 shares out of 100 shares owns 50% of the company and is entitled to vote and to be consulted on its decisions."
+23,The price an individual investor will pay to purchase stock in the OTC market is the,bid price,broker price,spread,ask price,D,"The correct answer is (D). ask price
+The ask price is the lowest price for a security in the market. This price is offered by the market makers. The market makers do not sell an instrument at a price lower than the ask price. This is also called the offer price of a security.
+The explanation for incorrect options:
+Option A. It is incorrect as the highest price that the buyer is willing to pay for an instrument is called bid price.
+Option B. It is incorrect as the broker price is the price at which the broker is selling the security to the buyer.
+Option C. It is incorrect as the spread is the difference between the ask price and the bid price of an instrument.",Over-the-Counter Market: The over-the-counter market means the securities trading market where the parties sell and buy financial instruments without a centralized broker. This market allows electronic trading and does not have a physical location.
+24,Book value is a measure of the market value of the stock.,True,False,,,B,"It is
+false
+that book value is a measure of the market value of the stock.
+The book value shows the value the stock was issued for when it was sold to an investment bank with stocks that have a par value showing any increase above par in paid-in-capital. The market value of a stock may be quite different from the book value depending on market factors and company performance.","Stocks: A stock is an ownership stake in a venture that entitles the owner to future returns in the form of dividends and gains. A stock carries a risk that it will decrease rather than increase in value and the riskier a stock option is, the greater the risk of incurring losses."
+25,Which of the following statements is FALSE?,Preferred stockholders have preference over common stockholders in terms of dividends.,"If a preferred dividend is missed, the firm is technically in default.",The SEC may allow firms to issue different classes of common shares that differ in voting rights.,Minority representation is more likely to happen with a cumulative voting system than with a straight voting system.,A,"a. Correct. Preferred stockholders are senior to common stockholders. In addition, preferred stockholders will be offered a higher dividend payout ratio.
+b. Incorrect. A corporation might not make preferred dividend payments if the firm's earnings is retained for upcoming projects. However, if the firm generates sufficient profits, preferred dividends must be paid out prior common dividends.
+c. Correct. In fact, there are two classses for common stocks: class A and class B. Usually, class A will carry more voting rights than class B.
+d. Correct. Under the straight voting system, minority shareholders will be difficult to influence the voting process since their holding shares are lower, which provides a low chance of supporting their elected person. However, the cumulative voting system happens to resolve the unfairness in the straight voting system.","Stocks: Stocks represent the corporation's shares, which indicates the shareholders' ownership over the business. Commonly, there are two main classes of stocks: common stocks and preferred stocks."
+26,Which of the following investments has the greatest risk?,savings bond,stock market,mutual fund,Treasury note,B,"Out of the given options, answer choice
+b
+is correct.
+It can be said so based on the following explanation:
+(b) The stock market contains different stocks issued by different companies. The price of these stocks depends on the market value, production level, and goodwill of the respective companies. These factors portray the unstable nature and chances of high risk of the stocks.
+(a) Savings bonds are debt securities issued by the government to finance government expenditures. They carry minimal risk as the government backs up these securities.
+(c) A mutual fund is a business entity that collects money from investors and invests it in different kinds of securities. These securities are formed into portfolios. Investment in portfolios reduces the risk factor for investors as there are different types of securities included in them.
+(d) A Treasury note is a public debt instrument consisting of a pre-determined rate of interest and a defined period. As it is backed by the government, the risk is minimal.","Securities: In an economy, securities are the financial tools that can be exchanged in the financial market at a value, given the rate of interest and duration. The securities include bonds, equities, and options."
+27,Which type of business is most likely to obtain large amounts of resources by issuing stock?,Partnership,Corporation,Proprietorship,None are correct.,B,"A
+b. corporation
+is most likely to obtain large amounts of resources by issuing stock.
+Corporations are separate legal entities from owners and have the ability to divide and sell stakes in the company to raise capital. A company will set a certain number of stocks they can issue and these are then sold and distributed by investment banks.
+Analysis of Alternatives
+a. Partnerships cannot issue stock, though partners can buy and sell their stakes in the business.
+c. A proprietorship is a company with one owner and would not issue stocks.",Stock: Stocks or shares refer to a portion of a business that is owned by the holder of the share. Stock certificates entitle the holder of the stock to voting rights and a share of the company's future profits.
+28,Stocks in developing countries are generally _____ stocks in developed countries.,as volatile as,more volatile than,less volatile than,more stable than,B,"The correct answer is
+B. More volatile than
+.
+Stocks are generally present in both developing and developed economies. A country's stocks give value to its currency or determine the buying power of that particular currency. However, stocks in developing countries are usually more volatile and less stable than those in developed countries. Developing economies signify emerging markets with so many factors, such as lack of power for effective decision making, tight or restrictive regulations, and under-diversified economies. For example, the United States has its stock market more stable than that of India because India is an emerging market while the U.S is a developed economy, with more stable economic policies.","Stocks: A stock can act as security with which individuals or corporations can seek partial ownership of other companies. By acquiring a stock of a major company or corporation, an individual merely owns equity or shares of that particular corporation. The stock exchange market provides an avenue for buyers and sellers of stocks to interact, negotiate, sell, and buy stocks amicably. An example of a stock is ten shares of Netflix in the stock market."
+29,"Among the following class of stock, which one is not allowed to be used in a section 351 transaction?",Voting common stock,Voting preferred stock,Nonvoting preferred stock,All of these classes of stock can be used in a section 351 transaction.,D,"The correct answer is
+option D
+.
+Option D: A section 351 transaction can incorporate any of these stock classes. There is flexibility in section 351 when it comes to the shares issued by the transferee corporation. The transferor shareholders must nevertheless meet the voting power condition in aggregate.
+Option A: Voting stocks are those that provide holders of shares the ability to vote on company policy decisions. These classes of shares can be used under section 351 transactions.
+Option B: The preference shareholders have the right to vote on matters that affect the rights associated with preference shares. These shares are eligible for section 351 transactions.
+Option C: The holder of non-voting preference shares has no voting rights in the firm. Section 351 trades are allowed on these shares.",Shares A share represents a part of ownership in the capital of the corporation. A person who buys a share is said to have made a contribution to the capital of the company. There are different types of shares with different conditions and benefits associated with them.
+30,Basic earnings per share include all convertible bonds outstanding.,True,False,,,B,"The statement is
+FALSE.
+{eq}Basic\:EPS = \displaystyle\frac{Net\:income - Preferred\:dividend}{Total\:equity} {/eq}
+The basic EPS accounts an increase in the number of new shares from a new issue of shares. In this other hand, the diluted EPS will include the number of new shares from convertible securities such as convertible bonds.",Earnings Per Share (EPS): The earnings per share is a profitability ratio to assess the amount of net profit to be received by holding a firm's share. An increase in this ratio indicates that the there is a growth in the net income.

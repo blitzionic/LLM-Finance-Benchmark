@@ -1,0 +1,817 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"An investment will pay $100 at the end of each of the next 3 years, $200 at the end of Year 4, $300 at the end of Year 5, and $600 at the end of Year 6.","If other investments of equal risk earn 6% annually, what is their present value?","If other investments of equal risk earn 6% annually, what is their future value?",,,A,"Given information:
+Cash flow in year 1 (CF1) = $100
+Cash flow in year 2 (CF2) = $100
+Cash flow in year 3 (CF3) = $100
+Cash flow in year 4 (CF4) = $200
+Cash flow in year 5 (CF5) = $300
+Cash flow in year 6 (CF6) = $600
+Rate of return (I) = 6%
+a. Estimate the investment's present value:
+{eq}\text{Present Value} = \displaystyle \frac{CF1}{1 + I} + \frac{CF2}{(1 + I)^2} + \frac{CF3}{(1 + I)^3}+\frac{CF4}{(1 + I)^4} + \frac{CF5}{( + I)^5} + \frac{CF6}{(1 + I)^6} \\ \text{Present Value} = \displaystyle \frac{\$100}{1 + 6\%} + \frac{\$100}{(1 + 6\%)^2} + \frac{\$100}{(1 + 6\%)^3}+\frac{\$200}{(1 + 6\%)^4} + \frac{\$300}{( + 6\%)^5} + \frac{\$600}{(1 + 6\%)^6} \\ \text{Present Value} = \displaystyle $94.34 + $90 + $83.96 + $158.42 + $224.18 + $422.98 \\ \text{Present Value} = \$1,073.88 {/eq}
+The present value of the investment is $1,073.88.
+b. Estimate the investment's future value:
+{eq}\text{Future value} = \displaystyle \text{Present value} \times (1 + I)^N \\ \text{Future value} = \displaystyle \$1,073.88 \times (1 + 6\%)^6 \\ \text{Future value} = \displaystyle \$1,073.88 \times 1.41852 \\ \text{Future value} = \displaystyle $1,523.32 {/eq}
+The future value of the investment is $1,523.32.","Present Value: An investment's present value (PV) can be considered its maximum price for a purchase transaction today. This present value is affected by an investor's expected return on the investment. Particularly, if an investor raises the expected return, the investment's present value will reduce, and vice versa."
+2,"What is the future value of a series of $5,000 end-of-the-year cash flows to be received forever if the required rate of return is 6.00% per year and the first cash flow is one year from today?","$8,333,333.33","$83,333.33","$83,333,333.33",This question cannot be solved for a future value.,D,"The correct answer is
+D. This question cannot be solved for a future value
+.
+Perpetuity refers to a series of cash flows for an infinite period. So, we cannot determine the future value (of $5,000 end-of-the-year cash flow) because it is a perpetuity, and the period is indefinite. However, we can evaluate the perpetuity's cost or its present value.
+As per the data, we have the following inputs:
+Annual cash flows = $5,000
+Time period = Infinite
+Required return = 6%
+In order to determine the cost of this perpetuity, we will use the following formula:
+{eq}\text{Cost of a perpetuity} = \dfrac{\text{Annual cash flows}}{\text{Required Return}} = \dfrac{\$5,000}{6\%} = \$83,333.33 {/eq}
+As we cannot determine the future value of a perpetuity, option D) is correct
+.",Future Value: Future value represents the amount that will be received at the time of the investment's maturity. The amount will differ from the initial amount invested because of the money's potential to earn interest.
+3,A deposit of $390 earns interest rates of 7.9 percent in the first year and 10.9 percent in the second year. What would be the second year's future value?,$853.32,$463.32,$466.68,$834.56,C,"The answer is
+C. $466.68.
+Given information:
+I1 = 7.9%
+I2 = 10.9%
+Initial deposit = $390
+Estimate the future value of the initial deposit after 2 years:
+{eq}\text{Future value} = \displaystyle \text{Initial deposit} \times (1 + I1) \times (1 + I2) \\ \text{Future value} = \displaystyle \$390 \times (1 + 7.9\%) \times (1 + 10.9\%) \\ \text{Future value} = \displaystyle $466.68 {/eq}","Future Value: The future value of an investment will be usually determined to ensure that an investor can achieve an expected financial goal. Otherwise, the current investment should be replaced by another one."
+4,"Today, Thomas deposited $150,000 in a 4-year, 12% CD that compounds quarterly. What is the maturity value of the CD?","$336,989","$240,706","$168,000","$300,724",B,"The correct answer is
+b. $240,706
+.
+Given information:
+Present Value = $150,000
+Period = 4-years adjusted for quarterly compounding = 4*4=16
+Interest rate = 12% adjusted for quarterly compounding = 0.12/4=0.03
+{eq}\begin{aligned} \text{Future}\ \text{value} &=\text{Present}\ \text{value}\times {{\left( 1+\text{Interest}\ \text{rate} \right)}^{\text{Period}}} \\ &=\$150,000\times {{\left( 1+0.03 \right)}^{16}} \\ &=\$240,705.97\ \text{or}\ \$240,706 \end{aligned} {/eq}
+The maturity value of the CD is
+$240,706","Future Value: In analyzing an investment such as a certificate deposit (CD), the investor may desire to determine its future value which is computed by recognizing the time value of the money principle. The future value is the monetary value of a current deposit at a future date after it has been compounded. To estimate the future value of we multiply the present value of the deposit by the future value factor. The future value factor is determined by the time period of the deposit and the interest rate applied."
+5,"You bought a painting 10 years ago for {eq}\$100,000 {/eq}. If you sold it for {eq}\$310,600 {/eq}, what was your annual return on investment?",{eq}8\% {/eq}.,{eq}10\% {/eq}.,{eq}12\% {/eq}.,{eq}14\% {/eq}.,C,"The correct answer is
+option C. 12%.
+Given information:
+Original cost (PV) = $100,000
+Future value (FV) = $310,600
+Number of years= 10 years
+Determine the annual return by applying the financial formula of present value calculation:
+{eq}\begin{aligned} \text{Present}\ \text{value} &=\frac{\text{Future}\ \text{value}}{{{(1+\text{Rate})}^{\text{n}}}} \\ \$100,000 &=\frac{\$310,600}{{{(1+\text{Rate})}^{\text{n}}}} \\ {{(1+\text{Rate})}^{10}} &=\frac{\$310,600}{\$100,000} \\ \text{Rate} &={{\left( \frac{\$310,600}{\$100,000} \right)}^{\frac{1}{10}}}-1 \\ &=1.1200-1 \\ &=0.1200 \\ &=12\% \end{aligned} {/eq}
+Thus, the annual rate is 12%.","Interest Rate: An interest rate is defined as the borrowing cost for the borrower and the earnings for the lender. It is affected by several factors, such as inflation, monetary policy, and the supply and demand of money."
+6,"On an investment of $2,000, you'll earn 10 percent interest per year, compounded semiannually. What is the future value of this investment after one year?","$2,205","$2,420","$2,100","$4,500",A,"The calculated future value of the investment after 1 year is {eq}a. $2,205
+
+{/eq}.
+The number of semi-annual periods for the investment is given by:
+{eq}\begin{align*}
+
+&= \text{Number of years  * Number of semi-annual periods in a year} \\[0.3 cm]
+
+&= 1 * 2 \\[0.3 cm]
+
+&= 2 \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The semi-annual interest rate is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Annual interest rate}}{\text{Number of semi-annual periods in a year}} \\[0.3 cm]
+
+&= \dfrac{10\%}{2} \\[0.3 cm]
+
+&= 5\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The value of the investment after 1 year is given by:
+{eq}\begin{align*}
+
+&=  \text{Amount invested today * (1 + semi-annual interest rate)} ^ {\text{Number of semi-annual periods}} \\[0.3 cm]
+
+&= $2,000 * (1 + 5\%)^{2} \\[0.3 cm]
+
+&= $2,000 * (1.05)^{2} \\[0.3 cm]
+
+&= $2,000 * 1.1025 \\[0.3 cm]
+
+&= $2,205
+
+\end{align*}
+
+{/eq}","Future Value: The future value of an investment made today represents the equivalent worth at maturity. It takes into consideration factors such as the applicable interest rate, compounding interval, investment amount, and time till maturity."
+7,Discounting is:,Converting present value into its future value.,Value today of a payment to be received.,Calculating the future value using a formula.,Converting future cash flows in the their present value.,D,"The correct answer is
+d. Converting future cash flows in the their present value
+Under discounting, future cash flows are multiplied by a discounting factor. The resulting value is called the present value of future cash flow. This technique is commonly used to judge the future viability of a project.
+The other options are incorrect.
+a.
+Converting present value into its future value:
+The process of converting a present cash flow into its future value is called compounding.
+b.
+Value today of a payment to be received:
+The current value of a cash flow to be received in the future is called its present value.
+c.
+Calculating the future value using a formula:
+The process of calculating the future value of a cash flow is called compounding.",Time Value of Money: The time value of money is a core concept of finance that states that a certain sum of money in one's hands is worth more than the same amount to be received in the future. This concept provides guidance for making investment decisions.
+8,"What is the future value of $2,968 invested for 9 years at 4.9 percent compounded annually?","$3,680.90","$4,565.03","$3,690.38.","$7,021.38",B,"The correct answer is
+b. $4,565.03.
+Given information:
+Initial investment = $2,968
+Annual interest rate (I) = 4.9%
+Holding periods (N) = 9 years
+Estimate the future value of the initial investment after 9 years:
+{eq}\text{Future value} = \displaystyle \text{Initial investment} \times (1 + I)^N \\ \text{Future value} = \displaystyle \$2,968 \times (1 + 4.9\%)^9 \\ \text{Future value} = \displaystyle \$4,565.03 {/eq}",Future Value: The future value of a lump sum indicates how much the lump sum will be worth in future dollars after a given term. Investors should pay attention to the relationship between the market interest rates and the future value since an increase in the compounding rate will increase the investment's future value.
+9,"Calculate the future value of $1,660 invested at 7.3% for four years.","2,420","1,540","2,200","1,760",C,"The correct answer is option
+c. {eq}$2,200.43
+
+{/eq}.
+The future value after four years is computed as:
+{eq}\begin{align*}
+
+&=  \text{Amount invested today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= \$1,660 * (1 + 7.3\%)^{4} \\[0.3 cm]
+
+&= \$1,660 * (1.073)^{4} \\[0.3 cm]
+
+&= $1,660 * 1.32556 \\[0.3 cm]
+
+&= $2,200.43
+
+\end{align*}
+
+{/eq}",Future Value: The future value of an investment made today represents the equivalent future worth at a certain point in time in the future. The future value is directly related to the relevant interest rate.
+10,"Assume that one year from now, you will deposit $1000 into a savings account that pays 8 percent.","If the bank compounds interest annually, how much will you have in your account four years from now?",What would your balanced four years from now be if the bank used quarterly compounding rather than annual compounding?,,,A,"Given Information:
+Principal amount is $1,000
+Rate of Interest is 8%
+A)
+Calculation of the amount in the account after 4 years:
+{eq}\begin{align*}{\rm{Future \;Value}} &= {\rm{Principal}}{\left( {1 + {\rm{r}}} \right)^{\rm{n}}}\\ &= \$ 1,000{\left( {1 + \frac{8}{{100}}} \right)^3}\\ &= \$ 1,000 \times 1.25\\ &= \$ 1,250\end{align*}
+
+{/eq}
+Here, r is the interest rate, n is the number of years, and n is the time period.
+Time-period is valued as 3 here because, in the question, it is given one year from now; therefore, the number of years the amount deposited will be 3.
+Therefore, $1,250 will get collected from the account four years from now.
+B)
+Calculation of balance if bank compound quarterly:
+{eq}\begin{align*}{\rm{Future \;Value}} &= {\rm{Principal}}{\left( {1 + \frac{r}{4}} \right)^{{\rm{4n}}}}\\ &= \$ 1,000{\left( {1 + \frac{8}{{100 \times 4}}} \right)^{4 \times 3}}\\ &= \$ 1,000 \times 1.26\\ &= \$ 1,260\end{align*}
+
+{/eq}
+Here, r is the interest rate, and n is the years.
+When the bank compound quarterly,  the rate will get divided by 4 (as there are 4 quarters in the year), and time will be multiplied by 4.
+Therefore, the balance will be collected after 4 years if the bank compounds quarterly are $1,260","Future Value: When an amount is deposited at a predicted rate, the future value tells its value on a certain date. It helps in decision-making for the investor as it depicts the future value of the project they might invest."
+11,"Toadies, Inc., has identified an investment project with the following cash flows.","If the discount rate is 8 percent, what is the future value of the cash flows in year 4? (Do not round intermediate calculations and round your final answer to 2 decimal places. (e.g., 32.16))","If the discount rate is 11 percent, what is the future value of the cash flows in year 4? (Do not round intermediate calculations and round your final answer to 2 decimal places. (e.g., 32.16))","If the discount rate is 24 percent, what is the future value of the cash flows in year 4? (Do not round intermediate calculations and round your final answer to 2 decimal places. (e.g., 32.16))",,A,"a. Determine the future value of cash flow in year 4, using the compounding rate (I) of 8%:
+{eq}Future\:value = \displaystyle CF1 \times (1 + I)^3 + CF2 \times (1 + I)^2 + CF3\times (1 + I) + CF4 {/eq}
+{eq}Future\:value = \displaystyle $1,375 \times (1 + 8\%)^3 + $1,495 \times (1 + 8\%)^2 + $1,580\times (1 + 8\%) + $1,630 {/eq}
+{eq}Future\:value = \displaystyle $6,812.27 {/eq}
+b. Determine the future value of cash flow in year 4, using the compounding rate (I) of 11%:
+{eq}Future\:value = \displaystyle CF1 \times (1 + I)^3 + CF2 \times (1 + I)^2 + CF3\times (1 + I) + CF4 {/eq}
+{eq}Future\:value = \displaystyle $1,375 \times (1 + 11\%)^3 + $1,495 \times (1 + 11\%)^2 + $1,580\times (1 + 11\%) + $1,630 {/eq}
+{eq}Future\:value = \displaystyle $7,106.28 {/eq}
+c. Determine the future value of cash flow in year 4, using the compounding rate (I) of 24%:
+{eq}Future\:value = \displaystyle CF1 \times (1 + I)^3 + CF2 \times (1 + I)^2 + CF3\times (1 + I) + CF4 {/eq}
+{eq}Future\:value = \displaystyle $1,375 \times (1 + 24\%)^3 + $1,495 \times (1 + 24\%)^2 + $1,580\times (1 + 24\%) + $1,630 {/eq}
+{eq}Future\:value = \displaystyle $8,509.52 {/eq}","Future Value: The future value of a lump sum indicates how much the lump sum will be worth a specific future date. In practice, investors should estimate the future value of their investments to ensure they can achieve a desired financial goal."
+12,An annuity pays $10 per year for 50 years. What is the future value (FV) of this annuity at the end of that 50 years given that the discount rate is 5%?,$182.56,$525.00,$845.25,"$2,093.48",D,"The future value of an annuity formula is, FV
+= {eq}P \times\left [ \frac{(1+r)^{n}-1}{r} \right ]
+
+{/eq}
+Where,
+P is the periodic payment
+n is the time to maturity
+r is the rate of interest
+Therefore,
+= {eq}\$10 \times\left [ \frac{(1+0.05)^{50}-1}{0.05} \right ]
+
+{/eq}
+= 2093.47995715
+Hence, the correct answer is
+d. $2,093.48",The Future Value of an Annuity: The future value of an annuity formula is a little complicated from the future value of a single payment formula. An annuity involves recurring payments. The future value of an annuity calculates the future value of a periodic payment for the stated number of years.
+13,"What is the future value of {eq}\$3,000
+
+{/eq} deposited for three years earning {eq}7\%
+
+{/eq} interest rate annually?",675.,3000.,6675.,3675.,D,"The correct answer is option
+d. $3,675
+.
+The future value of the deposit is computed as:
+{eq}\begin{align*}
+
+&=  \text{Amount deposited today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= $3,000 * (1 + 7\%)^{3} \\[0.3 cm]
+
+&= \$3,000 * (1.07)^{3} \\[0.3 cm]
+
+&= $3,000 * 1.225 \\[0.3 cm]
+
+&= $3,675
+
+\end{align*}
+
+{/eq}",Future Value: The future value of an amount deposited today denotes the projected value at a particular point in time in the future based on the expected growth. The factor that affects the future value most significantly is the interest rate.
+14,The approximate time that it takes a deposit to double at a certain interest rate is calculated by dividing the annual interest rate by the number:,36.,48.,72.,100.,C,"The correct answer is option
+c. 72
+.
+The rule of 72 is used to ascertain the time required for an investment to double in value at a given compounded annual interest rate. As per the rule, the time required to double the investment is equal to 72 divided by the annual percentage rate.","Time Value of Money: As per the time value of money, the amount to be received in the future needs to be adjusted for the relevant opportunity cost and the timing of cash flow to calculate the equivalent present value. This concept can also be used to ascertain the time required for a deposit to grow to a certain amount."
+15,"How much would $100, growing at 5% per year, be worth after 20 years?",$254.72,$286.56,$265.33,$281.25,C,"The correct answer is option
+c. $265.33
+.
+The value of the investment after 20 years is given by:
+{eq}\begin{align*}
+
+&=  \text{Initial amount * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= $100 * (1 + 5\%)^{20} \\[0.3 cm]
+
+&= $100 * (1.05)^{20} \\[0.3 cm]
+
+&= $265.33
+
+\end{align*}
+
+{/eq}",Future Value: The future value of a deposit made today represents the equivalent worth after a certain number of years. The annual percentage interest rate and the stated periodicity of compounding affect the expected future value.
+16,"You have deposited $42,000 into an account that will earn an interest rate of 12% compounded semiannually. How much will you have in this account at the end of 10 years?","$154,904.64","$148,169.66","$134,699.69","$94,289.78",C,"The correct answer is
+c. $134,699.99.
+Given information:
+Initial deposit = $42,000
+Semiannual interest rate (I) = 12% x 0.5 = 6%
+Holding periods (N) = 10 x 2 = 20
+Estimate the value of the investment after 10 years:
+{eq}\text{Future value} = \displaystyle \text{Initial deposit} \times (1 + I)^N \\ \text{Future value} = \displaystyle \$42,000 \times (1 + 6\%)^{20} \\ \text{Future value} = \displaystyle \$134,699.69 {/eq}
+The future value of the investment is $134,699.69.","Future Value: The future value of an investment is compared with an investor's financial goal within a holding period. If the future value exceeds the financial goal, an investor can accept that investment, and vice versa."
+17,"What is the future value of $1,000 in 17 years assuming an interest rate of 7 percent compounded semiannually?","$1,224.25","$1,132.51","$3,220.86","$3,158.82",C,"The correct answer is option
+c.$3,220.86
+.
+The number of semi-annual periods for the investment is computed as follows:
+{eq}\begin{align*} &= \text{Number of years * Number of semi-annual periods in a year} \\[0.3 cm] &= 17 * 2 \\[0.3 cm] &= 34 \\[0.3 cm] \end{align*} {/eq}
+The semi-annual interest rate is given by:
+{eq}\begin{align*} &= \dfrac{\text{Annual interest rate}}{\text{Number of semi-annual periods in a year}} \\[0.3 cm] &= \dfrac{7\%}{2} \\[0.3 cm] &= 3.5\% \\[0.3 cm] \end{align*} {/eq}
+The future value of the investment after 17 years is computed as follows:
+{eq}\begin{align*} &= \text{Amount deposited today * (1 + semi-annual interest rate)} ^ {\text{Number of semi-annual periods}} \\[0.3 cm] &= \$1,000 * (1 + 3.5\%)^{34} \\[0.3 cm] &= \$1,000 * (1.035)^{34} \\[0.3 cm] &= $3,220.86 \end{align*} {/eq}","Future Value: The future value of an investment represents its equivalent worth at a particular point in time in the future. It is directly related to the time till maturity, nominal interest rate, and compounding interval."
+18,What is the future value of a $300 annuity payment over 6 years if the interest rates are 7 percent?,$450.22,"$2,518.15","$2,145.99","$1,926.00",C,"Option C. $2,145.99
+is correct.
+Given information:
+Annuity = $300
+Interest rate = 7%
+Time period = 6 years
+Calculate the future value by using the following formula:
+{eq}\begin{aligned} \text{Future Value} &=\text{Annuity}\times \frac{{{\left( 1+\text{Interest Rate} \right)}^{\text{Time Period}}}-1}{\text{Interest Rate}} \\ &=\$300\times \frac{{{\left( 1+7\% \right)}^{6}}-1}{7\%} \\ &=\$300\times \frac{1.50073-1}{0.07} \\ &=\$300\times 7.15329 \\ &=\$2,145.99 \end{aligned} {/eq}","Annuity: An annuity can be explained as one where the investor is likely to receive periodic payments for a certain period of time. The frequency of annuity payments can vary as it can be monthly, quarterly, yearly, etc."
+19,"If you want $6,000 in 5 years to take a trip to Alaska and plan on making a lump sum deposit today to save for the trip, how much must that deposit be if you can earn 5% compounded quarterly?","$2,221.01","$2,261.34","$4,701.16","$4,680.05",D,"The correct answer is
+option d. $4,680.05.
+Given information:
+Future value: $6,000
+Number of years: 5 years
+Annual rate: 5%
+Step 1: Determine the quarterly rate by dividing the annual rate by the number of quarters in a year.
+{eq}\begin{aligned} \text{Quarterly rate} &=\frac{\text{Annual rate}}{\text{Number of quarters in a year}} \\ &=\frac{5.00\%}{4} \\ &=1.25\% \end{aligned} {/eq}
+Step 2: Determine the number of quarters by multiplying the number of years by the number of quarters in a year.
+{eq}\begin{aligned} \text{Number of quarters}&=\text{Number of years}\times \text{Number of quarters in a year} \\ &=5\times 4 \\ &=20 \end{aligned} {/eq}
+Step 3: Determine the present value of the deposit using the formula of the present value of a lump sum.
+{eq}\begin{aligned} \text{Present value of deposit}&=\frac{\text{Future value}}{{{\left( 1+\text{Quarterly rate} \right)}^{\text{Number of quarters in a year}}}} \\ &=\frac{\$6,000}{{{\left( 1+1.25\% \right)}^{20}}} \\ &=\$4,680.05 \end{aligned} {/eq}
+The value of the deposit should be $4,680.05.","Lump Sum Deposit: A lump sum deposit refers to a large single deposit made in an account as opposed to multiple systematic deposits made over time. A lump sum deposit is advantageous when the investor has a large sum available for investing, like a bonus or an inheritance amount."
+20,"If Nicolai earns a 10% after-tax rate of return, $14,000 today would be worth how much to Nicolai in 5 years?","$14,000.","$8,701.","$12,728.",$22 547.,D,"The correct option is
+d. $22 547.
+Given:
+Present Value (PV) = $14,000
+Rate of return (r) = 10% = {eq}\dfrac{10}{100} = 0.1 {/eq}
+Time (t) = 5 years
+The formula to calculate the future value is as follows:
+{eq}FV = PV*(1+r)^{n} {/eq}
+We will now substitute the values:
+{eq}FV = PV*(1+r)^{n}\\FV = 14000*(1+0.1)^{5}\\FV = 14000*1.1^{5}\\FV = 14000*1.61051\\FV = \$22,547.14 {/eq}
+So, Nicolai will get $22,547.14 in 5 years if $14,000 is invested at a 10% interest rate per year.","Investment: Investment is when an individual, group, or company invests their money in an asset and expects that the value of the asset will increase in the future. The asset must have a degree of liquidity and also possess some risk."
+21,How long does it take for a number or an amount to triple itself if it grows at 6.5% annually?,17.45 years,15.51 years,16.04 years,19.07 years,A,"The correct answer is option
+a. 17.45 years
+.
+Let's say a number today is
+Y
+and it takes
+n
+years for it to triple (i.e. 3
+Y
+). The value of years (
+n
+) can be computed by equating today's number with the present value of the future expected number where the discount factor consists of the given interest rate of 6.5% (or 0.065) as shown below:
+{eq}Y = \dfrac{3*Y}{(1 + 6.5\%) ^ n}
+
+{/eq}
+{eq}Y = \dfrac{3*Y}{(1.065) ^ n}
+
+{/eq}
+{eq}(1.065) ^ n = \dfrac{3*Y}{Y}
+
+{/eq}
+{eq}(1.065) ^ n = 3
+
+{/eq}
+{eq}ln(1.065) ^ n = ln(3)
+
+{/eq}
+{eq}n * ln(1.065) = ln(3)
+
+{/eq}
+{eq}x * 0.062975 = 1.0986123
+
+{/eq}
+{eq}x = \dfrac{1.0986123}{0.062975}
+
+{/eq}
+{eq}x = 17.45
+
+{/eq}",Future Value: The concept of the time value of money is useful in determining the future value of a deposit made today or the deposit required today in order to a particular amount in the future. It can be also used to determine the years required for a particular growth.
+22,"At a compound interest rate of 10% per year, $45,000 one year ago is now equivalent to:","$54,000","$45,000","$49,500","$40,909",C,"Given information
+:
+Interest rate = 10%
+Amount (present value) = $45,000
+Period (in years) = 1
+The future value formula is used to compute the required amount:
+{eq}\begin{aligned} \text{Future}\ \text{value} &=\text{Present}\ \text{value}\times {{\left( 1+\text{Interest}\ \text{rate} \right)}^{\text{Period}}} \\ &=\$45,000\times {{\left( 1+10\% \right)}^{1}} \\ &=\$45,000\times 1.10 \\ &=\$49,500 \end{aligned} {/eq}
+The future value is
+$49,500
+. Thus, the correct option is
+option c.",Compound Interest: Compound interest refers to the interest that is earned on the deposit amount and the previous interest on the principal amount. This shows that the interest earned on an investment is reinvested.
+23,"You have deposited $42,000 into an account that will earn an interest rate of 12% compounded semiannually. How much will you have in this account at the end of seven years?","$92,848.62","$71,218.48","$94,957.97","$113,949.56",C,"The calculated value of the amount accumulated after 2 years is
+option C. $94,957.97
+The number of semi-annual periods for which the amount will remain invested is computed as follows:
+{eq}\begin{align*} &= \text{Number of years * Number of semi-annual periods in a year} \\[0.3 cm] &= 7 * 2 \\[0.3 cm] &= 14 \\[0.3 cm] \end{align*} {/eq}
+The semi-annual interest rate is given by:
+{eq}\begin{align*} &= \dfrac{\text{Annual interest rate}}{\text{Number of semi-annual periods in a year}} \\[0.3 cm] &= \dfrac{12\%}{2} \\[0.3 cm] &= 6\% \\[0.3 cm] \end{align*} {/eq}
+The value of the deposit at the end of 7 years is computed as follows:
+{eq}\begin{align*} &= \text{Amount deposited initially * (1 + semi-annual interest rate)} ^ {\text{Number of semi-annual periods}} \\[0.3 cm] &= \$42,000 * (1 + 6\%)^{14} \\[0.3 cm] &= \$42,000 * (1.06)^{14} \\[0.3 cm] &= $94,957.97 \end{align*} {/eq}","Future Value: Using the concept of the time value of money, the future value of a deposit at a certain point in time in the future can be ascertained. The future value is directly related to the interest rate and the compounding frequency."
+24,"If you put $10,000 in an investment that returns 14 percent compounded monthly what would you have after 12 years (round to nearest $10)?","$11,490","$53,140","$48,180","$61,270",B,"The correct answer is closest to option
+B) {eq}$53,140
+
+{/eq}.
+The number of months for the investment is computed as:
+{eq}\begin{align*}
+
+&= \text{Number of years  * Number of months in a year} \\[0.3 cm]
+
+&= 12 * 12 \\[0.3 cm]
+
+&= 144 \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The monthly interest rate is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Annual interest rate}}{\text{Number of months in a year}} \\[0.3 cm]
+
+&= \dfrac{14\%}{12} \\[0.3 cm]
+
+&= 1.167\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The value of the investment after 12 years is computed as:
+{eq}\begin{align*}
+
+&=  \text{Amount invested * (1 + monthly interest rate)} ^ {\text{Number of months}} \\[0.3 cm]
+
+&= \$10,000 * (1 + 1.167\%)^{144} \\[0.3 cm]
+
+&= \$10,000 * (1.01167)^{144} \\[0.3 cm]
+
+&= \$10,000 * 5.3136 \\[0.3 cm]
+
+&= $53,136
+
+\end{align*}
+
+{/eq}","Future Value: The future value of an investment denotes the equivalent worth at a certain point in time in the future. The expected future value increases with the increase in interest rate, compounding interval, and time till maturity."
+25,"What is the future value of {eq}\$7,000
+
+{/eq} deposited for two years earning {eq}8\%
+
+{/eq} interest rate annually?","{eq}\$1,165
+
+{/eq}.","{eq}\$8,165
+
+{/eq}.","{eq}\$7,000
+
+{/eq}.","{eq}\$15,165
+
+{/eq}.",B,"The future value of $7,000 deposited for two years earning an 8% interest rate annually is b. $8,165
+The future value of an amount of money deposited today can be calculated using the following formula:
+{eq}FV = PV \times (1+r)^n
+
+{/eq}
+Where,
+PV = Present value of the principal amount deposited today = $7,000
+FV = Future accumulated value
+r = annual rate of interest = 8%
+n = investment duration = 2 years
+Thus, by putting the corresponding values in the above formula, we get,
+{eq}\begin{align*}
+
+FV &=$7,000\times(1+0.08)^2\\
+
+&=$7,000\times1.1664\\
+
+&=$8,164.80\\
+
+\end{align*}
+
+{/eq}","Bank Deposit: One of the safest and most common ways of investing is depositing one's savings in a bank account. An individual can deposit his money in a savings account, checking account, fixed deposit, money market account, etc. The term deposits offer annualized interest rates compounded quarterly so that the investors can earn a significant return on their principal at the time of maturity."
+26,"If Lucy earns a 6% after-tax rate of return, $19,000 received in four years is worth how much today?","$15,048.","$17,884.","$19,000.","$20,649.",A,"The correct answer is
+a. $15,048.
+The formula to calculate the present value is -
+{eq}\text{Present Value} = \dfrac{\text{Future Value}}{(1 + i)^{n}} {/eq}
+Where,
+i = interest rate
+n = number of years
+Here,
+Future Value = $19,000
+i = 6%
+n = 4 years
+Putting values, we get -
+{eq}\begin{align} \text{Present Value} &= \dfrac{\text{Future Value}}{(1 + i)^{n}}\\ &= \dfrac{\$19,000}{(1 + 0.06)^{4}}\\ &= \dfrac{\$19,000}{1.06^4}\\ &= \$15,048\\ \end{align} {/eq}","Time Value of Money: The concept of the time value of money in financial mathematics states that the value of money is not absolute, rather it is relative to the period of time of cash flow."
+27,Which of the following is a capital budgeting method that ignores the time value of money?,return on assets,internal rate of return,net present value,payback,A,"The answers are a. return on assets and d. payback
+Explanation:
+The return on assets shows the average net income as a percentage of the average assets of the business. The projects are selected only if the return on assets is more than the required rate of return. It considers the net income and not the cash flows. It does not consider the time value of money.
+The payback period computes the period required to recover the initial investment. It simply uses the expected cash flows. It does not consider the time value of money.
+Analysis of other options:
+Both the internal rate of return and the net present value use the present value of cash flows and thus consider the time value of money.","Time Value of Money: The time value of money is a financial mathematical concept that states that the value of money is not absolute, but it is relative to time. The purchasing power of money decreases with time. This is the time value of money."
+28,The longer you have to wait for a future amount to be received:,The lower its present value will be.,The higher its present value will be.,"Time does not affect present value, so it doesn't matter how long you have to wait.","Beyond 10 years, the value doesn't change anymore because 10 years might as well be 20 years.",A,"The answer is
+a. The lower its present value will be.
+Future value formula:
+{eq}Present\:value = \displaystyle \frac{Future\:value}{(1 + Discount\:rate)^N} {/eq}, where
+N: Number of waiting periods.
+If the number of waiting periods is extended, the discount factor will increase. Thus, the present value associated with a given future value will be lowered.","Future Value: The future value of an investment tells an investment how much the investment will be worth after a given holding period. Thus, an estimation of the investment's future value is necessary to ensure that an investor can achieve a financial goal."
+29,"Bonita Industries will invest $880,000 today. The investment will earn 6% for 5 years, with no funds withdrawn. In 5 years, the amount in the investment fund is:","$880,000.","$1,144,000.","$1,177,642.","$1,179,455.",C,"The correct answer is closest to option
+C. $1,177,642
+.
+The amount of the investment in 5 years is computed as follows:
+{eq}\begin{align*} &= \text{Amount invested today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm] &= $880,000 * (1 + 6\%)^{5} \\[0.3 cm] &= $880,000 * (1.06)^{5} \\[0.3 cm] &= $1,177,638.51 \end{align*} {/eq}","Future Value of Investment: The future value of an investment made today represents its equivalent worth after a certain number of years. It is directly related to the nominal interest rate, interval of compounding, and time till maturity."
+30,An effective interest rate is:,The stated annual interest rate of a loan which does not account for compounding.,The actual interest rate earned or charged which is affected by the number of compounding periods.,The frequency of compounding for any given interest level and time period.,None of the above.,B,"The correct answer is
+b. The actual interest rate earned or charged which is affected by the number of compounding periods.
+The real interest rate generated by an interest-generating investment, taking into consideration the effect of compounding, is called the effective interest rate. It is directly proportional to the frequency of compounding and the stated interest rate.
+The other options are incorrect.
+a.
+The stated annual interest rate of a loan which does not account for compounding:
+The stated interest rate on an investment is called the nominal interest rate.
+c.
+The frequency of compounding for any given interest level and time period:
+The number of times the interest on an investment is compounded in a year is called the frequency of compounding.
+d.
+None of the above:
+Since option b is correct, this option is not the answer.","Compounding: The process by which an asset's earnings are reinvested and, as a result, interest is charged on the initial principal, and the interest accumulated thereon is called compounding."
+31,You received a $1 savings account earning 6% on your 1st birthday. How much will you have in the account on your 30th birthday if you don't withdraw any money before then?,$4.82,$5.11,$5.42,$5.74,D,"The correct answer is
+option d. $5.74.
+The given case exemplifies the power of compounding. By abstaining from (any) withdrawals, an initial amount of $1 has the potential to grow to approximately six times its original value over 30 years, when kept in a savings account earning an annual interest rate of 6%.
+Given information:
+Present value: $1
+Interest rate: 6%
+Number of years: 30
+Determine the account value, as shown below:
+{eq}\begin{aligned} \text{Account value} &=\text{Present value}\times {{\left( 1+\text{Interest rate} \right)}^{\text{Number of years }}} \\ &=\$1\times {{\left( 1+6\% \right)}^{30}} \\ &=\$1\times 5.74 \\ &=\$5.74 \end{aligned} {/eq}","Financial Gift: A financial gift is a term used to describe a gift that holds immediate monetary value. This also includes gifts that grant the recipient the right to use or benefit from an item without requiring any payments. Examples of financial gifts include a car, a watch, a fully paid educational course, a voucher, depositing money in the name of the receiver, and similar items."
+32,"What annual rate of return is implied on a {eq}\$1,600 {/eq} loan taken next year when {eq}\$3,300 {/eq} must be repaid in year 9?",{eq}11.81\% {/eq}.,{eq}8.38\% {/eq}.,{eq}9.47\% {/eq}.,{eq}13.29\% {/eq}.,B,"The correct answer is
+option b.8.38%.
+Given information:
+Beginning value = $1,600
+Ending value = $3,300
+Number of years (t) = 9
+Determine the implied rate using the CAGR formula:
+{eq}\begin{aligned} \text{Rate} &={{\left( \frac{\text{Ending}\ \text{value}}{\text{Beginning value}} \right)}^{\frac{1}{\text{t}}}}-1 \\ &={{\left( \frac{\$3,300}{\$1,600} \right)}^{\frac{1}{9}}}-1 \\ &=1.0838-1 \\ &=8.38\% \end{aligned} {/eq}
+Thus, the annual rate is 8.38%.",Annual Return: Annual returns exhibit the increment in a stock's value over a predetermined period. It is more helpful when investors compare two assets or analyze their performances over a period.
+33,The concept of time value of money is important to financial decision-making because:,It emphasizes earning a return on investment capital.,It recognizes that earning a return makes the $1 worth more today than $1 received in the future.,It can be applied in order to compare different streams of income.,All of the above.,D,"The answer is
+d) All of the above.
+Explanation:
+a) Correct. The time value of money concept is considered in a capital budgeting decision since it moves all cash flows to a single point in time that allows the present value of earnings to be compared with the required costs.
+b) Correct. Due to the inflation rate, the time value of money also indicates that the value of a dollar today is greater than the value of a dollar in the future.
+c) Correct. To select a fixed-income security, an investor can determine the present value of all the available securities at the given required rate of return. The security with the highest present value should be selected.","Time Value of Money: The time value of money states that the value of money will vary at different points in time. In practice, the usage of this concept is presented by two measures: present value and future value."
+34,"Using a 360-day year, the maturity value of a 90-day note for $3,500 at 8% annual interest is:","$3,780.","$3,710.","$3,570.","$3,500.",D,"To compute the maturity value of a note, the following computations must be performed.
+Step 1 - Let us compute the interest given that the annual interest rate is 8%.
+{eq}\begin{align} \text{Interest} &= \text{Principla x Rate x Time} \\ &= \text{\$3,500 x 8% x} {\frac{90}{360}} \\ &= $70 \end{align} {/eq}
+Step 2 - Let us compute the maturity value using the following equation.
+Maturity Value = Principal + Interest
+Maturity Value = $3,500 + $70
+Maturity Value = $3,570
+Therefore,
+the correct answer is option c. $3,570.",Time Value of Money: The essence of the time value of money (TVM) is that money available today is worth more than the same amount in the future. It is because the money you have today can be invested and earn interest or grow in value over time.
+35,Assume the appropriate discount rate is 2% per period. The discount factor for a cash flow 10 periods from today is closest to:,0.8000,0.8203,0.8219,1.2000,B,"The answer is
+B) 0.8203.
+Discount factor formula:
+{eq}\text{Discount factor} = \displaystyle\frac{1}{(1 + I)^N} {/eq}, where
+I: Annual interest rate
+N: Number of periods
+Given information:
+Discount rate (I) = 2%
+Number of periods (N) = 10
+Estimate the discount factor, given information:
+{eq}\text{Discount factor} = \displaystyle\frac{1}{(1 + 2\%)^{10}} \\ \text{Discount factor} = \displaystyle\frac{1}{1.21899} \\ \text{Discount factor} = \displaystyle 0.8203 {/eq}","Discount Factor: A discount factor is an important measure to convert a future lump sum into today's dollar. In practice, a discount factor will vary for each cash flow at different points in time."
+36,What is the future value of $500 invested at 8.94% compounded quarterly for 12.5 years (round to the nearest $1)?,"$1,617",$670,"$1,510","$46,739",C,"The correct option is C.
+The formula to calculate the future value (FV) of an investment with compounding interest is:
+{eq}\begin{align*}{\rm\text{FV}} &= {\rm\text{P}} \times {\left( {1 + \frac{{\rm\text{r}}}{{\rm\text{n}}}} \right)^{\left( {{\rm\text{n}} \times {\rm\text{t}}} \right)}}\\ &= \$ 500 \times {\left( {1 + \frac{{0.0894}}{4}} \right)^{\left( {4 \times 12.5} \right)}}\\ &= \$ 500 \times 3.01981\\ &= \$ 1510\end{align*} {/eq}
+Where,
+P is the principal amount = $500
+r is the annual interest rate = 8.94% or 0.0894
+n is the number of compounding periods per year = 4
+t is the period in years = 12.5
+So, the FV is $1510.","Compounded Quarterly: When interest is Compounded Quarterly, means that the interest earned on an investment or charged on a loan is calculated and added to the balance every three months. It results in higher returns on investment."
+37,"Now, assume that Heather's credit union pays a compound interest rate of 9.8% compounded annually. All other things being equal, how much will Heather have in her account after 13 years?","$3,865.80","$5,731.65","$1,866.60",$561.70,B,"The correct answer is option
+b. $5,731.65
+.
+The value in the account after 13 years is computed as follows:
+{eq}\begin{align*} &= \text{Assumed value of investment made today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm] &= \$1,700 * (1 + 9.8\%)^{13} \\[0.3 cm] &= \$1,700 * (1.098)^{8} \\[0.3 cm] &= \$5,731.65 \end{align*} {/eq}",Future Value: The future value of an investment made today denotes the equivalent value expected at a particular point in time in the future. It is calculated by considering the applicable interest rate and time till maturity.
+38,"In determining the future value of a single amount, one measure:",the present value of an amount discounted at a given interest rate.,the present value of periodic payments at a given interest rate.,the future value of an amount allowed to grow at a given interest rate.,the future value of periodic payments at a given interest rate.,C,"The answer is
+C. the future value of an amount allowed to grow at a given interest rate.
+Future value of a lump sum formula:
+{eq}\text{Future Value} = \displaystyle \text{Initial money} \times (1 + I)^N {/eq}, where
+I: Annual interest rate, Required rate of return
+N: Number of holding periods
+A. Incorrect. The future value of a single amount refers to how much that amount can grow at a given interest rate after a holding period. If the interest rate is compounded frequently, it allows an investor to obtain a higher future value of money. Note that the interest rate on an investment can be treated as a growth rate for the investment's initial value.
+B. Incorrect. In this case, it is required to determine the future value of a single amount of money, but not the present value of a series of payments.
+C. Correct. See the explanation in part A.
+D. Incorrect. It is required to determine the future value of a single lump sum while the statement mentions the future value of a stream of payments.","Future Value: Future value is an important concept in an analysis of the time value of money. In detail, the present value of an amount of money refers to how much that money will be worth after a holding period. Note that the future value of an amount of money has a direct relationship with the rate of return associated with the investment of that money."
+39,"A term associated with future value is ""compounding""; a term associated with present value is ""discounting"".",True,False,,,B,"The statement is b. False.
+When the present value of the amount is given, and its future value needs to be calculated, then it will be called compounding, as the amount will be compounded annually, semi-annually, quarterly, or monthly based on the requirement to get the value of the amount that will be received in the future.
+On the other hand, when the future amount is given, that is, the amount that will be received on the future specified date, and its present value needs to be calculated, in such a situation, it will be called discounting as the future amount will be discounted at today's rate.",Present Value: The present value shows the amount calculated after discounting the money to be acquired in the future at today's rate. The future cash is discounted due to inflation lowering the cash's worth over time.
+40,"If the interest rate is 4%, then the future value of $100 to be received 2 years from now is closest to _____.",$92.45,$104.00,$108.00,$108.16,D,"The correct answer is option
+d.108.16
+.
+The future value of the investment  is given by:
+{eq}\begin{align*}
+
+&=  \text{Amount deposited today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= \$100 * (1 + 4\%)^{2} \\[0.3 cm]
+
+&= \$100 * (1.04)^{2} \\[0.3 cm]
+
+&= $100 * 1.0816
+
+&= \$108.16
+
+\end{align*}
+
+{/eq}","Future Value: The future value of an investment made today represents the equivalent worth after a predetermined time horizon. It is computed by considering the relevant interest rate, time till maturity, and compounding interval."
+41,"Today, you deposit $1,000 into an account that pays 12 percent interest annually. How much will you have in the account after 4 years?",$635.52,"$1,120.00","$1,254.40","$1,573.52",D,"The correct answer is option
+d. $1,573.52
+.
+The future value of the investment after 4 years is given by:
+{eq}\begin{align*}
+
+&=  \text{Amount invested today * (1 + annual interest rate)} ^ {\text{Number of years}} \\[0.3 cm]
+
+&= \$1,000 * (1 + 12\%)^{4} \\[0.3 cm]
+
+&= \$1,000 * (1.12)^{4} \\[0.3 cm]
+
+&= \$1,000 * 1.5735 \\[0.3 cm]
+
+&= \$1,573.52
+
+\end{align*}
+
+{/eq}",Future Value: The future value of an investment or deposit made today represents the equivalent worth at maturity. The parameter that primarily influences the future value is the applicable interest rate and compounding frequency.
+42,Which of the following statements is true?,Present value calculations involve converting the initial amount into a future amount.,The present value (PV) is often called the compounded value of future cash payments.,The present value is calculated by using the discount factor.,The future value of an investment is the reciprocal of its present value.,A,"A. Incorrect. The calculations of present value will move all cash flows to today.
+B. Incorrect. The compounded value of future cash payments refers to the future value of these payments at a specific future point in time.
+C. Correct. The present value of an investment is determined by discounting all cash inflows to today according to the discounted cash flow model (DCF). Each cash flow will be associated with a particular discount factor.
+D. Incorrect. The future value and the present value are not equal due to the effects of the time value of money.",Time Value Of Money: The time value of money indicates that the value of an amount of money today is not equal to its value at a future point in time. This fact can be explained by a reduction in the purchasing power of money.
+43,"How long does it take for a deposit of $1,656 to triple in value if invested at the interest rate of 5.90%?",19.16 years,20.25 years,21.26 years,22.38 years,A,"The correct answer is option
+a. 19.16 years
+.
+Let's say, it takes
+x
+years for the initial deposit of $1,656 to triple in value. The number of years (
+x
+) can be ascertained by equating the initial deposit to the present value of the expected value where the discount factor consists of the given interest rate of 5.9% (or 0.059) as shown below:
+{eq}$1,656 = \dfrac{3 * \$1,656}{(1 + 5.9\%) ^ x} {/eq}
+{eq}$1,656 = \dfrac{3 * \$1,656}{(1.059) ^ x} {/eq}
+{eq}(1.059) ^ x = 3 {/eq}
+{eq}ln(1.059) ^ x = ln(3) {/eq}
+{eq}x * ln(1.059) = ln(3) {/eq}
+{eq}x * 0.057325 = 1.0986123 {/eq}
+{eq}x = \dfrac{1.0986123}{0.057325} {/eq}
+{eq}x = 19.16 \text{ years} {/eq}",Time Value of Money: The idea of the time value of money is useful in computing the time required for an initial investment to grow to a particular value in the future. The relevant interest rate and compounding interval govern the computations.
+44,"The future value of a $1,000 investment today at 8 percent annual interest compounded semiannually for 5 years is:","$1,469","$1,480","$1,520","$1,555",B,"The correct answer is option
+B. $1,480
+.
+The number of semi-annual periods for the investment is given by:
+{eq}\begin{align*}
+
+&= \text{Number of years  * Number of semi-annual periods in a year} \\[0.3 cm]
+
+&= 5 * 2 \\[0.3 cm]
+
+&= 10 \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The semi-annual interest rate is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Annual interest rate}}{\text{Number of semi-annual periods in a year}} \\[0.3 cm]
+
+&= \dfrac{8\%}{2} \\[0.3 cm]
+
+&= 4\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The future value of the investment after 5 years is given by:
+{eq}\begin{align*}
+
+&=  \text{Amount invested today * (1 + Semi-annual interest rate)} ^ {\text{Number of semi-annual periods}} \\[0.3 cm]
+
+&= \$1,000 * (1 + 4\%)^{10} \\[0.3 cm]
+
+&= \$1,000 * (1.04)^{10} \\[0.3 cm]
+
+&= \$1,000 * (1.480244) \\[0.3 cm]
+
+&= $1,480.24
+
+\end{align*}
+
+{/eq}","Future Value: The future value of an investment denotes its equivalent worth after a certain number of years. It takes into consideration the relevant interest rate, interval of compounding, and time till maturity."
+45,"Investment X offers to pay you $7,900 per year for 9 years, whereas Investment Y offers to pay you $10,800 per year for 5 years.","If the discount rate is 8 percent, what is the present value of these cash flows?","If the discount rate is 20 percent, what is the present value of these cash flows?",,,A,"A) When the discount rate is 8%, the present value of cash flows of both the investment are as follows:
+Investment X
+Years
+Investment X Cash flows (a)
+Discount rate at 8% (1/(1+rate)^time) (b)
+Present value of cash flow of Investment X (a*b)
+1
+$7,900
+0.925
+$7,307.5
+2
+$7,900
+0.857
+$6,770.3
+3
+$7,900
+0.793
+$6,264.7
+4
+$7,900
+0.735
+$5,806.5
+5
+$7,900
+0.680
+$5,372
+6
+$7,900
+0.630
+$4,977
+7
+$7,900
+0.583
+$4,605.7
+8
+$7,900
+0.540
+$4,266
+9
+$7,900
+0.500
+$3,950
+-
+-
+Total
+$49,319.7
+The present cash flow of Investment X is $49,319.7
+Investment Y
+Years
+Investment Y Cash flows (a)
+Discount rate at 8% (1/(1+rate)^time) (b)
+Present value of cash flow of Investment Y (a*b)
+1
+$10,800
+0.925
+$9,990
+2
+$10,800
+0.857
+$9,255.6
+3
+$10,800
+0.793
+$8,564.4
+4
+$10,800
+0.735
+$7,938
+5
+$10,800
+0.680
+$7,344
+-
+-
+-
+$43,092
+The present cash flow of Investment Y is $43,092
+B) When the discount rate is 20%, the present value of cash flows of both the investment are as follows:
+Investment X
+Years
+Investment X Cash flows (a)
+Discount rate at 20% (1/(1+rate)^time) (b)
+Present value of cash flow of Investment X (a*b)
+1
+$7,900
+0.833
+$6,508.7
+2
+$7,900
+0.694
+$5,482.6
+3
+$7,900
+0.578
+$4,566.2
+4
+$7,900
+0.482
+$3,807.8
+5
+$7,900
+0.401
+$3,167.9
+6
+$7,900
+0.334
+$2,638.6
+7
+$7,900
+0.279
+$2,204.1
+8
+$7,900
+0.232
+$1,832.8
+9
+$7,900
+0.193
+$1,524.7
+-
+-
+Total
+$31,733.4
+The present cash flow of Investment X is $31,733.4
+Investment Y
+Years
+Investment Y Cash flows (a)
+Discount rate at 8% (1/(1+rate)^time) (b)
+Present value of cash flow of Investment Y (a*b)
+1
+$10,800
+0.833
+$8,996.4
+2
+$10,800
+0.694
+$7,495.2
+3
+$10,800
+0.578
+$6,242.4
+4
+$10,800
+0.482
+$5,205.6
+5
+$10,800
+0.401
+$4,330.8
+-
+-
+-
+$32,270.4
+The present cash flow of Investment Y is $32,270.4",Present Value: The cash value decreases as time passes; the present value signifies the same concept. It is an important aspect in calculating the money's worth. It discounts the cash value at the prevailing value.
+46,"Say that the interest rate is 11% and you invest $200 today, and then another $220 exactly one year from today.",$490.62,$498.85,$511.15,$521.08,A,"The correct answer is
+option a. $490.62.
+Given information:
+Total period of investment: 2 years
+Interest rate: 11%
+Investment 1 made at year 0: $200
+Investment 2 made at year 1: $220
+Step 1: Determine the future value of investment 1 as follows:
+{eq}\begin{aligned} \text{Future value 1} &=\text{Investment made at year 0}\times {{\left( 1+\text{Interest rate} \right)}^{\text{Time to maturity}}} \\ &=\$200\times {{\left( 1+11\% \right)}^{2}} \\ &=\$200\times 1.2321 \\ &=\$246.42 \end{aligned} {/eq}
+Step 2: Determine the future value of investment 2 as follows:
+{eq}\begin{aligned} \text{Future value 2} &=\text{Investment made at year 1}\times {{\left( 1+\text{Interest rate} \right)}^{\text{Time to maturity}}} \\ &=\$220\times {{\left( 1+11\% \right)}^{1}} \\ &=\$244.20 \end{aligned} {/eq}
+Step 3: Determine the total future value:
+{eq}\begin{aligned} \text{Total future value} &=\text{Future value 1}+\text{Future value 2} \\ &=\$246.42+\$244.20 \\ &=\$490.62 \end{aligned} {/eq}
+Note: The second investment is made exactly one year after the first investment. The total investment period is two years. So, the interest rate on the second investment will be paid only for the remaining one year.",Savings: Individuals often allocate a portion of their income to savings in order to meet future financial needs. Savings refer to the amount of money set aside from one's income. These savings can be accumulated over time and invested whenever there is an excess of income.
+47,"At an effective annual interest rate of 20 percent, how many years will it take a given amount to triple in value?",5 years,6 years,8 years,10 years,B,"The correct answer is
+option B) 6 years.
+Given information:
+Effective annual interest rate: 20%
+Apply the formula used to calculate the length of time a present value needs to reach a certain future value at a given interest rate.
+{eq}\begin{aligned} \text{Number of years}&=\frac{\ln \left( \frac{\text{Future value}}{\text{Present value}} \right)}{\ln \left( 1+\text{Effective annual interestrate} \right)} \\ &=\frac{\ln \left( \frac{\$1\times 3}{\$1} \right)}{\ln \left( 1+20\% \right)} \\ &=\frac{\ln \left( 3 \right)}{\ln \left( 1.20 \right)} \\ &=\frac{1.10}{0.18} \\ &=6\ \text{years} \end{aligned} {/eq}
+Thus, the number of years is 6 years.
+Note: The present value is assumed to be $1. Thus, the future value is triple of $1, that is, $3 (1*3).
+The value of 'ln' can be determined using a log table.",Log Value: A log value is obtained as a result of applying the mathematical function of logarithm to a given number or value. The logarithmic function measures the power to which a given base must be raised to produce a certain value.
+48,If {eq}8\% {/eq} is compounded quarterly for 3 years then the interest rate (r) for a single period used in a time-value money calculation would be:,{eq}4\% {/eq}.,{eq}3\% {/eq}.,{eq}8\% {/eq}.,{eq}2\% {/eq}.,D,"The correct answer is option
+d. {eq}2\% {/eq}.
+The interest rate for a single period is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Quoted annual interest rate}}{\text{Number of quarters in a year}} \\[0.3 cm] &= \dfrac{8\%}{4} \\[0.3 cm] &= 2\% \end{align*} {/eq}",Time Value of Money: The concept of the time value of money is used to ascertain the expected future value of a deposit made today or the investment supposed to be made today for a predetermined future value. The factors relevant for the computations are periodic interest rate and number of periods.
+49,Discounting:,expresses the present in the future,brings the future back to the present,is synonymous with compounding,depends on the rate of interest,B,"The correct answer is option
+B. brings the future back to the present
+.
+The discounting process is used to bring the future value back to its equivalent present value. It takes into consideration the relevant discount rate or interest rate and the timing of the future cash flow.",Time Value of Money: The concept of the time value of money is used to compute the equivalent future worth of a deposit made today or the equivalent present worth of an expected future cash flow. One can even ascertain the time required for an investment to grow to a certain value.
+50,Which of the following describes the time value of money?,Money loses it purchasing power over time through inflation.,A dollar received today is worth more than a dollar to be received in the future.,The time value of money has no effect on the timing of capital investments.,The fact that invested cash may not earn interest over time is called time value of money.,B,"The correct option is
+b. A dollar received today is worth more than a dollar to be received in the future.
+The concept of the time value of money states that the value of money is not absolute and it changes with time. The value of a sum of money today is more than the value of the same sum of money at some point in the future. The reason for the same is interest rates, inflation, opportunity costs, etc.",Financial Mathematics: Financial mathematics is the study of finances. There are various concepts used in financial mathematics. The concept of the time value of money is one of them.

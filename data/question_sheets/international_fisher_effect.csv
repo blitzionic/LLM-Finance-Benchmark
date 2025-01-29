@@ -1,0 +1,468 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"If a foreign county experiences a hyperinflation, _____.",its currency will depreciate against stable currencies.,its currency may appreciate against stable currencies.,its currency may be unaffected it's difficult to say.,none of the above,A,"The correct answer is
+A. its currency will depreciate against stable currencies
+.
+Inflation directly affects currency exchange rates.  Higher inflation reduces the value of the home currency.  This relationship is known as the International Fisher Effect.  If it did not exist, countries could print as much money of the local currency as they wish and then exchange it, for example, for dollars or euros.
+B is incorrect.  Hyperinflation is an extremely high form of inflation, and it considerably reduces the value of the local currency.
+C is incorrect. The only scenario in which the currency will be unaffected is global hyperinflation that affects all countries.  The question, however, specifies that other currencies are stable.
+D is incorrect because of A.",Hyperinflation: Most governments in the world aim at maintaining certain small inflation in their economy.  Hyperinflation occurs when inflation spirals out of control.  This can have devastating consequences on the economy.
+2,"As the interest rate rises, debt service:",decreases.,does not change but debt increases.,increases.,does not change and neither does the debt.,A,"The correct answer is A.
+As the interest rate rises, debt service
+decreases.
+High interest rates tend to increase borrowing costs, making it tedious for investors and individuals to borrow money. Therefore, when borrowers cannot borrow money, spending lessens hence low tax revenues and fewer job opportunities due to a decline in investments. Eventually, a rise in interest rates does not stimulate the economy due to low revenues hence a downswing in debt service.
+In contrast, low interest rates make it easy for borrowers to borrow funds from lenders due to low borrowing costs. Therefore, through the access to funds via loans, individuals can invest and aid in the stimulation of the economy hence increased debt service.","Interest Rates: Interest rate describes the extra amount that a borrower adds on top of the principal amount they borrow. Interest is paid periodically over an agreed timeframe and is determined by a percentage of the overall principal amount. Additionally, interest can also define the amount a depositor earns upon depositing funds in a financial institution."
+3,The interest parity condition is the proposition that,investors' expectations of future changes in exchange rates reflect differences in interest rate policies pursued by the central banks in different countries.,differences in interest rates on similar bonds in different countries reflect investors' expectations of future movements in relative price levels.,differences in interest rates on similar bonds in different countries reflect investors' expectations of future changes in exchange rates.,differences in interest rates on different bonds within a country reflect investors' expectations of future changes in the tax treatment of interest earnings.,A,"The answer is A).
+First of all, interest rate parity is based on risk-free rates, which are set by central banks in different countries. Second, the parity argues that expected return from investing in risk-free rates should be the same across countries, when expressing in a common currency. Specifically,
+1 + domestic interest rate = (1 + foreign interest rate )  * spot exchange rate / expected forward exchange rate
+The above equation could be written as
+change in forward exchange rate - change in spot exchange rate = foreign exchange rate - domestic interest rate
+Thus, changes in exchange rates reflect different in interest rates.","Interest Rate Parity: In the long run, exchange rate is determined by the forces of demand and supply for currencies for international trade. In the short-run, interest rate parity is one of the models for exchange rate determination."
+4,"Assume that interest rate parity holds and that 90-day risk-free securities yield 5 percent in the United States and 5.3 percent in Germany. In the spot market, 1 euro equals $0.80 dollar.",Is the 90-day forward rate trading at a premium or discount relative to the spot rate?,What is the 90-day forward rate?,,,A,"Given information:
+Euro spot rate S = $0.8/ Euro
+Germany interest rate {eq}R_{EUR}
+
+{/eq}= 5.3% (assumed annual interest rate)
+U.S. interest rate  {eq}R_{USD}
+
+{/eq}= 5% (assumed annual interest rate)
+Time to maturity = 90 days = 90/360 year = 0.25 year
+Solution:
+Let u s calculate the theoretical forward rate using the following formula:.
+Forward rate F = S* {eq}\displaystyle e^{(R_{USD} - R_{EUR})*t}
+
+{/eq}
+Substitute the given values:
+Forward rate F = 0.8* {eq}\displaystyle e^{(5\% - 5.3\%)*0.25} = $0.7994/Euro
+
+{/eq}
+Sub part a: Is the 90-day forward rate trading at a premium or discount relative to the spot rate?
+Since the 90-day forward rate is not provided we cannot compare it with the theoretical forward rate calculated above.
+Sub part b: What is the 90-day forward rate?
+The 90-day forward rate is $0.7994/Euro",Forward Exchange Rates: Forward exchange contracts are an obligation to exchange one currency into another at a fixed rate within a fixed period. The forward exchange rate is a function of interest rates of the two countries involved to maintain the interest rate parity.
+5,"When Interest Rate Parity (IRP) does not hold, _____.",there is usually a high degree of inflation in at least one country.,the financial markets are in equilibrium.,there are opportunities for covered interest arbitrage.,both b) and c),A,"A. is incorrect.  Interest rate parity (IRP) does not require the existence or lack of inflation in any country.
+B. is incorrect.  If markets are in equilibrium, IRP will hold and there will be no arbitrage opportunities.
+C. is correct.
+If IRP does not hold, an investor can earn a higher return by investing in a foreign country and converting the proceeds back to his/her home currency.  This investor can borrow funds at home and invest abroad, thus earning a risk-free profit.
+D. is incorrect because of B.","Covered Interest Arbitrage: Covered Interest Arbitrage is an investment activity, in which investors borrow funds in one country to invest in another country.  The arbitrage also involves fixing the future exchange rate by entering into a forward contract."
+6,Calculate the real interest rate if the nominal rate is 9.5% and the inflation rate is 3.9%. Hint: Base your answer on the Fisher Effect.,5.51%,5.89%,5.39%,,C,"The real rate of return based on the Fisher Effect is c. 5.39%
+The Fisher relationship can be represented as:
+(1 + Nominal Rate) = (1 + Real Rate) * (1 + Inflation)
+Given in the question:
+Nominal Rate
+= 9.50% or 0.095
+Inflation
+= 3.9% or 0.039
+Substituting the values in the formula, we get
+(1 + 0.095) = (1 + Real Rate) * (1.039)
+(1 + Real Rate) = (1 + 0.095) / (1.039)
+(1 + Real Rate) = 1.05389797883
+Real Rate = 0.05389797883","Fisher Effect: The Fisher effect provides the relationship between the real rates, nominal rates, and inflation in the economy. The real rate is, theoretically, equal across the globe but the inflation differs."
+7,The 1-year risk-free interest rate in Mexico is 10%. The 1-year risk-free interest rate in the USA is 2%. Assume that interest rate parity exists. The spot rate of the Mexican peso is $0.14.,What is the forward rate premium?,What is the 1-year forward rate for the peso?,,,A,"Given information:
+Annual US interest rate = {eq}R_{USD}{/eq}= 2%
+Annual Mexican  interest rate = {eq}R_{Peso}{/eq}= 10%
+Time to maturity = 1 year
+Solution:
+Sub part a:
+Forward price formula:
+Forward price F= {eq}\displaystyle S* e^{( R_{USD} - R_{Peso}  ) *t}
+
+{/eq}
+Forward premium/discount is equal to F/S -1 and is given by the formula:
+Forward premium/discount = {eq}\displaystyle  \frac {F}{S} -1  = e^{( R_{USD} - R_{Peso}  ) *t} - 1
+
+{/eq}
+Substitute the given values :
+Forward premium/discount = {eq}\displaystyle  e^{( 2\% - 10\%  ) * 1} - 1
+
+{/eq} = -0.076883654= -7.6884%
+Since the value is negative, forward rate is trading at a discount.
+Answer: The forward rate discount of the Peso is  7.6884% (since we used the word discount we removed the negative sign)
+Sub part b:
+We will use the forward price formula to calculate the forward price.
+Forward price F= {eq}\displaystyle S* e^{( R_{USD} - R_{Peso}  ) *t}
+
+{/eq}
+Substitue S = $0.14/Peso in the formula:
+Forward price F= {eq}\displaystyle 0.14* e^{( 2\%- 10\%  ) *1} = $0.1292/ Peso
+
+{/eq}
+Answer: The the one-year forward rate for the Peso is $0.1292/ Peso",Forward Exchange Rates: Forward exchange rates are predetermined rates after a predetermined period in the future. These rates are dependent upon the current spot rates and the interest rates between the two countries.
+8,An increase in the interest rate in the United States but not in the European Monetary Union (EMU) will lead to:,a dollar depreciation,a dollar appreciation,the dollar/euro exchange rate to remain unchanged,any of the above,A,"The answer is  A).
+According to the interest rate parity, a country with an increase in interest rate will see its currency depreciate. Thus, if interest rate in the United States increases, U.S. dollars will depreciate against the Euro.",Interest Rate Parity: Interest rate parity is an equilibrium condition for exchange rates between two currencies. The two versions of interest rate parity are covered interest rate parity and uncovered interest rate parity.
+9,Assume that the one-year U.S. Treasury bond rate is 3% and the similar European government bond rate is 5%.,"Comparing these inflation rates, could it be expected that the dollar will appreciate or depreciate against the euro over the next year? Explain.","In addition, if the spot rate is 1.50 dollars per euro, what would be the forward rate?",,,A,"a) The dollar is expected to appreciate against the euro next year. According to the interest rate parity, a country with a lower interest rate is expected to see its currency appreciate. Interest rate is lower in the U.S. compared to Europe, so dollars are expected to appreciate.
+b) According to the interest rate parity, we have:
+(1 + 5%) * 1.5  / forward rate = (1 + 3%)
+forward rate = 1.53
+That is, the forward rate will be 1 euro = $1.53","Interest Rate Parity: Interest rate parity is an equilibrium condition for the international money market. Depending on whether forward contracts are involved, the parity could be covered or uncovered."
+10,"Assuming covered interest parity holds, if {eq}i=5
+
+{/eq}%, {eq}i^*=7
+
+{/eq}%, {eq}f=2.40
+
+{/eq}, then the current spot exchange rate equals _____.",3.55,2.40,2.70,2.45,D,"The correct answer is d, 2.45.
+The formula for calculating spot exchange rate is given below, along with the necessary calculation to find the current spot exchange rate as required:-
+{eq}\begin{align*}
+
+S &= F\dfrac{{\left( {1 + {i^*}} \right)}}{{\left( {1 + i} \right)}}\\
+
+&= 2.40\dfrac{{\left( {1 + 0.07} \right)}}{{\left( {1 + 0.05} \right)}}\\
+
+&= 2.40\dfrac{{\left( {1.07} \right)}}{{\left( {1.05} \right)}}\\
+
+&= 2.45
+
+\end{align*}
+
+{/eq}","Covered Interest Rate Parity: The covered interest rate parity explains how the spot and forward contracts can yield the same returns, and there is no probability of gaining from arbitrage. This requires a perfect flow of capital and substitutability."
+11,When is a Fisher equation a good approximation of the real interest rate?,when the real interest rate is low,none of the other answers,when the nominal interest rate is low,when inflation is low,B,"The appropriate answer is
+b. none of the other answers
+.
+None of the provided alternatives are correct. From the Fisher equation, the nominal rate is the interest rates and inflation's sum. However, the Fisher hypothesis, also known as the Fisher effect, indicates that the monetary base, which is the amount of money in circulation, has no impact on the real interest rates.
+The Fisher hypothesis is forward-looking; it assumes that if a commercial bank offers a 6% interest rate in two years and during this time, a 4% inflation is realized, the real interest was always 2% all along. The conclusion is from the assumption that the shifts in monetary measures and that the money's quantity theory is actual and predictable. Therefore, from the Fisher hypothesis, the nominal rate is the given real interest rate that indicates the money growth cumulated over time to an amount of money owed by an investor.","Fisher Equation: The Fisher equation is an economic concept that illustrates the connection between the nominal rates and the real interest rates in inflation. The nominal interest rate is equivalent to the inflation and the equation's actual interest rates' sum. Usually, the concept is applied when lenders or investors request an extra reward for losses' compensation because of high inflation."
+12,When yield curves are flat:,"long-term interest rates are above short-term interest rates,","medium-term interest rates are above both short-term and long-term interest rates,","short-term interest rates are about the same as long-term interest rates,",short-term interest rates are above long-term interest rates.,C,"The correct answer is
+c. short-term interest rates are about the same as long-term interest rates.
+This is because the yield curve, by definition, reflects the various interest rates for different maturities (e.g. 3 months, 1 year, 10 years, 30 years, etc.) and is meant to show the difference between short-term and long-term interest rates. If it is flat, it means that short-term interest rates are more or less equal to the long-term interest rates.","Interest Rate: When discussing the yield curve of a country, it is important to understand the implication of short and long-term interest rates. The interest rate reflects the annual return for a government bond (in the case of a yield curve) which varies based on liquidity, risk, and maturity."
+13,"Suppose covered interest parity holds. If the U.S. interest rate is 4% and the U.K. interest rate is 3%, which currency is trading at a discount?",pound,dollar,neither the dollar nor the pound,both the dollar and the pound,A,"The answer is A).
+According to the covered interest rate parity, we have:
+1 + domestic interest rate = (1 + foreign interest rate) * spot exchange rate / forward exchange rate
+According to the parity, a country's currency is trading at a discount in the spot market if domestic interest rate is lower than the foreign interest rate. In this question, the interest rate is lower in the U.K, so the pound is trading at a discount.",Interest Rate Parity: Interest rate parity is a non-arbitrage condition relating interest rates to exchange rates. The uncovered version of the parity does not involve the use of forward contracts.
+14,"If the present 1-year rate is 4% and the expected 1-year rate is 6%, then according to the expectations theory, the 2-year rate is approximate which of these?",6%,Unknown,5%,4%,C,"The calculated value of the current two-year interest rate is option
+c) 5%
+.
+Present 1-year interest rate (s1) = 1.75%
+Expected 1-year interest rate (f1) = 6%
+Current 2-year interest rate (s2) = ?
+The formula for the interest rate on two-year Treasury securities can be written as shown below:
+{eq}(1 + s2) ^ {\text{Number of years}} = (1 + s1) * (1 + f1)
+
+{/eq}
+{eq}(1 + s2) ^ {2} = (1 + 4\%) * (1 + 6\%)
+
+{/eq}
+{eq}(1 + s2) ^ {2} = (1.04) * (1.06)
+
+{/eq}
+{eq}(1 + s2) ^ {2} = 1.1024
+
+{/eq}
+{eq}(1 + s2) = 1.1024 ^ \dfrac{1}{2}
+
+{/eq}
+{eq}(1 + s2) = 1.04995
+
+{/eq}
+{eq}s2 = 1.04995 - 1
+
+{/eq}
+{eq}s2  = 4.995\%
+
+{/eq}","Spot and Forward Interest Rates: In the context of finance, the spot rate is the interest rate applicable on a financial instrument from the present time while the forward rate is the interest applicable from a certain point in time in the future. One can express a given spot rate in terms of combinations of relevant forward rate and spot rates."
+15,The interest parity condition is relevant in the:,short run.,long run.,both of the above.,neither of the above.,B,"The correct answer is B. Long run.
+Interest parity deals with exchange rates and forex trading. The transactions are dealt with too fast to study a condition in the short run. The change of any socio-economic or political issues can only have a long-run effect on the interest parity rate. Especially, when it comes to forward exchange rates where the transaction takes place at a time in the future and there is a higher risk of arbitrage.",Interest rate Parity: It states the relationship between exchange rates and interest rates. It is mostly used in the foreign exchange market to check the risk of adverse price changes.
+16,Interest Rate Parity (IRP) is best defined as _____.,When a government brings its domestic interest rate in line with other major financial markets.,When the central bank of a country brings its domestic interest rate in line with its major trading partners.,An arbitrage condition that must hold when international financial markets are in equilibrium.,None of the above,A,"A. is incorrect.  Interest Rate Parity (IRP) does not require that governments make any changes to interest rates.  It merely states that exchange rates depend on differences in interest rates between two countries.
+B. is incorrect.  IRP does not require that central banks change interest rates.
+C. is correct.
+IRP is an equilibrium condition of financial markets.  If this condition holds, exchange rates will adjust in such a way that the investment return will be the same in all countries, regardless of the differences in interest rates.  If IRP fails, arbitrageurs will quickly make sure that financial markets are returned to their equilibrium.
+D. is incorrect because of C.","Irving Fisher: Irving Fisher was an American economist of the nineteenth and the twentieth centuries.  Among other things, he is credited with the proposition of the interest rate parity hypothesis.  This hypothesis is also known as the International Fisher Effect."
+17,You observe the following information:,USD 1.568 per GBP.,USD 1.632 per GBP.,USD 1.696 per GBP.,USD 1.504 per GBP.,A,"If P stands for British pound, D stands for U.S. dollar, and r stands for interest rate, the implied forward rate is given by the expression:
+{eq}Forward \ rate(D/P) = Spot \ rate(D/P) *\dfrac{1+r_{D}}{1+r_{P}}\\
+
+Forward \ rate(D/P) = 1.6 *\dfrac{1+0.04}{1+0.06}\\
+
+Forward \ rate(D/P) = 1.57\\
+
+{/eq}
+The correct answer is a.","IRP: Interest rate parity is an equilibrium condition, which prevents interest rate arbitrage in two different currencies.  One corollary of this condition is that a higher interest rate in one currency is associated with a weaker currency value in the future."
+18,Which of the following parity conditions is (are)correct?,The interest-rate parity theory states that the forward premium/discount should be equal and opposite in size to the national interest rate differential.,The purchasing-power parity theory states that in the long run exchange rate changes tend to reflect international differences in inflation rates.,The international Fisher effect states that national interest rate differentials are the result of inflation differentials.,All of the above are correct.,C,"The Interest-rate parity theory states that the differential among the rate of interest of two countries is equal to the differential determined through the spot exchange rate and forward exchange rate techniques.
+Purchasing power parity theory says that the rate of exchange among two countries must change for reflecting the variations of the two countries' inflation rates.
+Thus, Answer is Option (c) The International Fisher effect states that national interest rate differentials are the result of inflation differentials.",Interest rate: The amount of money a lender charges over the principal amount is known as the interest rate. It can also be said as the rental or leasing fee applied by the lender for using the money or assets by the borrower.
+19,Suppose that one-year interest rates in the US are 2% and that one-year interest rates in Europe are 5%. The current dollar/euro exchange rate is 1.1. Suppose that you have $1000 to invest.,"Use the uncovered interest rate parity (UIP) condition (the approximation) and solve for the expected exchange rate, one year hence, that is consistent with UIP. Show that with this particular exchange rate, the returns in ""like"" currencies are approximately the same.",Explain the intuition underlying your results from part a.,,,A,"a)
+With uncovered interest rate parity condition is:
+{eq}\left( {1 + {i_d}} \right) \approx \dfrac{{{F_t}}}{{{S_t}}}\left( {1 + {i_f}} \right){/eq}
+By substituting the values
+{eq}{i_d}{/eq} is domestic interest rate (US)
+{eq}{i_f}{/eq} is foreign interest rate (euro)
+{eq}{F_t}{/eq} future expected exchange rate
+{eq}{S_t}{/eq} current expected exchange rate
+{eq}\begin{align*}
+
+\left( {1 + 0.02} \right) &= \left( {\frac{{{F_t}}}{{1.1}}} \right)\left( {1 + 0.05} \right)\\
+
+{F_t} &= 1.07
+
+\end{align*}{/eq}
+The returns after one year in the US with current exchange rate are:
+{eq}\begin{align*}
+
+&= 1020\left( {1.1} \right)\\
+
+&= 1122\;euros
+
+\end{align*}{/eq}
+The returns in Europe with future exchange rate are:
+{eq}\begin{align*}
+
+&= 1050\left( {1.07} \right)\\
+
+&= 1123.5\,euros
+
+\end{align*}{/eq}
+b)
+The exchange rate is with parity in future in both US and Europe. There is not much gap in the returns. Whatever gains the European interest rate would offer will be deducted due to exchange rate depreciation in Europe. Hence the returns in Europe are the same as returns in the US offered.","Interest Rate Parity The currencies of the two countries offer the same exchange rate returns in interest rate parity condition. Hence, virtually, there is no difference in returns in the two currencies and investments become equally profitable in both the currencies. These can be either covered or uncovered interest rate parities."
+20,"Suppose the Japanese interest rate is 1% while the interest rate in Britain is 3%. Interest rate parity predicts that relative to the Japanese Yen,",the British pound will depreciate by 4%.,the British pound will appreciate by 2%.,the British pound will depreciate by 2%.,the British pound will appreciate by 4%.,C,"The correct option is c) the British pound will depreciate by 2%.
+The interest rate parity exists when the domestic interest rate is equal to the foreign interest rate when the latter is converted as per the prevailing exchange rate. The formula is given as:
+$$R = R' + XR
+
+$$
+Where R is the domestic interest rate
+R' is the foreign interest rate
+XR is the expected rate of foreign currency depreciation
+In this case, let Japan be the domestic economy and Britain be the foreign economy. Then as per the interest rate parity formula:
+$$1 = 3 + x
+
+$$
+$$-2 = x
+
+$$
+The x represents the rate of depreciation of British pounds. As per the results, the British pound will depreciate by 2% in order to maintain the interest parity in the two economies.","Interest Rate Parity Interest Rate Parity theory defines that the interest rates offered by two economies at a time, should be equal to each other. This is an important tool to ensure that the inflow or outflow of funds is not in excess. However, perfect parity does not hold in general cases to allow for the flow of funds from less to more prospective investment areas."
+21,How will the effective interest rate method of amortization affect the interest expense incurred on a bond issued at a discount?,Interest expense will decrease as the carrying value of the bond increases.,Interest expense will increase as the carrying value of the bond decreases.,Interest expense will decrease as the carrying value of the bond decreases.,Interest expense will increase as the carrying value of the bond increases.,D,"Amortization is an accounting technique that refers to the spreading of intangible asset's cost over several periods. The spread of value leads to lowering an asset's book value. Amortization also applies to the process of offsetting a loan through paying off regular principal and interest over time. The interest rate method of amortization is a method used to discount bonds. In this method, the interest rate of a bond consequently increases as the book value of the bond increases. Therefore, the correct answer is D.","Interest rate: Interest rate refers to the proportion a lender charges on the use of their assets, which include money, goods, building, vehicles, among others. The interest rate is a percentage of the principal of the total value of the asset given out to the borrower."
+22,"Other things the same, an increase in the interest rate would tend to reduce:","domestic investment, but not net capital outflow.",neither domestic investment nor not capital outflow.,both domestic investment and net capital outflow.,"net capital outflow, but not domestic investment.",C,"The correct option is
+C)
+.
+Bond prices fall when interest rates rise, and the opposite is true when interest rates are on the rise. Once interest rates increase, newly issued bonds will have more excellent coupons, decreasing the value of earlier-issued bonds with lower coupons.
+The assets are more appealing the higher the domestic accurate interest rates. Due to this, there will be an increase in foreign investment, which will lower net capital outflow.
+OptionA)
+is incorrect because it will affect the both factors.
+OptionB)
+is incorrect because it will affect domestic investment and net capital outflow.
+OptionD)
+is incorrect because it will affect domestic investment as well.","Context header: Interest Rate An interest rate indicates how expensive borrowing is or how lucrative saving is. Therefore, in case of a borrower, the interest rate is the sum paid for borrowing money and is expressed as a percentage of the overall loan amount."
+23,"When the market for an asset is in equilibrium, the expected rate of return on the asset is equal to the:",risk-free rate,marginal investor's required rate of return,historical cost of capital,perpetual capitalization rate,D,"The answer is B) marginal investor's required rate of return.  As with any market, the market for this asset is said to be in equilibrium at the price point where the quantity supplied is equal to the quantity demanded.  This occurs where the next investor's (the marginal investor's) required rate of return is equal to the price of the asset (expected rate of return).","Rate: A rate, or interest rate, is a percentage expression of two amounts.  In many arrangements, the interest rate represents the cost associated with receiving money or a good/service in advance of payment."
+24,The forward rate and the expected spot exchange rate must be _____.,equal for covered interest parity to hold.,equal for the international fisher relationship to hold.,equal for covered interest parity and uncovered interest parity to hold.,None of the above.,A,"The correct answer is
+a. equal for covered interest parity to hold
+The potential differences might exist between exchange rates and interest rates. The interest parity gives know-how of such differences. When the interest parity is covered, then it is assumed that the forward contracts can cover up the exchange-rate risks. For holding this parity, the equality between forward and expected spot rate must exist.","Spot Exchange Rates: Spot exchange rates, as the name suggests, is considered to be the nation's exchange rate that corresponds at specific time spot. These rates indicate the actual market condition, and no expected economic variable is involved in these rates."
+25,Long-term interest rates are higher than short-term rates. This reflects a belief that:,short-term rates are expected to fall.,short-term rates are expected to rise.,short-term rates are expected to remain the same.,the Bank of Canada is undergoing a change in policy.,B,"The correct answer is
+b. short-term rates are expected to rise.
+It is correct because it reflects that the interest rates on investment, bonds, securities, and other financial securities in the long term are higher than the interest rates in the short term. So, the investors and public expectations that short-term interest rates will rise in the future.
+Reason for incorrect answers:
+Option a. is incorrect because if long-term interest rates are higher than short-term interest rates, they will not be expected to fall in the future.
+Option c. is incorrect because short-term rates will not be expected unchanged in the future if long-term interest rates are higher.
+Option d. is incorrect because investors and the public will not expect banks to change their policy regarding interest rates.",Interest: The interest is the amount that is charged on the principal amount or other assets. The lender or provider earns the interest on its investment. The interest rates can vary in the short-run and long run.
+26,"Although IRP tends to hold, it may not hold precisely all the time due to _____.","transactions costs, like the bid ask spread.",asymmetric information.,capital controls imposed by governments.,both a) and c),D,"Interest rate parity (IRP) ensures that an investor can receive the same return by investing in different countries.  To see how it works, consider the following example.  Suppose that Japanese investors can earn 1% on risk free government securities, while US investors can earn 5% on Treasury bonds.  This leads to an influx of Japanese investors into the U.S. market.  Initially they purchase some U.S. dollars.  When they receive their payout, however, they sell 5% more U.S. dollars than they originally bought.  This leads to a downward pressure on the value of the dollar.  Due to the depreciation of the dollar, after converting the dollars back to Japanese yen, the return of Japanese investors should still be equal to 1%.
+The correct answer is D.
+Both A and C are correct.
+A is correct because IRP only holds if arbitrageurs can take advantage of interest rate imbalances.  If investors can earn a higher return in a foreign country, but cannot take advantage of this opportunity due to transaction costs, IRP may not hold precisely.
+B is incorrect because investors have access to the same information.
+C is correct because artificial limits on the movement of capital may prevent arbitrageurs from operating in some countries, which may cause IRP to fail.","Interest Rate Parity: Interest rate parity is a condition in Economics, which states that an investor can receive the same return by investing in his/her home country as the return he/she can expect in other countries.  This condition is also known as the International Fisher Effect."
+27,The annual interest rate imposed as a result of underpayment is:,long-term rate plus three percentage points,short-term rate plus four percentage points,compounded monthly,compounded daily,D,"The correct option is (d)
+.
+As a result of underpayment, a company is required to impose the annual interest rate which must be compounded daily for the purpose of producing higher returns. As the number of compounding periods increases, it will show an increase in the annual effective rate of interest. Compounding daily would produce higher returns than compounding monthly. And in this manner, underpayment would be covered by daily compounding the annual rate of interest.
+Hence, it is the correct option.","Accounting Tool An interest rate would be considered as an expense of a person or a company that has borrowed a loan from another party. In this manner, it would be an accounting tool that is recorded and reported by the borrower as accrued liabilities in the balance sheet."
+28,According to the international fisher relationship the economy that has the higher expected rate of inflation will _____.,Have the higher real rate of interestb. Have a lower real rate of interestc. Have the higher nominal rate of interestd. Have the lower nominal rate of interest,,,,C,"According to the international Fisher relationship the economy that has the higher expected rate of inflation will
+(c) have the higher nominal rate of interest.
+The international Fisher relation is an economic theory that describes the expected disparity between the rate of exchange of two currencies is equal to the difference between nominal interest rates of countries. According to this relationship, the economy that has the higher expected inflation rate will have a higher nominal interest rate, causing currency depreciation against the currency of other nations.","Interest Rate: An interest rate is the amount of money charged by a lender to a borrower as a percentage of the sum borrowed. Interest rates are usually evaluated on an annual basis, and they can be fixed rate or variable rate, depending on the terms of the agreement."
+29,"When an open economy can access world savings at an interest rate below the domestic interest rates, we expect the country to:",run a current account surplus and a capital account deficit.,run a current account deficit and a capital account surplus.,run both a current account surplus and a capital account surplus.,run both a current account deficit and a capital account deficit.,B,"The correct option is b. run a current account deficit and a capital account surplus.
+Investors can get a higher return on domestic investments as this economy provides a higher interest rate than the world rates. This would cause the capital account under the BOP to face a surplus as more and more investors increase their capital flows into the domestic economy. This also causes the domestic currency to appreciate in contrast with the other world currencies and command more foreign goods. This would increase the import demand by domestic consumers. At the same time, the exports of this economy would become relatively expensive for foreign consumers, causing a fall in their demand. This causes the current account of the BOP to experience a deficit state.
+Reasons for incorrect options:
+Option a. is incorrect because due to a higher domestic interest rate, the economy will experience a surplus in the capital account and a deficit in the current account.
+Both options c. and d. are incorrect as the two accounts need to move in opposite directions to balance out the BOP statement of an economy.","Balance of Payments: The Balance of Payments maintains the record of trade transactions of a country with its trading partners. There are different accounts like the current account and capital account under which different types of transactions are recorded. Just like the GDP, the BOP records only those transactions which are conducted in a particular period."
+30,"You have access to $200,000. One year interest rate in USA is 4%; one year rate in Mexico is 9%; spot rate for peso is $1.50/Peso; one year forward rate is $1.41/Peso. What is the Covered rate of return from USA point of view?",3.88%,1.73%,2.46%,5%,D,"Covered arbitrage involves making an investment in another currency and fixing the forward exchange rate, which will be used to convert the proceeds from the investment back to the home currency.  The U.S. investor starts with a $200,000 investment and converts that into Pesos:
+Investment in Pesos = Investment in USD / Spot exchange rate
+Investment in Pesos = 200,000 / 1.5
+Investment in Pesos = 133,333 Pesos
+This amount is invested to earn a 9% return in Mexico:
+Proceeds in Pesos = Investment in Pesos * (1 + Mexican interest rate)
+Proceeds in Pesos = 133,333 * (1 + 0.09)
+Proceeds in Pesos = 145,333 Pesos
+The final step for the investor is to convert the proceeds back to USD:
+Proceeds in USD = Proceeds in Pesos * Forward exchange rate
+Proceeds in USD = 145,333 * 1.41
+Proceeds in USD = $204,919
+The formula we can use to find the percentage return of the investor is:
+{eq}Rate \ of \ return=\dfrac{Proceeds \ USD}{Investment \ USD}-1\\
+
+Rate \ of \ return=\dfrac{204,919}{200,000}-1\\
+
+Rate \ of \ return=2.46\%\\
+
+{/eq}
+The correct answer is c.",Rate of Return: The rate of return from the point of view of an investor is the percentage change in the value of the investment.  It is calculated by subtracting one from the ratio of the investment proceeds to the amount invested.
+31,When real interest parity holds:,nominal interest rates are equal all over the world.,real interest rates are equal across nations with different currencies.,real interest rates on dollar assets are equal but not for all currencies.,"real interest rates will follow a pattern of convergence, but equilibrium will never occur.",B,"The correct answer is
+b. real interest rates are equal across nations with different currencies
+.
+Real interest rate parity refers to a circumstance where both uncovered interest rate parity and purchasing power parity are true, revealing an association among real interest rates, where differences in anticipated real interest rates indicate variations in the actual exchange rate. The parity state hints that real interest rates will be equal amongst nations and capital movement will lead to capital flows that remove arbitrage chances. On the other hand, the real interest rate refers to an adjusted interest that eliminates inflation's effects to depict the actual cost of assets to a borrower and the actual produce to an investor or the creditor. Therefore, despite the currency differences between various nations, real interest rates are equal.","Interest Rate Parity.: Interest rate parity refers to a no-arbitrage circumstance representing a balance where stockholders will be unconcerned about the interest rates accessible on bank deposits within two or more nations. However, the circumstance is not always factual, allowing for possible chances to make profits from covered interest arbitrage."
+32,You observe the following information:,GBP is expected to appreciate by 6%.,GBP is expected to depreciate by 6%.,GBP is expected to appreciate by 2%.,GBP is expected to depreciate by 2%.,D,"Let P stand for British pound, D for U.S. dollar, and r for interest rate.  According to the Interest Rate Parity (IRP) equation, the percentage, by which the pound is expected to appreciate (depreciate) is:
+{eq}Pound \ change = \dfrac{1+r_{D}}{1+r_{P}}-1\\
+
+Pound \ change = \dfrac{1+0.04}{1+0.06}-1\\
+
+Pound \ change = -1.89\%\\
+
+{/eq}
+The correct answer is d.","International Fisher Effect: International Fisher effect is another name used for the interest rate parity relationship.  According to this effect, interest rates in two different countries affect the currency exchange rate between them."
+33,"Assume that the current one-year rate is 6%, and the two-year rate is 10%. Given this information, the one-year rate expected one year from now is:",7%.,4%.,6%.,14%.,D,"The answer is d).
+We can use the expectation theory to answer this question. According to the unbiased expectation theory, the 2-year rate is the average of the 1-year rate now and the 1-year rate one year from today, i.e.,
+10% = (6% + 1-year rate one year from today) / 2
+20% = 6% + 1-year rate one year from today
+1-year rate one year from today = 14%","Expectation Theory: Expectation theory is an economic theory of the term structure of interest rate. The term structure of interest rate describes how interest rate differ across different terms, holding risk constant."
+34,Generating exchange rate forecasts with the fundamental approach involves:,looking at charts of the exchange rate and extrapolating the patterns into the future,estimation of a structural model,substituting the estimated values of the independent variables into the estimated structural model to generate the forecast,both b) and c),A,"The answer is D. both b) and c).  This approach entails consideration for the underlying factors that drive exchange rates and the utilization of a model to shape a sophisticated forecast of their impact.  All of this is fundamental in nature.  Answer choice A. is inappropriate, because it reflects a technical, rather than fundamental, approach.","Exchange Rate Forecast: An exchange rate forecast is an estimate of a paired currency quote for some future period.  It can be developed in many ways, but most forecast methodologies show consideration for the current spot rate and forward market quotes."
+35,"When firms invest less because people are saving less, it is called the:",international trade effect.,wealth effect.,interest rate effect.,investment effect.,C,"The correct option is
+c. Interest rate effect
+.
+In the loanable funds market, a decline in savings makes a decline in the supply of loanable funds. Therefore, by keeping the demand for loanable funds the same, a decline in the supply of loanable funds causes a rise in the level of interest rate.
+Furthermore, a rise in the interest rate is an indicator of the decline in the quantity demanded of loanable funds. As a result, the existing level of investment in the economic decline. This whole process is known as the interest rate effect.","Saving: In economics, savings refers to the fraction of income that persons do not use to meet their spending in the current period. Rather, it is income that is used to meet the future demand of the person."
+36,The profit-motivated purchase and sale of interest-paying securities denominated in different currencies is called _____.,currency conversion,currency hedging,interest arbitrage,interbank interest rates,C,"Correct Answer: C) Interest arbitrage
+.Expalnation:
+Arbitrageurs can make riskless profits by borrowing money in cheaper currency and inventing in costlier, using the forward market to lock on profit. Interest rates differ from one country to another country, which creates an opportunity for investors. By purchasing foreign currency with a domestic currency, investors can profit from the difference between the interest rates of two countries. The process of borrowing in one currency and simultaneously investing in another currency, with the exchange risk hedge in the forward market is called interest coverage arbitrage.","Foreign Exchange Risk: Foreign Exchange risk results when the domestic currency value of assets, liabilities, or operating incomes, becomes variable in response to unexpected changes in the exchange rate. Foreign exchange risk can be hedge by different methods like forward contract, Future contract, interest coverage arbitrage, etc."
+37,"Assuming covered interest parity holds, if {eq}i =8
+
+{/eq}%, {eq}i^*=10
+
+{/eq}%, {eq}e=1.7
+
+{/eq}, what does the forward exchange rate equal?",1.67,1.32,1.18,1.78,A,"Under covered interest parity, the formula for the forward exchange rate is given by
+{eq}i = i^* + \dfrac{F - e}{e}
+
+{/eq}
+where:
+{eq}i
+
+{/eq} is the domestic interest rate
+{eq}i^*
+
+{/eq} is the foreign interest rate
+{eq}F
+
+{/eq} is the forward exchange rate
+{eq}e
+
+{/eq} is the spot exchange rate between domestic and foreign currency
+Plugging the given numbers and solving for {eq}F
+
+{/eq}, we get:
+{eq}\dfrac{F - e}{e} = i - i^*
+
+{/eq}
+{eq}\dfrac{F - 1.7}{1.7} = - 2%
+
+{/eq}
+{eq}\dfrac{F - 1.7}{1.7} = - 0.02
+
+{/eq}
+{eq}F - 1.7 = - 0.034
+
+{/eq}
+{eq}F = 1.666
+
+{/eq}
+Thus, assuming covered interest parity holds, if {eq}i =8
+
+{/eq}%, {eq}i^*=10
+
+{/eq}%, {eq}e=1.7
+
+{/eq}, the forward exchange rate equals
+a. 1.67",Covered Interest Parity: The covered interest parity refers to a condition in the foreign exchange markets where the variation in interest rate between the foreign and domestic currency of two countries is equal to the percentage variation of the spot and forward exchange rate. This condition holds on the assumption of no-arbitrage for the forward contract.
+38,The interest parity condition indicates that the domestic interest rate must be equal to:,the expected rate of appreciation of the domestic currency.,the foreign interest rate.,the foreign interest rate minus the expected rate of appreciation of the foreign currency.,the expected rate of depreciation of the domestic currency.,C,"The answer is c).
+According to interest rate, we have:
+(1 + domestic interest rate) = (1 + foreign interest rate) * spot exchange rate rate / forward exchange rate
+Differentiating both sides with respect to time, we have:
+domestic interest rate = foreign interest rate  - percentage change in exchange rate",Interest Rate Parity: Interest rate parity is an equilibrium condition that relates interest rate to exchange rates between two countries. The covered version of interest rate parity makes uses of future contracts.
+39,"Assume that annual interest rates in the United States are 4 percent, while interest rates in France are 6 percent.","According to IRP, what should the forward rate premium or discount of the euro be?","If the euro's spot rate is $1.10, what should the one-year forward rate of the euro be?",,,A,"Given information:
+Annual USD interest rate = {eq}R_{USD}{/eq}= 4%
+Annual euro interest rate = {eq}R_{EUR}{/eq}= 6%
+Time to maturity = 1 year
+Solution:
+Sub part a:
+Forward price formula:
+Forward price F= {eq}\displaystyle S* e^{( R_{USD} - R_{EUR}  ) *t}
+
+{/eq}
+Forward premium/discount is the ratio of (F-S) and S which is equal to F/S -1
+Forward premium/discount = {eq}\displaystyle  \frac {F}{S} -1  = e^{( R_{USD} - R_{EUR}  ) *t} - 1
+
+{/eq}
+Substitute the given values :
+Forward premium/discount = {eq}\displaystyle  e^{( 4\% - 6\%  ) * 1} - 1
+
+{/eq} = -0.019801327 = -0.1.98%
+Since the value is negative, forward rate is trading at a discount.
+Answer: The forward rate discount of the euro is  0.1.98% (since we used the word discount we removed the negative sign)
+Sub part b:
+We will use the forward price formula to calculate the forward price.
+Forward price F= {eq}\displaystyle S* e^{( R_{USD} - R_{EUR}  ) *t}
+
+{/eq}
+Substitue S = $1.10/EUR in the formula:
+Forward price F= {eq}\displaystyle 1.1* e^{( 4\%- 6\%  ) *1} = $1.0782 / EUR
+
+{/eq}
+Answer: The the one-year forward rate of the euro is $1.0782 / EUR",Currency Forward Rates and Premium/Discount Currency forward rates are calculated using the interest rates of both the countries involved to avoid and riskless profit/ arbitrage opportunities. This is called as the interest rate parity. The forward rate is said to be at a premium if it is higher than the spot rate else it is said to be at a discount.
+40,An increase in the interest rate in the United States but not in the European Monetary Union (EMU) will lead to:,a dollar depreciation,a dollar appreciation,the dollar/euro exchange rate to remain unchanged,any of the above,A,"The answer is  A).
+According to the interest rate parity, a country with an increase in interest rate will see its currency depreciate. Thus, if interest rate in the United States increases, U.S. dollars will depreciate against the Euro.",Interest Rate Parity: Interest rate parity is an equilibrium condition for exchange rates between two currencies. The two versions of interest rate parity are covered interest rate parity and uncovered interest rate parity.
+41,"Assuming uncovered interest parity holds, if the {eq}e=2.45
+
+{/eq}, {eq}i=6 {/eq}% and {eq}i^*=8
+
+{/eq}%, then the expected spot exchange rate equals to _____.",2.20,2.40,2.62,2.88,B,"The correct answer is b) 2.40.
+The calculation to determine the expected spot exchange rate under uncovered interest parity is given below:-
+{eq}\begin{align*}
+
+{e_{expected\;spot}} &= {e_{spot}}\frac{{\left( {1 + i} \right)}}{{\left( {1 + i*} \right)}}\\
+
+&= 2.45\dfrac{{\left( {1 + 0.06} \right)}}{{\left( {1 + 0.08} \right)}}\\
+
+&= 2.45\dfrac{{\left( {1.06} \right)}}{{\left( {1.08} \right)}}\\
+
+&= 2.40
+
+\end{align*}
+
+{/eq}",Uncovered Interest Parity: The uncovered interest parity is a part of financial theories assuming that a higher interest rate leads to depreciation in a country's currency relative to the foreign currency of another country with a lower interest rate. An investor earns no extra profits by taking advantage of foreign exchange rate differences.
+42,What happens if IRP fails to hold?,pressure from arbitrageurs should bring exchange rates and interest rates back into line.,it may fail to hold due to transactions costs.,it may be due to government-imposed capital controls.,all of the above,D,"Interest rate parity (IRP) ensures that an investor will receive the same return by investing abroad as the return he/she can obtain at home.  In certain scenarios, IRP can fail to hold.
+A. is correct. If an investor can receive a higher return for the same amount of risk by investing abroad, that investor will choose to do that.  Thus, arbitrage pressure from investors from different countries ensures that investment return is the same in all countries.
+B. is correct.  If there are sizable transaction costs, arbitrageurs may fail to correct the imbalance of interest rates (or returns) in different countries.
+C. is correct.  Some governments may limit foreign capital by imposing capital controls.  If so, arbitrageurs will not be able to operate freely in such countries, so IRP may fail to hold.
+The correct answer is D.
+because all answers are correct.","IRP: Interest rate parity (IRP) is an equilibrium condition in financial markets.  According to Interest Rate Parity, an investor in one country will receive the same return per unit of risk regardless of which country he/she decides to invest in.  This is true as long as we measure the return in the investor's home currency."
+43,"Everything else held constant, when the inflation rate is expected to rise, interest rates will __________; this result has been termed the __________.",fall; Keynes effect,fall; Fisher effect,rise; Keynes effect,rise; Fisher effect,D,"The correct answer is:
+D) rise; Fisher effect
+Everything else held constant, when the inflation rate is expected to rise, interest rates will
+rise
+; this result has been termed the
+Fisher effect
+The fisher effect was developed by an economist known as Irving Fisher in 1930. Interest rates can be considered as nominal or real interest rates. The nominal interest rate is computed by adding the real interest rate and the inflation rate. The Fisher effect explains the relationship between the inflation rate and the nominal interest rate and is a crucial macroeconomics theory. It states that raising nominal rates causes inflation to fall and its based on the assumption that the real interest rate remains constant.",Interest rates and Inflation rate: Interest rates and inflation rate are part of the macroeconomic variables meaning they impact the performance of the whole economy. Interest rate is considered to be the price of loanable funds and it can also refer to the gain earned by savers. The inflation rate is the increase in the price levels of commodities and services in an economy.
+44,The claim that increases in the growth rate of the money supply increase nominal interest rates but not real interest rates is known as the:,Friedman effect,Hume effect,Fisher effect.,none of the above is correct,C,"The correct answer is option C. Fisher effect.
+The Fisher effect is the theory that depicts how inflation and both real interest rate and nominal interest rate are related. According to the theory, he stated that growth of money increase the nominal interest rate and doesn't impact the real interest rate.
+Option A is an incorrect option. The Friedman effect is the one that deals with decisions regarding the social responsibility that rests on the shareholders of the firm. This doesn't have a relation with interest rates or money supply.
+Option B is also incorrect. The Hume effect refers to the relation between the objects of comparison. So option b is also a wrong option.","Nominal Interest Rate: The interest rate, which is calculated without adding the inflation rate, is known as the nominal interest rate. The central banks of a nation set the nominal interest rates for a short period of time."
+45,"Suppose the current exchange rate is $1 buys .8474Euro, and key interest rates in the US are at 1% while they are at 3.5% in Europe.","If my stock in the European stock market rises by 20%, what movement would need to occur to cause me to lose money on my transaction (when accounted for in dollars the term in question is 1 year)?","If the US Federal Reserve raises interest rates, how would you expect the Euro to move (appreciate or depreciate)?",,,A,"A. In one year, your real return on the investment, i.e., return denominated in U.S. dollars, depends on both the nominal return on the stock as well as the changes in exchange rate. Specifically, if U.S. dollars appreciates over the next year, then your stock return will be worth less in terms of U.S. dollars. Given your nominal return is 20%, your real return will be negative (i.e., lose money) if U.S dollars appreciates more than 20% over the next year.
+B. According to the Interest rate parity, a country with a higher nominal interest rate is expected to depreciate against other currency. Therefore, if the Federal Reserve raises interest rates, U.S. dollars are expected to depreciate against the Euro next year.","Return on Foreign Asset: When you invest in foreign assets using U.S. dollars, then your real returns, denominated using U.S. dollars, depends on both the nominal rate of return on the asset as well as changes to exchange rate. A depreciated U.S. dollar would reduce the real returns."
+46,"Everything else held constant, when the inflation rate is expected to rise, nominal interest rates will _____; this result has been termed the _____.",rise; Keynes effect,fall; Fisher effect,fall; Keynes effect,rise; Fisher effect,D,"The correct option is
+d. Rise; Fisher effect
+.
+Mathematically, the nominal interest rate can be estimated as
+Nominal Interest Rate = Real Interest Rate + Inflation Rate
+Thus, when the inflation rate is expected to rise, it will lead to a rise in the nominal interest rate. This is known as the Fisher effect.",Inflation Rate: The term inflation rate is a macroeconomic concept. It depicts the weighted average rise in the price of bundles of products and services as compared to the previous period or base period.
+47,"If the interest rate on two currencies is different, but the currency with the lower interest rate is expected to appreciate by the difference in the interest rates, there is a condition of:",uncovered interest parity,fully hedged positions,,,A,"The correct option is a. uncovered interest parity.
+It is correct because uncovered interest parity describes the situation where the difference between two countries' interest rates will be equal to the change in foreign exchange rates of the currency. Uncovered interest parity assumes that the capital market is efficient enough and involves predicting future rates.
+Reason for incorrect answer:
+Option b. is incorrect because it reduces the total deposits to zero or foreign currency risk management is zero and is not concerned with the expected interest rate.","Exchange Rate: The exchange rate is the rate at which we define one currency's value for exchanging another currency. In the global market, every nation's currency has a different value. For promoting free trade and liberalization, exchange rates are required for comparing one currency value to another one."
+48,Exchange Rates,Is the Australian dollar expected to get stronger or weaker?,What do you think about the relative inflation rates in the United States and Australia?,What do you think about the relative nominal interest rates in the United States and Australia? Relative real rates?,,D,"The current exchange rate means one can obtain 1.4000 AUD in exchange for 1.0000 USD.
+Part a.
+If it is expected to rise by 10%, it is expected to move to 1.5400 AUD per 1.0000 USD (1.40000 * 1.10 = 1.54000).  This means the AUD is expected to grow weaker relative to the USD.  In other words, the USD will be able to purchase a greater amount of AUD in the future.
+Part b.
+Given the expectation, the inflation rate in Australia is likely to be higher than the inflation rate in the United States.  The relatively higher rate of inflation is eroding the value of the AUD relative to the USD.
+Part c.
+In order to compensate for the higher rate of inflation, Australia is likely to have higher nominal interest rates than the United States.  However, on a real basis (inflation adjusted), the countries rates are likely to be the same.  This is consistent with the notion of interest rate parity.","Interest Rate Parity: Interest rate parity is an economic theory that asserts that differences in the nominal interest rates in two different countries is attributable to differences in expected rates of inflation, whereby the nation with a higher rate of inflation will necessarily have a higher nominal rate of interest to compensate for its more quickly deteriorating currency."
+49,"If the interest rate in the US is 5% for next year, and the interest rate in the UK is 8% for next year, then the International Fisher Effect suggests that:",The pound is expected to depreciate against the dollar by about 3%.B. The pound is expected to appreciate against the dollar by about 3%.C. The dollar is expected to appreciate against the pound by about 3%.D. The pound is neither expected to depreciate or appreciate against the dollar.E. Both A and C are true.,,,,A,"The correct answer is
+E. Both A and C are true.
+A. The pound is expected to depreciate against the dollar by about 3%.
+C. The dollar is expected to appreciate against the pound by about 3%.
+According to the International Fisher Effect (IFE), a country with a higher interest rate will have higher inflation. This will cause the higher interest rate currency to depreciate against the lower interest rate currency. In this case, the UK has a higher interest rate of 8% and the US has an interest rate of 5%. So, the dollar is expected to appreciate by 3% compared to the British pound.",International Fisher Effect: The International Fisher Effect explains the variations in nominal interest rates among various countries can be used to anticipate the changes in the exchange rates.  Irving Fisher developed this theory in 1930.
+50,"If the spot rate is $1.20, then the dollar-denominated (riskless) return on Euro deposits using a forward cover is:",$ 1350.65,$808.50,$ 800.80,$1363.64,C,"The answer is C).
+Here are the missing information:
+Consider a U.S. investor with $1,000. Assume that the U.S. interest rate is 5%, the European interest rate is 4%, and the (one-year) forward exchange rate is $0.924
+If you deposit $1,000, which could convert to (1,000 / 1.20 euros at the spot rate. The European interest rate is 4%, and the forward exchange rate is 0.924, thus the risk-free return is:
+(1,000 / 1.2) *(1 + 4%) * 0.924 = 800.8",Forward Exchange Rate: The forward exchange rate is the nominal rate of exchange between two currencies. The rate dictates the rate at which one currency can exchange for another one on a future date.

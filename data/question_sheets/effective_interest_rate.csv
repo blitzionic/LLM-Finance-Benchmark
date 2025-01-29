@@ -1,0 +1,646 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,A loan that compounds interest monthly has an EAR of 14.40 percent. What is the APR?,13.53 percent,13.59 percent,13.96 percent,14.07 percent,A,"Given information:
+EAR = 14.40%
+Number of compounding periods (n) = 12
+Note:
+The number of compounding periods is 12 as the loan is compounding monthly, resulting in 12 months of compound interest.
+The annual percentage rate (APR) can be calculated using the information of the equivalent annual rate (APR) and the number of compounding periods in the following way:
+{eq}\begin{align*}{\rm{APR}} &= \left[ {\left( {{{\left( {1 + {\rm{EAR}}} \right)}^{\frac{1}{{\rm{n}}}}}} \right) - 1} \right] \times {\rm{n}}\\ &= \left[ {\left( {{{\left( {1 + 14.40\% } \right)}^{\frac{1}{{12}}}}} \right) - 1} \right] \times 12\\ &= \left( {1.01127 - 1} \right) \times 12\\ &= 0.1353\end{align*} {/eq}
+Therefore, the APR of the loan is 0.1353 or 13.53%.
+Hence, the correct answer is option a.",Annual Percentage Rate: The annual percentage rate showcases the yearly rate at which an individual will receive interest in case of loan is given or needs to pay it if a loan is taken. It can be used for mortgages or loans.
+2,Which of the following loan terms would result in the lowest annual cost?,"4%, compounded daily.","4%, compounded monthly.","4%, compounded quarterly.","4%, compounded annually.",D,"The answer is
+d. 4%, compounded annually.
+If a loan is offered with the compounding interest, a borrower should determine the effective annual interest rate on the loan, in which it reflects the true financing cost to the borrower.
+The more frequent interest is compounded, the higher the effective financing cost will be on a loan. Hence, the lowest annual cost should be associated with the annual compounding interest.",Effective Annual Interest Rate: The effective annual interest rate will be always higher than the annual percentage rate since it reflects the additional interest earnings on interest. That explains why investors will be more attracted to investments offered with the compounding interest.
+3,What is the effective annual rate for an APR of 15.90 percent compounded monthly?,16.03%,17.11%,16.99%,16.87%,B,"The effective annual rate is 17.11% (B).
+Proper explanation is shown below:
+{eq}Effective \ annual \ rate \ = \ \left ( 1 \ + \ \dfrac{APR}{12} \right )^{12} \ - \ 1
+
+\\
+
+Effective \ annual \ rate \ = \ \left ( 1 \ + \ \dfrac{15.90\%}{12} \right )^{12} \ - \ 1
+
+\\
+
+Effective \ annual \ rate \ = \ \left ( 1 \ + \ 1.325\% \right )^{12} \ - \ 1
+
+\\
+
+Effective \ annual \ rate \ = \ 1.1711 \ - \ 1
+
+\\
+
+Effective \ annual \ rate \ = \ 0.1711 \ or \ 17.11\%
+
+{/eq}",Effective Interest Rate: The effective interest rate can be defined as a total interest rate or the actual interest rate earned on an investment. The effective interest rate is calculated after considering the compounding and inflation.
+4,Your credit card company charges you 1.01 percent per month. What is the annual percentage rate on your account?,12.12 percent,9.98 percent,12.76 percent,10.99 percent,A,"The correct option is
+option a. 12.12 percent.
+Given information:
+Monthly rate = 1.01 percent
+The APR (annual percentage rate) is calculated by multiplying the monthly rate by 12.
+Calculation:
+{eq}\begin{aligned}
+
+\text{APR}
+
+&=\text{Monthly}\ \text{rate}\times 12 \\
+
+&=1.01\%\times 12 \\
+
+&=12.12\%
+
+\end{aligned}
+
+{/eq}
+The APR is 12.12%.","Credit Card Charges: Credit card charges refer to the costs associated with credit cards. These charges vary from one financial institution to another. Credit card charges may include different fees, like annual fees, interest charges, etc."
+5,The effective annual rate of 5% compounded monthly is approximately 5.12%.,TRUE,FALSE,,,A,"Given information:
+Annual rate: 5%
+Compounding frequency: Monthly (12 times a year)
+Determine the effective annual rate as follows:
+{eq}\begin{aligned} \text{Effective annual rate} &={{\left( 1+\frac{\text{Annual rate}}{\text{Compounding frequency}} \right)}^{\text{Compounding frequency}}}-1 \\ &={{\left( 1+\frac{5\%}{12} \right)}^{12}}-1 \\ &={{\left( 1+0.004167 \right)}^{12}}-1 \\ &=\text{1}\text{.0512}-1 \\ &=0.0512 \ or \ 5.12\% \end{aligned} {/eq}
+The calculated effective annual rate, as per the above formula, is approximately 5.12%, supporting the statement's accuracy. Therefore, the given statement is
+A. true
+.",Effective Annual Rate: The effective annual rate is a more precise measure of investment returns. It depicts that actual returns are higher than stated returns when compounding occurs more frequently.
+6,Calculate the effective rate:,5.50%,,5.25%,5.05%,C,"The correct option is
+option c. 5.25%
+.
+Calculation:
+{eq}\begin{aligned}   \text{Effective}\ \text{annual}\ \text{rate}&={{\left( 1+\frac{\text{Rate}\ \text{of}\ \text{interest}}{\text{Number}\ \text{of}\ \text{days}} \right)}^{\text{Number}\ \text{of}\ \text{days}}}-1 \\   &={{\left( 1+\frac{0.0512}{365} \right)}^{365}}-1 \\   &=0.05253\ \text{or}\ 5.25\%  \end{aligned}
+
+{/eq}","Rate Of Interest: The rate of interest means the percentage of the principal amount charged as the cost of borrowing that the borrower pays. It is a regular payment that can be due annually, monthly, semiannually, or daily."
+7,"Which of the following one-year, $1000 bank loans offers the lowest effective annual rate?","A loan with an APR of 6.3%, compounded monthly.","A loan with an APR of 6.3%, compounded annually, that also has a compensating balance requirement of 10.2% (on which no interest is paid).","A loan with an APR of 6.3%, compounded annually, that has a 1.3% loan origination fee.",,A,"Option (a) A loan with an APR of 6.3% compounded monthly
+is the correct answer
+Calculation:
+a)	Calculation for APR of 6.3% compounded monthly
+{eq}\begin{align*}
+
+{\rm\text{EAR}} &= {\left( {1 + \dfrac{{{\rm\text{APR}}}}{{{\rm\text{Time}}}}} \right)^{{\rm\text{Time}}}} - 1\\
+
+&= {\left( {1 + \dfrac{{0.063}}{{12}}} \right)^{12}} - 1\\
+
+&= 6.48\%
+
+\end{align*}
+
+{/eq}
+b)	Calculation for APR of 6.3% compounded annually.
+{eq}\begin{align*}
+
+{\rm\text{EAR}} &= {\left( {1 + \dfrac{{{\rm\text{APR}}}}{{{\rm\text{Time}}}}} \right)^{{\rm\text{Time}}}} - 1\\
+
+&= {\left( {1 + \dfrac{{0.063}}{{0.102}}} \right)^1} - 1\\
+
+&= 61.7\%
+
+\end{align*}
+
+{/eq}
+c)	Calculation for APR of 6.3% compounded annually.
+{eq}\begin{align*}
+
+{\rm\text{EAR}} &= {\left( {1 + \dfrac{{{\rm\text{APR}}}}{{{\rm\text{Time}}}}} \right)^{{\rm\text{Time}}}} - 1\\
+
+&= {\left( {1 + 0.063 + 0.013} \right)^1} - 1\\
+
+&= 7.6\%
+
+\end{align*}
+
+{/eq}",Effective Annual Rate: EAR or Effective Annual Rate represents an accurate interest rate on an investment which differs as per compounding factor. A loan borrower uses EAR to compares the different interest rates a financial institution offers for providing loans so that an effective decision can be made.
+8,Which of the following gives the largest effective rate (APY)?,18.6% compounded weekly,18.6% compounded monthly,18.6% compounded daily,18.6% compounded yearly,C,"The answer is
+c.18.6% compounded daily.
+Using the same introduced interest rate, the more frequent interest is compounded, the higher effective interest rate will be. Thus, the daily compounded interest rate will generate the highest APY in this case.","Annual Percentage Yield: The annual percentage yield is an effective interest rate earned on an investment, considering the impact of the compounding interest. The annual percentage yield will be higher than the introduce interest rate."
+9,"What effective annual interest rate is equal to a nominal 8% per year, compounded continuously?",8.156,8.2281,8.3287,8.5644,C,"The correct answer is option
+c. 8.3287%
+.
+The effective annual interest rate (EAR) for continuous compounding is given by:
+= {eq}e ^ {\text{APR}}   - 1
+
+{/eq}
+where
+e = Mathematical constant = 2.718
+APR = Annual percentage rate = 8%
+{eq}= e ^ {8\%} -1
+
+{/eq}
+{eq}= (2.718) ^ {0.08} - 1
+
+{/eq}
+{eq}= 1.08328 - 1
+
+{/eq}
+{eq}= 0.08328
+
+{/eq}
+{eq}= 8.328\%
+
+{/eq}",Effective Annual Rate: The effective annual rate (EAR) on a financial asset represents the interest rate derived after considering the compounding intervals. The EAR value increases with an increase in the frequency of compounding.
+10,Another name for the effective interest rate is the market interest rate.,TRUE,FALSE,,,A,"The given statement is
+true.
+The effective interest rate (EIR) is the rate of interest or usage that is payable by a borrower on the amount borrowed. It is calculated after considering the effect of compounding, its frequency, additional fees, and the actual repayment and interest paid. In common terminology, the EIR is also known as the market rate or yield to maturity. The other rate is the nominal rate, or quoted rate, for the loan. This is the rate of interest that is usually stated explicitly in the borrowing agreements. However, when other factors are taken into account, the nominal rate and EIR differ. The investor can compare the EIR or market rate with the quoted rate to make informed decisions.
+For example, suppose the borrower is quoted a 10% p.a. rate but the interest is compounded twice a year. The EIR will be 10.25%.
+Suppose:
+Number of periods: 2
+Nominal rate: 10%
+EIR is calculated as follows:
+{eq}\begin{aligned} \text{EIR} &={{\left( 1+\frac{\text{Nominal Rate}}{\text{Number of periods}} \right)}^{\text{Number of periods}}}-1 \\ &={{\left( 1+\frac{10\%}{2} \right)}^{2}}-1 \\ &=10.25\% \end{aligned} {/eq}",Interest: Interest is the additional amount that is payable or receivable on a sum of money. It is the way to compensate the lenders for the risk they are taking by lending money and the savers for deferring compensation on their money.
+11,"Davis Corporation sells $100,000, 12%, 10-year bonds for 103 on January 1. Compute the semi-annual interest expense recorded on July 1 using the interest method. The market rate is 8%.","$12,000 ","$8,240 ","$6,000 ","$4,120 ",D,"The correct option is D. $4,120
+Working note:
+Date
+Interest payment at stated rate
+Interest expenses at market rate
+Amortization of premium
+Credit balance in bond premium
+Credit balance in bond payable
+Book value of bonds payable
+1 Jan 2011
+0
+0
+0
+$3,000
+$100,000
+$103,000
+1 July 2011
+$6,000
+$4,120
+($1,880)
+$1,120
+$100,000
+$101,120",Market Interest Rate: The rate of interest which is currently prevailing in the market that will be provided to the depositor and will be charged on the loan is known as market interest rate. Such interest rates fluctuate according to the various factors of the market.
+12,"The face value of a simple discount note is $17,000. The discount is 4% for 160 days. Calculate the effective rate (to the nearest tenth percent).",4.30%,1.80%,4.10%,2.10%,C,"The correct answer is:
+C) 4.1%
+The effective annual rate is calculated as:
+{eq}EAR=\left(1+\dfrac{i}{n}\right)^n-1
+
+{/eq}
+Where:
+{eq}i
+
+{/eq} is the nominal interest rate and,
+{eq}n
+
+{/eq} is the number of compounding times in a year.
+In our question, we have a 4% discount rate paid for 160 days. Assuming there are 360 days in a year, then the number of compounding times is:
+{eq}n=\dfrac{360}{160}=2.25
+
+{/eq}
+Therefore, the effective rate of interest is equal to:
+{eq}EAR=\left(1+\dfrac{0.04}{2.25}\right)^{2.25}-1\\[0.3cm]
+
+EAR\approx 0.0404\\[0.3cm]
+
+EAR\approx \boxed{\color{blue}{4.1\%}}
+
+{/eq}","Effective Annual Rate: In economics and in finance, the effective rate of interest is the real interest rate earned on an investment or paid on a loan when the interest is compounded. The nominal interest rate is converted into the effective annual rate after incorporating the effects of compounding."
+13,"What annual rate of return is earned on a $1,500 investment when it grows to $3,500 in ten years?",8.01%,2.33%,1.33%,8.84%,D,"The correct answer is option
+d. 8.84%
+.
+The annual rate of return is computed by:
+{eq}\begin{align*} &= (\dfrac{\text{Investment value in 10 years}}{\text{Initial investment}})^{\dfrac{1}{\text{Number of years}}} - 1 \\[0.3 cm] &= (\dfrac{\$3,500}{\$1,500}) ^ {\dfrac{1}{10}} - 1 \\[0.3 cm] &= 2.333 ^ {0.10} - 1 \\[0.3 cm] &= 1.0884 - 1 \\[0.3 cm] &= 8.84\% \end{align*} {/eq}",Annual Rate of Return: The annual rate of return on a given investment denotes the compounded annual growth rate over a particular time horizon. It averages out the fluctuations in the annual returns of each individual years.
+14,"Bork Corporation wishes to borrow {eq}\$100,000
+
+{/eq} for one year. It has the following alternatives available to it.","An {eq}8
+
+{/eq} percent loan on a discount basis with 20 percent compensating balances required.","A {eq}9
+
+{/eq} percent loan on a discount basis with 10 percent compensating balances required.","A {eq}10.5
+
+{/eq} percent loan on a collect basis with no compensating balance requirement.",,C,"Alternative (c)
+must be chosen as the effective interest rate of alternative c. is higher among the three given alternatives.
+Computation of effective interest rate of each alternative:
+Alternative a:
+{eq}\begin{align*}
+
+\text{Effective intererst rate}&=\dfrac{\text{Interest on loan}}{\text{Principal}-\text{Compensating balance}}\\
+
+&=\dfrac{\$100,000\times 8\%}{\$100,000-(100,000\times20\%)}\\
+
+&=\dfrac{\$8,000}{\$100,000-20,000}\\ &=10\%
+
+\end{align*}
+
+{/eq}
+Alternative b:
+{eq}\begin{align*}
+
+\text{Effective intererst rate}&=\dfrac{\$100,000\times 9\%}{\$100,000-(100,000\times10\%)}\\
+
+&=\dfrac{\$9,000}{\$100,000-10,000}\\ &=10\%
+
+\end{align*}
+
+{/eq}
+Alternative c:
+{eq}\begin{align*}
+
+\text{Effective intererst rate}&=\dfrac{\$100,000\times 10.5\%}{\$100,000}\\
+
+&=\dfrac{\$10,500}{\$100,000}\\ &=10.5\%
+
+\end{align*}
+
+{/eq}",Compensating Balance: A compensating balance refers to a minimum balance that a lender demands that the borrower maintain in the bank account for the approval of the loan. A percentage of the compensating balance in a loan makes the effective interest rate higher.
+15,Which of the following results in the highest effective annual rate?,an annual percentage rate of 7.1% compounded semiannually,an annual percentage rate of 7.2% compounded quarterly,an annual percentage rate of 7.3% compounded monthly,an annual percentage rate of 7.4% compounded daily,D,"The correct answer is:
+d. an annual percentage rate of 7.4% compounded daily
+The effective annual rate is calculated as
+{eq}EAR=\left(1+\dfrac{i}{n}\right)^n-1
+
+{/eq}
+Where
+i
+is the percentage annual rate and
+n
+is the number of compounding times in a year.
+As we can see, the EAR increases with the number of compounding times as well as the annual percentage rate. Therefore, since option
+d
+provides a higher annual percentage rate and the number of compounding times, it will give the highest effective rate of return.","Effective Annual Rate When the annual percentage rate (APR) is adjusted to incorporate the effects of compounding, we get the effective annual rate (EAR) which shows the true rate of interest."
+16,Which of the following equally risky investments offers you the highest return?,one that pays interest at 10 % quarterly,one that pays interest at 10 % monthly,one that pays interest at 10.2 % annually,one that pays interest at 9.6% daily (365-day basis),B,"The answer is
+B. one that pays interest at 10 % monthly.
+In this case, the effective annual interest rate of each investment should be determined. The highest return investment will have the highest effective rate of return.
+A.
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{Annual\:rate}{Frequency\:of\:compounding})^{Frequency\:of\:compounding} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{10\%}{4})^{4} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = 10.38\% {/eq}
+B. Correct.
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{Annual\:rate}{Frequency\:of\:compounding})^{Frequency\:of\:compounding} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{10\%}{12})^{12} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = 10.47\% {/eq}
+C.
+Due to the annual compounding interest, the effective rate of return is equal to the APR.
+EAR = APR = 10.2%
+D.
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{Annual\:rate}{Frequency\:of\:compounding})^{Frequency\:of\:compounding} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = \displaystyle (1 + \frac{9.6\%}{365})^{365} - 1 {/eq}
+{eq}Effective\:rate\:of\:return = 10.07\% {/eq}","Effective Annual Interest Rate: The effective annual interest rate includes the effect of the compounding interest, which reflects the true rate of return on investment. Hence, investors should compare investments' effective annual rates to decide which investment has the highest return."
+17,"You need $10,000 for 2 years and you go to your bank asking for a loan. The loan officer gives you the following options:","12% APR, yearly compounding","11.5% APR, semi-annually compounding","11% APR, monthly compounding",,C,"All other factors are constant and only the interest rate and the compounding frequency change. To determine the option to choose, estimate the effective annual rate for each option
+We need the APR (r) and the number of compounding periods (m)
+Option A)
+12% APR, yearly compounding
+r= 12%
+m =1
+{eq}\begin{align*}
+
+\ EAR & =( 1 + \dfrac{r}{m})^m -1 \\
+
+& =( 1 + \dfrac{0.12}{1})^1 -1 \\
+
+& = 1.12 - 1 \\
+
+& = 0.12\\
+
+&= 12\%\\
+
+\end{align*}
+
+{/eq}
+Option B)
+11.5% APR, semi-annually compounding
+r= 11.5%
+m =2
+{eq}\begin{align*}
+
+\ EAR & =( 1 + \dfrac{r}{m})^m -1 \\
+
+& =( 1 + \dfrac{0.115}{2})^2 -1 \\
+
+& = 1.1183 - 1 \\
+
+& = 0.1183\\
+
+&= 11.83\%\\
+
+\end{align*}
+
+{/eq}
+Option C)
+11% APR, monthly compounding
+r= 11%
+m =12
+{eq}\begin{align*}
+
+\ EAR & =( 1 + \dfrac{r}{m})^m -1 \\
+
+& =( 1 + \dfrac{0.11}{12})^{12} -1 \\
+
+& = 1.1157 - 1 \\
+
+& = 0.1157\\
+
+&= 11.57\%\\
+
+\end{align*}
+
+{/eq}
+Based on the effective annual rate of return, I would pick option C since it has the lowest EAR.","Effective Annual Rate : When presented with various loan offers, a person may choose the option that is most affordable. One method of assessing the options is based on payment or the cost of financing. The effective annual rate (EAR) calculates the true cost of a loan by factoring in the frequency of compounding. The EAR is often higher than the annual percentage rate (APR)."
+18,"Which of the following three banks would you place your deposit with? What would be the value of your savings of $10,000 be after 2 years with the selected bank?","Bank A: nominal rate of 12%, interest payable semi-annually","Bank B: nominal rate of 12%, interest payable quarterly","Bank C: periodic rate of 3.5%, this rate is for 3 months.",,C,"Effective annual interest rate formula:
+{eq}EAR = \displaystyle (1 + \frac{Nominal\:rate}{Compounding\:periods})^{Compounding\:periods} - 1 {/eq}
+Assume that interests will be reinvested in the same account immediately.
+Determine the EAR for an account from bank A:
+{eq}EAR_A= \displaystyle (1 + \frac{12\%}{2})^2 - 1 = 12.36\% {/eq}
+Determine the EAR for an account from bank B:
+{eq}EAR_B= \displaystyle (1 + \frac{12\%}{4})^4 - 1 = 12.55\% {/eq}
+Determine the EAR for an account from bank C:
+{eq}EAR_C= \displaystyle (1 + 3.5\%)^4 - 1= 14.75\% {/eq}
+Conclusion 1:
+An account from Bank C should be elected since it offers the highest EAR.
+Determine the account balance in bank C after 2 years:
+{eq}Account\:balance_2 = \displaystyle Initial\:deposit\times (1 + Periodic\:rate)^{Number\:of\;periods} {/eq}
+{eq}Account\:balance_2 = \displaystyle $10,000 \times (1 + 3.5\%)^{2\times 4} {/eq}
+{eq}Account\:balance_2 = \displaystyle $10,000 \times 1.31681 {/eq}
+{eq}Account\:balance_2 = $13,168.10 {/eq}
+Conclusion 2:
+An initial deposit of $10,000 will grow to $13,168.10 if it is deposited to an account in bank C.","Effective Annual Interest Rate: The effective annual interest rate (EAR) is a relevant measure to compare available interest-bearing investments since this annualized rate accounts for the effect of compounding interest. Hence, an investor should acquire an investment with the highest EAR."
+19,"When the total return on an investment is expressed on a per-year basis, it is called the:",capital gains yield,dividend yield,holding period return,effective annual return,D,"Option D) Effective annual return
+is the correct answer.
+Reason:
+Effective annual return is a type of financial tool that investors use to calculate the total return on the investments made into other financial securities and financial assets annually. An investor believes that the effective annual return depicts an accurate rate that an asset will yield to its owner over time by considering all market conditions.
+Reason for incorrect options:
+Option A is incorrect because capital gain calculates the change in stock price.
+Option B is incorrect because it determines the dividend paid in a year.
+Option C is incorrect because it indicates the duration of an asset an investor can hold to give maximum return.","Return: It is a term used for all the investments made by a value investor, a financial institution, government, or public when they expect a payback on their money. Each commodity yields a certain percentage of return."
+20,"Kenneth's Arrows and Bows borrow $15,000 for one year at 8% interest. What is the effective rate of interest if the loan is discounted?",8%,9.50%,8.70%,10.50%,C,"Given Information
+Interest rate (r) = 8% or 0.08
+Compounding years = 1
+Amount Borrows' = $15,000
+Determining interest payment below:
+{eq}\begin{align*}{\rm\text{Interest}}\,{\rm\text{payment}} &= \left( {{\rm\text{Principal}}\,{\rm\text{amount}} \times {\rm\text{Interest}}\,{\rm\text{rate}}} \right)\\ &= \left( {{\rm\text{\$ 15,000}} \times 0 \cdot 08} \right)\\ &= {\rm\text{\$ 1,200}}\\\end{align*} {/eq}
+Hence, the interest payment is calculated at $1,200.
+The Effective Interest rate on a discounted loan is calculated below:
+{eq}\begin{align*}{\rm\text{Effective}}\,{\rm\text{rate of interest}}&= \left( {\frac{{{\rm\text{Principal}}\,{\rm\text{amount}}}}{{\left( {{\rm\text{Principal}}\,{\rm\text{amount}} - \,{\rm\text{Interest}}\,{\rm\text{payment}}} \right)}}} \right) - 1\\ &= \left( {\frac{{\$ 15,000}}{{\$ 15,000 - \$ 1,200}}} \right) - 1\\ &= \left( {\frac{{\$ 15,000}}{{\$ 13,800}}} \right) - 1\\ &= 0 \cdot 087\,{\rm\text{or}}\,8.7\% \end{align*} {/eq}
+Therefore, the Effective Rate of Interest on which the loan is discounted is 8.7%. So,
+option (C)
+is correct.",Effective Interest Rate: The effective interest rate can be a useful tool to analyze various loan offers from different lenders; it allows borrowers to compare the actual cost of the loan rather than just the nominal interest rate.
+,,,,,,,,
+22,The effective annual rate for a certificate of deposit that pays 3.9% APR compounded monthly is closest to:,3.90%,3.97%,3.83%,4.04%,B,"As the compounding interval is monthly, the monthly interest rate is given by:
+{eq}= \dfrac{\text{APR}}{\text{Number of months in a year}}
+
+{/eq}
+{eq}= \dfrac{3.9\%}{12}
+
+{/eq}
+{eq}=  0.325\%
+
+{/eq}
+The effective annual rate (EAR) is given by:
+= {eq}\text{(1 + monthly interest rate)} ^ {\text{number of months in a year}} - 1
+
+{/eq}
+{eq}= (1 + 0.325\%) ^ {12} - 1
+
+{/eq}
+{eq}= (1.00325) ^ {12} - 1
+
+{/eq}
+{eq}= 1.0397 - 1
+
+{/eq}
+{eq}= 3.97\%
+
+{/eq}
+The correct answer is option
+b. 3.97%
+.",Effective Annual Rate: The interest rate for various financial assets may be considered from the standpoint of nominal interest or effective annual interest rate. The nominal interest rate is the stated interest rate whereas the effective interest rate is derived after considering the compounding interval.
+23,LoanShark LLC charges .85 percent interest per quarter. What rate of interest are its credit customers actually paying?,12.67 percent,1.69 percent,10.23 percent,3.44 percent,D,"Correct option is 3.44% (D).
+A proper explanation is shown below.
+{eq}Rate \ of \ interest \ = \ \left ( 1 \ + \ Interest \ per \ quarter \right )^{4} \ - \ 1
+
+\\
+
+Rate \ of \ interest \ = \ \left ( 1 \ + \ 0.85\% \right )^{4} \ - \ 1
+
+\\
+
+Rate \ of \ interest \ = \ 1.0344 \ - \ 1
+
+\\
+
+Rate \ of \ interest \ = \ 0.0344 \ or \ 3.44\%
+
+{/eq}",Effective Interest Rate: The effective interest rate is the actual interest rate that a borrower pays on a loan. The number of compounding performed during a financial year can affect the actual amount of interest.
+,,,,,,,,
+25,What is the effective annual rate of 14.9 percent compounded continuously?,15.62 percent.,15.84 percent.,16.07 percent.,15.59 percent.,C,"The correct answer is:
+C. 16.07 percent.
+With continuously compounded interest, the effective annual rate is calculated as
+{eq}EAR=e^i-1
+
+{/eq}
+Where {eq}i
+
+{/eq} represents the nominal interest rate.
+If the nominal rate is 14.9%, then the effective annual rate will be
+{eq}EAR=e^{0.149}-1\\[0.3cm]
+
+EAR=0.1607\\[0.3cm]
+
+EAR= \boxed{16.07\%}
+
+{/eq}",The Effective Annual Rate The affective annual rate represents the real interest rate on an investment account or on a loan when the nominal interest rate is adjusted to account for the effect of compounding.
+26,"What investment accumulates more interest, 15% compounded semiannually or 14% compounded daily?",The 15% option earns one percentage point more than the 14% option over a year.,The 15% option accumulates more over a year; it has an EAR of 15.5% as opposed to the 14% option which has an EAR of 15.0%.,They accumulate the same amount over a year.,The 14% option earns an EAR of 15% and is better than the 15% option with an EAR of 15.9%.,B,"The answer is
+b. The 15% option accumulates more over a year; it has an EAR of 15.5% as opposed to the 14% option which has an EAR of 15.0%.
+Determine the effective annual interest rate of each investment:
+{eq}EAR_{15\%} = \displaystyle (1 + \frac{I}{2})^2 - 1= (1 + \frac{15\%}{2})^2 - 1 = 15.56\% {/eq}
+{eq}EAR_{14\%} = \displaystyle (1 + \frac{I}{365})^{365} - 1= (1 + \frac{14\%}{365})^{365} - 1 = 15.02\% {/eq}
+The 15% option would generate a higher effective annual interest rate, in which investors will earn more interests with this option.","Effective Annual Interest Rate: The effective annual interest rate (EAR) is a relevant measure for investors in evaluating available interest-bearing investments. The EAR is determined on the annual basis, which eliminates the impact of investment maturities and the effect of compounding interest."
+27,The effective annual rate is less than the simple rate when we have monthly compounding.,TRUE,FALSE,,,B,"The statement is
+B) FALSE.
+The compounding interest concept assumes that original interests are reinvested in the same investment, which implies that the future value of an investment will be higher. So, the compounding interest will usually generate a higher effective annual interest rate compared to the use of simple interest.","Effective Annual Interest Rate: The effective annual interest reflects the true rate of return on investment with the effect of compounding. Thus, financial analysts should compare available investments by the effective annual interest rate, which is more relevant as it eliminates the effect of different compounding frequencies."
+28,"Which of the following one-year $1,000 bank loans offers the lowest effective annual rate?","A loan with an APR of 6%, compounded monthly.","A loan with an APR of 6%, compounded annually, that also has a compensating balance requirement of 10% (on which no interest is paid).","A loan with an APR of 6%, compounded annually, that has a 1% loan origination fee.",,C,"The answer is
+c. A loan with an APR of 6%, compounded annually, that has a 1% loan origination fee.
+Effective Annual Interest Rate:
+{eq}EAR = \displaystyle (1 + \frac{Nominal\:interest\:rate}{N})^N - 1 {/eq}, where
+N: Number of compounding periods in a year
+EAR: Effective annual interest rate
+a.
+{eq}EAR = \displaystyle (1 + \frac{6\%}{12})^{12} - 1 = 6.17\% {/eq}
+b.
+{eq}EAR = \displaystyle \frac{Nominal\:interest\:rate}{1 - Required\:percent\:of\:compensating\:balance} =\frac{6\%}{1 - 10\%} = 6.67\% {/eq}
+c.
+{eq}EAR = \displaystyle \frac{Nominal\:interest\:rate}{1 - Percent\:of\:origination\:fee} =\frac{6\%}{1 - 1\%} = 6.06\% {/eq}","Effective Annual Interest Rate: The effective annual interest rate (EAR) depicts the actual financing cost of a loan. The EAR accounts for the effect of the compounding interest, origination fees, and other related costs. In practice, a benchmarking of effective annual interest rates is more relevant than the comparison of nominal interest rates."
+29,"If the effective annual rate of interest is known to be 18% on a debt that has payments every two months, what is the annual percentage rate?",12.03%,20.43%,16.78%,15.68%,C,"The calculation for the annual percentage rate is shown below.
+Correct option is 16.78% (C).
+{eq}Annual \ percentage \ rate \ = \ No. \ of \ compoundings \ per \ year \ \times \ \left ( \left ( 1 \ + \ Effective \ annual \ rate \ of \ interest \right )^{\frac{1}{No. \ of \ compoundings \ per \ year}} \ - \ 1 \right )
+
+\\
+
+Annual \ percentage \ rate \ = \ 6 \ \times \ \left ( \left ( 1 \ + \ 18\% \right )^{\frac{1}{6}}  \ - \ 1 \right )
+
+\\
+
+Annual \ percentage \ rate \ = \ 6 \ \times \ \left ( 1.02796 \ - \ 1 \right )
+
+\\
+
+Annual \ percentage \ rate \ = \ 6 \ \times \ 0.02796
+
+\\
+
+Annual \ percentage \ rate \ = \ 0.1678 \ or \ 16.78\%
+
+{/eq}",Effective Interest rate: Compounding has a positive effect on the effective interest rate. If the number of compounding is done more than once during a financial year then the effective interest rate will be higher than the nominal interest rate.
+30,"An amortized, 3-year loan has annual payments and an effective annual rate of 14.56 percent. What is the APR?",13.09 percent,13.46 percent,13.90 percent,14.56 percent,C,"The correct answer is
+option c.13.90%
+APR and EAR are two different measures of interest rates that are frequently used in finance.
+APR is levied on credit loans or loans that include both interest rates and fees. Whereas, EAR is the actual annual rate of interest paid or received on the investment.
+Given information:
+EAR = 14.56%
+No of years = 3
+Calculate the annual percentage rate from EAR.
+{eq}\begin{aligned} \text{APR} &=n\times \left( {{\left( \text{EAR+1} \right)}^{\frac{1}{n}}}-1 \right) \\ &=3\times \left( {{\left( 0.1456+1 \right)}^{\frac{1}{3}}}-1 \right) \\ &=3\times \left( {{\left( 1.1456 \right)}^{\frac{1}{3}}}-1 \right) \\ &=3\times \left( 1.046304-1 \right) \\ &=3\times .046304 \\ &=.1389\text{ or 13}\text{.90 }\!\!\%\!\!\text{ } \\ \end{aligned} {/eq}
+Hence, the APR will be 13.90%.","Annual Percentage Rate: The annual percentage rate is the rate of interest that a borrower must pay to the lender on a non-compounding basis, typically on a loan or a credit card. It contains the fees as well as the stated interest rate on the loan."
+31,What is the effective annual rate of 13% compounded continuously?,13.00%,13.12%,13.48%,13.88%,D,"The effective annual rate of 13% compounded continuously is
+d. 13.88%
+.
+When it is said that interest is compounded continuously, that means the interest on the principal is compounded and added back to the account balance for an infinite number of periods. However, it's not common in the investment sector. Most of the securities provide interest compounded annually, semiannually, quarterly or monthly.
+When the nominal interest rate is compounded continuously, its effective annual rate can be calculated using the following formula:
+{eq}EAR = e^i-1 {/eq}
+Where,
+i = the stated or nominal interest rate compounded continuously = 13%.
+e = a mathematical constant having an approximate value of 2.7183.
+Therefore, the effective annual rate of 13% compounded continuously is calculated as follows:
+{eq}\begin{align*} EAR &= e^i-1\\ &=e^{0.13}-1\\ &=0.138828383\\ &=13.88\%\\ \end{align*} {/eq}The Answer is D.","Meaning of the Effective Annual Rate: Every investment security or loan carries a stated rate of interest which is called the nominal rate. The effective annual rate estimates the actual interest earned on an investment or paid on a loan after taking into account the effect of compounding the nominal rate over a specified period. Hence, the EAR can also be used to compare two or more investment securities offering the same interest rate but with different compounding periods."
+,,,,,,,,
+33,The interest rate on a personal loan is {eq}2.5\% {/eq} per month. What is the nominal annual rate?,{eq}130\% {/eq} p.a. compounded annually.,{eq}30\% {/eq} p.a. compounded monthly.,{eq}34.5\% {/eq} p.a. compounded monthly.,{eq}2.5% {/eq} p.a. compounded monthly.,C,"The answer is
+c. 34.5% p.a. compounded monthly.
+Given information:
+Monthly interest rate (I) = 2.5%
+Number of months per year (N) = 12
+Estimate the loan's annual percentage rate (APR):
+{eq}\text{APR} = \displaystyle \text{I} \times \text{N} = 2.5\% \times 12 = 30\% {/eq}
+Estimate the loan's effective annual interest rate (EAR) if it is a monthly compounding interest loan:
+{eq}\text{EAR} = \displaystyle (1 + I)^N - 1 \\ \text{EAR} = \displaystyle (1 + 2.5\%)^{12} - 1 \\ \text{EAR} = 34.50\% {/eq}","Interest Rate: A loan's interest rate refers to the financing cost of taking the loan. Generally, a lender will quote the financing cost by a nominal interest rate. However, the effective financing cost will be higher if the lender charges the borrower a compounding interest."
+34,Which of the following investments has the highest effective annual return (EAR)? (Assume that all CDs are of equal risk.),A bank CD that pays 7.10 percent compounded monthly,A bank CD that pays 7.25 percent compounded semiannually,A bank CD that pays 7.30 percent annually,A bank CD that pays 7.00 percent interest compounded daily,B,"The correct answer is
+B) A bank CD that pays 7.25 percent compounded semiannually
+.
+The effective annual return (EAR) of an investment can be calculated using the following formula:
+{eq}\rm EAR=\left(1+\dfrac{r}{n} \right)^n-1 {/eq}
+Where,
+{eq}r {/eq} is the nominal interest rate or the annual percentage rate expressed in decimal form.
+{eq}n {/eq} is the number of times interest is compounded per year.
+The EAR for each given option can be calculated using this formula and compared to determine the highest among them.
+A) Bank CD that pays 7.10 percent compounded monthly
+:
+Here,
+{eq}r=7.10\%=0.0710 \\ n=12; \text{ since there are 12 months in a year} {/eq}
+So,
+{eq}\begin{align*} EAR_A&=\left(1+\dfrac{0.0710}{12} \right)^{12}-1 \\ &=\left(1+0.0059 \right)^{12}-1 \\ &=1.0734-1 \\ &=0.0734 \\ &=7.34\% \end{align*} {/eq}
+B) Bank CD that pays 7.25 percent compounded semiannually
+:
+Here,
+{eq}r=7.25\%=0.0725 \\ n=2; \text{ semiannually means that it is compounded every half year} {/eq}
+So,
+{eq}\begin{align*} EAR_B&=\left(1+\dfrac{0.0725}{2} \right)^2-1 \\ &=\left(1+0.0363 \right)^2-1 \\ &=1.0738-1 \\ &=0.0738 \\ &=7.38\% \end{align*} {/eq}
+C) Bank CD that pays 7.30 percent annually
+:
+Here,
+{eq}r=7.30\%=0.0730 \\ n=1 {/eq}
+Hence,
+{eq}\begin{align*} EAR_C&=\left(1+\dfrac{0.0730}{1} \right)^1-1 \\ &=\left(1+0.0730 \right)^1-1 \\ &=1.0730-1 \\ &=0.0730 \\ &=7.30\% \end{align*} {/eq}
+D) Bank CD that pays 7.00 percent interest compounded daily
+:
+{eq}r=7.00\%=0.0700 \\ n=365; \text{ since there are 365 days in a year} {/eq}
+Thus,
+{eq}\begin{align*} EAR_D&=\left(1+\dfrac{0.0700}{365} \right)^{365}-1 \\ &=\left(1+0.0002 \right)^{365}-1 \\ &=1.0725-1 \\ &=0.0725 \\ &=7.25\% \end{align*} {/eq}
+The EARs can be compared and clearly option B has the highest effective annual return (EAR) of 7.38% which is greater than the other three options which are 7.33%, 7.3%, and 7.25%.",Effective Annual Return: Effective Annual Return (EAR) is the annualized rate of return considering the effect of compound interest compounded within a year. It is a standardized way of comparing the returns on investments that have different compounding periods or frequencies.
+,,,,,,,,
+,,,,,,,,
+37,"If you borrow $10,000 at 10% annual interest, what is the annual payment if you are making four equal payments?","$3,124.71 ","$3,134.71 ","$3,144.71 ","$3,154.71 ",D,"The correct answer is option
+D. $3,154.71.
+Given:
+Borrowed amount = $10,000
+Interest rate = 10%
+Number of payments = 4
+Plug in these values in the below formula to ascertain the annual payment.
+{eq}\begin{align*}
+
+{\rm\text{Annual payment}}\, &= \,\dfrac{{{\rm\text{Borrowed amount}}\, \times \,{\rm\text{Interest rate}}}}{{1 - {{\left( {1 + \,{\rm\text{Interest rate}}} \right)}^{ - \,{\rm\text{Number of payments}}\,}}}}\\
+
+&= \dfrac{{\$ 10,000 \times 10\% }}{{1 - {{\left( {1 + 0.10\% } \right)}^{ - 4}}}}\\
+
+&= \dfrac{{\$ 1,000}}{{0.316986545}}\\
+
+&= \$ 3,154.71
+
+\end{align*}
+
+{/eq}
+Thus, the annual payment would be
+$3,154.71.","Annual Payments: When a borrower clears the debts by making yearly repayments in installments instead of monthly payments, it is termed annual payments. These payments are determined during the period of loan initiation itself."
+38,The annual percentage rate on a credit card determines _____.,the amount of interest you are charged on credit card purchases.,the amount your credit limit can go up within a year.,how many credit cards you can own.,None of the above.,A,"The annual percentage rate on a credit card determines A. the amount of interest you are charged on credit card purchases.
+
+A purchase annual percentage rate (APR) is the interest rate you are charged on purchases when you have a balance on your credit card. However, the rate you pay monthly can vary slightly from the APR.
+
+These answers are incorrect:
+
+
+B. the amount your credit limit can go up within a year.	No, credit limits are set by the insuring company based on your credit scores.
+C. how many credit cards you can own.	No, there is no set limit on how many cards you can own, although you are likely to eventually be turned down for additional credit.
+D. None of the above.	No, because answer A. is correct.","Credit Cards: In the United States and other developed countries, using credit to make purchases has become a way of life. Banks and credit unions issue credit cards and cardholders use them to pay their bills and borrow for large purchases. If the balances are not paid off monthly, the borrower pays interest."
+39,"Given an EAR of 5.4 percent and compounding period of semi-annual, calculate the APR.",5.47%,5.33%,5.26%,5.40%,A,"The annual percentage rate for given an EAR of 5.4% compounded semi-annually is =
+5.329%
+.
+Given data,
+Effective annual interest rate = 5.40%
+Compounding frequency per period = 2 (semi-annual compounding)
+The annual percentage rate, or APR, can be calculated using the following formula:
+{eq}APR=m\times[(1+EAR)^{1/m}-1] {/eq}
+Where,
+EAR = Effective Annual Rate = 0.054
+m = compounding frequency per period = 2
+By putting the corresponding values in the above formula, we get
+{eq}\begin{align*} APR &= 2 \times [(1+0.054)^{1/2}-1]\\ &= 2\times (1.026645021-1)\\ &=2\times 0.026645021\\ &=0.053290042\\ &=5.329\%\\ \end{align*} {/eq}
+Note:
+The effective annual interest rate is the actual rate of return that an investor can earn from their investment after taking into account the effect of compounding per period. Similarly, it is the rate at which the interest owed by a borrower on a loan or any debt is calculated.
+Returns from different financial products can be compared by comparing their respective effective annual rates with different compounding frequencies, like annually, semiannually, quarterly, monthly, or continuously.
+Thus, the EAR increases if the compounding frequency increases for the same nominal interest rate, the highest being if the interest is compounded continuously and the lowest if it is compounded annually.","Annual Percentage Rate: The annual percentage rate, or APR, is the simple interest rate per annum applicable on a loan, mortgage, credit card, etc. It also refers to the yearly interest rate earned on an investment. It is expressed in percentage form. It doesn't take into account the compounding of interest. However, the APR includes any fees or additional costs incurred for borrowing."
+,,,,,,,,
+41,"If the APR of a savings account is 4.8% and interest is compounded monthly, what is the approximate APY of the account?",10.49%,4.91%,1.05%,4%,B,"The correct answer is closest to option
+B) 4.91%
+.
+The monthly interest rate is given by:
+{eq}= \dfrac{\text{Nominal rate}}{\text{Number of months in a year}}
+
+{/eq}
+{eq}= \dfrac{4.8\%}{12}
+
+{/eq}
+{eq}= 0.4\%
+
+{/eq}
+The effective annual rate is computed as:
+{eq}= \text{(1 + monthly interest rate)} ^ \text{Number of months in a year} - 1
+
+{/eq}
+{eq}= (1 + 0.4\%) ^ {12} - 1
+
+{/eq}
+{eq}= (1.004) ^ {12} - 1
+
+{/eq}
+{eq}= 1.04907 - 1
+
+{/eq}
+{eq}= 4.907\%
+
+{/eq}","Effective Annual Rate: The effective annual rate is the interest rate derived after considering the compounding interval, periodic interest rate, and the number of periods in a year. The effective annual rate is also called the annual percentage yield (APY) while the nominal interest is called the annual percentage rate (APR)."
+,,,,,,,,
+43,"If you are an investor, which of the following would you prefer?",Earnings on funds invested compound annually,Earnings on funds invested compound daily,Earnings on funds invested would compound monthly,Earnings on funds invested would compound quarterly,B,"The answer is
+B. Earnings on funds invested compound daily.
+Effective Annual Interest Rate (EAR):
+{eq}EAR = \displaystyle (1 + \frac{I}{N})^N - 1 {/eq}, where
+EAR: Effective annual interest rate
+I: Nominal interest rate
+N: Number of compounding periods within a year
+According to the effective annual interest rate formula, an investment's EAR will increase as the number of compounding period is increases. Alternatively, the more often the interest is compounded, the higher value the investment will achieve in the future. Hence, the daily compounding will generate the highest EAR, compared to the annual compounding, the quarterly compounding and the monthly compounding.",Effective Annual Interest Rate: The effective annual interest rate (EAR) is an expected rate of return that includes the effect of the compounding interest. It is a relevant metric for benchmarking available investments with different maturities.
+44,"If Analog computers can borrow at 9.5% for 1 year, what is the effective rate of interest on a $800,000 loan where a 15% compensating balance is required?",11.18%,17.27%,9.50%,None of the above,A,"Option(A) is correct answer.
+Calculation of effective interest rate:
+{eq}\begin{align*}
+
+{\rm\text{Effective Interest Rate}} &= \frac{{{\rm\text{Interest Rate}}}}{{\left( {{\rm{1}} - {\rm\text{Compesating Balance}}} \right)}}\\
+
+&= \frac{{9.50\% }}{{\left( {1 - 15\% } \right)}}\\
+
+&= 11.18\%
+
+\end{align*}
+
+{/eq}",Compensating Balance: A sum of money maintained by the borrower with the lender for availing loan at a slightly lower interest rate than the prevailing one is known as the compensating balance.

@@ -1,0 +1,118 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"A firm cuts its dividend payout ratio. As a result, you know that the firm's __________.",Return on assets will increase,Earnings retention ratio will increase,Earnings growth rate will fall,Stock price will fall the required,B,"The correct answer is B. Earnings retention ratio will increase.
+The earnings retention ratio is:
+{eq}Earnings \ retention \ ratio = 1 - Dividend \ payout \ ratio\\
+
+{/eq}
+Therefore, the lower the dividend payout ratio, the higher the earnings retention ratio.
+A. is incorrect because the return on assets is equal to net income divided by assets and dividends do not affect net income.
+C. is incorrect because paying out less dividends means that more earnings are reinvested.  If anything, this will increase the earnings growth rate.
+D. is incorrect because, according to Modigliani and Miller, dividends do not affect the stock price.","Dividend Payout Ratio: The dividend payout ratio is the ratio of the dividend paid to the earnings of the company.  The company's dividend policy, as determined by financial managers, affects its dividend payout ratio."
+2,The payout ratio is the portion of earnings that are paid out to shareholders. What is the term given for the inverse of the payout ratio?,Current ratio,Earnings per share,Dividend Yield,Plowback ratio,D,"Correct answer:
+Option D) Plowback ratio
+The dividend payout ratio is the ratio of dividends relative to the net income, while the blowback ratio is the ratio of retained earnings relative to the net income. Dividends are paid to the shareholders while retained earnings represent the undistributed portion of the net income. The plowback ratio is also called the retention ratio and is the inverse of the dividend payout ratio.
+Formula:
+Retention ratio = (1 - Dividend payout ratio)","Current Ratio: The current ratio is the ratio of current assets to current liabilities. It is a liquidity ratio that determines the ability of the current assets in repaying the current liabilities. An ideal current ratio is said to be 1, where current assets are exactly equal to the current liabilities. Current assets include accounts receivable, inventory, prepaid expenses, and current liabilities include accounts payable, accrued expenses, etc."
+3,"Pilgrim Corp. stock currently sells for $25. The dividend yield is 4% and the dividend payout ratio is 25%. The dividend is what, and the earnings per share are what? Show work.",$3.00; $1.00,$1.00; $4.00,$.12; $1.00,$.25; $6.25,B,"The answer is B).
+Dividend  = stock price * dividend yield = 25 * 4% = 1
+Earnings per share = dividend per share / dividend payout ratio = 1 / 25% = 4","Dividend Payout Ratio: The dividend payout ratio is the ratio of dividend per share to earnings per share. A firm's dividend payout policy can affect a firm's long-term growth prospect. For example, the higher the dividend payout ratio, the lower the growth rate that the firm can support with its current capital structure."
+4,If the payout ratio is 0.40 and net income is 100 then the stock price is,40,60,80,unable to tell from data given,D,"The correct option is
+(D.) unable to tell from data given.
+We do not have sufficient data to calculate the stock price. Instead, we need to have the price-earnings ratio to compute the stock price from the net income.
+From the given data, we can compute the dividend per share at most.
+{eq}\text{Dividend Per Share} = \text{Net Income * Payout Ratio}
+
+{/eq}
+{eq}\text{Dividend Per Share} = \$100 * 0.40
+
+{/eq}
+{eq}\text{Dividend Per Share} = \$40
+
+{/eq}",Payout Ratio: The payout ratio shows us the percentage of earnings per share that a company distributes as dividends. The sum of payout ratio and retained earnings ratio is equal to one.
+,,,,,,,,
+6,An increase in flotation costs will most likely result in which of the following?,Smaller dividend payments so that external equity financing is needed.,Larger dividend payments so shareholders are able to earn their requested returns.,No charge in dividend policies because flotation costs are paid by purchases of common stock.,Larger dividend payments to offset higher taxes paid by investors.,A,"a) Correct.
+Smaller dividend payment will require less external equity financing, which in turn will save flotation costs.
+b) Incorrect.
+Shareholder return is made up of dividends and capital gains.  Larger dividends will reduce the capital gains.
+c) Incorrect.
+Flotation costs are paid by the company.
+d) Incorrect.
+Flotation costs will not increase taxes paid.",Flotation Costs: Issuing new stocks and bonds is expensive.  The company typically incurs a variety of fees and commissions to bring the new securities to market.  These expenses are collectively called flotation costs.  They typically range from 2% to 20% of the proceeds.
+7,Qualified dividends are always taxed at a 15 percent preferential rate.,TRUE,FALSE,,,B,"The statement is
+false
+.
+The qualified dividend rate will be different according to the individual's tax bracket, and it can be taxed at 0%, 15%, and 20%. A qualified dividend is liable for tax payment, and information like the reinvestment of the dividend should be reported.
+.","Dividend: The dividend is the profit paid by the company to the shareholders, and it can be issued in the form of money or additional shares. The Board of Directors of the company declare the dividend with the approval of the board."
+8,"Suppose a firm pays total dividends of $330,000 out of net income of $2.8 million.",) 8.485,) 0.33,) 0.118,) 1.18,C,"The answer is c).
+The dividend payout ratio is the ratio of dividend payment to net income, i.e.,
+dividend payout ratio = 330,000 / 2,800,000
+dividend payout ratio = 0.118",Payout Ratio: The payout ratio is the fraction of a firm's net income that is paid out as dividends. This ratio determines the firm's sustainable growth rate as well as internal growth rate.
+9,Which of the following statements is false?,Potential investors consider dividends as evidence of future earning power and develop their expectations around them.,The tax implications for investors are a factor in their preferences regarding a firm's dividend policy.,It is better for a firm to have higher dividends than to have positive NPVs on its investment.,The relationship between dividends and stock prices is complex and thus merits careful consideration.,C,"C) It is better for a firm to have higher dividends than to have positive NPVs on its investment.
+High dividends but a positive Net Present Value would mean that the stock is losing money. A positive value is a higher priority for the company and the investors. Investors generally consider dividends as a signal of the financial strength of the company. A company's decision to pay out dividends can have a number of tax consequences for investors; in some cases offering dividends could disincentivize certain types of investors from wanting to own the stock. Any change is dividend policy or simply paying out a dividend will influence the market price of a stock.",Dividend Policy The existence and amount of any corporate dividends can provide valuable insight into the financial health of the company. Dividend policy has a strong influence on investor behavior toward buying or selling that particular company's stock.
+10,Which of the following is NOT a reason for a low-dividend-payout policy?,The avoidance or postponement of taxes on distributions for shareholders,Higher potential future returns for shareholders,Low-dividend-payout clientele are willing to pay a higher price per share than high-dividend payout clientele,Less need for additional costly outside funding,B,"b. Higher potential future returns for shareholders
+is NOT a reason for a low-dividend payout policy. Because there is uncertainty in the future, shareholders may run if a company that has been consistently paying dividends decides to decline or suspend them.",Payout Policy: Payout policy is the method used by an organization to distribute earnings to its shareholders. It can either distribute them in the form of dividends or in a share repurchase.
+11,Which of the following is true?,"In industries with volatile earnings, the residual dividend policy results in the most consistent dividend stream.","If the clientele effect is correct, firms should follow a constant dividend payout ratio policy.","In general, the higher the number of positive NPV investment opportunities for a firm, the lower the dividend payout ratio.","According to the informational content of dividends, an increase in dividends is always a positive signal.",C,"Which of the following is true?
+c. In general, the higher the number of positive NPV investment opportunities for a firm, the lower the dividend payout ratio.
+Higher the availability of investments opportunities, more earnings would be retained to fund the investments as the retained earnings are a cheaper source of capital. This would lead to a lower dividend payout.
+Analyzing other options:
+a. In industries with volatile earnings, the residual dividend policy results in the most consistent dividend stream. - In case of volatile earnings the dividends also tend to be volatile.
+b. If the clientele effect is correct, firms should follow a constant dividend payout ratio policy. - The firm should follow a dividend policy that rests well with the major shareholders.
+d. According to the informational content of dividends, an increase in dividends is always a positive signal. - Incorrect because an increase may also indicate non availability of positive NPV projects which is a negative signal.",Dividend payout policy: The dividend payout policy is a delicate balance between the earnings and the availability of investing in other capital projects. The management needs to strike a correct balance between them in order to maximize the firm value.
+12,"Given the common dividends per share as {eq}\$0.25
+
+{/eq} and the earnings per share as {eq}\$1.26
+
+{/eq}, calculate the dividend payout ratio.",0.198.,0.315.,1.01.,5.04.,A,"The correct answer is option a. The dividend payout ratio is 0.198.
+Computation of dividend payout ratio
+{eq}\begin{align*}
+
+{\rm\text{Dividend}}\;{\rm\text{payout}}\;{\rm\text{ratio}} &= \dfrac{{{\rm\text{Dividend}}\;{\rm\text{per}}\;{\rm\text{share}}}}{{{\rm\text{Earnings}}\;{\rm\text{per}}\;{\rm\text{share}}}}\\
+
+&= \dfrac{{0.25}}{{1.26}}\\
+
+&= 0.198
+
+\end{align*}
+
+{/eq}
+Where,
+Dividend per share = $0.25
+Earnings per share = $1.26",Dividend Payout Ratio: The dividend payout ratio shows how the company's dividend and earnings are related. The ratio of 35% to 55% is considered good for investors. A high ratio indicates less liquidity in the form of cash for the company.
+13,Which of the following statements is true?,"Increasing dividends may not always increase the stock price, because less earnings may be invested back into the firm and that impedes growth.",Increasing dividends will always increase the stock price.,"Increasing dividends will always decrease the stock price, because the firm is depleting internal funding resources.",,A,"a. True
+Most fast growing companies do not pay dividends due to the need for reinvestment.  Dividends should only be paid out of free cash flow, which is not needed by the company.
+b. False
+The stock price depends on all future dividends, not just next year's dividend.  The company should maximize the value of all dividends paid.
+c. False
+Free cash flow can be paid out as dividends without affecting the company's operations.","Dividends and Stock Value: According to the dividend discount model, dividends are one of the main determinants of corporate value.  The other determinant is the risk of the company's cash flows, which is reflected in the required rate of return."
+,,,,,,,,
+15,Which of the following factors is least likely to be associated with a company having a high dividend payout ratio?,Low flotation costs on new equity issues.,Low tax rates on dividends.,High growth prospects.,High tax rates on capital gains.,C,"The correct answer is
+c. High growth prospects
+.
+Let's analyze the options to justify the chosen answer:
+Answer Options
+Analysis
+a. Low flotation costs on new equity issues.
+When a company has low flotation costs, it will raise more capital to make more earnings and distribute more dividends. The option is associated with a company paying high dividends.
+b. Low tax rates on dividends.
+Low tax rates on dividends will attract more dividend payments to the shareholders as it is favorable for the shareholders.
+c. High growth prospects.
+A company with high growth prospects
+will likely not distribute high dividends
+because it will reinvest in such high-growth opportunities to become more profitable. Therefore, this option is least likely associated with a company having a high dividend.
+d. High tax rates on capital gains.
+When the capital gains taxes are high, investors prefer returns through dividends alone, requiring a company to pay more dividends.",Dividends: The dividend payout ratio is a portion of earnings that are distributed to the shareholders in the form of cash. A higher ratio indicates that the company is not retaining its earnings for reinvestments. {eq}\text{Dividend payout} = \dfrac{\text{Dividends}}{\text{Net income}} × 100\% {/eq}
+16,Which of the following is incorrect?,The after-tax cost of debt for a firm with losses is equal to the interest rate on the debt.,Most debt is placed privately and thus there is no flotation cost.,Flotation costs for preferred stock are higher than for debt.,Firms always pay dividends on their common stock issues because of the ease with which common shareholders can assume control of the firm.,D,"The answer is d. Firms always pay dividends on their common stock issues because of the ease with which common shareholders can assume control of the firm.
+Companies do not always pay dividends on their common stock as it is solely at the board's discretion. It is actually very common for companies that have large profits to not pay dividends at all since they believe that by re-investing profits, they will achieve a higher return for shareholders in the long run.","What Is A Dividend Declaration: A company's executives alone cannot issue dividends to the shareholders of the company. Under American legislature, companies must proceed with a formal Dividend Declaration in which the company's board of directors approves any dividend distribution."
+17,A company has an annual dividend growth rate of 5% and a retention rate of 40%. The company's dividend payout ratio is:,35%,40%,45%,60%,D,"Correct option is 60% (D).
+The calculation for the dividend payout ratio is shown below.
+Dividend payout ratio = 1 - Retention ratio
+Dividend payout ratio = 1 - 40%
+Dividend payout ratio = 1 - 0.40
+Dividend payout ratio = 0.60 or 60%",Dividend Payout Ratio: The dividend payout ratio refers to the total amount of profit a company has distributed among the common shareholders as a cash dividend. The remaining amount of net income is called retained earnings.
+18,An investor estimates the value of a firm which manufactures cookware by examining the cash flows of similar firms. Which of the following is assumed to be the same for these firms?,"P/E,","annual growth rates,","payout rates,",all of the above.,D,"Correct answer:
+Option D) all of the above.
+When the cash flows of similar firms are being examined to value the firm, then all of the following are assumed to be the same for these firms:
+Price-earnings ratio
+Annual growth rates
+Payout ratio, etc
+A comparison with similar firms requires these assumptions for the valuation to be reliable.","Dividend Payout Ratio: Dividends are paid to stockholders out of the profits generated by the company once they are declared by the board of directors and approved by the shareholders. A dividend payout ratio depends on the company's policy of retaining its earnings. If the company wishes to retain most of its earnings, then the payout ratio will be very low and high otherwise."

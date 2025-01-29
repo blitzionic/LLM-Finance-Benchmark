@@ -1,0 +1,537 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"If goods are sold on terms free on board FOB shipping point, the:",seller normally pays the transportation costs.,buyer normally pays the transportation costs.,buyer and the seller split the transportation costs.,shipping company bears the transportation cost.,B,"The correct answer is option b. buyer normally pays the transportation costs.
+As a general rule, the following basic concept must be noted when accounting for inventory freight.
+If the goods are sold at FOB Shipping Point, the buyer is responsible for paying the freight.
+If the goods are sold at FOB Destination, the seller is responsible for paying the freight.
+When goods are sold on FOB (Free On Board) shipping point terms, the responsibility for transportation costs and risks associated with the shipment transfers from the seller to the buyer once the goods have been loaded onto the shipping vehicle at the seller's location. In this case, the buyer is responsible for paying the transportation costs and bears the risk of damage or loss during transit.
+Therefore, the correct answer is option
+b. buyer normally pays the transportation costs.","Inventory: In accounting, inventory is a current asset that refers to the raw materials, work-in-progress goods, and finished products that a business holds for resale, production, or service delivery."
+2,Which of the following would probably not cause inventory shrinkage?,Spoilage of items,Employee theft,Spills of items,Correct counting of all inventory,D,"The answer is
+D. Correct counting of all inventory
+Within a business, inventory shrinkage can occur due to the following facts:
+Employee thefts.
+Clerical errors.
+Being damaged during the delivery.
+Being spoiled by an improper warehouse storage process.",Inventory Shrinkage: Inventory shrinkage refers to a difference between the actual inventory and the reported inventory in the system. An increase in inventory shrinkage is a burden to operations.
+3,"Louise Manufacturing uses 2,600 switch assemblies per week and then reorders another 2,600. The relevant carrying cost per switch assembly is {eq}\$10.50 {/eq}, and the fixed order cost is {eq}\$1,300 {/eq}.",What are the current carrying costs? (Do not round intermediate calculations.),What are the order costs? (Do not round intermediate calculations.),"Calculate the economic order quantity. (Do not round intermediate calculations and round your final answer to 2 decimal places, e.g., 32.16.)",,A,"a. Calculation of the current carrying cost:
+{eq}\begin{align*}{\rm{Current}}\,{\rm{carrying}}\,{\rm{cost}} &= {\rm{Average}}\,{\rm{inventory}} \times {\rm{Carrying}}\,{\rm{cost}}\,{\rm{per}}\,{\rm{unit}}\\ &= \left( {\frac{{2,600}}{2}} \right) \times \$ 10.50\\ &= 1,300 \times \$ 10.50\\ &= \$ 13,650\end{align*} {/eq}
+Hence, the current carrying cost is
+$13,650.
+b. Calculation of the order costs:
+As given in the question, orders are made weekly, meaning that the total number of orders made in the year will be 52, assuming there are 52 weeks in a year.
+{eq}\begin{align*}{\rm{Order}}\,{\rm{costs}} &= {\rm{Total}}\,{\rm{number}}\,{\rm{of}}\,{\rm{orders}}\,{\rm{in}}\,{\rm{a}}\,{\rm{year}} \times {\rm{Fixed}}\,{\rm{order}}\,{\rm{cost}}\\ &= 52 \times \$ 1,300\\ &= \$ 67,600\end{align*} {/eq}
+Thus, the order cost is
+$67,600.
+c. Calculation of the economic order quantity (EOQ):
+Note:
+The annual demand is calculated by taking the demand per week and multiplying it by the number of weeks in a year; the same is shown in the calculation below.
+{eq}\begin{align*}{\rm{EOQ}} &= \sqrt {\frac{{2 \times {\rm{Annual}}\,{\rm{demand}} \times {\rm{Ordering}}\,{\rm{cost}}}}{{{\rm{Carrying}}\,{\rm{cost}}}}} \\ &= \sqrt {\frac{{2 \times \left( {2,600 \times 52} \right) \times \$ 1,300}}{{\$ 10.50}}} \\ &= \sqrt {\frac{{2 \times 135,200 \times \$ 1,300}}{{\$ 10.50}}} \\ &= \sqrt {\frac{{\$ 351,520,000}}{{\$ 10.50}}} \end{align*} {/eq}
+Solving further,
+{eq}\begin{align*} &= \sqrt {33,478,095.238} \\ &= 5,786.02\end{align*} {/eq}
+Therefore, the economic order quantity is
+5,786.02.","Carrying Cost: The trader bears some expenditure for keeping the inventory, defined as the carrying cost, also comprehended as the possession or holding cost. Maintaining the supply chain can lower this cost."
+4,The merchandise inventory account is a long-term fixed asset that will be sold for a long period of time.,True,False,,,B,"The given statement is
+(b.) False.
+The merchandise inventory account is a current asset as the business sells inventory within its operating cycle. The amount invested in inventory is funded by the working capital of the business and not the long-term capital.
+Long-term fixed assets are those asset that remain with the business for a period of more than a year.","Inventory: Inventories are goods that are regularly sold and purchased by the business. In the balance sheet inventory is classified into three categories viz. raw materials, finished goods inventory, and work-in-process inventory."
+5,Which of the following is not recorded in a modern perpetual inventory system?,Units purchased and cost amount.,Units sold and sales and cost amounts.,Customer account numbers and balances owed from the sale of merchandise inventory.,The quantity of merchandise inventory on hand and its cost.,C,"The correct option is
+C. Customer account numbers and balances owed from the sale of merchandise inventory.
+A modern perpetual inventory system does not keep track of individual customers' account information or of any outstanding payments due to unpaid merchandise balances. The goal of a perpetual inventory system is to provide accurate and timely data on the quantity and value of goods on hand in real-time. The system's primary function is to keep track of all transactions involving the purchase and sale of inventory. With this system in place, businesses can keep a running tally of their stock, which aids in keeping tabs on supplies, determining the true cost of goods sold, and facilitating overall inventory management.
+Reasons why other options are incorrect:
+A. Units purchased and cost amount.
+To keep track of the stock purchased and its associated cost, this data is entered into a perpetual inventory system.
+B. Units sold and sales and cost amounts.
+To assess sales profitability and compute COGS, a perpetual inventory system keeps track of sold units alongside their respective sales and cost amounts.
+D. The quantity of merchandise inventory on hand and its cost.
+If you want to keep track of your stock and know exactly how much it costs, a perpetual inventory system will do that for you automatically.","Perpetual Inventory System: The term perpetual inventory system refers to the inventory management system where the system tracks and records stock levels. When the sale or return occurs, the system automatically adjusts the stock level."
+6,The balance of the Merchandise Inventory account that appears in the Trial Balance section of the worksheet represents the stock of goods on hand at the beginning of the current period.,True,False,,,A,"The answer is
+A) True.
+If the Merchandise Inventory balance is on the Trial Balance column of the worksheet, that amount is the beginning of the account at the current reporting period. At the end of that period, the company adjusts that account to recognize the ending balance, which would appear in the Adjusted Trial Balance column. Thus, the statement is true.","Merchandise Inventory: The merchandise inventory account always appears on the firm's journal entries if they are using the perpetual inventory system. All the purchases and adjustments related to the goods are recorded on this account by debiting or crediting it. Otherwise, the company applies the periodic inventory method when it appears only at the end of the reporting period."
+7,A characteristic of purchases is:,it has a debit normal balance.,it reduces net income.,that it is used to record the purchase of merchandise to be resold.,All of the above.,D,"The correct answer is
+d. All of the above
+.
+Options
+Analysis
+a. it has a debit normal balance.
+The normal balance of the purchase account is a debit balance, representing an expense for the business.
+b. it reduces net income.
+Expenses reduce the net income, and so make the purchases.
+c. that it is used to record the purchase of merchandise to be resold.
+Purchase account represents the merchandise that should be resold to the customers.
+d. All of the above.
+As all the other options define purchases, this option becomes correct.","Nominal Accounts: All the nominal account balances can be seen on the income statement. These accounts should be zeroed out each period for the new balances to flow in. Nominal accounts include revenue, expenses, profits, and losses."
+8,"Waterway Company recently made a $10,600 purchase from a major supplier. Shipping costs were $210, terms FOB shipping point. To record this purchase, Waterway Company will need to debit the:","Merchandise Inventory account for $10,600.","Merchandise Inventory account for $10,810.",Cost of Goods Sold account for $210.,"Cost of Goods Sold account for $10,810.",B,"The correct option is b. Merchandise Inventory account for $10,810.
+Waterway must add the cost of the inventory purchased ($10,600)
+and the freight-in cost
+to its inventory asset because when goods are shipped FOB shipping point, it means that the title for the goods passes to the buyer at the shipping point, and the buyer is responsible for the shipping costs.
+The freight-in is however not allocated to the cost of goods sold expense until the related goods are sold, and neither is the total purchase cost.","Recording Inventory Purchases: When inventory purchases are accounted for using the perpetual method, the total cost of inventory purchased is added to the inventory asset account, and then only transferred to the cost of goods sold expense when the goods are sold."
+9,"Assuming the use of special journals, the sale of merchandise to Jerri Blackwell on account would be recorded in the:",sales journal.,accounts receivable journal.,cash receipts journal.,general journal.,A,"The correct answer is
+a. sales journal
+.
+Except for the general journal, all journals, such as cash receipts, cash payments, purchase, and sales journals, are special journals. When the company uses special journals, the sale of goods on account is recorded in the sales journal. Therefore, the sale of merchandise to Jerri Blackwell on account would be recorded in the
+sales journal
+.
+The other answer options are incorrect.
+b. accounts receivable journal. There is no such thing as an accounts receivable journal.
+c. cash receipts journal. A cash receipts journal records the cash sales, not credit sales.
+d. general journal. A general journal is used when special journals are not in use.","Journal Entries: Journal entries impact the business and the financial information that help build the financial statements. Entries should follow the double-entry system, which requires debits to have equal and opposite credits."
+10,Which of the following is an incorrect statement if ending inventory is overstated?,Net income is overstated.,Gross profit is overstated.,Cost of goods sold is overstated.,Income tax is overstated.,C,"The correct answer is
+C. cost of goods sold is overstated
+.
+The cost of goods sold during a given period is inversely related to the ending inventory for a given beginning inventory and purchase amount. Thus, if the ending inventory is overstated, the cost of goods sold will be understated.
+The net income and gross profit are inversely related to the cost of goods sold because the cost of goods is deducted from the net sales to derive gross profit and all the other expenses are subtracted from the gross profit to derive the net income. Thus, an understated cost of goods sold will lead to overstated gross profit and net income.
+The income tax is directly related to the net income and hence, overstated net income will lead to overstated income tax.","Inventory Management: The inventory and cost of goods sold for a firm can be valued by using methods like FIFO (FIrst-In-First-Out) method, LIFO (Last-In-First-Out) method, weighted average method, or specific identification method. Furthermore, a perpetual or periodic inventory system may be assumed for the valuation."
+11,"Goods held for sale, raw materials, and work in process, are examples of different categories of _____.","property, plants, and equipment",non-current assets,inventory,,C,"Correct Answer:
+Option c. inventory
+Options
+Analysis
+a. property, plants, and equipment
+Property, plant, and equipment represent a fixed asset classification on the balance sheet. They are not goods held for resale.
+b. non-current assets
+Non-current assets are fixed assets with two classifications: tangible and intangible.
+c. inventory
+The production process is ongoing for a manufacturing concern. Based on the stages of production, goods are classified as finished goods (held for sale), raw materials, and work in process.","Permanent Accounts: Permanent accounts are closed with the business. The balance in these accounts is carried forward to the next period. Such accounts include inventory, retained earnings, and other balance sheet accounts."
+12,"Goods held for sale, raw materials, and work in process, are examples of different categories of _____.","property, plants, and equipment",non-current assets,inventory,,C,"Correct Answer:
+Option c. inventory
+Options
+Analysis
+a. property, plants, and equipment
+Property, plant, and equipment represent a fixed asset classification on the balance sheet. They are not goods held for resale.
+b. non-current assets
+Non-current assets are fixed assets with two classifications: tangible and intangible.
+c. inventory
+The production process is ongoing for a manufacturing concern. Based on the stages of production, goods are classified as finished goods (held for sale), raw materials, and work in process.","Permanent Accounts: Permanent accounts are closed with the business. The balance in these accounts is carried forward to the next period. Such accounts include inventory, retained earnings, and other balance sheet accounts."
+13,"Goods available for sale are $118,000; beginning inventory is $37,000; ending inventory is $42,000; and cost of goods sold is $77,000. The inventory turnover is:",1.53.,1.95.,1.83.,2.99.,B,"The answer is
+B. 1.95
+Determine the inventory turnover:
+{eq}Inventory\:turnover = \displaystyle \frac{COGS}{\displaystyle\frac{Beginning\:inventory + Ending\:inventory}{2}} {/eq}
+{eq}Inventory\:turnover = \displaystyle \frac{\$77,000}{\displaystyle\frac{\$37,000 + \$42,000}{2}} {/eq}
+{eq}Inventory\:turnover = 1.95 {/eq}",Inventory Turnover: The inventory turnover is an efficiency ratio to measure how many times inventory is sold within a year relative to the cost of goods sold (COGS). This ratio is determined by dividing the COGS by the average inventory.
+14,If a company is planning to build inventory:,sales should exceed production,production should equal sales,production should exceed sales,production should equal inventory,C,"The current answer is
+C. production should exceed sales.
+If a company wants to build or accumulate inventory, the number of items produced must exceed sales. This ensures that even after meeting the entire sale requirements, the business is left with some items that can be accumulated and used to meet future demand.
+The other options are incorrect.
+A.
+sales should exceed production:
+If a business sells more units than it produces, the excess demand will be met through the existing inventory. As a result, inventory will reduce rather than build up.
+B.
+production should equal sales:
+If a business produces exactly the same number of units that are needed to meet sales, the inventory will stay at the same level. It will neither increase nor decrease.
+D.
+production should equal inventory:
+To build up inventory, the level of production must exceed the level of sales.","Inventory: All the items in various stages of production that are being held and processed by a business for reselling and earning a profit are termed inventory. A business expects to sell inventory within an accounting year. Thus, it is recorded as a current asset."
+15,Overstating ending inventory in the current year causes retained earnings in the next year to be overstated.,True,False,,,A,"Correct Answer:
+Option a. True
+.
+Let's understand the inventory adjustment in determining the cost of goods sold (COGS) as follows:
+Cost of goods sold = Cost of goods available for sale - Ending inventory
+As we can see, ending inventory is deducted to arrive at the COGS. We can draw two conclusions from inventory misstatement:
+If the inventory is understated, COGS will be overstated, and net income will be understated.
+If the inventory is overstated, COGS will be understated, and net income will be overstated.
+Example:
+A company records an amount of $150,000 in cost of goods available for sale and an amount of $75,000 in ending inventory, which is misstated as $95,000.
+If the inventory was correctly recorded:
+Cost of goods sold = $150,000 - $75,000
+Cost of goods sold = $75,000
+If the inventory was overstated:
+Cost of goods sold = $150,000 - $95,000
+Cost of goods sold = $55,000
+We can see that cost of goods sold is understated when inventory is overstated. It will overstate the net income and retained earnings for the next period
+.",Retained Earnings: Net income generated each period is added to the retained earnings. Retained earnings accumulate profit generated each year after dividend distributions and provide funds for the business as an internal source of finance.
+16,Merchandise Inventory is presented on the balance sheet in the current assets section.,True,False,,,A,"The correct answer is
+a. True
+.
+Merchandise inventory is the resource used in the production of finished goods. Inventory is used in operating activities and held for a short period of time. Merchandise inventory is included in current assets because it is acquired to fulfill the needs of operations.
+Current assets are included in the balance sheet, and merchandise inventory is recorded in the balance sheet, under the heading of current assets.",Current Assets: Current assets consist of resources owned by a business for a short period of time. This period of time can be a single year or an operating cycle. The current assets of a business are linked to the operating activities of the business.
+17,Merchandise inventory is classified on the balance sheet as a:,current asset,current liability,It's not on the balance sheet.,long-term liability,A,"The correct answer is
+a. current asset
+.
+Merchandise inventory refers to the goods held for sale in the next accounting period. They form part of the total goods produced or purchased in the current period but are still in the warehouse at the year-end. Merchandise inventory represents a current asset for the business as it will be converted into sales within the next twelve months.
+The other answer options are incorrect.
+Options
+Reasoning
+b. current liability
+Inventory is an asset for the business that will earn revenue when sold.
+c. It's not on the balance sheet.
+Current assets are a part of the balance sheet, and so will the inventory.
+d. long-term liability
+Inventory is a current asset convertible into sales within one year, not a long-term liability.","Adjustment Accounts: The accounts that require adjustments during the period include inventory, depreciation, receivables, payables, prepaid expenses, and unearned revenue. These account adjustments impact the income statement and balance sheet."
+18,"When there is cash purchased of office supplies intended for sale by Office Max, the entry will require a debit to Office Supplies and a credit to Cash.",True,False,,,B,"If Office Max purchases office supplies for cash with the intent to sell them, the entry should indeed involve the Inventory account, not the Office Supplies account. Note the intention of the purchase of supplies. It is intended to be sold, not consumed in the office.
+The correct journal entry will be recorded as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Inventory
+xx
+Cash
+xx
+To record the purchase of supplies for resale.
+Therefore, the correct answer is
+option b. False.","Merchandise Inventory: The cost of acquiring or producing the goods is considered when measuring merchandise inventory. It includes the purchase price, shipping costs, customs duties, taxes, and any other expenses directly related to preparing the goods for sale."
+19,"During a period of rising prices, the inventory costing method that will result in the lowest amount of net income is:",FIFO.,LIFO.,Periodic.,Perpetual.,B,"The correct answer is option B.
+LIFO
+The inventory costing method that will result in the lowest amount of net income during a period of rising prices is LIFO (Last-In, First-Out).
+Under LIFO, the premise that the most recent inventory items are sold first determines the cost of goods sold. As prices rise, the cost of goods sold will reflect the higher costs of the most recently acquired inventory items, resulting in a higher cost of goods sold and a lower net income.
+Explanations for the incorrect options:
+A. Under FIFO (First-In, First-Out), the premise that the earliest acquired or oldest inventory items are sold first determines the cost of goods sold. As prices rise, the cost of goods sold will reflect the inventory's lower cost, resulting in a lower cost of goods sold and a higher net income.
+C. The periodic costing methods are not directly related to the issue of rising prices, as they refer to how inventory records are updated and maintained.
+D. The perpetual costing approach is also for updating and upkeeping inventory information and does not deal with increasing costs.",Inventory Costing Method: The inventory costing method refers to how a company accounts for the cost of its inventory. The inventory costing technique adopted can significantly impact the financial statements of a corporation.
+20,"When prices are rising, a LIFO liquidation will:",always decreases income.,always increase income.,sometimes increases income and sometimes decreases income.,,C,"The correct option is
+C. sometimes increases income and sometimes decreases income.
+A LIFO (Last In, First Out) liquidation is the process of selling older inventory items acquired at lower costs in the past to reduce the overall value of inventory when prices are increasing. Depending on the details, LIFO liquidation may reduce or increase earnings.
+When older, cheaper stock is sold during a liquidation, profits can sometimes rise. This occurs because the older, cheaper stock is used in the calculation of the cost of goods sold (COGS), which in turn reduces expenses and increases reported income.
+However, LIFO liquidation can result in a loss of income in certain circumstances. If the company's inventory is reduced to an insufficient level to meet sales demands, it may be necessary to buy new stock at the going market rate. The rise in COGS has the potential to reduce earnings.
+Reasons why other options are incorrect:
+A. always decreases income. Since LIFO liquidation can have varying effects on income depending on circumstances, the option ""always decreases income"" is incorrect.
+B. always increases income. Since LIFO liquidation can lead to a loss in some cases, selecting ""always increase income"" is incorrect.","Inventory Management Techniques: The inventory management technique refers to the principles and strategies adopted by companies to use inventory in their processes in the most efficient manner. This will result in better output, lower wastage, and lower costs."
+21,"For the following transaction, identify which financial statement(s) is/are impacted in the current period: This week's food delivery is received at a restaurant.",Balance Sheet,Income Statement,Cash Flow Statement,,A,"When the week's food delivery is received at a restaurant, the entity's inventory asset increases with the value of the goods delivered, and the accounts payable liability increases with the same amount. The effect on the transaction is therefore:
+Financial statement
+Impact
+Comment
+a. Balance Sheet
+✓
+Inventory (and so current assets and total assets) increases and Accounts Payable and therefore current liabilities and total liabilities also increases.
+b. Income Statement
+x
+The food was not yet used to no expense account is affected by the transaction.
+c. Cash Flow Statement
+x
+The supplier has not been paid yet so the statement of cash flow is not affected by the transaction.",Inventory Asset: Inventory is an asset account that represents the total value of goods for resale or use in manufacturing. The account has a normal debit balance and it increases when goods are purchased and decreases when the cost of goods sold is recorded.
+22,"According to the assumptions upon which the EOQ model is based, total inventory costs _____ with increases in the number of units ordered in each order.","first increases, then decreases","first decreases, then increases","increases, but at a slowing rate","decreases, but at a slowing rate",C,"The correct answer is option
+C. increases, but at a slowing rate
+As per the EOQ (Economic Order Quantity) Model, the total inventory cost increases with an increase in the number of units ordered in each order, whereas the total ordering cost decreases. The inventory cost increases because the number of units that need to be stored increases with the increase in order size. Similarly, the ordering cost will decrease because of the reduction in the total number of orders.
+Moreover, the rate of increase and decrease in the total inventory cost and total ordering cost decreases gradually with the increase in the number of units ordered.",Economic Order Quantity: The economic order quantity (EOQ) model is used to find the order size for which the total inventory management costs are minimum. The costs include ordering costs and holding costs of inventory.
+23,Which of the following statements is true about the finished goods inventory?,It consists of completed jobs that have already been sold.,It consists of completed jobs that have not been sold.,It consists of indirect materials costs and factory overhead costs that have entered the manufacturing process but are associated with products that have not been completed.,It consists of direct materials costs and factory overhead costs that have entered the manufacturing process but are associated with products that have not been completed.,B,"The correct answer is option
+b. It consists of completed jobs that have not been sold.
+The finished or completed jobs or products that have been sold are called goods sold whereas the completed jobs that have not been sold refer to finished goods inventory.
+Incorrect Options:
+Option a is incorrect because completed jobs that have been sold represent goods sold
+Options c and d are incorrect because direct materials costs, indirect materials costs, direct labor costs, and factory overhead costs that have entered the manufacturing process and are associated with incomplete products represent the work-in-process inventory.","Inventory of a Firm: The inventory of a firm can be broadly categorized into three types - raw materials inventory, work-in-process inventory, and finished goods inventory. The basis of classification is usually the presence of inventory in different stages of the manufacturing process."
+24,Which one of the following statements is true?,FOB destination means the buyer has legal title to the goods while they are in transit.,FOB destination means the seller has legal title to the goods until they reach the buyer's place of business.,FOB shipping point means the seller has legal title to the goods while they are in transit.,FOB shipping point means the buyer acquires legal title to the goods when they reach the buyer's place of business.,B,"The correct option is b. FOB destination means the seller has legal title to the goods until they reach the buyer's place of business.
+The following table explores each answer option and explains which answers are right and wrong and why.
+a. FOB destination means the buyer has legal title to the goods while they are in transit.
+The buyer only gets title when the goods are delivered to their destination under FOB destination, so the
+seller
+has legal title to the goods while they are in transit.
+b. FOB destination means the seller has legal title to the goods until they reach the buyer's place of business.
+This is the correct alternative. The seller is responsible for paying for the freight, and goods in transit are included in the ending inventory of the seller.
+c. FOB shipping point means the seller has legal title to the goods while they are in transit.
+Legal title passes to the buyer at the shipping point under FOB shipping point, so the goods in transit belong to the buyer.
+d. FOB shipping point means the buyer acquires legal title to the goods when they reach the buyer's place of business.
+No, FOB
+destination
+means the buyer acquires legal title to the goods when they reach the buyer's place of business.",Shipping Terms: Shipping terms refer to the indications on each sales invoice of who is responsible for the freight for a shipment and when ownership of the goods shipped passes from the seller to the buyer. Common shipping terms include FOB destination and FOB shipping point.
+25,The most likely immediate response to an unforeseen rise in demand for a firm's product would be to:,cut the price of the final product.,build up inventory levels.,reduce inventory levels.,reduce depreciation.,B,"The correct answer is option b. build up inventory levels.
+The most likely immediate response to an unforeseen rise in demand for a firm's product would be to build up inventory levels. This would allow the company to fulfill existing orders quickly and avoid a situation in which customers are left without what they need. However, this would increase the company's cost of sales and would mean investing in an additional stock that would sit idle while not being used. In situations like this, companies should carefully consider their options before deciding which course of action to take.
+So,
+the correct answer is option b. build up inventory levels.
+Explanation of incorrect options.
+Option a. cutting the price of the final product is incorrect. Cutting the price of the product will be irrelevant to an unforeseen rise in demand for the product.
+Option c. reduce inventory levels is incorrect. Reducing inventory levels is not ideal in responding to the increase in demand for a product.
+Option d. reduce depreciation is incorrect. Reducing depreciation is not relevant in addressing the increase in demand for a product.","Inventory Management System: Inventory management system is an essential tool to keep track of the physical and financial resources used by a company. The system helps managers to optimize their use of resources, identify areas where they can improve processes, and make decisions that can help improve efficiency and reduce operating costs."
+26,Someone who sells gasoline must report their inventory using Weighted Average. True or False?,True,False,,,B,"False
+It is
+false
+to say that someone who sells gasoline must report their inventory using Weighted Average.
+How a gas station owner keeps track of their stock is subject to whatever local laws and regulations govern their business. The Weighted Average method is widely used, but it is not the only option for determining the value of an inventory.
+The FIFO and LIFO methods are commonly used by businesses when determining the value of their gasoline inventory. When using FIFO, the first units purchased are those that are sold first, while when using LIFO, the last units purchased are those that are sold first. Both approaches have their uses, and one might be chosen over the other depending on circumstances like market volatility or tax liability.
+So, if you're in the gas station business, you should check your local laws and regulations for how to properly report your stock levels in accordance with generally accepted accounting principles.","Inventory Management Technique: Inventory management techniques are placed in the companies to efficiently access how much inventory is there and its efficient allocation and proper utilization. Some examples of inventory management techniques are: ABC Analysis, Just-in-Time"
+27,Goods were purchased on account last month. What is the correct entry to record the payment made this month for the purchase previously made?,Debit inventory and credit accounts payable.,Debit accounts payable and credit cash.,Debit inventory and credit cash.,Debit expenses and credit cash.,B,"The correct answer is
+b. Debit accounts payable and credit cash
+.
+Let's record the entry to record the goods purchased on account during the previous month:
+Date
+Account Title
+Debit
+Credit
+Purchases
+$XX
+Accounts Payable
+$XX
+The entry to record the payment made this month for the purchase previously made is given as follows:
+Date
+Account Title
+Debit
+Credit
+Accounts Payable
+$XX
+Cash
+$XX
+The payment requires reducing the liability and reduction in the cash account.",Credit Purchases: Credit purchases allow the business to make payments for goods or services on a future date. Credit purchases require recognizing a liability and are reported on the income statement.
+28,Which of the following is an example of a period cost when manufacturing products?,Depreciation expense on factory equipment.,Advertising expense.,Indirect materials used in the factory.,Property taxes on the plant.,B,"The correct answer is option B. Advertising expense.
+In manufacturing products, costs can be categorized into two main types: product and period costs, which are explained below.
+Product costs are those costs that can be directly or indirectly traced to the production of goods. They are capitalized as part of the inventory and are expensed through the cost of goods sold when the products are sold. Product costs include direct materials, direct labor, and manufacturing overhead (which comprises indirect materials, indirect labor, depreciation on factory equipment, and property taxes on the plant, among other costs).
+Period costs, conversely, cannot be traced directly to the production of goods. They are expensed during the period in which they are incurred. Period costs typically include selling, general, and administrative (SG&A) expenses, such as advertising expenses, salaries of sales staff, and administrative office expenses.
+In the given options, advertising expense (Option B) is an example of a period cost because it relates to the selling and promotional activities of the company rather than the actual manufacturing process. Advertising expense is expensed in the income statement during the period it is incurred rather than being capitalized as part of inventory costs.","Inventory Management: Good inventory management is essential for several reasons, as it enables businesses to maintain an optimal balance between stock availability and costs while improving overall operational efficiency."
+29,"Under U.S. GAAP, the application of the lower of cost or market rule to inventories is optional.",True,False,,,B,"The correct answer is option b. False.
+Under U.S. Generally Accepted Accounting Principles (GAAP), applying the lower-of-cost or market (LCM) rule to inventories is not optional but required. The LCM rule is a mandatory requirement for companies that follow U.S. GAAP. According to the Accounting Standards Codification (ASC) Topic 330 on Inventory, companies must report inventory as a subsequent measurement at the lower cost or market value (net realizable value). This rule helps ensure that inventories are not overvalued on the balance sheet and that potential losses from holding inventory are recognized promptly.
+Therefore, based on the above explanations,the correct answer is
+option b. False.","Inventory Management: In business and finance, a well-managed inventory system helps prevent overstocking, which can lead to increased holding costs and potential obsolescence."
+30,The inventory account a manufacturer uses to record the cost of products completed and available for sale is called:,merchandise inventory.,work in process inventory.,finished goods inventory.,raw materials inventory.,C,"The correct option is c.
+The following table explores each answer option and explains which answers are right and wrong and why.
+a. merchandise inventory.
+Merchandise inventory is an inventory account used by merchandising companies, not manufacturing companies.
+b. work in process inventory.
+No, work-in-process inventory is used to record the current manufacturing costs incurred for unfinished units.
+c. finished goods inventory.
+This is the correct alternative. Finished goods inventory increases on the debit side when the cost of completed units is transferred from work-in-process inventory and decreases on the credit side when the cost of goods sold is recorded.
+d. raw materials inventory.
+No, raw materials inventory is the direct and indirect materials used in manufacturing.","Inventory Accounts - Manufacturing Companies: Manufacturing companies keep different classes of inventory in their warehouses and factory floors, and each class of inventory is recorded in a separate general ledger account. The cost of inventory flows between these accounts and eventually to the cost of goods sold expense."
+31,The optimal economic order quantity depends on:,"1, 2, and 3",1 and 2,2 and 3,1 and 3,A,"The correct answer is option a.
+1, 2, and 3
+The optimal economic order quantity depends on the following:
+Cost of carrying inventory: It is also called the holding cost. It is the cost incurred by a firm for keeping the inventory in storage. It is a direct cost and an important element for computing the economic order quantity.
+Cost of placing an order: This cost denotes the expense the firm incurs for placing the order for the goods needed from the supplier. Suppliers have a fixed cost for each order slip, irrespective of the quantity purchased.
+Sales volume: This is the main element needed to determine the economic order quantity. Firms place the optimum order when the existing goods are ending so that the new order is delivered before the trader runs out of the goods. Therefore, the sales volume is necessary to place an optimum order to fulfill the demand.
+As the economic order quantity depends on all three given choices, options b, c, and d are wrong.","Economic Order Quantity: The estimated right amount of a product that the firm should buy or order, which will help reduce the costs incurred for holding and ordering the stock is the economic order quantity (EOQ)."
+32,The _____ inventory consists of items that have been produced but not yet sold.,raw materials,work-in-process,finished goods,capital goods,C,"Correct Answer:
+Option C. finished goods
+.
+Options
+Analysis
+A. raw materials
+Raw materials are yet to be converted to produce goods.
+B. work-in-process
+Work-in-process represents semi-finished goods.
+C. finished goods
+Finished goods represent goods that are completed and ready for sale.
+D. capital goods
+Capital goods represent the assets that help the production process. Examples include factories, land, vehicles, etc.","Inventory: The three stages of inventory include raw materials, work-in-progress, and finished goods. Inventory helps calculate the cost of goods sold and forms part of the current assets in the balance sheet."
+33,Which of the following items will increase inventoriable costs for the buyer of goods?,freight charges paid by the seller.,freight charges paid by the purchaser.,purchase returns and allowances granted by the seller.,purchase discounts are taken by the purchaser.,B,"The correct option is b. freight charges paid by the purchaser.
+The following table explores each answer option and explains which answers are right and wrong and why.
+a. freight charges paid by the seller.
+No, this is not a cost to the purchaser at all, but rather it is a delivery expense for the seller.
+b. freight charges paid by the purchaser.
+This is the correct alternative. Freight-in that the buyer pays is an inventoriable cost that increases the total cost of the goods purchased.
+c. purchase returns and allowances granted by the seller.
+Purchase returns and allowances decrease the cost of inventory purchased, meaning that they
+decrease
+inventoriable costs.
+d. purchase discounts are taken by the purchaser.
+Purchase discounts also decrease the net purchase price of inventory and therefore decreases inventoriable costs.",Inventoriable Costs: Inventoriable costs are also called product costs in accounting. It refers to all the cost items that are added to the inventory asset when incurred and then only expensed to the cost of goods sold expense when the related goods are sold.
+34,When using the economic order quantity model:,ordering costs increase as the level of inventory increases,carrying costs decrease as the level of inventory increases,costs are minimized when total carrying costs and total ordering costs are equal,None of these.,C,"The correct answer is option
+C. costs are minimized when total carrying costs and total ordering costs are equal.
+The total ordering cost increases with a decrease in the inventory level or a decrease in the order size. On the other hand, the total inventory carrying cost increases with an increase in the inventory level or an increase in the order size. Thus, both ordering costs and inventory carrying costs are inversely related to each other.
+The economic order quantity model represents the order quantity for which the total costs consisting of both ordering costs and carrying costs are minimized. At this point, the carrying costs are equal to the ordering costs.","Inventory Management: In the context of operations management, the quantity of inventory ordered by a firm usually complies with the economic order quantity model. This model is deployed to determine the order quantity for which the total inventory management costs are minimized."
+35,The EOQ model,determines only how frequently to order.,considers the total cost.,minimizes both ordering and holding costs.,All of the alternatives are correct.,D,"The correct answer is option D) All of the alternatives are correct.
+The EOQ (Economic Order Quantity) model is a widely used inventory management technique that helps determine the optimal order quantity for a company. It considers various factors, including ordering, holding, and total costs, to minimize the overall cost of inventory management.
+The EOQ model:
+A) It considers how frequently to order by calculating the optimal order quantity that minimizes the total cost.
+B) It considers the total cost by taking into account both ordering costs (costs associated with placing an order, such as paperwork, processing, etc.) and holding costs (costs associated with holding inventory, such as storage, insurance, obsolescence, etc.).
+C) It aims to minimize ordering and holding costs by finding the order quantity that balances the two costs.
+Therefore, all alternatives (A, B, and C) correctly describe the EOQ model.",Inventory Management: Inventory management is crucial for implementing proper inventory control. Effective inventory management allows businesses to optimize inventory levels to meet customer demands.
+36,The entry to record the purchase of inventory items under the periodic inventory system will require a debit to the inventory account.,True,False,,,B,"The correct answer is option b. False.
+Under the periodic inventory system, the entry to record the purchase of inventory items will require a debit to the Purchases account, not the Inventory account. The Purchases account accumulates the cost of inventory items bought during a specific accounting period. The Inventory account is only updated at the end of the accounting period when a physical count of the inventory is performed and the cost of goods sold is determined.
+Accordingly, when a purchase of inventory takes place, it is recorded in the company's book as follows.
+Account Title
+Debit
+Credit
+Purchases
+xx
+Accounts Payable
+xx
+To record the purchase of inventory on account.","Inventory Management: Effective inventory management is crucial for any business's success and profitability. It offers several benefits, such as controlling costs, improving cash flow, and ensuring smooth operations."
+37,"If goods are sold on terms free on board (FOB) shipping point, the:",seller normally pays the transportation costs.,buyer normally pays the transportation costs.,buyer and the seller split the transportation costs.,shipping company bears the transportation cost.,B,"If goods are sold on terms free on board (FOB) shipping point, the
+b. buyer normally pays the transportation costs
+.
+When goods are shipped FOB shipping point, it means the title of the goods changes to the buyer on the date the goods are shipped from the seller's warehouse. This means that the buyer is responsible for transporting goods to its warehouse.
+Goods shipped FOB destination belongs to the seller up to the point the goods reach their destination, which is the buyer's warehouse. In this case, the seller typically pays the shipping cost.
+The shipping company really never pays the shipping cost.",Shipping Terms: The shipping terms on a purchase invoice indicate when title of the goods purchased changes from the buyer to the seller and who is responsible for the transportation cost. These terms are used to determine the correct treatment of goods in transit.
+38,Freight-in is:,a Cost of Purchasing Goods.,recorded as an asset.,recorded as an Operating Expense.,a Cost of Selling Goods.,A,"The correct answer is option a. a Cost of Purchasing Goods.
+Freight-in, transportation-in, or shipping-in refers to the cost of transporting goods from a supplier to the buyer. This cost is usually incurred when a business purchases inventory or raw materials.
+This cost is considered a cost of purchasing goods because it is directly associated with acquiring inventory or materials needed for business operations. Instead of being recorded as a separate expense or as an asset, freight-in is typically added to the cost of the purchased goods, increasing the inventory value.
+In practice, the cost of goods purchased is computed as follows.
+Particulars
+Amount
+Purchase Price
+xx
+Add: Freight-in
+xx
+Add: Handling Cost
+xx
+Add: Other Directly Attributable Costs
+xx
+Total Cost of Goods Purchased
+xx
+Accordingly, the correct answer is
+option a. a Cost of Purchasing Goods.","Merchandise Inventory: In accounting, merchandise inventory is used in various financial analysis ratios, such as inventory turnover ratio and days sales in inventory. This asset is considered current in the balance sheet."
+39,Net purchases are:,Purchases + Purchases Returns and Allowances,Purchases - Purchases Discount - Purchases Returns and Allowances,Purchases - Freight - Purchases Returns and Allowances,Purchases + Freight-in,B,"The correct answer is
+b. Purchases - Purchases Discount - Purchases Returns and Allowances
+.
+Options
+Analysis
+a. Purchases + Purchases Returns and Allowances
+Purchase returns and discounts should be deducted from gross purchases to determine the purchases.
+b. Purchases - Purchases Discount - Purchases Returns and Allowances
+Net purchases refer to the total amount of purchases made by a company after deducting any discounts, returns, and allowances but adding any additional freight costs associated with those purchases. The formula in the option can help arrive at net purchases, provided the company has no freight costs.
+c. Purchases - Freight - Purchases Returns and Allowances
+Freight inwards should be added to the purchases.
+d. Purchases + Freight-in
+Net purchases refer to the total amount of purchases made by a company after deducting any discounts, returns, and allowances but adding any additional freight costs associated with those purchases. This option will help arrive at net purchases, provided no returns and allowances exist.","Purchase of Goods: The purchase of inventory is necessary to arrive at the cost of goods sold, reported on the income statement. The purchase includes all the costs needed for the goods to arrive at the warehouse for resale."
+40,The term FOB Shipping Point means that the seller pays for all the freight charges on the inventory items until they reach the buyer's warehouse.,True,False,,,B,"The correct answer is option b. False.
+The term FOB (Free on Board) Shipping Point means that the ownership of the inventory items and responsibility for the freight charges are transferred from the seller to the buyer once the items leave the seller's shipping point. In other words, the buyer pays for all freight charges from the seller's warehouse to their own warehouse. The buyer also assumes the risk of damages or losses during transit.
+Note the FOB agreement and who shall pay the freight on the goods sold.
+FOB
+Who pays the freight?
+When goods ownership transferred?
+Shipping Point
+Buyer
+Transferred at the time of shipment.
+Destination
+Seller
+Transferred only when inventories
+in the buyer's warehouse.
+Therefore,
+the correct answer is false.","Merchandise Inventory: Merchandise inventory is undoubtedly a current asset on the balance sheet in the field of accounting. It represents the value of finished goods that a company presently owns, having either produced or bought them to resell to customers."
+41,Net purchases are:,Purchases + Purchases Returns and Allowances,Purchases - Purchases Discount - Purchases Returns and Allowances,Purchases - Freight - Purchases Returns and Allowances,Purchases + Freight-in,B,"The correct answer is
+b. Purchases - Purchases Discount - Purchases Returns and Allowances
+.
+Options
+Analysis
+a. Purchases + Purchases Returns and Allowances
+Purchase returns and discounts should be deducted from gross purchases to determine the purchases.
+b. Purchases - Purchases Discount - Purchases Returns and Allowances
+Net purchases refer to the total amount of purchases made by a company after deducting any discounts, returns, and allowances but adding any additional freight costs associated with those purchases. The formula in the option can help arrive at net purchases, provided the company has no freight costs.
+c. Purchases - Freight - Purchases Returns and Allowances
+Freight inwards should be added to the purchases.
+d. Purchases + Freight-in
+Net purchases refer to the total amount of purchases made by a company after deducting any discounts, returns, and allowances but adding any additional freight costs associated with those purchases. This option will help arrive at net purchases, provided no returns and allowances exist.","Purchase of Goods: The purchase of inventory is necessary to arrive at the cost of goods sold, reported on the income statement. The purchase includes all the costs needed for the goods to arrive at the warehouse for resale."
+42,A new car lot would probably cost its inventory using the _____ method of inventory costing.,specific identification,FIFO,LIFO,moving average,A,"The correct option is
+a. specific identification
+The specific identification method of inventory costing is the one most commonly used by a dealership selling brand-new automobiles. Using this method, you'll be able to see exactly how much everything in stock has cost you. In the case of a car lot, the prices of individual vehicles are easily ascertainable because they each have a unique identification number. This is the most reliable method for estimating the true value of each vehicle in stock.
+Reasons why other options are incorrect
+b. FIFO: As the name implies, the FIFO (First-In, First-Out) method prioritizes the sale of goods in the order in which they were first purchased. Though widespread in many fields, this approach might not be ideal for a car lot where each vehicle has a different price.
+c. LIFO: According to LIFO (Last-In, First-Out) theory, a stock that was most recently purchased would be the first to be liquidated. For businesses dealing with perishable goods or experiencing inflation, where inventory costs tend to rise over time, this method is preferable.
+d. moving average: After each purchase, the method of moving averages determines the average price of all units for sale. Despite its usefulness for inventory costing, it might not be precise enough for keeping tabs on the price of each new car on a dealer's lot.",Inventory Costing: First In First Out and Last In First Out are the inventory costing methods that take place in the company to derive the cost of the inventory and report it into the financial statement of the company.
+43,The costs of operating a purchasing department are necessary for the purchasing of inventory therefore; those costs should be allocated to inventory.,True,False,,,B,"The answer is
+false.
+The operating cost of the purchasing department is a period cost, not an inventory cost related to inventory preparation, like the freight and insurance during delivery from the supplier to the business. Its role is to purchase, not make, unlike the production department, which makes the inventory under the manufacturing business. Thus, the statement is false that the costs of the operating purchasing department are necessary and allocated to inventory.",Inventory is the company's products ready to sell to its customers. It appears on the current asset of the firm's balance sheet at the end of the period.
+44,"If the seller is to pay the delivery expense of delivering merchandise, the delivery terms are stated as:",FOB shipping point.,FOB destination.,FOB n/30.,FOB seller.,B,"The correct answer is option b. FOB destination.
+In shipping terms, FOB stands for ""Free On Board,"" which is a legal term that determines who is responsible for the goods during shipping and who pays for each part of the shipping process.
+If the terms are stated as ""FOB destination,"" the seller retains the risk of loss until the goods reach the buyer's location, and the seller pays the shipping cost to the buyer's destination.
+Incorrect Options
+""FOB shipping point"" means the buyer takes on risk of loss as soon as the goods leave the seller's premises, and the buyer pays for shipping costs. Thus, Option a. is incorrect.
+The terms ""FOB n/30"" and ""FOB seller"" are not standard shipping terms. The ""n/30"" is typically used in credit terms, not shipping, and means ""net 30 days,"" i.e., the full invoice amount is due 30 days after the goods are delivered or the service is completed. Thus Options c. and d. are incorrect.","Inventory: In business and finance, inventory is an asset that is primarily used for generating revenue. Businesses have been selling their inventory to customers, which is their main source of revenue."
+45,One of the controls for documents is to have all of the documents pre-numbered.,True,False,,,A,"True
+Pre-numbering documents is a control for document management, and that is true. Documents can be more easily identified and tracked if they are pre-numbered to ensure that no documents are missed, that no alterations are made without authorization, and that all records are taken into account for. It also aids in preventing document duplication, finding missing or lost documents, and keeping an inventory system of documents. Documents can be more easily tracked and any discrepancies identified if they are pre-numbered.","Inventory Management System: An inventory management system refers to the system through which an inventory is managed, utilized, and procured in such a way that maximum utilization of the inventory is possible."
+46,A method of valuating inventory based on the average of units is called the:,FIFO method.,LIFO method.,specific cost method.,average cost method.,D,"The correct option is
+d. average cost method.
+One way to determine an inventory's worth is through the average cost method, which does just that. A product's margin is calculated by dividing its total cost by its total number of units in circulation. Using this average price, we can calculate how much it costs to stock each item.
+When there is no need to identify or track individual unit costs, this method is typically employed. By taking into account the average cost of all units in stock, it accurately represents the value of the inventory.
+Reasons why other options are incorrect
+a. FIFO method. Inventory is valued using the FIFO (First-In, First-Out) method on the presumption that the earliest items purchased or produced will be the earliest to sell. The average cost is not factored in.
+b. LIFO method. The Last-In, First-Out (LIFO) method is based on the premise that the most recent purchases or outputs will be the first to be sold. The costs are not averaged out in any way.
+c. specific cost method. The specific cost method values the stock at what it would cost to produce one additional unit. The average cost is not factored in.","Inventory Costing: The company uses both the FIFO (first in, first out) and LIFO (last in, first out) inventory costing methods to determine the cost of inventory and report it in the financial reporting or statements."
+47,A characteristic of purchases is:,it has a debit normal balance.,it reduces net income.,that it is used to record the purchase of merchandise to be resold.,All of the above.,D,"The correct answer is
+d. All of the above
+.
+Options
+Analysis
+a. it has a debit normal balance.
+The normal balance of the purchase account is a debit balance, representing an expense for the business.
+b. it reduces net income.
+Expenses reduce the net income, and so make the purchases.
+c. that it is used to record the purchase of merchandise to be resold.
+Purchase account represents the merchandise that should be resold to the customers.
+d. All of the above.
+As all the other options define purchases, this option becomes correct.","Nominal Accounts: All the nominal account balances can be seen on the income statement. These accounts should be zeroed out each period for the new balances to flow in. Nominal accounts include revenue, expenses, profits, and losses."
+48,"If title to merchandise purchases passes to the buyer when the goods are shipped from the seller, the terms are:",n/30.,FOB shipping point.,FOB destination.,consigned.,B,"The correct answer is option b. FOB shipping point.
+FOB stands for ""Free On Board"", which is a legal term that determines when title and risk of loss transfer from the seller to the buyer.
+If terms are stated as ""FOB shipping point"", it means that the ownership of goods, and thus the risk of loss, transfers from the seller to the buyer as soon as the goods are shipped from the seller's location. The buyer is also typically responsible for shipping costs under these terms.
+Incorrect Options:
+""n/30"" is a credit term that means the full invoice amount is due 30 days after the goods are delivered or the service is completed.
+""FOB destination"" means the seller retains ownership and risk of loss until the goods reach the buyer's location.
+When goods are ""consigned,"" it means that the consignor sends them to the consignee, but the consignor still owns the goods until they are sold.","Inventory: In business and finance, having an inventory helps to balance out any sudden changes in demand or disruptions in supply, acting as a buffer against any fluctuations that may occur."
+49,Inventory held by a business is a(an) __________ and when sold becomes a(an) __________.,"revenue, expense","liability, asset","asset, liability","asset, expense",D,"Inventory held by a business is an
+d. asset
+and, when sold, becomes an
+expense
+.
+Inventory are assets available for sale and are reported on the balance sheet as a current asset. When inventory is sold, its value is subtracted from the asset and recorded as a cost of goods sold which is an expense account.
+Analysis of Alternatives
+a. Inventory has not generated an inflow of value when it is held, so it is not revenue.
+b. There is no obligation to outside parties incurred by holding inventory, so it is not a liability.
+c. The sale of inventory is a cost of business and not an obligation that is owed at a future date, so it is not a liability when sold.","Sales: A company that provides services to customers as its business model records service revenue as its top line item on an income statement. When inventory is used to generate revenue, the top line reports sales revenue rather than service revenue."
+50,"When goods are transferred from the Work-in-Process Inventory account to the Finished Goods Inventory account, __________.",total assets and total liabilities increase by the same amount.,total equity and total assets increase by the same amount.,total assets of the company remain constant.,total liabilities increase and total equity decrease by the same amount.,C,"The answer is
+option c.
+The finished goods inventory is the company's completed products and is ready to be sold by the sales department to customers. In contrast, work-in-process inventory is partially incomplete or still in process. Both are assets. So, transferring from one to another
+does not affect the total assets
+since it offsets the increased finished goods with decreased work in process inventory. Liability and equity are not involved in that transaction.","Inventory: A manufacturing business would maintain three inventories. These are finished goods inventory, work-in-process inventory, and raw materials inventory."
+51,"When the terms of sale are FOB shipping point, who should ultimately pay the transportation charges?",Supplier,Seller,Shipping company,Buyer,D,"The correct answer is
+option d. Buyer.
+FOB stands for free or freight on board. The two commonly used terms used in international trading are FOB shipping and FOB destination. These indicate the point at which the title of goods is passed on from the selling entity to the purchasing entity. FOB terms decide the entity is liable for any loss or damage to goods during transportation.
+FOB shipping indicates that the title to items passes on at the time they are handed over to the shipping company. After that, the responsibility for damages passes on to the customer. FOB shipping charges are paid by the buyer.
+FOB destination indicates that the liability for items belongs to the selling entity until the goods are safely delivered to the purchaser. FOB destination charges are paid by the seller.
+The supplier or shipping company is generally not liable for shipping charges.",Freight Charges: Freight charges refer to the amount that is paid to the company that transports items from the point of origin to the point of destination. It also includes expenses like insurance and storage charges.
+52,Which of the following methods uses the oldest price of inventory first when assigning a value to our inventory?,FIFO,LIFO,Average cost,,A,"The correct option is
+a. FIFO.
+The First-In, First-Out (FIFO) method prioritizes the oldest price of inventory when determining its value. This method of inventory valuation presupposes that the oldest stock (i.e., the goods purchased or produced first) are liquidated first. The cost of the oldest inventory is deducted first from the cost of goods sold, while the cost of the most recently acquired inventory is carried forward to the balance sheet as ending inventory.
+Reasons why other options are incorrect:
+b. LIFO
+: Because LIFO, or Last-In, First-Out, accounting prioritizes the most recent purchase prices when determining an inventory's value, this option is incorrect. It presupposes that inventory is liquidated from newest to oldest.
+c. Average cost
+: This option is incorrect because the average cost method calculates the cost of goods sold and ending inventory by taking a weighted average of all units that were available for sale during the accounting period.","Inventory Management Technique: The inventory management technique refers to extensive planning to reduce the cost of the inventory so that the cost of manufacturing could be reduced, the price could also be lowered, and high margins could be maintained."
+53,"On November 2, Griffey Company has cash sales of $4,200 from merchandise having a cost of $3,000. The entries to record the day's cash sales will include:","a $3,000 credit to the Cost of Goods Sold.","a $4,200 credit to Cash.","a $3,000 credit to Merchandise Inventory.","a $4,200 debit to Accounts Receivable.",C,"The correct answer is
+c. a $3,000 credit to Merchandise Inventory.
+The entries to record the cash sales are as follows:
+Date
+Accounts and Explanation
+Debit ($)
+Credit ($)
+2 Nov.
+Cash
+4,200
+Sales
+4,200
+(to record the cash sales)
+2 Nov.
+Cost of goods sold
+3,000
+Merchandise inventory
+3,000
+(to record the cost of goods sold)
+Merchandise is credited because the inventory balance decreases with sales. Merchandise inventory is an asset account, and assets are debited when they increase and credited when they decrease.
+Explanation for incorrect options:
+a. a $3,000 credit to the Cost of Goods Sold: This is incorrect because the cost of goods sold is an expense account and expenses are debited when expenses increase.
+b. a $4,200 credit to Cash: This is incorrect because cash is credited when paid but cash is received on cash sales.
+d. a $4,200 debit to Accounts Receivable: This is incorrect because the sales are in cash.",Sales: Sales refers to a recurring business transaction that results in an increase in cash or receivables and a decrease in inventory or product. This is the operating activity of a business.
+54,"On the balance sheet of a retailer, the Merchandise Inventory account:",is included in the current assets section.,"is listed after the property, plant, and equipment asset section.",represents the value of inventory that has been sold during the period.,is not included because it is an income statement account.,A,"Correct Answer:
+Option A) is included in the current assets section
+.
+Options
+Analysis
+A) is included in the current assets section.
+A retailer purchases finished goods from the wholesaler and resells them to the consumers. Inventory is a current asset for a retailer, reported on the balance sheet.
+B) is listed after the property, plant, and equipment asset section.
+Inventory is a current asset that can be turned into sales and cash within one year.
+C) represents the value of inventory that has been sold during the period.
+Inventory represents the value of inventory that remains unsold.
+D) is not included because it is an income statement account.
+It is adjusted to determine the cost of goods sold but is reported on the balance sheet.","Assets: A company's assets are reported on its balance sheet in the order of its liquidity. As a result, current assets are listed before fixed assets. Fixed assets are long-term assets that are classified into tangible and intangible forms."
+55,Which of the following is recorded in the sales journal?,return of merchandise purchased on account.,sale of merchandise on account.,sale of merchandise for cash.,return of merchandise purchased for cash.,B,"The correct answer is
+b. sale of merchandise on account
+.
+Options
+Analysis
+a. return of merchandise purchased on account.
+Purchase returns are not recorded in a sales journal. They are taken care of by the purchases journal.
+b. sale of merchandise on account.
+Sales journal takes care of the sales made on account of customers.
+c. sale of merchandise for cash.
+Cash receipts journal takes care of the cash sales.
+d. return of merchandise purchased for cash.
+Purchase journal or the general journal takes care of the purchase returns.","Special Journals: When special journals are used, the general journal is used only for transactions that don't fit in the special journals. Special journals include sales journals, purchases journals, cash receipts, and payments journals."
+56,Finished goods are the equivalent of merchandise inventory for a retailer or wholesaler in that both represent the inventory of goods held for sale.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that finished goods are the equivalent of merchandise inventory for a retailer or wholesaler in that both represent the inventory of goods held for sale because the finished goods inventory account of a manufacturing company is debited when goods are completed and transferred out to the production process. This means that the finished goods inventory account represents the cost assigned to the goods that are ready to be sold, just like the merchandise inventory account of a retailer or wholesaler.
+The cost of goods sold entry is also processed between the finished goods inventory and the expense account, and this is also the same as the merchandise inventory account of a retailer or wholesaler.","Manufacturing Inventory: Manufacturing companies have three inventory classes; raw materials, work-in-process, and finished goods inventory. The sum of the ending balances of these three inventory accounts is presented in the current asset section of the balance sheet."
+57,Which one of the following represents the most liquid asset?,$100 accounts receivable that will be collected in full next week,$100 of inventory that is sold today for $100 cash,$100 of inventory which is discounted and sold for $97 cash today,$100 of inventory which is sold today on credit,B,"The correct answer is
+b. $100 of inventory that is sold today for $100 cash
+This is because the inventory is sold and the cash is received on the same day by the company. Hence, the inventory represents the most liquid asset.
+Option a is incorrect because $100 accounts receivable will be received next week.
+Option c is incorrect as the $100 inventory has been sold for $97 which is less than the expected value and represents a loss.
+Option d is incorrect as the $100 inventory has been sold today on credit which means the cash will be received at a later date.","Liquid Assets: Liquid assets represent the assets that can be readily converted into cash in a short period as and when the need for cash arises. Cash in hand, inventory, accounts receivables, marketable securities, short-term investments, etc are some examples of liquid assets."

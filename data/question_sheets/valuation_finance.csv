@@ -1,0 +1,472 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Liabilities are considered nominal accounts.,True,False,,,B,"The statement is
+b. False
+. It is
+false
+to say that liabilities are considered nominal accounts because all balance sheet accounts, therefore all assets, liabilities, and equity accounts are real or permanent accounts.
+Nominal accounts or temporary accounts are the income statement accounts and it includes all revenue and expense accounts. The dividends account is also a nominal account.","Nominal Accounts: Nominal accounts are a group of general ledger accounts that are closed at the end of each reporting period. Each general ledger account, when it is opened for the first time, is categorized as either a real or a nominal account."
+2,"All else constant, a bond will sell at _____ when the yield to maturity is _____ the coupon rate.",a premium; greater than,a premium; equal to,at par; greater than,a discount; greater than,D,"The correct answer is
+D. a discount; greater than
+All else constant, a bond will sell at
+a discount
+when the yield to maturity is
+greater than
+the coupon rate.
+If the YTM is greater than the coupon rate, the bonds trade at a discount. In addition to regular interest payments, these bonds offer the benefit of capital appreciation to investors, if they are held until maturity.
+The other options are incorrect.
+A.
+a premium; greater than:
+If the YTM of a bond is greater than the coupon rate, the bond trades at a discount.
+B.
+a premium; equal to:
+If the YTM and coupon rate are equal, the bond trades at par.
+C.
+at par; greater than:
+If the YTM is greater than the coupon rate, the bond trades at a discount.
+D.
+at par, less than:
+If the YTM is less than the coupon rate, the bond trades at a premium.","Bond: A bond is a fixed-income instrument that is used by corporations, and governments to raise funds for their projects and operations. Bond investors are entitled to receive coupon payments at regular intervals and the face value of the bond on maturity."
+3,"If a $100 bond is trading at $102, it is trading at a _____.",Discount,Extra Fee,Premium,Cash Basis,C,"The correct answer is
+c. Premium.
+Given information:
+Par = $100
+Price = $102
+Since the bond price is greater than its par, the bond is selling at a premium. If the bond price is less than the par value, it is selling at a discount. And, if the bond price is equal to its face value, it is selling at par.","Bonds: Bonds are debentures to acquire more capital to finance the firm's projects. Compared to stocks, bonds are issued at a lower cost, which explains why a corporation is interested in selling new bonds."
+4,"Kessen Inc.'s bonds mature in 7 years, have a par value of {eq}\$1,000 {/eq}, and make an annual coupon payment of {eq}\$70 {/eq}. The market interest rate for the bonds is {eq}8.5\% {/eq}. What is the bond's price?",{eq}\$923.22 {/eq}.,{eq}\$946.30 {/eq}.,{eq}\$969.96 {/eq}.,{eq}\$994.21 {/eq}.,A,"Given information:
+Par value = $1,000
+Coupon value = $70
+Maturity period (n) = 7 years
+Interest rate (r) = 8.5 % or 0.085
+The components needed to calculate the bond price are the coupon value, the bond's par value, the maturity period, and the interest rate. So, using all these components, the formulation of the bond price is as follows:
+{eq}\begin{align*}{\rm{Bond \;price}} &= {\rm{Coupon\; value}} \times \left[ {\frac{{1 - \frac{1}{{{{\left( {1 + {\rm{r}}} \right)}^{\rm{n}}}}}}}{{\rm{r}}}} \right] + \frac{{{\rm{Par \;value}}}}{{{{\left( {1 + {\rm{r}}} \right)}^{\rm{n}}}}}\\ &= \$ 70 \times \left[ {\frac{{1 - \frac{1}{{{{\left( {1 + 0.085\% } \right)}^7}}}}}{{0.085}}} \right] + \frac{{\$ 1,000}}{{{{\left( {1 + 0.085} \right)}^7}}}\\ &= \$ 70 \times 5.1185 + \$ 564.9263\\ &= \$ 358.295 + \$ 564.9263\end{align*} {/eq}
+Solving further:
+{eq}= \$ 923.22 {/eq}
+Therefore, the bond price is
+a. $923.22
+.","Bond Valuation: The bond valuation reflects today's value of the future payments that a bondholder will receive, discounted at an interest rate. It is a technique that helps to evaluate a bond's right price."
+5,All of the following statements regarding impairments are true except:,an impairment is a permanent decline in an asset's market value.,"after an impairment write-down, depreciation is generally lower in subsequent periods.",immediate recognition of impairment write-downs is now required.,impairments are generally recorded when the book value falls below the market value.,D,"The correct option is d.
+Impairments are generally recorded when the book value falls below the market value
+.
+The above statement regarding impairments is not true. Impairments are generally recorded when the
+market value falls below the book value
+of the asset. An impairment loss is recorded when the carrying value of an asset exceeds its fair value.
+For example, for a building with a cost of $1,000,000 and accumulated depreciation of $150,000, the book value will be $850,000. If the market value of the building is $2,000,000, there will be no impairment loss. But if the market value falls to $500,000, the impairment loss will be $350,000 and must be recorded by the company during the period the market value fell.
+The other answer options regarding impairments are true:
+a. -
+An impairment is a permanent decline in an asset's market value
+is correct because impairments are not recorded when the decrease in an asset's market value is deemed temporary.
+b. -
+After an impairment write-down, depreciation is generally lower in subsequent periods
+is also correct because, after the impairment write-down, the asset's carrying amount will be lower. The new carrying amount is used to calculate the annual depreciation expense.
+c. -
+Immediate recognition of impairment write-downs is now required
+is also correct because the accounting standards require that impairment losses be recorded in the period they are incurred.",Impairment Loss: An impairment loss is recorded as an operating expense in the income statement when the impairment of long-term assets has been identified. Companies are required to test the long-term assets for impairment periodically.
+6,The contract that describes the terms of a borrowing arrangement between a firm that sells a bond issue and the investors who purchase the bonds is called the _____.,trustee,indenture,debenture,,A,"A. Incorrect. A trustee refers to an individual or an organization that administers assets or investments on behalf of others.
+B. Correct. The indenture contract will detail all related information about the bond: coupon rate, maturity, attached provision, etc.
+C. Incorrect. Debentures are long-term debt securities, which are bonds.","Bonds: Bonds are recommended securities to investors who prefer s stable stream of cash inflows to reduce the overall credit risk. Besides periodic coupons, a bond issuer will receive the bond's par value at its maturity. However, bonds can be sold in the exchange market for immediate cash."
+7,Which of the following is not an issuer of bonds?,households,corporations,The U.S. Treasury,government agencies,A,"The correct answer is
+A) households.
+Currently, corporate entities, Federal governments, State governments, and government agencies are eligible to raise debt capital by selling bonds. Households will acquire debt through financial institutions.",Bonds: Bonds are sold to raise debt capital for long-term use. The issuer needs to make interest payments until the bond's maturity date. A bond's principal will be returned to bondholders as well.
+8,"Udaf, Inc. purchases a truck costing $8,000. The company paid $3,000 right away and charge the remaining amount. To record this transaction, the company would:","Debit Truck $8,000; Credit Cash $3,000 and Credit Accounts Payable $5,000","Debit Truck $8,000; Credit Cash $8,000","Debit Truck $5,000 and Credit Accounts Payable $3,000","Debit Truck $8,000; Credit Cash $3,000 and Credit Accounts Receivable $5,000",A,"The correct option is a. Debit Truck $8,000; Credit Cash $3,000 and Credit Accounts Payable $5,000.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Debit Truck $8,000; Credit Cash $3,000 and Credit Accounts Payable $5,000
+This is the correct alternative because the truck asset must increase with the total amount and assets increase on the debit side. The cash asset decreases with the cash payment and the Accounts Payable liability increases with the balance.
+b. Debit Truck $8,000; Credit Cash $8,000
+Not all of the purchase price was paid in cash.
+c. Debit Truck $5,000 and Credit Accounts Payable $3,000
+Some of the purchase price was paid in cash.
+d. Debit Truck $8,000; Credit Cash $3,000 and Credit Accounts Receivable $5,000
+Accounts Receivable is used to record sales on account, not purchases on account.","Purchase of an Asset: Property, plant, and equipment purchases are recorded in asset accounts. These accounts have normal debit balances, and the total cost of the asset plus any expenses incurred to get it ready for its intended use are recorded on the purchase date."
+9,The value of a bond is the present value of the:,maturity value.,interest payments and maturity value.,dividends and maturity value.,interest and dividend payments.,B,"The correct option is b. interest payments and maturity value.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. maturity value.
+The present value of the periodic interest payment also affects the value of bonds.
+b. interest payments and maturity value.
+This is the correct alternative because the present value of the periodic interest payments plus the present value of the maturity value (both calculated using the market interest rate as the discount rate) is equal to the proceeds received on the bond issue i.e. its value.
+c. dividends and maturity value.
+Bonds pay interest, not dividends
+d. interest and dividend payments.
+There are no dividend payments on bonds.",Value of a Bond: The value of a bond on its issue date is usually not the same as its face value because market interest rates are almost always different from the coupon rate of the bond. The difference between the issue price and the face value is called the premium or discount on the bonds.
+10,"Indicate whether the following statement about operational assets and liabilities is true or false. When several long-term assets are purchased in a single transaction, the purchase price is allocated among the assets based on their relative fair values.",True,False,,,A,"It is
+true
+to say that when several long-term assets are purchased in a single transaction, the purchase price is allocated among the assets based on their relative fair values.
+Plant assets are accounted for in asset groups such as equipment, building, and land improvements and the depreciation policy is often determined for a group of assets. Also, the cost and annual depreciation of individual assets are recorded in the fixed assets register and this register is then used to calculate the gain or loss when the asset is subsequently sold. This means that when several long-term assets are purchased in a single transaction, the total purchase price cannot be recorded as a lump sum in the accounting records, because then the depreciation expense and the eventual gain or loss would be inaccurate. Therefore, the transaction price is allocated among the assets based on their relative fair values.","Cost of a Plant Asset: The cost at which a plant asset is recorded affects the balance sheet over the asset's life. It is also the basis for the depreciation expense, so the cost also has an effect on the net income as calculated in the income statement over the asset's life."
+11,What is the current price of a 5-year bond with a face value of $1000 and a coupon rate of 3%? Assume the current interest rate is 5%.,$821.56,$864.55,$891.41,$913.41,D,"The correct answer is option d.
+$913.41
+Given information:
+Maturity period (n) = 5 years
+Par (face) value = $1,000
+Interest rate (r) = 5% or 0.05
+Coupon rate = 3% or 0.03
+First, calculate the coupon payment:
+{eq}\begin{align*}{\rm{Coupon}}\,{\rm{payment}} &= {\rm{Par}}\,{\rm{value}} \times {\rm{Coupon}}\,{\rm{rate}}\\ &= \$ 1,000 \times 3\% \\ &= \$ 1,000 \times 0.03\\ &= \$ 30\end{align*} {/eq}
+Hence, the coupon payment is
+$30.
+Now, calculate the bond price:
+{eq}\begin{align*}{\rm{Bond\; price}} &= {\rm{Coupon}}\,{\rm{Payment}} \times \left[ {\frac{{1 - \frac{1}{{{{\left( {1 + {\rm{r}}} \right)}^{\rm{n}}}}}}}{{\rm{r}}}} \right] + \frac{{{\rm{Par \;value}}}}{{{{\left( {1 + {\rm{r}}} \right)}^{\rm{n}}}}}\\ &= \$ 30 \times \left[ {\frac{{1 - \frac{1}{{{{\left( {1 + 0.05} \right)}^5}}}}}{{0.05}}} \right] + \frac{{\$ 1,000}}{{{{\left( {1 + 0.05} \right)}^5}}}\\ &= \$ 30 \times \frac{{0.21647383}}{{0.05}} + \frac{{\$ 1,000}}{{{{\left( {1 + 0.05} \right)}^5}}}\\ &= (\$ 30 \times 4.3294766) + \$ 783.526 \\ &= \$ 129.884 + \$ 783.526\\ &= \$ 913.41 \end{align*} {/eq}",Bond: A debt instrument that the government or enterprises issue to fulfill the need for funds for a project is known as a bond. The issuer promises to pay the holder yearly interest till maturity.
+12,Which of the following statements regarding corporate bonds is most correct?,Debentures are riskier than subordinated debentures because they are paid last in the event of bankruptcy.,Mortgage bonds are riskier than debentures because the value of the asset pledged as collateral may not be sufficient to repay the mortgage.,The interest rate on subordinated debentures is likely to be higher than the interest rate on debentures.,Debentures are secured by the asset purchased with the loaned funds.,A,"a. Incorrect. Subordinated debentures are ranked after all other debts in a firm. Hence, subordinated bonds are more riskier than regular debentures.
+b. Incorrect. Mortgage bonds are backed by real estate. In detail, the real estate will be liquidated to repay the bondholders when the bond issuer cannot maintain its payments to bondholders.
+c. Correct. Since subordinated bonds are riskier. The interest rate on these bonds should be higher than regular bonds.
+d. Incorrect. Debentures are unsecured debts. The interest rate is declared according to the issuer's creditworthiness.","Corporate Bonds: A corporate entity is eligible to sell bonds to the public to raise more debt capital. The bond issuer will usually make periodic coupons until the bond's maturity date. However, the firm can also issue zero coupon bonds that will not offer any interest payment."
+13,Amortization of a discount or premium should be reported on the income statement for held-to-maturity securities.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that the amortization of a discount or premium should be reported on the income statement for held-to-maturity securities the interest revenue generated on a helo-to-maturity investment is the cash interest received plus the amortization of the discount or minus the amortization of the premium. This means that the amortization of a discount or premium is a component of the interest revenue that is disclosed in the other income and expenses section of the company's income statement.",Held-to-Maturity Securities: Held-to-maturity is an investment classification used to account for investments in the debt instruments of other companies. The classification is used when the investor has the ability and positive intent to hold the investment until it matures.
+14,"Jill is interested in a 6-year bond that pays a coupon of 8.6 percent annually and trades at a yield of 9.3% per annum. The face value is $1,000. What is the current price of this bond?",$586.51,$968.88,"$1,031.78",$968.36,B,"The correct answer is
+b. $968.88.
+Given information:
+Par = $1,000
+Coupon rate = 8.6%
+Yield (I) = 9.3%
+Time to maturity (N) = 6
+Estimate the bond price:
+{eq}\text{Price} = \displaystyle \text{Par} \times \text{Coupon rate} \times \frac{1 - (1 + \text{I})^{-N}}{\text{I}} + \frac{\text{Par}}{(1 + \text{I})^N} \\ \text{Price} = \displaystyle \$1,000 \times 8.6\% \times \frac{1 - (1 + 9.3\%)^{-6}}{9.3\%} + \frac{\$1,000}{(1 + 9.3\%)^6} \\ \text{Price} = \displaystyle $86 \times 4.44608 + $1,000 \times 0.586515 \\ \text{Price} = \displaystyle \$968.88 {/eq}
+The bond price is $968.88.","Bond Price: The price of a bond is described as the bond's spot price, which is fairly determined by converting its cash inflows to today. The discount rate should be an investor's expected rate of return. In practice, a bond's market price is usually not equal to its value."
+15,"A bond with a face value of $1,000 pays a 6% (APR) semiannual coupon and matures in 10 years. Similar bonds trade at a YTM of 5% (APR).","$1,077.22","$1,043.76","$1,077.95","$1,124.62",C,"The correct answer is
+C. $1,077.95.
+Given information:
+Par = $1,000
+Semiannual payment (PMT) = $1,000 x 6% x 0.5 = $30
+Time to maturity (N) = 10 x 2 = 20
+Semiannual yield (I) = 5% x 0.5 = 2.5%
+Estimate the price of the bond:
+{eq}\text{Price} = \displaystyle PMT \times \frac{1 - (1 + I)^{-N}}{I} + \frac{Par}{(1 + I)^N} \\ \text{Price} = \displaystyle $30 \times \frac{1 - (1 + 2.5\%)^{-20}}{2.5\%} + \frac{\$1,000}{(1 + 2.5\%)^{20}} \\ \text{Price} = \displaystyle $30 \times 15.589162 + \$1,000 \times 0.610271 \\ \text{Price} = \displaystyle $1,077.95 {/eq}
+The price of the bond is $1,077.95.",Bond Value: The value of a bond can be considered the maximum price to purchase the bond as of today. This present value of a bond is calculated by converting all expected coupons and maturity value today using the bond's yield as a discount rate.
+16,Which of the following investment criteria takes the time value of money into consideration?,Profitability index and net present value only.,Internal rate of return and net present value only.,"Profitability index, internal rate of return, and net present value.",Net present value only.,C,"The correct answer is
+c) Profitability index, internal rate of return, and net present value
+.
+Capital budgeting techniques help a company make investment decisions based on how profitable the investment is. Some of these techniques don't use the time value of money.
+Payback period and accounting rate of return are the two best examples of capital budgeting techniques that don't use the time value of money in their computations. The payback period uses the annual cash flows provided by the investment, whereas the accounting rate of return uses the average annual net income.
+Other techniques, such as net present value, discounted payback, profitability index, internal rate of return, and modified internal rate of return, use the time value of money.
+The time value of money is crucial to determine an investment's profitability because it requires converting the year-end cash flows to today's value to understand if the spending is more or the present worth of the future cash flows is more. Present value computations are significant in the long run. The option chosen represents techniques that use time value and are more reliable compared to the ones not applying the time value concepts.
+Based on the options given, all the listed tools provided in Option C) are based on the time value of money.",Time Value of Money: The time value of money is a concept that provides that money's worth today is different from its worth on a future date due to its potential to earn. We use the present and future value computations for various investments based on this concept.
+17,"A coupon bond that pays interest annually has a par value of 1000, matures in 5 years, and has a yield to maturity of 10%. The price of the bond today should be _____ if the coupon rate is 7%.",712.99,620.92,"1,123.01",886.28,D,"Given information
+:
+Par value = 1000
+Yield to maturity = 10%
+Maturity period = 5 years
+Coupon rate = 7%
+The bond price can be computed by using its formula:
+{eq}\begin{aligned} \text{Bond Price} &=\left[ \text{Coupon Rate}\times \text{Par Value}\times \frac{1-{{\left( 1+\text{Yield to Maturity} \right)}^{-\text{Maturity Period}}}}{\text{Yield to Maturity}} \right]+\frac{\text{Par Value}}{{{\left( 1+\text{Yield to Maturiy} \right)}^{\text{Maturity Period}}}} \\ &=\left[ 7\%\times 1000\times \frac{1-{{\left( 1+10\% \right)}^{-5}}}{10\%} \right]+\frac{1000}{{{\left( 1+10\% \right)}^{5}}} \\ &=\left[ 70\times 3.7908 \right]+\frac{1000}{1.61051} \\ &=265.36+620.92 \\ &=886.28 \end{aligned} {/eq}
+The bond price is
+886.28.
+Thus,
+option d
+is correct.",Bond Price: The price at which different market participants can trade or exchange bonds is known as the bond price. It fluctuates with the change in the overall prevailing market interest rates.
+18,"It is anticipated that Company XYZ will pay a dividend of $4.75 one year from now and a dividend of $5.0 one year following, after which dividends are expected to grow at the rate of 5% per annum indefinitely. If this information is communicated to the market, and the market's required rate of return is 15%, estimate the current market price of the share.",$20.0,$27.2,$30.0,$47.6,D,"The correct answer is
+d) $47.6
+The dividend for year 2 is $5.0 and it is expected to grow at 5% per annum.
+So, the dividend per share for year 3 will be
+$5.0 X (1 + .0.5) = $5.25
+As per dividend growth model,
+{eq}\text{Share price} = \dfrac{\text{Expected Dividend}}{\text{Market rate of return - Growth Rate}} {/eq}
+So, the expected share price at the end of year 2, will be -
+{eq}\begin{align} \text{Share price} &= \dfrac{\text{Expected Dividend}}{\text{Market rate of return - Growth Rate}}\\ &= \dfrac{\$5.25}{0.15 - 0.05}\\ &= \dfrac{\$5.25}{0.10}\\ &= \$52.50\\ \end{align} {/eq}
+So the current market price of share will be -
+{eq}\text{Share Price} = \dfrac{\$4.75}{1.15} + \dfrac{\$5.0}{1.15^2} + \dfrac{\$52.50}{1.15^2}\\ \text{Share Price} = \$47.60 {/eq}","Dividend Growth Model: The dividend growth model is a mathematical model to estimate the share price of the company. As per this model, the share price of a company is a function of its expected dividends."
+19,"A firm has sales of $3,200, net income of $390, total assets of $4,500, and total equity of $2,750. Interest expense is $50.",0.89 percent,1.56 percent,3.69 percent,10.26 percent,B,"The common-size statement value of the interest expense has to be derived from assuming the net sales as the common-size base. Therefore,
+{eq}\rm common-size ~statement ~value = \displaystyle \dfrac{Interest}{Sales}\\ \rm common-size ~statement ~value = \displaystyle \dfrac{\$50}{\$3,200}\\ \rm common-size ~statement ~value = 0.015625~or~\fbox{1.5625%}\\ {/eq}
+Hence, the correct answer is
+B. 1.56 percent
+.","Common-Size Statement: The common size statement refers to the representation of items in the income statement as a percentage of a firm's total revenue. This statement contributes to common-size analysis which finds out how much each item has contributed to generating\using up the revenue earned for the period. Thus, this statement analyzes the financial health of the firm well enough."
+20,A common-size income statement would typically be prepared by dividing:,all items on the income statement in Year t by net income in Year t-1.,all items on the income statement in Year t by their corresponding balance sheet accounts in Year t.,all items on the income statement in Year t by their corresponding value in Year t-1.,all items on the income statement in Year t by sales in Year t.,D,"A common-size income statement would typically be prepared by dividing
+D. all items on the income statement in Year t by sales in Year t
+. This means that each line item on the income statement is expressed as a percentage of the sales revenue of the same year. This common-size analysis is also called vertical analysis. In horizontal analysis, the difference between the current year (Year t) and the previous year (Year t-1) is calculated and then expressed as a percentage of Year t-1.
+Income statement items are never divided by balance sheet accounts.
+In horizontal analysis, the difference between the current year (Year t) and the previous year (Year t-1) is calculated and then expressed as a percentage of Year t-1.",Common Size Analysis: Common size analysis is a set of tools useful when analyzing the financial statements of companies of different sizes or when there has been a significant change in the activity level in the same company because it does not focus on absolute values.
+21,Which of the following ratios measures the ability of the company to survive over a long period of time?,Profitability ratios.,Liquidity ratios.,Solvency ratios.,Current ratios.,C,"The correct answer is
+c. Solvency ratios
+.
+The solvency ratio helps in determining the long-term solvency of a business. A business's ability to meet its long-term obligations is estimated using solvency ratios. Businesses with good solvency ratios can survive in the long run and exist for several years.
+The other options are incorrect.
+a. Profitability ratios
+: They are used to determine the profitability of a business. The ratios help determine the capacity of a business in terms of generating revenue and other factors.
+b. Liquidity ratios
+: They are used to determine a business's liquidity in terms of the payment of its short-term obligations. Such obligations are settled using available funds and do not require raising any further funds for repayment.
+d. Current ratios
+: The current ratio is a part of liquidity ratios, which determine the short-term liquidity of a business.","Ratio Analysis: Ratio analysis is conducted to measure the efficiency, profitability, solvency, liquidity, and various other aspects of a business. These ratios are calculated using the financial statements of a business, and interpretations are drawn from them."
+22,What will typically occur with an increase in long-term debt without improved earnings?,Reduction in the firm's debt-to-equity ratio.,Reduction in earnings before taxes.,Increase in the time's interest earned ratio.,Reduction in operating income.,B,"The correct option is B. Reduction in earnings before taxes.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. Reduction in the firm's debt-to-equity ratio.
+The debt-to-equity ratio will increase because debt is higher and equity is unaffected if earnings do not improve.
+B. Reduction in earnings before taxes.
+This is the correct alternative because an increase in debt will increase the interest expense, and that will decrease net income before taxes. If the new capital does not improve earnings, the earnings before (and normally after) taxes will be lower.
+C. Increase in the time's interest earned ratio.
+No, the time's interest earned ratio will
+decrease
+because the same amount of earnings before interest and tax will be available to cover the higher interest expense.
+D. Reduction in operating income.
+The increased interest expense does not affect the operating income because interest is deducted as a nonoperating expense.","Solvency Ratios: The debt-to-equity, debt-to-assets, financial leverage, and times interest earned ratios are all financial ratios used to evaluate the solvency of a company. These ratios are used by banks and other financing institutions to access the risk profile of a company."
+23,"Over the past 4 years, a local firm has paid annual dividends of $1.52, $1.55, $1.60, and $1.68. What is the arithmetic average dividend growth rate?",2.69%,3.40%,3.24%,3.62%,B,"The correct answer is option B)
+3.40%
+Given Information:
+D0 (dividend in the first year) = $1.52
+D1 (dividend in the second year) = $1.55
+D2 (dividend in the third year) = $1.60
+D3 (dividend in the fourth year) = $1.68
+n = 4
+First, calculate the growth rate for all years.
+The growth rate for year 1 (G1):
+{eq}\begin{align*}{\rm\text{G}}1 &= \frac{{{\rm\text{D}}1 - {\rm\text{D}}0}}{{{\rm\text{D}}0}}\\ &= \frac{{\$ 1.55 - \$ 1.52}}{{\$ 1.52}}\\ &= \frac{{0.03}}{{1.52}}\\ &= 0.019737\end{align*} {/eq}
+The growth rate for year 2 (G2):
+{eq}\begin{align*}{\rm\text{G2}} &= \frac{{{\rm\text{D2}} - {\rm\text{D1}}}}{{{\rm\text{D1}}}}\\ &= \frac{{\$ 1.60 - \$ 1.55}}{{\$ 1.55}}\\ &= \frac{{0.05}}{{1.52}}\\ &= 0.032258\end{align*} {/eq}
+The growth rate for year 3 (G3):
+{eq}\begin{align*}{\rm\text{G3}} &= \frac{{{\rm\text{D3}} - {\rm\text{D2}}}}{{{\rm\text{D2}}}}\\ &= \frac{{\$ 1.68 - \$ 1.60}}{{\$ 1.60}}\\ &= \frac{{0.08}}{{1.60}}\\ &= 0.05\end{align*} {/eq}
+The arithmetic average dividend growth rate can be calculated using the formula:
+{eq}\begin{align*}{\rm\text{Arithmetic average dividend growth rate}} &= \frac{{{\rm\text{G}}1 + {\rm\text{G}}2 + {\rm\text{G}}3}}{\text{Number of growth rates}}\\ &= \frac{{0.019737 + 0.032258 + 0.05}}{3}\\ &= \frac{{0.101995}}{3}\\ &= 0.034{\rm\text{ or 3}}{\rm\text{.4% }}\end{align*} {/eq}
+Therefore, the arithmetic average dividend growth rate is approximately
+3.40%
+.",Arithmetic Average Dividend Growth Rate: The arithmetic average dividend growth rate is the average rate of increase in a company's dividend payments over a certain period. It helps to make informed decisions about the stock's potential future performance.
+24,Held-to-maturity securities should be reported on the balance sheet at cost along with any unamortized discount or premium.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that held-to-maturity securities should be reported on the balance sheet at cost along with any unamortized discount or premium.
+Held-to-maturity is the only investment classification that is carried on the balance sheet at the amortized cost of the investment. This means that if an investment in the bonds of Company S with a face value of $100,000, was purchased for $105,000, this investment would initially be carried on the balance sheet for $105,000 (the cost). The premium of $5,000 is then amortized over the bond's term, but the carrying amount will always include the unamortized premium.",Held-to-Maturity Securities: Held-to-maturity securities are investments in debt securities like bonds. This classification cannot be used for investments in equity securities because equity securities like common and preferred stock do not have a maturity date.
+25,Shares of common stock of Samson Co. offer an expected total return of 20.6 percent. The dividend is increasing at a constant 4.9 percent per year. The dividend yield must be:,15.70 percent,4.90 percent,4.20 percent,25.50 percent,A,"The correct answer is option
+a. 15.70 percent
+.
+As per the dividend growth model, the dividend yield is computed as follows:
+{eq}\begin{align*} &= \text{Expected total rate of return - Constant growth rate} \\[0.3 cm] &= 20.6\% - 4.9\% \\[0.3 cm] &= 15.70\% \end{align*} {/eq}",Dividend Growth Model: The dividend growth model is a valuation model used for ascertaining the value of a constantly growing stock. It can also be used to ascertain the dividend yield on the stock if the required rate of return and growth rate are known.
+26,Suppose we have a bond that pays a 5% monthly coupon and is sold at par. How much should his nominal interest rate be if it paid an annual coupon to continue to sell at par?,4%,4.06%,5%,None of the above.,D,"The correct answer is
+d. None of the above.
+Given information:
+Monthly coupon rate = 5%
+Number of months per year (N) = 12
+The bond is sold at its par value as long as its coupon rate is equal to its yield to maturity.
+Estimate the annual coupon rate to continue to sell at par:
+{eq}\text{Annual coupon rate}= \text{Monthly coupon rate} \times \text{N} \\ \text{Annual coupon rate}= 5\% \times 12 \\ \text{Annual coupon rate}= 60\% {/eq}","Bonds: Bonds are effective financial instruments to raise long-term debt capital for a company. In practice, bonds can be sold by corporate entries. Other business forms such as partnerships or limited liabilities companies are not eligible to issue bonds."
+27,"Moore Company is about to issue a bond with semiannual coupon payments, an annual coupon rate of 8%, and a par value of $1,000. The yield to maturity for this bond is 10%.","As the time to maturity increases, the price of the bond decreases.","As the time to maturity increases, the price of the bond increases first and then decreases.","As the time to maturity increases, the price of the bond increases.","As the time to maturity increases, the price of the bond decreases first and then increases",A,"Given information:
+Par = $1,000
+Semiannual coupon (PMT) = $1,000 x 8% x 0.5 = $40
+Time to maturity 1 (N1) = 5 x 2 = 10
+Time to maturity 2 (N2) = 10 x 2 = 20
+Time to maturity 3 (N3) = 15 x 2 = 30
+Time to maturity 4 (N4) = 20 x 2 = 40
+Semiannual yield (I) = 10% x 0.5 = 5%
+a. Estimate the price of the bond associated with each time to maturity:
+N1 = 10
+{eq}\text{Price}_1 = \displaystyle PMT \times \frac{1 - (1 + I)^{-N1}}{I} + \text{Par}\times \frac{1}{(1 + I)^{N1}} \\ \text{Price}_1 = \displaystyle $40 \times \frac{1 - (1 + 5\%)^{-10}}{5\%} + \$1,000\times \frac{1}{(1 + 5\%)^{10}} \\ \text{Price}_1 = \displaystyle ($40 \times 7.72173) + (\$1,000 \times 0.61391) \\ \text{Price}_1 = \displaystyle $922.78 {/eq}
+N2 = 20
+{eq}\text{Price}_2 = \displaystyle PMT \times \frac{1 - (1 + I)^{-N2}}{I} + \text{Par}\times \frac{1}{(1 + I)^{N2}} \\ \text{Price}_2 = \displaystyle $40 \times \frac{1 - (1 + 5\%)^{-20}}{5\%} + \$1,000\times \frac{1}{(1 + 5\%)^{20}} \\ \text{Price}_2 = \displaystyle ($40 \times 12.46221) + (\$1,000 \times 0.37689) \\ \text{Price}_2 = \displaystyle $875.38 {/eq}
+N3 = 30
+{eq}\text{Price}_3 = \displaystyle PMT \times \frac{1 - (1 + I)^{-N3}}{I} + \text{Par}\times \frac{1}{(1 + I)^{N3}} \\ \text{Price}_3 = \displaystyle $40 \times \frac{1 - (1 + 5\%)^{-30}}{5\%} + \$1,000\times \frac{1}{(1 + 5\%)^{30}} \\ \text{Price}_3 = \displaystyle ($40 \times 15.37245) + (\$1,000 \times 0.23138) \\ \text{Price}_3 = \displaystyle $846.28 {/eq}
+N4 = 40
+{eq}\text{Price}_4 = \displaystyle PMT \times \frac{1 - (1 + I)^{-N4}}{I} + \text{Par}\times \frac{1}{(1 + I)^{N4}} \\ \text{Price}_4 = \displaystyle $40 \times \frac{1 - (1 + 5\%)^{-40}}{5\%} + \$1,000\times\frac{1}{(1 + 5\%)^{40}} \\ \text{Price}_4 = \displaystyle ($40 \times 17.15909) + (\$1,000 \times 0.14205) \\ \text{Price}_4 = \displaystyle $828.41 {/eq}
+b. Bond price and maturity:
+The answer is
+A. As the time to maturity increases, the price of the bond decreases.
+Previous bond prices with different maturities indicate that as the time to maturity increases, the value of the bond decreases. An increase in maturity will raise the discount factor, which results in a decrease in the bond's present value.",Bond Valuation: The value of a bond refers to its fair price estimated by discounting expected coupon payments and the maturity value to today. Investors should consider the bond's yield to maturity as the discount rate.
+28,True or False: The value of a bond is not the present value of the cash flows.,True,False,,,B,"The given statement is
+false.
+Bond valuation is a technique that is used to determine the fair price of bonds. It is a theoretical value that is used by investors to compare the trading price of different bonds and make investment decisions.
+The bond value technique calculates the theoretical value of a bond as the sum of the present value of all the payments that are received by the holder from the bond until it is held. The future payments received from the bond are in the form of periodic cash flows.",Bonds: Bonds are long-term debt securities that can be issued by an entity to raise funds for capital projects. Government and corporate entities regularly issue bonds to interested investors. It is a low-risk investment and makes regular payments in the form of coupons.
+29,"If the market rate of interest is 10%, a $10,000, 12%, 10-year bond that pays interest semiannually would sell at an amount:",less than face value.,equal to the face value.,greater than face value.,that cannot be determined.,C,"The correct answer is
+c. greater than face value.
+Face value= $10,000
+YTM=10%
+Coupon rate= 12%
+Years to maturity (n) = 10 years
+Compounding frequency = 2
+Premium bonds refer to those bonds that are sold in the market over their par value. This happens when YTM declines, owing to the bonds paying greater interest to their bondholders.
+The bond's price is higher than its face value, if the coupon rate exceeds YTM, indicating that it is selling at a premium.
+Step1: Determine the coupon payment, as shown below:
+{eq}\begin{aligned} \text{Coupon payments} &=\text{ }\frac{\text{FV }\times \text{ Coupon rate}}{\text{Compounding frequency}} \\ &=\frac{\$10,000\text{ }\times \text{ }12\%}{2} \\ &=\$600 \end{aligned} {/eq}
+Step 2: Determine the bond's value, as shown below:
+{eq}\begin{aligned} \text{Bond }\!\!'\!\!\text{ sprice} &=\text{Coupon payment}\times \frac{\left[ 1-\left[ \frac{1}{{{\left( 1+\frac{\text{YTM}}{\text{Compounding frequency}} \right)}^{\text{Years to maturity}\times \text{Compounding frequency}}}} \right] \right]}{\frac{\text{YTM}}{\text{Compounding frequency}}}+\frac{\text{Par value}}{{{\left( 1+\frac{\text{YTM}}{\text{Compounding frequency}} \right)}^{\text{Years to maturity}\times \text{Compounding frequency}}}} \\ &=\$600\times \frac{\left[ 1-\left[ \frac{1}{{{\left( 1+\frac{\text{10 }\!\!\%\!\!\text{ }}{\text{2}} \right)}^{10\times 2}}} \right] \right]}{\frac{\text{10 }\!\!\%\!\!\text{ }}{\text{2}}}+\frac{\$10,000}{{{\left( 1+\frac{\text{10 }\!\!\%\!\!\text{ }}{\text{2}} \right)}^{10\times 2}}} \\ &=\$600\times \frac{\left[ 1-\left[ \frac{1}{{{(1+5\%)}^{20}}} \right] \right]}{3\%}+\frac{\$10,000}{{{\left( 1+5\% \right)}^{20}}} \\ &=\$600\times \frac{1-0.376889483}{5\%}+\frac{\$10,000}{2.6533} \\ &=\$600\times \frac{0.6231105}{5\%}+\$3,768.89 \\ &=\$600\times 12.46221+\$3,768.89 \\ &=\$7,477.33+\$3,768.89 \\ &=\$11,246.22 \end{aligned} {/eq}
+The bond's value is $11,246.22. Thus, it would sell for more than its face value.",Par Value of Bonds: Bonds that are currently trading at their par value are referred to as par value bonds. The original cost or the face value of a bond is referred to as its par value. The bond trades at its face value when the market interest rate and the bond's coupon rate are equal.
+30,True or False: The normal balance of a revenue account in the general ledger is a debit.,True,False,,,B,"The statement is
+False
+.
+The sales revenue account has a normal credit balance because it is a nominal account. As per the nominal account rule, all revenue accounts should be credited. Therefore, the general ledger will report the revenue as a credit entry and not a debit.","Debits & Credits: An account balance can be determined by applying the golden accounting rules and categorizing the account type. The three account categories include personal, real, and nominal accounts. Each of these account types follows a unique golden rule."
+31,"A share just paid a dividend of $0.30. The dividend is expected to increase at an annual rate of 4% forever. If the required return is 10%, what is the fair value of this share today?",$0.31,$5.50,$5.20,$3.12,C,"Option c. $5.20
+is correct.
+Given information:
+Current dividend = $0.30
+Annual rate = 4%
+Required return = 10%
+Calculate the fair value by dividing the product of the current dividend and the sum of one and the annual rate by the difference between the required return and the annual rate:
+{eq}\begin{aligned} \text{Fair Value} &=\frac{\text{Current Dividend}\times \left( 1+\text{Annual Rate} \right)}{\text{Required Return}-\text{Annual Rate}} \\ &=\frac{\$0.30\times \left( 1+4\% \right)}{10\%-4\%} \\ &=\frac{\$0.312}{0.06} \\ &=\$5.20 \end{aligned} {/eq}",Fair Value: The value that represents a company's intrinsic value based on the underlying financials and future growth prospects is known as fair value. It changes with a change in the expectations regarding future growth and relative risk associated with the company.
+32,"What is the current yield for a $1,000 corporate bond that pays 9% and has a current market value of $825?",9.0%.,10.9%.,10.0%.,8.25%.,B,"The correct answer is
+b) 10.9%
+.
+The current yield on a bond can be determined using the following inputs:
+Bond's coupon amount = (Par value × Coupon rate) = ($1,000 × 9%) = $90
+Bond's current market price = $825
+Upon logically arranging these inputs, we have the following computation:
+{eq}\text{Bond's Current Yield} = \dfrac{\text{Bond's coupon amount}}{\text{Bond's current market price}} = \dfrac{\$90}{\$825} =10.9\% {/eq}",Current Yield: A bond's current yield determines the return it provides the bondholders if held for one year. The current yield uses the bond's present value and coupon value in its determination.
+33,"When bonds are issued at their face amount, the journal entry will include a:",credit to Premium on Bonds Payable.,debit to Discount on Bonds Payable.,credit to Cash.,credit to Bonds Payable.,D,"The correct option is d. credit to Bonds Payable.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. credit to Premium on Bonds Payable.
+When bonds are issued at par there is no discount to record.
+b. debit to Discount on Bonds Payable.
+When bonds are issued at par there is no discount to record.
+c. credit to Cash.
+Cash is debited with the proceeds from the bond issue.
+d. credit to Bonds Payable.
+This is the correct alternative because the bond payable liability increases when the liability is incurred
+.",Issuing Bonds at Par: Bonds are issued at par when their coupon interest rate is the same as the market interest rate on the issue date. This means that the proceeds on the bond issue is the same as the face value of the bonds issued.
+34,"A bond is currently priced at $1,100. Which of the following should you expect?",The coupon rate is lower than the yield to maturity.,The coupon rate is greater than the yield to maturity.,The bond is selling at par.,The coupon rate is equal to the yield to maturity.,B,"When a bond trades at a premium, i.e. it trades at a higher than the face value, it compensates for the same to the buyers in the form of higher interest payments than the market rate.
+Therefore, the correct option is
+B. The coupon rate is greater than the yield to maturity.
+Option A is incorrect as when the coupon rate is lower than the yield to maturity(YTM), the bond trades at a discount.
+Option C is incorrect as when the bond sells at par, the coupon rate and the YTM are the same.
+Option D is incorrect as when the coupon rate equals the YTM, the bond sells at par.","Bond Interest and the Market Interest: The bond interest very rarely equals the market interest rate. It is either lower or higher than the latter. Based on investment preferences, investors choose the best bond that matches their needs."
+35,Which of the following statements is FALSE?,We should use the general dividend discount model to value the stock of a firm with rapid or changing growth.,"As firms mature, their growth slows to rates more typical of established companies.",The dividend discount model values the stock based on a forecast of the future dividends paid to shareholders.,"The simplest forecast for the firm s future dividends states that they will grow at a constant rate, g, forever.",A,"The correct answer is
+A. We should use the general dividend discount model to value the stock of a firm with rapid or changing growth.
+The statement is false because the dividend growth rate under the general dividend discount model is assumed to be constant. Thus, it is used to value stocks with a stable business and constant growth. Since a rapidly growing firm does not satisfy the constant growth rate assumption, it cannot be valued using the general dividend discount model.
+The other options are not the answer because they are true.
+B.
+As firms mature, their growth slows to rates more typical of established companies:
+As a business grows, it faces increased competition, which limits its growth potential. As a result, the growth rate starts slowing down and ultimately mirrors the growth rate of mature and established companies.
+C.
+The dividend discount model values the stock based on a forecast of the future dividends paid to shareholders:
+The dividend discount model is a discounted cash flow model. Thus, the intrinsic value of a stock is the sum of all the dividend payments an investor expects to receive as a result of investing in it.
+D.
+The simplest forecast for the firm's future dividends states that they will grow at a constant rate, g, forever:
+The simplest form of the dividend discount model, also called the Gordon growth model, assumes that the dividends paid by a company grow at a constant rate.","Equity Valuation: Equity valuation is a technique used by investors to determine the intrinsic value of a stock. A number of fundamental factors, such as management, profitability, and the financial health of the business, as well as the macroeconomic environment in which the business operates, are studied to value equity securities."
+36,The market rate of a bond is higher than the stated rate when bonds are sold at:,Face value,A discount,A premium,None of these choices are correct,B,"The correct answer is option
+b. A discount
+.
+For a given stated rate or coupon rate of a bond, the price of a bond is inversely related to the market interest rate. A bond is sold at a discount to the face value if the market interest rate is higher than the stated rate or coupon rate. On the other hand, a bond is sold at a premium to the face value if the market interest rate is less than the stated rate or coupon rate.
+Lastly, a bond is sold at the face value if the market interest rate is equal to the stated rate or coupon rate.","Price of Bonds: Bonds are financial instruments that are issued to borrow funds from investors for financing the operating assets of a firm. Based on the market interest rate and stated rate, a bond is issued at a discount, premium, or face value."
+37,The coupon payment for an annual-coupon corporate bond is equal to the yield to maturity multiplied by the par value of the bond.,True,False,,,B,"The statement is
+b. FALSE.
+The coupon payment is calculated by multiplying the coupon rate with the bond's par value. The bond's yield to maturity refers to an annual rate of return if a bond is held until its maturity date.",Coupon Payment: A bond's coupon payment is the periodic amount paid to bondholders. A series of coupon payments is an attractive feature for an investor to acquire a bond since these payments can stabilize an investor's future income.
+38,"A stock just paid a dividend of $1.41, has a required rate of return of 18%, and a constant dividend growth rate of 4%. What price should this stock be selling for?",$5.66,$5.76,$10.47,$15.71,C,"The answer is
+c. $10.47.
+Given information:
+Recent dividend (D0) = $1.41
+Required rate of return (I) = 18%
+Constant growth rate (g) = 4%
+The expected selling price of a stock can be determined according to the constant dividend growth model since its stream of dividends meets the assumptions of the model.
+Estimate the expected selling price of a stock:
+{eq}\text{Selling price} = \displaystyle \frac{D0 \times (1 + g)}{I - g} \\ \text{Selling price} = \displaystyle \frac{\$1.41 \times (1 + 4\%)}{18\% - 4\%} \\ \text{Selling price} = \displaystyle $10.47 {/eq}",Fair Price Of A Stock: A stock's fair price represents its intrinsic value derived from its series of expected dividends. This fair price is usually different from the market price as the market price is affected strongly by investors' demand.
+39,"If Ace Company and Deuce Company trade machines, Ace should set up the new machine.",None of the above are correct statements,At zero since there was no cash paid.,At fair market value unless the machines are deemed similar and there is no culmination of the earnings process.,At the net book value of the machine given up.,D,"The correct option is .
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. None of the above are correct statements
+No
+b. At zero since there was no cash paid.
+The payment of cash is not a measurement or recognition requirement.
+c. At fair market value unless the machines are deemed similar and there is no culmination of the earnings process.
+This is the correct alternative because the fair value is usually the value used to initially measure an asset in a non-monetary exchange. The exception to this rule is in cases where the transaction lacks commercial substance, and this happens when the exchange does not affect the earnings or cash flows of the company.
+d. At the net book value of the machine given up.
+This is the correct alternative when the exchange lacks commercial substance.",Asset Exchange: The non-monetary exchange of assets refers to transactions where assets are acquired and disposed of by two parties without any cash flow or where only some of the transaction price is paid for or received in cash.
+40,"Stalnd, Inc., has 7 percent coupon bonds on the market that have 15 years left to maturity. The bonds make annual payments. If the YTM on these bonds is 9 percent, what is the current bond price?",$880.73,$838.79,$796.85,"$1,186.16",B,"The correct answer is
+option b. $838.79.
+Given information:
+Face value (FV) = $1,000
+YTM= 9%
+Coupon rate=7%
+Years to maturity(n)= 15 years
+The fixed income that a bondholder receives is known as a coupon payment. It is paid as an annuity and is similar to interest. The payment amount is determined using the bond's face value at the rate specified in the bond agreement.
+Step 1: Determine the coupon payments by multiplying the bond's face value by its coupon rate:
+{eq}\begin{aligned} \mathbf{Coupon}\text{ }\mathbf{payments} &=\text{ }\mathbf{FV}\text{ }\times \text{ Co}\mathbf{upon}\text{ }\mathbf{rate} \\ &=\$\mathbf{1},\mathbf{000}\text{ }\mathbf{x}\text{ }\mathbf{7}\mathbf{}\% \\ &=\$\mathbf{70} \end{aligned} {/eq}
+Step 2: Determine the bond's price by applying the financial formula used for calculating a bond's price:
+{eq}\begin{aligned} \text{Bond }\!\!'\!\!\text{ s}\ \text{price} &=\text{Coupon}\ \text{payments}\times \frac{\left[ 1-\left[ \frac{1}{{{\left( 1+\text{YTM} \right)}^{n}}} \right] \right]}{\text{YTM}}+\frac{\text{FV}}{{{\left( 1+\text{YTM} \right)}^{n}}} \\ &=\$70\times \frac{\left[ 1-\left[ \frac{1}{{{(1+9\%)}^{15}}} \right] \right]}{9\%}+\frac{\$1,000}{{{(1+9\%)}^{15}}} \\ &=\$70\times \frac{0.725462}{9\%}+\frac{\$1,000}{3.6425} \\ &=\$70\times 8.06069+\$274.54 \\ &=\$564.25+\$274.54 \\ &=\$838.79 \end{aligned} {/eq}
+Thus, the bond's price is $838.79.","Bonds: A bond is an investment that pays out a regular coupon payment as a return over a set number of years and pays back the invested amount at maturity. It can be purchased and sold at a par, a premium, or a discount."
+41,The date on which a bond contract ends and the stated amount of the final payment (as spelled out in the bond's Indenture) is made to bondholders is known as what?,Redemption.,Maturity.,Par Value.,Coupon.,C,"a. Incorrect. Redemption value is a stated value if the bond is redeemed earlier than its maturity.
+b. Incorrect. Maturity is the length of time that a bond will mature, which counts from the date of issuance to the date of maturity.
+c. Correct. Apart from interest payments, bond issuers need to return the bond's maturity value (par value) to bondholders when the bond matures.
+d. Incorrect. A coupon is the interest payment on the bond.","Bonds: A corporate firm can sell bonds to external investors to obtain additional capital. If that is, the firm needs to make interest payments to bondholders until the bonds mature in the future. However, interest payments are not required for zero-coupon bonds."
+42,Assume the risk-free rate is 6% and the market risk premium is 7%. The stock of Physicians Care Network (PCN) has a beta of 1.5. The last dividend paid by PCN was $2 per share. What would PCN's stock value be if the dividend were expected to grow at a constant rate of negative 5%?,$6.00,$8.84,$9.50,$17.60,B,"To ascertain PCN's stock value, we need to determine its cost of equity. From the given information, we can calculate the same using the capital asset pricing model (CAPM). As per the CAPM, the expected return or the cost of equity is
+{eq}E_{r}~or~K_{e} = R_{f} + \beta \times (R_{m}-R_{f}) {/eq}
+Where,
+{eq}E_{r} {/eq} is the expected return and the cost of equity
+{eq}R_{f} {/eq} is the risk-free rate = 6% or 0.06
+Beta ({eq}\beta {/eq}) is the systematic risk of security = 1.5
+{eq}R_{m} {/eq} is the market return
+{eq}R_{m} - R_{f} {/eq} is the risk premium = 7% or 0.07
+Therefore, the expected return or the cost of equity will be
+{eq}\rm E_{r} = 0.06 + (1.5 \times 0.07)\\ \rm E_{r} = 0.06 + 0.105\\ \rm E_{r} = 0.165~ or ~16.5\% {/eq}
+Now, by applying the dividend growth model, PCN's stock value is calculated as
+{eq}\displaystyle P_{0}=\dfrac{D_1}{K_{e}-g} {/eq}
+{eq}D_{0} {/eq} is the last dividend paid = $2
+g is the growth rate of dividends = -5% or -0.05
+{eq}D_{1} {/eq} is the dividend for next year and is calculated as {eq}\rm D_{0} \times (1+g)\\ \rm = \$2 \times (1 + (-0.05)\\ = \$2 \times (0.95)\\ = $1.9 {/eq}
+{eq}P_{0} {/eq} is the current price of the share
+{eq}K_{e} {/eq} is the cost of equity = 16.5%
+Therefore,
+{eq}\rm \displaystyle P_{0}=\dfrac{\$1.9}{0.165-(-0.05)}\\ \rm P_{0} = \dfrac{\$1.9}{0.215}\\ \rm P_{0} = \fbox{\$8.84} {/eq}
+Therefore, the correct option is
+b. $8.84","Negative Growth Rate: When a firm's growth rate turns negative, then instead of growing and increasing its profits, the growth reverses draining the past profits out of the business to clear its debt. Economic recession, customer or product policy changes, still competition, etc are a few reasons a firm may face a negative growth scenario."
+43,"What is the value of a common stock if the growth rate is 8 percent, the most recent dividend was $2, and investors require a 15 percent return on similar investments?",$25.78,$27.34,$30.85,$28.57,C,"The calculated value of the given stock is option
+C. $30.85
+.
+The dividend value at the end of year 1 is computed as follows:
+{eq}\begin{align*} &= \text{Most recent dividend * (1 + growth rate)} \\[0.3cm] &= $2 * (1 + 8\%) \\[0.3cm] &= $2 * 1.08 \\[0.3cm] &= $2.16 \end{align*} {/eq}
+The value of the stock is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Dividend at the end of year 1}}{\text{Required rate of return - growth rate}} \\[0.3cm] &= \dfrac{\$2.16}{(15\% - 8\%)} \\[0.3cm] &= \dfrac{\$2.16}{7\%} \\[0.3cm] &= $30.85 \end{align*} {/eq}",Dividend Growth Model: The dividend growth model is used to determine the value of a common stock that is going to return dividends at a constant growth rate to the shareholders. The value is inversely related to the difference between the required rate of return and the growth rate.
+44,MSFT corp. has an ROE of 15%. The forecasted next-period earning is $10/share and the dividend is $1/share. What is the expected growth rate of MSFT's price?,15%,13.5%,1.5%,None of the above,B,"Given information:
+ROE = 15%
+Expected dividend (D1) = $1
+Expected earnings per share (EPS) = $10
+Assume that MSFT corp. will not raise external capital to fund its business growth. Hence, the expected growth rate for the earnings, dividends and stock price is the sustainable growth rate.
+Estimate the sustainable growth rate for the business:
+{eq}\text{Sustainable growth rate} = \displaystyle \text{ROE} \times (1 - \text{Dividend payout ratio}) \\ \text{Sustainable growth rate} = \displaystyle \text{ROE} \times (1 - \displaystyle \frac{\text{D1}}{\text{EPS}}) \\ \text{Sustainable growth rate} = \displaystyle 15\% \times (1 - \displaystyle \frac{\$1}{\$10}) \\ \text{Sustainable growth rate} = 13.5\% {/eq}
+The correct answer is
+b. 13.5%.","Sustainable Growth Rate (SGR): A company's sustainable growth rate is the maximum growth rate to achieve without acquiring external capital. Alternatively, this growth rate is encouraged by the company's retained earnings."
+45,"What must be the price of a {eq}\$10,000 {/eq} bond with a {eq}6.1\% {/eq} coupon rate, semi-annual coupons, and five years to maturity if it has a yield to maturity of {eq}10\% {/eq} APR?",{eq}\$8494.26 {/eq}.,{eq}\$6795.41 {/eq}.,"{eq}\$11,891.97 {/eq}.","{eq}\$10,193.11 {/eq}.",A,"The closet answer is
+A. $8,494.26.
+Given information:
+Par = $10,000
+Coupon rate = 6.1%, semiannual payment
+Semiannual payment = $10,000 x 6.1% x 0.5 = $305
+Time to maturity (N) = 5 x 2 = 10
+Semiannual yield (I) = 10% x 0.5 = 5%
+Estimate the expected price of the bond:
+{eq}\text{Price} = \displaystyle PMT \times \frac{1 - (1 + I)^{-N}}{I} + \frac{Par}{(1 + I)^N} \\ \text{Price} = \displaystyle $305 \times \frac{1 - (1 + 5\%)^{-10}}{5\%} + \frac{\$10,000}{(1 + 5\%)^{10}} \\ \text{Price} = \displaystyle ($305 \times 7.72173) + \frac{\$10,000} {1.628895} \\ \text{Price} = \displaystyle \$2,355.13 + \$ 6,139.13 \\ \text{Price} = \displaystyle $8,494.26 {/eq}","Bond Value: The value of a bond should fairly represent the present value of all cash inflows during the bond's time to maturity. These cash inflows include coupon payments and maturity value. If an investor raises the expected yield on the bond, it will reduce the bond's value."
+46,"Determine whether the following statement regarding bonds issued at a premium is TRUE or FALSE. On the date of issuance, the net book value of the bonds payable will be higher than face value.",True,False,,,A,"The statement is
+true
+. It is
+true
+to say that on the date of issuance, the net book value of the bonds payable that are issued at a premium will be higher than face value because:
+The net book value of bonds on the issue date is equal to the cash received from the bond issue.
+Bonds are issued at a premium when the market interest rate is lower than the bonds' stated interest rate.
+This means that investors are willing to pay more for the bonds than their face value because they can pay more and still generate the market rate of return from the future cash interest payments. This means that the cash received will exceed the cash value of the bonds.
+This also makes sense if we remember that the premium on bonds payable and the bonds payable liability are recorded with credit entries, and the two account balances are added up to calculate the net book value of the bonds.",Bond's Issuance Price: Bonds' issue price is the price the market is willing to pay for the bonds on the date they are sold for the first time. The issuer receives this amount in cash on the issue date. The market determines this price based on prevailing interest rates and the issuer's risk profile.
+47,A bond will sell at a premium when _____.,its coupon rate is greater than its current yield and its current yield is greater than its yield to maturity,its coupon rate is greater than its current yield and its current yield is less than its yield to maturity,its coupon rate is less than its current yield and its current yield is greater than its yield to maturity,its coupon rate is less than its current yield and its current yield is less than its yield to maturity,A,"The correct answer is option
+A. Its coupon rate is greater than its current yield and its current yield is greater than its yield to maturity.
+A bond will sell at a premium if the coupon rate is greater than its yield to maturity. The coupon rate represents the coupon amount expressed as a percentage of face value whereas the current yield represents the coupon amount expressed as a percentage of selling price. When a bond sells at a premium, it implies that the selling price is more than the face value so we can say that the coupon rate is greater than the current yield.","Bond Valuation: A bond may be issued at a premium to the face value, at a discount to the face value, or at the face value. The issue price is predominantly affected by the prevailing market interest rate or yield to maturity and the stated coupon rate."
+48,"A broker offers to sell you shares of Bay Area Healthcare, which just paid a dividend of $2 per share. The dividend is expected to grow at a constant rate of 6% per year. The stock's required rate of return is 12%. What is the expected dollar dividend at the end of three years?",$2.38,$3.12,$5.00,,A,"Dividend growth rate aids in measuring the average growth of a company's dividend payments made to the investors on an annual basis. It is required to compute the share price of a company when applying the dividend discount model for stock valuation.
+Given information:
+Dividend paid= $2
+Growth rate= 6%
+Step 1: Determine the dividend paid in year 1, as shown below:
+{eq}\begin{aligned} \text{Dividend at year 1}\left( \text{D1} \right)\text{ } &=\text{ D0 }\times \text{ }\left( 1+\text{Growth rate} \right) \\ &=2\text{ }\times \text{ }\left( 1+6\% \right) \\ &=\$2.12 \end{aligned} {/eq}
+Step 2: Determine the dividend paid in year 2, as shown below:
+{eq}\begin{aligned} \text{Dividend at year 2}\left( \text{D2} \right)\text{ } &=\text{ D1 }\times \text{ }\left( 1+\text{Growth rate} \right) \\ &=\$2.12\text{ }\times \text{ }\left( 1+6\% \right) \\ &=\$2.247 \end{aligned} {/eq}
+Step 3: Determine the dividend paid in year 3, as shown below:
+{eq}\begin{aligned} \text{Dividend at year 3}\left( \text{D3} \right)\text{ } &=\text{ D0 }\times \text{ }\left( 1+\text{Growth rate} \right) \\ &=\$2.247\text{ }\times \text{ }\left( 1+6\% \right) \\ &=\$2.38 \end{aligned} {/eq}
+The dividend paid in year 3 is $2.38. Thus, the correct answer is
+option a. $2.38.",Constant Growth Model: The constant growth model is a method of assessing shares. It is also called the Gordon Growth Model. This model assumes that a company's dividend payments always increase at a fixed rate.
+49,"A stock just paid a dividend of $1.50. The required rate of return is 8.5%, and the constant growth rate is 4%.",$36.11,$35.15,$35.63,$34.67,D,"The correct answer is
+d. $34.67
+.
+The components that make up the dividend growth model equation are given below:
+Expected dividend (Note 1) = $0.75
+Required return = 8.5%
+Constant growth rate = 4%
+Upon the arrangement of these components logically, we have the following outcome:
+{eq}\text{Stock's current price} = \dfrac{\text{Expected dividend}}{\text{Required return - Constant growth rate}} = \dfrac{\$1.56}{8.5\% - 4\%} = \$34.67 {/eq}
+Note 1:
+Expected dividend = Current dividend × (1 + Constant growth rate)
+Expected dividend = $1.50 × (1 + 0.04)
+Expected dividend = $1.56","Expected Dividend: The expected dividend is the amount of dividend receivable in the next period. When the growth rate is constant, we can determine the expected dividend using the last paid dividend. The expected dividend is discounted to determine the stock price."
+50,"Next year's earnings are estimated to be {eq}\$3 {/eq}. The company plans to reinvest {eq}30\% {/eq} of its earnings at {eq}20\% {/eq}. If the cost of equity is {eq}10\% {/eq}, what is the present value of growth opportunities?",{eq}\$22.50 {/eq}.,{eq}\$10.10 {/eq}.,{eq}\$23.50 {/eq}.,{eq}\$21.50 {/eq}.,A,"The correct answer is
+option a. $22.50.
+Given information:
+Next year's earnings = $3
+Retention rate = 30%
+Returns on earnings (ROE) = 20%
+Cost of equity = 10%
+Step 1: Determine the growth rate by multiplying the retention rate with ROE:
+{eq}\begin{aligned} \text{Growth rate } &=\text{ Retention ratio }\times \text{ Return on equity} \\ &=\text{ }30\%\text{ }\times \text{ }20\%~ \\ &=\text{ }6\% \end{aligned} {/eq}
+Step 2: Determine the expected dividend:
+{eq}\begin{aligned} \text{Expected dividend } &=\text{ Expected earnings }\times \text{ }\left( 100\text{ }-\text{ Retention ratio} \right) \\ &=\$3\text{ }\times \text{ }\left( 100-30\% \right) \\ &=\text{ }$3\text{ }\times \text{ }70\% \\ &=\text{ }\$2.10 \end{aligned} {/eq}
+Step 3: Determine the stock price by dividing the expected dividend by the value obtained after subtracting the growth rate from the cost of equity:
+{eq}\begin{aligned} \mathbf{Stock}\text{ }\mathbf{price} &=\text{ }\frac{\mathbf{Expected}\text{ }\mathbf{dividend}}{\mathbf{Cost}\text{ }\mathbf{of}\text{ }\mathbf{equity}-\mathbf{Growth}\text{ }\mathbf{rate}} \\ &=\frac{\$\mathbf{2}.\mathbf{10}}{\mathbf{10}\%-\mathbf{6}\%} \\ &=\frac{\$\mathbf{2}.\mathbf{10}}{\mathbf{4}\%} \\ &=\$\mathbf{52}.\mathbf{5} \end{aligned} {/eq}
+Step 4: Determine the present value of growth opportunities (PVGO) by subtracting from the stock price the value obtained by dividing expected earnings by the cost of equity:
+{eq}\begin{aligned} \mathbf{PVGO}&=\mathbf{Stock}\text{ }\mathbf{price}-\text{ }\frac{\mathbf{Expected}\text{ }\mathbf{earnings}}{\mathbf{cost}\text{ }\mathbf{of}\text{ }\mathbf{equity}} \\ &=\$\mathbf{52}.\mathbf{5}-\frac{\$\mathbf{3}}{\mathbf{10}\%} \\ &=\$\mathbf{52}.\mathbf{5}-\mathbf{30} \\ &=\$\mathbf{22}.\mathbf{5} \\ \end{aligned} {/eq}
+Thus, the present value of growth opportunities is $22.50.",Retention Ratio: The retention ratio is the proportion of the net earnings that is expected to be retained for future expansion rather than distributed as dividends. It is also called the blowback ratio.

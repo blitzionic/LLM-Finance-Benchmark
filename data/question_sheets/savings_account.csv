@@ -1,0 +1,312 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"How much will you have in a savings account in ten years, if you deposit $1,100 in the account at the end of each year and the account earns 10% interest, compounded annually?","$12,100","$22,258","$17,531","$11,000",C,"The correct answer is c. $17,531.
+Given information:
+Amount invested (P) = $1,100
+Rate (r) = 10% = 0.01
+Number of years (n) = 10
+Computation amount after 10 years:
+{eq}\begin{align*}
+
+{\rm{Future}}\;{\rm{value}}\;{\rm{of}}\;{\rm{annuity}} &= {\rm{P}} \times \frac{{{{(1 + {\rm{r}})}^{\rm{n}}} - 1}}{{\rm{r}}}\\
+
+&= \$ 1,100 \times \frac{{{{(1 + 0.1)}^{10}} - 1}}{{0.1}}\\
+
+&= \$ 17,531
+
+\end{align*}
+
+{/eq}
+Therefore, the future value of the annuity is
+$17,531
+.","Savings Deposit: Individuals or institutions can save their money in a savings deposit or bank account and get interested in the remaining value. Savings deposits are usually low-risk, low-return investment vehicles."
+2,"When you place your funds in a savings account at a bank, those funds are",an asset to you and a liability to the bank.,a liability to you and an asset to the bank.,an asset both to you and the bank.,a liability both to you and the bank.,A,"The answer is
+A) an asset to you and a liability to the bank.
+Instead of holding cash in hand, an investor can leave cash in a bank's savings account. The fund in a savings account is accessible easily. With that being said, money in a savings account is still the account owner's asset.
+In the other hand, the bank pays interests on a savings account, and lends received money to other individuals or organizations. Hence, a bank will recognize the fund from people's savings accounts as its liabilities.",Savings Account: A savings account will be offered with a provision that the account owner will earn interest on the account balance. Most savings accounts allow the owner to cash out their money as a checking account.
+3,"Bank overdrafts, if material, should be:",reported as a deduction from the current asset section.,reported as a deduction from cash.,netted against cash and a net cash amount reported.,reported as a current liability.,D,"Answer:
+d. reported as a current liability.
+Material bank overdraft is reported as a current liability because the company owes money to the bank which should be paid within 12 months or one operating cycle, whichever is longer.",Bank Overdrafts: Bank overdrafts are excess amounts drawn by the company in its bank account. It means that the company's account falls down into a negative balance. It can be netted when the company has another bank account with a positive amount on the same bank.
+4,An individual checking or savings account can be set up to go automatically to another person when the depositor dies if it is set up as a(n):,payable at death.,estate account.,obituarial account.,joint tenancy account.,A,"_Option a is the correct answer
+_
+A savings account can be set up to go automatically to another person when the depositor dies if it is set up as a payable at death. The bank releases the accounts money to other person if the savings account is set on payable at death.
+Explanation for incorrect option:
+Option b: It is an incorrect option because an estate account is a new account that is opened after the death of the depositor and the executor deposits the money of the depositor or deceased's account for paying the liabilities of the deceased from it.
+Option c: It is an incorrect option because obituarial accounts are maintained for the demise of the machine.
+Option d: It is an incorrect option because a joint tenancy account is an account that can allow more than one to access the account.","Savings account: Savings account is the type of account that can be opened with a minimum initial deposit that varies from bank to bank. Money can be deposited any time in this account and withdrawal can be made through withdrawal form, cheque, ATM card."
+5,Another name for a regular savings account is a:,Certificate of deposit,Checking account,Money market account,Passbook or statement account,D,"Correct answer:
+Option D) Passbook or statement account.
+Explanation:
+A regular savings account is the one that is opened in a bank by the customer who seeks the security of cash as a criterion more than the interest provided on the amount deposited. A savings account offers a minimum interest rate but maximum security to the funds deposited by the customer. Another name of a regular savings account is
+Statement account.","Financial Institutions: Financial institutions such as banks, credit unions, insurance companies, investment banks, etc provide a wide variety of options to customers who wish to save their money in the form of investments with returns. They help small, medium, and large-scale industries to set up a base by lending them financial services."
+6,"In the combined Solow-Romer model, the steady-state level of output is positively related to the saving and depreciation rates.",True,False,,,B,"The given statement is
+FALSE
+.
+This is because the Solow-Romer model provides the equilibrium level of economic output. An increase in savings leads to an increase in investment in the economy. As a result, manufacturing activities and economic output will increase. However, depreciation of capital leads to reduce the worth of capital and other assets. As a result, economic activities and economic output would reduce.","Savings: Savings is that part of income that is kept aside for the future consumption purpose. The saved amount is not invested anywhere, and it can be used at any time as per the requirement of an individual."
+7,"You have $2,158 today in your savings account. How long must you wait for your savings to be worth $4,000 if you are earning 2.1 percent interest, compounded annually?",26.68 years,29.69 years,32.13 years,33.33 years,B,"The correct answer is option b.29.69 years
+From the question:
+Amount in the savings account is $2,158
+Future savings to be worth $4,000
+Interest rate is 2.1%
+Calculation of duration to receive savings worth $4,000 using the compound interest formula:
+{eq}\begin{align*}{\rm{Amount}} &= {\rm{Principal}} \times {\left( {1 + {\rm{Rate}}} \right)^{{\rm{time}}}}\\\$ 4,000 &= \$ 2,158 \times {\left( {1 + 0.021} \right)^{{\rm{time}}}}\\\frac{{\$ 4,000}}{{\$ 2,158}} &= {\left( {1 + 0.021} \right)^{{\rm{time}}}}\\1.853 &= {\left( {1.021} \right)^{{\rm{time}}}}\end{align*}
+
+{/eq}
+Applying log on both sides as follows:
+{eq}\begin{align*}{\rm{In}}\left( {1.853} \right) &= \,{\rm{time}} * \,{\rm{In}}\left( {1.021} \right)\\{\rm{time}} &= \frac{{{\rm{In}}\,\left( {1.853} \right)}}{{{\rm{In}}\left( {1.021} \right)}}\\ &= \frac{{0.6168}}{{0.02078}}\\ &= 29.6823\,{\rm{years}}\end{align*}
+
+{/eq}
+Hence, it will take 29.69 years for the savings to be worth $4,000.","Savings Account: A safer option that can increase the value of money at a modest rate is storing it in a savings account. There are limitations regarding withdrawals, but it is one of the most preferred options for accumulating money for short-term needs."
+8,An increase in the personal income tax on interest income will:,Decrease desired saving because the expected after-tax real interest rate falls,Increase desired saving because the expected after-tax real interest rate rises,Decrease desired saving because the expected after-tax real interest rate rises,Be uncertain,D,"The correct option is option D: Will be uncertain.
+When there is an increase in the personal income tax rate on interest income, the after-tax yield from saving decreases. This can be viewed in an indifference curve framework with consumption this period on the horizontal axis and consumption next period on the vertical axis. There will be an initial equilibrium determined by the tangency between the indifference curve and the budget constraint, with a certain level of consumption in each period. The difference between the intersection of the budget constraint on the horizontal axis and the level of first-period consumption is the level of saving in the first period. When the income tax on interest is introduced, the budget constraint will rotate downward along the vertical axis. Now, with a given level of first-period income, the individual will have a lower maximum consumption in the second period because of the decline in the after-tax rate of interest.
+There will be both a substitution and an income effect on first-period consumption and therefore on saving. The substitution effect will be unambiguously positive in its effect on first-period consumption. Since the relative price of current consumption has declined, consumption will increase and saving will decrease. However, the income effect is ambiguous. With the fall in after-tax interest, the individual is now poorer and the effect of that alone depends on whether first-period consumption is a a normal or an inferior good. If it is a normal good, the individual will consume less and save more for the future. The income effect will work against the substitution effect in that case, with an uncertain net result. If consumption is an inferior good, more will be consumed in the first period and that will accentuate the substitution effect leading to more first-period consumption. On balance the ultimate effect is uncertain.",Tax Rate Effects on Desired Saving: The taxation of interest affects the net return from saving. Principles of microeconomics relating to consumer indifference curve analysis can be applied to assess the likely effect of such a tax on the amount of saving.
+9,"If Mary takes money from her savings account and buys a T-bond from Jody with that money, it's:",An expansionary fiscal policy.,An example of contractionary monetary policy.,An example of expansionary monetary policy,An example of a neutral (neither expansionary nor contractionary) policy.,B,"If Mary takes money from her savings account and buys a T-bond from Jody with that money, it's
+B. An example of contractionary monetary policy.
+Contractionary monetary policy refers to taking money out of the the circulating money supply. A T-bond is not in the circulating money supply.","Savings Accounts: A savings account allows depositors to put money into a bank and earn interest. Because a savings account is a short-term investment, the interest rate is lower than the interest rate of a longer-term investment."
+10,You transfer $500 from your checking account to your savings account. What is the overall effect on M1 and M2?,"M1 falls by $500, M2 rises by $500.","M1 falls by $500, M2 is unchanged.","M1 rises by $500, M2 is unchanged.","M1 is unchanged, M2 rises by $500.",A,"The correct answer is
+A)M1 falls by $500, M2 rises by $500.
+The checkable account is the consist of M1, and M2 includes M1 plus saving account balance.
+When a $500 transfer from your checking account to your savings accounts, the balance of M1 will be less by $500, and the balance of M1 will increase by M2.",Savings Account: The savings account is the account that interests on the deposit. Households generally open a savings account. The savings account is one of the types of account.
+11,"As a group, net savers are:",businesses,households,government,partnerships,B,"The answer is B.
+Businesses, government and partnerships would deposit their idle cash in a savings account to maintain the degree of business liquidity.
+Households would deposit money to a savings account to set aside for emergency funds, which represent the main purpose of saving money.","Savings Account: A savings account would be an interest-bearing account. Alternatively, deposited money will earn interest during the term of account. The interest rate on savings account will raise when banks would like to capture more funds."
+12,A drawback of a savings account is:,Easy access to deposits,Being insured,A low minimum balance,A low rate of return,D,"The answer is D.
+In the U.S, savings accounts will have low rate of return, which makes savings account less attractive compared to other investments such as bonds or stocks.","Savings Account: Apart from a checking account, a savings account will generate interest income to the account owner. However, a savings account is not a demand account, which will be limited to the withdrawals."
+13,The legislation that set up the SAIF to insure savings and loan deposits was the:,Depository Institutions Deregulation and Monetary Control Act,Garn-St Germain Depository Institutions Act,"Financial Institutions Reform, Recovery, and Enforcement Act",Competitive Equality in Banking Act,C,"The answer is C.
+SAIF was initially created by the Financial Institutions Reform, Recovery, and Enforcement Act in 1989 and managed as a stand-alone fund by FDIC.","SAIF: SAIF stands for the Savings Association Insurance Fund, which is an insurance fund to protect depositors' money from the failure of saving and loan associations or thrift institutions. SAIF was established after the financial crisis in 1980."
+14,Savings and loan associations are regulated by the:,Federal Reserve System.,Securities and Exchange Commission.,Office of the Comptroller of the Currency.,Office of Thrift Supervision.,D,"The correct answer is option D) Office of Thrift Supervision.
+The Office of Thrift Supervision and the Federal Deposit Insurance Corporation (FDIC) regulate all savings and loan associations. Take note that savings institutions are also referred to as thrift institutions. The savings in these institutions are often under government guarantee and benefits, encouraging people to save with a long-term perspective.","Savings Account: In financial accounting, a savings account is a form of interest-deposit account and pays lower interest rates. However, using this type of account encourages investment and easy access to funds on the part of the depositors."
+15,Which of the following is a contractual savings institution?,A life insurance company,A credit union,A savings and loan association,A mutual fund,A,"The correct answer is
+A) A life insurance company
+.
+Contractual savings institutions (CSI) are financial institutions that take funds as savings on a contractual basis. These institutes include life insurance companies and national pension funds. The institutions take money on a contract basis and return it upon events like on maturity or retirement.",Savings: Savings are the money that individuals still own after clearing all their debts and expenses. These savings are deposited in savings institutions like banks or invested in mutual funds for their future growth.
+16,"In an open economy, national saving equals domestic investment",plus the net outflow of capital abroad.,minus the net exports of goods and services.,plus the government's budget deficit.,minus foreign portfolio investment.,A,"Option A. plus the net outflow of capital abroad is correct.
+We know about the theory that the amount saved in a country should be the same as the amount invested in it. As the total investment is made up of investment by domestic people and foreigners, the savings would be made up of domestic investment as well as capital investment received from abroad.",Saving The income sacrificed by the people from being consumed is said to be their saving. The purpose of it is to secure the means of their future consumption assuming that they may not be able to accumulate adequate funds in future.
+17,What does it mean to say that individuals as a group are net suppliers of funds for financial institutions? (Select the best answer below.),"Individuals, as a whole, spend less than they make. The excess is invested, making it available for businesses and governments.","Individuals, as a whole, spend more than they make. The excess is provided for by businesses.","Individuals, as a whole, spend less than they make. The amount that they spend is made available to businesses through financial institutions.","Individuals, as a whole, spend more than they make. The excess is provided for by financial institutions.",A,"The correct answer is A.
+Individuals are said to be the suppliers of funds since they keep their savings in banks and other financial institutions. Financial institutions lend to businesses and those in need of funds. Therefore, financial institutions are intermediaries between the suppliers and the users of funds in an economy.
+Reasons for incorrect answers:
+B. Individuals do not spend more than their income even if they do excess provided by banks, not businesses.
+C. The amount that individuals spend does not go to financial institutions. Only savings are deposited in financial institutions.
+D. Individuals as a whole, spend less than they earn. Hence, this is incorrect.",Financial institutions: Financial institutions are those that are engaged in activities related to accepting deposits and giving to those in need of funds. Depositors are paid interest for parking their surplus money at financial institutions.
+18,A money-market account is a savings account on which checks can be drawn.,True,False,,,A,"The given statement is true.
+A money market account is effectively a savings and checking account combined: deposits are simple and unlimited, but withdrawals via phone, check, and other technological means are restricted. You can write checks from a money market account, which is different from a regular savings account.","Money Market A financial market known as the ""money market"" is where institutions and dealers can trade open-ended funds and short-term assets. Given how readily assets may be converted into cash, the market has a very high liquidity level."
+19,Saving in the economy:,occurs when current spending is less than current incomes.,and investment are essentially the same concept.,occurs when current consumption is more than current output.,is generally not a determinant of future output.,A,"The correct option is
+a) occurs when current spending is less than current incomes.
+Explanation;
+Saving refers to the balance remaining out after the consumption expenditure of a person. It's necessary to save cash as it allows a shield in case of economic failure. Saving money could make you prepare for major expenses, escape bankruptcy, alleviate the financial burden.",Money : Money is an income source that acts as a widely agreed means of trade in society for financial motives. It derives in the case of products and has material properties for financial markets to accept.
+20,"Consumer-driven health savings accounts help employees defray the cost of {eq}\rule{2cm}{0.1mm}
+
+{/eq}.",lower deductibles,higher deductibles,lower co-payments,coinsurance at any level,B,"The correct answer is
+B: higher deductibles.
+A health saving account (HSA) refers to a type of saving account that helps an individual set aside money on pre-tax basics to cater for his or her medical expenses. Employees refer to people within an organization who are responsible for providing physical or mental labor services. Salary deductibles refer to the amount of money that an employee is deducted from his or her basic salary.
+A consumer-driven health savings account helps employees in defraying the cost of higher deductibles. This is because the amount kept in the health saving accounts is not taxed; hence, the total amount deducted from an individual's salary is reduced; therefore, reducing high deductibles.",Savings Account: A savings account refers to a type of deposit account that pays an interest rate to the account owner after a particular duration. Savings bank accounts are important because they help people save a portion of their income since they are supposed to withdraw the amount for a particular set duration.
+21,"The annual percentage yield (APY) is the effective rate of interest that must be disclosed to customers by banks on their savings products as a result of ""truth in savings laws.""",True,False,,,A,"Option a. True is correct.
+The compounding effect of the interest rate is registered in Annual Percentage Yield (APY) as compared to a normal and simple interest rate. It reflects what has been truly gained through a saving.",Interest Rate The benefit received by a household when he/she uses his/her personal money to lend to manufacturers through the medium of bank or share investment is said to be an interest rate. It is expressed as a percentage value.
+22,All of the following statements regarding the first-time homebuyers savings accounts allowed in Virginia are true EXCEPT:,"account holders may contribute up to $50,000.","principal and interest up to $150,000 may be withdrawn without paying state taxes.",funds must be used for real estate transaction costs listed on the Settlement Statement (HUD-1).,funds may be held privately.,D,"Option D is not valid.
+According to the law stated by the federal government of Virginia government states;
+The income produced by FTHBSA, such as capital gain, an interest taxable under the federal government, is tax-free under Virginia.
+Some significant limitations on marketable securities and cash can only be contributed as principal for the first-time homebuyer. Not more than $50,000 principal amount and $150,000 of principal and interest are allowed in the account, which is tax-free; an account having more than all stated above will be exempted from all the tax benefit. And should monitor all the funds, and no fund should be held privately.",First time home buyer saving account(FTHBSA) A First time home buyer saving account (FTHBSA) is tax saving and tax advantage saving account law initiated by Virginia financial institution to provide an incentive for the home buyer to save for the future purchase of their first home.
+23,"According to the Truth-in-Savings Act, the interest rate that banks are required to report when you deposit money in an account is known as",capital-gains yield,annual percentage yield,current yield,total return,B,"The answer is:
+b. annual percentage yield
+. According to the FDIC, the Truth-in-Savings Act defines the annual percentage yield as follows:
+""Annual percentage yield means a percentage rate reflecting the total amount of interest paid on an account, based on the interest rate and the frequency of compounding for a 365-day period...""","Truth in Savings Act: The Truth in Savings Act, or TISA, was passed by Congress as federal law in December of 1991. It was passed as part of the Federal Deposit Insurance Corporation (FDIC) Improvement Act of 1991. The goal of the act was to make it easier for consumers to compare interest rates, fees, and terms associated with savings institutions' deposit accounts."
+24,"When steady-state capital per worker is above the golden-rule level, we know with certainty that an increase in the saving rate will?",decrease consumption in both the short run and the long run.,increase consumption in both the short run and the long run.,increase consumption in the short run and decrease it in the long run.,decrease consumption in the short run and increase it in the long run.,A,"The correct option is a)
+An increased saving rate tends to cut down the long and short-run expenses, signifying low consumption. Therefore, if the saving rate is increasing, consumption is decreasing in the short and long run.
+Reasons for the incorrect options
+Option b) is incorrect because consumption should be decreased.
+Option c) is incorrect because consumption should be decreasing in the short run as well.
+Option d) is incorrect because consumption cannot be increased while increasing the saving rate.",Savings: Savings is the amount that an individual agrees to save rather than spend on other consumptions for future retirement or other purposes. Savings are important since they give individuals security in their lives.
+25,"If savers don't feel safe putting their money in banks or buying bonds, what's the best way to sum up what's happening in the market for loanable funds?",Supply of savings falls and the interest rate falls.,Supply of savings falls and the interest rate rises.,Demand for savings falls and the interest rate falls.,Demand for savings falls and the interest rate rises.,B,"The answer is B.
+Since savers do not place their available in the banks or buying bonds, the money will be held at other forms of financial securities. That fact will make the bank system engaged the shortage of funds for lending out the economy. In this case, to attract more money or to increase the supply of savings, the bank system would have to increase the savings interest rate.","Savings Account: Apart from a checking account, a saving account would pay the depositor interest on the received amount of money, which will allow the money to grow over periods."
+26,"When you save, you trade spending now for the ability to spend in the future.",True,False,,,A,"The statement is true
+Explanation:
+When an individual saves money, the person prefers spending money in the future rather than spending it at present. This process is known as savings. It is an economic term. Savings reduce consumer spending at present but increase consumer spending in the future.","Savings: Savings is the activity in which individuals save a part of their income and deposit it in the bank so that it remains safe. People save so that they can secure their future, and there is no need to loan money in case of emergencies."
+27,"With a traditional savings account, you could be charged a fee if:",you deposit too much money at once.,you withdraw money too often.,you open an account online.,you close the account.,B,"The Correct Option is B, often withdrawals from account
+Traditional Savings Account are maintained by individuals to fulfill their financial goals that is done by depositing amount at frequent intervals by them. Traditional Accounts are used for making frequent deposits but lesser withdrawals. Hence to avoid withdrawals, fees is charged by respective institution from holder of account.
+Explanation for other options
+(A) Deposits in traditional accounts can be made frequently and can be of any amount as provided by accountholder.
+(C) There are no extra fees for using online mode but certain relaxations are given by several institutions for using online mode.
+(D) Majority of financial institutions doesn't charge any fees for traditional accounts opening or either closing.",Savings Account: The facility provided by banks and other designated institutions to persons to deposit their money in their own name is called savings account. Various accounts are offered having unique features to customers matching their requirements.
+28,Dissaving occurs when:,consumption is equal to disposable income.,disposable income is greater than consumption.,consumption is greater than disposable income.,consumption is greater than personal income.,C,"The correct answer is (C)
+Disposable personal income, abbreviated as DPI, refers to the sum of money that a person has to save or use after removing all the income taxes. When the usage of money is higher than the disposable income, then it results in dissaving.",Dissaving: Dissaving refers to the processes of using money to the extent of exceeding individuals' earnings. It takes place through withdrawing money from the bank through credit cards or taking loans against imminent earning.
+29,Consider the following information for a small open economy:,"Suppose the world interest rate is {eq}4
+
+{/eq}%, and potential output is {eq}5000
+
+{/eq}, what is the long-run level of output in this economy?",Solve for the long-run levels of investment and saving?,What are the levels of private and public savings?,"What are the levels of exports, net exports, and net capital inflow or outflow",A,"a)	At equilibrium
+Y = AE
+Y = 300+0.6(Y-1000)+1000+1000-40*(4)+(-500)
+Y = 2600
+b)	I = 1000-40*(4)
+I = 840
+c)	Private saving (PS)
+PS = Y-T-C
+PS = 2600-1000-300-0.6(2600-1000)
+PS = 340
+Public saving (PUS)
+PUS = T - G
+PUS = 1000-1000
+PUS = 0
+d)	Import (M) = 500
+Net exports = X-M = 0-500 = -500
+Net capital outflow = Net exports = 500","Saving: Saving is divided into two categories that are private and public savings. Private saving is the difference between the three variables, namely income, taxes, and consumption. Public saving is calculated as taking the difference between taxes and government expenditure."
+30,"Deposits that are payable on demand but do not allow their owner to write checks are called {eq}\rule{0.5in}{0.3pt}
+
+{/eq}.",Restricted deposits,Savings deposits,Time sensitive deposits,Non-checkable deposits,B,"The correct option is
+b. Savings deposits
+.
+A savings deposit can be defined as the safest way to save money as it helps a person to reduce unnecessary spending. Also, the adding and withdrawing of money from these deposits is easy and fast as it is payable on demand of the owner, and the owner doesn't need to write checks.",Commercial Banks: The term commercial banks are the financial institutions that help the central bank to facilitate and regulate the level of money supply in the economy by using managed lending and borrowing process.
+31,"After the 1980s, which of the following assets paid interest?",checking accounts,time deposits,savings accounts,All of the above,D,"Option D is correct
+_
+It is because all of the above three accounts: checking account, time deposits and, savings account pays interest.
+Although, after 1980s there was a general trend of falling interest rates the only difference was in the rate of interest which each of them offers.
+Explanation of incorrect options:
+Option A
+Checking accounts are more flexible and liquid as it puts no limit on the withdrawal and deposit of funds but pays very less interest rate in return.
+Option B
+Time deposits are fixed period deposits that offer a fixed rate of interest that is defined at the beginning of the period.
+Option C
+Savings account puts some limit on the number of withdrawal and deposit but offers comparatively more interest rate than checking account.",": Interest Bearing Accounts The interest earned on the money deposited in accounts is the cost banks pay for borrowing money from depositors. On the other hand, it can be understood as a reimbursement for the risk of depositing money with the banks which they use for their lending and investment purposes. Interest received on deposits is also an opportunity cost for holding money in hands."
+32,Your savings account:,Should contain at least five months' income,Should have approximately 5% of your paycheck contributed to it each month,Both A and B,None of the above,C,"The correct option C) Both A and B
+A savings account is a deposit with a financial institution where a portion of income can be saved and earn interest. It must contain an amount equivalent to 5 percent of an individual's salary and at least five months' worth of income. It does not pay a high rate of interest, but it is an excellent source of emergency funds.
+The explanation of other options:
+Option A) Saving account has at least five months part of the income with the bank.
+Option B) A monthly deposit of around 5% of an individual's paycheck should be made into a savings account.
+Option D) An individual has 5% of salary and five months' worth of income into a savings account.","Banking Services: Banking services refer to the loans, credit, deposits, and instant cash that a financial institution provides to its consumers. These services are provided to customers to generate income from fees and interest."
+33,Which of the following statements best reflects the relationship between saving and savings?,"Saving is the total amount not consumed, whereas savings refers to the amount placed into a savings account.",Saving is a flow variable; savings is a stock variable.,Saving and savings are both flow variables.,Saving and savings are both stock variables.,B,"The relationship between saving and savings is best described by point B. Saving is a flow variable; savings is a stock variable. Saving refers to increasing one's assets over time, therefore, it's a flow variable. On the other hand, savings refers to only a part of one's assets, therefore, it's a stock variable.","Saving and Savings Saving refers to increasing one's assets over time, whereas savings refers to only a part of one's assets. Therefore, there is a difference in them with respect to timing of measurement."
+34,Which investment type typically carries the least risk?,Mutual funds,Treasury bonds,Savings account,Individual stocks,C,"The correct option is: c. Savings account
+Explanation:
+A saving account is described as a bank account where people can save or store their money and earn interest. It is also considered one of the classifications of investment that contains the least risk. It contains minimum exposure to the market that cannot affect the money in the saving account. Money in a saving account is constant in nature and does not fluctuate with the changes in the price of stocks or funds. It is a safe and reliable option for individuals to save their money as it has the least risk and provides a reasonable interest rate. On the other hand, individual stock, mutual funds and treasury bonds contain high risk as compared to saving accounts.","Risk: A stock is perceived as a classification of investment. When an individual purchases stock or share from a particular company, it means that they own a section of the company. Common, preference, growth and domestic stocks are some sorts of stocks."
+35,"When a check is issued, the party being paid the cash is referred to as the _____.",payee,maker,bank signatory,depositor,A,"The correct option is
+A: payee.
+The person or organization to whom funds are transferred via check is known as the ""payee."" The payee is the person or organization that the check is written out to. They are the ones to whom the check's monetary value is addressed. Any entity with the legal right to receive the funds designated as a ""payee"" may be used.
+Reasons why other options are incorrect:
+B. maker
+: The maker of a check is not the person or organization receiving the funds; rather, it is the person or organization doing the issuing or writing.
+C. bank signatory
+: A bank signatory is an authorized representative of a financial institution who is authorized to sign on the institution's behalf. They are not the recipient of the funds in the check.
+D. depositor
+: A depositor is an individual or organization that puts money into a bank account. They may or may not be the intended beneficiary of the check.","Check: The check is issued by the bank to the customer and could be used to fund transfers or deposits. The issuer of the check can assign himself, another individual, or the company to transfer the fund"
+36,"A {eq}\
+
+\rule{1.5cm}{0.15mm}
+
+\
+
+{/eq} is a checking account that technically never has funds in it but is tied to another master account like payroll.",cash account,money market account,zero balance account,sweep account,C,"The correct option is: C) zero balance account
+Explanation:
+In cash management, a zero balance account is described as one of the classifications of a checking account in which the individual doesn't have to maintain the money. It is operated by maintaining nil or zero amounts. Whenever an individual requires funds or money in the zero balance account, the exact value of money is transferred to the zero balance account from the master account. Similarly, deposits are also transferred to the master account from the zero balance account. To transfer money, an individual has to link both the accounts, so they run accordingly.","Bank Account: The bank account is described as a systematic arrangement provided by the financial institution or bank. It facilitates the individual to save or deposit their money securely in the bank. Salary account, saving account, current account are the sorts of the bank account."
+37,"Opal earned 10% in her savings account. If she is in the 28% tax bracket, what is her after-tax savings rate of return?",4.40%,2.80%,7.20%,10%,C,"Earnings rate in savings account = 10%
+The tax bracket is = 28%
+Therefore, the after-tax savings rate of return will be
+= Earnings rate * (1-tax bracket)
+= 10% * (1-0.28)
+= 10% * 0.72
+= 7.2%
+Therefore, the correct option is
+c. 7.20%",Savings Account: A savings account is a basic bank account that can be opened with a bank to deposit a person's savings. An employee's salary or a professional's fees always gets credited into a specified savings account of a bank in which the person has opened the account. A savings account facilitates the deposit of money with a stated annual interest rate at the time of opening the account.
+38,Which of the following cannot accept retail deposits in Australia?,Subsidiaries of foreign banksb. Building societiesc. Credit unionsd. Branches of foreign banks,,,,D,"(d.) Branches of foreign banks
+canNOT accept retail deposits in Australia.
+According to the Australian Prudential Regulation Authority (APRA), branches of foreign banks can obtain the authorized deposit-taking institution (ADI) license with the restriction of not accepting retail deposits. This measure was imposed because depositors would not have the same protection as with other local financial institutions. If a foreign bank wants to receive retail deposits, it needs to establish a subsidiary in Australia.","Retail Deposits: Retail deposits are products used by natural persons to administer their funds. Someone can deposit his/her funds on different types of financial products such as current and savings accounts. Generally, these types of deposits can be withdrawn without any additional fees."
+39,"A closed economy has an income of $1,000, government spending of $200, taxes of $150, and an investment of $250. What is the private saving?",$100,$200,$300,$400,C,"The correct answer is
+c) $300
+It is given in the question that the economy is a closed economy. Therefore, saving (S) would be equal to investment (I) in the economy. Now savings (S) are calculated by deducting consumption (C ) and government spending (G) from the income. Now, investment is also given as $250. Therefore,
+{eq}\begin{align*}
+
+{\rm{S}} &= {\rm{I}}\\
+
+{\rm{Y}} - {\rm{C}} - {\rm{G}} &= 250
+
+\end{align*}
+
+{/eq}
+Now,
+The savings (Y - C - G) can be divided into two parts - Private Saving (Y - C - T) and Public Saving (T - G).
+Now, the value of Public Savings can be calculated as we are given the value of taxes (T) as well as government spending (G). The value of public saving will be (- 50).
+Therefore,
+{eq}\begin{align*}
+
+{\rm{Private}}\;{\rm{Saving}} + \left( { - 50} \right) &= 250\\
+
+{\rm{Private}}\;{\rm{Saving}}& = 300
+
+\end{align*}
+
+{/eq}
+Therefore,
+the value of private saving is $300
+.","Saving Saving is that part of income which is not consumed. Saving plays an important role in economic growth. The reason is that the saved part of income work as a source of investment for the other. However, the money saved in the form of cash does not help the economy to grow."
+40,Sally deposits some money in her savings account at the local bank and Chris takes out a student loan from the same Which statement is correct based on the scenario above?,The interest rate on Chris's loan would be higher than the rate in Sally's savings account.,Sally would be considered to be the debtor.,Chris would be considered to be the creditor.,The interest rate that the bank charges Chris would be the same as the rate Sally earns from her account.,A,The most likely answer is A. The interest rate on Chris's loan would be higher than the rate in Sally's savings account.  A long-term loan will invariably carry a much higher rate than a savings account.,"Savings Account: A savings account is a bank account used by banking customers to store excess funds.  To entice customers to make deposits, these types of accounts usually offer interest compensation.  However, since the Great Financial Recession, interest rates have been persistently low, leaving most savings accounts with rates at or near 0%."
+41,"True or False: 1) Higher returns on savings will usually result in less liquidity.  2) A ""free"" checking account with a minimum balance of $500 has an opportunity cost of lost interest. 3) A certificate of deposit is usually considered to be very liquid. 4) The more frequent the compounding, the less a person will earn on a savings.",True,False,,,B,"1.)
+Higher returns on savings means the higher interest rate which is offered by the bank in exchange of savings to the customers is higher. It means that the saving is now more profitable to the customers. Now, since saving is more profitable, customers will now prefer to hold less cash and invest more in savings, thus promoting less liquidity.
+Therefore, the statement is
+true
+.
+2.)
+Free checking account means those accounts in which they do not charge maintenance fees, recurring fee and do not even have minimum balance requirements. Therefore, the only opportunity cost lost, if one does not have a certain amount in the account, will be the opportunity cost of lost interest. In other words, the only thing which a consumer loses by having less amount in the account is the interest rate that he could have received given he had more money in the account.
+Therefore, the given statement is
+true
+.
+3.)
+A certificate of deposit is a type of saving account that holds a certain amount of money for a fixed interval of time, be it six months, one year or two year, etc. Now, in this the amount of money is locked for a certain period in which it is not very convenient to withdraw money. If still, the money is withdrawn by the customer, the bank charges an amount of penalty fees for this action.
+Therefore, the certificate of deposit is not considered to be very liquid. Hence, the given statement is
+false
+.
+4.)
+Compounding is the process wherein interest is paid to the principle amount in the account as well as the interest already paid i.e., interest on interest. Thus, the more frequent the compounding will be there, the customer will earn more from their savings.
+Therefore, the given statement is
+false
+.",Returns of Saving: Returns of savings is the amount that is returned by banks in exchange of money deposited by individuals in the bank. It is the interest rate according to which returns on saving is given by the banks to the customers.
+42,Which of these is an advantage unique to checking accounts?,Checking accounts enable the transfer of money electronically.,Checking accounts allow used checks to act as receipts.,Checking accounts use debit cards for easy access to money.,Checking accounts are set up to earn more interest if used more.,B,"The correct answer is
+Option b.
+Every transaction needs a supporting document that acknowledges the confirmation of the transaction, which is termed a receipt. The used checks assist an entity in recording an event and ensuring the amount that was paid matches the records.
+Explanations for the incorrect options:
+Option a. It is incorrect because transferring money through online mode is not just an advantage of checking accounts, as the other accounts allow this as well.
+Option c. It is incorrect because a customer may make a cash withdrawal.
+Option d. It is incorrect because interest will be paid on balance available in the account and also is not a given benefit of all checking accounts.",Checking Accounts: Checking accounts are a different and unique feature in the banking system. It perks customers and helps maintain the target balances of banks. The money in these accounts is highly liquid and secured.
+43,"Karen is saving for a new car. The car cost 22,000. How much must Karen invest in a savings account that pays 4% annually to have the $22,000 in three years?","$20,147","$19,107","$19,558","$19,328",C,"Given information:
+Future value (FV) = $22,000
+Interest rate (r ) = 4% or 0.04
+Maturity period (n) = 3 years
+The cost of the car that Karen wants to purchase is $22,000, for which the amount must be collected in 3 years at a 4% interest rate; the computation of the principal amount (P) that must be invested is as follows:
+{eq}\begin{align*}{\rm{FV}} &= {\rm{P}} \times {\left( {1 + {\rm{r}}} \right)^{\rm{n}}}\\\$ 22,000 &= {\rm{P}} \times {\left( {1 + 0.04} \right)^3}\\{\rm{P}} &= \frac{{\$ 22,000}}{{1.124864}}\\{\rm{P}} &= \$ 19,558\end{align*} {/eq}
+Therefore, Karen has to invest $19,558 to collect $22,000 after 3 years.
+Hence, the correct answer is option C.",Savings Account: A savings account is an investment option the bank provides that gives its depositors a modest interest for keeping their money in the accounts. It provides a safe and reliable option for saving cash.
+44,"In the long run, a higher saving rate:",means that people must consume less in the future.,cannot increase the capital sock.,increases the level of productivity.,None of the above is correct.,C,"The correct option
+option c)
+.
+A higher saving rate increases the level of productivity. As the savings rate increases, it signifies that there is a higher capital stock available for the future. This is so because savings form the capital stock from which capital expenditure is met. This increased capital stock will be invested to expand production activities. This expansion of economic activities will lead to the generation of a higher level of output, i.e. output will increase.
+Option a)
+is incorrect because more savings will lead to higher future consumption.
+Option b)
+is incorrect because savings increase the capital stock.
+Option d)
+is incorrect because
+option c)
+is correct.",Saving Rate: The saving rate is the proportion of the amount saved and the private expendable earnings. The increase in saving rate means the consumption at present is less. As is known people consume and save a part of their income.
+45,Classify the account into one of the following categories: NOW accounts,Assets,Liabilities,Equity,Revenue,A,"The answer is
+a. Assets.
+A NOW account represents firm's cash held in a bank, which should be identified as firm's asset. It is reported in the balance sheet under the tag of cash and cash equivalents.","NOW Account: A NOW account is a type of checking account at financial institutions that allows deposited funds to earn interest. In addition, the account owner can write drafts against the account balance."
+289,Your sister is looking for a way to increase the amount of interest she is earning on her savings account. What should she do?,Use the money from her savings account to open a checking account instead,Make monthly withdrawals from her savings account,Switch to a savings account with a lower interest rate,Deposit money into her savings account each month,D,"Correct Answer: d
+She can deposit an additional amount monthly. This additional contribution will increase the outstanding balance in the account for her. So, the bank will consider an increased deposit amount for the interest calculation. Interest will be considerable when the basis for computing interest amount is large. Hence, an additional deposit is one of the steps that she can take to increase the interest.
+An explanation for incorrect options:
+Option a: Using the checking amount will provide less interest.
+Option b: Monthly withdrawals will reduce interest basis and interest amount.
+Option c: Switching to the low-interest account will lower the interest.",Electronic Check: A withdrawal instrument that has some unique features like public keys for providing additional authentication is an electronic check. These checks attract specific laws concerning regular checks despite being in the electronic form.
+290,What is the first step you should take when you want to open a savings account?,Go to the bank and fill out an application,Review the different account options that your bank offers,Present your photo ID to the bank representative,Make your initial deposit,B,"The correct answer is
+b. Review the different account options that your bank offers
+The first step you should take when you want to open a savings account is
+review the different account options that your bank offers
+. A savings account is an account that promises to pay interest on the deposits made. There are several types of savings accounts including money market accounts, certificate of deposit accounts, high yield savings accounts, and traditional savings. Before opening a savings account first assess your financial goals and when you will need to access the funds. Based on your goals also compare the returns offered by different institutions for the desired account.
+Once you have done the review and discussed it with a bank representative, then you can fill out an application. Some of the documentation the bank will require are your photo and identification card. Make your initial deposit when the account has been opened and is operational.","Savings Account: Money has different functions and these may be summarised into demand for transactional, speculative, and precautionary functions. Saving funds in order to utilize the same at a future period can be a speculative and a precautionary demand for money. The savings can be aimed for investment in future periods and also they can be for emergency purposes. Since the money will remain in an account you might as well consider an account that pays interest."
+291,Which of the following is not a benefit of putting money in a savings account?,You can make frequent withdrawals.,You can earn interest.,It is harder to spend the money.,The money is safe and secure.,A,"Option a
+is the correct answer.
+A savings account does not offer the benefit of regular and unlimited withdrawals to the account holder like a current account. There are federal restrictions that limit the number of times an individual or a company can withdraw money. A specific fee is chargeable if the withdrawal limit is crossed. The banks may change even the nature of the account to current account if the withdrawal continues to exceed the minimum limit.
+Other Options:
+Option b:
+A savings account holder can earn interest income on its account.
+Option c:
+A savings account helps set aside and save money for future use, thus making it challenging to spend regularly.
+Option d:
+By starting a savings account, the deposited money remains safe and secure.",Savings Account Disadvantages Most savings accounts need customers to maintain a minimum amount in their account and deduct some charges if the account balance falls below that limit. Interest rates fluctuate and are lower than other types of accounts.
+311,"Savings , loan associations are regulated by the:",Federal Reserve System.,Securities and Exchange Commission.,Office of the Comptroller of the Currency.,Office of Thrift Supervision.,D,"The correct answer is option D) Office of Thrift Supervision.
+The Office of Thrift Supervision and the Federal Deposit Insurance Corporation (FDIC) regulate all savings and loan associations. Take note that savings institutions are also referred to as thrift institutions. The savings in these institutions are often under government guarantee and benefits, encouraging people to save with a long-term perspective.","Savings Account: In financial accounting, a savings account is a form of interest-deposit account and pays lower interest rates. However, using this type of account encourages investment and easy access to funds on the part of the depositors."

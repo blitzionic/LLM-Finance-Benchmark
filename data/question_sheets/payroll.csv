@@ -1,0 +1,346 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"According to a summary of the payroll of Matrix Publishing Co., $380,000 was subject to the 7.5% FICA tax. Also, $16,000 was subject to state and federal unemployment taxes.","Calculate the employer's payroll taxes, using the following rates: State unemployment 5.4%, Federal unemployment 0.8%.",Journalize the entry to record the accrual of payroll taxes.,,,A,"a.
+The employer is liable for FICA and unemployment payroll taxes:
+FICA payroll tax = $380,000 x 0.075
+$28,500
+State unemployment tax = $16,000 x 0.054
+864
+Federal unemployment tax = $16,000 x 0.008
+128
+Total employer payroll tax
+$29,492
+b.
+The journal entry is:
+Description
+Debit
+Credit
+DR Employer Payroll Taxes Expense
+$29,492
+CR FICA Payable
+$28,50
+CR SUTA Payable
+$864
+CR FUTA Payable
+$128
+To record employer payroll taxes","Employer's Payroll Taxes Employer's payroll taxes refers to the taxes that employers must pay that are based on the net earnings of their employees. Employers must pay these taxes, together with the taxes withheld from employees, over to the tax authorities."
+2,Which of the following procedures would be most useful in determining the effectiveness of a company's internal controls regarding the existence or occurrence of payroll transactions?,Observe the segregation of duties concerning personnel responsibilities and payroll disbursement.,Inspect evidence of accounting for pre-numbered payroll checks.,Recompute the payroll deductions for employee fringe benefits.,Verify the preparation of the monthly payroll account bank reconciliation.,A,"The correct Option is
+A
+The duties relating to roles & responsibilities of employees and the distribution of remuneration to them should be divided which makes the payroll transactions of a company done in a more efficient and effective manner as well as in the specified time frame.
+The explanation for incorrect options is as follows:
+Option B. of inspecting evidence and payroll checks are concerned with the assertion and the payroll completeness, which is the least appropriate option to the Question
+Option C.Of recomputing the payroll is concerned with checking the accuracy, again least important to the question asked
+Option D.verfiying the payroll account is concerned with the independent checking of the account, before auditing.","Payroll Account Payroll account record and maintain all the salary, commission related information or data of all the employees working in an organization along with the leaves and their bonuses respectively. The payroll department works and is responsible for the credit of the salary and perks to employees on time."
+3,Determine the type of audit of the following engagement: Evaluate a company's payroll processing for economy.,Financial Statement,Compliance,Operational,,C,"The correct choice is
+option c. Operational.
+Payroll processing of any enterprise is the task of internal management and it is a part of the operational process. This process or activity is called ""supporting activities"" and is performed to assist in managing the payments and records of the employees.
+A financial statement(FS) audit is performed to detect any fraud or misstatement made at the managerial level or at the employee level of an organization, as well as to determine whether the FS represents sufficient and appropriate financial information.
+A Compliance audit engagement is a process to identify any flaws or negligence in the adherence to the applicable local laws and regulations.","Payroll Payroll is the process of compensating employees for the time they spend providing valuable services to the organization. This process is handled by the human resources (HR) department. The details such as time spent or attendance, mode of payment, and rate of compensation are being undertaken in the payroll process."
+4,Most employers are levied a payroll tax for:,only state and federal unemployment taxes.,"FICA taxes, federal and state unemployment taxes.",state and federal income taxes.,only FICA taxes.,B,"Answer choice:
+B.  FICA taxes, federal and state unemployment taxes.
+Explanation:
+Employers are responsible for half of the FICA taxes.  They are also liable for federal and state unemployment taxes which is generally levied on a certain wage base of each employee.",Payroll Taxes: It is important to understand the payroll taxes are the responsibility of both the employee and employer.  Each company is required by law to  deduct income taxes from employee checks.
+5,"Julie Norman earns $20 per hour for a 40-hour work week and $30 per hour for overtime work. If Julie works 44 hours, her gross earnings are:",$880.,$920.,"$1,045.","$1,320.",B,"Given information:
+Normal rate = $20 per hour
+Working hours in a week = 40
+Overtime rate = $30 per hour
+Julie's working = 44 hours
+Gross earnings are the sum of normal and overtime pay earned by the employee. It is before-tax income, and taxes are deducted from gross earnings to compute net earnings.
+{eq}\begin{aligned} \text{Gross}\ \text{earnings} &=\left( \text{Normal}\ \text{rate}\times \text{Normal}\ \text{working}\ \text{hours}\ \text{in}\ \text{a}\ \text{week} \right)+\left( \text{Overtime}\ \text{rate}\times \text{Overtime}\ \text{worked} \right) \\ &=\left( \$20\times 40 \right)+\left( \$30\times \left( 44-40 \right) \right) \\ &=\$800+\left( \$30\times 4 \right) \\ &=\$800+\$120 \\ &=\$920 \end{aligned} {/eq}
+Thus, Julie's gross earnings are
+$920
+, and the correct answer is
+option b.","Gross Earnings: Gross earnings refer to the amount earned by the individual before any deductions like taxes, a pension contribution plan, etc. Gross earnings are not the actual amount paid to the employees."
+6,"Kenneth Johanson worked 49 hours during the week for Luben Company at two different jobs. His pay rate was $15.00 for the first 40 hours, and his pay rate was $13.10 for the other 9 hours.",Determine his gross pay for that week if the company uses the one-half average rate method.,"If prior agreement existed that overtime would be paid at the rate for the job performed after the 40th hour, the gross pay would be __________.",,,A,"a. Kenneth's gross pay for that week if the company uses the one-half average rate method is $802.50.
+Gross pay = Regular pay + Overtime pay
+Gross pay = (49 hours * $15) + (9 hours * ($15/2))
+Gross pay = $802.50
+b. Kenneth's gross pay, if prior agreement existed that overtime would be paid at the rate for the job performed after the 40th hour is $717.90.
+Gross pay = Regular pay + Overtime pay
+Gross pay = (40 hours * $15) + (9 hours * $13.10)
+Gross pay = $717.90",Gross Pay: This refers to all the wages that an employee earns before accounting for taxes. It includes both regular pay and overtime pay. It is subject to various deductions and exemptions.
+7,Which of the following is required to be withheld from an employee's gross pay?,both federal and state unemployment compensation taxes,only federal unemployment compensation tax,only federal income tax,only state unemployment compensation tax,C,"c) Only federal income tax
+is required to be witheld from an employee's gross pay.
+Employee's are required to fill out a W-4 in order to work and this form is what determines the amount deducted from pay. Along with income tax, FICA, state taxes, and employee contributions may be withheld from gross pay.
+Analysis of Alternatives
+Both federal and state unemployment taxes are payroll expenses that are only paid by the employer.","Payroll: The payroll process involves determining the amount owed to employee, the amount withheld from their paychecks, and the cost paid by the employer for employing them. The last expense is known as the payroll expense."
+8,Which of the following is a form prepared by the employer listing the wages paid and the federal income and FICA taxes owed for that quarter?,Form 940,Form 941,Form 1099,Form 8109,B,"b. Form 941
+Federal income and FICA taxes owed for the quarter are reported on
+Form 941
+. This form is submitted each quarter with the withholdings to the government and is also summarized in part on the employee's W-2.","Payroll: Payroll is a specialty in accounting that focuses on costs associated with employment as well as managing employee deductions. Under various laws, employers are responsible for calculating employee obligations for taxes and remitting them to the government."
+9,Which of the following is NOT a component of a payroll system?,Payroll sinking fund,Employee earnings record,Payroll bank account,Payroll record,A,"The correct answer is
+a.	Payroll sinking fund .
+Payroll sinking fund is not a component of the company's payroll system because it is not required to be put up by the companies in its payroll. The components are: employee earnings record, payroll bank account, and payroll record.",Payroll: Payroll is the total compensation of a business that should be paid to its employees for a specific period of time. This is managed by the human resources department or the accounting department.
+10,The journal entry to record the payment of salaries should include:,a debit to Cash and a credit to Salaries Expense.,a debit to Salaries Expense and a credit to Accounts Payable.,a debit to Stock and a credit to Cash.,a debit to Salaries Expense and a credit to Cash.,D,"Answer choice:
+D.  a debit to Salaries Expense and a credit to Cash.
+Explanation:
+The journal entry to record the payment of salaries when salaries are not accrued include an increase and debit to salaries expense and a decrease and credit to cash.  This affects both the income statement through recording salaries expense as well as the balance sheet through crediting cash.",Recording Payroll: Recording payroll often involves a large amount of data entry that should be reviewed by multiple individuals to ensure accuracy.  There are many journal entries that are automatically produced by the accounting system as well as manual entries that must be prepared and posted to the general ledger.
+11,"On Friday, March 5, Dynamic manufacturing's payroll resulted in a deposit obligation of $2600. Under the semiweekly deposit rule, this deposit must be made by:",Mar.10,Apr.15,Mar. 12,Mar. 8,A,"The correct answer is
+a. Mar.10
+According to the semiweekly deposit rule, the deposit obligation made on three-days of the week, Wednesday, Thursday, and Friday must be fulfilled by coming Wednesday. The Wednesday in next week of deposit obligation is the day of submission. In the question here, the obligation resulted on Friday, March 5. Next week Wednesday would be on March 10. Thus, the obligation must be made on March 10, Wednesday.","Payroll Payroll is the information of an employee with an organization and payment made to the employee. The employment period is divided between the days/months/weeks according to the paying plan and periodically payment is made. The whole process of maintaining payment information, calculating and recording payment till actual payment can be called payroll."
+12,"Lela Johnson earned $95,000 in wages from her employer in 2016.","How much must her employer (1) withhold from Lela's wages and (2) remit to the federal government, in FICA taxes?","Assuming that the state imposes a 5.4-percent unemployment tax rate, how much must Lela's employer remit to the federal government in FUTA tax?",,,A,"We begin with FICA which is Social Security and Medicare withholdings. Social Security is capped at $118, 500 of income for 2016 and Medicare is not capped with rates of 6.2% for Social Security and 1.45% for Medicare. (7.65% for both) and the contribution made by the employee is matched by the employer. We calculate Lela's withholding as follows:
+a)
+$95,000 × 7.65% =
+1) $7,267.50
+Now, we find the amount sent by doubling this to include the employers' matching contribution:
+$7,267.50 × 2 =
+2) $14,535
+b)
+FUTA stands for
+F
+ederal
+U
+nemployment
+T
+ax
+A
+ct and this tax is only assessed on the first $7,000 of employee wages. The rate for FUTA, provided a state rate of 5.4%, is 0.6%:
+$7,000 × 0.6% =
+$42","Payroll: Payroll involves the process of calculating the pay of employees and any withholdings or deductions that need to be remitted on their behalf. With wages and salaries, employers are required to pay additional payments for hiring employees known as payroll expenses."
+13,What is the journal entry to record the direct labor summarized on the labor distribution report?,debit to Finished Goods and credit to Payroll,debit to Work-in-Process and credit to Payroll,debit to Payroll and credit to Direct Labor,debit to Payroll and credit to Cash,B,"Journal entry is as follows:
+Account and explanation
+Debit ($)
+Credit ($)
+Work-in-Process
+XX
+Payroll
+XX
+So correct answer is an option (b) debit to Work-in-Process and credit to Payroll",Payroll: Payroll expenses are an expense that includes the salary and wages paid to the employee of the organization. The benefits are added and total taxes are deducted to get the final net pay of the employee. The entry is work in process is debited and payroll is credited.
+14,A company should assign __________ employee(s) the responsibility for signing payroll checks and disbursements.,a limited number of,only one,its most responsible,none of these,A,"The answer is
+option A.
+The signing of payroll checks and disbursements must be assigned to the limited employee(s) only because it has a significant amount and for easy tracing of any fraudulent transaction and to comply with internal control for cash disbursement. The checks have at least two signatories for checking and validation, so it cannot be only one employee. The assigned employee has authority, like the CEO or the accounting manager. Thus, the answer is option A, and options B, C, and D are incorrect.","Payroll Checks: When the company has an internal sound control, the payroll checks are checked and appropriately validated, and the business uses prenumbered checks."
+15,"Required employee payroll deductions include income taxes, Social Security taxes, pension and health contributions, union dues, and charitable giving.",True,False,,,B,"The answer is
+b. False.
+It is false to say that required employee payroll deductions include income taxes, Social Security taxes, pension and health contributions, union dues, and charitable giving.
+Required (or mandatory) employee payroll deductions include income taxes and Social Security taxes because employers are required by law to withhold these taxes from the gross earnings of employees and pay the amounts over to the revenue authorities. Employees cannot opt out of these deductions.
+Pension and health contributions, union dues, and charitable giving are voluntary deductions because employees to not have to contribute to pension or health-care plans, belong to a union, or make charitable contributions. They can therefore opt out of these deductions.",Payroll Deductions: Payroll deductions are all the amounts that are deducted from the gross earnings of an employee to calculate their net pay. These deductions can be classified as mandatory or statutory deductions or as voluntary or discretional deductions.
+16,An employer must have an employee complete Form W-4:,At the time of hire.,Every January 1.,"Each year, upon the employee's anniversary with the firm.",Before each pay disbursement.,A,"The answer is
+option a. At the time of hire.
+Form W-4, or the Employee's Withholding Allowance Certificate, is a form that needs to be filled up with the employee's information and submitted to the employer
+at the time of hire
+so that the correct amount of federal income tax will be withheld by the employer from the employee's pay. It could also be updated when there are changes in personal or financial situations.
+Analysis of other options
+B. Every January 1 is incorrect because the correct time is when the firm hired the employee.
+C. It is not every year, at the hire or if there are any changes, as stated above,
+D. It is not before each pay disbursement but at the time of hire, as explained above.",Employer: Employers are the legal owners of the business who hire employees to work with the organization. These employees are paid by employers in salaries and wages every payday.
+17,Year-to-date summaries on a paycheck stub are similar to the way:,expenses and revenues are transferred to an income summary.,adjusting entries are recorded in the journal.,income statement accounts accumulate revenues and expenses over a period.,none of these.,C,"The correct answer is
+c. income statement accounts accumulate revenues and expenses over a period.
+Paycheck stub is a document that is used in itemizing the employees' gross pay, deductions, and their net pay. Its year-to-date summaries are similar to the way that revenues and expenses are accumulated over that period. Paycheck stubs are not closed like revenues and expenses and do not show adjusting entries.","Paycheck Stub: Paycheck stub is also called as pay stub, or pay slip, or earnings statement. It is a document that is part of the paycheck that shows the amount paid to all employees. This could be in weekly, monthly, or yearly."
+18,The pay period always ends in conjunction with the company's fiscal year-end.,True,False,,,B,"This statement is false.
+A pay period is the time frame that is used to estimate the wages that are earned by an employee and the time when that employee receives their paycheck.
+The pay period may be daily, weekly, monthly, or of a fixed length. The beginning and end of a pay period show the working and earning periods of the employees. If the pay period ends on December 31st, wages will be paid the following year. Hence, this statement is not true.",Payroll Payroll is the amount of compensation an entity pays to its employees on a given date. It is generally managed by the human resource development or accounting departments of an entity.
+19,Which of these does NOT represent a decrease in net cash received on an employee's paycheck?,Gross wages,Medicare taxes,Social security taxes,Federal withholding taxes,A,"Answer choice:
+a.  Gross wages
+Explanation:
+Gross wages are the amount of wages earned by an employee prior to any deductions being taken out.  Medicare taxes, social security taxes, and federal income taxes all decrease the net amount that an employee receives from their work.",Payroll: A common calculation that is completed by employers as well as employees is the gross and net amount of wages or salary.  An employee who is considered a W2 worker is required to have the employer withhold taxes from their paycheck.
+20,Records of individual items of raw materials would not be maintained:,in the Raw Materials Inventory account.,on stores ledger cards.,manually.,electronically.,A,"The correct option is
+(a).
+In the raw materials inventory account, the materials acquired and supplied to the production phase are noted. The total of all the items is recorded in this account. Therefore, a separate list of all the items that are acquired is not maintained in this account.
+Explanation for the incorrect options:
+Options (b), (c), and (d) are incorrect because they encompass the recording of every transaction pertaining to raw materials.",Accounting Records: Accounting records are defined as the sources from which a business entity obtains adequate information that can be used to construct financial reports. The source documents are also a part of these records because they assist in verifying the occurrence of a transaction.
+21,A pay period is defined as:,Weekly.,Bi-weekly.,Monthly.,All of the above.,D,"Answer choice:
+d.  All of the above.
+Explanation:
+A pay period can be weekly, bi-weekly, or even monthly.  A pay period is the period of time an employee works before getting paid.  For example, with bi-weekly each employees check will include two weeks of work.","Payroll: When creating the payroll records in the accounting system one of the first determinations that must be made is the pay period for employees.  Next, each employee needs to fill out the W4 withholding forms to determine how their taxes should be withheld."
+22,Bemon Corporation had the following payroll for April:,Accrual of the monthly payroll.,Payment of the net payroll.,"Accrual of employer's payroll taxes. (Assume that the FICA tax matches the amount withheld, the federal unemployment tax is 0.6 percent, and the state unemployment tax is 5.4 percent.)",Payment of all liabilities related to this payroll. (Assume that all are settled at the same times.),A,"Prepare journal entries:
+a.  Accrual of the monthly payroll:
+Account
+Debit
+Credit
+Salaries Expense
+101,000
+Income Taxes Withheld
+19,000
+FICA Withheld (employee portion)
+7,500
+Insurance Withheld
+1,800
+Union Dues Withheld
+1,200
+Salaries Payable (net payroll)
+71,500
+b.  Payment of net payroll:
+Account
+Debit
+Credit
+Salaries Payable
+71,500
+Cash
+71,500
+c.  Payroll Tax Accrual (employer's portion):
+Account
+Debit
+Credit
+Payroll Tax Expense
+10,962
+FICA (employer portion)
+7,500
+Federal Unemployment
+330
+State Unemployment
+3,132
+d.  Payment of all liabilities:
+Account
+Debit
+Credit
+Income Taxes Withheld
+19,000
+FICA (employee)
+7,500
+Insurance Withheld
+1,800
+Union Dues
+1,200
+FICA (employer)
+7,500
+Federal Unemployment
+330
+State Unemployment
+3,132
+Cash
+40,462","Payroll Journal Entries: Payroll journal entries are prepared to record all payroll related transactions.  A company accrues the gross wages recognizing them as an expense during the period in which they are incurred.  Another part of the payroll transaction is recording all liabilities (deductions such as payroll taxes, insurance withheld, etc.).  These liabilities will be paid at a later date."
+23,"Mahmet earned wages of $118,650 during 2014. He is single and claims two withholding allowances. How much will Mahmet's employer withhold in social security taxes for the year?","$7,254.00.","$7,356.30.","$8,950.50.","$9,076.73.",A,"The answer is a. $7,254.00.
+The Social Security tax rate is 6.2% of wages up to a certain wage level, which varies by year.  For 2014, the wage cap for social security tax was $117,000.
+$117,000 x 6.2% = $7,254",Social Security Taxes: The Social Security tax is a payroll tax imposed on wages.  Both the employer and employee are required to pay a percentage of wages. The purpose of the tax is to fund the United States' Social Security system.
+24,A salaried employee's annual pay must be converted to an hourly rate in order to calculate overtime for any hours worked over 40 in a week.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that a salaried employee's annual pay must be converted to an hourly rate in order to calculate overtime for any hours worked over 40 in a week because employees are compensated for overtime on an hourly basis and the overtime rate is based on a percentage of the regular pay rate. Labor laws in the USA, for example, impose a minimum overtime rate of 1.5 times the regular pay rate, so the first step in calculating the rate of overtime pay is to determine the regular hourly pay rate.","Overtime Pay: In payroll cost calculations, overtime pay refers to the earnings of employees for hours worked in excess of the maximum working hours per week. By law, the earnings rate for overtime worked is higher than for regular hours."
+25,Which of the following is a main component of a payroll system?,Compliance checks.,Loss record.,Tax liability.,Earnings record.,D,"The correct answer is
+d) Earnings record.
+The components of a payroll system include an earning record. The system does not have a follow-up with compliance requirements. Loss records are not maintained in the payroll system. Tax liability is the personal responsibility of each employee.","Payroll System: Payroll systems are implemented by companies to keep a record of the number of employees, their status, the number of hours worked by each, the amount expected for total working hours, and relevant tax deductions."
+26,Gross earnings for a payroll period less payroll deductions are referred to as:,overtime pay.,bonus pay.,gross pay.,take-home pay.,D,"Answer choice:
+d.  take-home pay
+Explanation:
+Take-home pay is the net amount that an employee receives by check or in their bank account.  This is after all deductions and taxes are taken out.  Gross pay is an employees hourly or salary wage before any deductions are taken out.","Payroll: Every company that has W2 employees has to have an accounting system with the capacity to process payroll or hire an outside party to complete the tasks.  There are more tasks involved then just paying employees.  Also, a companies accountants will have to take care of tax payments such as FICA and unemployment."
+27,An employer is required to match certain payroll taxes like:,unemployment taxes,workers compensation,Social Security,none of the taxes listed here,C,"Answer choice:
+c.  Social Security
+Explanation:
+An employer is required to match payroll taxes like social security and medicare.  The employee pays half and the employer pays half.  Unemployment taxes and workers compensation is paid by the employer only.","Payroll Process: The payroll process within an accounting system involves running the payroll, deducting any required withholdings, and paying the required payroll taxes.  Taxes that are withheld from employees checks must be recorded into a separate liability account until it is due to the appropriate party."
+28,What are the two categories of payroll deductions?,"required deductions, optional deductions","straight deductions, overtime deductions","gross deductions, net deductions","charitable deductions, contributory deductions",A,"The correct answer is
+a.	required deductions, optional deductions .
+Payroll deductions are categorized into two:
+Required deductions are those deductions that are compulsory to be deducted from the employees' gross pay. Examples are income withholding tax, social security tax, and Medicare tax.
+Optional deductions are those deduction that are not required to be deducted. These are deducted based on the request of the employees. Examples are group health insurance, parking, and organizational dues.","Payroll Deductions: Payroll deductions are amounts that are withheld or deducted from the employees' gross pay or payroll check, which are withheld by the employers. Examples are FICA taxes, and insurance contributions."
+29,"For good internal controls over payroll, which functions should be separated?",passing out paychecks or pay stubs,hiring and firing of employees,payroll accounting,all of the functions above should be separated,C,"C. Payroll Accounting is the correct option.
+Payroll accounting is accounting for employee salaries along with the additional benefits. It is accounted as per the working hours of an employee and work performed. Payroll accounting needs to be separated as the employee wants to access information through payroll accounting. Thus, specific measures need to be taken to protect the confidentiality of the company.",Internal Controls over Payroll: Internal control over payroll is carried out in order to protect the payroll information. This control is carried out to protect it from employees who want to access confidential information or wants to steal funds from the company.
+30,Federal unemployment compensation tax is a tax that is paid only by employers.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that federal unemployment compensation tax is a tax that is paid only by employers because it is a payroll tax that is not withheld from the wages of employees, even though it is based on their earnings. Instead, it is a payroll tax expense that only employers pay.
+The FICA taxes are payroll taxes that are paid by both employers and employees, while federal and state income taxes (as a payroll tax) are paid only by employees.",Payroll Taxes: There are two kinds of payroll taxes; those that employers withhold from the gross earnings of their employees and pay over on their behalf and those that employers pay as an additional compensation expense.
+31,Which of the following parties does not legally have access to a firm's payroll records?,The IRS.,State revenue department employees.,The Department of Homeland Security.,All employees of the firm.,D,"The answer is
+option D.
+All firm employees have no legal access to the company's payroll records because these are the employer's property and responsibility, not the employees'. The government could access or inspect these, like authorized internal revenue officers, employees from the IRS or State revenue department employees, or the Department of Homeland Security, to check if the company complies with laws and regulations in labor and tax.","Payroll Records: As stated in one of the regulations of the IRS, employers are to retain the payroll records of the terminated employees within three years of the termination."
+32,"Sue Stein's regular rate of pay is $12 per hour, with one and one-half times rate for any hours which exceed 40 hours per week. She worked 48 hours last week. Therefore, her gross wages were:",$576.,$480.,$624.,$864.,C,"We begin by finding the regular pay that Sue earns in the week:
+40 × $12 = $480
+We now find Sue's overtime rate:
+$12 × 1.5 = $18
+We use this to find the overtime pay:
+8 × $18 = $144
+We add this to her regular pay to find the gross pay:
+$480 + $144 =
+c) $624",Wages: An employee who earns wages will see his or her pay affected by the hours worked. The amount earned is often subject to laws and rules about overtime that require that some hours receive additional compensation.
+33,"Ben Lieber is a waiter at Harbor House, where he receives a weekly wage of $80 plus tips for a 40-hour workweek. Lieber's weekly tips usually range from $280 to $400.","Under the Fair Labor Standards Act, the minimum amount of wages that Lieber must receive for a 40-hour workweek is __________.","Since Harbor House is in violation of the FLSA, the additional amount it should pay Lieber each week to meet the minimum wage requirement for a tipped employee is __________.",,,A,"(a): Computation of minimum amount of wages:
+Particulars
+Amount ($)
+Minimum weekly wages (2.13 x 40)
+85.20
+Hence, the minimum weekly wages are $85.20.
+(b): Computation of minimum wage of tipped employees:
+Particulars
+Amount ($)
+Minimum weekly wages
+85.20
+Deduct: Weekly wages paid
+(80)
+Minimum wage requirement
+5.20
+Hence, the minimum wage requirement is $5.20.","Fair Labor Standards Act: A law developed to establish minimum wages, standards for youth employment, and overtime wages is referred to as the Fair Labor Standards Act (FLSA). This act is applicable to the public as well as private employees."
+34,"Each year, there is a ceiling for the amount that is subject to all of the following except:",social security tax,federal income tax,federal unemployment tax,state unemployment tax,B,"Each year there is a ceiling for the amount that is subject to withholdings for all of the following except
+b. federal income tax
+.
+The federal income tax is a progressive tax that uses a bracket system to asses tax liability. Taxes are assessed based on whether the employee has dependents, their income level, and other withholdings such as retirement.
+Analysis of Alternatives
+a) has a ceiling of $147,000 as of 2022
+c) is capped at $7,000
+d) is capped depending on state law","Net Pay: Unlike other expenses, payroll involves calculating withholdings for employees as well as additional expenses incurred known as payroll expenses. The different laws involved can make the process very complex."
+35,"Andy Manion earns $14 per hour for a 40-hour week and $21 per hour for any overtime work. If Manion works 45 hours in a week, gross earnings are:",$650.,$630.,$665.,$560.,C,"The correct answer is
+c. 665
+.
+Given information:
+Normal rate = $14 per hour
+Normal working hours in a week = 40
+Overtime rate = $21 per hour
+Manion's working in a week = 45 hours
+Overtime work can be computed by deducting the normal working hours from the total hours worked. Gross earnings can be computed by adding normal earnings and overtime earnings.
+{eq}\begin{aligned} \text{Gross}\ \text{earnings} &=\left( \text{Normal}\ \text{rate}\times \text{Normal}\ \text{working}\ \text{hours}\ \text{in}\ \text{a}\ \text{week} \right)+\left( \text{Overtime}\ \text{rate}\times \text{Overtime}\ \text{worked} \right) \\ &=\left( \$14\times 40 \right)+\left( \$21\times \left( 45-40 \right) \right) \\ &=\$560+\left( \$21\times 5 \right) \\ &=\$560+\$105 \\ &=\$665 \end{aligned} {/eq}
+Thus, Manion's gross earnings are
+$665
+.","Earnings: Earnings refer to the money earned from the sale of goods and services to an individual or organization. Earnings are utilized to fulfill expenses like rent, taxes, insurance, etc."
+36,Employee file maintenance is the responsibility of the:,Payroll vendor.,Employer.,Employee.,State government.,B,"The answer is
+option B.
+The employer is responsible for maintaining the records or files of its employees, like the payroll records held within three years after the employee's termination, because it has legal access to these documents, as stated in IRS Regulation 26 CFR 1.6001. The payroll vendor, employee, and state government are not responsible for maintaining these records because they are not the owner.","Payroll: A payroll is related to the employer's process of recording, calculating, and paying wages and salaries, and other incentives or benefits to its employees."
+37,Most employers are required to withhold from employees for _____.,only federal income tax,both federal and state unemployment compensation tax,only state unemployment compensation tax,only federal unemployment compensation tax,A,"Most employers are required to withhold from employees for
+a. only federal income tax
+.
+Employers are intermediaries for the employees and withhold federal income taxes, state income taxes, and the employee's share of social security and medicare. The employee may also have voluntary withholdings for benefits and garnishments for settlements or child support.
+Analysis of Alternatives
+Federal and state unemployment taxes are payroll expenses and are not withheld from the employee's pay.","Payroll: The process of conducting payroll involves onboarding employees, calculating wages, and issuing paychecks. Employers also must contribute to employee costs in a separate transaction referred to as payroll expenses."
+38,"Social Security tax is subject to an income threshold, and therefore is only levied on an employee's wages until he/she has earned more than the threshold level in a single year.",True,False,,,A,"The statement is
+true
+.
+in 2023, Social Security tax is levied on the first $160,200 of an employee's earnings at a rate of 6.2%. This means that if an employee earns $15,000 per month, she will pay Social Security tax for the first ten months on her full salary ($150,000 in total taxed), and in the 11th month, she will pay Social Security tax on $10,200 only. In the last month, she will not pay any Social Security tax. The employer will pay the same amount.","Social Security Tax: Social Security tax is one of the taxes imposed by the Federal Insurance Contributions Act in the United States. It is collected by way of payroll withholdings, meaning that employers are required to calculate and deduct Social Security tax from the gross earnings of employees."
+39,What form is given to an employee to correct incorrect payroll information?,W-2C,W-4,W-9,None. The employee notifies the IRS directly when he or she files a Form 1040.,A,"The correct option is a.
+W-2C is a form used to correct information from prior years in the wages and tax-related information. This form reports the wages-related information to the internal revenue service and other authorities. It helps in correcting the payroll information.
+Explanation of incorrect information:
+Option b: Form W-4 is the employee's withholding certificate. This form is mainly used when an employee joins a new job; it contains the information related to the federal income tax withheld from the employees.
+Option c: Form W-9 is used by the third-party who is required to file an information return with the internal revenue service.",Payroll information: Payroll information means paying the employees of the company as per the agreement. Amount paid by the employer to its employees and the payroll-related expenses are recorded in the payroll information.
+40,"Rebecca Huang receives a regular salary of $2,600 a month and is paid {eq}1\dfrac{1}{2}
+
+{/eq} times the regular hourly rate for hours worked in excess of 40 per week.",Calculate Huang's overtime rate of pay.,Calculate Huang's total gross weekly pay if she works 45 hours during the week.,,,A,"a.
+Total annual salary = Salary per month * 12
+Total annual salary = 2,600 * 12
+Total annual salary = $31,200
+{eq}Weekly \ salary \ = \ \dfrac{Total \ annual \ salary}{52}
+
+\\
+
+Weekly \ salary \ = \ \dfrac{31,200}{52}
+
+\\
+
+Weekly \ salary \ = \ \$600
+
+{/eq}
+{eq}Normal \ rate \ per \ hour \ = \ \dfrac{Weekly \ salary}{Normal \ hours}
+
+\\
+
+Normal \ rate \ per \ hour \ = \ \dfrac{600}{40}
+
+\\
+
+Normal \ rate \ per \ hour \ = \ \$15
+
+{/eq}
+Overtime rate per hour = Normal rate per hour * Normal rate
+Overtime rate per hour = 15 * 1.5
+Overtime rate per hour = $22.50
+b.
+Gross pay = (Normal hours * Normal rate) + ((Hours worked - Normal hours) * Overtime rate
+Gross pay = (40 * 15) + ((45 - 40) * 22.50)
+Gross pay = 600 + (5 * 22.50)
+Gross pay = 600 + 112.5
+Gross pay = $712.5","Gross Pay: Gross pay refers to the total amount an employee  earn before any deductions has been made from the salary.  After deducting the Income-tax, deductions,  mediclaim and other expenses the remaining amount is called net pay."
+41,Which of the following is NOT an example of a payroll item?,Federal Withholding,Hours Worked,Vacation Hourly,Health Insurance,D,"The correct answer is d. Health Insurance.  Health insurance is not a payroll item.  If a company offers health insurance benefits to employees, but requires them to pay a portion of the premium, then ""health insurance premium deduction"" would be a pertinent payroll item.",Payroll: Payroll is broadly defined as the total amount of wages and salaries paid by an organization to its employees.  Payroll processing is a critical bookkeeping and/or human resources function that many firms opt to outsource.
+42,Most employers are levied a tax on payrolls for:,sales tax.,medical insurance premiums.,federal unemployment compensation tax.,union dues.,A,"Let us look at the alternatives:
+a. sales tax.
+No, sales tax is a tax that vendors pay on their sales revenue. It has nothing to do with being an employer.
+b. medical insurance premiums.
+No, this is not a tax, it is usually a payroll deduction only.
+c. federal unemployment compensation tax.
+This is the correct option. Employers must pay state and federal unemployment taxes knows as SUTA and FUTA.
+d. union dues.
+No, this is another payroll deduction only.","Employers Payroll Tax Employers are required to deduct certain taxes and other items from the gross pay of their employees and pay these over to the relevant authorities. In addition, they are required to pay payroll taxes, which is an additional operating expense."

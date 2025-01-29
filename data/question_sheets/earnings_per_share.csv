@@ -1,0 +1,282 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Earnings per share should always be shown separately for:,net income and gross margin.,net income and pretax income.,discontinued operations items and prior period adjustments.,income from continuing operations.,A,"*The correct answer is a) net income and gross margin.
+Earnings Per Share (EPS) are determined by the net income and gross margin of a business entity. A company periodically calculate the EPS for understanding the position in the market.","Earnings Per Share: Investors invest for the earnings on the investment. Further, earning per share shows the amount of return earned on an individual share held by an individual."
+2,"The EPS ratio is important because it signals the ability of the company to pay future dividends, which investors factor into the stock price.",TRUE,FALSE,,,B,"The statement is
+FALSE.
+EPS formula:
+{eq}EPS = \displaystyle\frac{Net\:income}{Number\:of\:shares\:outstanding} {/eq}
+The EPS ratio accounts historical data of net income and number of shares outstanding, which is not relevant to forecast future dividend.","Earnings Per Share (EPS): Earnings per share is a profitability ratio to assess a business performance within a year. It is calculated by dividend the firm's net income over the number of shares outstanding. In practice, investors would usually analyze both basic EPS and diluted EPS."
+3,"A corporation has 3, 000 shares, 10% preferred stock of $70 par, and 9,000 shares of common stock outstanding. The net income for the year is $280,000.",$70 ,$29 ,$31 ,$93 ,B,"The correct answer is:
+B. $29
+.
+The formula for computing the earning per share (EPS) is:
+{eq}\rm EPS=\dfrac{\text{ Net income - Preference dividends paid}}{\text{ Outstanding common shares}}
+
+{/eq}
+In the given question, we have a corporation with 3,000 shares, 10% preferred stock of $70 par, and 9,000 shares of common stock. The amount of dividend paid on the preferred stocks is:
+{eq}10\%\times 3,000\times \$70=\$21,000
+
+{/eq}
+If the firm made a net income of $280,000, then the the earning per share is equal to:
+{eq}\rm EPS=\dfrac{\$280,000-\$21,000}{9,000}\\[0.3cm]
+
+\rm EPS=\$28.78\\[0.3cm]
+
+\rm EPS\approx \bf \boxed{\$29}
+
+{/eq}","Earning Per Share In finance, the earning per share refers to the ratio of the total net income available to the shareholders earned by a firm to the total number of outstanding shares. Earning per share indicates the profitability of a firm by showing the profit a firm makes for each share of the stock."
+4,Determine whether the following statement is true or false: A temporary decline in earnings per share usually results in a temporary reduction of dividends.,TRUE,FALSE,,,B,"The statement provided is
+False
+.
+Statement
+True/False
+A temporary decline in earnings per share usually results in a temporary reduction of dividends.
+To determine the earnings per share, we can use the net income available to equity shareholders and the weighted average shares of stock. If there is a temporary decrease in the earnings per share, it will not decrease the dividends. Earnings per share could decrease only when the outstanding shares increase or net income decreases. Dividends are not affected by a temporary reduction in the EPS.",Dividends: Dividends are cashflows to stockholders paid out of the retained earnings every time a company declares dividends. Dividends have two forms: cash or additional shares. We cannot revoke dividends once declared by the board.
+5,"""Basic earnings per share"" does not include the dilutive effects of all of a firm's convertible bonds.",TRUE,FALSE,,,A,"The statement is
+TRUE.
+{eq}EPS_{basis} = \displaystyle\frac{Net\:income - Preferred\:dividend}{Number\:of\:shares} {/eq}
+The basis EPS ignores additional number of new shares from convertible securities. Alternatively, if a firm increases number of shares by issuing new shares, basis EPS is necessary for investors' analysis. However, if new shares are caused by convertible securities, investors will need to analyze another metric, known as diluted EPS.","Earnings Per Share: The earrings per share (EPS) measures how much net profit a common shareholder can receive by holding a share. With that being said, it is estimated by dividing the firm's earnings after tax and preferred dividends over the number of shares outstanding."
+6,Earnings per share:,is calculated by dividing the earnings available to ordinary shareholders by the number of ordinary shares on the issue.,is complicated by the declaration of cash dividends during the year.,excludes the depreciation expense for the year.,is calculated based on the extraordinary earnings available to shareholders.,A,"The correct option is a. is calculated by dividing the earnings available to ordinary shareholders by the number of ordinary shares on the issue.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. is calculated by dividing the earnings available to ordinary shareholders by the number of ordinary shares on the issue.
+This is the correct alternative. The earnings per share are calculated by dividing the net income as per the income statement minus preferred dividends by the weighted-average number of common shares issued during the period.
+b. is complicated by the declaration of cash dividends during the year.
+No ordinary or common dividends do not affect the earnings per share calculation, only preferred dividends and dilutive items like convertible bonds and stock options.
+c. excludes the depreciation expense for the year.
+No, the total net income is used to calculate the earnings per share.
+d. is calculated based on the extraordinary earnings available to shareholders.
+No, it is based on all the earnings available to common shareholders",Earnings per Share: Publically traded companies are required to include their earnings per share data at the bottom of their income statement. The information is used by investors to calculate the price-earnings ratio and this ratio affects the share price of the company.
+7,"In computing diluted earnings per share, stock options are considered dilutive when their option price is greater than the market price.",TRUE,FALSE,,,B,"The statement is  FALSE.
+In computing diluted earnings per share, stock options are considered
+antidilutive
+when their option price is greater than the market price. When the exercise price is higher than the market price, it means the option-holder will pay an amount higher than the current market price so the new shares will bring new capital to the company which should have a positive effect on earnings in the same way that any share-issue has.
+Stock options are considered dilutive when their option price is LOWER than the market price because the number of shares increases but the proceeds received it diluted by the conditions of the option.",Basic and Diluted Earnings Per Share: Companies must disclose their basic and diluted earnings per share at the bottom of their income statement. The diluted earnings per share is only calculated when the company has dilutive securities like convertible bonds or stock warrants outstanding.
+8,The P/E of Jude Corp is 20. Its stock price is $40 per share and its dividend yield is 4.0%. What is Jude's EPS?,$2.00 ,$0.50 ,$1.60 ,$0.80 ,A,"The correct option is $2 (A).
+The calculation of EPS is shown below.
+{eq}EPS \ = \ \dfrac{Stock \ price}{P/E \ ratio}
+
+\\
+
+EPS \ = \ \dfrac{\$40}{20}
+
+\\
+
+EPS \ = \ \$2
+
+{/eq}","Earning Per Share: To calculate earnings per share of common stock,  its net income is provided with the common share outstanding. Outstanding shares are the total number of shares that are floating in the market."
+9,Earnings per share (EPS) is considered to be:,a debt service ratio.,a liquidity ratio.,a profitability ratio.,an activity ratio.,C,"The correct answer is C: Profitability Ratio
+.
+The formula for calculating EPS consists of a numerator and a denominator. The numerator is net profit, and the denominator is the number of shares outstanding. When calculating EPS, preferred dividends are subtracted from net income in the numerator and the weighted average of common shares outstanding is used in the denominator. The resulting ratio reflects how profitable a company is, thus helping investors to determine the value of a company's stocks. Therefore,
+answer C is correct because EPS is a profitability ratio
+. Answers A, B, and D are all incorrect because EPS is neither a debt service ratio nor a liquidity or activity ratio.",Earnings Per Share: Earnings per share (EPS) is calculated by taking a company's net earnings and dividing it by the number of outstanding common shares. The higher the EPS ratio the better because it reflects how much profit a company can make on each of its shares.
+,,,,,,,,
+11,Earnings per share is calculated by:,Dividing net income by the authorized ordinary shares.,Dividing net income less preferred dividends by number of ordinary shares outstanding.,None of the above.,Dividing net income by the total number of ordinary and preferred shares issued.,B,"The correct answer is
+option b. Dividing net income less preferred dividends by number of ordinary shares outstanding
+Explanation
+Earning per share is the net income attributable to each shareholder. The net income is divided by the common stock outstanding. The dividend paid on the preference share is subtracted from net income while calculating EPS if there are preference shares.
+EPS = (Net income - preference dividend) / number of ordinary shares outstanding",Earning Per Share (EPS): Earning per share is the profit attributable to each equity shareholder. There are two types of Earnings per Share; Basic earnings per share and Dilutive earnings per share. EPS is one of the factors that investors look into while investing.
+12,Earnings per share measures,the preferred dividends paid by the company.,the amount of taxes the company must pay for each share of stock.,how much income was earned by the Board of Directors.,how much income was earned for each share of common stock outstanding.,D,"Correct Answer:
+Option d) how much income was earned for each share of common stock outstanding
+.
+To determine earnings per share, we use the following equation:
+{eq}\text{Earnings per share} = \dfrac{\text{Net income availabel for equity shareholders}}{\text{Weighted average common shares}}
+
+{/eq}
+The metric measures the per-share earnings made by investing the capital raised by a single share.","Weighted Average Shares: The shares outstanding at the year-end determine the earnings per share.     These shares are subject to changes based on stock dividends, splits, and repurchases. The outstanding shares need not be the same as issued shares."
+13,"In determining basic earnings per share, the annual dividend on nonconvertible cumulative preferred shares should be:",Added back to net income whether declared or not.,Disregarded.,Deducted from net income only if declared.,Deducted from net income whether declared or not.,D,"The correct answer is option
+D) Deducted from net income whether declared or not.
+The basic earnings per share value when there is cumulative preferred stock is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Net income - annual dividend on preferred stock}}{\text{Weighted common shares outstanding}}
+
+\end{align*}
+
+{/eq}
+It should be noted that the annual dividend on cumulative preferred stock is deducted whether declared or not while calculating the value of basic earnings per share.","Earnings Per Share: In the context of finance, the earnings per share ratio is one of the prominent ratios considered by existing and prospective shareholders. If there are dilutive securities issued by a firm then both basic earnings per share and diluted earnings per share are determined."
+14,Earnings per share (EPS) is calculated as:,the number of shares of common stock outstanding at the end of the year divided by net income,net income divided by the average number of shares of common stock outstanding throughout the year,the average number of shares of common stock outstanding throughout the year divided by net income,,B,"The correct option is B.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. the number of shares of common stock outstanding at the end of the year divided by net income
+No, we do not use the number of shares outstanding at year-end, and net income is the numerator, not the denominator in the formula.
+B. net income divided by the average number of shares of common stock outstanding throughout the year
+This is the correct alternative. We use the weighted average number of shares outstanding and the net income for the year (minus preferred stock dividends where applicable) to calculate the earnings per share. The formula is Net income ÷ Weighted average number of shares outstanding.
+C. the average number of shares of common stock outstanding throughout the year divided by net income
+No, the weighted average number of shares is the denominator, and the net income is the numerator in the earnings per share formula.",Earnings Per Share: Companies must calculate their basic and diluted earnings per share and present it at the bottom of their income statements. These ratios represent the amount of earnings attributable to each share of common stock.
+15,Earnings per share (EPS) is considered to be:,a debt service ratio.,a liquidity ratio.,a profitability ratio.,an activity ratio.,C,"The correct answer is C: Profitability Ratio
+.
+The formula for calculating EPS consists of a numerator and a denominator. The numerator is net profit, and the denominator is the number of shares outstanding. When calculating EPS, preferred dividends are subtracted from net income in the numerator and the weighted average of common shares outstanding is used in the denominator. The resulting ratio reflects how profitable a company is, thus helping investors to determine the value of a company's stocks. Therefore,
+answer C is correct because EPS is a profitability ratio
+. Answers A, B, and D are all incorrect because EPS is neither a debt service ratio nor a liquidity or activity ratio.",Earnings Per Share: Earnings per share (EPS) is calculated by taking a company's net earnings and dividing it by the number of outstanding common shares. The higher the EPS ratio the better because it reflects how much profit a company can make on each of its shares.
+16,EPS is a good predictor of:,future interest costs,financial leverage,future cash receipts,future stock prices,D,"The answer is
+D. future stock prices.
+Earnings per share (EPS) helps investors determine what to expect from the company's profitability. The higher its value, the better for the company because it helps to increase its value in the market, thus, affecting the stock price as profitable companies increase their corporate value in the long run.
+Analysis of other options
+A. The earnings per share (EPS) formula has a numerator of net income for common stocks and a denominator of outstanding shares. So, it does not predict future interest costs related to debts.
+B. Financial leverage measures depend on debts, so, like option A, which is the interest cost, EPS is unrelated.
+C. Future cash receipts can't be predicted by earnings per share but by sales forecasts.","Earnings Per Share: The earnings per share (EPS) appears on the company's financial statements, specifically in the income statement. It measures the income of every outstanding share of the firm."
+17,"When computing earnings per share, _____.",an adjustment related to preferred stock dividends is made in the numerator and denominator of the earnings per share formula.,the dividends for cumulative preferred stock are deducted from net income whether or not preferred dividends have been declared.,the dividends for cumulative preferred stock are deducted from net income only if the preferred dividends have been declared.,an adjustment for the preferred dividends is made in the denominator of the earnings per share formula.,B,"Answer: b. the dividends for cumulative preferred stock are deducted from net income whether or not preferred dividends have been declared.
+The earnings per share is computed by obtaining the net income attributable to the common stockholders and dividing it to the outstanding common stock. The net income attributable to common stockholders is computed by obtaining the net income and deducting the dividends for the preferred stockholders. When the preferred stocks are cumulative, the entire dividends, whether declared or not, are deducted from net income. However, in case on non-cumulative preferred shares, only the declared dividends will be deducted.","Earnings per Share: Earnings per Share is a measure of profitability. It reports the earnings of each common stock outstanding to the net income earned by the company, This is applicable only for common stockholders."
+18,The earnings per share of common stock calculation:,is made by dividing net income by the number of shares of common stock outstanding at the end of the year.,is complicated by the presence of convertible bonds in the capital structure.,is complicated by the declaration of cash dividends during the year.,includes gains or losses from treasury stock transactions.,B,"The correct option is B. is complicated by the presence of convertible bonds in the capital structure.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. is made by dividing net income by the number of shares of common stock outstanding at the end of the year.
+No, earnings per share is calculated by dividing net income by the weighted average number of shares of common stock outstanding for the year.
+B. is complicated by the presence of convertible bonds in the capital structure
+This is true. When a company has dilutive securities like convertible bonds, it must also calculate the diluted earnings per share to demonstrate the effect that converting the bonds will have on earnings per share.
+C. is complicated by the declaration of cash dividends during the year.
+No, cash dividends paid to common shareholders do not affect a company's earnings per share
+D. includes gains or losses from treasury stock transactions.
+No, because these gains or losses are not included in the net income.",Earnings Per Share: Earnings per share is a useful financial ratio for investors because it considers not just the absolute net income for the year but also the number of shares the company has outstanding. This makes comparisons to other companies more relevant.
+19,Total dividend payments plus retained earnings divided by outstanding stock shares equals:,the price-earnings ratio.,earnings per share.,the dividend yield.,the year-to-date percentage change.,B,"Correct Answer:
+Option b. earnings per share
+.
+One should know that net income can be expressed in the following manner too:
+Net income = Dividend payments + Additions to retained earnings
+The formula to determine earnings per share is:
+{eq}\text{Earnings per share} = \dfrac{\text{Net income available to equity shareholders}}{\text{Common shares outstanding}}
+
+{/eq}
+Note:
+Other options are incorrect as they don't use net income in their computations.",Net Income: Net income is a metric that can be found on an income statement. The metric determines whether the company's financial performance for the given period was better than the previous years or not.
+20,Which of the following will increase a company's earnings per share for the year?,Selling all the stock it held as treasury stock at the beginning of the year.,Issuing additional shares of stock during the year.,Issuing a stock dividend to shareholders.,Buying additional shares of treasury stock during the year.,D,"The correct option is D. Buying additional shares of treasury stock during the year.
+Recall that earnings per share are the net income divided by the weighted average number of shares outstanding. Earnings per share, therefore, increase when the number of shares outstanding decreases. Let us now look at the alternatives:
+A. Selling all the stock it held as treasury stock at the beginning of the year.
+When treasury stock is reissued, the number of shares outstanding increases so earnings per share decreases.
+B. Issuing additional shares of stock during the year.
+This also increases the number of shares outstanding so it decreases earnings per share.
+C. Issuing a stock dividend to shareholders.
+No, this increases the number of shares outstanding so it decreases the earnings per share.
+D. Buying additional shares of treasury stock during the year.
+This is the correct alternative because buying treasury stock decreases the number of shares outstanding. This will increase the earnings per share because the denominator in the formula decreases.",Earnings Per Share: Earnings per share is a financial ratio that represents the net income allocated to each share of common stock. Earnings per share is presented on the face of a company's income statement and the formula to calculate earnings per share is: {eq}\begin{align} \text{Earnings per share} &= \frac{\text{Net income}}{\text{Average number of common shares outstanding }} \\ \end{align} {/eq}
+21,The book value per share for a corporation is:,The market price of the stock,The amount stockholders would receive if they sold their shares back to the corporation,Based on the excess of total assets over total liabilities,The cost of investments in stock of other corporations,C,"The correct option is
+c. Based on the excess of total assets over total liabilities
+To calculate a company's net worth per share, a financial metric called book value per share is used. It is determined by dividing the difference between total liabilities and total assets by the total number of outstanding shares. If the company were to liquidate all of its assets and pay off all of its liabilities, the resulting sum would be distributed to the shareholders.
+Reasons why other options are incorrect:
+a. The market price of the stock:
+The stock market price is the true indicator of the value of a company's shares because it reflects the current trading value of those shares and is affected by supply and demand as well as investor sentiment.
+b. The amount stockholders would receive if they sold their shares back to the corporation:
+what is meant here is the buyback price, also called the repurchase price, at which a company can repurchase its shares from shareholders. The price does not reflect the per-share book value.
+d. The cost of investments in stock of other corporations:
+This is incorrect because the value of a company's investments in the stocks of other companies is not included in this definition. It differs from the per-share book value because it doesn't take into account liabilities.","Shares: A share is also known as a stock or equity. This refers to the unit of ownership of the company. The majority holder of the share has decision-making power, and the shares can be traded on the stock exchange."
+22,If a company's earnings per share and return on equity both increase:,"it could mean that net income is rising or it could mean that the number of outstanding shares is falling. In either case, stockholders can expect greater future returns indefinitely.",it could mean that net income is rising or it could mean that the number of outstanding shares is falling. The first is sustainable; the second cannot be continued indefinitely.,it means that the company is becoming more profitable and stockholders will see greater returns.,it means that the company's tax liability will rise in the future and cause a decline in profitability.,B,"The formulas are:
+{eq}\begin{align}
+
+\text{Earnings per common share} &= \frac{\text{Adjusted net income after preferred dividends}}{\text{Outstanding shares}} \\
+
+\end{align}
+
+{/eq}
+{eq}\begin{align}
+
+\text{Earnings per common share} &= \frac{\text{Net income}}{\text{Average equity}} \\
+
+\end{align}
+
+{/eq}
+Since it is the numerator, net income has a direct relationship with both returns on equity and earnings per share in their formula. It means an increase to them, increases the ratios.
+Average equity and outstanding shares are the denominators, so they indirectly relate to the return on equity and earnings per share.
+The correct answer is
+option B.
+The statement describes the possible cause of the increase in ROE and EPS.
+A. The first statement is true, but the second one is incorrect because reducing the number of shares outstanding is not continued indefinitely since it is increasing, not decreasing.
+C. It is not always the case. Increasing earnings per share do not mean the company is more profitable because some cause of the increase is not related to income.
+D. Tax liability is based on the net income and is not always the cause of the increase in ROE, and EPS is an increase in net income.",Earnings Per Share: The earnings per share are used as one of the ratios to evaluate the company's efficiency and profitability in using their assets in the business.
+23,Earnings per share reports the amount of net income (loss) for each share of the company's issued common stock.,TRUE,FALSE,,,B,"The given statement is
+false
+.
+Earnings per share are an indicator of the profitability of an entity. Its computation involves two elements: earnings available for equity stock and the number of outstanding shares.
+It indicates how much money or funds are generated for every share outstanding of the entity. It does not involve considering the issued common stock for analyzing corporate value. Instead, it considers the outstanding shares of the company.",Common Stock: Common stock is considered an ordinary share that provides the holder with ownership in an entity. These stocks offer voting rights and the right to receive a portion of the entity's profits.
+24,Shares held by investors are known as:,issued but not outstanding,issued and outstanding,authorized shares,treasury stock,B,"The correct answer is option b. the shares held by the investors or the shareholders, are called the issued and outstanding shares. They are the company stocks and include the restricted shares and the share blocks. They are owned and only given to the stakeholders or the real investors.
+Options a, c and d, are incorrect. Issued but not outstanding shares are the overall shares issued by the firm. Authorized shares are the maximum a company can give in the market as stated by the law. The company keeps Treasury stock shares in its treasury.","Shares: In business and economics, shares are the assets an individual or a firm holds. Shares are the form of investments that people have in an organization. There is a public and private share in the sharing economy."
+25,Earnings per share calculations:,apply to preferred stock.,apply to weighted average shares of common stock.,are concerned only with stock events that have actually occurred during the year.,include all potentially dilutive securities.,B,"The right choice is option B): to apply to the weighted average share of common stock.
+This is the correct choice because  Earnings per share (EPS) is defined as the monetary value that is realized by the stakeholders of an entity on each of their outstanding common shares.
+Explanation:
+Option A): This is not the correct choice. Preferred shares are not applied while calculating earnings per share because dividends paid to these stakeholders are subtracted before calculating the EPS. Dividend arrears are not relevant while calculating EPS.
+Option (C) This is not the correct choice because EPS is computed by involving the total weighted average share. EPS is not only concerned with the current stocks of the year but also with previous stocks that were issued earlier.
+Option D): This is not the correct choice because dilutive securities are involved while calculating diluted EPS.","Securities: Securities refer to financial instruments that have some monetary value. They are used for raising capital by firms and are easily traded in the market. These are mainly categorized into three classes, namely, debt, equity, and hybrid securities (that has features of both equity and debt)."
+26,"For 2017, Stoneland Corporation reported:",($16.67),($66.67),($0.06),($4),D,"The correct option is
+(d) $4
+Given that -
+Net Income = $24,000
+Average Share Outstanding = 6,000
+{eq}\begin{align} \text{Earnings Per Share} &= \dfrac{\text{Net Income}}{\text{Average Shares Outstanding}}\\ &= \dfrac{\$24,000}{6,000}\\ &= \text{\$4 per share}\\ \end{align} {/eq}",Earnings Per Share: The earnings per share shows the amount of net income that can be attributable to an individual share of the company. The earnings per share helps in comparing the earning capacity of companies with different sizes and capital.
+27,Earnings per share is the best way to compare the performance of different companies.,TRUE,FALSE,,,B,"The statement is
+FALSE.
+EPS is a financial ratio to evaluate the business performance in term of profitability. However, it is not the only figure that helps investors to compare the performance of different firms, for instance: return on equity, return on assets, etc.
+The EPS ratio is not relevant for the benchmarking of firms with different business sizes. In addition, this ratio might be improved technically by a stock repurchase strategy. Thus, EPS would not be the best ratio for benchmarking. Instead, it should be integrated with other financial ratios to provide an complete analysis.","Financial Ratios: Financial ratios are important to a firm, which provides an overall financial image within a specific period. The analysis of these ratios is a part of a fundamental analysis. Note that, the accuracy of financials has a strong impact to the consistency of financial ratios."
+28,Which of the following ratios is of the most important in determining the price of a stock on the stock market?,Current ratio,Debt-to-equity,Earnings per share,Return on equity,C,"Option (c) is the correct answer.
+Earnings per share determine the price of per share outstanding in the market. It gives the measure of the value of a stock or company in the market. The per-share profitability of a company's stock is a financial metric used by investors to decide whether to invest in that particular stock or not.
+Explanation for incorrect options:
+Option a: It gives an understanding of the liquidity of the firm by evaluating current assets and liabilities.
+Option b: It analyzes the solvency of the firm by studying debt and equity owned.
+Option d: It is the rate of return shareholders earn on their investment.","Financial Ratio Analysis: A financial ratio analysis enables the user of financial statements to better understand the operations and results of an entity. It is used to evaluate liquidity, profitability, solvency, and efficiency in various market prospects."
+29,Which of the following would potentially result in diluted earnings per share being less than basic earnings per share?,Purchasing treasury shares.,Granting stock options (that have not yet been exercised).,Issuing additional common shares.,A 2-for-1 stock split.,B,"The correct option is b. Granting stock options.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Purchasing treasury shares.
+The purchase of treasury shares affects the basic earnings per share, so it is not dilutive. Only events that do not affect the basic earnings per share but that are considered to calculate the diluted earnings per share are dilutive.
+b. Granting stock options (that have not yet been exercised).
+This is the correct alternative because unexercised stock options are dilutive. They are not taken into account to calculate the basic earnings per share. Their estimated effect on the number of outstanding shares is considered to calculate the weighted-average shares used to calculate the diluted earnings per share.
+c. Issuing additional common shares.
+The issuing of common shares increases the weighted-average shares outstanding used to calculate the basic earnings per share.
+d. A 2-for-1 stock split.
+A stock split is not dilutive. They affect the weighted-average number of shares outstanding used to calculate the basic earnings per share for all periods presented.",Earnings Per Share: The basic and diluted earnings per share ratios are presented on a company's income statement. They differ because the diluted earnings per share take the effects of dilutive debt and equity instruments into consideration.
+30,"According to the FASB's conceptual framework, earnings:",is the same as comprehensive income.,excludes certain gains and losses that are included in comprehensive income.,includes certain gains and losses that are excluded from comprehensive income.,includes certain losses that are excluded from comprehensive income.,B,"The correct answer is
+b
+""excludes certain gains and losses that are included in comprehensive income.""
+According to FASB, ""earning"" means the amount by which asset inflow exceeds asset outflow.
+Earnings before interest and taxes (interest and taxes) = net earnings
+a. Earnings are a part of comprehensive income but are not the same as comprehensive income.
+b. Certain realized and unrealized gains and losses are to be excluded from the comprehensive income.
+c. Certain gains and losses are not to be included in total income when calculating net earnings.
+d. Comprehensive income includes all gains and losses, while earnings don't.",Earnings Earnings are the return that an investor earns during a particular period or year. These are the net benefits derived by a corporation from its investment or operating activities. These are computed after deducting tax from earnings during the year.
+31,EPS is a good predictor of:,future interest costs,financial leverage,future cash receipts,future stock prices,D,"The answer is
+D. future stock prices.
+Earnings per share (EPS) helps investors determine what to expect from the company's profitability. The higher its value, the better for the company because it helps to increase its value in the market, thus, affecting the stock price as profitable companies increase their corporate value in the long run.
+Analysis of other options
+A. The earnings per share (EPS) formula has a numerator of net income for common stocks and a denominator of outstanding shares. So, it does not predict future interest costs related to debts.
+B. Financial leverage measures depend on debts, so, like option A, which is the interest cost, EPS is unrelated.
+C. Future cash receipts can't be predicted by earnings per share but by sales forecasts.","Earnings Per Share: The earnings per share (EPS) appears on the company's financial statements, specifically in the income statement. It measures the income of every outstanding share of the firm."
+32,Antidilutive securities are those whose inclusion in earnings per share calculations would:,decrease earnings per share.,increase earnings per share.,have no effect on earnings per share.,increase or sometimes decrease earnings per share.,B,"The correct answer is option B. increase earnings per share.
+Antidilutive securities are those that, if included in the earnings per share (EPS) calculations, would increase EPS. These securities are typically excluded from the diluted earnings per share calculation, as their inclusion would present a more favorable financial picture than actually exists. Examples of antidilutive securities can include stock options, convertible bonds, or convertible preferred shares with an exercise or conversion prices above the current market price of the company's common stock.
+Accordingly, other options (A, C, and D) are incorrect. So, the correct answer is option
+B. increase earnings per share.",Earnings per Share: Earnings Per Share (EPS) is a company's profitability measure relative to its outstanding shares. It is calculated by dividing the company's net income by the number of its outstanding shares.
+33,Which of the following statements regarding earnings per share is false?,It would not be affected by additional shares of common stock issued during the year.,It is reported on the income statement.,It is calculated using the average number of common shares outstanding during the period.,It increases when net income increases.,A,"The correct answer to the above is Option a. It would not be affected by additional shares of common stock issued during the year.
+Explanation
+Earnings per share = Net income / average number of common shares outstanding during the period.
+The average number of common shares outstanding during the period includes additional shares of common stock issued during the year.
+Therefore, for computation, we shall consider additional shares of common stock issued during the year.
+So, the statement that EPS would not be affected by additional shares of common stock issued during the year is false.
+EPS is reported in the income statement and EPS increases when the net income increases.","Earnings Per Share Earnings per share is the net earning that an investor will receive for the period with respect to his holding in the company. If there are dilutive instruments such as convertible debentures or convertible preference shares, diluted EPS is also reported."
+34,"In June 2007, General Motors (GM) posted a price-earnings ratio of 9.84. If the price of the stock at that time was {eq}\$36
+
+{/eq} per share, which of the following must have been true?",GM's earnings per share was 3.66.,"GM's coupon payment was {eq}\$35
+
+{/eq} per year.","GM's dividend yield for the year was {eq}26\%
+
+{/eq}.","GM's revenues that month were {eq}\$366
+
+{/eq} million.",A,"The answer is
+a. GM's earnings per share was 3.66.
+Summary:
+P/E = 9.84
+Price = $36
+Determine the earnings per share (EPS):
+{eq}EPS = \displaystyle \frac{Price}{P/E} = \frac{\$36}{9.84} = $3.66 {/eq}
+a. Correct.
+b. Incorrect. No information regarding the firm's bond was given.
+c. Incorrect. No related information was given to estimate the dividend yield.
+d. Incorrect. No related information was given.","P/E Ratio: The price-earnings ratio (P/E ratio) is a financial ratio to measure how much an investor is willing to pay for acquiring a dollar of earnings per share. If this ratio is significantly high, it indicates that the stock is attractive in the exchange market. In addition, a significantly high P/E ratio might signal that the stock is overvalued by investors."
+35,"In calculating the numerator for diluted earnings per share, the interest on convertible debt is:",subtract from earnings available to common stockholders after an adjustment for taxes.,added to earnings available to common shareholders after an adjustment for taxes.,subtracted from earnings available to common shareholders.,added to earnings available to common shareholders.,B,"In calculating the numerator for diluted earnings per share, the interest on convertible debt is
+b) added to earnings available to common shareholders after an adjustment for taxes.
+The dilution of convertible debt should increase net income by the amount of interest payments made on the bonds. These payments, however, are deducted from net income and, therefore, not subject to taxes, so the effect of taxes on a higher net income due to the conversion needs to also be recognized in finding the diluted earnings per share.","Diluted Earnings: Companies often offer a variety of securities to obtain capital funding and these securities often include options to convert debt or preferred stock to common shares. The effect of this conversion, were it to go into effect, could dilute the shares of current stockholders."
+36,"For purposes of computing the weighted average number of shares outstanding during the year, a midyear event that must be treated as occurring at the beginning of the year is the?",Issuance of stock warrants.,Purchase of treasury stock.,Sale of additional common stock.,Declaration and payment of stock dividend.,D,"The correct option is
+(d) Declaration and payment of stock dividend.
+International Accounting Standard 33 (IAS 33) deals with earnings per share. If the number of shares increases due to bonus issue, stock split, etc. Then such events must be treated as occurring at the beginning of the year while computing the weighted average number of shares.",Earnings Per Share: Earnings per share is an important financial ratio that shows the company's earnings in relation to the number of shares outstanding. Earnings per share is shown on the face of the income statement.
+37,Shares in Ford Motor Company are an example of:,an intermediate good,a final good,neither a final nor an intermediate good,,C,"The correct answer is: c) neither a final nor an intermediate good
+Shares in Ford Motor Company are neither considered final nor intermediate goods. Final good accounts for goods that can be directly consumed, whereas intermediate goods correspond to those used in the production of final goods. Shares do not fall in either of those categories.",Shares: They are a financial instrument that provides ownership of stocks to people. It includes ownership of the company in little portions. People who own shares of a company are referred to as shareholders.
+38,"EPS, in its basic form, is calculated by dividing net income by the average number of all shares issued.",TRUE,FALSE,,,A,"Correct Answer: a. True
+The earnings per share ratio is computed by dividing the net income of a company for a given period by the average number of outstanding shares of common stock at that period. The only adjustment made is if the company has preferred share dividends. If that is the case, then net income is reduced by the number of preferred dividends before dividing by the shares of common stock.",Earnings per Share (EPS) Earnings per share is a financial ratio that indicates the profit of a company divided by the number of shares of common stock. It measure the monetary value of the company earnings for every share of common stock. The higher the ratio the better is the performance of the company.
+39,Earnings per share is generally reported in the balance sheet under stockholders' equity.,TRUE,FALSE,,,B,"For public companies, Generally Accepted Accounting Principles require that earnings per share be listed as part of the
+income statement
+.
+Therefore, the statement is:
+b. False",Earnings per Share Earnings per share is calculated by taking a company's net income and dividing it by the number of outstanding shares of the company's stock.   It is an important gauge of a firm's profitability and value.

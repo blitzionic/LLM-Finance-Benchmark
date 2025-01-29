@@ -1,0 +1,505 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,A high inventory turnover ratio indicates all of following except:,there are no inventory shortages,inventory is selling quickly,less cash is tied up in inventory,the risk is outdated inventory is lower,B,"Correct answer:
+Option b) inventory is selling quickly.
+Explanation:
+A high inventory turnover indicates that there are no inventory shortages, less cash is tied up in inventory as the higher the turnover, the lesser will be the inventory holding period. It also indicates that the risk of inventory being outdated is also minimum with a high turnover.",Inventory Turnover: Inventory turnover indicates the number of times a company replaces its inventory for meeting the needs of the sales. Inventory represents the unsold stock that remains in the warehouse at the end of the period either in the form of raw materials or work-in-progress or finished goods.
+2,"The TBI Company has a number of days of inventory of 50. Therefore, the TBI Company's inventory turnover is closest to:",4.8 times,7.3 times,8.4 times,9.6 times,B,"The correct answer is
+b. 7.3 times
+Using the formula derived from days' inventory outstanding, we will compute for the total inventory turnover.
+{eq}Inventory~Turnover~=~\displaystyle \frac{365~days}{DIO}\\
+
+where:\\
+
+DIO~=~Days~Inventory~Outstanding
+
+{/eq}
+{eq}Inventory~Turnover~=~\displaystyle \frac{365~days}{50} = 7.3
+
+{/eq}
+The TBI Company's inventory turnover is
+7.3 times",Inventory Turnover: The inventory turnover is one of the most commonly used financial ratios that serves as a gauge for the company on how fast it can convert its stack of inventories into sales and also use as a basis for effective sales and marketing plan for its products.
+3,"Firms that successfully increase their rates of inventory turnover will, among other things,",be able to reduce their borrowing needs.,be able to reduce their dividend payments to stockholders.,find it more difficult to be given credit by their resource suppliers.,have a greater need for high balances in their cash accounts.,A,"Correct answer:
+Option A) be able to reduce their borrowing needs.
+Explanation:
+Inventory turnover is the ratio of the cost of goods sold and the average inventory and it indicates the number of times a company replaces its inventory in order to meet the needs of the sales. A high inventory turnover indicates high sales while a lowe inventory turnover indicates low sales. And when the sales are high, the profits will also increase and so will the retained earnings, provided the dividend payout ratio is constant among other things. As retained earnings will be high, the need for borrowings will reduce as they have their own source of internal finance in the form of retained earnings.",Inventory: One of the current assets of the company that is excluded from being considered as a quick asset is the inventory. The current period inventory is the beginning inventory of the next period. Ending inventory represents the unsold units of finished goods at the end of the fiscal year and is valued at cost or market value whichever is lower.
+4,"Delmar Company had beginning inventory of $90,000, ending inventory of $110,000, cost of goods sold of $600,000, and sales of $960,000. Delmar's days in inventory is:",38.0 days,54.3 days,60.8 days,67.5 days,C,"Correct answer: Option C) 60.8 days.
+Explanation:
+Step 1:
+Average inventory = (Beginning inventory + Ending inventory) / 2
+Average inventory = ($90,000 + $110,000) / 2
+Average inventory = $100,000
+Step 2:
+Days'sales in inventory = (365 days * Average inventory) / Cost of goods sold
+Days'sales in inventory = (365 days * $100,000) / $600,000
+Days'sales in inventory = 60.83 days","Inventory Holding Period: To compute the inventory holding period, 365 days should be divided by the inventory turnover, where inventory turnover is the ratio of cost of goods sold relative to average inventory. The inventory holding period is used in determining the operating cycle and cash cycle."
+5,An above-average inventory turnover indicates that the business:,has an illiquid inventory.,"is healthy, with a salable inventory.",needs to review its pricing policies.,has below-average performance and is facing bankruptcy if not corrected quickly.,B,"Correct Answer: B) is healthy, with a salable inventory.
+An above-average inventory turnover indicates that the business is healthy with a salable inventory. A higher inventory ratio means inventory is converted into sales fastly, which means higher sales and considerable demand for the company's product. It also indicates good management of inventory.
+In above-average turnover, the sale is high so there will not be illiquid inventory and fear of bankruptcy.",Inventory turnover: Inventory turnover ratio is the cost of goods sold divided by average inventory. Inventory turnover indicates the number of times the company sells its inventory during the period. Inventory Turnover ratio =Cost of good sold/Average inventory
+6,Which of the following is the correct formula to calculate inventory turnover?,Inventory turnover = Cost of goods sold / Average merchandise inventory.,Inventory turnover = Cost of goods sold * Average merchandise inventory.,Inventory turnover = Cost of goods sold + Average merchandise inventory.,Inventory turnover = Cost of goods sold - Average merchandise inventory.,A,"The correct answer is
+A. Inventory turnover = Cost of goods sold / Average merchandise inventory.
+The inventory turnover is computed by dividing the cost of goods sold by the average inventory. It shows how many times of the average inventory the business sold during the period.
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of Goods Sold}}{\text{Average Inventory}} {/eq}",Inventory Turnover: The inventory turnover shows how efficiently the business is using its investment in inventory. High inventory turnover indicates that the business is quickly selling its inventory.
+7,The inventory turnover is computed by dividing cost of goods sold by:,beginning inventory.,ending inventory.,average inventory.,365 days.,C,"Correct Answer: C) average inventory.
+Explanation:
+The inventory turnover is computed by dividing cost of goods sold by the average inventory with formula as follows:
+Inventory Turnover = Cost of Goods Sold / Average Inventory
+The average inventory is the average of the beginning and ending inventory for the period and can be computed as follows:
+Average Inventory = (Beginning Inventory + Ending Inventory) / 2
+The number of days in a year (365 days) is not required in computing the inventory turnover but is necessary in computing the days sales in inventory.",Inventory Turnover Inventory Turnover is a measure of the number of times that the company has sold its inventories or convert its physical goods available for sale into cost of goods sold.
+8,The number of days' sales in inventory:,"measures the length of time it takes to acquire, sell, and replace the inventory.",is computed by dividing the cost of merchandise sold by 365.,measures the length of time it takes to sell the merchandise on credit and collect the account receivable.,is about the same for all industries.,A,"Correct option is Option A
+Explanation for correct option: Number of days' sale in inventory is the measure of the length of time taken by the company in the acquisition of inventory to sell or replicate the merchandise. It is the measurement of the length of time the company holds the inventory.
+Explanation for incorrect options:
+Option B: Calculation of number of days' sales in inventory also includes the average inventory along with the cost of goods sold and 365 days.
+Option C: The number of days sale also includes the cash sale of the inventory with the credit sale of the inventory.
+Option D: The number of days' sales in inventory is not same for all industries.",Inventory Turnover Ratio: Inventory Turnover Ratio is the financial ratio that determines the number of times the company converts their raw material into the finished goods in the company's manufacturing process in a given accounting period or reporting period.
+9,Dividing the cost of goods sold by average inventory gives the _____.,Average-Payable-Period,Average-Collection-Period Ratio,Average-Inventory-Turnover Ratio,,C,"Correct Answer:
+Option c. Average-Inventory-Turnover Ratio
+.
+The inventory turnover ratio determines the times a company converts its inventory into sales during a year. The formula to determine the inventory turnover is given as follows:
+Inventory turnover = {eq}\dfrac{\text{Cost of Goods Sold}}{\text{Average Inventory}}
+
+{/eq}
+Where,
+Average inventory = {eq}\dfrac{\text{Beginning inventory + Ending inventory}}{\text{2}}
+
+{/eq}
+Other options:
+a. Average-Payable-Period:
+The formula to determine the average payables period is given as follows:
+Average Payables Period = {eq}\dfrac{\text{365 days}}{\text{Average Payables Turnover}}
+
+{/eq}
+b. Average-Collection-Period Ratio
+The formula to determine the average collection period is given as follows:
+Average Collection Period = {eq}\dfrac{\text{365 days}}{\text{Average Receivables Turnover}}
+
+{/eq}","Turnover Ratios: Turnover ratios help a company analyze its inventory, receivables, and payables management. These ratios mainly include inventory turnover, receivables turnover, and payables turnover."
+10,Days' inventory on hand equals 365 divided by:,cost of goods sold,goods available for sale,average inventory,inventory turnover,D,"Correct answer:
+Option d) inventory turnover.
+Explanation:
+To compute the days' sales in inventory we use the following formula:
+Days sales' in inventory = 365 days / Inventory turnover",Ending Inventory: Ending inventory is the current asset of the company that remains in the warehouse and in the books of accounts at the end of the fiscal period. Ending inventory is reported in the balance sheet under current assets and is also reduced from the cost of goods available for sale to determine the cost of goods sold.
+11,"A {eq}\text{________}
+
+{/eq} system performs all the functions of a traditional cash register and maintains an up-to-the minute inventory count.",POS,PCS,SPC,PCC,A,"The answer is A)  POS.
+A POS, Point of Sale, system is used whenever a customer buys something from a store.  It tracks the items sold, item quantities, the purchase price, and how the customer paid (cash, credit card, etc.).",Business Transactions: For businesses to keep accurate records it is important to have a system that tracks items in inventory as well as total sales in real time.  This system is what stores use on a daily basis.
+12,"If inventory ""turns"" every 4 months, which of the following is true?",This means that the average item spends 3 months in inventory.,This means that the average item spends 4 weeks in inventory.,This corresponds to 3 turns per year.,This corresponds to 6 turns per year.,A,"The correct answer to the given question is option
+a. This means that the average item spends 3 months in inventory.
+The amount of time spent by an inventory item on an average is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Number of months in a year}}{\text{Inventory turnover}} \\[0.3 cm]
+
+&= \dfrac{12}{4} \\[0.3 cm]
+
+&= 3 \text{ months}
+
+\end{align*}
+
+{/eq}","Inventory Turnover Ratio: In the context of accounting, the inventory turnover ratio is one of the several financial activity ratios used for ascertaining the efficiency of a firm. It gives an idea about the number of times a firm is able to turn over its average inventory over a given accounting period."
+13,"A firm's {eq}\text{________}
+
+{/eq} expresses the number of times per year the business sells all of its inventory.",liquidity ratio,inventory turnover ratio,operating ratio,quick ratio,B,"Correct Answer: B) inventory turnover ratio
+A firm's
+inventory turnover ratio
+expresses the number of times per year the business sells all of its inventory.
+Inventory Turnover Ratio: This ratio tells us how fast the inventory is moving from the firm and generating sales. It is calculating by dividing the cost of goods sold by the frim's average inventory. Higher the ratio, the greater the efficiency of inventory management.
+Inventory Turnover ratio = Cost of Good sold/ Inventory
+For example: The cost of goods sold is $250 and the average inventory is $50.
+Inventory turnover ratio: 250/50  = 5
+that means 5 times the business sells all of its inventory.",Turnover Ratios: Turnover ratios measure a firm's liquidity in an indirect way. Account receivable turnover ratio and average turnover are two turnover ratio. The turnover ratios tell us the speed of conversion of current assets into cash.
+14,Presented below are select financial data from a company's annual report. Calculate the following ratios:,Accounts receivable turnover,Receivable collection period,Inventory turnover,Inventory-on-hand period,A,"a. Accounts receivable turnover
+Beginning Receivables
+14,233
+Ending Receivables
+14,851
+Total
+29,084
+Divided by:
+2
+Average Receivables
+14,542
+Sales
+92,589
+Average Receivables
+14,542
+Receivable Turnover
+6.36 times
+b. Receivable collection period
+Days
+360
+Receivable Turnover
+6.36 times
+Receivable Collection Period
+56.54 or 57 days
+c. Inventory turnover
+Beginning Inventory
+9,778
+Ending Inventory
+10,474
+Total
+20,252
+Divided by:
+2
+Average Inventory
+10,126
+Cost of Goods Sold
+66,814
+Average Inventory
+10,126
+Inventory Turnover
+6.60 times
+d. Inventory-on-hand period
+Days
+360
+Inventory Turnover
+6.60 times
+Inventory on hand period
+54.56 or 55 days","Inventory Turnover: Inventory Turnover is an activity ratio which measures the number of time an inventory is converted to sales during the period. The higher the turnover, the lower number of days the inventories are held at hand."
+15,"A company had a beginning inventory value of $500,000. It made purchases of $1,500,000 and had cost of sales of $1,200,000. What was its inventory turnover?",1.5,1.85,2.31,3.0,B,"Correct Answer: b. 1.85
+Explanation:
+Inventory turnover is the ratio of cost of sales to average inventories.
+Average inventory is the sum of beginning and ending inventory, divided by 2. To compute for the average inventory, we need to compute for the ending inventory first, as follows:
+Beginning inventory
+$500,000
+Add: Purchases
+$1,500,000
+Less: Cost of sales
+$1,200,000
+Ending inventory
+$800,000
+Average inventory can now be computed as follows:
+Average inventory = (Beginning inventory + Ending inventory) / 2
+Average inventory = ($500,000 + $800,000) / 2
+Average inventory = $650,000
+Inventory turnover is computed as follows:
+Inventory turnover = Cost of sales / Average inventory
+Inventory turnover = $1,200,000 / $650,000
+Inventory turnover =
+1.85",Inventory Turnover Inventory Turnover is the number of times an inventory is sold or converted to sales for a given period. Computing this turnover requires the amounts of cost of goods sold and beginning and ending inventories for the period.
+16,"If the average inventory value decreases and all other balances and values remain the same, the resulting number of inventory turnover days will:",increase,stay the same,decrease,cannot be determined,A,"The answer is
+a. Increase
+Inventory turnover:
+{eq}Inventory\:turnover = \displaystyle \frac{Net\:sales}{Average\:inventory} {/eq}
+Obviously, if the average inventory value decreases, the inventory turnover will increase because the inventory turnover and average inventory have an inverse relationship.","Inventory Turnover: Inventory turnover is one of the financial ratio to evaluate firm's efficiency, which indicates how many times inventory is sold and replaced within a given term. The inventory turnover is computed by firm's net sales divided by the average inventory."
+17,Disclosures about inventory should include each of the following except the:,quantity of inventory,major inventory classifications,basis of accounting,costing method,A,"Let us look at the alternatives:
+a. quantity of inventory
+This is the correct option. This is not useful information, it is not required, and it would in fact be impractical to disclose for most entities.
+b. major inventory classifications
+Entities must disclose the raw materials, work-in-process, and finished goods inventory they hold, for example.
+c. basis of accounting
+Yes, the basis of accounting is disclosed in the accounting policy notes.
+d. costing method
+Yes, the costing method (FIFO, LIFO, etc) is usually also disclosed in the accounting policy notes.","Presenting Inventory in the Financial Statements Inventory is presented as a current asset in the balance sheet of entities. In addition, the accounting standards require that companies disclose various other information about their inventory asset in the footnotes of the financial statements."
+18,The following balance sheet information is provided for Gaynor Company:,2.59 times,2.81 times,3.06 times,None of these answers is correct.,B,"The correct answer is option (b).
+The company's inventory turnover ratio is 2.81.
+Explanation:
+The company's inventory turnover ratio is 2.81 {$127,000/$45,250), which has been computed by dividing the cost of goods sold by average inventory.
+Working Note:
+The average inventory is $45,250 {($41,500 + $49,000)/2}.",Inventory Turnover: Inventory turnover shows the number of time the inventory is sold. The inventory turnover is computed by dividing the cost of goods sold by the average inventory. Average inventory is found out by dividing the sum of beginning inventory and ending inventory by 2.
+19,True or false? The inventory turnover ratio measures the average number of days that inventory is held by a company.,True,False,,,B,"False, the inventory turnover ratio measures the number of times inventory is sold during the year.
+The metric measuring the average number of days that inventory is held by a company is known as the Days Receivable Ratio or DSO.","Financial Ratios: Financial ratios reveal the relationships that exist in financial reports by converting raw numbers into percentages and metrics that can be used to evaluate the documents. Financial ratios include liquidity ratios, profitability ratios, leverage ratios, and turnover ratios."
+20,Which of the following companies would most likely have the highest inventory turnover?,an art gallery,an automobile manufacturer,a piano manufacturer,a bakery,D,"d. A bakery
+would likely have the highest inventory turnover.
+The bakery has a low price and high volume sales of perishable goods and would likely have more sales and need to restock more often than the other companies. The next highest inventory turnover would likely be the automobile manufacturer followed by the piano manufacturer and the art gallery.","Inventory Turnover: Inventory turnover refers to how often inventory is sold and replaced over an accounting cycle and is a type of financial ratio that is important in assessing merchandising companies. If inventory turnover is high, this can provide confidence that the company has sufficient liquidity to cover expenses and can generate profits while a low turnover can be a warning sign when it comes to solvency."
+21,An inventory turnover ratio of 7.2 compared to an industry average of 5.1 is likely to indicate that:,the firm has higher sales than the industry average.,the firm is selling a product mix that includes more high margin items.,the firm's products are in inventory for fewer days before they are sold than is average for the industry.,the firm is managing its inventory inefficiently.,A,"A. the firm has higher sales than the industry average.
+True, a firm with a higher inventory turnover usually has higher sales.
+B. the firm is selling a product mix that includes more high margin items.
+False, the assumption does not hold. Usually companies with lower margin goods have a higher turnover ratio.
+C. the firm's products are in inventory for fewer days before they are sold than is average for the industry.
+True, inventory turns faster and may not be in storage for as long. A higher turnover ratio translates into fewer inventory days.
+D. the firm is managing its inventory inefficiently.
+False, a higher turnover ratio is usually indicative of a company with greater efficiency.",Inventory Turnover: Inventory turnover is a metric used in finance and accounting. It refers to the number of times a company has sold and replaced inventory during a given time period. Inventory turnover is considered an activity ratio by financial analysts. It is calculated as follows: Inventory Turnover = Cost of Goods Sold / Average Inventory
+22,"If the average inventory value decreases and all other balances and values remain the same, the resulting turnover inventory number (in terms of a number of turns) will:",increase,stay the same,decrease,cannot be determined.,A,"Correct answer: Option a) increase.
+Explanation:
+The ratio of the cost of goods sold relative to the average inventory is called inventory turnover and when the average inventory balance decreases, the inventory turnover will increase. However, there will be a decrease in the inventory holding period.
+Formula:
+Inventory turnover = Cost of goods sold / Average inventory","Inventory Turnover: The inventory turnover defines the number of times a company replaces its inventory to meet the sales. The higher the number, the more profitable will be the business and vice-versa. Inventory turnover requires average inventory and cost of goods sold to be determined."
+23,A low inventory turnover ratio demonstrates that the firm's inventory is liquid and its pricing policies are accurate.,True,False,,,B,"""A low inventory turnover ratio demonstrates that the firm's inventory is liquid and its pricing policies are accurate"" is a False statement.
+Explanation:
+Higher the ratio, the greater the efficiency of inventory management. A lower inventory ratio is not good for the firm, it shows that the firm's inventory is not liquid. This involves the following disadvantage:
+1.Lower the ratio means slow-moving inventory or obsolete inventory which either due to low demand or due to difficulty in selling the inventory. A wrong pricing policy can be the reason for low demand.
+2 Due to low inventory turnover, firms have excessive inventory carrying charges.","Inventory Turnover Ratio: Inventory Turnover Ratio is also called stock turnover ratio. This ratio measure how fast the inventory is moving through the firm and generating sales. The liquidity of a firm,s calculated by dividing the cost of goods sold by the Firm's inventory. Inventory Turnover = Cost of good sold/ Average Inventory"
+24,"All else being equal, the lower the inventory turnover the more days sales in inventory. True or False? Explain in detail.",True,False,,,A,"The statement is true.
+Explanation:
+Scenario 1:
+Let us assume an inventory turnover of 5. Therefore,
+Days sales in inventory = 365 days / Inventory turnover
+Days sales in inventory = 365 days / 5
+Days sales in inventory = 73 days
+Scenario 2:
+Let us assume an inventory turnover of 4. Therefore,
+Days sales in inventory = 365 days / Inventory turnover
+Days sales in inventory = 365 days / 4
+Days sales in inventory = 91.25 days
+Hence, we can conclude that the lower the inventory turnover the more days sales in inventory.",Inventory Turnover: Inventory turnover is computed by dividing the cost of goods sold by the average inventory. The count indicates the number of times a company replaces its inventory in order to meet its sales requirements. Inventory turnover is used to determine the inventory holding period.
+25,Which of the following statements about inventory turnover is false?,Inventory turnover is calculated with the cost of goods sold in the numerator.,A low inventory turnover is generally a sign of efficient inventory management.,Inventory turnover is a gauge of the liquidity of a firm's inventory.,Inventory turnover measures the efficiency of the firm in managing and selling inventory.,B,"The correct answer is
+B. A low inventory turnover is generally a sign of efficient inventory management.
+Inventory turnover is one of the efficiency ratios. Efficiency ratios indicate how efficiently a business is using its resources. The higher the ratio, the higher will be the efficiency. The inventory turnover can be calculated by the formula -
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of Goods Sold}}{\text{Average Inventory}} {/eq}
+From the above, we see that the cost of goods sold is in the numerator, so option (A) is a correct statement.
+The higher the inventory turnover, the more liquid is the firm's inventory, so option (C) is also a correct statement.
+As inventory turnover is one of the efficiency ratios, it measures the efficiency of the firm in managing and selling inventory, so option (D) is also correct.
+A high inventory turnover is generally a sign of efficient inventory management, hence option (B) is an incorrect statement.",Inventory Turnover: Inventory turnover shows how efficiently a business is managing its inventory. It is computed by using the cost of goods sold and the average inventory. It is also used to compute the days sale in inventory.
+26,"What is the inventory turnover ratio for ABC Corp. if cost of goods sold equals $5,000, current ratio equals 3, quick ratio equals 1.5, and the firm has $1,800 in current assets?",2.78 times,4.17 times,5.56 times,8.33 times,C,"The correct answer is
+option C) 5.56 times.
+Explanation:
+Step 1:
+{eq}\text{Current liabilities}  = \dfrac{\text{Current Assets}}{\text{Current Ratio}} = \dfrac{\$1,800}{3}  = \$600
+
+{/eq}
+Step 2:
+{eq}\text{Quick Ratio} = \dfrac{\text{Quick Assets}}{\text{Current Liabilities}} = \$600 \times 1.50 = \$900
+
+{/eq}
+Step 3:
+{eq}\text{Inventory} = \text{Current Assets} - \text{Quick Assets} = \$1,800 - \$900 = \$900
+
+{/eq}
+Step 4:
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of Goods Sold}}{\text{Inventory}} = \dfrac{\$5,000}{\$900} = 5.56 \text{ times}
+
+{/eq}",Quick Assets: Quick assets are the current assets excluding inventory and prepaid expenses. They can be converted into cash within a period of three months or less. The quick ratio is computed by dividing the quick assets by the current liabilities.
+27,The inventory turnover is calculated by dividing the:,cost of goods sold by the ending inventory,cost of goods sold by the average inventory,average inventory by the cost of goods sold,cost of goods sold by the beginning inventory,B,"Correct Answer:
+Option B) cost of goods sold by the average inventory
+.
+Inventory turnover calculates the times a company converts its finished inventory into sales during an accounting period.
+The formula to determine the inventory turnover is expressed as follows:
+Inventory turnover = {eq}\dfrac{\text{Cost of goods sold}}{\text{Average Inventory}}
+
+{/eq}
+Note:
+Ending inventory represents the inventory relating to the current year alone.
+Average inventory refers to the average of the beginning (ending inventory of the previous year) and ending inventory of the current year.",Cost of Goods Sold: The cost of goods sold can be determined by deducting the cost of ending inventory from the cost of goods available for sale. The account has a debit balance which can be found on the income statement.
+28,"The following information was available for Bowyer Company at December 31, 2010:",9.4 times.,8.3 times.,7.3 times.,6.0 times.,B,"Bowyer's inventory turnover ratio in 2010 was
+Option b. 8.3 times.
+Explanation:
+Step 1:
+Average inventory = (Beginning inventory + Ending inventory) / 2
+Average inventory = ($90,000 + $70,000) / 2
+Average inventory = $80,000
+Step 2:
+Inventory turnover = Cost of goods sold / Average inventory
+Inventory turnover = $660,000 / $80,000
+Inventory turnover = 8.3 times",Inventory Balance: Ending inventory is one of the most important metrics that is used to determine the cost of goods sold. Ending inventory has three forms and it has it is classified as a current asset in the balance sheet. Ending inventory impacts both the income statement as well as the balance sheet. Various methods can be used to value the ending inventory.
+29,"Using Knapp Inc.'s financial statements (below), calculate the inventory turnover as of December 31, 2017.",1.27X,3.33X,7.94X,5.71X,A,"The correct answer is
+a. 1.27X
+.
+For the year 2017, the following data is relevant for the desired computation:
+Inventory balance = $550
+Cost of Goods Sold = $700
+It is important to note that the average inventory balance cannot be used in the current situation because the beginning inventory for 2017 is not provided.
+Therefore, using the above inputs and the following formula, we have:
+{eq}\begin{align*} \text{Inventory Turnover for 2017} &= \dfrac{\text{Cost of Goods Sold}}{\text{Inventory Balance}} \\ &= \dfrac{\$700}{\$550} \\ &= 1.27 \end{align*} {/eq}
+Knapp Inc. converted its inventory into sales 1.27 times in the year 2017
+.","Inventory: The business should maintain predetermined inventory levels all the time to avoid delays in the production process. However, the level of inventory should be optimal leading to low carrying and ordering costs. Inventory metrics such as inventory turnover help the business make informed decisions."
+30,Inventory turnover measures the relationship between,total assets and merchandise inventory.,cost of goods sold and total liabilities.,cost of goods sold and merchandise inventory.,merchandise inventory and current liabilities.,C,"The correct option is
+C. cost of goods sold and merchandise inventory.
+The inventory turnover ratio is a measure that represents the rate at which the business entity sells its stock. The cost of goods sold is divided by the average inventory in this ratio. The average inventory is computed after dividing the sum of beginning inventory balance and ending inventory balance by 2. If the ratio is high, it states that the entity has efficiently managed its stock.
+Explanation for the incorrect options:
+Option A. It is incorrect because the total assets are not included in the inventory turnover ratio.
+Option B. It is incorrect because the total liabilities are not to be used in the computation.
+Option D. It is incorrect because the sale of inventory has no impact on current liabilities.","Activity Ratios: The activity ratios evaluate the performance of the operations of a business entity. These are used to track the company's progress and efficiency by analyzing the asset turnover, inventory turnover, and accounts receivable turnover."
+31,"Company Baker has sales of $375,000 and cost of goods sold of $302,000. Its annual average inventory balance is $26,702.",15.31 turns,18.71 turns,12.41 turns,11.31 turns,D,"Correct answer: Option d. 11.31 turns.
+Explanation:
+Inventory turnover = Cost of goods sold / Average inventory
+Inventory turnover = $302,000 / $26,702
+Inventory turnover = 11.31 turns",Average Inventory: The sum of the inventory balances of two consecutive accounting periods divided by 2 is called average inventory. It is useful in determining the inventory turnover and the days' sale of inventory. Inventory represents the stock that is used to generate sales and make profits.
+32,Epsom Co. manufactures furniture and sells about $40 million a year at a gross margin of 45%.,What is the maximum inventory level the firm can carry to maintain an inventory turnover (based on COGS) of 8.0?,"If the inventory contains $1.2 million of obsolete and damaged goods that don't turn over at all, how fast would the active inventory have to turn over to achieve an overall turnover rate of 8.0?",,,A,"a) Given:
+Sales= $40 million
+COGS
+{eq}\begin{align*}
+
+&= \left( {1 - {\rm\text{Gross margin}}} \right) \times {\rm\text{Sales}}\\
+
+&= \left( {1 - 0.45} \right) \times 40\;{\rm\text{million}}\\
+
+&= \$ 22\;{\rm\text{million}}
+
+\end{align*}
+
+{/eq}
+Inventory Turnover= 8 times
+Maximum inventory level
+{eq}\begin{align*}
+
+&= \dfrac{{{\rm\text{COGS}}}}{{{\rm\text{Inventory}}\;{\rm\text{Turnover}}}}\\
+
+&= \dfrac{{\$ 22\;{\rm\text{million}}}}{8}\\
+
+&= \$ 2.75\;{\rm\text{million}}
+
+\end{align*}
+
+{/eq}
+b) New Inventory
+{eq}\begin{align*}
+
+&= {\rm\text{Existing}}{\rm\text{Inventory}} - \;{\rm\text{Obsolete}}\\
+
+&= \$ 2.75{\rm\text{ million}} - \$ 1.2\;{\rm\text{million}}\\
+
+&= \$ 1.55{\rm\text{ million}}
+
+\end{align*}
+
+{/eq}
+New Inventory Turnover
+{eq}\begin{align*}
+
+&= \dfrac{{{\rm\text{COGS}}}}{{{\rm\text{Inventory}}}}\\
+
+&= \dfrac{{\$ 22\;{\rm\text{million}}}}{{\$ 1.55\;{\rm\text{million}}}}\\
+
+&= 1.42\;{\rm\text{times}}
+
+\end{align*}
+
+{/eq}",Inventory Turnover Inventory turnover is a financial ratio used to show how effectively a company arranges its stock. A high ratio means that the firm has an effective inventory management system. It shows the frequency of replacing inventory.
+33,Inventory turnover measures:,the days' sales in inventory ratio,how rapidly merchandise inventory is purchased,how rapidly merchandise inventory is sold,the time period for inventory to become obsolete,C,"Correct answer:
+Option C) how rapidly merchandise inventory is sold.
+Explanation:
+An inventory turnover ratio is determined by dividing the sales revenue or cost of goods sold by the average inventory. It determines the number of times a company has sold and replaced its inventory during a period. Hence option C) is correct.",Cost of Goods Sold: The cost of goods sold is determined by reducing the cost of ending inventory from the cost of goods available for sale. The cost of goods available for sale is equal to the sum of beginning inventory and purchases made during the year. The cost of goods sold is reduced from the sales revenue to determine the gross profit.
+34,An unusually high _____ may indicate a firm is experiencing stockouts and lost sales.,average payment period,inventory turnover ratio,average collection period,quick ratio,B,"Inventory Turnover Ratio = Cost of goods sold / Average Inventory
+It shows how quickly the inventory is moving. How many times the company can sell its average inventory.
+It reflects the business's efficiency in managing its stock.
+A high inventory ration means the company is able to quickly sell its inventory, but also means that these are chances of stock outs and lost sales.
+Hence the correct option is
+(b) inventory turnover ratio","Inventory Management A business need to carefully manage its inventory such that there are no stock outs and the carrying cost is also at minimum levels. It the stock is too low, business can lost sales due to stock outs and if the stock is too high, then the business have to block large funds in inventory."
+35,The inventory turnover ratio compares:,current assets to average inventory.,cost of goods sold to average inventory.,average receivables to average inventory.,average assets to average inventory.,B,"The inventory turnover ratio compares
+B. cost of goods sold to average inventory
+.
+{eq}Inventory\:turnover = \displaystyle\frac{COGS}{Average\:inventory} {/eq}
+According to the above formula, the inventory turnover ratio measures the relationship between the cost of goods sold and the average inventory within a year. Note that some firms would use Sales for the numerator.",Inventory Turnover: The inventory turnover is an important ratio to determine business performance in terms of operational efficiency. Managers could compare this ratio over the life of the business or with other firms in the same industry to determine the improvement in business performance.
+36,The day's sales in inventory ratio best relates to which building block of financial statement analysis?,Liquidity/Efficiency,Market Prospects,Profitability,Solvency,A,"Answer: a. Liquidity/Efficiency
+The days sales in inventory could be computed by dividing 365 or 360 days to the inventory turnover. The inventory turnover is further computed as the quotient of the cost of goods sold and the average inventory. The days sales in inventory is an activity ratio or efficiency ratio which concerns the number of days an inventory is being held. Thus, a shorter day sales in inventory means more efficient.","Financial Statement Ratios: Financial statement ratios could be assessed from the balance sheet and the income statement. These are the concerned of the internal and stakeholders, especially for decision making purposes."
+37,Inventory turnover is:,sales divided by inventory.,sales divided by accounts receivable.,sales divided by the cost of goods sold.,cost of goods sold divided by inventory.,D,"The correct answer to the above is Option D. cost of goods sold divided by inventory.
+Explanation
+Inventories are the assets of the company. Inventories are purchased by the company to sell the items in the same condition or after processing them.
+Inventories form part of the cost of goods sold.
+The inventory turnover ratio explains how many times a company has sold its inventory and purchased them during the year.
+Inventory turnover = Cost of goods sold / average inventories",Financial Ratios There are many financial ratios widely used to analyze a companies financial position and financial performance. One of such ratios is the inventory turnover ratio. The ratio is calculated by taking the value from the financial statements.
+38,Which of the following statements is correct?,"Other things held constant, a reduction in the inventory turnover ratio will increase the ROE.","If a firm increase its sales while holding its inventories constant, then, other things held constant, its inventory turnover ratio will decrease.",A reduction in inventories held would have no effect on the current ratio.,"If a firm increases its sales while holding its inventories constant, then, other things held constant, its inventory turnover ratio will increase.",D,"Which of the following statements is correct?
+d. If a firm increases its sales while holding its inventories constant, then, other things held constant, its inventory turnover ratio will increase.
+Since the inventory turnover ratio is the ratio of the total sales to the average inventory over the period, an increase in the numerator will lead to a rise in the ratio.
+Let's analyze other options:
+a. Other things held constant, a reduction in the inventory turnover ratio will increase the ROE. - Inventory turnover is directly related to ROE and hence a reduction in the inventory turnover ratio will decrease the ROE
+b. If a firm increases its sales while holding its inventories constant, then, other things held constant, its inventory turnover ratio will decrease. - Again, Inventory turnover is directly related to Sales and hence an increase in sales will lead to an increase in the ratio.
+c. A reduction in inventories held would have no effect on the current ratio. - Reduction in inventory will lead to a reduction in the current ratio.",Inventory Turnover Ratio: The inventory turnover ratio is the ratio of the total sales to the average inventory over the period. The inventory turnover ratio is a measure of the operational efficiency of the firm and is related to the profitability of the firm.
+39,How would you interpret an inventory turnover ratio of 10.7?,It takes 50 days on average to collect receivables.,Inventory is converted into sales every 50 days.,The firm has sufficient inventories to maintain sales for 34.1 days.,Assets are converted into sales every 50 days.,C,"Correct answer:
+Option C) The firm has sufficient inventories to maintain sales for 34.1 days.
+Explanation:
+With an inventory turnover of 10.70, we can get an inventory holding period of 34.10 days (365 days / 10.70). We can hence conclude that the company has sufficient inventory to maintain sales for next 34.10 days.","Inventory Turnover: The ratio of cost of goods sold relative to the average inventory is called inventory turnover and it counts the number of times a company replaces its inventory to meet the needs of the sales. When inventory turnover is expressed in a number of days, it is called an inventory holding period or days' sales in inventory."
+40,The inventory turnover is computed by dividing cost of goods sold by _____.,average inventory,beginning inventory,365 days,ending Inventory,A,"The correct answer is
+a. average inventory
+.
+Let's express the formula used for inventory turnover before analyzing the options:
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of goods sold}}{\text{Average inventory}} {/eq}
+Options
+Analysis
+a. average inventory
+Inventory turnover is the ratio of the cost of goods relative to the average inventory. Average inventory is the average of the opening and closing inventory balances.
+b. beginning inventory
+Beginning inventory is used to determine the average inventory.
+c. 365 days
+365 days convert the inventory turnover into an inventory period.
+d. ending Inventory
+Ending inventory is used to compute inventory turnover when the beginning inventory details are not provided.","Inventory: Inventory represents the company's stock in the warehouse. It can include finished products ready for sale, raw materials, work-in-progress items, and supplies. Inventory should be recorded at cost or market value, the lower of the two."
+41,Inventory turnover is computed by dividing the cost of goods sold by the average inventory.,True,False,,,A,"The statement is
+a. True
+.
+Inventory turnover measures how often a company sells and replaces its inventory within a specific period.
+The two essential inputs needed to compute the metric are given below:
+Cost of goods sold
+Average inventory
+Where,
+The cost of goods sold represents the total cost of producing and selling goods, and the average inventory represents the average of beginning and ending inventory balances.
+Mathematical expression:
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of goods sold}}{\text{Average inventory}} {/eq}","Inventory Metrics: Inventory-related ratios are used to measure the efficiency of a company's inventory management. These ratios include inventory turnover, days sales in inventory, and gross margin."
+42,Which of the following would cause the greatest increase in a company's inventory turnover ratio?,Keeping the same amount of inventory on hand while unit sales are increasing,Increasing the amount of inventory on hand while unit sales are increasing,Keeping the same amount of inventory on hand while unit sales are decreasing,Decreasing the amount of inventory on hand while unit sales are increasing,D,"The correct option is
+D)  Decreasing the amount of inventory on hand while unit sales are increasing
+Explanation
+The inventory turnover ratio is defined as ratio of turnover by average inventory, so if unit sales increases the numerator will increase and when inventory amount is decreased the denominator will decrease. And a ratio increases the most when numerator increase and denominator decreases.","Inventory Turnover Ratio There are many financial ratios which are used to compute the profitability, solvency, liquidity etc of the business. Among all this one is the inventory turnover ratio, which is computed by dividing the net sales by average turnover. This ratio is a efficiency ratio which represents the efficiency to convert the raw material into final product and then selling it."
+43,"If beginning inventory is $3,000, closing inventory is $5,000, sales $40,000, and gross profit 20%, then inventory turnover is:",8 times,7.5 times,5 times,6 times,A,"Correct Answer: Option A. 8 times.
+Explanation:
+Step 1:
+Average inventory = (Beginning inventory + Ending inventory) / 2
+Average inventory = ($3,000 + $5,000) / 2
+Average inventory = $4,000
+Step 2:
+Inventory turnover = Cost of goods sold / Average inventory
+Inventory turnover = ($40,000 * (1 - 20%)) / $4,000
+Inventory turnover = 8 times",Gross Profit: Gross profit represents the difference between the sales revenue and the cost of goods sold. The ratio of the gross profit relative to the sales revenue is called the gross profit margin.
+44,Inventory turnover is computed by dividing the cost of goods sold by the average inventory.,True,False,,,A,"The statement is
+a. True
+.
+Inventory turnover measures how often a company sells and replaces its inventory within a specific period.
+The two essential inputs needed to compute the metric are given below:
+Cost of goods sold
+Average inventory
+Where,
+The cost of goods sold represents the total cost of producing and selling goods, and the average inventory represents the average of beginning and ending inventory balances.
+Mathematical expression:
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of goods sold}}{\text{Average inventory}} {/eq}","Inventory Metrics: Inventory-related ratios are used to measure the efficiency of a company's inventory management. These ratios include inventory turnover, days sales in inventory, and gross margin."
+45,Inventory turnover is computed by dividing the average merchandise inventory by the cost of goods sold. True or false?,True,False,,,B,"The statement is
+False
+.
+The inventory turnover metric determines the times a company turns its inventory into sales during an accounting year. The two inputs needed to arrive at the inventory turnover are:
+Average inventory
+Cost of goods sold
+The formula for inventory turnover computation is given below:
+{eq}\text{Inventory Turnover} = \dfrac{\text{Cost of Goods Sold}}{\text{Average Inventory}} {/eq}
+The statement is hence false.","Inventory Costs: It is only suitable for the business to have its inventory held in the warehouse for a while. The longer it's in the warehouse, the higher the costs will be to maintain the inventory to prevent it from deterioration and various other threats."
+46,"Vince Corporation has current assets of $300,000 and current liabilities of $175,000.","Refinanced a $50,000 long-term mortgage with a short-term note.","Purchasing $80,000 of merchandise inventory with short-term accounts payable.","Paying $30,000 of short-term accounts payable.","Collecting $40,000 of short-term accounts receivable.",A,"a. Refinanced a $50,000 long-term mortgage with a short-term note.
+Current Ratio = Current Assets / Current Liabilities
+Current Ratio = $300,000 / ($175,000 + $50,000)
+Current Ratio = 1.33x
+Refinancing a long term loan to short term note increases current liabilities.
+b. Purchasing $80,000 of merchandise inventory with short-term accounts payable.
+Current Ratio = Current Assets / Current Liabilities
+Current Ratio = ($300,000 + $80,000) / ($175,000 + $80,000)
+Current Ratio = 1.49x
+The transaction increases both the current assets and current liabilities.
+c. Paying $30,000 of short-term accounts payable.
+Current Ratio = Current Assets / Current Liabilities
+Current Ratio = ($300,000 - $30,000) / ($175,000 - $30,000)
+Current Ratio = 1.86x
+The transaction decreases both the current assets and current liabilities.
+d. Collecting $40,000 of short-term accounts receivable.
+Current Ratio = Current Assets / Current Liabilities
+Current Ratio = ($300,000 + $40,000 - $40,000) / $175,000
+Current Ratio = 1.71
+As you can see, the transaction has no effect in the current ratio.",Inventory Turnover: Inventory turnover is one of the ratios that helps users assess how well the entity is using its working capital. Its formula is composed of a balance sheet item which is inventory and income statement item which is the cost of goods sold.
+47,"Company Abel has sales of $366,000 and a cost of goods sold of $233,000. Its annual average inventory balance is $24,332.",15 days,30 days,28 days,38 days,D,"The correct answer is:
+d. 38 days
+The inventory turnover in days is calculated as:
+{eq}\text{Inventory turnover in days}=\dfrac{\text{Average inventory}}{\text{Cost of goods sold}}\times 365
+
+{/eq}
+Given that the company has an average inventory of $24,332 and the cost of goods sold is $233,000, then the inventory turnover in days is equal to:
+{eq}\text{Inventory turnover}=\dfrac{\$24,332}{\$233,000}\times 365\\[0.3cm]
+
+\text{Inventory turnover in days}\approx \boxed{\color{blue}{38\; \rm days}}
+
+{/eq}","Inventory Turnover: In finance, the inventory turnover in days is as well known as days of inventory (DSI). It calculates the average number of days that it takes for a firm to convert its inventory into sales. For example, if a company's days in inventory is 10 days, it means that the firm takes 10 days to turn its inventory into sales."
+48,"With respect to inventory turnover, Traditional Home turns its inventory __________ than the average firm in the industry.",approximately the same as the industry,slower than the industry,faster than the industry,,A,"The correct answer cannot be deduced without an image associated, but the following provides explanations as to when each of the answers would be true.
+A) approximately the same as the industry:
+Traditional Home would measure approximately equal to the industry if their holding time of inventory is equivalent to their competitors. It is generally preferred to not hold inventory for significant amounts of time as this requires additional holding space and delays profits. Additionally, money tied up in held inventory results in an opportunity cost by preventing those funds from being allocated elsewhere. If the holding time is equal to the industry, this organization can remain viable but may not be an industry leader.
+B) slower than the industry:
+Turning inventory slower than the industry is typically a bad indicator for an organization. Stale inventory can often result in prices being cut to liquidate. Certain home decor items will be seasonal or consistent with fashion trends. If these items are moving slower than competitors inventory this could result in items being sold at reduced profit margins or even at a loss to clear them out. Additionally, having too much inventory can result in additional storage and holding costs. Finally, if the company is purchasing inventory with debt, this could result in higher interest payments to cover the borrowing costs until the inventory is sold.
+C) faster than the industry:
+Moving inventory faster than the competition is generally preferred. This means the organization is making faster profits and will have lower costs associated with holding inventory. However, moving inventory too fast could be an indication the company is not buying enough products. If the company has shortages of items due to not purchasing enough, this could result in missed sales. If the company is moving inventory faster than the competition, it should investigated to ensure the reasons are positive and profits are not being missed due to a lack of sufficient inventory.",Inventory Turnover: Inventory turnover measures the amount of time it takes to sell a full stock of products over a given time. This is typically measured by dividing the total cost of goods sold during a period by the average of the original and final inventory costs over that period. A higher inventory turnover ratio can be indicative of a highly profitable organization.
+49,"True or False: The faster the sale of inventory and the collection of cash, the higher the profits will be for a business.",True,False,,,A,"Answer: The statement is true
+Explanation:
+There is a direct relationship between the sale of inventory, the collection of cash from accounts receivable, and the profits of a business.
+If a business is able to sell its inventory in a prompt manner, it will result in higher inventory turnover. A high inventory turnover means that a company is able to recover its costs faster, and these funds can be further invested in the generation of additional profits for the business.  The faster the collection of cash from credit sales, the higher the profits for a business since these cash amounts can be quickly re-invested for other profit-making purposes. The efficiency of company operations will shorten the operating cycle of a company, allowing for a more productive allocation of limited funds to increase company earnings.","Inventory: Current assets which are held for sale to generate revenue are known as inventory. Inventory forms the main source of assets for merchandising entities. The value of inventory recorded in the books at year-end is computed by methods such as LIFO, FIFO, or weighted average."
+50,The inventory turnover ratio is representative of which of the following?,A measure of how effectively the firm is managing its inventory.,The number of times inventory is sold and restocked during the year.,The total value of all inventory sold.,The number of times that accounts receivable is turned over during the year. e) Choices a and b only.,B,"Correct Answer: Option b) The number of times inventory is sold and restocked during the year.
+Explanation:
+Inventory turnover is the ratio of the cost of goods sold relative to the average inventory. The ratio indicates the number of times a company restocks its inventory in order to meet the requirements of sales. Inventory turnover is helpful in determining the inventory holding period and the operating cycle.","Ending Inventory: Ending inventory has three forms which include raw material inventory, work-in-process inventory, and finished goods inventory. Ending inventory is a current asset reported in the balance sheet that represents the value of the unsold stock at the end of an accounting period. The current period's ending inventory is the next period's beginning inventory."
+51,A successful grocery store would probably have:,low volume.,low inventory turnover.,high inventory turnover.,zero profit margin.,C,"A successful grocery store would probably have:
+c. high inventory turnover.
+The inventory would be sold off easily and replaced. Hence turnover would be high.
+Let's analyze the incorrect options:
+a. low volume. - The volume and turnover are high as products are sold and replaced fast.
+b. low inventory turnover. - On the contrary, inventory turnover is high.
+d. zero profit margin. - Grocery stores usually have a positive profit margin as the products are small and have high demand.",Grocery Store: A grocery store has products for daily use that fly fast off the shelves. Various FMCG products are also sold in such stores. The products need to have ready inventory and should be sold fast enough to avoid spoilage.

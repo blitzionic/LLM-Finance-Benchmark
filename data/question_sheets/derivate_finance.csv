@@ -1,0 +1,121 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,A Collateral Debt Service Obligation (CDO) is not considered a credit derivative.,TRUE,FALSE,,,B,"The given statement is
+FALSE.
+A Collateral Debt Service Obligation (CDO) is a credit derivative. The creditor can shift the default risk to another party by entering into a credit derivative transaction. A CDO is a financial package consisting of underlying assets or loans that act as a security in default. CDO creation is a complex procedure and involves various professionals such as CDO managers, rating institutions, guarantors, etc. These were famously used to package subprime mortgage loans in the early 00's, and their failure to perform when the housing market corrected led to the great recession.",Credit Derivatives The value of a credit derivative instrument is influenced by the parties' trustworthiness and reliability to the transaction. The credit exposure of any underlying assets forms the major determining factor of its price.
+2,"Given {eq}f(x) = x^2 - 1
+
+{/eq}, then {eq}f'(-1)
+
+{/eq} equals","{eq}\lim_{h \to 0} \dfrac{h^2 - 2h}{h}
+
+{/eq}","{eq}\lim_{h \to 0} \dfrac{2h - h^2}{h}
+
+{/eq}","{eq}\lim_{h \to 0} \dfrac{f(h) - f(-1)}{h}
+
+{/eq}","{eq}\lim_{h \to 0} \dfrac{f(h - 1) - 1}{h}
+
+{/eq}",A,"Given:
+{eq}\displaystyle f(x)  = x^2 - 1
+
+{/eq}
+{eq}\displaystyle x = -1
+
+{/eq}
+The derivative of a function is defined as:
+{eq}\displaystyle f'(x) = \lim_{h\to 0} \frac{f(x+h) - f(x) }{h}
+
+{/eq}
+Let us first substitute our function values (evaluated):
+{eq}\displaystyle f'(x) = \lim_{h\to 0 } \frac{ (x+h)^2 - 1 - x^2 + 1}{h}
+
+{/eq}
+Simplify:
+{eq}\displaystyle f'(x) = \lim_{h\to 0 } \frac{ (x+h)^2 - x^2 }{h}
+
+{/eq}
+Expand:
+{eq}\displaystyle f'(x) = \lim_{h\to 0 } \frac{ x^2 +2xh + h^2 - x^2 }{h}
+
+{/eq}
+{eq}\displaystyle f'(x) = \lim_{h\to 0 } \frac{ 2xh + h^2 }{h}
+
+{/eq}
+Substitute {eq}\displaystyle x = -1
+
+{/eq} to get:
+{eq}\displaystyle f'(-1) = \lim_{h\to 0} \frac{-2h + h^2}{h}
+
+{/eq}
+{eq}\displaystyle \boxed{a.\ f'(-1) = \lim_{h\to 0 } \frac{h^2 - 2h}{h}}
+
+{/eq}","Derivatives: The derivative of any function is based on a limit of the divided difference of that function. If the limit exists, we can say that the function is differentiable because the derivative would exist. If one has a function {eq}\displaystyle f(x)
+
+{/eq}, the its derivative can be defined using the following limit formula: {eq}\displaystyle f'(x) = \lim_{h\to 0} \frac{f(x+h) - f(x) }{h}
+
+{/eq} In most cases, doing the derivative manually would make the factor {eq}\displaystyle h
+
+{/eq} disappear from the denominator at some point so that the limit can be more easily evaluated."
+3,"If {eq}\lim \limits_{x \rightarrow a} \frac{f(x) - f(a)}{x - a} {/eq} exists, then {eq}f {/eq} is differentiable at {eq}a {/eq}.",TRUE,FALSE,,,A,"True, if {eq}\lim \limits_{x \rightarrow a} \frac{f(x) - f(a)}{x - a} {/eq} exists the function is derivable at {eq}x=a {/eq} then {eq}f(x) {/eq} is differentiable at {eq}a {/eq}.","Derivatives, The Formal Definition: The derivate of a function {eq}g(x) {/eq} in a given point {eq}b {/eq} of its domain is given by the limit: $$\begin{align*} g'(a) = \lim \limits_{x \rightarrow a} \frac{g(x) - g(a)}{x - a}. \end{align*} $$ If the function is derivable in this point is also differentiable and then must also be continuous. Some functions do not have a derivative at some point of its domain, an example of this is the module function {eq}f(x) = |x| {/eq}, wherein the point {eq}x=0 {/eq} the derivative does not exist and the function is not differentiable."
+4,In response to Long Term Capital Management (LTCM):,The bailout of LTCM resulted in a ban on all derivatives trading by hedge funds.,The government allowed derivatives trading to continue without regulation.,"In 2002, the Sarbanes-Oxley Act was passed to impose significant regulations on derivatives trading.",The government saw the benefits of unregulated hedge funds and fully deregulated derivatives trading.,B,"The correct answer is b).
+In the above-given statement, in response to the long-term capital management, the government allowed derivatives trading to continue without regulation. Derivatives create an income stream through simply trading. The options and futures are standardized contracts in the financial market. The government allowed to regulate the derivatives trading and took such an approach of the OTC derivatives market. In long-term capital management, the profits in the derivative trading may offset losses in the underlying asset. Derivatives trading are very significant to determine the underlying asset's price. For example, the spot prices of the future options serve as a commodity price.
+The explanation for incorrect answers
+Option a) is incorrect because the bailout of LTCM has not resulted in a ban on derivatives trading.
+Option c) is incorrect because the Sarbanes-Oxley helps to protect the investors from fraudulent financial reporting.
+Option d) is incorrect because the deregulated derivatives trading and unregulated hedge funds are not included in the response of long-term capital management.",Long-term capital management (LTCM): LTCM refers to a large hedge fund that has been led by Wall Street traders and economists. LTCM's highly leveraged trading strategies have failed to pan out; the United States government had arranged a global financial contagion.
+5,Sellers of CDSs (Credit Default Swaps) benefit if a company defaults on its debt obligations.,TRUE,FALSE,,,B,"Correct Answer: False
+The seller is the party that assumes the risk. So, if the debt issuer defaults, the seller will have to provide the payment to the buyer. It implies that the seller will not benefit in case of default. Even sellers have to incur payments in the default case. So, the default case is a risky situation that sellers face. Hence, the default situation will not create benefits for the seller.",Credit Default Swaps: A credit default swap is a contract that works similarly to an insurance contract by transferring associated credit risk. These financial instruments are modified like forward contracts in the derivatives market.
+6,"When comparing option hedging (hedging with options) to futures hedging (hedging with futures), which statement is most true:",Option hedging allows for smaller variability in the end value than futures hedging.,Futures hedging protects against downside risk but allows for upside potential.,Futures hedging is more expensive than option hedging because the latter is settled in cash.,Option hedging protects against downside risk but is typically more expensive than futures hedging.,B,"The correct answer is
+b) Futures hedging protects against downside risk but allows for upside potential.
+The downside risk is the likelihood that the value of an underlying asset will drop when market conditions change. Investors use downside risk to assess how much they would lose if the prices of vulnerable securities decline and decide whether to use hedging strategies. Effective hedging using a futures contract protects an investor from downside risk without reducing the potential rate of return of an investment.
+Explanations for the incorrect choices:
+'a) Option hedging allows for smaller variability in the end value than futures hedging.' This is incorrect because the losses avoided by using futures and options hedging depend on the price movements in the market and not on the choice of hedging strategy.
+'c) Futures hedging is more expensive than option hedging because the latter is settled in cash.' This is incorrect since both futures and options can allow for cash settlement where instead of selling the underlying assets on maturity, investors can transfer the related cash position.
+'d) Option hedging protects against downside risk but is typically more expensive than futures hedging.' This is incorrect because both futures and options hedging protect from downside risk, and their prices are determined by the amount of risk they hedge against; therefore, one is not necessarily more expensive.","Option hedging and Futures Hedging: A hedge is a financial security that protects an investor's portfolio from negative price changes. In option hedging, Investors buy options that are inversely correlated with vulnerable assets. If the price of the asset changes adversely, the price of the option changes in the opposite direction, protecting an investor from experiencing losses. The main difference between futures and options is that options give investors the right but not the obligation to trade in a given asset at a specific price and future date. In contrast, holders of futures contracts are obligated to trade in the asset."
+7,Which of the following hedges should qualify for the short-cut method?,Hedging a corporate floating rate note with a standard receive-floating pay fixed swap with the same maturity and notional amount.,Hedging a 3-month Libor deposit with ED futures.,Hedging a floating rate note with a credit default swap.,None of the above.,D,"Option (D)
+A hedge should fulfill the following criteria to be considered for the short-cut method.
+The only risk to be hedged should be related to interest rate fluctuations.
+The instrument used to hedge should be a swap on interest rates.
+The item to be hedged should be a recognized interest-bearing liability or asset.
+a. It is not a short-cut hedge, as a corporate FRN (floating rate note) can be exposed to default risk.
+b. It cannot qualify as a short-cut hedge as the hedging instrument used is ED futures.
+c. An FRN can be exposed to interest rate risk and credit/default risk. Also, the hedging instrument used is a credit default swap.
+d. All the above choices do not qualify for a short-cut hedging method.
+Hence, the correct option is Option (D).","Hedging A hedge is a strategy used to offset or limit the possible loss arising from adverse price movements in the underlying financial instrument. Swaps, options, futures, or derivatives can be used as hedging instruments."
+8,Which of the following statements is CORRECT?,Futures contracts have less default risk because the exchange acts as the counterparty for all transactions.,Forward contracts trade on an organized exchange and are marked to market daily.,Goods are never delivered under forwarding contracts but are almost always delivered under futures contracts.,Forward contracts are available on individual stocks and futures contracts are for commodities.,A,"The correct answer is
+A. Future contracts have less default risk because the exchange acts as the counterparty for all the transactions
+.
+In the derivatives market, futures are used in obtaining favorable leverage, hedge, or speculations on particular investments by traders. Futures depict a more standardized agreement where the trades are made on the stock exchange markets. They are never delivered; hence they are settled on a marked-to-market on a daily basis. Since they come with fixed maturity periods, they bear less default risk because they guarantee payment on the agreed-upon date. Thus, investors may exit a trade whenever they deem fit, hence less risk as they serve on the exchange rates market.
+On the other hand, forward contracts are over-the-counter arrangements between individuals and can be paid after negotiating the terms. Because they are privately negotiated, they have more default risk because counterparties do the transactions themselves. It mainly deals with commodities such as agricultural products, usually delivered because they are not marked-to-market daily as their counterparts in the future.","Derivatives: These are agreements between two or more groups that obtain value from an already existing financial asset. It can be in the form of a security or an index. The most frequent financial instruments used in derivatives are commodities, bonds, currencies, stocks, interest rates, and indices. Products are mainly divided into four parts: forwards, futures, swaps, and options. Traders primarily use them to gain access to particular markets and trade different assets by hedging, leveraging, or forecasting an increase in the value of an investment."
+9,"You sell short 300 shares of Microsoft that are currently selling at $20 per share. You post the 40% margin required on the short sale. If you earn no interest on the funds in your margin account, what will be your rate of return after 1 year if Microsoft is selling at $18?",25.00%,12.50%,18.75%,43.75%,A,"The rate of return after 1 year is 25% (a)
+The rate of return is calculated as follows.
+{eq}Rate \ of \ return \ = \ \dfrac{\left ( Selling \ price \ - \ Price \ after \ 1 \ year \right ) \ \times \ No. \ of \ shares}{No. \ of \ shares \ \times \ Selling \ price \ \times \ Margin} \ \times \ 100
+
+\\
+
+Rate \ of \ return \ = \ \dfrac{\left ( \$20 \ - \ \$18 \right ) \ \times \ 300}{300 \ \times \ \$20 \ \times \ 40\%} \ \times \ 100
+
+\\
+
+Rate \ of \ return \ = \ \dfrac{\$2 \ \times \ 300}{\$6,000 \ \times \ 0.40} \ \times \ 100
+
+\\
+
+Rate \ of \ return \ = \ \dfrac{\$600}{\$2,400} \ \times \ 100
+
+\\
+
+Rate \ of \ return \ = \ 25\%
+
+{/eq}","Derivatives: Derivatives are financial contracts that derive their value from the underlying asset. Example of derivative contracts includes forward,  futures, call option and put option, and swaps."
+10,You would like to protect your portfolio of British equity against a downward movement of the British stock market. Which derivative can be used to achieve this?,(I) and/or (II),(II) and (III),(I) and/or (III),,C,"Correct Answer: c
+An individual may get protection from the portfolio downward movement with the help of put options or futures contracts. A put option will offer protection to the investor because it will help the investor sell the share at the strike price if the market price of equity falls below the strike price. Also, future contracts will benefit the investor by selling the equity at a higher price. Hence, the investor may use either of the arrangements for protection.
+An explanation for incorrect options:
+Option a: Futures contracts are applicable for protection over here. But call options are not helpful as these options protect from upward movement to the potential investor.
+Option b: Put options will help in protection from downward movement. But the call option will not help because they protect from upward movement instead of downward movement.",Foreign Equity Portfolio: A portfolio variant having different equity stocks of foreign countries is the foreign equity portfolio. These portfolios comprising equity holdings provide ownership rights to the shareholders in the foreign corporations.
+115,SFAS 133 values derivatives at fair value.,TRUE,FALSE,,,A,"The given statement is
+true
+.
+Statement of financial accounting standards no. 133 states that derivatives should be value at fair values in order to report and record the assets and liabilities accurately through transparency can be obtained about the derivative instruments.
+Hence, it is a correct statement.",Derivatives Derivatives can be defined as a formal agreement between two parties for carrying out the impact or value from the performance of fundamental assets or interest rates of an entity. It is considered as a financial instrument for an organization.
+116,What is the requirement for reporting derivatives under international accounting standards and U.S. GAAP?,They may be shown on the balance sheet or they may be treated as off-balance sheet investments.,They must be shown on the balance sheet at fair value.,They must be shown on the balance sheet at historical cost.,They may be shown on the balance sheet at historical cost or at net realizable value.,B,"The answer is B) They must be shown on the balance sheet at fair value.
+In addition to identifying the derivative and it's purpose for hedging and reporting non-hedging profits and losses, the GAAP and international accounting standards require the corporation to report the derivative on the balance sheet at fair value.",Derivative Accounting: A derivative is an asset or liability that uses the market price to derive it's value. Derivatives are used by corporations to insure against adverse fluctuations in market price. These are accounted for in the Generally Accepted Accounting Principles (GAAP) and international accounting standards to prevent corporations from speculating on derivatives and then hiding the losses.

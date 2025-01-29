@@ -1,0 +1,449 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,An effective process of capital allocation promotes productivity and provides an efficient market for buying and selling securities and obtaining and granting credit.,True,False,,,A,"The given statement is true.
+The management can invest in other companies, buy back its shares, or issue dividends. These will lead to better position in the securities market. The organization will increase its profit and wealth by effective allocation.",Capital Allocation: Capital allocation is the investment of financial resources of an organization in the most efficient manner. It is done to increase to increase the shareholder's wealth. It is an important decision and all the options should be evaluated.
+2,Many current and retired Enron Corp. employees had their 401k retirement accounts wiped out when Enron collapsed because:,they had to pay huge fines for obstruction of justice,their 401k accounts were held outside the company,their 401k accounts were not well diversified,None of the above,C,"The answer is
+C. their 401k accounts were not well diversified
+Their retirement account was invested heavily on Enron stock. That explained why their money was wiped out when the stock price dropped down significantly.",Retirement Plan: A retirement plan is a financial plan that generates income and protection to a person after his retirement. A well-constructed plan will secure that person's living standards and stabilize his wealth.
+3,"During the financial crisis in 2008-2009, investors who were diversified across industries:",experienced no losses.,experienced large gains.,experienced significant losses because most industries were suffering from weak economic conditions.,experienced losses in financial services companies but not in other industries.,C,"The correct answer is
+C. Experienced significant losses because most industries were suffering from weak economic conditions
+.
+Investors who had only invested across industry sectors suffered huge losses during the financial crisis because most businesses in these industries were impacted by the prevailing economic conditions. Diversifying one's portfolio across industries does fully hedge against possible risks because it is highly likely that the companies in the industries would be affected by the same risks during a crisis. Thousands of industries were profoundly affected by the financial crisis, which took a heavy toll on both people and organizations.","Portfolio Diversification: There are different ways of diversifying one's portfolio, which can be achieved by investing in a variety of businesses and industries. As an investor, one does not have to possess a large number of stocks from just one firm. They may acquire from firms in the same industry or purchase other forms of investment. An individual's whole investment portfolio is at risk of losing value if they have all of their money on one investment vehicle."
+4,A stock has a beta of 1.14 and an expected return of 10.5 percent. A risk-free asset currently early is 2.4 percent.,What is the expected return on a portfolio that is equally invested in the two assets?,"If a portfolio of the two assets has a beta of 0.92, what are the portfolio weights?",,,A,"a.
+E(rp) = E(r) x stock weight + E(r) x Risk-free asset weight
+E(rp) = 10.5% x 0.50 + 2.4% x 0.50
+E(rp) = 5.25% + 1.2%
+E(rp) = 6.45%
+b.
+Let the portfolio weight of the stock be x and the risk-free asset be (1-x).
+Beta (Asset) = Stock beta x Stock weight + Beta x Risk-free asset weight
+0.92 = 1.14 x X + 0 x (1-X)
+0.92 = 1.14X + 0
+X = 0.92/1.14
+X = 0.8070
+Therefore, the portfolio weights are
+80.7%
+and 0.193(1-0.8070), or
+19.3%
+.",Portfolio Weights: The portfolio weights of the stock are assigned systematically by the portfolio manager to minimize the portfolio risk. Higher-risk assets are given a low weightage while low to medium-risk assets have a high weightage in the portfolio.
+5,The measure of risk for a security held in a diversified portfolio is:,Specific risk,Standard deviation of returns,Reinvestment risk,Covariance,D,"The correct answer is option d.
+Covariance
+A security with a high positive covariance with the portfolio is riskier in a portfolio context because its returns are more closely tied to the portfolio's overall performance. Conversely, a security with a low or negative covariance with the portfolio is not as risky in a portfolio context because its returns are less affected by the portfolio's overall performance.
+Reasons for incorrect options:
+a
+: The specific risk is the risk that is unique to a particular security and cannot be diversified away in a portfolio and is not a way to assess the risk related to the fund held in a diversified portfolio.
+b
+: It calculates a security's overall risk but ignores the impact of diversification on a portfolio. Therefore, it may overstate a security risk held in a diversified portfolio.
+c
+: This is the risk that the future earnings from an investment may not be invested again at the identical profit level as the initial amount invested. Hence it is not a measure of the risk of a security held in a portfolio.","Diversified Portfolio: The term diversified portfolio is a group of investments developed to lessen risk and increase revenues by allocating distinct holdings across several asset categories, including shares and obligations."
+6,Combining negatively correlated assets having the same expected return results in a portfolio with _____ level of expected return and _____ level of risk.,the same; a higher,the same; a lower,a higher; a lower,a lower; a higher,B,"The correct answer is Option B.
+Option B is correct as combining the negatively correlated assets will not affect the expected returns as the individual investments have the same expected return. And the expected risk will be lower as the risk is segregated and divided, which reduces the total risk; e.g., if any of the stocks will be facing bad or low returns, then the other good-performing fund will help the portfolio
+.","Portfolio: A portfolio is the troupes of the various investments in a single Demat account, such as Shares, bonds, funds and commodities. It reduces the level of risk by organizing & highlighting the price fluctuations."
+7,Proper asset allocation can:,increase your wealth.,decrease your assets.,increase your dividend income and decrease your interest income.,increase your expenses.,A,"Option a) Increase your wealth
+is the correct answer.
+Reason:
+A proper allocation and utilization of an organization's total assets can eventually increase the firm's wealth since the assets are items that provide future benefits to the firm. If a partnership firm liquidates in nature, the organization's total assets are distributed amongst the partners after paying off the firm's liabilities. When analyzing the firm's value according to the market, a model known as the Book value determines the value or worth of the firm with its total assets. Therefore, assets benefit the organization in cash and increase wealth.
+Reason for incorrect options:
+Option b is incorrect because assets will decrease when sold.
+Option c is incorrect because these are related to the shareholder's equity of the firm.
+Option d is incorrect because increasing expenses will lead to a decrease in the firm's profit.",Allocation: It is a term used when an organization decides to allocate its funds into different investment assets in the market. Allocation is done after the financing activity where the owners have arranged the funds.
+9,"At December 31, 2013, the available-for-sale equity portfolio for Steffi Graf, Inc. is as follows.","Prepare the adjusting entry at December 31, 2013, to report the portfolio at fair value.","Show the balance sheet presentation of the investment-related accounts at December 31, 2013.",Prepare the journal entry for the 2014 sale of security A.,,A,"A.
+Date
+Particulars
+Debit
+Credit
+Dec 31, 2013
+Securities fair value adjustment A/c (Debit)
+$1,729
+To Unrealized holding gain A/c
+$ 1,729
+B.
+Assets
+Amount
+Available for sale securities
+$72,485
+Liabilities
+Amount
+Accumulated other comprehensive income
+$1,995
+C.
+Date
+Particulars
+Debit
+Credit
+2014
+Cash A/c (Debit)
+$20,349
+Loss on sale of securities A/c (Debit)
+$2,926
+To Available for sale securities A/c
+$23,275",Equity Portfolio: An equity portfolio contains investments made by an investor in the stock market. This type of portfolio aims to provide liquidity to the investor. The investor usually bifurcates this equity portfolio based on economic activity.
+10,"Use a z-table to solve the following. A portfolio has an ECR of $10,000 and a Sigma Cash Return of $5,500. What is the probability that next year's cash return will be less than $0?",55%,3.44%,0.00%,96.56%,B,"The correct option is _B)_3.44%_
+{eq}\begin{align*}z &= \frac{{{\rm\text{Cash Return}} - {\rm\text{ECR of Portfolio}}}}{{{\rm\text{Sigma Cash Return}}}}\\ &= \frac{{\$ 0 - \$ 10,000}}{{\$ 5,500}}\\ &=  - 1.82\end{align*}
+
+{/eq}
+{eq}\begin{align*}{\rm\text{Probability of Cash Return of Less Than }}\$ 0 &= {\rm\text{P}}\left( {z <  - 1.{\rm\text{82}}} \right)\\ &= 1 - {\rm\text{P}}\left( {z < 1.82} \right)\\ &= 1 - 0.9656\\ &= 3.44\% \end{align*}
+
+{/eq}","Portfolio Investment: Portfolio investment is the investment in a specific group of financial securities in place of investing in individual securities. The financial securities may include stocks, bonds, mutual funds, derivative instruments etc."
+11,A stock has a beta of 1.35 and an expected return of 16 percent. A risk-free asset currently earns 4.8 percent.,What is the expected return on a portfolio that is equally invested in the two assets?,"If a portfolio of the two assets has a beta of 0.95, what are the portfolio weights?","If a portfolio of the two assets has an expected return of 8 percent, what is its beta?","If a portfolio of the two assets has a beta of 2.70, what are the portfolio weights? How do you interpret the weights for the two assets in this case?",A,"a.
+The expected return on the portfolio equally invested in the two assets should be = 0.5 x R1 + 0.5 x R2
+Expected return of the stock, R1 = 16%
+Expected return of the risk-free asset = 4.8%
+Therefore, the portfolio return is = 0.5 x 16% + 0.5 x 4.8%
+= 8% + 2.4%
+=
+10.4%
+b.
+The stock beta is 1.35 while the portfolio has a beta of 0.95. The risk-free asset's beta is zero.
+Therefore, Portfolio beta is = W(s) x B(s) + W(r) x 0
+Or, 0.95 = W(s) x 1.35
+Or W(s) = 0.7037 or 70.37%
+Therefore, the weight of the stock in the portfolio is
+70.37%
+and the weight of the risk-free assets is = 1 - 0.7037
+= 0.2963 or
+29.63%
+c.
+Let the weights in the portfolio be X for the stock and 1 - X for the risk-free asset respectively
+The expected return of the portfolio, P(r) is = R1 x X + R2 x (1-X)
+Or, 8% = 16X% + 4.8% - 4.8X%
+Or, 3.2% = 11.2X%
+Or, X = 0.2857
+1 - X = 1 - 0.2857 = 0.7143
+Therefore, the stock's weight is 28.57% while the risk-free asset's weight is 71.43%. We, now calculate the portfolio beta with the given weights as follows:
+Pb = Beta of stock x weight of stock + Beta of risk-free asset x weight of risk-free asset
+= 1.35 x 0.2857 + 0
+=
+0.39
+d.
+The stock beta is 1.35 while the portfolio has a beta of 2.7. The risk-free asset's beta is zero.
+Therefore, Portfolio beta is = W(s) x B(s) + W(r) x 0
+Or, 2.7 = W(s) x 1.35
+Or W(s) = 2 or 200%
+Therefore,
+200%
+of the portfolio's weight(i.e. the stock's weight) has to be invested in the stock to result in this beta. There will be no investment in the risk-free asset in this case as it will not be possible in this situation.",Managing Risky Investments: Managing risky investments effectively in a portfolio of assets is the key to its best performance. A portfolio comprising of risky and less risky investments is a balanced portfolio and the best investment option for small and medium risk takers.
+12,"You own $22,500 of City Steel stock that has a beta of 3.33. You also own $39,000 of Rent-N-Co (beta = 1.78) and $20,800 of Lincoln Corporation (beta = -.82). What is the beta of your portfolio?",4.86,1.55,4.29,1.00,B,"Correct option:
+Option B
+Computation of portfolio beta:
+(A) Stocks owned by companies
+(B) Value of stocks
+(C) Stock Weights
+(D) Given beta factor
+Weighted beta (C X D)
+Company C
+$22,500
+0.273 ($22,500/ $82,300)
+3.33
+0.90
+Company R
+$39,000
+0.473 ($39,000/ $82,300)
+1.78
+0.84
+Company L
+$20,800
+0.252 ($20,800/ $82,300)
+(0.82)
+(0.20)
+Total values
+$82,300
+1.54
+Hence, the beta of portfolio is 1.54, and the nearest factor among the options is 1.55.","Portfolio Investment: Making investments in a variety of financial securities to earn returns in future periods is called portfolio investment. The portfolio encompasses many securities like stock, mutual funds, real estate assets, etc. It enables an investor to safeguard their funds in the form of diversified investments."
+13,The benefit from diversification is far greater when diversification occurs across asset types.,True,False,,,A,"The correct option is
+a. True
+.
+A successful diversification should be based on selecting a mix of asset classes, for instance, holding bonds, stocks, ETFs, futures contracts, precious metals, etc. If an investor holds only one class of asset, the full benefits from diversification cannot be achieved. This is because different types of assets may react in a different way to the same macroeconomic change, which reduces the risk of an investment portfolio.",Diversification: Diversification is a portfolio management strategy that is focused on minimizing the risk of the investment. This strategy helps in mitigating losses through a proper allocation of funds.
+14,Decreasing the number of stocks in a portfolio from 50 to 10 would likely:,Increase the systematic risk of the portfolio,Increase the unsystematic risk of the portfolio,Increase the return of the portfolio,Decrease the variation in returns the investor faces in any one year,B,"The answer is
+b. Increase the unsystematic risk of the portfolio
+When the number of investing securities reduces, the entire portfolio will be less diversified, which means it will be exposed to higher unsystematic risk.","Portfolio: An investment portfolio consists of several securities, in which it will reduce the portfolio's risk. The portfolio can achieve a lower unsystematic risk if subsequent securities have inverse relationship with each other."
+15,Investment levels depend mainly on:,high levels of consumption in the economy.,the rate of return on capital.,tax incentives.,strong government demand.,B,"The correct answer is choice
+b.
+Investment involves the spending made on capital goods to produce services and commodities in the economy. It is mainly determined by the ROR on the capital, which is the benefits expected from the investment. Investment will be high when the ROR on capital is high. Contrarily, investment will be low when the rate of return on capital is low. The ROR on capital shows how effectively a firm is turning the capital into profits.","Investment: Investment is the equipment, plants, and other capital goods needed to offer services or build commodities.  Investments may be planned and implemented by an organization to ensure future growth. In other words, investments are made to generate more revenue, capture a larger market share, and increase operational capacity."
+16,Portfolio risk encompasses:,1 and 2,1 and 3,2 and 3,All of these choices.,D,"The answer is
+D. All of these choices.
+Generally, an investment portfolio is exposed to systematic risk and unsystematic risk. In this case, the unsystematic risk is attributed to the firm's financing decisions while the systematic risk includes the interest rate risk and the loss of purchasing power (inflation risk premium).","Portfolio: An investment portfolio includes different types of assets and security, in which an investor can receive earnings from different sources of income. In addition, an investment portfolio can reduce the overall unsystematic risk on the invested capital."
+17,Portfolio investment means buying:,livestock.,less than 10 percent ownership in a foreign company.,a life insurance policy when traveling abroad.,more than 50 percent ownership in a foreign company.,B,"The best possible answer choice is b. less than 10 percent ownership in a foreign company.  However, a portfolio investment could also include less than 10 percent ownership in a domestic company.  Moreover, a portfolio investment could include a collection of different types of asset classes.","Investment Portfolio: An investment portfolio is a collection of assets held to achieve specified investment objectives.  Ideally, the portfolio will reflect a high degree of diversification and be structured in a way that reflects the time horizon on the investor."
+18,"A stock has an expected return of 12 percent, its beta is 0.75, and the risk-free rate is 4.8 percent. What must the expected return on the market be?",14.98%,14.40%,9.60%,15.12%,C,"The correct answer is option c. 9.60%.
+The expected market return can be computed using the following formula.
+{eq}\begin{align}
+
+\text{Expected Return on the Market} &= \frac{\text{Stock Expected Return - Risk free Rate}}{\text{Stock Beta}} \\
+
+&= \frac{0.12 - 0.048}{\text{0.75}} \\
+
+&= \frac{0.072}{0.75} \\
+
+&= 0.096\,or\, {\text{9.60%}}
+
+\end{align}
+
+{/eq}
+Therefore,
+the correct answer is option c. 9.60%.","Investment Portfolio: An investment portfolio is an investment collection, such as stocks, bonds, mutual funds, and other financial instruments, that an individual or organization holds to generate income and achieve long-term financial goals."
+19,"In capital rationing, alternative proposals that survive initial and secondary screening are normally evaluated in terms of",net income.,nonfinancial factors.,maximum cost.,net cash flow.,B,"The correct answer is b. nonfinancial factors.
+The capital rationing technique considers the non-financial and financial factors. The non-financial factors can be present in the external or internal environment.
+The explanation for incorrect answers:
+a. net income.
+The net income of the organization is considered before making the investment decision.
+c. maximum cost.
+The maximum cost that the organization will invest is also considered and affects the decision.
+d. net cash flow.
+The net cash flow from the investment is evaluated by the organization before making the investment decision.",Capital Rationing: Capital rationing is the procedure used by management to put restrictions on the investments undertaken. This technique is used to allocate available funds feasibly. The management can apply this technique by placing a ceiling on budgets.
+20,In a well-diversified portfolio:,market risk is negligible.,systematic risk is negligible.,non-systematic or idiosyncratic risk is negligible,non-diversifiable risk is negligible.,A,"A. Incorrect. Market risk is known as the systematic risk, which cannot be erased by a diversification strategy. In fact, a well-diversified portfolio will approach the market risk.
+B. Incorrect. See explanation in part A.
+C. Correct. The main purpose of the diversification is to minimize the non-systematic risk.
+D. Incorrect. Non-divesifiable risk is the systematic risk. See explanation in part A.
+E. Incorrect. Systematic risk cannot be eliminated by the diversification.",Investment Portfolio: An investment portfolio includes several assets and securitiies from different business sectors. The combination of different underlying investemnts intends to diversify the risk of the portfolio.
+21,"Over about 40 years, your portfolio should probably:",change from higher-risk to lower-risk investments,sell every holding each year to figure out how well you are doing,grow equally well in all sectors or it is a bad financial plan,"become less and less conservative, increasing in risk from year to year",A,"The answer is
+a. change from higher-risk to lower-risk investments
+a. Correct. A significant holding period will allow the portfolio to experiment the recovery of the entire market after failures. Alternatively, by holding a portfolio in several years, an investor will be able to average out the overall risk. Thus, it will experience a lower risk.
+b. Incorrect. If an investment portfolio is cashed out annually, it reduces both potential earnings. In addition, an investor might engage a large loss as the market does not have a sufficient time to recover from being crashed.
+c. Incorrect. Each sector will have different set of characteristics, which will not be able to grow equally in the same time.
+d. Incorrect. Potential risk will not increase continuously, in which it depends on the economic conditions.","Investment Portfolio: An investment portfolio should consist of several assets and securities, which aims to reduce the potential risk on the investor's capital. Theoretically, if a portfolio contains a significant amount of securities, it would have the same risk as the entire market."
+22,An investor wants to build a 2-stock portfolio of the following stocks:,"If the investor wants the Portfolio Beta to be 1.1, what should the weights of each stock be in the portfolio?","Based on your answer to part a, what would the Expected Return of the Portfolio be?",,,A,"a.
+{eq}\rm The~total~value~of~portfolio~weights= 1\\ \rm Stock~A~weight + Stock~B~weight = 1\\ \rm Stock~A~weight = 1 - Stock~B~weight\\ {/eq}
+Portfolio beta, {eq}\rm P_{B} = \beta_{A} \times W_{A} + \beta_{B} \times W_{B}\\ Where,\\ \rm P_{B}~is ~portfolio ~beta\\ \rm \beta_{A} ~is ~the~ beta ~of ~asset ~A\\ \rm \beta_{B} ~is ~the ~beta ~of ~asset ~B\\ \rm W_{A}~ is ~the~ weight ~of ~asset ~A\\ \rm W_{B}~ is ~the ~weight ~of ~asset ~B\\ {/eq}
+Therefore,
+{eq}\rm 1.1 = 1.3 \times (1 - Stock~B~weight) + 0.85 \times Stock~B~weight\\ \rm 1.1 = 1.3 - 1.3Stock~B~weight + 0.85Stock~B~weight\\ \rm 1.1 = 1.3 - 0.45Stock~B~weight\\ \rm 0.45Stock~B~weight = 1.3 -1.1\\ \rm 0.45Stock~B~weight = 0.2\\ \rm Stock~B~weight = \dfrac{0.2}{0.45}\\ \rm Stock~B~weight = 0.4444\\ {/eq}
+{eq}\rm Stock~B~weight = 0.4444\\ \rm Stock~A~weight = 1- 0.4444\\ \rm Stock~A~weight = 0.5556\\ {/eq}
+b.
+Portfolio expected return, {eq}\rm E_{rP} = E_{rA} \times W_{A} + E_{rB} \times W_{B} \\ Where,\\ \rm E_{rP}~is ~portfolio~expected~return\\ \rm E_{rA} ~is ~the~expected~return~of ~asset ~A\\ \rm E_{rB} ~is ~the~expected~return ~of ~asset ~B\\ {/eq}
+Therefore,
+{eq}\rm E_{rP} = 0.078 \times 0.5556 + 0.058 \times 0.4444\\ \rm E_{rP} = 0.043 + 0.026 \rm E_{rP} = 0.069 {/eq}
+Hence, the portfolio's expected return will be
+6.9%
+.","Portfolio Development: An optimal stock portfolio can be achieved with careful analysis of high-risk and low-risk stocks. An investor with low-risk tolerance will develop a portfolio giving the lowest weight to the high-performing, high-risk stock while an investor with a strong risk-bearing capacity will bet more on the high-risk stock and give it strong weightage in his/her portfolio. Thus optimum portfolio varies from individual to individual based on their risk tolerance."
+23,How can an investor earn more than the return generated by the tangency portfolio and still stay on the security market line?,Borrow at the risk-free rate and invest in the tangency portfolio.,Add high risk/return assets to the portfolio.,Adjust the weight of stock in the portfolio to include fewer high-return stocks.,It cannot be done.,A,"The correct option is:
+A. Borrow at the risk-free rate and invest in the tangency portfolio.
+Explanation:
+At the marketplace, an investor can analyze the market based on risk and return and tries to get funds from risk free sources and invest in his efficient portfolio or tangency portfolio, which allows him to get relatively more returns than tangency portfolio due to risk free borrowing and keep him on the security market line only.","Tangency Portfolio: In the asset and money market, the term portfolio is used to explain the total amount of investment held by an investor in different projects and alternatives. A portfolio will be considered as a tangent portfolio if it is the efficient portfolio of an investor."
+24,"A life insurance policy is a financial asset, with the premiums paid representing the investment's cost.",How would you calculate the expected return on a 1-year life insurance policy?,"Suppose the owner of a life insurance policy has no other financial assets the person's only other asset is human capital, or earnings capacity. What is the correlation coefficient between the return on the insurance policy and the return on the human capital?","Life insurance companies must pay administrative costs and sales representatives commissions; hence, the expected rate of return on insurance premiums is generally low or even negative. Use portfolio concepts to explain why people buy life insurance in spite of low expected returns.",,A,"(a)
+The expected return on life insurance is calculated as normal stock. The outcome of each event is amplified by its potential for emergence, followed by a summary of these products.
+For example, a one-year policy pays $ 20,000 per death, and the probability in that year is two percent. As a result there is a 98% chance of a zero refund and a 2% chance of a refund of $ 20,000
+Expected return = 0.98 ($ 0) + 0.02 ($ 20,000) = $ 400
+This expected benefit can be compared to the premium paid. Here the fees will be higher due to sales and management costs and company profits which indicate that there is an unexpected amount of return on investment policy.
+(b)
+Here, there is a perfectly negative relationship between the benefit to a life insurance policy and the return to the person in charge of the policy. In addition, these events are not related.
+(c)
+The general tendency of people to be dangerous. From now on, they are willing to pay money to reduce the uncertainty of their future money. A life insurance policy guarantees the income of the policyholder beneficiaries when the policyholder's salary cap decreases to zero.","Portfolio: A portfolio is a set of monetary investments like stocks, bonds, commodities, cash, and coins equivalents, such as closed-cease finances and exchange traded finances. Humans commonly believe that stocks, bonds, and cash comprise the middle of a portfolio. A portfolio might also include a extensive variety of assets including real property, art, and personal investments."
+25,The risk reduction through diversification in a portfolio of two stocks _____.,decreases as the correlation between the stocks rises.,Not enough information.,increases as the correlation between the stocks declines.,Both statements are correct.,B,"The answer is
+b. Not enough information
+To conclude how a portfolio can reduce the overall risk, investors should gain an information about whether two stocks have a positive or negative correlation. A positive correlation will increase the overall risk to existing investment while a negative correlation can reduce portfolio's risk.","Diversification: Diversification is a strategic approach for risk management. This concept can be implemented for a business's portfolio and individual's investment as well. Note that, diversification cannot reduce the systematic risk."
+26,An asset mix strategy includes:,How an organization chooses to finance its working capital needs,The amount of working capital an organization keeps on hand relative to its working capital obligations,Risk greater return to lower liquidity,Coin and currency,B,"The correct answer is b. The amount of working capital an organization keeps on hand relative to its working capital obligations
+The working capital requirements of the organization refer to the money required for the day-to-day operations of the organization. The asset mix is examined to understand that the organization keeps enough liquid assets that are the requirement for financing the working capital obligations.
+The explanation for incorrect answers:
+a. How an organization chooses to finance its working capital needs
+The asset mix strategy provides the different investments of the organization. It does not evaluate the method of obtaining the working capital.
+c. Risk greater return to lower liquidity
+The asset mix strategy is used to lower the risk associated with investments.
+d. Coin and currency
+The asset mix strategy is used for portraying the investment portfolio. It does not include the coin and currency held by the organization.",Asset Mix: The asset mix is the structure of investments owned by the organization. This method divides the assets into different classes. The organizations keep diverse portfolios to reduce the risk level. This mix is used to determine the asset reward relationship of investments.
+27,Most of the beneficial effects of diversification would have been received by the time a portfolio of common stocks contains _____ stocks.,2,5,20,50,C,"Option c is the correct option
+The beneficial effects of diversification would have been received by the time a portfolio of common stocks contains 20 stocks. Because an investor can optimal diversification with 15 to 20 stocks.
+Explanation for incorrect options:
+Option a: It is an incorrect option because the optimal diversification can be 15 to 20 stocks instead of 2 stocks.
+Option b: It is an incorrect option because 5 is not the most beneficial in diversification received.
+Option d: It is an incorrect option because it was argued that 15 to 20 was the optimal diversification stocks that can give beneficial effects.","Diversification: Diversification of portfolio refers to the process of dividing investment into numbers so that involved risk to any one asset is limited. We can say that to balance risk and return in an investment portfolio, the best option is to diversify assets."
+28,"As more securities are added to a portfolio, total risk typically would be expected to fall at a decreasing rate.",True,False,,,A,"The statement 'As more securities are added to a portfolio, total risk typically would be expected to fall at a decreasing rate' is
+a. True
+as adding more securities to a portfolio is the diversification of the portfolio. Diversification reduces portfolio risk by combining a wide range of investments within a portfolio. This strategy is intended to help minimize portfolio volatility. It is used for balancing the risk of an investor's investment portfolio.",Portfolio: A portfolio is a grouping of financial investment instruments designed to maximize returns through diversification. A well-established diversified portfolio helps to achieve a risk-return portfolio allocation.
+29,For diversification to reduce risk:,the returns on the individual securities should be highly correlated,the prices of the stocks should be stable,the returns on the individual securities should be negatively correlated,one firm should offer dividends and the other should offer capital gains,C,"A. Incorrect. If returns on individual securities are highly correlated, it might increase the overall risk for the portfolio since these securities can experience a large reduction in price simultaneously.
+B. Incorrect. If the prices of the stocks are stable, the diversification strategy is not necessary.
+C. Correct.
+The negative correlation indicates that the prices of individual securities will move in opposite directions simultaneously. Hence, it helps to reduce the overall risk of a portfolio.
+D. Incorrect. Dividends and capital gains should be recognized as returns to investors. They will not reduce the potential risk on the stock.","Diversification: Diversification is an investment strategy that investors use to minimize the potential unsystematic risk of each security. Generally, an investment portfolio is an example of a diversification strategy."
+30,Diversification _____ the risks of investing in the stock market.,increases,can reduce but not eliminate,is unrelated to,eliminates,B,"The correct answer is option
+B. can reduce but not eliminate
+.
+For a portfolio, the diversification process involves having investments in different asset classes like bonds and equities. Furthermore, in each asset class, securities of different sectors and different firms within the same sector are considered.
+The total risk of a diversified portfolio cannot be eliminated. It can be bifurcated into systematic risk and unsystematic risk. Systematic risk is a market-wide risk that affects all the securities and cannot be eliminated while unsystematic risk is a firm-specific risk that can be reduced by diversification.",Portfolio: An investment portfolio is usually constructed by complying with the diversification principle. The objective behind a diversified portfolio is to maximize returns without taking incremental risks.
+31,"You own $22,500 of City Steel stock that has a beta of 3.33. You also own $39,000 of Rent-N-Co (beta = 1.78) and $20,800 of Lincoln Corporation (beta = -.82). What is the beta of your portfolio?",4.86,1.55,4.29,1.00,B,"Correct option:
+Option B
+Computation of portfolio beta:
+(A) Stocks owned by companies
+(B) Value of stocks
+(C) Stock Weights
+(D) Given beta factor
+Weighted beta (C X D)
+Company C
+$22,500
+0.273 ($22,500/ $82,300)
+3.33
+0.90
+Company R
+$39,000
+0.473 ($39,000/ $82,300)
+1.78
+0.84
+Company L
+$20,800
+0.252 ($20,800/ $82,300)
+(0.82)
+(0.20)
+Total values
+$82,300
+1.54
+Hence, the beta of portfolio is 1.54, and the nearest factor among the options is 1.55.","Portfolio Investment: Making investments in a variety of financial securities to earn returns in future periods is called portfolio investment. The portfolio encompasses many securities like stock, mutual funds, real estate assets, etc. It enables an investor to safeguard their funds in the form of diversified investments."
+32,Diversification reduces:,systematic risk,unsystematic risk,market risk,purchasing power risk,B,"The correct answer is option
+B. unsystematic risk
+.
+The diversification of a portfolio reduces the unsystematic risk, which represents the risk associated with a given firm. The systematic risk or the market risk is a risk that affects all the securities in a market and hence, cannot be diversified. The purchasing power risk represents the inflation risk due to which the purchasing power of individuals decreases.",Diversification: The concept of diversification is used to reduce the risk of a portfolio without affecting the expected returns. It is usually done by having securities from various sectors and various firms in a given sector.
+33,What is the purpose of diversification?,Increase the risk of your portfolio.,Lower the overall risk of your portfolio.,Maximize possible returns.,None of the above.,B,"The correct option is
+(B.) Lower the overall risk of your portfolio.
+A primary objective of creating a portfolio is to minimize the overall risk of the investment. Every financial asset has its own risks. If we invest all our money in only one asset then we will be completely exposed to its risk. However, if we diversify our investments into various instruments. Our exposure will spread across the instruments and might reduce the overall risk of the portfolio.
+As the main motive for creating a portfolio is to reduce the risk, options (A) and (C) are incorrect.","Portfolio: A portfolio is a combination of financial assets in a specified proportion. The name is obtained from the case used to store paper. Just like a tangible portfolio stores papers, financial portfolio stores financial assets."
+34,Which one of the following risks is irrelevant to a well-diversified investor?,unsystematic risk,nondiversifiable risk,systematic risk,market risk,A,"A. Correct. A well-diversified investor can avoid the unsystematic risk of each underlying asset or security. Thus, this risk is irrelevant to a well-diversified investor.
+B, C, D. Incorrect. Non-diversifiable risk, systematic risk, and market risk are indifferent. This risk happens to all business sectors in the economy, which is not avoidable. Alternatively, a diversification strategy cannot eliminate systematic risk.","Diversification: Diversification refers to an investment strategy in that an investor will split the available fund into different investment categories. With that being said, an investor can create an investment portfolio with short-term and long-term assets from different business industries."
+35,A corporation would not be successfully trading on equity if it gathered funds by:,issuing common stock.,issuing preferred stock.,issuing notes.,issuing bonds.,A,"The correct answer is
+a. issuing common stock.
+An issue of common stock by a company will allow the company to trade on equity. Therefore, when a company issues common stock, it cannot successfully trade on equity. Instead, it can use debt and other sources of financing to trade, not on equity.",Stock Investment: Stock investment is an investment type that allows an investor to take ownership of the company and provides authority on the board of members to have their say for any specific concern. It also makes the owner responsible for making the decision.
+36,"The __________ the returns on two securities move together, the __________ benefit there is from diversification.",less; more,less; less,more; more,more; greater,A,"The correct option is
+(A) less; more.
+Diversification means dividing investment amounts into different types and classes of assets to bring down the overall risk. The benefit of diversification is that if the return from one security is low, the overall impact on the portfolio is also less. The advantage of diversification will increase when the returns on two securities move in different directions.",Diversification: Diversification means the distribution of investment amounts into different types and classes of assets to bring down the overall risk. Investors diversify their portfolio to bring down the overall risk of the investments.
+37,7. The capital allocation line is also the_.,investment opportunity set formed with a risky asset and a risk-free asset,investment opportunity set formed with two risky assets,line on which lie all portfolios that offer the same utility to a particular investor,line on which lie all portfolios with the same expected rate of return and different,A,"The correct answer is
+A) a set of investment opportunities formed with a risky asset and a risk-free asset
+.
+A graphical depiction of the investment opportunity set made up of a risky asset and a risk-free asset is known as the capital allocation line. It displays the combinations of risky and risk-free assets that can provide the best-anticipated yield for a specific level of risk (standard deviation). The slope of the capital allocation line depicts the additional return known as the total risk premium, which the investors demand for taking on additional risk.
+The explanation of the incorrect options is as follows:
+B) The capital allocation line does not comprise two risky assets. The investment opportunity set made up of a risky asset and a risk-free asset is particularly represented by the capital allocation line. The capital allocation line displays the efficient frontier, which is the collection of assets, and when combined, it provides the greatest anticipated return for a particular degree of risk.
+C) The portfolios represented by the capital allocation line do not serve the same utility for a given investor. A measure of an investor's individual choice or satisfaction with various degrees of risk and yield is called utility. The capital allocation line, which does not account for the preferences of individual investors, is a graphical depiction of the risk-return tradeoff for portfolios that include both risky and risk-free assets.
+D) The capital allocation line that depicts the efficient frontier, which is the collection of portfolios, merges risky and risk-free assets and offers the highest expected return for a given amount of risk. The capital distribution line shows the ideal mix of portfolios with various expected returns and a standard deviation to gain the appropriate risk-return tradeoff.","Portfolio: A portfolio is a combination of financial assets, stocks, securities, or investments that a person, group, or a company owns. A portfolio is created for achieving specific financial goals or objectives. The primary goal of a portfolio is to optimize the trade-off between risk and return by spreading assets across various sectors, regions, and asset classes to minimize risk and possibly increase returns."
+38,Which of the following statements is most correct concerning diversification and risk?,Risk-averse investors often choose companies from different industries for their portfolios because the correlation of returns is less than if all the companies came from the same industry.,Risk-averse investors often select portfolios that include only companies from the same industry group because the familiarity reduces the risk.,Only wealthy investors can diversify their portfolios because a portfolio must contain at least 50 stocks to gain the benefits of diversification.,Proper diversification generally results in the elimination of risk.,A,"The best way to avoid risk through diversification is by buying companies from different industries, so that their prices do not move similarly in response to a particular event.   For example, let's say you are an investor and buy stock in 5 companies, all of which are citrus farmers from Florida.    If a deep freeze were to effect Florida and wipe out a large portion of the citrus crops, then it is likely that all 5 stock prices would fall in response.   However, if only one of your 5 stocks was a citrus farmer and the others were in different industries, then it is likely that a deep freeze in Florida would only effect that one stock, thereby lessening the risk of your overall portfolio.
+The answer is:
+A) Risk-averse investors often choose companies from different industries for their portfolios because the correlation of returns is less than if all the companies came from the same industry.
+The other answers are incorrect due to the following:
+B) Risk-averse investors often select portfolios that include only companies from the same industry group because the familiarity reduces the risk.
+-- this is not the case; choosing companies from the same industry group actually increases the risk, as seen in the citrus farmer example above.
+C) Only wealthy investors can diversify their portfolios because a portfolio must contain at least 50 stocks to gain the benefits of diversification.
+- this is not true; even small investors can diversify their portfolio with well less than 50 stocks.
+D) Proper diversification generally results in the elimination of risk.
+- that is false; risk can never entirely eliminated.",Investment Diversification and Risk Investment diversification involves choosing a mix of companies in different industries and/or countries as well as different types of financial instruments.   The goal of diversification is to maximize returns and to reduce the risk of major losses by holding a variety of investments that would react differently to the same event.
+39,"Jamal has a portfolio value of 25,000,000 and what to protect it against market decline using the S&P 500 index. The value of the S&P 500 is at 2578 with a portfolio beta of 1.35.",How many contracts does Jamal need to protect himself against this market decline?,"Assume that two months later his portfolio has a value of 23,500,00 and the stock index is priced at 2680. Calculate the profit/loss on his equity position.","Say two months later the portfolio is valued at 25,500,000 and the S&P is at 2500. Calculate the profit/loss on the stock index futures position",Calculate the overall profit in dollars and Holding Period Return in percent.,A,"To hedge stock portfolios using stock index futures, we use the following formula to calculate the number of contracts:
+Number of contracts = Portfolio beta x (Value of portfolio/Value of 1 S&P 500 Index)
+_a.
+No. of contracts = 1.35 x (25,000,000 / 2,578)
+= 13,091.5 or 13,092
+b.
+No. of contracts = 1.35 x (23,500,000 / 2,680)
+= 11,837.7 or 11,838
+Jamal needs 13,092 contracts to protect himself against the market decline. Two months later, his number of contract calculations stands at 11,838,
+S&P 500 futures contract has a minimum contract value of $50 times the value of index
+Therefore, loss on his equity position = (13,092 - 11,838) x $50
+= $62,700
+c.
+No. of contracts = 1.35 x (25,500,000 / 2,500)
+= 13,770
+Jamal needs 13,092 contracts to protect himself against the market decline. If two months later, his number of contract calculations stands at 13,770,
+Profit on his equity position = (13,770 - 13,092) x $50
+= $33,900
+d.
+Overall profit in dollars is $33,900 and HPP = $33,900/$25,000,000
+= 0.001356 or 0.1356%","Index Futures: Index futures are futures contracts that can be bought today by a trader and settle at a future date as agreed upon at the time of purchase. Index futures such as S&P 500, Nasdaq-100, Dow Jones are equity-based and are used by traders to bet on its price direction. Index futures are also used by investors and portfolio managers to hedge their stock portfolios against a probable loss."
+40,"You own a $38,000 portfolio that is invested in risk-free security and Stock A. The beta of Stock A is 2.77 and the portfolio beta is 1.28. What is the amount of the investment in Stock A?","$14,920","$17,560","$18,380","$20,120",B,"The answer is
+b. $17.560
+Summary:
+Portfolio: Risk-free asset and Stock A.
+Beta of A (bA) = 2.77
+Beta of portfolio (bP) = 1.28
+Beta of risk-free asset (bRF) = 0
+Weight of Stock A = wA
+Weight of risk-free asset = wRF
+Determine the weight of Stock A:
+{eq}bP = wA \times bA + wRF \times bRF {/eq}
+{eq}bP = wA \times bA + (1 - wA) \times bRF {/eq}
+{eq}1.28 = wA \times 2.77 + (1 - wA) \times 0 {/eq}
+{eq}wA = \displaystyle\frac{1.28}{2.77} {/eq}
+{eq}wA = 46.21\% {/eq}
+Determine the amount of the investment in Stock A:
+Value of Stock A = Value of portfolio x Weight of Stock A
+Value of Stock A = $38,000 x 46.21%
+Value of Stock A = $17,560","Investment Portfolio: An investment portfolio consists of several underlying securities that reduce the negative impact of the unsystematic risk. Alternatively, an investment portfolio is a strategy of diversification."
+41,Asset allocation refers to _____.,the allocation of the investment portfolio across broad asset classes,the analysis of the value of securities,the choice of specific assets within each asset class,None of these options,A,"Asset allocation refers to
+a) the allocation of the investment portfolio across broad asset classes
+.
+This is an investment strategy where people divide their investment portfolio among various categories for investment minimization. Strategies include dynamic asset allocation, insured, tactical, integrated, and constant-weighting allocation, among others. It is significant since it assists shareholders in reducing risk through diversification.","Assets: These are defined as the commodities of value owned by a company that benefits from them. They include office equipment, intellectual property, cash, stock, or buildings. They are also characterized by numerous features such as income determination, future economic benefits, determination of financial position, and control of a particular enterprise, among other features."
+42,Asset allocation is least likely to help:,beat inflation,reduce risk,significantly increase expected return,gain exposure to market risk premiums,A,"The answer is
+a. beat inflation
+a. Correct. The asset allocation aims to diversify the average risk of the entire portfolio of all assets, which is a nominal measure of rate of return. Hence, it does not account the impact of the inflation.
+b. Incorrect. The asset allocation is practiced to lower the risk of each single asset.
+c. Incorrect. An efficient asset allocation can help an investor to achieve a higher expected rate of return.
+d. Incorrect. A combination of assets with different volatility can beat both systematic and unsystematic risks.","Asset Allocation: The asset allocation is a practice of a diversification strategy, in which an investor will establish an investment portfolio including several assets. Usually, investors can acquire both physical assets and financial assets."
+43,Diversifying among stocks based in countries outside the United States:,makes your portfolio less vulnerable to conditions in the United States.,is too expensive to use as a means of diversification.,makes your portfolio's returns less volatile because foreign stocks are less volatile than U.S. stocks.,is too risky for individual investors to consider.,A,"If investors include stocks of foreign companies in their portfolios, they guard against the risk of simultaneous declines in their stocks based on macroeconomic factors in the US economy.   Therefore, the answer is:
+a. makes your portfolio less vulnerable to conditions in the United States.
+The other answers do not address the reasons for multinational diversification.","Stock Diversification Diversification in stock investments is the practice of buying stock in a wide range of different companies, markets, and/or locations.   This helps to lower the risk of dramatic swings in portfolio value due to a concentration in one type of investment."
+44,The security market line defines expected returns for diversified portfolios.,True,False,,,A,"The correct answer is option a.
+True
+The Securities Market Line (SML), an indicator of an asset's sensitivity to market risk, shows the association between the expected return of securities or the portfolio and its beta.
+The SML is predicated on the notion that investors have well-diversified portfolios, i.e., various assets with imperfectly correlated holdings. Investors that maintain diversified portfolios might lessen their exposure to unsystematic risk, which can be reduced through diversification and is the risk particular to individual assets.
+Therefore, the SML defines the expected returns for diversified portfolios rather than individual assets. It displays the expected return that investors can expect to receive in exchange for accepting a specific amount of systematic risk, which is a risk that cannot be mitigated by diversification. By comparing the expected return of a security or portfolio with the required return according to its level of risk, investors can determine whether the asset is undervalued or overvalued and make informed investment decisions.",Diversified Portfolio: A diversified portfolio includes different types of stocks available in the market to reduce the risk of stock price uncertainty and maximize investment earnings. It helps reduce market volatility.
+45,True or false? Diversifying among different kinds of assets is called asset allocation.,True,False,,,A,"The correct answer is true.
+Asset allocation is an example of investment strategy. Under asset allocation strategy the investment is diversified into different classes of assets instead of one. The different classes of assets are mainly equities, mutual funds, fixed assets or cash etc. This is done to balance the risk and associated reward by spreading investment across different assets with different rate of risk and return or taxes.
+Therefore the statement is true.",Investments: In accounting terms the investment refers to the amount utilized to purchase the securities of other entities or to purchase fixed assets. Generally the purpose of investment is to generate income or yield return from the investment asset.
+46,"If you own 500 shares of Company A at $19.25, 800 shares of Company B at $42.22, and 300 shares of Company C at $28.44, what are the portfolio weights of each stock?","Company A 16.48 percent, Company B 62.15 percent, Company C 21.37 percent.","Company A 22.61 percent, Company B 63.48 percent, Company C 13.91 percent.","Company A 21.42 percent, Company B 58.32 percent, Company C 19.26 percent.","Company A 18.53 percent, Company B 65.04 percent, Company C 16.43 percent.",D,"The correct option is
+d. Company A 18.53 percent, Company B 65.04 percent, Company C 16.43 percent
+.
+Given Data:
+Shares of company A = 500 shares
+Stock price of company A = $19.25
+Shares of company B = 800 shares
+Stock price of company B = $42.22
+Shares of company C = 300 shares
+Stock price of company C = $28.44
+The portfolio weight is computed by dividing each stock's market value/market capitalization by the individual's total market value. The obtained fraction is multiplied by 100 to obtain the percentage portfolio weight.
+The market value of each stock illustrates the product of stock price and shares. That is,
+{eq}\rm Market\,value = Share \times Stock\,price {/eq}
+Therefore, the market value of companies A, B, and C are computed as:
+Company A:
+{eq}\begin{align*} \rm Market\,value &= \rm 500\, \times 19.25\\ &= 9625 \end{align*} {/eq}
+Company B:
+{eq}\begin{align*} \rm Market\,value &= \rm 800\, \times 42.22\\ &= 33776 \end{align*} {/eq}
+Company C
+{eq}\begin{align*} \rm Market\,value &= \rm 300\, \times 28.44\\ &= 8532 \end{align*} {/eq}
+Therefore, the total market value owned by the individual is:
+{eq}\begin{align*} \rm Total\,market\,value &= \rm 9625 + 33776 + 8532\\ &= 51933 \end{align*} {/eq}
+Then, the portfolio weight is computed as follows:
+Company A
+The portfolio weight of company A is:
+{eq}\begin{align*} \rm Portfolio\,weight &= \rm \dfrac{{Market\,value\,of\,A}}{{Total\,market\,value}} \times 100\\ &= \rm \dfrac{{9625}}{{51933}} \times 100\\ &= \rm 18.53\% \end{align*} {/eq}
+Company B
+The portfolio weight of company B is:
+{eq}\begin{align*} \rm Portfolio\,weight &= \rm \dfrac{{Market\,value\,of\,B}}{{Total\,market\,value}} \times 100\\ &= \rm \dfrac{{33776}}{{51933}} \times 100\\ &= \rm 65.04\% \end{align*} {/eq}
+Company C
+The portfolio weight of company C is:
+{eq}\begin{align*} \rm Portfolio\,weight &= \rm \dfrac{{Market\,value\,of\,C}}{{Total\,market\,value}} \times 100\\ &= \rm \dfrac{{8532}}{{51933}} \times 100\\ &= \rm 16.43\% \end{align*} {/eq}
+Therefore, the portfolio weight of each company is:
+Company A = 18.53 %
+Company B = 65.04 %
+Company C = 16.43 %
+The options a., b., and c. are incorrect because the calculated portfolio weights are different from the percentage values given in these options.",Portfolio Weight: The different investment/financial assets in the form of stock or bonds owned by an individual define their portfolio investments. Portfolio weight is the percentage/fraction of a particular holding with respect to total portfolio investment.
+47,All of the following portfolio criteria used in determining which securities to include in a portfolio are concerned with risk EXCEPT:,rate of return,default risk,marketability,maturity date,A,"The answer is a. rate of return.  This criterion is not directly related to risk, like the other items.  However, return is indirectly related to risk, as higher returns are associated with a higher level of risk and lower returns are associated with a lower level of risk.",Investment Portfolio: An investment portfolio is an assortment of investable assets designed to meet the objectives of an investor.  The composition of the portfolio will depend largely on the risk/return profile of the investor.
+48,One way to reduce financial risk is __________.,to only buy stock in a major company,to only buy bonds in a major company,"to diversify in a variety of assets, both financial and physical",to diversify in a number of banks,C,"Answer
+c. to diversify in a variety of assets, both financial and physical
+Explanation
+One way to reduce financial risk is to diversify in a variety of assets, both financial and physical. Diversification of risk is the strategy employed by investors to manage risk. Diversification is achieved by creating a portfolio that includes investing in different assets such as stock, bonds, and commodities. Creating a portfolio will require one to invest in assets with different risk levels.","Financial risk: Investors seek alternative opportunities to invest their funds and expect to earn economic returns in future periods. A key component in investment analysis is the risk-return tradeoff. Risk is the uncertainty associated with expected returns and normally for an investment with high risk, investors will demand a higher return. One type of risk is the financial risk which represents the probability of defaulting on payments when it is due."
+49,Which of the following workers is most likely to be asked to post a performance bond?,car salesman,basketball coach,fireman,armored car guard,A,"The correct answer is option (a) car, salesman
+A car salesman is likely to be asked for a performance bond because his job's nature is highly risky. Selling a car at times needs the trust from the employer to freely move around with job cars while advertising them and when doing delivery. This is because a salesman can vanish with an employer's or a client's car perpetuating a considerable loss. Also, a client pays for a car while in the showroom if the salesman has a performance bond. It ensures that the car will be delivered after paying. A car salesman needs a performance bond to execute duties according to the contract to earn the trust of both the employer and clients. The salesman should also avoid any losses to the employer due to carelessness.","Performance Bond: A performance bond is a bond type issued in a contract to one party to act as a guarantee against the other party's failure to meet the requirements specified in the contract. It is prevalent to sellers who must issue performance bonds to assure the buyer if the item on sale is not delivered. An insurance company or a bank issues it and is also known as a contract bond. It was initiated by the Miller Act, which stipulated that it covers all public work of $100 000 and above."
+50,"If your stock portfolio consists of 100 shares of Facebook, 100 shares of Twitter, and 100 shares of Google, which of the following statements would be true of your portfolio?",It is well-diversified by industry.,It is well-diversified by type of asset.,It has poor diversification.,It has more diversification than is necessary.,C,"Correct Answer: c
+Here, the portfolio consists of shares of various companies from the digital sector. All these companies are related to each other regarding their users and services. So, the portfolio consists of firms in the same industry. In this case, the diversification is poor as the companies are related, and various factors will influence them similarly.
+An explanation for incorrect options:
+Option a: This diversification does not represent well-diversified companies in the industry.
+Option b: No, they are not well-diversified even by different assets.
+Option d: The effective degree of diversification is less here.",Poor Diversification: A diversification strategy having higher costs than benefits from reducing the portfolio volatility is known as a poor diversification strategy. A poor diversification strategy never provides the hedging benefit to the investor.
+51,Which of the following would not be a good method of asset allocation?,restrict your portfolio to stocks,include bonds,include real estate,include mutual funds,A,"Answer
+a. restrict your portfolio to stocks.
+Asset allocation refers to determining the appropriate mix of different type of assets ( cash, bonds, stock etc) in the portfolio.
+Investing the funds only in stocks will make the portfolio very risky, because stocks are riskier than other assets like bonds and other fixed income securities.
+Including bonds, including real estate and including mutual funds will be a good method of asset allocation.
+In order to diversify risk, a portfolio should include all types of assets.","Asset Allocation Asset allocation is the process of allocating funds across different types of assets like cash, stock, bonds, mutual funds, real estate etc with the objective of balancing risk and return."
+52,"a. If you buy 100 shares of IBM stock, to what are you entitled?",,What is the most money you can make on this investment over the next year?,"If you pay $50 per share, what is the most money you could lose over the year?",,A,"a.
+If you buy 100 shares of IBM stock, you are entitled to any cash, stock, and any other dividends the company pays. You are also entitled to receive additional shares when the company declares a stock split and to vote on shareholders' meetings, as well as to proper notice of these meetings. Finally, you are entitled to receive the proceeds if you decide to sell the stock.
+b.
+The money you can make on this investment over the next year is not limited to any specific amount. You earn returns in two ways; dividend payments and an increase in the market value of the shares. An investor cannot predict the dividends that the company will declare because that depends on the net income and cash position of the company. Also, the share price can shoot through the roof, and this is money the investor makes because their asset value increases.
+c.
+As an investor in the stock of a public company, the most you can lose is the amount you have invested. Stockholders are not jointly and severally liable for the actions and debts of the company in the way partners in a partnership are.",Investing in Stocks: Large corporations trade their stock on public stock exchanges. This allows investors to invest in corporations to generate short-term gains or long-term returns. Most individuals indirectly invest in stocks through pension plans even if they do not actively trade on exchanges.
+53,The value of any investment is found by computing the:,present value of all future sales,present value of all future liabilities,future value of all future expenses,present value of all future cash flows,D,"The correct answer is Option D.
+When investors invest their money in any investment, they calculate its value. They expect their investment to earn income in addition to value appreciation. Future cash flows from the investment play an important role in determining its value. The current worth of all the future cash flows is computed to find the value of the investment.
+Explanation of Incorrect options:
+Option A: The present value of all future sales is not computed to determine any investment's value.
+Option B: Future liabilities are not considered for calculating the value of any investment by discounting them to their present value.
+Option C: Future value of all future expenditures is an incorrect measurement of the investment value.","Investment: When an individual or any organization purchases any asset to earn a certain income, such an asset is known as an investment. Its value can increase or decrease over a specified period."

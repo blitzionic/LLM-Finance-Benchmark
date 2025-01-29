@@ -1,0 +1,716 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Which of the following is important when evaluating long-term investments?,Investments must earn a reasonable rate of return.,Employees are able to determine and propose capital equipment for their divisions or departments.,Proposals should match long-term goals.,All of the above.,D,"Explanation:
+Correct Answer: d. All of the above.
+As long-term investments are opted by the management to earn profits and income in long run, they generate higher returns associated with high risk. These investments include investments in assets that are used by the company in the long term. Hence, management also recommends investing in capital assets. As the main goal of long-term investments is to choose those that have a longer life, the proposals chosen should be matched with long-term goals.",Investments: When a person uses the money to invest in some kind of asset or other sources with an expectation of generating profit or income is referred to as an investment. Most of the investments are purchased for long-term use to capitalize on long-term profits.
+2,"The APR factors in the effects of all of the following expenses, except:",Hazard insurance premium,Processing fee,Origination fee,Mortgage insurance premium,A,"The correct answers are as follows:
+A. Hazard insurance premium
+D. Mortgage insurance premium
+Neither of these insurance costs pertain to the financing cost of a loan.",APR: APR is short for annual percentage rate.  It is an annualized cost of financing that reflects the actual interest rate on a loan plus any related processing or loan handling fees.
+3,"Find the interest paid on a loan of $47, 970 at 10% annual simple interest for 1.3 years.","$3,282.16","$6,236.10","$5,756.40","$11,033.10",B,"The correct answer is
+b. $6,236.10
+.
+Simple interest computation is straight, as there is no interest on interest calculation. We have the following data to determine the total interest on the investment:
+Loan amount, P = $47,970
+Time, T = 1.3 Years
+Interest rate, R = 10% per annum
+Let's use the formula below by substituting the components above:
+{eq}\text{Simple interest} = \dfrac{\text{P × R × T}}{100} = \dfrac{\$47,970 × 10 × 1.3 }{100} = \$6,236.10 {/eq}",Interest Computation: The interest rate is usually an annualized percentage charged on the face value. Interest can be in the form of simple or compound interest based on the nature of the investment and other factors. Simple interest is easy to calculate compared to compound interest.
+4,Gerold invested {eq}\$119 {/eq} in an account that pays 6 percent simple interest. How much money will he have at the end of 4 years?,{eq}\$147.56 {/eq}.,{eq}\$153.46 {/eq}.,{eq}\$136.85 {/eq}.,{eq}\$140.42 {/eq}.,A,"The correct option is
+option a. $147.56.
+Simple interest:
+Simple interest can be calculated by multiplying the principal amount, rate of return, and number of years.
+Given information:
+Principal amount = $119
+Rate of return = 6%
+Investment horizon = 4 years
+Step 1. Calculation of the interest amount on investment:
+{eq}\begin{aligned} \text{Amount of interest } &=\text{ Prinicipal}\times \text{Rate}\times \text{ Number of years} \\ &=\$119\times 6\%\times 4 \\ &=\$28.56 \end{aligned} {/eq}
+Step2. Calculation of the future value of investment after 4 years:
+{eq}\begin{aligned} \text{Future value of investment}&=\text{ Principal amount}+\text{Interest amount} \\ &=\text{ }\!\!\$\!\!\text{ 119+28}\text{.56} \\ &=\text{ }\!\!\$\!\!\text{ 147}\text{.56} \end{aligned} {/eq}
+Hence, the future value of the investment after 4 years will be $147.56.","Required Rate: Required rate can be defined as the rate at which an individual would like to borrow and lend money after adjusting for inflation, risk-free rate, and credit risk. It is the minimum rate of return that investors are willing to accept. If the rate goes below this value, an investor should reject the investment."
+5,"The interest charged by the bank, at the rate of 9%, on a 90-day, discounted note payable for $100,000 is:","$9,000","$2,250",$750,"$1,000",B,"The correct answer is option
+b) $2,250.
+To answer this problem, we must use the concept of computing interest. Interest is computed based in the following formula:
+Based on the above problem, the following are the significant details.
+Interest Rate = 9%;
+Principal = $100,000;
+Time = 90/360;
+Interest = Principal x Interest Rate x Time
+Interest = $100,000 x 9% x  90/360
+Interest = $2,250","Simple Interest: In business and finance, the simple interest is the most basic way of calculating interest income/expense. It is the very general way of charging interest. Accordingly, simple interest is related to the cost of borrowing money."
+6,"Mike Brown borrowed $20,000 at an annual interest rate of 7% and paid off the loan, principal and interest after several years with a $30,000 check. The number of years he has had the money is _____.",4.27B) 5.99C) 6.51D) 7.04,,,,D,"Given Data
+The principal amount is {eq}p = \$ 20,000
+
+{/eq}, rate {eq}r = 7\%
+
+{/eq}, and simple interest
+{eq}\begin{align*}
+
+S.I &= \$ 30,000 - \$ 20,000\\
+
+&= \$ 10,000
+
+\end{align*}
+
+{/eq}
+Use the formula of the simple interest as given below,
+{eq}\begin{align*}
+
+S.I &= p \times r \times t\\
+
+10,000 &= \dfrac{{20,000 \times 7 \times t}}{{100}}\\
+
+t &= \dfrac{{10,000}}{{1400}}\\
+
+t &= \dfrac{{100}}{{14}}\\
+
+t &= 7.14\;{\rm{years}}
+
+\end{align*}
+
+{/eq}
+Thus, option
+(D)
+is correct.","Simple Interest: In mathematics, simple interest is the method to calculate the interest on the principal amount. The interest may be levied annually, half-yearly or quarterly. In simple words, we give some more money which we borrowed, that money is called interest. The formula of calculating the simple interest is given below, {eq}S.I = p \times r \times t
+
+{/eq} where, p=principal amount r=rate of the interest t=time"
+7,"If 100 treated patients live 0.2 years longer than 100 untreated patients, this represents",0.2 life years.,2 life years.,20 life years.,500 life years.,C,"Option c. 20 life years is correct
+Life years = Treated patients * Extra life years
+Life years = 100 * 0.2
+Life years = 20","Compound interest: Compound interest and simple interest have a positive relationship. It means as simple interest rises, the compound interest rises and as simple interest falls, the compound interest falls."
+8,The market interest rate is _____ than the _____ rate when the bond price is _____ its face value.,greater; discount; above,greater; coupon; below,greater; coupon; above,greater; perpetuity; above,B,"The correct answer is (b) - Greater; Coupon; below.
+The sequence of Greater, Coupon and below between the interest rates and bonds is due to the following reasons. Firstly, the market rate is greater than prices attached to bonds since as the interest rate decreases, the bonds' prices also decrease. Secondly, the bonds' price is at par value when market interest rates equal the bond's coupon rate. As a result, if the rate of the coupon is below the rates of the market interest, it implies that the prices will be below the par value.","Market Interest: Market Interest refers to the dominant rate of interest that are accessible on cash deposits. Various factors that affect market interest includes inflow and outflow of funds in an economy, deposit sizes, and the duration of deposits. On the other hand, bonds refer to an instrument of a fixed income representing a loan given to a borrower from an investor (usually government or corporate)."
+9,"What is the future value of $10,000 on deposit for 5 years at 6% simple interest?","$7,472.58","$10,303.62","$13,000.00","$13,382.26",C,"Correct Answer: Option c. $13,000.00
+Explanation:
+The first step is to determine the simple interest for 5 years:
+Simple interest for 5 years = Principal amount × Time × Interest rate
+Simple interest for 5 years = $10,000 × 5 × 6%
+Simple interest for 5 years = $3,000
+The second step is to determine the future value:
+Future value = Principal amount + Simple interest for 5 years
+Future value = $10,000 + $3,000
+Future value = $13,000","Simple Interest: Investment interest can be provided in two ways: simple interest and compound interest. Simple interest is easy to calculate as it does not use compounding, and the interest is the same for each period."
+10,"An investment of $100,000 five years ago has accumulated to $200,000 now. The simple interest earned on the investment is equal to:",20.0%,13.8%,14.4%,8.0%,A,"The correct option is option A. 20%
+To solve the problem posed, we will make use of the following simple interest formula:
+$$A = P(1+rt) $$
+In this formula,
+P
+is the initial amount invested in an account,
+A
+is the account balance after
+t
+years, and
+r
+is the simple interest rate in decimal form.
+The information provided in the problem helps us to define the variables in this formula as follows:
+Initial amount invested (
+P
+)= $100,000
+Time (
+t
+) = 5 years
+Account balance after 5 years (
+A
+) = $200,000
+Interest rate in decimal form (
+r
+) = ?
+Plugging these values into our simple interest formula, we have:
+$$\$200,000 = \$100,000(1+5r) $$
+We can solve this equation for
+r
+in order to find the interest rate in decimal form. This goes as follows:
+$$\begin{align} \$200,000 &= \$100,000(1+5r)\\[0.3cm] \dfrac{\$200,000}{\$100,000} &= \dfrac{ \$100,000(1+5r)}{\$100,000} &\left[\text{Divide both sides by } \$100,000\right]\\[0.3cm] 2 &= 1 + 5r &\left[\text{Simplify}\right]\\[0.3cm] 2 - 1 &= 1 + 5r - 1 &\left[\text{Subtract }1 \text{ from both sides}\right]\\[0.3cm] 1 & = 5r &\left[\text{Simplify}\right]\\[0.3cm] \dfrac{1}{5} &= \dfrac{5r}{5} &\left[\text{Divide both sides by }5\right]\\[0.3cm] 0.2&=r &\left[\text{Simplify}\right] \end{align} $$
+We get
+r
+= 0.2, so this is our interest rate in decimal form. Converting this to percentage form by multiplying it by 100% gives:
+0.2 × 100% = 20%
+Thus,
+the correct interest rate is option A. 20%
+.","Simple Interest: Simple interest is a type of interest that is very simple to calculate, because the interest amount is calculated only on the invested amount and remains the same throughout the investment period. This makes this type of interest relatively simple compared to other types of interest, such as compound interest or variable rate interest."
+11,Thomas invests $121 in an account that pays 6 percent simple interest. How much money will Thomas have at the end of 4 years?,$144.11,$150.04,$157.30,$142.78,B,"Correct Answer:
+Option b. $150.04.
+We should first determine the simple interest for 4 years:
+Simple interest for 4 years = Investment amount × Interest rate × Number of years
+Simple interest for 4 years = $121 × 6% × 4 years
+Simple interest for 4 years = $29.04
+The next step is to determine the amount Thomas will have at the end of 4 years:
+Amount at the end of 4 years = Investment amount + Simple interest for 4 years
+Amount at the end of 4 years = $121 + $29.04
+Amount at the end of 4 years = $150.04","Simple Interest: To determine the simple interest, we should compute the product of the principal amount, interest rate, and period. An investment with simple interest means that interest is calculated on the principal amount each year, and no interest is computed on the accumulated interest."
+12,An investment earning simple interest is preferred over an investment earning compound interest because the simplicity adds value.,True,False,,,B,"The correct option is false.
+An investment earning simple interest is not preferred over an investment earning compound interest. Compound interest over simple interest is preferable because it allows funds to grow faster than the simple interest rate. Interest earned in the compound interest formula is more because the interest is calculated at a larger amount than simple interest. In compound interest, the interest is calculated on the principal plus interest amount.",Simple interest: Simple interest is the compensation paid to the investor by the borrower on the borrowed money. It is calculated by multiplying the product with the interest rate and the time money is borrowed.
+13,"If the interest rate increases, which of the following will occur?",The investment function will shift rightward.,The investment function will shift leftward.,The quantity of planned investment will decrease.,The quantity of planned investment will increase.,C,"The correct option is
+C. The quantity of planned investment will decrease
+.
+From the given graph, it can be depicted that there is an inverse relationship between the interest rate and the planned investment level. So, as the interest rate increases, the quantity of planned investment will decline.",Interest Rate: The term interest rate in economics refers to the rate that a lender will charge from the borrower over the principal sum of the loan taken. It acts as a reward for lenders to give money or asset to the borrower.
+14,Your credit card company charges you 1.17 percent per month. What is the annual percentage rate on your account?,10.83 percent,9.89 percent,14.04 percent,9.66 percent,C,"The answer is
+c. 14.04%
+Given information:
+Monthly interest rate = 1.17%
+Annual percentage rate = APR
+The annual percentage rate will not account the effect of the compounding interest, which is calculated as below:
+APR = Monthly interest rate x Number of months in a year
+APR = 1.17% x 12
+APR = 14.04%","Annual Percentage Rate: The annual percentage rate refers to the overall financing costs regarding a borrowing within a year. Alternatively, this is the introduced interest rate or the nominal interest rate for that loan."
+15,"Simple interest on a $15,000, 10%, 20-month note payable would total:",$0,"$1,500","$2,500","$3,000",C,"Given Data
+The total principal amount is {eq}P = \$ 15000
+
+{/eq}.
+The annual interest rate {eq}r = 10\%
+
+{/eq}.
+The given time is {eq}t = 20\;{\rm{month}} = \left( {\dfrac{{20}}{{12}}} \right)\;{\rm{years}}
+
+{/eq}.
+The expression for the total interest amount for the given principal amount is,
+{eq}I = \dfrac{{Prt}}{{100}}
+
+{/eq}
+Substituting the known values in the above expression.
+{eq}\begin{align*}
+
+I &= \dfrac{{\ 15000 \times 10\%  \times \left( {\dfrac{{20}}{{12}}} \right)\;{\rm{years}}}}{{100}}\\[0.3cm]
+
+&= \$ 2500
+
+\end{align*}
+
+{/eq}
+Thus, option
+(c)
+is correct.","Simple interest: Simple interest is a technique used to calculate the interest on the principal amount (loan amount or investment amount). The following formula helps us to find the interest amount {eq}(I)
+
+{/eq} for a given principal amount {eq}(P)
+
+{/eq}. {eq}I = \dfrac{{P \times r \times t}}{{100}}
+
+{/eq} Here, {eq}r
+
+{/eq} is the annual interest rate, {eq}t
+
+{/eq} is the time in years."
+16,The length of time required for money to triple in value at a simple interest rate of 8% per year is equal to:,12.5 years,50 years,25 years,38 years,C,"The correct option is
+(c) 25 years.
+Under simple interest,
+{eq}\text{Interest} = \text{Initial Amount} \times \text{Interest Rate} \times \text{Number of years} {/eq}
+For the money to be tripled in value, the interest earned should be twice of the initial amount.
+Let the initial amount be {eq}x {/eq}
+So, the interest earned will be {eq}2x {/eq}
+Putting values, we get -
+{eq}\text{Interest} = \text{Initial Amount} \times \text{Interest Rate} \times \text{Number of years}\\ 2x = x \times 8\% \times \text{Number of years}\\ 2x = x \times 0.08 \times \text{Number of years}\\ \text{Number of years} = \dfrac{2x}{x \times 0.08}\\ \text{Number of years} = \text{25 years} {/eq}",Simple Interest: Simple interest is the interest that does not earn interest on itself. It is rarely used in financial mathematics. The basic formula for simple interest is - {eq}\text{Simple Interest} = \text{Principal Amount} \times \text{Interest Rate} \times \text{Number of years} {/eq}
+17,"You invest $1,000 for 3 years at 6% per annum compounding quarterly. What is the equivalent annual simple rate of interest?",1.500%,6.000%,6.521%,6.987%,C,"The correct answer is option C.
+6.521%.
+To calculate the equivalent annual simple rate of interest, find the interest earned over the three years and divide it by the initial principal.
+The formula for calculating the compound interest is:
+Here,
+A (the final amount)
+P (principal amount) = $1,000,
+r (annual interest rate (as a decimal) = 6% or 0.06
+n the number of times the interest is compounded per year = 4 (since the interest is compounded quarterly)
+t is time in years = 3
+{eq}\begin{align*}{\rm\text{A}} &= {\rm\text{P}} \times {\left( {1 + \frac{{\rm\text{r}}}{{\rm\text{n}}}} \right)^{{\rm\text{n}} \times {\rm\text{t}}}}\\ &= \$ 1,000 \times {\left( {1 + \frac{{0.06}}{4}} \right)^{4 \times 3}}\\ &= \$ 1,000 \times {\left( {1.015} \right)^{12}}\\ &= \$ 1,000 \times 1.1956\end{align*} {/eq}
+Solving further,
+{eq}= \$ 1,195.6 {/eq}
+Therefore, the interest earned over three years is:
+{eq}\begin{align*}{\rm\text{Interest}} &= {\rm\text{Annual}} - {\rm\text{Principal amount}}\\ &= \$ 1,195.6 - \$ 1,000\\ &= \$ 195.6\end{align*} {/eq}
+So, the interest earned over three years is $195.6.
+To calculate the equivalent annual simple rate of interest, use the following formula:
+Here,
+EASR = Equivalent Annual Simple Rate
+I = Interest earned
+P = Principal amount
+T = Time in years
+{eq}\begin{align*}{\rm\text{EASR}} &= \left( {\frac{{\rm\text{I}}}{{{\rm\text{P}} \times {\rm\text{T}}}}} \right) \times 100\\ &= \left( {\frac{{\$ 195.6}}{{\$ 1,000 \times 3}}} \right) \times 100\\ &= \left( {\frac{{\$ 195.6}}{{\$ 3,000}}} \right) \times 100\\ &= 6.52\% \end{align*} {/eq}
+Therefore, the equivalent annual simple rate of interest is
+6.52%.",Equivalent Annual Simple Rate of Interest (EASR): An equivalent annual simple rate of interest calculates the annual interest rate that would produce the same return on investment as the actual rate compounded over a specified period.
+18,"Arnold invested $7000 in his account, and he had $8050 after 4 years. What was the yearly interest rate (simple interest)?",28.75%,2.5%,3.75%,2.875%,C,"Correct Answer:
+Option c. 3.75%
+.
+Explanation:
+Note that under the simple interest method, the interest expense is the same for every period.
+Step 1:
+Interest amount per period = (Current value of the investment - Initial investment) / Investment period
+Interest amount per period = ($8,050 - $7,000) / 4
+Interest amount per period = $262.50
+Step 2:
+Yearly interest rate = Interest amount per period / Initial investment
+Yearly interest rate = $262.50 / $7,000
+Yearly interest rate = 3.75%","Interest Rate: Interest rate is a rate charged on the amount borrowed or lent and it can be a compounding or a simple interest rate. An investment that offers a simple interest rate does not allow charging interest on the accrued interest. When a compound interest rate is used, the interest rate is also applied to the accrued interest at the end of each period."
+19,"Find the simple interest for $49,417 at 7.7% for 17 months. Assume a 360-day year.",$ 5390.57,$ 5435.87,$ 5073.48,$ 5707.66,A,"We are given the following data:
+Principal= {eq}\$ 49,417
+
+{/eq}
+Rate= {eq}7.7 \%
+
+{/eq}
+Time={eq}17  \ \text{months}=\dfrac{17}{12} \ \text{years}
+
+{/eq}
+We have to find the simple interest
+$$\begin{align}
+
+\text{Simple Interest} &=\dfrac{P\times R\times T}{100}\\[0.3cm]
+
+&=\dfrac{49,417 \times 7.7 \times \dfrac{17}{12}}{100}\\[0.3cm]
+
+&=\dfrac{49,417 \times 77 \times 17}{12\times 1000}\\[0.3cm]
+
+&=\$ \frac{64686853}{12000} \\[0.3cm]
+
+&=\$ 5390.57
+
+\end{align}
+
+$$
+So, the correct option is {eq}\boxed{a.}
+
+{/eq}",Simple Interest: The extra amount that we have to pay to the owner from which we borrow some amount for some period of time is known as a simple interest in mathematics. The amount that we borrow from the owner is known as the principal amount.
+20,Find the simple interest: $ 4414 at 10% for 5 months. Assume 360 days per year.,$ 220.70,$ 185.46,$ 147.13,$ 183.92,A,"We are given the following data:
+Principal= {eq}\$ 4414
+
+{/eq}
+Rate= {eq}10\%
+
+{/eq}
+Time={eq}5  \ \text{months}=\dfrac{5}{12} \ \text{years}
+
+{/eq}
+We have to find the simple interest
+$$\begin{align}
+
+\text{Simple Interest} &=\dfrac{P\times R\times T}{100}\\[0.3cm]
+
+&=\dfrac{4414 \times 10 \times \dfrac{5}{12}}{100}\\[0.3cm]
+
+&=\dfrac{4414 \times 10 \times 5}{12\times 100}\\[0.3cm]
+
+&=\$ \dfrac{2207}{12}\\[0.3cm]
+
+&=\$ 183.92
+
+\end{align}
+
+$$
+So, the correct option is {eq}\boxed{d.}
+
+{/eq}",Simple Interest: Simple interest is defined as the extra amount that we have to pay over the original amount over a period of time to the owner from which we borrow the original amount. The original amount is known as the principal amount.
+21,"If $1,000 is borrowed at 15% per year simple interest, the total amount due at the end of eight years is equal to:","$2,800","$2,200","$1,200","$3,059",B,"The correct answer is
+b. $2,200
+.
+To determine the total amount due on the loan described in the problem, we will make use of the simple interest formula. This formula states that if
+P
+dollars is borrowed at a simple interest rate of
+r
+% for
+t
+years, then the total amount of interest that will be paid on the loan is:
+$$\text{Total Interest}=Prt $$
+It is important to note that in this formula,
+r
+represents
+r
+% in decimal form.
+First, let's identify our variables using the information provided in the problem.
+Initial amount borrowed (
+P
+) = $1,000
+Time period (
+t
+) = 8 years
+Simple interest rate (
+r
+) = 0.15 (this is 15% in decimal form)
+Plugging
+P
+= $1,000,
+r
+= 0.15, and
+t
+= 8 into our simple interest formula, we can calculate the total amount of interest to be paid on the loan.
+$$\begin{align} \text{Total Interest}&=Prt \\[0.2cm] \text{Total Interest}&=\$1,000 \times 0.15 \times 8 &\left[\text{Plug in }P = \$1,000,\; r=0.15,\text{ and }t=8\right]\\[0.2cm] \text{Total Interest}&=\$1,200 \end{align} $$
+We see that the total interest paid on the loan is $1,200. Thus, to find the total amount due at the end of loan term we add the initial amount borrowed ($1,000) and the total amount of interest paid ($1,200).
+$$\begin{align} \text{Amount Due}&=\text{Amount Borrowed} + \text{Total Interest}\\[0.2cm] \text{Amount Due}&=\$1,000 + \$1,200\\[0.2cm] \text{Amount Due}&=\$2,200 \end{align} $$
+Therefore,
+the total amount due at the end of eight years will be $2,200, which is answer choice B.","Simple Interest: The simple interest method is very straightforward and doesn't involve compounding interest. Under the simple interest method, interest is not charged on accumulated interest and remains fixed for each period until maturity."
+22,"A firm incurs $70,000 in interest expenses each year. If the tax rate of the firm is 30%, what is the effective after-tax interest rate expense for the firm?","$34,300.00","$39,200.00","$49,000.00","$56,350.00",C,"Effective after-tax interest rate expense for the firm= Interest expenses ( 1 - tax rate)
+= $70,000 ( 1- 0.3)
+= $49,000
+Hence the correct option is Option C) $49,000.00.",Interest Expense This problem requires an understanding of post-tax interest expense. Interest expense is incurred on borrowing or debts. Deduction of Interest expense is available under the tax. Therefore such interest requires a post-tax effect.
+23,"Before applying for a preapproved credit card, you have already:",all of these,been granted credit,had a credit card limit set,had the APR determined,A,The answer is a. all of these.  A preapproved credit card carries a specified credit limit and APR upon issue.  All the recipient of a preapproved card needs to do is accept the terms and active the card to utilize it.,"APR: APR is short for annual percentage rate.  This is an interest rate that conveys the total annual cost of a loan arrangement, including the nominal interest rate and any associated fees or charges.  It does not reflect the effect of compounding interest."
+24,"Because interest rates are forward-looking, there is no difference between nominal and real rates.",True,False,,,B,"The statement is False.
+The interest rate is forward-looking, but there is a difference between the nominal and real interest rates because the nominal rate of interest approaches the actual growth rate of the firm. In contrast, the real interest rate remains constructive with the increased interest rate. The real interest rate becomes unfavorable when the country has a sky-high inflation rate.
+The nominal rate gives the sight for the future that will be incurred by the lenders and will show when there will be inflation. The real interest rate shows the firm's working conditions and relies on growth and monetary measurements.","Forms of Interest: The interest is the extra amount paid for using the other's money while lending or borrowing. The interest has different kind of forms that is levied on the money used. The fixed, variable, annual, and prime are the forms of interest levied by the individuals."
+25,The amount of simple interest is equal to the product of the principal times _____ times _____.,"(1 + rate per time period), the number of time periods","(1 + rate per time period), (the number of time periods -1)","rate per time period, the number of time periods","rate per time period, (the number of time periods - 1)",C,"The answer is c. rate per time period, the number of time periods.  For illustrative purposes, consider a principal amount of $10,000, a 10% simple rate of interest, and a term of 4 years.  The cumulative interest over the life of the loan is below.
+Simple Interest = $10,000 * .10 * 5 = $5,000","Simple Interest: Simple interest is the interest computed on a principal balance, with no consideration for compounding, which reflects interest charged on interest accumulated.  Simple interest only accrues on the principal balance."
+26,"Suppose that you have {eq}\$30,000
+
+{/eq} to invest over 10 years. Determine the total accumulated amount in the account at the end of the 10 years for the following options:","Simple Interest of {eq}5\%
+
+{/eq}.","Interest of {eq}5\%
+
+{/eq} compounded monthly.","Interest of {eq}5\%
+
+{/eq} compounded continuously.",,A,"a.
+Simple Interest of {eq}5~\text{%}
+
+{/eq}:
+The formula for simple interest is:
+$$\begin{equation}
+
+I = P \times r \times t
+
+\end{equation}
+
+$$
+where {eq}I
+
+{/eq} is the interest earned, {eq}P
+
+{/eq} is the principal (the initial amount invested), {eq}r
+
+{/eq} is the interest rate per year, and {eq}t
+
+{/eq} is the time period in years.
+In this case, we have {eq}P = \$30,000
+
+{/eq}, {eq}r = 0.05
+
+{/eq}, and {eq}t = 10
+
+{/eq}, so the interest earned over the {eq}10~\text{year}
+
+{/eq} period is:
+$$\begin{equation}
+
+I = Prt = \$30,000 \times 0.05 \times 10 = \$15,000
+
+\end{equation}
+
+$$
+Therefore, the total accumulated amount in the account at the end of the {eq}10~\text{years}
+
+{/eq} is:
+$$\begin{equation}
+
+A = P + I = \$30,000 + \$15,000 = \$45,000
+
+\end{equation}
+
+$$
+Therefore, the accumulated amount after {eq}10~\text{years}
+
+{/eq} is {eq}\$45,000
+
+{/eq}
+b.
+Interest of {eq}5~\text{%}
+
+{/eq} compounded monthly:
+The formula for compound interest, with monthly compounding, is:
+$$\begin{equation}
+
+A = P \left( 1 + \dfrac{r}{n} \right)^{nt}
+
+\end{equation}
+
+$$
+where {eq}A
+
+{/eq} is the total accumulated amount, {eq}P
+
+{/eq} is the principal, {eq}r
+
+{/eq} is the annual interest rate, {eq}n
+
+{/eq} is the number of times interest is compounded per year, and {eq}t
+
+{/eq} is the number of years.
+In this case, we have {eq}P = \$30,000
+
+{/eq}, {eq}r = 0.05
+
+{/eq}, {eq}n = 12
+
+{/eq} (since interest is compounded monthly), and {eq}t = 10
+
+{/eq}. Plugging these values into the formula, we get:
+$$\begin{align}
+
+A &= \$30,000 \left( 1 + \dfrac{0.05}{12} \right)^{12 \times 10} \\
+
+A &= \$30,000 (1.004167)^{120}\\
+
+A &= \$30,000 \times 1.647\\
+
+A &= \$49,410.28
+
+\end{align}
+
+$$
+Therefore, the total accumulated amount in the account at the end of the {eq}10~\text{years}
+
+{/eq} is approximately {eq}\$49,410.28
+
+{/eq}
+c.
+The interest of {eq}5~\text{%}
+
+{/eq} compounded continuously:
+The formula for continuous compound interest is:
+$$\begin{equation}
+
+A = Pe^{rt}
+
+\end{equation}
+
+$$
+where {eq}e
+
+{/eq} is the mathematical constant approximately equal to {eq}2.71828
+
+{/eq}.
+In this case, we have {eq}P = \$30,000
+
+{/eq}, {eq}r = 0.05
+
+{/eq}, and {eq}t = 10
+
+{/eq}. Plugging these values into the formula, we get:
+$$\begin{align}
+
+A &=\$ 30,000 \times e^{0.05 \times 10}\\
+
+A &= \$30,000 \times e^{0.5}\\
+
+A &= \$30,000 \times 1.6487\\
+
+A &= \$49,461.64
+
+\end{align}
+
+$$
+Therefore, the total accumulated amount in the account at the end of the {eq}10~\text{years}
+
+{/eq} is approximately {eq}\$49,461.64
+
+{/eq}","Simple vs Compound Interest: Simple interest is a method of calculating interest where the interest is calculated only on the principal amount of the loan or investment. Compound interest, on the other hand, is a method of calculating interest where the interest is added to the principal at regular intervals, such as annually or monthly, and then interest is calculated on the new amount, which includes both the principal and the previously accumulated interest."
+27,All of the following are categories of real options except _____.,exit options,flexibility options,new-market options,growth options,C,"The correct option is: C) New-market options
+Explanation:
+There are four categories of real options, which are as follows:
+Growth options
+Exit or abandonment options
+Investment timing options
+Flexibility options
+Accordingly, the
+new-market options
+is not considered one of the categories of real options.","Real Options: In the finance concept, the real investment options are recognized as a right given to the company's management but not the commitment to offer several investments. It considered those project that involves financial instruments vs. tangible assets."
+28,"Consider a {eq}\$1,500
+
+{/eq} deposit earning 4 percent interest per year for 7 years. How much total interest is earned on the original deposit (excluding interest earned on interest)?","{eq}\$42.00
+
+{/eq}.","{eq}\$420.00
+
+{/eq}.","{eq}\$46.19
+
+{/eq}.","{eq}\$466.19
+
+{/eq}.",B,"The total interest earned on the original deposit is: b. $420
+The total interest earned on the original deposit (excluding interest earned on interest) is calculated using the
+Simple Interest method
+. It can be represented mathematically as follows:
+{eq}I= P\times r\times t
+
+{/eq}
+Where,
+I = total amount of interest earned on the principal amount
+r = annual interest rate = 4%
+t = investment duration = 7 years
+P = Principal or the original amount deposited
+Putting the corresponding values in the above formula, we get,
+{eq}\begin{align*}
+
+I&=$1,500\times 0.04\times 7\\
+
+&=$60\times 7\\
+
+&=$420\\
+
+\end{align*}
+
+{/eq}
+Note:
+There are 2 popular methods of calculating interest: Simple and Compounding.
+Simple interest is calculated only on the principal amount deposited or borrowed.
+The total amount of simple interest earned depends upon the applicable interest rate, principal sum, and investment duration.
+Compound interest is calculated on the principal plus the interest that accumulates on it every period. In other words, under the compounding method, interest is earned on interest. Thus, compounding multiplies money at an accelerated rate.
+The interest can be compounded per period on any given frequency, from daily to monthly to annually.","Interest: From a borrower's point of view, interest is the cost of borrowing money from the market or a financial institution. Whereas, from an investor's perspective, interest is the return earned on their hard-earned money deposited in an investment vehicle for a specified duration. Interest is typically expressed as an annual percentage rate. It can be simple or compounded."
+29,"The interest charged on a $50,000 note payable at the rate of 8% on a 3-month note would be:",$667,"$1,000","$4,000","$2,000",B,"The next formula can be used to estimate the simple interest earned on an investment
+{eq}I=Prt
+
+{/eq}
+Where,
+I= Interest
+P=Principal
+r=rate of interest
+t=number of periods
+The calculation is the following.
+P=$50,000; r=0.08; n= 3/12 or 0.25
+{eq}I=50,000*0.08*0.25
+
+{/eq}
+{eq}I=$1,000
+
+{/eq}
+The answer is
+b. $1,000
+.","Interest: The nature of interest is based on the capacity of money to obtain some return when it is loaned out. That is to say, interest is the value of money. If the interest rate is high, investors will be incentivized to lend money since their return will be also high."
+30,"Bob invests $1000 on January 1 at 8%, Bob's interest revenue for the month of January will be:","$1,000.",$80.,$600.,$6.67.,D,"Interest terms are usually framed in annual terms. To find the interest revenue for Bob in January, we need to find the monthly interest rate:
+8% / 12 = 0.667%
+We multiply this rate by Bob's principal investment to find the interest revenue for January:
+$1,000 × 0.667% =
+d) $6.67",Interest: Interest is offered to investors as an incentive for their investment by promising that they will get back more than their principal. Interest provides for the time value of money that occurs because the future value of money is less than the present value.
+31,The principal of a simple interest note is the difference between its maturity value and interest.,True,False,,,A,"Correct Answer:
+Option a) True
+,
+Simple interest equals the product of the principal amount, time, and interest rate. The method does not charge interest on accrued interest as in the case of the compound interest method. The maturity value of a note with simple interest is expressed as follows:
+Maturity value of a note = Principal or face value + Total interest
+On rearranging the equation, we have:
+Principal or face value = Maturity value of a note - Total interest
+Therefore we can conclude that the difference between the maturity value of a note and the simple interest on it equals the principal value.",Interest Expense: Interest expense is a charge that should be paid against the amount borrowed for various reasons. It is a non-operating expense reported on an income statement. We must accrue interest once it incurs though the payment is not made.
+32,"If you invest $18,000 each year for 16 years at 8% interest, how much will you will have at the end of 16 years?","$545,837","$61,667","$5,254","$159,325",A,"The correct answer is
+a) $545,837
+.
+Given
+Annual Payment, {eq}P = \$18,000
+
+{/eq}.
+Rate, {eq}i = 8\% = 0.08
+
+{/eq}.
+Time, {eq}n = 16
+
+{/eq} years.
+We have to find out the Future Value of Annuity, FV.
+We will use the following formula to calculate the Future Value of Annuity
+{eq}\begin{align}
+
+\text{Future Value of Annuity} & = P\left [  \dfrac{\left ( 1+i \right )^{n}-1}{i}\right ] \\
+
+& = 18,000\left [  \frac{\left ( 1+0.08 \right )^{16}-1}{0.08}\right ] \\
+
+& =18,000 \times  \frac{2.425942643}{0.08} \\
+
+& = \$545,837.09
+
+\end{align}
+
+{/eq}
+Therefore, you will have $545,837.09 at the end of 16 years.",Investment: Investment is an activity where the money is spent to purchase something which has the potential to grow or produce income or profit.  The purpose of the investor is to get maximum return from the investment.
+33,"For a 3-year simple loan of $10,000 at 10 percent, the amount to be repaid is","$10,030.","$10,300.","$13,000.","$13,310.",C,"A simple loan pays an interest based on its face value. First, we compute the total interest. The period is three years.
+{eq}Total\:interest = Face\:value \times Interest\:rate \times Period \\
+
+Total\:interest = 10,000 \times 0.10 \times 3 \\
+
+Total\:interest = 3,000
+
+{/eq}
+The total interest is $3,000.
+The amount to be repaid is equal to the face value and the total interest.
+{eq}Amount\:repaid = Face\:value + Total\:interest \\
+
+Amount\:repaid = 10,000 + 3,000 \\
+
+Amount\:repaid = 13,000
+
+{/eq}
+The amount repaid after three years is
+C. $13,000.","Simple Loan: A simple loan is a type of loan where the interest paid is based on the face value only. Unlike compounded interest, simple interest is fixed for every period. The total interest is based on the interest every period and the total period covered."
+34,"What is the maturity value of a $7,000, 5%, or 60-day note?",$58.33,"$7,000","$7,058.33","$7,350",C,"The correct option is c.
+Given information:
+Present value (P) = $7,000
+Rate of interest (r) =5%
+Time (t) = 60 days.
+The maturity value of the note is calculated as follows:
+{eq}\begin{align*}{\rm\text{Maturity}}\,{\rm\text{value}} &= {\rm\text{P}} + \left( {{\rm\text{P}} \times {\rm\text{r}} \times {\rm\text{t}}} \right)\\ &= \$ 7,000 + \left( {\$ 7,000 \times 0 \cdot 05 \times \frac{{60}}{{360}}} \right)\\& = \$ 7,000 + \$ 58 \cdot 33\\ &= \$ 7,058 \cdot 33\end{align*} {/eq}
+The calculated maturity value is $7,058.33
+Note: For the calculation of maturity value total days in a year are assumed as 360 days.",Maturity Value: Maturity value is a term used to describe the value of any sum of money at any given date in the future. The interest rate allowed is a significant factor in determining the maturity value of money.
+35,_____ bonds contain a provision that allows holders to sell them back to the company before maturity at a prearranged price.,Income,Convertible,Putable,,A,"The correct answer is Puttable
+Puttable bonds are beneficial to the bondholders as they have given a facility to sell their bonds to the company before maturity at prearranged price. These bonds help the bondholders to take the advantage of change in interest rates in the market like when the interest rates of a bond is getting low they can move their funds from bonds to any other financial instrument which is giving them higher interest rates and vice versa.","bonds Bonds are issued by corporates, government, municipalities or states to raise capital for long term or short term purpose. Bondholders buy the bond and receive coupon rate as their interest income at regular intervals and at maturity receives face value of bond."
+36,"Using the ordinary interest method, find the amount of interest on a loan of $2,600 at 12% interest for 120 days.",$104,$102.58,"$2,702.58",$453.61,B,"The correct option is
+(B) $102.58
+Under the simple interest method, we calculate the interest by the below formula.
+{eq}\text{Interest} = \text{Principal Amount} \times \text{Interest Rate} \times \text{Time} {/eq}
+Here the time is 120 days and there are 365 days in a year, so will use the fraction {eq}\frac{120}{365} {/eq} for time.
+{eq}\begin{align} \text{Interest} &= \text{Principal Amount} \times \text{Interest Rate} \times \text{Time}\\ &= \$2,600 \times 12\% \times \frac{120}{365}\\ &= \$102.58 \end{align} {/eq}","Simple Interest: Unlike compound interest, simple interest does not calculate interest on interest. In commercial transactions, simple interest is rarely used for the computation of interest."
+37,"If you borrowed $1,000 for a 3-year period, with a simple interest rate of 10% per annum, the total interest to be paid would be:",$750,$500,$300,"$1,000",C,"The correct answer is option
+c. $300
+.
+The total simple interest amount is computed as follows:
+{eq}\begin{align} \text{Total Interest} &= \text{Borrowed amount} \times \text{Simple interest rate} \times \text{Number of years} \\[0.3 cm] &= $1,000 \times 10\% \times 3 \\[0.3 cm] &= $1,000 \times 0.10 \times 3 \\[0.3 cm] &= $100 \times 3 \\[0.3 cm] &= $300 \end{align} {/eq}
+If you borrowed $1,000 for a 3-year period, you will owe $100 interest per year or a total of $300 for a 3-year borrowing.",Simple Interest: The simple interest amount for an investment denotes the interest earned on the principal or base amount whereas the compound interest amount indicates the interest earned on the previously earned interest amount.
+38,"Tanya received a $1,000 loan from the bank for a vacation. The bank is using the simple interest formula for this one-year 9% loan. What is her total interest?",$45,"$1,009",$9,$90,D,"The answer is
+e. $90
+Given information:
+Loan = $1,000
+Interest rate = 9%
+Estimate the total interest:
+Total interest = Principal x Interest rate = $1,000 x 9% = $90 The Answer is D.","Simple Interest: Simple interest is a method of calculating interest on an investment or a loan. Apart from the compounding interest, simple interest method will compute interest on the principal. Thus, by using the simple interest, interest on a loan will be lower compared to the use of compounding interest."
+39,The interest rate that is quoted by a lender is referred to as which one of the following?,annual percentage rate,compound rate,effective annual rate,simple rate,A,"A. Correct. A loan is usually introduced with an Annual Percentage Rate (APR), which includes interest charges and other fees within a year. Note that the APR excludes the effects of compounding interest.
+B. Incorrect. A loan will not be quoted with a compound rate since it makes the loan more expensive compared to other available loans from different lenders.
+C. Incorrect. The effective annual interest rate reflects the true financing cost of a loan, which makes the loan more expensive. Thus, lenders will not usually introduce an effective annual interest rate to borrowers.
+D. Incorrect. The simple interest rate includes the interest charge only while some other fees should be exposed to borrowers as well. Hence, the simple interest rate is not relevant.","Interest Rate: An interest rate on an investment refers to the expected rate of return that an investor can earn by holding the investment within a given period. However, an interest rate is the financing cost associated with a loan. Usually, the interest rate is quoted in its nominal form."
+40,"If $22,050 is the amount payable in two years for a $20,000 simple loan made today, the interest rate is",5 percent.,10 percent.,22 percent.,25 percent.,A,"The correct answer is
+Option A. 5 percent.
+Since the loan is just a simple loan, it means to say that we will use the basic formula in computing the interest.
+I = 22,050 - 20,000 = 2,050
+P = 20,000
+t = 2
+I = Prt
+2,050 = 20,000 * r * 2
+r = 2,050 / 40,000
+r = .05125 or approximately 5%
+We can validate our answer by using 5% as our interest rate.
+I = Prt
+Year 1 - Interest = (20,000*0.05*1)
+Year 1 - Interest = 1,000
+Total Amount Payable - Year 1 = 20,000 + 1,000 = 21,000
+Now, for Year 2 interest, we can have the following;
+Year 1 - Interest = (21,000*0.05*1)
+Year 2 - Interest = 1,050
+Total Amount Payable - Year 2 = 21,000 + 1,050 = 22,050","Simple Interest: Simple interest is the most basic computation of interest payable or receivable on the debtor's money and lends by the creditor. The interest is computed as the product of principal, rate, and time or period."
+41,Interest that is calculated using only the principal is called:,Add-on interest.,Effective interest.,Compound interest.,Simple interest.,D,"The correct answer is
+d. Simple interest.
+Interest that is calculated using only the principal is called simple interest. In this type of investment, the investors get a fixed amount of interest every year, and it remains constant until the investment matures. For example, if the principal amount is $1000, the interest rate is 10% per year, and the tenure is 5 years, then the calculation of the simple interest will be as follows:
+{eq}Simple\ Interest = Principal\ amount * Interest\ rate * tenure = \$1000*10\%*5 = \$500 {/eq}
+Here, the investor will get $500 in 5 years as interest, which turns out to be $100 each year for 5 years. This is an example of simple interest, where the interest is calculated using only the principal amount.
+The other options are incorrect.
+a. Add-on interest: In add-on interest, the interest amount is added to the principal and then divided by the number of payment periods. So here, interest is also involved, which makes it an important option.
+b. Effective interest: Effective interest is used in compounding interest, where the principal amount plus interest from last year becomes the principal amount for the existing year. So this is the incorrect option.
+c. Compound interest: In compound interest, the interest amount of the previous year is also added to the calculation of the current year's interest. So this is not the correct option.","Loan: The loan refers to a sum of money borrowed from the bank or other financial institutions where the interest is applied based on simple interest, compound interest, an add-on interest rate, or another method, and the borrower repays the loan in installments."
+42,"$5,000 is invested for two years at 3% simple interest per year. The total interest earned after two years is:",$300,$304.50,$150,"$5,300",A,"The correct answer is
+a. $300
+Given information:
+Initial investment (P) = $5,000
+Simple interest rate (r) = 3%
+Time period (t) = 2 years
+Simple interest is calculated by multiplying the product of the investment ($5,000) by the rate (3%) and the given time period (2 years).
+{eq}\begin{align*}{\rm\text{Simple interest}} &= {\rm\text{P}} \times {\rm\text{r}} \times {\rm\text{t}}\\ &= \$ 5,000 \times 3\% \times 2\\ &= \$ 300\end{align*} {/eq}
+The amount of simple interest is $300.","Simple Interest: Simple interest is the amount of interest that is earned on the portion of the fund lent originally. It does not consider compounding, and it is less than the compound interest for the same investment."
+43,"Tanya received a $1,000 loan from the bank for a vacation. The bank is using the simple interest formula for this one-year 9% loan. What is her interest?",$90,$45,$80,$450,A,"Given information:
+Loan amount = $1,000
+Simple interest rate = 9%
+Determine the interest expense:
+{eq}\text{Interest}=\displaystyle \text{Loan amount} \times \text{Interest rate} = \$1,000 \times 9\% = $90 {/eq}
+The interest expense is $90. The Answer is A.","Simple Interest: The simple interest method estimates the interest expense on the loan principal. The interest expense will not be reinvested, which will not generate any additional interest expense."
+44,Interest calculated on the original principal regardless of the amount of interest that has been paid or accrued in the past is a(n) _____.,simple interest,compound interest,original interest,principal interest,D,"The correct option is
+A
+.
+Simple interest is a fixed percentage of the principal amount borrowed or lent over a set period.
+{eq}\begin{align*}
+
+{\rm\text{Simple interest}} &= {\rm\text{Principal}} \times {\rm\text{Daily interest rate in % per annum}} \times {\rm\text{No of days between payments}}
+
+\end{align*}
+
+{/eq}",Simple interest Simple interest is a simple way to calculate the interest charge on loan. It is calculated by multiplying the principal by the interest rate and time. This type of interest is typically associated with auto loans or short-term loans.

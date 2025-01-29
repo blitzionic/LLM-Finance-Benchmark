@@ -1,0 +1,790 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The interest expense recorded on an interest payment date is increased:,only if the market rate of interest is less than the stated rate of interest on that date.,by the amortization of premium on bonds payable.,by the amortization of discount on bonds payable.,only if the bonds were sold at face value.,C,"The correct answer is Option C.
+The interest expense increases by amortizing the discount on the bonds payable. This is decided by the company when it wants to pay more to its debtors, which leads to higher interest expenses. Although the company's capital structure implements a heavy debt policy leads to higher interest expenses. Interest expense is equal to non-operating interest expenses.",Amortized bond: An amortized bond is the bond in which the company pays off the face value and interest value to the investor regularly per the amortized schedule and regularly for the tenure or life of the bond.
+2,Unsecured debt issued by bank holding companies is a form of equity capital.,True,False,,,A,"The above statement is True.
+Funds invested in a company by investors in return for ordinary or preferred shares are known as equity capital. This is the foundational investment for a firm to which debt financing could be added.
+In addition to receiving the principal amount, debt capital's lender also receives interest income. Those who own shares receive dividends or profits. Debt financing can be secured (against the surety of an asset) or unsecured. Since shareholders receive ownership rights, equity capital is insecure.
+Similar to equity capital holders, these bank-holding corporations own a share of the commercial bank's voting stock, which enables them to vote on issues about the development of the bank's corporate policies. They exercise control over the bank but do not participate in its daily operations. Like equity shareholders, they make loans.","Unsecured Debt: Unsecured debt is any debt or general obligation not collateralized by a claim on particular assets of the borrower in the event of bankruptcy, liquidation, or inability to satisfy the terms of repayment. It is sometimes referred to as uninsured debt."
+3,"A lender requires 2 points on a $250,000 loan with a 7% rate amortization over a 25 year-term, payable monthly. What is the effective yield to the lender if the loan runs full term?",9.0%,6.8%,7.2%,6.0%,C,"The answer is
+C) 7.2%.
+Given information:
+Initial principal = $250,000
+Number of payments (N) = 25 x 12 = 300
+Annual percentage rate (I) = 7%
+Initial point = 2%
+Estimate the required monthly payment (PMT):
+{eq}\text{Initial principal} = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{I}{12})^{-N}}{\displaystyle \frac{I}{12}} \\ \$250,000 = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{7\%}{12})^{-300}}{\displaystyle \frac{7\%}{12}} \\ \$250,000 = \displaystyle \text{PMT} \times 141.48690 \\ \text{PMT} = $1,766.94804 {/eq}
+Estimate the net proceeds of the loan:
+{eq}\text{Net proceeds} = \displaystyle \text{Initial principal}\times (1 - \text{Percentage point}) \\ \text{Net proceeds} = \displaystyle \$250,000 \times (1 - 2\%) \\ \text{Net proceeds} = \displaystyle \$245,000 {/eq}
+Estimate the effective annual interest rate on the loan (i):
+{eq}\text{Net proceeds} = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{i}{12})^{-N}}{\displaystyle \frac{i}{12}} \\ \$245,000 = \displaystyle \$1,766.94804 \times \frac{1 - (1 + \displaystyle \frac{i}{12})^{-300}}{\displaystyle \frac{i}{12}} {/eq}
+The effective annual interest rate can be determined by using the financial calculator with the following inputs:
+FV = Future value of loan = 0
+PMT = Annual payment = 1,766.94804
+PV = - Net proceeds of the loan = - 245,000
+N = Number of monthly payments = 300
+CPT I = 0.60209
+{eq}\text{i} = 0.60209 \times 12 = 7.2\% {/eq}","Amortization Loan: An amortization loan allows the borrower to repay the initial loan principal and interest charge by a series of monthly payments. Mortgage loans, auto loans, and purchase financing are representative of amortization loans."
+4,A loan discount is:,a loan used to purchase a bond at a discount.,a discount market interest rate on a loan.,the same as a bond discount.,None of the above.,D,"The correct option is
+option D. None of the above.
+Option A: Loan Discount states the interest amount which is deducted from the loan principal value when the loan is acquired at a discount. A bond discount presents a bond type that can be purchased for less than its par or face value. Thus, loan discounts are not linked with bonds, as bonds are debt instruments traded in the money market.
+Option B: A loan discount is a loan type for which interest and other charges are not required to be paid. Thus, the interest rate is not discounted in the loan.
+Option C: A bond discount implies that the bond's market price is lower than its par value, whereas a loan discount means an amount that is already reduced by interest and other related charges. These two terms have different parameters.
+The given statements related to loan discounts are false as a loan discount involves payment of that borrowed amount, which excludes interest and other related charges. Therefore, the correct option is
+option D
+.","Loan: A loan is defined as an arrangement in which a lender provides funds to another individual in exchange for future repayment, i.e., principal plus interest amount. Money can be lent from a bank, insurance company, or financial institution."
+5,"You borrow $85,000. You make monthly repayments over the next three years at a monthly interest rate of 3%. What is the amount of each monthly repayment?","$30,050.08","$1,343.32","$3,893.32","$2,361.11",C,"The answer is
+c. $3,893.32.
+Given information:
+Loan principal = $85,000
+Number of monthly payments (N) = 3 x 12 = 36
+Monthly interest rate (I) = 3%
+Monthly repayment = PMT
+Estimate the monthly repayment associated with the loan:
+{eq}\text{Loan principal} = \displaystyle PMT \times \frac{1 - (1 + I)^{-N}}{I} \\ \$85,000 = \displaystyle PMT \times \frac{1 - (1 + 3\%)^{-36}}{3\%} \\ \$85,000 = \displaystyle PMT \times 21.83225 \\ PMT = \displaystyle \frac{\$85,000}{21.83225} \\ PMT = $3,893.32 {/eq}","Installment Loan: An installment loan refers to a financing option in that a borrower repays the loan regularly. Usually, a lender will require monthly payments within a fixed period that is to reduce the credit risk associated with the loan."
+6,Which of the following factors cannot be attributed to increasing goodwill?,Experienced Management,A Common Product,A Skilled Workforce,Brand Recognition,B,"The correct answer is
+b. A Common Product.
+Dealing with a product that is commonly sold in the marketplace is not a source of goodwill for a business. To increase goodwill through products, a business must deal in unique products.
+The other options are incorrect.
+a.
+Experienced Management:
+Experienced management increases the efficiency and sustainability of a business. Thus, it is a non-monetary asset that increases the goodwill of the firm.
+c.
+A Skilled Workforce:
+A skilled workforce increases productivity and profitability and brings problem-solving abilities to the business. Thus, it is a source of goodwill for the firm.
+d.
+Brand Recognition:
+Strong brand recognition builds customer loyalty and boosts revenue. Thus, it is a source of goodwill for the business.",Goodwill: A long-term asset that does not have a physical form but helps a business generate economic benefits is called goodwill. It represents the value of non-monetary assets that provide a competitive edge to the business.
+7,Purchased goodwill should:,be written off as soon as possible against retained earnings.,be written off as soon as possible as an extraordinary item.,be written off by systematic charges as a regular operating expense over the period benefited.,not be regularly amortized but subject only to impairment testing.,D,"The correct option is
+d
+.
+The company is said to have acquired goodwill when the purchase consideration paid to the target company exceeds the target company's fair value of net assets. The excess is deducted as goodwill, which is thought to have been purchased. Purchased goodwill is unlike self-generated goodwill; the acquirer does not amortize it.
+The explanation for incorrect options:
+Option a: The total impairment amount must be written off as a loss not against retained earnings but income statement.
+Option b: The purchased goodwill is considered an intangible asset and recorded under the assets section of a company and not as an extraordinary item.
+Option c: The purchased goodwill is an example of a non-operating expense; thus, it is not written off by systematic charges as a regular operating expense over the period benefited.","Purchased Goodwill The difference between the amount paid for a company still in business and the sum of assets the company owns minus the recorded liabilities has been recognized and valued individually, known as purchased goodwill."
+8,Sam received a $290 discount loan to purchase a stereo. The loan was offered at 16% for 90 days.,$279.4,$278.40,$277.40,,B,"Correct answer:
+1. Option b. $11.60
+2. Option b. $278.40
+Given:
+Loan value = $290
+Annual interest rate = 16%
+Loan period = 90 days
+Number of days in a year = 360 days (approximately)
+So, the interest would be:
+1. Interest:
+{eq}\begin{align*}
+
+{\rm\text{Interest}}\, &= \,{\rm\text{Loan value}}\, \times \,{\rm\text{Interest rate}}\, \times \dfrac{{{\rm\text{Loan period in days}}}}{{{\rm\text{Number of days in a year}}}}\\
+
+&= \$ 290\, \times \,16\% \, \times \dfrac{{90\,{\rm\text{days}}}}{{360\,{\rm\text{days}}}}\\
+
+&= \$ 11.60
+
+\end{align*}
+
+{/eq}
+Thus, the interest is
+$11.60.
+2. Proceeds:
+The proceeds can be computed by reducing the interest of $11.60 from the loan value of $290.
+{eq}\begin{align*}
+
+{\rm\text{Proceeds}}\, &= \,{\rm\text{Loan value}}\, - \,{\rm\text{Interest}}\\
+
+&= \$ 290\, - \,\$ 11.60\\
+
+&= \$ 278.40
+
+\end{align*}
+
+{/eq}
+Thus, the value of proceeds is
+$278.40.","Discount Loan: In a few cases, the interest payable on a loan is reduced, and the remaining balance is granted a loan for the borrower. This is referred to as a discount loan. The borrower will repay only the principal value, and no further interest will be paid."
+9,Refinancing a loan for more money than was originally owed is called a(n):,add-on loan.,accelerated loan.,discount loan.,garnishment.,A,"The correct answer is A.
+Refinancing a loan for more money in the process of adding more loan amounts at a cheaper interest rate than the first loan amount in which the interest rate is high. So, it is an add-on loan.
+Reason for incorrect option:
+Option B. accelerated loan refers to the borrower having to pay his entire loan amount immediately.
+Option C. In a discount, the loan borrower gets a discount on the loan amount. And not refinance it.
+Option D. A garnishment is the order to seize assets.","Loan: A loan is when a person obtains finance from any friend, bank, or financial entity with the binding that it will be returned in the future along with principal and interest."
+10,"Fred borrowed $2,000 from a loan shark to be repaid in 8 years with 14% annually compounded interest. The loan may be repaid at the end of any earlier year with no prepayment penalty.",What amount will be due if Fred repays the loan at the end of year 1?,What amount will be due if Fred repays the loan at the end of year 4?,What amount will be due if Fred repays the loan at the end of year 8?,,D,"First, compute the annual payments based on the information provided:
+Loan =$2,000
+n = 8 years
+r =14%
+{eq}\begin{align*}
+
+\ Payment& =   \dfrac{Loan *r}{(1 - (1 + r )^{-n}) }\\
+
+& =   \dfrac{2,000 *0.14}{(1 - (1 + 0.14 )^{-8}) }\\
+
+& =\dfrac{280}{0.649440945}\\
+
+&=$431.14\\
+
+\end{align*}
+
+{/eq}
+The amount due will be the outstanding debt plus interest on that amount:
+Question A.
+Loan balance at the end of year 1
+Here n-t is the number of years remaining = 8-1 =7
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 431.14 * \dfrac{(1 - (1 + 0.14)^{-7}) }{ 0.14}\\
+
+& =431.14*4.288304839\\
+
+& =$1,848.86 \\
+
+\end{align*}
+
+{/eq}
+Calculate the interest on the loan balance
+{eq}\begin{align*}
+
+\ Interest & = Interest \ rate *Loan \ balance \\
+
+& =0.14*1,848.86 \\
+
+&=$258.84\\
+
+\end{align*}
+
+{/eq}
+The total amount due will be
+Total balance = Loan balance + Interest on balance
+Total balance = 1,848.86 + 258.84
+Total balance = $2,107.70
+The amount due if Fred repays the loan at the end of year 1 will be
+$2,107.70
+Question B.
+Loan balance at the end of year 4
+n-t = 8-4 = 4
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 431.14 * \dfrac{(1 - (1 + 0.14)^{-4}) }{ 0.14}\\
+
+& =431.14*2.913712304\\
+
+& =$1,256.22 \\
+
+\end{align*}
+
+{/eq}
+Calculate the interest on the loan balance
+{eq}\begin{align*}
+
+\ Interest & = Interest \ rate *Loan \ balance \\
+
+& =0.14*1,256.22 \\
+
+& =$175.87\\
+
+\end{align*}
+
+{/eq}
+The total amount due will be
+Total balance = Loan balance + Interest on balance
+Total balance = 1,256.22 + 175.87
+Total balance = $1,432.09
+The amount due if Fred repays the loan at the end of year 1 will be
+$1,432.09
+Question C.
+Loan balance at the end of year 8
+n-t = 8-8 = 0
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 431.14 * \dfrac{(1 - (1 + 0.14)^{-0}) }{ 0.14}\\
+
+& =431.14*0\\
+
+& =$0 \\
+
+\end{align*}
+
+{/eq}
+The amount due if Fred repays the loan at the end of year 1 will be
+$0","Loan Amortization: Loan amortization is the process of reducing outstanding debt by repaying a portion of the principal over a set period of time. The borrower repays debt in installments that cover accrued interest and a portion of the principal amount, and the amounts are equal each period for a fixed-rate loan. The loan balance will be the present value of the unpaid installments at any point during the loan period. This implies that we must incorporate the time value of money concept into our calculations."
+11,"If technology changes rapidly, a firm should:",expense plant assets immediately because of the uncertainty of future benefits.,depreciate plant assets over long periods of time.,consider an accelerated rate of depreciation.,use the straight-line method of depreciation as it is the easiest.,C,"Option c
+is the correct answer.
+It would be better for the company to opt for accelerated depreciation in the case of rapidly changing technology. Accelerated depreciation will allow companies to charge higher depreciation during the initial years and lower in the latter half. Hence, option c is correct.
+Option a: Expensing plant assets immediately would be wrong as the majority of technology changes after 2-3 years. Expediting it immediately would portray the wrong net income to investors. Hence, option a is wrong.
+Option b: Depreciating it over a long period of time would make the asset of no use in rapidly changing technology. As per this approach, assets will exhibit value on the books, but in the real world, they will be worthless. Hence, option b is wrong.
+Option d: Straight-line depreciation is used in a stable environment where a company's environment does not expect dramatic changes on a regular basis. Hence, option d is wrong.
+Hence, option c is right.",Depreciation: Depreciation is a way of allocating the cost of equipment or property on the income statement. Depreciation usually depends on the useful life of the asset. Methods of depreciation are based on management's perception.
+12,"Non-current, intangible assets such as leasehold improvements, patents, and copyrights are all subject to:",depreciation,amortization,depletion,consolidation,B,"Let us discuss each alternative:
+A) depreciation
+No property, plant, and equipment are depreciated
+B) amortization
+This is the correct option. Amortization is the term used for the expense recognized to reduce the carrying value of an intangible asset over its useful life.
+C) depletion
+No, depletion is similar to amortization but it relates to natural resource assets
+D) consolidation
+No, consolidation is entirely different and it is a method used to prepare financial statements.",Intangible Assets: Intangible assets are operating assets that lack a physical substance. They are recognized on the balance sheet of a company when the recognition criteria in the accounting standards are met.
+13,How long are limited life intangibles amortized?,Indefinitely.,Throughout their useful life.,For five years.,For twenty years.,B,"Limited life intangible assets are amortized
+b. Throughout their useful life
+, using a logical and systematic amortization method. The straight-line method is the most widely-used method to amortize intangible assets.
+The accounting standards do not include any provision that stipulates the amortization period as five or 20 years, they only specify that a limited-lived intangible must be amortized over the shorter of its useful or legal life,
+Example:
+A company buys a patent for $200,000. The patent's registration will lapse in 10 years, and the company expects it to be used in generating revenues for the next 4 years. The patent is therefore amortized over 4 years, so $50,000 per year.","Accounting for Intangible Assets: An intangible asset is a long-lived asset that lacks a physical substance. Intangible assets are recognized on the balance sheet if they meet the recognition criteria, and are subsequently amortized and tested for impairment."
+14,An amortization schedule details each loan payment's allocation between principal and interest and also the beginning and ending balances of the loan.,True,False,,,A,"The above statement is True
+Explanation
+The Amortization loan schedule is the complete repayment plan that includes the initial loan principal amount along with the rate of interest. The installments start off by putting more of the payment towards the interest first and then paying off and then paying off the principal amounts. The schedule is completely customizable according to the payment capability and preferences of the borrower.
+Below is the formula used to prepare the Amortization loan schedule
+Principal Payment = Total Monthly Instalments - (Outstanding Balance of loan x (Rate of interest / 12 Months)","Loan The amount that the individual, organization, or entity borrows on a fixed term with interest to fulfill the fund requirements is termed a loan. Loans are often paid on an installment- basis over a pre-determined period."
+15,Banks calculate the monthly payment on a loan as:,an ordinary annuity with payment made one month in advance.,an annuity due with payment made one month in advance.,an ordinary annuity with payment made at the end of the month.,an annuity due with payment made at the end of the month.,C,"The answer is
+c. an ordinary annuity with payment made at the end of the month.
+The series of monthly payments represents an annuity. Thus, if the monthly payment is required at the beginning of each month, it is an annuity due. Otherwise, it is an ordinary annuity. In practice, most banks will not require borrowers to make a payment immediately at the loan origination.","Installment Loan: An installment loan is a financing option in which a borrower can repay the loan with monthly payments. Usually, monthly payments are constant during the entire life of the loan. Within a monthly payment, there are two components: interest payment and principal repayment."
+16,A loan discount is:,a loan used to purchase a bond at a discount.,a discount market interest rate on a loan.,the same as a bond discount.,None of the above.,D,"The correct option is
+option D. None of the above.
+Option A: Loan Discount states the interest amount which is deducted from the loan principal value when the loan is acquired at a discount. A bond discount presents a bond type that can be purchased for less than its par or face value. Thus, loan discounts are not linked with bonds, as bonds are debt instruments traded in the money market.
+Option B: A loan discount is a loan type for which interest and other charges are not required to be paid. Thus, the interest rate is not discounted in the loan.
+Option C: A bond discount implies that the bond's market price is lower than its par value, whereas a loan discount means an amount that is already reduced by interest and other related charges. These two terms have different parameters.
+The given statements related to loan discounts are false as a loan discount involves payment of that borrowed amount, which excludes interest and other related charges. Therefore, the correct option is
+option D
+.","Loan: A loan is defined as an arrangement in which a lender provides funds to another individual in exchange for future repayment, i.e., principal plus interest amount. Money can be lent from a bank, insurance company, or financial institution."
+17,Each payment on a mortgage note payable consists of,interest on the original balance of the loan only.,reduction of loan principal only.,interest on the original balance of the loan and reduction of loan principal.,interest on the unpaid balance of the loan and reduction of loan principal.,D,"The correct answer is Option D.
+The payment made for the mortgage note payable remains the same for every period. However, the proportion of interest and principal repayment changes every time. Initially, the installment amount consists of greater interest expense and lesser principal repayment. This interest expense keeps declining with every installment because the interest expense is calculated on the loan balance that is yet to be paid.
+Explanation for Incorrect Options:
+Option A: The installment/payment amount consists of principal repayment also. Thus, this option is incorrect.
+Option B: This is not correct because each payment on the bond payable includes the interest amount.
+Option C: The interest is not paid on the original balance. Rather, it is paid on the carrying value of the mortgage.",Loan: The amount borrowed to finance an entity's assets is termed a loan. There are different types of a loan based on their tenure or purpose. It is commonly classified as a short-term and long-term loan.
+18,Determine whether the following statement is true or false: Compensating balances are important for banks because these allow banks to better protect themselves against default.,True,False,,,A,"The statement is TRUE.
+The main purpose of requiring a compensating balance associated with a loan is to reduce the potential collection loss when the borrower cannot handle both interest charges and principal repayment. Alternatively, the lender reduces the actual loan amount to the borrower by imposing the compensating balance.","Compensating Balance: A lender might require a borrower to maintain a specific amount of money in a separate account, known as a compensating balance when the borrower applies for a loan. Usually, the compensating balance is determined by a fixed percentage of the loan amount. Since the compensating balance is a portion of the loan amount, the interest is charged on the compensating balance as well."
+19,Which of the following statements about the amortization of a loan is true?,50% of each payment is for interest while the rest is applied to the principal balance. Flag question,All of these answers.,Amortization is the process of paying off a debt over time through regular payments.,A loan is fully amortized once the amortization schedule is drafted.,C,"The answer is
+option C.
+Amortization of a loan is making payments every period, depending on the agreed frequency, which could be monthly or other, to settle the money that the borrower had borrowed. The amount is calculated by considering the loan terms, amount, and interest rate.
+Analysis of other options
+A. The statement is incorrect because it is not always the case. The portion of interest and principal differ for every payment because the interest amount depends on the outstanding balance.
+B. The correct answer is option C only, not all.
+D. A loan will be fully amortized only when all the scheduled payments are made, not when the amortization schedule is drafted.","Amortization: The amortization of the loan uses the present value of the annuity formula after considering the number of payments, loan amount, and interest rate."
+20,"An {eq}\$11,000,\ 12\%,\ 40
+
+{/eq}-day note, dated Nov. 3, is discounted at {eq}9\%
+
+{/eq} on Nov. 30. The proceeds of the note would be:","{eq}\$11,182.90
+
+{/eq}.","{eq}\$11,000.00
+
+{/eq}.","{eq}\$11,110.44
+
+{/eq}.","{eq}\$11,114.10
+
+{/eq}.",C,"The answer is
+C. $11,110.44.
+Summary:
+Par = $11,000
+Interest rate = 12%
+Maturity = 40 days
+Holding period = 27 days
+Discount rate (I) = 9%
+Determine the total amount received at maturity:
+{eq}\text{Total value} = \displaystyle \text{Maturity value} + \text{Interest} \\
+
+\text{Total value} = \displaystyle \$11,000 + \$11,000 \times \frac{12\%}{360} \times 40 \\
+
+\text{Total value} = \displaystyle $11,146.67 {/eq}
+Determine the discounted value of the note on Nov 30:
+{eq}\text{Discounted value} = \displaystyle \frac{\text{Total value}}{(1 + \displaystyle \frac{I}{360})^{\text{Holding periods}}} \\
+
+\text{Discounted value} = \displaystyle \frac{\$11,146.67}{(1 + \displaystyle \frac{9\%}{360})^{40 - 27}} \\
+
+\text{Discounted value} = \displaystyle $11,110.51 {/eq}
+The closest answer is $11,110.44.",Unsecured Note: An unsecured note is a short-term loan that is not backed by the issuer's assets. Unsecured notes are usually offered at a higher interest rate since they are riskier compared to secured debt.
+21,How is goodwill valued on an annual basis?,Amortized per schedule,Depreciated per schedule,Tested for impairment,Value remains unchanged,A,"Let us discuss each alternative:
+a. Amortized per schedule
+No, goodwill is not amortized because it is considered to be infinite-lived.
+b. Depreciated per schedule
+No,  property, plant, and equipment assets are depreciated. Limited-lived intangible assets are amortized.
+c. Tested for impairment
+This is the correct alternative. Goodwill is not amortized under US GAAP, but it must the tested for impairment at least annually, and if impaired, the loss must be recognized immediately.
+d. Value remains unchanged
+No, the value only remains unchanged for so long as the goodwill is not impaired.","Accounting for Goodwill: Goodwill is initially recognized as part of recorded a business combination when the cost of the business units exceeds the fair value of the net asset purchased. It, therefore, represents the amount the buyer was willing to pay for business synergies."
+22,Institutions that serve as the bridge between savers and borrowers are known as:,commercial banks.,credit unions.,financial intermediaries.,securities firms.,C,"The correct option is
+c). Financial intermediaries.
+Financial intermediaries act as a neutral third party in financial dealings. A bank is a good illustration because it performs multiple functions: it facilitates transactions between borrowers and lenders, and it pools money for investment purposes. On the other hand, we'll discuss the various kinds of financial middlemen that exist.","Loan: The loan is the amount of money issued by the financial institution, which is used by the borrower and paid back in installments based on the interest rate charged by the financial institution."
+23,_____ loans are typically unsecured.,Equityb. Capitalc. Asset-basedd. Term,,,,D,"(d) Term
+loans are typically unsecured.
+The most frequent sort of unsecured borrowing is a term loan. As an unsecured loan, it is subject to a number of restrictions and requirements. These loans take a person's credentials into account, such as account balances, customer history, income, and credit scores. There is no collateral associated with this loan.
+a. Equity
+is incorrect because a home equity loan is a loan for a specific amount of money that is repaid over a specific time period and is secured by the equity in your home. If you cannot repay the loan, you risk losing your property to foreclosure.
+b. Capital
+is incorrect because a working capital loan is used to supplement temporary cash-flow deficits with outside funds. Working capital loans can be used for a variety of purposes, including improving a company's tactical position.
+c. Asset-based
+is incorrect because the practice of providing money in exchange for collateral is known as asset-based lending. An asset-based loan or line of credit can be secured by inventory, accounts receivable, equipment, or other property owned by the borrower.","Loans: A loan is when money is lent to another individual in exchange for repayment of the loan principal plus interest. Both parties must agree on the loan terms before any funds are released. Revolving loans or lines can be spent, repaid, and spent again, whereas term loans have a set rate and payment."
+24,"Assuming all else is equal, which of the following loans is most likely to have the lowest total interest payments?",Unsecured non-amortizing loan.,Unsecured amortizing loan.,Secured non-amortizing loan.,Secured amortizing loan.,C,"The correct option is
+(c) Secured non-amortizing loan.
+Generally, secured loans have lower interest rates than unsecured loans, so if the loan is most likely to have the lowest total interest payments, it must be a secured loan.
+Usually, the total interest payment is lower under the constant principal repayment as here the principal repayment is fixed for all the years.
+Thus the loan that is most likely to have the lowest total interest payments would be a
+secured non-amortizing loan.","Loan: The loan is an arrangement between the lender and the borrower. A loan can be secured or unsecured, amortizing or non-amortizing based on the terms decided between the lender and the borrower."
+25,"Under the effective interest method of amortization, interest expense is calculated as:",Face values times the stated interest rate.,Carrying value times the market interest rate.,Face value times the market interest rate.,Carrying value times the stated interest rate.,B,"The correct answer is option
+B. Carrying value times the market interest rate.
+Under the effective interest method of amortization, the interest expense is calculated by multiplying the carrying value of a bond with the market interest rate prevailing on comparable securities. The stated interest rate is the coupon rate used to ascertain the coupon amount (i.e. stated coupon rate times the face value) paid to the bondholders.","Amortization of Bonds: In the context of accounting, a bond is a debt instrument issued at a premium to the face value, at a discount to the face value, or at the face value. The amortization process is a process by which a discount or premium bond is brought to its face value at maturity."
+26,Compute the exact interest (365-day year) and the total amount of the loan for the following problems.,"$2,480 at 7% for 105 days.","$13,750 at 8.5% for 150 days.","$2,500 at 5% for 30 days.",,A,"a.	Computation of total amount of the loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= {\rm\text{Given}}\,\,{\rm\text{amount}}\, \times \,{\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,480 \times 7\%  \times \frac{{105}}{{365}}\\
+
+&= \$ 49.94
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\rm{\$ 2,480}} + {\rm{\$ 49}}{\rm{.94}}\\
+
+&= {\rm{\$ 2,529}}{\rm{.94}}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,529.94.
+b.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 13,750 \times 8.5\%  \times \frac{{150}}{{365}}\\
+
+&= \$ 480.31
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 13,750} + {\$ 480}{.31}\\
+
+&= {\$ 14,230}{.31}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $14,230,31.
+c.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,500 \times 5\%  \times \frac{{30}}{{365}}\\
+
+&= \$ 10.27
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 2,500} + {\$ 10}{.27}\\
+
+&= {\$ 2,510}{.27}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,510,27.","Loan Receiving money from a friend, family member, bank, or financial institution with the expectation of repaying the principal and interest over time is referred to as a loan. The principal is the loan amount, and the interest is the cost of receiving it."
+27,"The type of debt nearly always repaid in full by the borrower, with a repayment rate of 97 percent, is _____ loans.",company-to-company,federally guaranteed,parallel,micro-,B,"The correct answer is B) federally guaranteed
+Federally guaranteed loans are also referred Federal Family Education Loans (FFELs). When a borrower fails to repay a federally guaranteed loan, the federal government repays the banking institution and takes charge of the credit. The federal government repays around 97% of the principal amount to the moneylender. At this stage, the federal government possesses the credit loan and the right to receive clearance on loan.
+Reasons for incorrect options:
+Option A)  is incorrect because, in company-to-company loans, a company gives credit guarantees, procures securities, or puts their money in another corporate body. The company fixes the repayment rate.
+Option C) is incorrect because a parallel loan involves two parent companies in distinct nations which take monies in their domestic currencies, then loans that sum to the other country's domestic subsidiary. At the loan's term expiry, the amount is remitted with interest, and the parent companies repay that sum to their domestic financial institutions.
+Option D) is incorrect because a microloan is the precise compact loan amount that a person receives as a loan from a microfinance institution. The number of microloans differs from nation to nation.",Loan: A loan is an amount advanced by one party to another in return for security or charge. The principal amount is supposed to be repaid with interest. The interest rate is decided at the beginning of the agreement.
+28,Compute the exact interest (365-day year) and the total amount of the loan for the following problems.,"$2,480 at 7% for 105 days.","$13,750 at 8.5% for 150 days.","$2,500 at 5% for 30 days.",,A,"a.	Computation of total amount of the loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= {\rm\text{Given}}\,\,{\rm\text{amount}}\, \times \,{\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,480 \times 7\%  \times \frac{{105}}{{365}}\\
+
+&= \$ 49.94
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\rm{\$ 2,480}} + {\rm{\$ 49}}{\rm{.94}}\\
+
+&= {\rm{\$ 2,529}}{\rm{.94}}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,529.94.
+b.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 13,750 \times 8.5\%  \times \frac{{150}}{{365}}\\
+
+&= \$ 480.31
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 13,750} + {\$ 480}{.31}\\
+
+&= {\$ 14,230}{.31}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $14,230,31.
+c.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,500 \times 5\%  \times \frac{{30}}{{365}}\\
+
+&= \$ 10.27
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 2,500} + {\$ 10}{.27}\\
+
+&= {\$ 2,510}{.27}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,510,27.","Loan Receiving money from a friend, family member, bank, or financial institution with the expectation of repaying the principal and interest over time is referred to as a loan. The principal is the loan amount, and the interest is the cost of receiving it."
+29,_____ loans are typically unsecured.,Equityb. Capitalc. Asset-basedd. Term,,,,D,"(d) Term
+loans are typically unsecured.
+The most frequent sort of unsecured borrowing is a term loan. As an unsecured loan, it is subject to a number of restrictions and requirements. These loans take a person's credentials into account, such as account balances, customer history, income, and credit scores. There is no collateral associated with this loan.
+a. Equity
+is incorrect because a home equity loan is a loan for a specific amount of money that is repaid over a specific time period and is secured by the equity in your home. If you cannot repay the loan, you risk losing your property to foreclosure.
+b. Capital
+is incorrect because a working capital loan is used to supplement temporary cash-flow deficits with outside funds. Working capital loans can be used for a variety of purposes, including improving a company's tactical position.
+c. Asset-based
+is incorrect because the practice of providing money in exchange for collateral is known as asset-based lending. An asset-based loan or line of credit can be secured by inventory, accounts receivable, equipment, or other property owned by the borrower.","Loans: A loan is when money is lent to another individual in exchange for repayment of the loan principal plus interest. Both parties must agree on the loan terms before any funds are released. Revolving loans or lines can be spent, repaid, and spent again, whereas term loans have a set rate and payment."
+30,The transfer to the expense of the cost of intangible assets attributed to the passage of time or decline in usefulness is called amortization.,True,False,,,A,"It is
+true
+that the transfer to the expense of the cost of intangible assets attributed to the passage of time or decline in usefulness is called amortization.
+Non-current assets entail a huge capital outflow in a single year. However, their benefits are spread over a long period. Thus, based on the matching principle of accounting, the entire cost of these assets is not recognized as an expense in the year of the asset purchase. The decrease in the value of the asset arising from wear and tear due to the passage of time or a decline in the asset's usefulness arising from obsolescence is expensed each year.
+The process of transferring the cost of a tangible asset to expenses is called depreciation. However, when the same process is used for intangible assets, it is called amortization.","Non-Current Assets: The assets that are acquired by a business to derive economic benefits for a period exceeding one accounting year are called non-current assets. They are further categorized as tangible and intangible assets, depending on whether they have a physical substance or not."
+31,A loan where the borrower receives money today and repays a single lump sum on a future date is called what kind of loan?,amortized,continuous,balloon,pure discount,D,"The correct option is
+D) pure discount
+: A pure discount loan is one that requires the entire loan amount to be paid together at the end of the period, including the principal amount as well as the interest amount. It is the future value of the loan that is repaid by the borrower.
+The incorrect options are:
+A) Amortized: Amortizing is unrolling the repayment loan amount over a period of time. An equated monthly installment (EMI) is paid based on the amortized original loan amount, reducing the original principal amount.
+B) Continuous: In a continuous loan, there is a limit and an expiration date for the entire adjustment. This contradicts the sentence stating that for a continuous loan, the borrower can repay a lump sum amount at a later date.
+C)Balloon: It is a type of loan that's not just a one-time payment. The concept of a balloon loan is that the payments are lower before the due date, resulting in a much larger amount by the end of the loan.","Loans: A loan is an amount of money that is provided by a bank or other financial institution to an individual, a company, or any other borrower.  It is financial assistance from the lender to the borrower in exchange for some additional interest on the original amount."
+32,"What is the term of a loan if $1,120 in interest is paid at 5.55% on the $10,000 principal?",2,3,4,5,A,"The correct answer is
+A. 2
+.
+We are given:
+The interest payment (I) is $1,120.
+The interest rate (i) is 5.5%.
+The loan amount (L) is $10,000.
+Calculation of the term of a loan (T) using term loan formula:
+{eq}\begin{align*}
+
+{\rm\text{Interest}} &= {\rm\text{Loan Amount}} \times {\rm\text{Interest Rate}} \times {\rm\text{Loan Term}}\\
+
+\$ 1,120 &= \$ 10,000 \times 5.55\%  \times {\rm\text{T}}\\
+
+{\rm\text{T}} &= \frac{{\$ 1,120}}{{\$ 555}}\\
+
+&= 2.03{\rm\text{ Years or }}2{\rm\text{ Years}}
+
+\end{align*}
+
+{/eq}
+The term of a loan is approximately 2 years.",Loan Term: A business association determines the loan term to manage the loan provisions that ensure the timely repayment of the debt. Managers use compound interest factors to determine the term of a loan.
+33,Where is the amortization of an intangible asset recognized?,Income Statement,Equity,Statement of Financial Position,Statement of Cash Flows,A,"The correct option is A. Income Statement.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. Income Statement
+This is the correct alternative because amortization is an operating expense that is recorded in the income statement, just like depreciation.
+B. Equity
+The amortization expense has only an indirect effect on the equity of a company because it decreases net income and so also Retained Earnings.
+C. Statement of Financial Position
+The only effect that the amortization expense has on the statement of financial position is that it decreases the carrying amount of intangible assets. In itself, it does not appear on the statement of financial position.
+D. Statement of Cash Flows
+Amortization, just like depreciation, is a noncash expense and it therefore does not affect the statement of cash flow.",Amortization: The amortization of intangible assets is an annual charge recorded using an adjusting entry that is aimed at reducing the carrying amount of intangible assets to their residual values over their useful or legal lives.
+34,How is goodwill valued on an annual basis?,Amortized per schedule,Depreciated per schedule,Tested for impairment,Value remains unchanged,C,"Let us discuss each alternative:
+a. Amortized per schedule
+No, goodwill is not amortized because it is considered to be infinite-lived.
+b. Depreciated per schedule
+No,  property, plant, and equipment assets are depreciated. Limited-lived intangible assets are amortized.
+c. Tested for impairment
+This is the correct alternative. Goodwill is not amortized under US GAAP, but it must the tested for impairment at least annually, and if impaired, the loss must be recognized immediately.
+d. Value remains unchanged
+No, the value only remains unchanged for so long as the goodwill is not impaired.","Accounting for Goodwill: Goodwill is initially recognized as part of recorded a business combination when the cost of the business units exceeds the fair value of the net asset purchased. It, therefore, represents the amount the buyer was willing to pay for business synergies."
+36,The cost of a patent with a remaining legal life of 10 years and an estimated useful life of 7 years is amortized over 10 years.,True,False,,,B,"The statement is FALSE.
+The accounting standards say that limited-lived intangible assets are amortized over the
+shorter of their legal or estimated useful lives
+. This means that if a parent has a remaining g legal life of 10 years and an estimated useful life of 7 years, it must be amortized over
+7 years
+because its estimated useful life is shorter than its legal life.
+Intangible assets must also be tested for impairment at least annually.","Amortization of Intangible Assets: Intangible assets are assets that lack a physical substance and include assets such as trademarks, patents, and copyrights. Intangible assets can be either limited-lived or indefinite-lived and limited-lived intangible assets must be amortized."
+37,"In general, intangible assets are:",Amortized over the shorter of their economic lives or legal lives using the straight-line method,Depreciated over the shorter of their economic lives or legal lives using the straight-line method,Amortized over the longer of their economic lives or legal lives using an accelerated method,Depreciated over the longer of their economic lives or legal lives using an accelerated method,C,"The correct option is (C)
+Option C is correct, as intangible assets cannot be seen or touched. We cannot depreciate them, so we need to amortize their value over the useful life of the assets for tax purposes. It is calculated for tax purposes, so accelerated depreciation is used.
+Explanation of Incorrect Options
+Option A is incorrect as these assets are straight-line methods not used for intangible assets.
+Option B is incorrect as they are not depreciated. Instead, they are amortized.
+Option C is incorrect as they are not depreciated. Instead, they are amortized.",Straight line Basis: It is a method used to recognize the reduction rate of an asset over a useful life span of asset. It is a simple technique to calculate the asset's value loss. A few of the other methods are the sum of years.
+38,"If technology changes rapidly, a firm should:",expense plant assets immediately because of the uncertainty of future benefits.,depreciate plant assets over long periods of time.,consider an accelerated rate of depreciation.,use the straight-line method of depreciation as it is the easiest.,C,"Option c
+is the correct answer.
+It would be better for the company to opt for accelerated depreciation in the case of rapidly changing technology. Accelerated depreciation will allow companies to charge higher depreciation during the initial years and lower in the latter half. Hence, option c is correct.
+Option a: Expensing plant assets immediately would be wrong as the majority of technology changes after 2-3 years. Expediting it immediately would portray the wrong net income to investors. Hence, option a is wrong.
+Option b: Depreciating it over a long period of time would make the asset of no use in rapidly changing technology. As per this approach, assets will exhibit value on the books, but in the real world, they will be worthless. Hence, option b is wrong.
+Option d: Straight-line depreciation is used in a stable environment where a company's environment does not expect dramatic changes on a regular basis. Hence, option d is wrong.
+Hence, option c is right.",Depreciation: Depreciation is a way of allocating the cost of equipment or property on the income statement. Depreciation usually depends on the useful life of the asset. Methods of depreciation are based on management's perception.
+39,"A patent was purchased for $670,000 with a legal life of 20 years. Management estimates that the patent has a 12-year economic life. The entry to record amortization would include:","an increase in amortization expense for $33,500.","an increase in research and development expense for $670,000.","a decrease in patent for $55,833.","an increase in accumulated amortization for $670,000.",C,"The correct answer is
+c. a decrease in patent for $55,833
+.
+Given information
+Cost of patent = $670,000
+Economic life = 12 years
+Legal life = 20 years
+The patent is amortized over the economic or legal life, whichever is lower. The economic life is shorter, and thus amortization is determined based on it.
+The amortization amount can be computed as follows:
+{eq}\begin{aligned} \text{Amortization Amount} &=\frac{\text{Cost}}{\text{Economic Life}} \\ &=\frac{\$670,000}{12} \\ &=\$58,333.33 \end{aligned} {/eq}
+The other options are incorrect.
+a. an increase in amortization expense for $33,500
+: Amortization is charged based on economic life because it is shorter than legal life. Hence, amortization expenses cannot increase by $33,500.
+b. an increase in research and development expense for $670,000
+: A patent is an intangible asset and thus recognized accordingly and not as an increase in research and development expense.
+d. an increase in accumulated amortization for $670,000
+: The accumulated amortization is increased year-by-year by the amount of amortization expense.",Amortization: Amortization distributes the cost of an intangible asset over its useful life (in the books). It helps in determining the actual cost of an asset as of the balance sheet date. Amortization is charged as an expense against the income earned during a period.
+40,"Neufeld Company issued $2,000,000 of 6%, 5-year bonds at 98, which pay interest annually. Assuming straight-line amortization, what is the carrying value of the bonds after one year?","$1,964,000.","$1,968,000.","$1,960,000.","$1,976,000.",B,"The correct option is (B)
+Determining the carrying value of the bonds after a year:
+{eq}\begin{align*}{\rm\text{Carrying}}\,{\rm\text{value}}\;{\rm\text{of}}\;{\rm\text{the}}\;{\rm\text{bonnds}} &= \left( {{\rm\text{Face}}\;{\rm\text{value}} \times 98\% } \right) + \left[ {\frac{{\left( {{\rm\text{Face}}\;{\rm\text{value}} \times \left( {1 - 98\% } \right)} \right)}}{5}} \right]\\ &= \left( {\$ 2,000,000 \times 0.98} \right) + \left[ {\frac{{\left( {\$ 2,000,000 \times \left( {1 - 0.98} \right)} \right)}}{5}} \right]\\ &= \$ 1,960,000 + \$ 8,000\\ &= \$ 1,968,000\end{align*} {/eq}
+Hence, the carrying value of the bonds after a year is $1,968,000.
+Note: Straight-line amortization is followed.","Straight-Line Amortization: As the name suggests, straight-line amortization gives an even amount of interest that the company calculates to repay the commitments. For repayment, many businesses use straight-line amortization."
+41,"If your firm is short of cash and a telemarketer happens to call offering your firm a loan, you should _____.",check it out because your firm has nothing to lose,first go to your company's regular bank before considering a loan from an unfamiliar source,consider it if it is offered regardless of your firm's credit problems,seriously consider any source of a loan if your firm needs cash,B,"The correct option is
+Option b: first go to your company's regular bank before considering a loan from an unfamiliar source
+.
+Option a: Taking a loan will impact the firm's cash flow as it will involve paying down the interest and principal amount at a stipulated time. Therefore, it will result in an outflow of cash. This option would be an inaccurate decision for the firm.
+Option b: Banks always consider certain factors like credit score, repayment history, current income, and loan amount before lending funds to any firm. If a firm receives any loan offerings, it must consult with its regular banks for such matters and discuss relevant facts about loan taking, like assessing all costs, the ability of loan repayment, and interest rates, and checking any hidden gimmicky offers. Thus, this option is an accurate and correct decision.
+Option c: If credit problems are prevailing in a firm's operation, then it must avoid taking a loan as it will have insufficient collateral and inconsistent cash flows for repaying and availing the loan. Thus, this option is also inaccurate.
+Option d: If the firm considers loans as their funding source, then they are increasing liabilities for the firm which require cash availability at the time of their monthly installments. Rather, it must opt for other debt instruments to raise funds and fulfill cash requirements. Hence, this option is also inaccurate.","Debt Financing: Debt financing relates to one financing source where the entity obtains or borrows funds, either by borrowing from a financial institution or issuing debt instruments. Commonly, this practice is done for business expansion or working capital."
+42,A term loan is usually characterized by:,a maturity of one to seven years,a variable interest rate,monthly or quarterly installment payments,All of these.,D,"The correct answer is option
+d. All of these
+A term loan is characterized by all these features, including a fixed maturity date, a fixed or variable interest rate, and regular installment payments.
+A) A maturity of one to seven years
+: A term loan is a loan that has a fixed maturity date, which might be anywhere between one and seven years, even if it occasionally lasts for ten years or longer. The borrower agrees to pay back the loan amount and any interest and fees within the specified period.
+B) A variable interest rate
+: If the loan has a variable interest rate, then the interest rate can fluctuate over the life of the loan based on shifts in the market. This means the borrower's monthly payments could also vary, depending on the current interest rate.
+C) Monthly or quarterly installment payments
+: Term loans are repaid through regular, scheduled payments over the loan term. These payments are typically made monthly or quarterly and include both principal and interest. The borrower agrees to make these payments on time, as specified in the loan agreement.","Term Loan: A term loan is a type of loan with a fixed maturity date and is reimbursed through systematic, planned payments over time. It generally does not charge penalties if not paid as per schedule."
+43,"Given a fully amortizing loan, which type of loan repayment schedule would result in the least amount of interest being paid over the life of the loan?",annual principal payments,semiannual principal payments (every 6 months),quarterly principal payments,monthly principal payments,A,The answer is a. annual principal payments.  More interest is paid on a loan as the frequency of its compounding increases.  This means loans with the most infrequent compounding schedules result in the lowest amount of total interest paid.,Fully amortizing loan: A fully amortizing loan is one that gradually reduces the principal to zero via a series of consistent payments.  The payments reflect a decreasing amount applied to interest and an increasing amount applied to the principal.
+44,"Ahmed took out a loan from his bank. He was charged a rate of 4% p.a. for 3 years. He paid the bank AED 2,400 in interest. How much money did Ahmed borrow from his bank?","AED 20,000",AED 288,"AED 17,600","AED 2,688",A,"The correct answer is
+option a. AED 20,000
+.
+Given information:
+Rate = 4% p.a.
+Period = 3 years
+Interest = AED 2,400
+The amount borrowed is known as the principal amount, which can be computed using the formula given below.
+{eq}\begin{aligned}
+
+\text{Borrowed}\ \text{amount}
+
+&=\frac{\text{Interest}}{\text{Rate}\times \text{Period}} \\
+
+&=\frac{2,400}{4\%\times 3} \\
+
+&=\frac{2,400}{0.12} \\
+
+&=20,000
+
+\end{aligned}
+
+{/eq}
+Thus, the money borrowed by Ahmed from bank is
+AED 20,000.","Loan: A loan is a liability created to raise funds for a short or long term. Loans can be taken from banks, financial institutions, individuals, etc. A certain amount of interest is the cost of borrowing."
+45,"You have just purchased a home and taken out a $490,000 mortgage. The mortgage has a 30-year term with monthly payments and an APR of 4.88%.",How much will you pay in interest and how much will you pay in principal during the first year?,How much will you pay in interest and how much will you pay in principal during the 20th year?,,,A,"Mortgage = $490,000
+n  = 30-years adjusted for monthly payments = 30*12 =360
+APR  = 4.88% adjusted for monthly payments = 0.0488/12
+Question a.
+First calculate the monthly payment
+{eq}\begin{align*}
+
+\ Payment& =   \dfrac{Loan *r}{(1 - (1 + r )^{-n}) }\\
+
+& =\dfrac{Loan *r}{(1 - (1 + r )^{-n}) }\\
+
+& = \dfrac{490,000*(0.0488/12)}{1 - (1+(0.0488/12))^{-360})}\\
+
+& = \dfrac{1,992.6667}{0.768003095}\\
+
+& =$2,594.61\\
+
+\end{align*}
+
+{/eq}
+Calculate the balance at the end of 12 months:
+n-t is the remaining =360 -12=348
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 2,594.61 * \dfrac{(1 - (1 + (0.0488/12) )^{-348}) }{(0.0488/12)}\\
+
+& = 2,594.61 * 186.006137213\\
+
+& = $482,613.38\\
+
+\end{align*}
+
+{/eq}
+Calculate the total principal paid
+Principal payment = Beginning loan balance - Loan balance at the end of year 1
+Principal payment = 490,000 - 482,613.38
+Principal payment = $7,386.62
+Calculate the total  interest paid
+Interest paid = Total payments in year 1 - Principal paid
+Interest paid = (2,594.61*12) - 7,386.62
+Interest paid =$23,748.70
+Question b.
+Calculate the loan balance at the end of year 19 and year 20 then compute the interest and principal paid during the 20th year
+Loan balance at the end of year 19
+n-t is the remaining =360 - (19*12)=132
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 2,594.61 * \dfrac{(1 - (1 + (0.0488/12) )^{-228}) }{(0.0488/12)}\\
+
+& = 2,594.61 * 101.987026250\\
+
+& = $ 264,616.56\\
+
+\end{align*}
+
+{/eq}
+Loan balance at the end of year 20
+n-t is the remaining =360 - (20*12)=120
+{eq}\begin{align*}
+
+\ Loan \ balance & = Payment * \dfrac{(1 - (1 + r )^{-(n-t)}) }{ r}\\
+
+& = 2,594.61 * \dfrac{(1 - (1 + (0.0488/12) )^{-120}) }{(0.0488/12)}\\
+
+& = 2,594.61 * 94.804762348\\
+
+& = $245,981.38\\
+
+\end{align*}
+
+{/eq}
+Calculate the total principal paid
+Principal payment = Loan balance at the end of year 19 - Loan balance at the end of year 20
+Principal payment = 264,616.56 - 245,981.38
+Principal payment = $18,635.18
+Calculate the total  interest paid
+Interest paid = Total payments in year 1 - Principal paid
+Interest paid =(2,594.61*12) -  18,635.18
+Interest paid =$ 12,500.14","Loan Amortization: A mortgage is a loan obtained to purchase a home or building. Loan amortization is the process of repaying a loan that reduces the principal amount in subsequent periods. In addition to the principal repayment, the borrower must pay interest. A fixed-rate mortgage has equal monthly payments, which we estimate using the time value of money (TVM) formula. The TVM formulas are also used to calculate the loan balance after some payments have been made. It's important to remember that the loan balance at the end of a specified period is the discounted value of the outstanding monthly payments."
+46,A term loan is usually characterized by:,a maturity of one to seven years,a variable interest rate,monthly or quarterly installment payments,All of these.,D,"The correct answer is option
+d. All of these
+A term loan is characterized by all these features, including a fixed maturity date, a fixed or variable interest rate, and regular installment payments.
+A) A maturity of one to seven years
+: A term loan is a loan that has a fixed maturity date, which might be anywhere between one and seven years, even if it occasionally lasts for ten years or longer. The borrower agrees to pay back the loan amount and any interest and fees within the specified period.
+B) A variable interest rate
+: If the loan has a variable interest rate, then the interest rate can fluctuate over the life of the loan based on shifts in the market. This means the borrower's monthly payments could also vary, depending on the current interest rate.
+C) Monthly or quarterly installment payments
+: Term loans are repaid through regular, scheduled payments over the loan term. These payments are typically made monthly or quarterly and include both principal and interest. The borrower agrees to make these payments on time, as specified in the loan agreement.","Term Loan: A term loan is a type of loan with a fixed maturity date and is reimbursed through systematic, planned payments over time. It generally does not charge penalties if not paid as per schedule."
+47,A loan estimate must include:,loan amount,loan payoff date,projected appraisal cost,title insurance premium,D,"The correct answer is option d.
+title insurance premium.
+The loan estimate is a document that contains all the information regarding the loan requested by an individual. The lender must deliver the borrower with this document within a maximum of 3 days after receiving the loan application.
+This document contains important information like the interest rate, the monthly payment that the borrower needs to pay, or the total cost of the loan, including the principal amount and the interest charged. It also provides information on taxes or the title insurance premium or how the future interest and payments for the borrower will change. This document is written in clear language, which the borrower can easily understand. It is designed to help better understand the terms and conditions the lender assigns to the borrower.
+Reasons for incorrect options:
+a. The borrower mentions the loan amount in the application provided to the lender for the loan request, and the loan estimate tells all the terms and conditions of the loan based on the loan amount requested by the borrower.
+b. Loan estimates provide information regarding all the costs, expenses, interest, payments, taxes, insurance, etc., that is, all the financial aspects of the loan.
+c. The projected appraisal cost is the cost that the lender incurs to check the capability of the borrower to repay the borrowed money. It is also not included in the loan estimate as the lender gets the loan estimate prepared based on the project appraisal done on the borrower.","Loan Estimate: A document that holds all the financial aspects of the loan, like the payments, interest, and total loan closing cost, and must be given by the lender to the borrower in three days, is called the loan estimate."
+48,"Dinero Bank offers you a $32,000, 7-year term loan at 12 percent annual interest. What will your annual loan payment be?","$7,455.81","$7,011.77","$7,719.50","$6,982.22",B,"The correct answer is b. $7,011.77
+From the question:
+Loan amount is $32,000
+Loan duration is 7 years
+Annual interest rate is 12%
+Calculation of annual loan payment:
+{eq}\begin{align*}{\rm{Annual}}\,{\rm{Loan}}\,{\rm{Payment}} &= \frac{{{\rm{rate}}\,\left( {{\rm{Present}}\,{\rm{Value}}} \right)}}{{1 - {{\left( {1 + {\rm{rate}}} \right)}^{ - {\rm{n}}}}}}\\ &= \frac{{0.12 \times \$ 32,000}}{{1 - {{\left( {1 + 0.12} \right)}^{ - 7}}}}\\& = \frac{{\$ 3,840}}{{0.547}}\\ &= \$ 7,011.77\end{align*}
+
+{/eq}
+Therefore, the annual loan payment is $7,011.77","Loan: When a borrower borrows some money on credit with a promise to repay that loan amount with the added interest of a specific rate after a period or in installments, that borrowed amount is known as a loan."
+49,The cost of an intangible asset with an indefinite life should:,be amortized over the life of the creator plus 70 years.,none of these answer choices are correct.,not be amortized.,be amortized over 20 years.,C,"The correct answer is option C. not be amortized.
+As a general rule, intangible assets with indefinite lives, such as trademarks, goodwill, or certain licenses, are considered to have a useful life that cannot be reliably estimated or extends beyond the foreseeable future. As a result, under U.S. GAAP (ASC 350) and IFRS (IAS 38), these intangible assets are not subject to amortization but are reviewed for impairment regularly to ensure they are not overvalued on the company's balance sheet. In short, the cost of an intangible asset with an indefinite life should not be amortized but tested for possible asset impairment.
+Therefore, the correct answer is option
+C. not be amortized.","Asset Impairment: Asset impairment happens when an asset loses value, making its carrying amount on the balance sheet higher than its recoverable amount or fair value. This means it won't provide the expected economic benefits."
+50,Which financial statement would contain the following account balance: Amortization expense?,Balance Sheet,Income Statement,Statement of Owners' Equity,,B,"The correct answer is
+b. Income Statement
+.
+Amortization expense is the conversion of an intangible asset's capital cost into revenue expense. It is reported on the income statement, irrespective of the fact that it is a non-cash expense. Amortization expense is debited to the income statement, reducing the net income.
+Other options are incorrect for the following reasons:
+Answer Options
+Explanation
+a. Balance Sheet
+A balance sheet reports intangible assets, not expenses related to them.
+c. Statement of Owners' Equity
+The statement considers net income (which already is adjusted for the expenses).","Financial Statements: Financial statements provide a clear picture of how the business is improving from year to year when it comes to its operating performance, financial status, and liquidity position. The investment decisions of the users also depend on the financial statements."
+51,Which of the following relationships between the category of intangibles and amortization is not true?,I,II,III,IV,C,"The correct option is C.
+The statement in option c is not valid. Goodwill is intangible with an undefined life that can't be amortized. It is only tested for impairment.
+Explanation of incorrect options:
+Option A is true. Intangible assets with a specific useful life are amortized over that specific period.
+Option B is true. Intangible assets with indefinite life cannot be amortized as the amortization amount cannot be calculated.
+Option D is true. internally developed intangible assets are not recognized in the books because they could not be reliably measured. Hence, no amortization is recorded related to them.",Intangible Assets: These are the assets that can't be felt or seen with the eyes and raises the value of the firm when posted to the assets side of a company's balance sheet. Goodwill is one of the famous examples of Intangibles.
+52,"On March 1, 2015. Moreno Company purchased a patent from another company lot $90,000. The estimated useful life of the patent is 10 years.","$7,500","$9,000","$1,500","$6,750",B,"The correct option is
+(b.) $9,000
+Given that -
+Cost = $90,000
+Sakvage Value = $0
+Useful Life = 10 years
+{eq}\text{Amortization Expense} = \dfrac{\text{Cost - Salvage Value}}{\text{Useful Life}}
+
+{/eq}
+{eq}\text{Amortization Expense} = \dfrac{\$90,000 - \$0}{10}
+
+{/eq}
+{eq}\text{Amortization Expense} = \dfrac{\$90,000}{10}
+
+{/eq}
+{eq}\text{Amortization Expense} = \text{\$9,000 per year}
+
+{/eq}","Patent: A patent is an intangible asset that gives a right to the holder to use the technology, formula, design, etc., for a set period. Businesses amortize the patent over their useful life."
+53,"Kingbird, Inc. purchases a patent for $225,600 on January 2, 2019. Its estimated useful life is 12 years.",Prepare the journal entry to record amortization expenses for the first year.,Show how this patent is reported on the balance sheet at the end of the first year.,,,A,"a. The computation for the amortization is also the same as the process in computing the depreciation.
+Patent (a)
+225,600
+Estimated Useful Life (b)
+12
+Amortization (c=a/b)
+18,800
+Account
+Debit
+Credit
+Amortization
+18,800
+Accumulated Amortization
+18,800
+To record the patent amortization.
+b. In the balance sheet, the accumulated amortization will be presented below the patent account to determine the net value of the patent. This is presented just like how the accumulated depreciation is reported below the depreciable asset. However, the amortization expense account will not be presented in the balance sheet, instead, this will be reported in the income statement.","Intangible Assets: Intangible assets are assets which are not physically seen. In the balance sheet, these are reported as part of the non-current assets. These include patent, goodwill, copyright, trademark, among others."

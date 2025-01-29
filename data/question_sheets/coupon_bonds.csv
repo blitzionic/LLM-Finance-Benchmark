@@ -1,0 +1,574 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"A 25-year bond with a par value of $1,000 sells for $990.92. The current market interest rate is 10%. How much coupon interest does the bond pay?",$119.34 ,$98.99 ,$247.45 ,$100.00 ,B,"The correct answer is Option
+(B)
+i.e.,
+$98.99
+.
+Given Information
+Par value, FV =$1,000
+Current price, CP = $990.92
+Interest rate, r = 10%
+Time to maturity = 25 years
+Let C be the coupon payment.
+Computation of coupon interest payment
+{eq}\begin{align*}
+
+CP &= \left[ {C \times \left( {\dfrac{{1 - {{\left( {1 + r} \right)}^{ - n}}}}{r}} \right)} \right] + \dfrac{{FV}}{{{{\left( {1 + r} \right)}^n}}}\\
+
+\$ 990.92 &= \left[ {C \times \left( {\dfrac{{1 - {{\left( {1 + 10\% } \right)}^{ - 25}}}}{{10\% }}} \right)} \right] + \dfrac{{\$ 1,000}}{{{{\left( {1 + 10\% } \right)}^{25}}}}\\
+
+\$ 990.92 &= \left[ {C \times \dfrac{{0.9077}}{{0.10}}} \right] + \dfrac{{\$ 1,000}}{{10.8347}}\\
+
+\$ 990.92 &= 9.077 \times C + \$ 92.30\\
+
+C &= \dfrac{{\left( {\$ 990.92 - \$ 92.30} \right)}}{{9.077}}\\
+
+&= \$ 98.99
+
+\end{align*}
+
+{/eq}
+Thus, the coupon interest payment for the bond is approximately $98.99.",Coupon Rate: The coupon rate is the rate issued with steady income security. It is similar to the simple interest rate on a bank deposit. The investors get attracted to the bond having a high coupon rate.
+2,"A bond with a coupon rate of 7.5% maturing in 10 years at a value of $1,000 and the current market price of $776 will have a current yield to maturity of:",11.30%,10.40%,9.70%,7.50%,C,"The correct answer is
+c. 9.7%
+.
+In order to calculate the current yield, we need the following inputs:
+Coupon amount = $75 ($1,000 × 7.5%)
+Current market price = $776
+The formula below explains how these inputs are arranged to arrive at the current yield:
+Current yield = {eq}\dfrac{\text{Current Yield}}{\text{Current Market Price}} = \dfrac{\$75}{\$776} = 9.7\% {/eq}",Bond's Coupon: A bond's coupon rate refers to the fixed interest rate the company offers to the bond investors for the bond's life. It is a percentage applied to the bond's par value and is a necessary metric for bond valuation.
+3,"If a corporate bond with a face value of $2,000 pays yearly coupon payments of $50, what is the coupon rate?",2.50%,4%,25%,40%,A,"Correct Answer:
+Option a. 2.5%
+.
+We can determine the coupon rate using the following formula:
+{eq}\text{Coupon rate} = \dfrac{\text{Coupon amount}}{\text{Bond's face value}} = \dfrac{\$50}{\$2,000} = 2.5\%
+
+{/eq}
+The coupon rate is applied to the bond's face value.","Face Value: A bond can be issued at face value, usually $1,000. It can also be issued at a value above or below the face value. Bond premium or discount should be amortized over the bond's useful life."
+4,"On July 1, 2017, Jason Company purchased $60,000 of ten-year 6% bonds of Santo, Inc., for $51,850, to be held to maturity. Interest is payable semiannually on June 30 and December 31. The effective yield on the investment is 8%.","$2,400 ","$2,084.96 ","$2,063.04 ","$2,074 ",D,"The correct option is D.
+The interest revenue is calculated using the cost of the bonds and their effective yield:
+Cost of the bonds
+$51,850
+Effective yield
+8%
+Annual interest revenue = $51,850 × 0.08
+$4,148
+Interest for 6 monhts
+= $4,148 × 6/12
+$2,074
+Jason Company will receive cash interest payment of $60,000 × 0.06 × 6/12 = $1,800. The balance of the interest revenue is the amortization of the bond discount.",Investment Revenue: Investment revenue is a non-operating revenue on the income statement of most companies. It represents the interest and dividend revenue a company recognized on its investments in the debt and equity securities of other companies.
+5,"What is the total return to an investor who buys a bond for $1,060 when the bond has a 6.75% coupon rate and 3 years remaining until maturity, then sells the bond after 1 year for $1,040?",4.57%,4.48%,5.30%,6.75%,B,"The total return to an investor is 4.48% (B)
+The calculation for total return is shown below.
+{eq}Total \ return \ = \ \dfrac{Selling \ price \ + \ \left ( Face \ value \ \times \ Coupon \ rate \right ) \ - \ Purchase \ price}{Purchase \ price} \ \times \ 100
+
+\\
+
+Total \ return \ = \ \dfrac{\$1,040 \ + \ \left ( \$1,000 \ \times \ 6.75\% \right ) \ - \ \$1,060}{\$1,060} \ \times \ 100
+
+\\
+
+Total \ return \ = \ \dfrac{\$1,040 \ + \ \$67.50 \ - \ \$1,060}{\$1,060} \ \times \ 100
+
+\\
+
+Total \ return \ = \ \dfrac{\$47.5}{\$1,060} \ \times \ 100
+
+\\
+
+Total \ return \ = \ 4.48\%
+
+{/eq}",Coupon Rate: A coupon rate can be defined as the interest rate that the bond issued is offering to the investors. The coupon rate is used to calculate the semi-annual or annual interest payment made to the investor.
+81,A $1000 face value coupon bond with a $60 coupon payment every year has a coupon rate of,0.6 percent.,5 percent.,6 percent.,10 percent.,C,"Let us determine the annual coupon rate. The formula is:
+{eq}Coupon\:rate = \dfrac{Coupon\:payment}{Face\:value}
+
+{/eq}
+Here, the face value is $1,000 and the coupon payment made every year is $60.
+{eq}Coupon\:rate = \dfrac{60}{1,000} \\
+
+Coupon\:rate = 0.06 \:or\:6\text{%}
+
+{/eq}
+The coupon rate is
+C. 6 percent.","Coupon Rate: The coupon rate is the rate used to determine the actual amount paid by the issuing company to its bondholders as periodic interest. Depending on the agreement, the coupon payment can be paid monthly, quarterly or semiannually."
+82,"A $2,000 face value coupon bond with a $120 coupon payment every year has a coupon rate of:",0.60%,5%,6%,10%,C,"The correct answer to the given question is option
+C) 6 %
+.
+The coupon rate is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Coupon payment}}{\text{Face value}} \\[0.3 cm]
+
+&= \dfrac{\$120}{\$2,000} \\[0.3 cm]
+
+&= 6\%
+
+\end{align*}
+
+{/eq}","Bonds: In the context of economics, a bond is a credit instrument used by financial institutions, governments and corporate to borrow funds from investors. The factors which influence the price of a bond are the time remaining till maturity, the coupon rate and the relevant market interest rate."
+83,"A bond pays $25 in interest every 6 months and matures in 12 years. Its par value is $1,000. The bond is currently priced at $980. What is the bond's coupon rate?",$25 ,$50 ,2.50%,5.00%,D,"d. 5.0%
+Semi-annual interest = $25
+n =12 years
+Par value= $1,000
+Price = $980
+{eq}\begin{align*}
+
+Coupon \ rate & = \dfrac{Coupon \ payment}{ Par}* 2\\
+
+& = \dfrac{25}{ 1,000} * 2\\
+
+& =0.05\\
+
+& =5\%\\
+
+\end{align*}
+
+{/eq}","Coupon Rate: In pricing a bond, the four variables required are; face value, coupon rate, yield to maturity, and the term to maturity. The coupon rate is applied to estimate the fixed interest payments the bondholder will be earning each period. The coupon rate is expressed in percent form and is multiplied by the face value to calculate the coupon payment."
+84,"A General Electric 7{eq}\frac {1}{2}
+
+{/eq} 25 bond closed at 98. What is the current yield?",7.81%,7.65%,7.50%,7.34%,B,The current yield on this bond would be b. 7.65%.  This is calculated by taking the annual coupon payment and dividing that by the bond's present market value.  Taking the 7/25 bond would enter a 7.65% yield.,Bond Coupon: A bond coupon or coupon rate is the actual amount of interest that is paid on the bond.  This is communicated as a percentage and is usually paid on a semi-annual basis.
+85,"Bryant Inc. just issued {eq}\$1,000
+
+{/eq} par {eq}30
+
+{/eq}-year bonds. The bonds sold for {eq}\$1,107.20
+
+{/eq} and pay interest semiannually. Investors require a rate of {eq}7.75\%
+
+{/eq} on the bonds. What is the bonds' coupon rate?","{eq}9.333\%
+
+{/eq}.","{eq}7.750\%
+
+{/eq}.","{eq}4.125\%
+
+{/eq}.","{eq}8.675\%
+
+{/eq}.",D,"The annual coupon rate is
+8.675%
+.
+So, the correct answer is
+option d) 8.675%
+Explanation
+Present value of bond = Semi-annual interest * PVIFA (semi-annual rate, period) + Maturity value * PVIF (semi-annual rate, period)
+Here,
+Present value of bond = $1,107.20
+Semi-annual rate = 3.875% (7.75%/2)
+Period = 60 semi-annual years (30 * 2)
+Maturity value = $1,000
+Semi-annual interest = Face value * Coupon rate
+So,
+$1,107.20 = Semi-annual interest * PVIFA (3.875%, 60) + $1,000 * PVIF (3.875%, 60)
+$1,107.20 = Semi-annual interest * PVIFA (3.875%, 60) + $1,000 * PVIF (3.875%, 60)
+$1,107.20 = $1,000 * Coupon rate * 23.169719 + $1,000 * 0.102173
+$1,107.20 = Coupon rate * 23,169.72 + $102.17
+Semi-coupon rate = 0.043377 or 4.3377%
+Annual Coupon rate
+= 2 * 4.3377% =
+8.675%",Coupon Rate The coupon rate is the interest rate based on which the interest is paid to the investors. The cash paid as interest is computed as a percentage of the face value. And this percentage is called as coupon rate. If the coupon rate is more than the market rate the bond is issued at a premium and if coupon rate is lower the issue takes place at a discount
+86,"Bryant Inc. just issued $1,000 par 30-year bonds. The bonds sold for $1,107.20 and pay interest semiannually. Investors require a rate of 7.75% on the bonds. What is the bonds' coupon rate?",4.13%,7.75%,8.68%,9.33%,C,"c. 8.675%
+Par value = $1,000
+Term to maturity (n)= 30 years  adjusted for semi-annual compounding =30*2=60
+Price = $1,107.20
+Required rate of return (r) = 7.75% adjusted for semi-annual compounding = 0.0775/2 = 0.03875
+Calculate the coupon payment (CP)
+{eq}\begin{align*}
+
+\ Bond \ price & = CP * \dfrac{ (1 - (1 + r)^{-n})}{ r} +\dfrac{ Par} {(1 + r)^{n}}\\
+
+1,107.20  & = CP * \dfrac{ (1 - (1 + 0.03875)^{-60})}{ 0.03875} +\dfrac{1,000} {(1 + 0.03875)^{60}}\\
+
+1,107.20  & = 23.16971903CP + 102.17\\
+
+CP & =\dfrac{ 1,107.20 - 102.17}{ 23.16971903}\\
+
+& = 43.377\\
+
+\end{align*}
+
+{/eq}
+Semi-annual coupon payment =$43.377
+Annual coupon payment is = 43.377 *2 =$86.754
+Calculate the coupon rate
+{eq}\begin{align*}
+
+\ Coupon \ rate & =\dfrac{ coupon \ payment}{par \ value}\\
+
+& =\dfrac{ 86.754}{1,000}\\
+
+& = 0.086754\\
+
+& = 8.675\%\\
+
+\end{align*}
+
+{/eq}","Coupon Rate: The coupon rate is one of the features of a bond that determines the price of a bond the other features being; the par value, term to maturity, and the yield to maturity. The coupon rate is expressed in percent form and is applied to compute the coupon payments of the bond by multiplying this rate by the par value. The coupon payments are in the form of an annuity and together with the par value are discounted to their present worth using the yield to maturity to estimate the price of a bond."
+87,Floating rate bonds have a _____ that is adjusted with current market interest rates.,maturity date,coupon payment date,coupon rate,dividend yield,C,"The answer is C. coupon rate.  Floating rate bonds entail a periodic adjustment of their coupon rate (monthly, quarterly, semiannually, etc.), usually via an update to a stated reference rate.  This differs from a fixed-rate bond, which maintains a fixed coupon rate for the stated term of the debt instrument.","Coupon Rate: For a bond, the coupon rate is the stated rate to be paid at specified intervals.  For example, a $1,000 bond that contains a 5% coupon rate to be paid annually, will payout $500 annually ($1,000 * .05 = $500).  The $500 is the annual coupon."
+88,"How much will the coupon payments be of a 25 year $5,000 bond with a 8% coupon rate and semi annual payments?",$800 ,$400 ,$200 ,$67 ,C,"The coupon payment is semiannual.  This means that the semiannual coupon rate is 8% / 2 = 4%.  The coupon rate is a percentage of the par value.  Therefore,
+Coupon payment = Semiannual rate * Par
+Coupon payment = 0.04 * 5,000
+Coupon payment = $200
+The correct answer is C.","Bond Par Value: Most corporate bonds have a par (or face) value of $1,000.  Municipal bonds are typically issued with par values of $5,000.  Government bonds have par values up to $1,000,000."
+89,"If a $1000 face value coupon bond has a coupon rate of 3.75 percent, then the coupon payment every year is",$37.50.,$3.75.,$375.00.,$13.75 ,A,"The coupon payment is based on the coupon rate and the face value of the bond. Let us compute the annual coupon payment.
+{eq}Annual\:coupon\:payment = Face\:value \times Interest\:rate \\
+
+Annual\:coupon\:payment = 1,000 \times 0.0375 \\
+
+Annual\:coupon\:payment = 37.50
+
+{/eq}
+Based on our computations, the annual coupon rate is
+A. $37.50.","Coupon Bond: A coupon bond is one where the bondholders receive a certain amount as interest for every period. The period can be monthly, semi-annually, or annually. The coupon payment is a fixed interest."
+90,"If a $5,000 coupon bond has a coupon rate of 13 percent, then the coupon payment every year is",$650.00 ,"$1,300.00 ",$130.00 ,$13.00 ,A,"The correct answer is
+A. $650.
+The calculation of coupon payment in $ is as follows
+^Coupon rate = 13%
+^Par value of bond = $5,000
+Coupon Payment = Par value of bond x Coupon rate
+Coupon Payment = 5,000*13%
+Coupon Payment = $650","Coupon Bond: This pays its owner a fixed rate of interest for every period until it reaches its maturity. At its maturity date, it is the equivalent face value of the bond plus the interest it incurs through the coupon rate."
+91,"Lisa can purchase bonds with 15 years until maturity, a par value of $1,000, and a 9 percent annualized coupon rate for $1,100. Lisa's yield to maturity is __________ percent.",9.33,7.84,9,none of the above,D,"Option d is the correct answer.
+None of the given answers in options a, b, and c is correct. This is because Lisa's yield to maturity is
+7.94%.
+Calculation of Yield to maturity of the bond:
+{eq}\begin{align*}
+
+{\rm\text{Yield to Maturity }} &= \;\dfrac{{\left[ {{\rm\text{C }} + \;\dfrac{{\left( {{\rm\text{F}} - {\rm\text{P}}} \right)}}{{\rm\text{n}}}} \right]}}{{\dfrac{{\left( {{\rm\text{F}} + {\rm\text{P}}} \right)}}{2}}}\\
+
+&= \;\dfrac{{\left[ {\$ 90{\rm\text{ }} + \;\dfrac{{\left( {\$ 1,000 - \$ 1,100} \right)}}{{15}}} \right]}}{{\dfrac{{\left( {\$ 1,000 + \$ 1,100} \right)}}{2}}}\\
+
+&= \dfrac{{\$ 83.33}}{{\$ 1,050}}\\
+
+&= 7.94\%
+
+\end{align*}
+
+{/eq}
+Where
+C = Coupon/Interest Payment
+F = Face Value
+P = Price
+N = Years to maturity
+Therefore, the yield to maturity of the bond is 7.94%.",Coupon Rate of a Bond A bond's coupon rate is at which the bond issuer makes interest payments to the bondholder based on the bond's face value. This rate can be helpful to the investors in calculating the yield on the bonds purchased in the secondary market.
+92,Penny Pincher Discount Grocers has issued a bond with a coupon rate of 11%. It recently closed at a price of $1023.75. What is the bond's current yield?,10.75%,3.25,12.80%,8.90%,A,"The answer is A) 10.75%.
+Assuming the par value of this bond is $1,000, support is below.
+Since the bond is trading at a slight premium (Price > Par Value), we know its coupon rate of 11% is higher than the market rate, which corresponds to its yield to maturity.  So, of all the choices, the yield must be options A) 10.75%, B) 3.25%, or D) 8.9%.  The most likely answer is A) 10.75% because the other yields would result in bond prices much farther away from the par value of $1,000.","Coupon Rate: A bond coupon rate is the interest payment expressed as an annual percentage of the par value.  The actual payment of interest may be annual, semi-annual, or some other frequency, depending on the term of the bond."
+93,"Suppose in 2014 you buy two-year $100 face value 5% coupon bond for $100. In 2015, interest rates decrease to 2%. If you decide to sell your bond in 2015, what is the selling price and one-year rate of return?",$100; 2%,$105; 5%,$105; 10%,$95; 0%,B,"The value of the bond increases by 5% each year until maturity in 2 years. Therefore the total value and its selling price after 1 year is
+{eq}{5*$100}/100=$105
+
+{/eq}
+The one rate of return is its annual interest rate i.e. 5%
+The correct answer therefore is B) $105; 5%",Coupon Bonds: The beauty of a coupon bond is that the coupon rate remains the same even if the interest rates go down. The tragedy of a coupon bond is that the coupon rate remains the same even if the interest rates go up.
+94,The combustion of 0.136 kg of methane in the presence of excess oxygen produces 353 g of carbon dioxide. What is the percent yield?,38.50%,0.95%,94.60%,,C,"As per the question, {eq}CH_{4}+2CO_{2}\rightarrow CO_{2}+2H_{2}O
+
+{/eq}
+Oxygen is present in excess, therefore the limiting reagent will be methane.
+Number of moles of methane reacted= 136/16 = 8.5 mol
+So, the mass of carbon dioxide that should be produced is 8.5*44g/mol = 374g
+But, according to the question, the actual yield is 353g.
+Therefore, percent yield can be found by the formula;
+Percent yield= actual yield/theoretical yield*100
+Percent yield=94.6%
+The correct option is c.","Combustion Combustion is a chemical process that takes place in presence of oxygen. In combustion, heat and light are released. The original substance that undergoes a chemical reaction is called fuel."
+95,The coupon rate is the:,interest rate promised when a bond is issued.,maximum interest rate that can be paid on a bond.,regular payment of interest to a bondholder.,amount originally lent.,C,"The correct answer to the given question
+c. regular payment of interest to a bondholder.
+The coupon rate is defined as the interest payment paid by a bond issuer to the investor on a regular basis till maturity. It is usually expressed as a percentage of face value of a given bond.","Coupon Rate: In the context of accounting, a bond is a credit market instrument issued by a government or a financial institution to the investors for borrowing funds. A given bond may be issued at a discount to the face value, at a premium to the face value or at the face value depending upon the market interest rate."
+96,The coupon rate of a bond equals _____.,its yield to maturity,a defined percentage of its face value,the yield to maturity when the bond sells at a discount,the annual interest divided by the current market price,B,"Correct Answer: Option b. a defined percentage of its face value.
+Explanation:
+a. its yield to maturity
+The coupon rate is not the same as the yield to maturity.
+b. a defined percentage of its face value
+The coupon rate is the defined percentage of the bond's face value. where coupon amount equals (Face value of the bonds × Coupon rate).
+c. the yield to maturity when the bond sells at a discount
+When the bond sells at a discount, the coupon rate is less than the YTM.
+d. the annual interest divided by the current market price
+It is called the current yield and not coupon rate.","Yield to Maturity: When an investor seeks a long-term investment, the bond's yield to maturity is the eye-catcher. The short-term investors look for the current yield alone."
+97,The interest rate that determines the amount of cash paid to the bondholder is referred to as the,effective rate of interest,market rate of interest,contract rate of interest,both a and b are correct,C,"The correct answer is
+c. contract rate of interest
+.
+The term contract rate, also known as stated rate or coupon rate, is the percentage of interest that is shown in the face of the bond and which represents the rate of interest that will be paid to the bondholder. The interest calculated by the contract rate is based on the principal balance.  Therefore, the correct answer is option c.
+Option a. is incorrect because the effective rate is the rate of interest adjusted for compounding. Option b. is also incorrect because the market rate is the interest rate determined by supply and demand. Option d. is incorrect because it includes two wrong answers.",Bond: A bond is one of the most popular debt instruments used by private and public entities. A bond is issued to obtain new capital and finance operations. The bond issuer is obliged to repay the face value plus some interest to the security holder.
+98,The stated interest rate on a bond is the:,par value,yield to maturity,coupon,face value,C,"The correct answer is:
+c. coupon
+The stated interest rate on a bond is the
+coupon interest rate
+. This interest rate remains constant or fixed for the entire life of the bond and it represents the annual interest paid to the bond holder.","Bonds In finance, bonds are security instruments that are issued by firms with an aim of raising capital. Investors invest on bonds with an aim of earning a return from the investment."
+99,"What would semiannual interest payable (cash interest) be on a 10%, $10,000 4 year bond issued at 98?",$525 ,$25 ,$500 ,$475 ,C,"Data:
+Cash = $10,000
+Interest rate = 10%
+Number of years = 4 years
+Calculation:
+{eq}Semi-annual \ interest \ payable \ = \ Cash \ \times \ \dfrac{Interest \ rate}{2}
+
+\\
+
+Semi-annual \ interest \ payable \ = \ 10,000 \ \times \ \dfrac{10\%}{2}
+
+\\
+
+Semi-annual \ interest \ payable \ = \ 10,000 \ \times \ 5\%
+
+\\
+
+Semi-annual \ interest \ payable \ = \ \$500
+
+{/eq}
+Option C. is correct.","Coupon: The periodic interest paid to the bondholder is called a bond coupon. The amount of the coupon is dependent upon the coupon rate offered, which is a fixed percentage of the par value of the bond."
+100,Which of the following is fixed on a coupon bond?,market price,current yield,yield to maturity,coupon rate,D,"The correct option is
+d. Coupon rate
+.
+We know that the coupon rate is a kind of the interest rate that is paid on the bonds by its issuer for the security terms. Thus, it remains fixed on a coupon bond.",Coupon Bonds: The term coupon bonds can be defined as the bearer bond that has a debt obligation with coupons attached to it. The interest payments on these bonds are generally semi-annual.
+319,A company that issues a bond with a set interest rate _____.,Can change the coupon under certain circumstances.,Can vary the coupon at will.,Can not change the coupon.,None of the above.,A,"A company that issues a bond with a set interest rate _____.
+A. Can change the coupon under certain circumstances.
+Can change the coupon if the bond indenture mentions the conditions such as profitability, variable rates, etc. However, it is not common.
+Let's analyze the other options:
+B. Can vary the coupon at will. - The company cannot do anything that they like at will.
+C. Can not change the coupon. - Coupons can be changed under some circumstances.
+D. None of the above. - Not applicable as one option is selected.",Bond Issuance: Bonds are issued with a given coupon rate and the par value at maturity. Bond issuance is undertaken by the firm usually by engaging an investment bank that behaves as the underwriter.
+320,"For the given bond, whose interest rate is provided, find the semiannual interest payment and the total interest earned over the life of the bond:","$3600; $39,600","$160; $35,200","$180,000; $3,960,000","$1800; $39,600",D,"The correct answer is D.
+Bond Coupon = Face value of the bond *  interest rate
+Bond Coupon = $80,000 * 0.045 = $3,600
+Semi - annual coupon = $3,600/ 2 =
+$1,800
+Total interest payment during the bonds life = $3,600 * 11 =
+$39,600",Bond Coupon: The bond coupon is the periodic interest amount that the investor of the bond received each period. The coupon is a fixed percentage of the par value of the bond. The coupon payment could be annual or semi-annual.
+321,How do the coupon rates on outstanding bonds compare to those of newly issued bonds at any given point in time?,The coupon rate on outstanding bonds is usually higher than those of newly issued bonds.,The coupon rate on outstanding bonds is usually lower than those of newly issued bonds.,They are usually the same.,It cannot be determined from the given information.,D,"How do the coupon rates on outstanding bonds compare to those of newly issued bonds at any given point in time?
+D. It cannot be determined from the given information.
+We shall see how the determination is not possible:
+A. The coupon rate on outstanding bonds is usually higher than those of newly issued bonds. - The interest rates change may have any direction and the coupon rate of new bonds can be either higher or lower.
+B. The coupon rate on outstanding bonds is usually lower than those of newly issued bonds. - It can be higher too due to the interest rate changes.
+C. They are usually the same. - It can be higher or lower too.","Coupon Rates: The coupon rates on the bonds are the compensation to the investor for investing in the risky bond. At the time of issue, coupon rate equals yield to the maturity or the required return on the bond."
+322,The percentage of the stated value of the bond that determines the annual coupon payment is the,coupon rate,par value,market price,maturity,A,"Coupon rate
+A coupon rate defines the coupon payments of a bond. Coupon payments on a bond is the periodic interest payments received by the bond holder from the issue until the maturity of the bond.
+Coupon rate is calculated as;
+Coupon rate = Total annual coupon payments/ Par value of the bond",Bond A bond is a fixed income instrument in which the issuer owes the holder a sum of money that is payable at the maturity of the bond. The issuer also pays periodic payment depending on the structure of the bond known as the coupon payments. Government and corporation issue bonds when they want to raise capital for business.
+323,Which of the following statements is correct for a 10% coupon bond that has a current yield of 7%?,The face value of the bond has decreased.,The bond's maturity value exceeds the bond's price.,The bond's internal rate of return is 7%.,The bond's maturity value is lower than the bond's price.,D,"A 10% coupon rate bond has an annual coupon of $100.  Using the formula for the current yield:
+Current yield = Coupon / Price
+0.07 = 100 / Price
+Price = $1,429
+a) Incorrect
+The face value stays the same till maturity
+b) Incorrect
+The face value is $1000, while the price is $1,429
+c) Incorrect
+The bond's yield is less than 7% because the bond is a premium bond and has negative capital gains yield.
+d) Correct.
+The face value is $1000, while the price is $1,429",Current Yield: The current yield of a bond is calculated by dividing the bond's coupon payment by the bond's price.  Investors receive their required rate of return either from the bond's current yield or the bond's capital gains yield.
+355,"A bond promises to pay $5,350 next year. The interest rate on this bond is 7%.","$5,000 ","$5,100 ","$5,200 ","$5,240 ",A,"The correct answer is (a). $5,000.
+Since the bond does not pay any coupons, we can calculate the price of the bond using the simple present value formula:
+Bond price {eq}= \frac{M}{(1+i)^n},
+
+{/eq}
+where:
+M
+= value at maturity (par value)
+i
+= interest rate or required yield
+n
+= number of payments.
+Plugging in values gives the following:
+Bond price = {eq}\displaystyle \frac{\$5,350}{(1+0.07)^1}= $5,000.
+
+{/eq}","Bond Features and Pricing: A bond is type of financial asset which often pays periodic coupons to the investor at a specified interest rate, and pays the principal amount of the bond at the bond's maturity date. The investor and issuer enter into a contract known as the indenture. A bond is distinguished by a number of characteristics, including the following: the face value amount; the coupon rate, frequency and timing; the maturity value and payment date; and details of any call, put or sinking fund provisions; Bonds are commonly issued by federal, state and municipal governments, corporations and many other types of organizations. While the different features of a bond can affect its attractiveness, the main determinant of price is the present discounted value of the future coupon payments and maturity value."
+356,"Generally, new bond issues are issued close to par, therefore the coupon rate is set to be similar to discount rate used by market participants looking at bonds of similar default risk, maturity, and other characteristics listed in the bond indenture.",TRUE,FALSE,,,A,"The answer is: a. True. In general, bonds are issued at a par value. Sometimes a bond is issued at a discount from its par value if investor interest is low or if it's a zero coupon bond. As interest rates go up or down, so do the discount rates associated with the bond, but the coupon rate remains the same. In other words, coupon rates are fixed, yields are not.","Coupon Rate: A coupon rate is the annual coupon payment paid by the issuer of the bond. In dollar terms, it is the actual amount of interest income received for the bond each year. This is represented as a percentage of the bond's par value and does not change. The estimated yield-to-maturity or discount rate, however, changes as the value of the bond changes with market interest rates."
+372,"A company issued 10-year, 6.75% bonds with a face value of $100,000. The company received $97,897 for the bonds. Using the straight-line method of amortization, the amount of interest expense for the first interest period is:","$6,539.70 ","$6,960.30 ","$6,750.00 ","$2,103.00 ",A,"Discount on bond payable = 100,000 - $97,897 = 2,103
+Annual amortized amount = 2,103/ 10 = 210.3
+Annual coupon amount = 100,000 * 6.75% = 6,750
+Interet expesne = Coupon paid - Annual amortized amount
+Interet expesne = 6,750 - 210.3 =
+$6,539.7 (a)","Streight-line Amortisation ob Bond Discount: Streight-nite is a method in which the amount is allocated equally over the period of time. In the case of discount amortization, the discounted amount will be amortized equally over the bonds life."
+373,"D&G Enterprises issues bond with a $1,000 face value that makes coupon payments of $10 every 3 months. What is the coupon rate?",1%,4%,6%,�8%,B,"The correct answer is option b. 4%.
+
+The issuing entity has the flexibility to choose the frequency at which it pays coupons (based on the mutual needs of the issuer and its customers). However, in the agreement, the bonds are typically quoted at the annual coupon rate.
+
+Given information:
+
+Quarterly coupon: $10 (every 3 months)
+Face value: $1,000
+Step 1: Determine the annual coupon amount.
+
+{eq}\begin{aligned} \text{Annual coupon} &=\text{Quarterly coupon}\times \frac{12}{3} \\ &=\$10\times \frac{12}{3} \\ &=\$10\times 4 \\ &=\$40 \end{aligned} {/eq}
+
+Step 2: Determine the annual coupon rate.
+
+{eq}\begin{aligned} \text{Annual coupon rate} &=\frac{\text{Annual coupon}}{\text{Face value}}\times 100 \\ &=\frac{\$40}{\$1,000}\times 100 \\ &=4\% \end{aligned} {/eq}","Coupon Payment:
+A coupon payment is similar to a fixed-interest income and shares the financial characteristics of an annuity. It is paid regularly at the stated rate and frequency. Additionally, it is one of the variables utilized in determining the current value of a bond."
+374,"If a five-year bond paying semiannual interest sells for $1,000 and has a yield to maturity of 10%, what is the semiannual coupon payment?",$10 ,$50 ,$75 ,$100 ,B,"The answer is B. $50.
+
+A bond will be sold at the par value if its coupon rate is equal to its yield to maturity. With that being said, the annual coupon rate for the bond, in this case, is 10%.
+
+Estimate the semiannual coupon payment:
+
+{eq}\text{Semiannual coupon payment} = \displaystyle \text{Par} \times \text{Coupon rate} \times \frac{1}{2} \\ \text{Semiannual coupon payment} = \displaystyle \$1,000 \times 10\% \times \frac{1}{2} \\ \text{Semiannual coupon payment} = \$50 {/eq}","Coupon Rate:
+The coupon rate on a bond is the promised interest rate that the bond issuer will pay to bondholders. The coupon rate remains constant during the entire life of the bond. Note that the bond's coupon rate is different from the yield t maturity."
+375,"D&G Enterprises issues bond with a {eq}\$1,000 {/eq} face value that makes coupon payments of {eq}\$40 {/eq} every 3 months. What is the coupon rate?",0.40%,4.00%,12.00%16.00%,,D,"The correct answer is option D.
+
+Given information:
+
+The face value is $1,000.
+The coupon payment is $40.
+The number of months of coupon payments is 3 months.
+Calculation of the coupon rate:
+
+{eq}\begin{align*}{\rm\text{Coupon rate}} &= \left( {\frac{{{\rm\text{Annual coupon payment}}}}{{{\rm\text{Face value}}}}} \right) \times 100\\ &= \left( {\frac{{\$ 160}}{{\$ 1,000}}} \right) \times 100\\ &= 0.16 \times 100\\ &= 16\% \end{align*} {/eq}
+
+Therefore, the coupon rate is 16.00%.
+
+Working note:
+
+Calculation of the annual coupon payment:
+
+Taking 12 months as the total months in a year for computing the annual coupon payment.
+
+{eq}\begin{align*}{\rm\text{Annual coupon payment}} &= {\rm\text{Coupon payment}} \times \frac{{{\rm\text{Total months in a year}}}}{{{\rm\text{Number of month of coupon payment}}}}\\ &= \$ 40 \times \frac{{12}}{3}\\ &= \$ 40 \times 4\\ &= \$ 160\end{align*} {/eq}
+
+Thus, the annual coupon payment is $160.","Coupon rate:
+Coupon rates refer to the set interest payments made on bonds depending on par value. It refers to the annual interest income that bond issuers pay to their buyers. This interest is usually paid semi-annually."
+376,The annual coupon of a bond divided by its face value is called the bond:,Coupon,Face Value,Maturity,Coupon Rate,D,"Correct Answer: Option D. Coupon Rate.
+
+The bond's stated interest rate is computed using the following formula:
+
+{eq}\text{Coupon rate} = \dfrac{\text{Annual coupon amount}}{\text{Par value}} {/eq}
+
+If the bond's coupon is the same as the market interest rate, it sells at par. If the bond's coupon rate differs from the market interest rate, it will sell at a price other than par.
+","Sources of Capital:
+The sources of capital available to a company include stocks and bonds. Other sources include loans from banks, long-term notes, and mortgages. The capital structure should be optimal, with minimum overall cost and maximum returns."
+377,"D&G Enterprises issues bonds with a $1,000 face value that make coupon payments of $30 every 3 months.
+
+What is the coupon rate?",0.30%,3.00%,9.00%,12.00%,D,"Given that the coupon rate should be expressed on an annual basis, we have to calculate the annual coupon amount.
+
+The $30 coupon payment is quarterly since is for three months
+
+Annual coupon amount=$30 * 4= $120
+
+The coupon rate will be;
+
+x/100 *1000=120
+
+Ans=12%(D)","Coupon Rate:
+The coupon rate is the rate used to determine the annual coupon payments to be paid by the bond issuer to the bondholder. The coupon amount is the par value multiplied by the coupon rate. The relationship between the coupon rate and the yield to maturity determines whether a bond sales at par, premium or discount."
+378,The interest that a debenture holder receives at the time of each payment made by the issuer is:,the coupon rate multiplied by the face value of the net debenture liability.,the market rate of interest multiplied by the present value of the opening balance of the net debenture liability.,the market rate of interest multiplied by the present value of the closing balance of the net debenture liability.,the coupon rate of interest multiplied by the present value of the opening balance of the net debenture liability.,A,"The answer is a) the coupon rate multiplied by the face value of the net debenture liability.
+
+This implies that the market rate does not impact the periodic payments received by the debenture (though the market rate will impact the fair value of the debenture).","What Is The Coupon Rate:
+It is important that a bondholder distinguishes between the Coupon Rate and the market rate. The Coupon Rate is the rate set by the company as the percentage of face value that will be paid out on bonds, whereas the market rate is determined by the market when bonds are issued"
+,,,,,,,,
+380,"If the following bonds are identical except for coupons, what is the price of bond B?
+
+
+Bond A	Bond B
+Face value	$1,000	$1,000
+Semiannual Coupon	$50	$40
+Years to maturity	28	28
+Price	$1,048.72	?",$853.85 ,$859.13 ,$854.54 ,"$1,150.00 ",A,"The answer is a. $853.85.
+
+We arrive at this price by first determining the semiannual yield to maturity on Bond A. Using a Texas Instruments BAII Plus Professional calculator, or similar model, input the following values:
+
+PV = -$1,048.72
+
+FV = $1,000.00
+
+PMT = $50.00
+
+N = 28*2 = 56
+
+Compute for I/Y to get the following result: 4.75%.
+
+Now, we can use the aforementioned yield to determine the price of Bond B. Using a Texas Instruments BAII Plus Professional calculator, or similar model, input the following values:
+
+I/Y = 4.75
+
+FV = $1,000.00
+
+PMT = $40.00
+
+N = 28*2 = 56
+
+Compute for PV to get the following result: $853.85.","Semiannual Coupon:
+For a bond, a semiannual coupon is an interest payment paid twice per year. Normally, a coupon rate is stated as an annual percentage. So, a semiannual coupon pays exactly half the annual stated rate times the face value of the bond."
+381,By convention the coupon rate is expressed as an effective annual rate. (True or False),TRUE,FALSE,,,B,"This statement is False.
+
+When bonds pay interest semiannually, the coupon rate is expressed as an annual percentage rate (APR), not an effective annual rate (EAR). The APR assumes that bond interest is not reinvested, while the EAR assumes that it is reinvested.
+
+Suppose, for example that a bond pays semiannual interest and the coupon rate is 7%. This means that the semiannual coupon payment is 3.5% of the par value. In general,
+
+Coupon rate = Semiannual coupon rate * 2","Coupon Rate:
+The coupon rate of a bond is the interest promised by the bond issuer. This rate is reported as a fraction of the bond's par value. Most bonds pay interest semiannually."
+382,"By convention, the coupon rate is expressed as an effective annual rate. (True/false)",TRUE,FALSE,,,B,"BThis statement is False.
+
+When a bond pays interest semiannually, the convention is to report the coupon rate as an annual percentage rate (APR). This means that if the semiannual coupon rate is r%, the reported annual coupon rate is (2 * r)%.
+
+For example, if the semiannual coupon is $10 and the face value is $1,000, then r = 1% and APR = 2%. The reported coupon rate would be 2% per year.
+
+The APR rate assumes that the coupon received after the first six months is not reinvested. In contrast, the effective annual rate (EAR) would assume that the coupon is reinvested, so the EAR on semiannual interest would be higher than the reported APR.","Bond Coupon Frequency:
+Most bonds pay interest semiannually. This includes Treasury bonds as well as most municipal and corporate bonds. Some corporate and municipal bonds offer annual coupon payments."
+383,"A new 15 year bond has just been issued by a company with a face value of $1,000 and a coupon rate of 12%. Comparable bonds are yielding 20% and interest is paid semi-annually. An investor is contemplating buying the bond of this company or investing it in shares of Fan Milk. He came up with a criterion to help him make the decision. If interest rate is expected to increase in six months, then he will prefer investing in Fan Milk shares. Current interest rate is 15% and the investor has assembled the following data: Real interest rate =10% and Expected inflations =8%.
+
+A bond has a coupon rate of 91-day Treasury Bill rate plus 4% and a face value of $1,000. If at the day of coupon payment, the 91 day Treasury bill rate is 15%, what is the amount of the coupon to be received?",$95.00 ,$86.50 ,$190.00 ,$150.20 ,C,"The answer is c. $190.00
+
+We are told the bond has a coupon rate of 91-day Treasury Bill rate plus 4% and a face value of $1,000. If at the day of coupon payment, the 91 day Treasury bill rate is 15%, then the bond coupon must be 19% (15% + 4% = 19%). This means the coupon is as follows:
+
+Coupon Payment = $1,000.00 * .19 = $190.00","Bond Coupon:
+A bond coupon is the stated amount of interest a bond will pay its holder. Generally, it is stated in the form of a rate. For example, a 10% annual coupon on a bond with a par value of $1,000 equates to an annual coupon payment of $100 ($1,000 * .10 = $100)."
+384,"You purchase a bond with an invoice price of $1,319. The bond has a coupon rate of 6.25 percent, a face value of $1,000, and there are two months to the next semiannual coupon date. What is the clean price of this bond?","$1,352.17 ","$1,408.12 ","$1,298.17 ","$1,314.14 ",C,"The bond's invoice price is its dirty price, which is equal to the clean price plus accrued interest. Therefore, to find the clean price, we need to subtract interest accrued.
+
+Clean price = Invoice price - Accrued interest.
+
+Accrued interest = Coupon * Months since last payment / 12
+
+Accrued interest = $62.5 * 4 / 12 = $20.83.
+
+Therefore,
+
+Clean price = 1,319 - 20.83 = $1,298.17
+
+Correct answer is C.","Clean Price:
+The clean price of the bond does not include the interest accrued during the period so far. The dirty price, on the other hand, includes this interest and is therefore higher."
+385,"PeeDee invested in a corporate bond with a face value of $25,000 at a discounted price of $23,500. The bond pays a dividend every year that is payable quarterly. What is the quarterly dividend PeeDee should get if he hoped to get a 6% return on the investment. Assume the bond matures in 15 years and PeeDee keeps the bond till maturity.",$600 ,$570 ,$340 ,$320 ,D,"The quarterly coupon payment should be $320
+
+Face value = $25,000
+Current price = $23,000
+Let the quarterly coupon payment be C
+YTM per quarter = 6% / 4 = 1.5% = 0.015
+Number of quarter periods till maturity = 15 * 4 = 60
+{eq}Current\ price\ of\ bond\ = $23,000\ = \frac{C}{(1 + 0.015)^1} + \frac{C}{(1 + 0.015)^2} +......+ \frac{25,000 + C}{(1 + 0.015)^{60}}\\ C\ = $320 {/eq}","Finding the Coupon Payment of a Bond:
+The coupon rate of a bond is the rate at which the issue pays periodic interest payment to the bond holder. The coupons can be paid either annually, semi annually or quarterly."
+386,The _____ of a bond is the guaranteed percentage of face value that the company will pay to the bond owner every year.,penalty rate,discount rate,dividend yield,coupon rate,D,The periodic amount that the bondholders receive is called the coupon rate.,"Bond Coupon Rate:
+Coupon is a fixed periodic amount that the bondholder receives each period. Coupon is a fixed percentage of the face value of the bond. Coupon is paid either semi-annually or annually."
+387,"Suppose you buy a bond on January 1, 2012 with a principle amount of $1000 and it matures on January 1, 2014. Suppose you want to sell the bond on January 1, 2013 and the price of the bond is $981.13 and the interest rate is 6% what is the bonds coupon rate?",10%,6%,4%,2%,C,"The coupon rate of a bond can be calculated using the bond valuation equation, which is shown below.
+
+{eq}P = c \times F \times \dfrac{1-(1+i)^{-t}}{i} + \dfrac{F}{(1+i)^{t}} {/eq}, where:
+
+P = bond price = $981.13
+c = coupon rate
+F = face amount (principle amount) = $1000
+i = market interest rate = 6% = 0.06
+t = time to maturity = 1 year
+Now, substitute the above values in the given equation and solve for c.
+
+{eq}981.13 = c \times 1000 \times \dfrac{1-(1+0.06)^{-1}}{0.06} + \dfrac{1000}{(1+0.06)^{1}} {/eq}
+
+{eq}981.13 = c \times 943.40 + 943.40 {/eq}
+
+{eq}c = \dfrac{981.13 - 943.40}{943.40} = 0.0400 = 4\% {/eq}
+
+Therefore, the correct answer is (c).","Coupon Rate:
+The coupon rate is the interest rate received by the purchasers of a bond. It is used to calculate the amount of coupon payment made to bondholders at fixed intervals, for example, each year, every six months. The annual coupon payment is the product of the coupon rate and the face amount of a bond."
+388,"A $1,000 face value bond is currently quoted at 101.5. The bond pays semi-annual payments of $47.50 and matures in 11 years. What is the coupon rate?",4.68%,4.75%,9.28%,9.50%,D,"Correct answer: Option D. 9.50 percent.
+
+Explanation:
+
+Semi-annual coupon amount = (Par value of the bond * Coupon rate) / 2
+Coupon rate = ($47.50 * 2) / $1,000
+Coupon rate = 9.50%.","Issuing Bonds:
+Bonds are issued at a premium i.e at a price higher than its face value when the market rate on similar bonds is lower than the coupon rate offered on the bonds by the company. The bond premium is credited to an account called premium on bonds payable."
+389,"Which of the following $4,000 face-value securities would you prefer to be selling? Assume n = 20 for all instruments.","a 6% coupon bond selling for $6,500","a 10% coupon bond selling for $4,500
+","a 12% coupon bond selling for $4,500","a 6% coupon bond selling for $3,000",C,"The correct answer is C).
+
+In the above-given statement, a 12% coupon bond selling for $4,500 will provide the maximum benefit because a bond with a higher coupon rate will attract investors and provide higher yields. The maturity time is 20 years, and then the bondholders will get a maximum profit or return when they sell at a higher rate. The bondholder can receive a higher yield due to the higher percentage of face value during the accounting year.
+
+The explanation for incorrect answers
+
+Option A) is incorrect because the 6% rate on coupon bonds is significantly less, and the bondholders will not get a higher amount.
+
+Option B) is incorrect because a 10% coupon bond at the same amount of 12% cannot get a higher return in 20 years.
+
+Option D) is incorrect because the bond rate and amount are significantly less, and they could not get a higher profit in the future.","Coupon bond:
+A coupon bond refers to the debt obligation that is attached to show semiannual interest payments. It does not record the purchaser who the issuer has kept. Bondholders could receive the coupons during maturity and issuance time."

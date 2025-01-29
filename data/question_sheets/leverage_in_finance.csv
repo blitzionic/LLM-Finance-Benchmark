@@ -1,0 +1,467 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The degree of financial leverage is concerned with the relation between?,changes in volume and changes in EPS.,changes in volume and changes in EBIT.,changes in EBIT and changes in EPS.,changes in EBIT and changes in operating income.,C,"The correct option is C. changes in EBIT and changes in EPS
+Reason: Financial leverage determines the fluctuation in the earnings per share of the business entity. The above-mentioned option is correct because the financial leverage is determined by using following formula:
+{eq}\begin{align*}
+
+\rm\text{Financial leverage}&=\dfrac{\rm\text{Percentage change in EPS}}{\rm\text{Percentage change in EBIT}}
+
+\end{align*}
+
+{/eq}
+Explanation for incorrect options: Other options are incorrect because financial leverage does not make comparison between the Change in volume respective to change in EPS and EBIT.",Earnings Before Interest and Tax: The total of the economic benefit that a business entity gained from the operation before making any adjustment in respect of the interest paid and the tax liability is known as earnings before interest and tax. It is used for calculating the financial leverage as well.
+2,"A company has an EBIT of $2,400,000 and an interest expense of $300,000. What is its DFL?",8.0,0.125,1.1429,Not enough information to determine the answer.,C,"The correct answer is option c. 1.1429.
+Given Information:
+EBIT is $2,400,000
+Interest expense is $300,000.
+The degree of financial leverage can be formulated with the help of the company's earnings before interest and tax (EBIT) and the interest expense. The formula for DFL is:
+{eq}\begin{align*}{\rm\text{DFL}} &= \frac{{{\rm\text{EBIT}}}}{{{\rm\text{EBIT}} - {\rm\text{Interest expense}}}}\\ &= \frac{{\$ 2,400,000}}{{\$ 2,400,000 - \$ 300,000}}\\ &= \frac{{\$ 2,400,000}}{{2,100,000}}\\ &= 1.1429\end{align*} {/eq}
+Therefore, the DFL is
+1.1429.",Degree of Financial Leverage (DFL): The degree of financial leverage depicts the shift in the entity's profitability due to the changes in the operating earnings; it also assesses the debt a firm can take without losing the profits.
+3,The link between leverage and margin __________.,is given by (leverage) = (1/margin),None of the provided answers is correct,is given by (leverage) = (margin),depends on whether we are buying on margins or short-selling,A,"The Correct Answer: A - is given by (leverage) = (1/margin)
+Explanation:
+Option A is correct as required margin helps in increasing the trading power i.e., the leverage.
+Here, the given option defines the relationship between the leverage and margin.
+For example: Suppose you have margin requirement of 4% then, the leverage ratio will be
+{eq}\begin{align*}
+
+{\rm\text{Leverage}}\; &= \;\frac{1}{{{\rm\text{Margin}}}}\\
+
+&= \frac{1}{{0.04}}\\
+
+&= 25\\
+
+{\rm\text{So, the leverage ratio is}}\;25:1
+
+\end{align*}
+
+{/eq}
+Explanation for the wrong answers:
+Option B: This option is wrong because the correct answer is given i.e., Option A.
+Option C: This option is also wrong as leverage can't be equal to its margin as margin is the rate that helps in reducing the deposit amount and option clearly state that leverage is equal to the 1 divided by the margin which conclude the proportionate amount.
+Option D: The option is incorrect because the relationship between leverage and margin is not based on the put-up amount required to determine the leverage.",Leverage: The leverage is the amount of money between what you have in your hands and what you can trade. It is basically utilizing the borrowed capital for making an investment. By using the leverage one can put small amount and could hold the larger trade position.
+4,Financial leverage refers to which of the following?,The difference between the rate of return earned on assets (ROI) and the rate of return earned on owners' equity (ROE).,The difference between the rate of return earned on current assets and the rate of return earned on retained earnings.,The leverage a firm obtains from increasing production.,Decreasing fixed costs per unit by increasing production.,A,"Correct Option:
+A.
+Explanation for the correct answer:
+The financial leverage refers to the difference between ROI and ROE because of the balance sheet primary equation Assets = Liabilities + Equity. This can be interpreted as if the debt will be Nil, then Whole assets will equate the Equity, so then ROI and ROI will also become equal.
+Hence, on adding debt, financial leverage, there will be difference between ROI and ROE.
+Explanation for the incorrect answers:
+Option: B.
+There has to be total assets for comparison and not only current assets while calculating the financial leverage..
+Option: C.
+No, it is incorrect as Leverage arises due to addition of debt and the mere production.
+Option: D.
+No, actually Financial leverage is the inclusion of debt into the capital and does not affect the fixed cost or the production.","Financial Leverage: Financial Leverage is utilizing the debt as a borrowed capital for generating the assets by purchasing and increasing the assets. For the cash flow loan, the value and the goodwill of the company tends to work as the financial leverage to buck up the creditworthiness."
+5,"If a country's GDP decreases, but its debt increases during that year, then the country's debt to GDP ratio for the year will _____ in proportion to the magnitude of the changes.",remain the same,increase or decrease,increase,decrease because GDP decreased,C,"The correct option is:
+c. increase
+Explanation:
+It is given that GDP decreases and debt increases, resulting in a high Debt-to-GDP ratio for the year. The higher ratio results from the increased or higher magnitude of the change as a decrease in GDP reduced the value in the denominator, and increased debt will further increase the numerator, which increases it with a higher proportion. Therefore, the country's Debt-to-GDP ratio for the year will increase.","Debt-to -GDP Ratio: In an economy, economists, policymakers, and other people use the ratio of Debt-to-GDP to analyze an economy's ability to pay back the debt that is borrowed by the rest of the world. A high ratio implies less ability of the economy to pay back debt and vice-versa."
+6,Which of the following increases financial leverage?,retiring bonds with a stock issue,using retained earnings to retire debt,issuing common stock,none of the above,A,"A. Incorrect. By retiring bonds, the firm reduces its debt, which decreases its financial leverage.
+B. Incorrect. See part A.
+C. Incorrect. A new issue of common stocks raises the firm's equity capital. Hence, the financial leverage will reduce.","Financial Leverage: Within a firm, financial leverage refers to how the firm funds its assets with equity and debt capital. The firm's leverage can be described by the debt-to-equity ratio."
+7,An increase in a firm's financial leverage will:,increase the variability in earnings per shareB. always reduce the operating risk of the firmC. increase the value of the firm in a non-MM worldD. increase the WACC,,,,A,"An increase in a firm's financial leverage will
+(A.) increase the variability in earnings per share.
+An increase in financial leverage will make shareholders' share earnings more volatile, allowing them to quickly increase with the increase in leverage. Additionally, growth in the economy leads to large swings in profits in the company, thus increasing the variability in earnings per share.
+B. Always reduce the firm's operational risk
+is wrong because an increase in the financial leverage increases the risks of operating a business. Despite the high returns associated with increased debt, a business may also be exposed to increased losses, increasing the risks.
+C. Increase the value of the firm in a non-MM world
+is wrong because the increase in the financial leverage results in an increase in the company's value in the MM world. Due to increased risks in the non-MM world, the business value is expected to decrease.
+D. Increase the WACC
+is wrong because the increase in financial leverage results in decreases in the WACC and an increase in the firm's value.",Financial Leverage: Financial leverage is a technique in which a business uses borrowed money to purchase more assets. Investors make use of financial leverage to increase their levels of returns on the investments undertaken.
+10,A high degree of financial leverage:,is sign of astute financial management.,will always reduce the financing cost for the firm.,will increase the valuation of the firm.,may increase the firm's risk and drive down the stock price.,D,"Correct answer is Option d.
+A high degree of financial leverage implies high use of debt in capital structure. This can lead to the following:
+1. If a firm does not make high profits, it has to pay the fixed interest on debt, irrespective of its profitability and liquidity. Thus, it can increase the risk of the firm.
+2. The rise in risk of the firm will lead to increase in the required rate of return on the equity issued by the firm because the shareholders will want to be compensated for the additional risk. This will lower the stock price.
+Thus, a high degree of financial leverage may increase the risk and drive down the stock price.
+Explanation for incorrect answers:
+a. It is incorrect because the issue of debt can prove risky and having a high degree of financial leverage is not a sign of good financial management at all the times.
+b. It is incorrect because high degree of financial leverage reduces the financing cost only when the return on investment is higher than the cost of debt.
+c. it is incorrect because the value of firm will rise only in case when the return on investment is higher than the cost of debt, leading to greater EPS and thus, higher market valuation through trading on equity.","Degree of Financial Leverage: Degree of financial leverage refers to the extent of the use of fixed sources of funding in the capital structure. The higher the use of debt, the more the degree of financial leverage is. It can be beneficial or risky for a firm."
+12,Which of the following is used to measure leverage?,Current ratio.,Ratio of liabilities to stockholders' equity.,Quick ratio.,Accounts receivable turnover.,B,"The correct answer is
+b. The ratio of liabilities to stockholders' equity.
+Leverage ratios compute the percentage of assets that are financed by debt. The ratio of liabilities to stockholders' equity shows the relationship between the debt and equity of the company and hence is a leverage ratio.
+Explanation for incorrect answers
+Current ratio and quick ratio are liquidity ratios that measure the business's ability to pay off its short-term obligations.
+The accounts receivable turnover is an efficiency ratio that shows how efficiently the business is using its investment in assets.",Ratio Analysis: Ratio analysis is the study of relationships between different line items of financial statements. It is better to compare ratios than absolute figures as it eliminates the impact of the size of the business.
+13,Firms that have high operating leverage tend to avoid large fluctuations in profit when sales fluctuate.,True,False,,,B,"Given statement, 'Firms that have high operating leverage tend to avoid large fluctuations in profit when sales fluctuate.' is
+False
+.
+As sales fluctuate, businesses with strong operational leverage frequently see significant changes in profit. This is because operating leverage quantifies how much of a company's costs are fixed instead of variable. A little change in sales can greatly affect earnings when a business has high fixed costs. In contrast, a business with little operating leverage would see very constant profit levels due to its expenses being more erratic and it being able to respond more quickly to variations in sales.",Operating Leverage: The operating leverage of a corporation is determined by dividing its fixed expenses by its overall costs. A company's operating leverage will be larger the higher the proportion of fixed costs it has.
+14,The amount of assets per dollar of equity capital is called the:,asset ratio.,equity ratio.,equity multiplier.,asset multiplier.,C,"Correct Answer: Option C) equity multiplier.
+Explanation:
+The equity multiplier is the ratio of the total assets relative to the total equity. It indicates the amount of assets per dollar of equity capital.
+Formula:
+Equity multiplier = Total assets / Total equity
+Equity multiplier = 1 + Debt-equity ratio",Equity Equity represents the sum of the contributed capital raised by issuing common stock and the retained earnings. Equity also represents the difference between the total assets and total liabilities.
+15,The following data were taken from Alvarado Company's balance sheet:,Compute the ratio of liabilities to stockholders' equity.,"Has the creditor's risk increased or decreased from December 31, 2013, to December 31, 2014?",,,A,"a. Liability to equity ratio is calculated by dividing total liabilities with stockholder's equity. Following is the calculation of Liability to equity ratio of Alvarado Company:
+Total liabilities
+Total stockholders' equity
+Liability Equity Ratio
+Dec. 31, 2014
+$4,085,000
+4,300,000
+0.95
+Dec. 31, 2013
+$2,880,000
+3,600,000
+0.8
+b. Creditor's risk has increased from 31 Dec. 2013 to 31 Dec. 2014. Increase in liability to equity ratio indicates that creditor's are now more exposed to risk because company has more external liability compared to equity in contrast to previous year when the company had less liabilities compared to equity.",Liability to equity ratio: Liability to equity ratio is calculated by dividing total of external liabilities to stockholders' equity. It is a common measure taken into consideration by investors before making any type of investment into company.
+16,"Granny's Greens reported Interest expense of $5,700, Income tax expense of $28,000, and Net income of $88,000. Granny's interest coverage ratio is: (Round the final answer to two decimal places.)",0.05,0.06,21.35,20.35,C,"First, we need to calculate earnings before interest and taxes (EBIT) by adding the interest expense and income tax expense back to the net income:
+EBIT = Net income + Interest expense + Income tax expense
+EBIT = $88,000 + $5,700 + $28,000
+EBIT = $121,700
+Now we can calculate the interest coverage ratio:
+{eq}\begin{align*} \text{Interest coverage ratio} &=\frac{\text{Earnings before interest and taxes}}{\text{Interest expense}} \\ &=\frac{\$121,700}{\$5,700} \\ &=\text{21.35}\\ \end {align*} {/eq}
+Therefore, the interest coverage ratio for Granny's Greens is 21.35. The correct answer is C.","Interest Coverage Ratio: The interest coverage ratio represents the capacity of the company to pay the interest expense out of the earnings for its outstanding debt. The ratio is very important for investors, creditors, or any entity that is looking to make an investment in the company or lend money to the company."
+17,"By 2008, new LBO and private-equity transactions were extremely rare. True or false?",True,False,,,A,"The statement is
+TRUE
+.
+Due to the onset of the recession, new investments were extremely rare as no one wanted to invest in recession as there would have been a high probability of loss.","Investment Scenario: The investment scenario for the economy of the country represents the transaction for various investment vehicles prevalent in the economy. Various investment vehicles such as private equity, LBO, etc are transactions that are out of the public domain."
+18,Clark Company issued bonds with an interest rate of 10%. The company's return on assets is 12%. The company's return on common stockholders' equity would most likely:,Increase,Decrease,Remain unchanged,Cannot be determined,A,"The correct option is A.
+The company will increase its expenses with the 10% bond interest but it will also most likely increase its revenue/profits by 12% as the proceeds from the bonds will be used to purchase assets. This is the return the company earns on its assets.
+This is a good example of what is meant by financial leverage.","Financial Leverage: Financial leverage is the use of debt, rather than equity, to expand a corporation's operations or purchase new assets. Leverage is considered positive when the return from the investment is higher than the cost of the debt."
+19,"a. A firm has a return on common equity of 13.4 percent, a net after-tax borrowing cost of 4.5 percent, and a return of 11.2 percent on net operating assets of $405 million. What is the firm's financial leverage?",,The same firm has a short-term borrowing rate of 4.0 percent after tax and a return on operating assets of 8.5 percent. What is the firm's operating liability leverage?,The firm reported total assets of $715 million. Construct a balance sheet for this firm that distinguishes operating and financial assets and liabilities.,,A,"a.
+The firm's financial leverage can be calculated as follows:
+Return on Common Equity = Return on Net Operating Assets + (Financial Leverage * (Return on Net Operating Assets - Net After-Tax Borrowing Cost))
+13.4% = 11.2% + (Financial Leverage * (11.2% - 4.5%))
+13.4% - 11.2% = (Financial Leverage * 6.7%)
+Financial Leverage * 6.7% = 2.2%
+Financial Leverage = 0.328
+b.
+The firm's operating liability leverage can be calculated as follows:
+Return on Net Operating Assets = Return on Operating Assets + (Operating Liabilities Leverage * (Return on Operating Assets - Short-Term Borrowing Rate))
+11.2% = 8.5% + (Operating Liabilities Leverage * (8.5% - 4%))
+11.2% - 8.5% = (Operating Liabilities Leverage * 4.5%)
+2.7% = (Operating Liabilities Leverage * 4.5%)
+Operating Liabilities Leverage = 0.6
+c.
+To construct a balance sheet for this firm that distinguishes the operating and financial assets and liabilities, let's first perform the following calculations:
+Net Operating Assets = Common Stockholders Equity * (1 + Financial Leverage)
+405 million = Common Stockholders Equity * (1 + 0.328)
+405 million = Common Stockholders Equity * 1.328
+Common Stockholders Equity = $305 million
+Net Financial Obligation = Net Operating Assets - Common Stockholders Equity
+Net Financial Obligation = 405 million - 305 million
+Net Financial Obligation = $100 million
+Operating Liabilities = Operating Leverage Liabilities * Net Operating Assets
+Operating Liabilities = 0.6 * 405 million
+Operating Liabilities = $243 million
+Operating Assets = Net Operating Assets + Operating Liabilities
+Operating Assets = 405 million + 243 million
+Operating Assets = $648 million
+Financial Assets = Total Assets - Operating Assets
+Financial Assets = 715 million - 648 million
+Financial Assets = $67 million
+Financial Liabilities = Net Financial Obligation + Financial Assets
+Financial Liabilities = 100 million + 67 million
+Financial Liabilities = $167 million
+Particulars
+Amount ($)
+Assets:
+Financial assets
+67 million
+Add:
+Operating assets
+648 million
+Total assets
+715 million
+Liabilities and stockholders equity:
+Financial liabilities
+167 million
+Add:
+Operating liability
+243 million
+Add:
+Common stockholders equity
+305 million
+Total liabilities and stockholders equity
+715 million",Financial Leverage: Financial leverage is a scenario whereby a company uses debt to finance its operations. It is assumed by the company that the revenue generated from the operation will be higher than the cost of borrowing to fund it.
+20,"If a company has a large amount of long-term debt in its capital structure, this will affect the firm's:",liquidity,working capital,solvency,none of the above,C,"If a company has a large amount of long-term debt in its capital structure, this will affect the firm's
+c) solvency
+.
+Carrying large levels of debt means that the company is required to pay interest and repay notes and bonds as they come due which puts a strain on available resources. This strain can generate a debt crisis where a company fails to meet its obligations and goes into default or bankruptcy.",Leverage: The ability of a company to build up trust with creditors refers to its capacity for leverage. The leverage a company has is measured in terms of the debt it is able to maintain in its liabilities which are divided into short-term (current) and long-term (non-current) liabilities.
+21,Which of the following is an example of a leverage ratio?,Payout ratio.,Debt-equity ratio.,Quick ratio.,Return on equity.,B,"The correct option is
+b. Debt-equity ratio
+.
+Explanation:
+Leverage ratios are financial measures that assess how much debt a firm employs to fund its operations and investments. The debt-to-equity ratio is a financial leverage that compares a company's total liabilities/debt to its total equity. A higher debt-to-equity ratio shows that a corporation depends on debt funding more frequently, which might raise financial risk.
+Explanations for Incorrect Options:
+Option a: The payout ratio is a crucial financial indicator reflecting the proportion of profits a firm pays its shareholders as dividends. It is used to analyze the long-term viability of a company's dividend.
+Option c: The quick ratio is a conservative financial liquidity measure determining a firm's ability to adjust its current obligations against its most current or liquid assets.
+Option d: Return on equity is a financial measure that quantifies a firm's profitability compared to its shareholders' equity, indicating how much profit a company earns with the shareholder's investment.",Ratio Analysis: Ratio analysis evaluates a company's overall performance using combinations of financial statement components. It can assist stakeholders in making informed investment decisions.
+22,"Will's Wheels, Inc. reported a debt-to-equity ratio of 0.65 times at the end of 2013. If the firm's total debt at year-end was $5 million, how much equity do Will's Wheels have?",$7.69 million,$5 million,$0.65 million,$3.25 million,A,"The total equity of the firm can be calculated as follows:
+{eq}\begin{align*}
+
+Total~equity&=\frac{Total~debt}{Debt~to~equity~ratio}\\
+
+&=\frac{5,000,000}{0.65}\\
+
+&=7,692,307.69
+
+\end{align*}
+
+{/eq}
+Will's Wheels total equity is $7,692,307.69, therefore the correct answer is A. $7.69 million","Balance Sheet: A balance sheet, also known as a statement of financial position, is a company financial report which shows the total owned assets of the company at the end of the period. It also shows its capital structure, which displays how their assets financed."
+23,Consider a firm with a constant interest coverage ratio (k),0.5,0,1,as high as possible,B,"The correct answer is option
+b.
+The optimal interest coverage ratio will be a value that maximizes leverage while minimizing the interest coverage ratio. The interest coverage ratio will be minimum at a level of 0. Given, interest paid= k*FCFt. Since k remains unchanged, the value of interest will be zero if t=0. So, at t=0, the interest paid will be zero. The interest coverage ratio will be equal to EBITDA/Interest Expenses. Thus, if interest expense is zero, the interest coverage ratio will also be reduced to 0.","Interest Coverage Ratio Coverage Ratios measure a company's capacity to pay interest on short-term and long-term debt. The Interest Service Coverage Ratio shows if a firm is capable of paying the interest on debt out of its revenue generated before paying tax, interest, and non-cash expenses."
+24,"As the company s leverage increases, the ratio of debt-to-equity increases. True or false?",True,False,,,A,"The correct answer to the given question is True.
+The financial leverage for a firm is determined by dividing the assets with the total shareholders' equity. Hence if the equity decreases, the company's leverage increases. Since the total capital of a firm is usually made up of debt and equity only, for a given capital, the debt will increase with the decrease in the equity. Thus, the debt-equity ratio increases with the decrease in financial leverage.","Financial Leverage: The financial ratios such as solvency ratios, liquidity ratios, profitability ratios and efficiency ratios are used by analysts and investors for analyzing and comparing the performance of various firms. The solvency ratios which are prominently used are debt-equity ratio, financial leverage ratio, interest coverage ratio etc."
+25,Which of the following is a reasonable total leverage ratio for an LBO under normal market conditions?,5.0x net income,3.0x EBITDA,1.0x sales,5.0x EBITDA,A,"Correct answer: 3.0*EBITDA
+A firm must have 3 times of EBITDA as the total leverage ratio. EBITDA denotes the earnings which a firm earns before deducting interest, taxes, and depreciation. Therefore, 3.0*EBITDA is considered as a reasonable ratio.
+Explanation for incorrect options:
+The total leverage ratio is expressed in terms of EBITDA and the range of ratio must be 2.0 times of EBITDA and 5.0 times of EBITDA. So, other options are incorrect.","Leveraged buyout: When a firm borrows money and acquires another company using the borrowed money, then it is known as a leveraged buyout. A firm can borrow funds with the help of bonds. These bonds are usually high-risk bonds."
+26,The debt to equity ratio measures:,The proportion of total assets financed by equity,The amount of income available for payment of interest,The proportion of total assets financed by debt,The proportion of creditor to stockholders' claims,D,"The correct answer to this question is
+d. The proportion of creditor to stockholders' claims
+The debt-to-equity ratio is a leverage ratio. It measures the proportion of total liabilities to the total stockholders' equity at the end of a period. In other words, it measures the proportion of creditors to the stockholders' claim.
+Debt-to-equity ratio = total debt / total stockholders' equity
+Total liabilities include current liabilities and long term liabilities. Debt is an obligation of the company to the outside parties known as creditors in general.
+Stockholders' equity is the sum total of contributed capital and the accumulated retained earnings over the years. It is an obligation to the owners of the company known as stockholders.
+So, the debt-to-equity ratio measures the proportion of creditors to the stockholders' claim.",Debt-to-Equity Ratio: One of the leverage ratios that is used for financial analysis is the debt-to-equity ratio. It measures the degree of leverage of the company in terms of financial leverage.
+27,"If a firm's current operating income is $10,000,000 and its total market value is $35,000,000, what will the interest coverage ratio be if the debt ratio is 40% and the interest rate is 9.00%?",8.01,2.98,0.126,7.94,D,"Option d.7.94 is the correct answer.
+Calculation of Interest Coverage Ratio:
+Particulars
+Calculations
+Amount
+Total Market Value (A)
+given
+$35,000,000
+Percentage of Debt (B)
+given
+40%
+Value of Debt (A*B=C)
+$35,000,000*40%
+$14,000,000
+percentage of interest (D)
+given
+9%
+Interest expense (C*D=E)
+$14,000,000*9%
+1,260,000
+Operating Income (F)
+given
+$10,000,000
+Interest Coverage Ratio (F/E)
+$10,000,000/$1,260,000
+7.94 times
+Interest Coverage ratio = 7.94 times",Interest coverage ratio Interest coverage ratio is the comparison between a company's Profitability and its ease of covering its debt obligations in the form of interest. A higher coverage ratio of 2 is considered ideal but it may differ from industry to industry. It can be calculated by dividing EBIT or EBITDA by the interest expense for the year.
+28,"All else equal, as a firm increases financial leverage, the beta of the firm's stock will rise.",True,False,,,A,"Answer and Explanation:
+The answer is option _ a. True
+Beta of Firm's stock: it is volatility of firm's stock due to change in interest rate or systematic risk present in stock investment.
+All else equal, as firm increase financial leverage, payment of interest charges increases. This ultimately increases volatility or beta of firm's stock due to increase in financial leverage, there is possibility of low residual profit available or irregular return for stock holder.
+Therefore, increase in financial leverage results rise in firm's stock beta.",Financial leverage: In Financing a new assets firms borrow debt capital instead of issuing new stocks. It is because cost of borrowed capital is lower than cost of issue of new equity. Firms earn higher return over their investment in asset and out of actual profit earn pay interest charges.
+29,"Everything else equal, an industry with more leverage will have a:",higher return on assets.,higher return on equity.,lower return on equity.,both A & B.,B,"The correct answer is option b.
+By using financial leverage, the company will incur a fixed cost associated with the borrowings. This fixed cost would lower the after-tax cost of debt than after-tax cost of equity.
+Hence, in this situation, the ROE in case of leverage would always be higher than ROE without leverage. This is so because the project financed with leverage will have lower percent of shareholding than without leverage. Due to this, the after tax profit would give greater ratio on equity, as fixed interest cost would lower the tax effect.",Financial Leverage: Financial leverage is the usage of borrowed capital in financing the project or business. It is an investment strategy that is used to increase the return of an investment as the cost associated with it is lower than the income that is expected to be generated.
+30,"In a capital restructuring process, a firm can increase its financial leverage by borrowing more debt and issuing new shares at the same time.",True,False,,,A,"True, the financial leverage can be increased by borrowing more debt from lenders as it increases the chances of getting more returns on equity. In the same way, the issue of new shares will generate new capital that can be used to finance ongoing or new projects to increase the return on investment.","Capital Restructuring: Capital restructuring is a strategic move that involves debt and equity proportionally to enhance the firm's profitability and reduce the cost of operations. This method is usually helpful to avoid bankruptcy or a shortage of working capital. Therefore, making use of both equity and debt helps run the company smoothly."
+31,A firm has a debt-to-equity ratio of 0.5. What is its equity multiplier?,1,2.5,3,1.5,D,"The correct answer is
+option d. 1.5.
+Given information:
+Debt-to-equity ratio: 0.5
+The debt-to-equity ratio is given to be 0.5. This indicates that the company has half a unit of debt for each unit of equity. The total assets of the company can be calculated by adding debt and equity.
+Let's assume the total equity to be 1. Therefore, the total debt would be 0.5, and consequently, the total assets would amount to 1.5 (1 + 0.5).
+Determine the equity multiplier, as shown below:
+{eq}\begin{aligned} \text{Equity multiplier} &=\frac{\text{Total assets}}{\text{Total equity}} \\ &=\frac{\text{Total debt}+\text{Total equity}}{\text{Total equity}} \\ &=\frac{0.5+1}{1} \\ &=\frac{1.5}{1} \\ &=1.5 \end{aligned} {/eq}",Equity Multiplier: The equity multiplier is a financial metric used to determine the extent to which an entity depends on external financing and debt in its operations. It is a key component of the DuPont analysis and helps measure the return on equity.
+32,Calculate the Equity Multiplier given that Total Equity is $963 and Total Assets is $1336.,1.09,1.39,2.23,3.13,B,"Correct answer: b. 1.39
+Workings:
+Measuring the equity multiplier:
+{eq}\begin{align*}
+
+{\rm\text {Equity Multiplier}} &= \frac{{{\rm\text {Total Assets}}}}{{{\rm\text {Total Equity}}}}\\
+
+&= \frac{{\$ 1,336}}{{\$ 963}}\\
+
+&= 1.39
+
+\end{align*}
+
+{/eq}",Equity Multiplier: Companies use both debt and equity to invest in their assets. The equity multiplier is similar to the concept of the debt ratio. It measures the total equity that has been used to finance the company's assets.
+33,_____ leverage is concerned with the relationship between earnings before interest and taxes and earnings per share.,Total.,Financial.,Variable.,Operating.,B,"The correct option is
+B. Financial
+.
+Explanation:
+Financial leverage estimates the change in a company's percentage of earnings per share (a company's profitability that considers the effects of interest, taxes, and the number of outstanding shares) for a unit change in its earnings before interest and taxes (a company's profitability before considering the effects of interest and taxes).
+The explanation of the incorrect option:
+Option A: Total leverage is the degree of debt a company has relative to their total assets; higher levels indicate that the organization has a substantial amount of debt relative to its assets, which may raise its financial risk.
+Option C: Variable leverage is a condition in which a company's financial leverage varies with the value of sales, i.e., as its sales expand or fall, so do its financial leverage and risk.
+Option D: Operating leverage is the level to which a company's fixed and variable expenses affect earnings before interest and taxes, i.e., it quantifies a company's operating income's sensitivity to changes in sales revenue.",Leverage: Using debt or other financial instruments to boost the potential return on investment is known as leverage. It raises the possible earnings on investment while raising the potential risk.
+34,Financial leverage refers to which of the following?,The difference between the rate of return earned on assets (ROI) and the rate of return earned on owners' equity (ROE).,The difference between the rate of return earned on current assets and the rate of return earned on retained earnings.,The leverage a firm obtains from increasing production.,Decreasing fixed costs per unit by increasing production.,A,"Correct Option: A
+Explanation for correct option:
+Assets = Liabilities + Equity.
+This can be interpreted as if the liability will be zero, then assets will equal to the Equity and ROI will also become equal. Therefore adding liabilities there will be difference between ROI and ROE.
+Explanation for incorrect option:
+Option B:
+For the comparison there must be total assets value and not just current assets amount.
+Option C:
+The financial leverage is affected by the financial activities/debts and merely through productivity.
+Option D:
+It is determined with the relation of debt and capital and not with fixed cost and production.","Financial Leverage: The stock is boosted as earning on borrowings is higher than the interest payable on debt, this will lead to increase in total earning of a company. It measures fluctuation in the income because of the change in earning capacity."
+35,"When using the flow-to-equity method, what is the appropriate discount rate for the free cash flows to equity?",Cost of assets,Cost of the unlevered equity,Cost of the levered equity,Weighted average cost of capita,B,"Correct Answer: Option B. Cost of the unlevered equity.
+Explanation:
+When the flow-to-equity method is used, we use the unlevered cost of equity to discount the free cash flows to equity. The unlevered cost of equity is the overall cost of capital of an unlevered firm that has no cost of debt. Free cash flows are determined by reducing the capital expenditure from the operating cash flow.","Levered Firm: An unlevered firm does not have debt in its capital structure, while a levered firm has debt in its capital structure. The cost of a levered firm is different from the cost of an unlevered firm and we can use the Modigliani and miller approach to value them with taxes or without taxes."
+36,A company that has no long-term debt (only current liabilities) will have a financial leverage ratio of 1.0.,True,False,,,B,"The statement is false.
+A financial leverage ratio of 1.0 indicates that the company is having the same debt and equity. So, a company that has no long-term debt (only having current liabilities)does not mean that the financial leverage of the company will be 1.0.
+{eq}\begin{align*}
+
+{\rm\text{Financial}}\;{\rm\text{leverage}} &= \frac{{{\rm\text{Debt}}}}{{{\rm\text{Equity}}}}\\
+
+1 &= \frac{{{\rm\text{Debt}}}}{{{\rm\text{Equity}}}}\\
+
+{\rm\text{Debt}} &= {\rm\text{Equity}}
+
+\end{align*}
+
+{/eq}",Financial Leverage: Financial leverage is a method that involves using the money borrowed to purchase assets. It clearly shows how the borrowed money is utilized efficiently. Financial leverage helps to improve the overall earnings of the company.
+37,"In order to reduce the likelihood of excessive leverage in the banking system, governments have traditionally:",imposed capital requirements on commercial banks.,imposed capital requirement on investment banks.,imposed capital requirements on both commercial and investment banks.,imposed asset requirements on all banks.,A,"The correct answer is
+option a. imposed capital requirement on commercial banks.
+In the above condition, if the governments want to reduce the excessive leverage with the help of traditional methods, the government will impose the capital requirement on commercial banks. This imposition on commercial banks will reduce the excessive leverage because the banks will not provide more to the businesses, and they have to keep the money with themselves. Commercial banks have to maintain the level of money with them. When the government imposes restrictions on them for capital requirements, it will reduce the excessive leverage provided to the business to increase its debt finance.","Leverage: It refers to the process whereby a business tries to finance its activities with the help of debt or investment. Every business uses financial leverage because it is considered the ratio of equity of the company. The companies do not issue stocks. Instead, they use debt financing to raise the capital in the business."
+38,"A bank has a capital of $200 and a leverage ratio of 5. If the value of the bank's assets declines by 10 percent, then its capital will be reduced to:",$100.,$150.,$180.,$185.,A,"A bank has a capital of $200 and a leverage ratio of 5. If the value of the bank's assets declines by 10 percent, then its capital will be reduced to:
+a. $100
+.
+If the leverage ratio is 5 and the bank's capital is $200, the value of the bank's assets is given by:
+Leverage ratio x Bank's capital.
+Thus, the value of the bank's asset is $1,000.
+A decline in the value of assets by 10% means that the assets' value is now:
+$100 ($1000 * 10%)","Commercial Banks: In finance and economics, commercial banks are those financial institutions that help facilitate the circulation of money in the economy by accepting personal deposits from consumers who have a surplus of money and lending money to consumers who do not have extra money for larger or sometimes even regular purchases."
+39,Which of the following transactions could generate positive financial leverage for a corporation?,Acquiring assets through the issuances of long-term debt,Acquiring assets through the use of accounts payable,Acquiring assets through the issuance of common stock,Both A and B above,D,"Correct answer is option d
+Explanation:
+Option A: Acquiring assets through the issuances of long-term debt could generate positive financial leverage for a corporation because it generates a higher rate of return on equity which is higher than the rate of interest paid on the long-term debt, and it also helps to reduce the tax.
+Option B: Acquiring assets using accounts payable is possible for the company as accounts payable are goods and services purchased on credit which are assets for the company.
+Explanation of incorrect option:
+Option C: Acquiring assets through the issuance of common stock will not fulfil the positive financial leverage and common stock creates equity not debt.","Financial Leverage: The company or organization that uses the debt to purchase more assets; it is known as the financial leverage or leverage. It impacts the share of the owners in profits and mainly uses for increasing the rate of return on equity. As amount of financial leverage increases, it also increases the risk."
+40,"In the revaluation year, an asset revaluation that increases the carrying value of an asset is most likely to?",increase return on equity.,decrease reported leverage.,decrease shareholders equity.,,B,"The correct option is b. decrease reported leverage.
+If the carrying value of an asset increases due to revaluation, then a revaluation reserve account is created for noting down the surplus amount in the books. This would increase the total assets and equity of the business entity. Therefore, this appraisal in equity would result in a decline in leverage. Hence, option b. is correct.","Revaluation: An approach that requires the book value of the non-current asset to be adjusted considering its market value is referred to as revaluation. An appraisal is recognized as other comprehensive income, whereas a decline in value goes to profit and loss."
+41,The financial leverage characteristic of long-term debt results in?,a reduction of the risk that creditors will not be paid.,a magnification of ROE relative to what it would be without long-term debt.,a magnification of ROI relative to what it would be without long-term debt.,"the deductibility, for income tax purposes, of dividends to stockholders.",B,"Correct Option:
+B
+.
+Explanation for the correct answer:
+A magnification of Return on Equity would be characterized when valued financial leverage as the long term debt is borrowed to reduce the need of the Equity finance.
+Explanation for the incorrect answers:
+Option: A.
+No, it is specifically related to long term debt, while creditors are under current liabilities.
+Option: C.
+It is incorrect as A magnification of Return on Income would relate to the profits & earnings and not to the financial leverage.
+Option: D.
+No, it is incorrect as Financial leverage has no component related to the dividends eligible for distribution to the shareholders.","Long-term debt: When the company borrows the amount for bringing the fund in the company for running the business and managing the assets, the capital is termed as borrowed capital. This capital if borrowed and payable after one year then it will termed as Long term debt."
+42,Define each of the following financial leverage ratios:,debt ratio;,times-interest-earned (TIE) ratio;,coverage ratio,,A,"a) Debt ratio: When a company takes debt of a vast amount, it needs to ensure that it has plenty of assets, if needed, to offset the debt in future; hence, the debt ratio helps the lender determine whether the company is capable of paying the debt from its assets if it is not making enough profits to pay off debt.
+b) Time-interest-earned (TIE) ratio: This ratio is used by every investor to determine if the company is capable enough to clear its long-term obligations from the profits it is generating, not depending upon its assets to pay if they give a loan to them.
+c) Coverage ratio: This ratio helps the investors analyze if the company is worthy enough to pay all its legal obligations and meet other financial needs. They are helpful while evaluating the difference in the performance of companies.",Leverage Ratios: These ratios help the company present its financial worth in a way that it is easy for any lender to give them a debt. It is an important ratio as the company holds a mix of ownership and debt.
+43,Which of the following statements is false?,Personal taxes have the potential to offset some of the corporate tax benefits of leverage.,The actual interest tax shield depends on the reduction in the total taxes (both corporate and personal) that are paid.,"The amount of money an investor will pay for a security ultimately depends on the benefits the investor will receive; namely, the cash flows the investor will receive before all taxes have been paid.","Just like corporate taxes, personal taxes reduce the cash flows to investors and diminish firm value.",C,"False Statement:
+c. The amount of money an investor will pay for a security ultimately depends on the benefits the investor will receive; namely, the cash flows the investor will receive before all taxes have been paid.
+Reason: The amount that an investor is willing to pay depends on the cash flows after the payment of taxes. Hence, this statement is false.
+True Statement:
+a. Personal taxes have the potential to offset some of the corporate tax benefits of leverage.
+b. The actual interest tax shield depends on the reduction in the total taxes (both corporate and personal) that are paid.
+d. Just like corporate taxes, personal taxes reduce the cash flows to investors and diminish firm value.
+Reason: The benefits of personal taxes offsets the benefits of using leverage as the interest income and capital gains are taxable in the hands of investors. The actual interest tax shield considers the corporate as well as the personal taxes. The personal taxes reduces the value of the firm as it reduces the cash flows to the investors.","Leverage: Leverage refers to the use of borrowed fund in the capital structure by an organization. The interest on leverage is a permanent charge which increases the risk of the firm. But, the interest paid on debt provides tax benefit to the firm."
+44,"In a capital restructuring process, a firm can increase its financial leverage by borrowing more debt and issuing new shares at the same time.",True,False,,,A,"True, the financial leverage can be increased by borrowing more debt from lenders as it increases the chances of getting more returns on equity. In the same way, the issue of new shares will generate new capital that can be used to finance ongoing or new projects to increase the return on investment.","Capital Restructuring: Capital restructuring is a strategic move that involves debt and equity proportionally to enhance the firm's profitability and reduce the cost of operations. This method is usually helpful to avoid bankruptcy or a shortage of working capital. Therefore, making use of both equity and debt helps run the company smoothly."
+45,A company that has no long-term debt (only current liabilities) will have a financial leverage ratio of 1.0.,True,False,,,B,"The statement is false.
+A financial leverage ratio of 1.0 indicates that the company is having the same debt and equity. So, a company that has no long-term debt (only having current liabilities)does not mean that the financial leverage of the company will be 1.0.
+{eq}\begin{align*}
+
+{\rm\text{Financial}}\;{\rm\text{leverage}} &= \frac{{{\rm\text{Debt}}}}{{{\rm\text{Equity}}}}\\
+
+1 &= \frac{{{\rm\text{Debt}}}}{{{\rm\text{Equity}}}}\\
+
+{\rm\text{Debt}} &= {\rm\text{Equity}}
+
+\end{align*}
+
+{/eq}",Financial Leverage: Financial leverage is a method that involves using the money borrowed to purchase assets. It clearly shows how the borrowed money is utilized efficiently. Financial leverage helps to improve the overall earnings of the company.
+46,"Given that the Net profit margin of my company is 4.45, Sales/TA is 1.377, what would be my equity multiplier if the ROE for my company is 14.60%.",8.85,4.63,3.97,2.382,D,"The correct answer is
+D. 2.382
+We will compute for the equity multiplier using the formula derived from return on equity formula:
+{eq}Equity~Multuiplier~=~\frac{\frac{ROE}{Asset~Turnover}}{{Net~Profit~Margin}}
+
+{/eq}
+{eq}Equity~Multuiplier~=~\frac{\frac{0.1460}{1.377}}{{4.45}}
+
+{/eq}
+Your company's equity multiplier is
+2.382",Equity Multiplier The equity multiplier is a financial leverage ratio the degree of the firm's total assets being financed by stockholders' money rather than by debt from borrowers or lenders. It is computed by dividing the total assets to the stockholders' equity.
+47,"A firm has a degree of financial leverage of {eq}1.3
+
+{/eq}. If earnings before interest and tax increase by {eq}10\%
+
+{/eq}, then net income:","Will increase by {eq}13.0\%
+
+{/eq}.","Will increase by {eq}13
+
+{/eq}.","Will decrease by {eq}13.0\%
+
+{/eq}.","Will decrease by {eq}13
+
+{/eq}.",A,"Data:
+Degree of financial leverage = 1.3
+Earnings before interest and tax = 10%
+Calculation:
+Net income = Degree of financial leverage * Earnings before interest and tax
+Net income = 1.3 * 10%
+Net income = 1.3 * 0.10
+Net income = 0.13 or 13%
+Option a is correct.",Financial Leverage: Financial leverage refers to the use of debt capital to purchase assets. An increase in the asset of the company will result in greater cash inflow. So with the use of debt the profit of the company can be increased.
+48,The increased use of financial leverage may:,I and II,I and III,II and III,"I, II, and III",B,"The answer is
+B. I and III
+An increased use of financial leverage indicates that the firm use more debt than equity in funding the assets. Hence, it raises the default risk of the operations if the firm cannot manage its investments efficiently. With that being said, the credit rating of the firm will usually reduce due to an increase in its risk.
+In addition, an increase in debt will raise the firm's total expenses, which lower its net earnings.",Financial Leverage: The firm's financial leverage refers to the relationship between equity and debt capital. High financial leverage indicates that the firm finances its assets by debt capital mostly.
+49,All of the following industries have traditionally supported high leverage levels EXCEPT:,Cable,Gaming,Industrials,Technology,D,"Option d is the correct answer
+Technology is an application that is used to produce improved, innovative and creative products and services. Hence, technology is not supported by high leverage levels.
+Option a. It is not a correct answer because the cable industry deals with the wire or coil made of aluminum, copper, plastic, etc. It is supported by high leverage levels.
+Option b. It is not a correct answer because gaming means the electronic games which are played on computers, mobiles, laptops, electronic games, etc. It is supported by high leverage levels.
+Option c. It is not a correct answer because an industrial is a place related to the factory where workers work or produce materials. It is supported by high leverage levels.",High Leverage High leverage means where an industry or business organization has more debt as compared to equity. Such industries can leverage their investments with the help of futures and options. It creates high business risk.
+50,Both business risk and financial risk would exist with or without either type of leverage. Leverage just makes them more significant. Are these statements true or false? Explain.,True,False,,,B,"The above statements are
+false
+.
+The business and financial risk cannot exist without leverage, whether it be operating or financial leverage, because the financial risk is calculated with the help of financial leverage and business risk is determined through operating leverage. The financial risk facilitates a firm to efficiently handle the cost of financing external debt while the business risk focuses on attaining constant receipts to carry the activities.",Leverage: Leverage refers to the maximum utilization of borrowed by generating returns from the investment made through external debt. It shows the proportion of equities and external borrowing in the total capital of the company.
+51,"Bryan invested in Bryco, Inc. stock when the firm was financed solely with equity. The firm is now utilizing debt in its capital structure. To unlever his position, Bryan needs to:",borrow some money and purchase additional shares of Bryco stock,maintain his current position as the debt of the firm did not affect his personal leverage position,sell some shares of Bryco stock and loan it out such that he creates a personal debt-equity ratio equal to that of the firm,create a personal debt-equity ratio that is equal to exactly 50% of the debt- equity ratio of the firm,C,"Option C is correct.
+Earlier, Bryco, Inc. only issued equity and was an un-levered firm. But now, it starts using debt also to fund the business. Therefore, Bryan has to deleverage his funds by selling some stocks and use this amount as a loan to the firm. This will lead to converting his position in levered investment.
+The explanation for incorrect options:
+Option a: Borrowing funds and buying additional shares do not change his leverage position as it requires debt acquisition.
+Option b: Maintaining entire funds as debt leads to a fully levered position, therefore, the option is incorrect.
+Option d: It is not necessary to sustain equal debt and equity to change the un-levered position.","Unlevered firm: It refers to a firm having no debt and hence, does have any financial leverage. In other words, such firms do not use any borrowed amount from lenders to fund their operations. Therefore, such firms do not issue preferred stock or debts."
+52,"Cavo Corporation expects an EBIT of $26,850 every year forever. The company currently has no debt, and its cost of equity is 14 percent. The tax rate is 35 percent.",What is the current value of the company?,Suppose the company can borrow at 8 percent. What will the value of the company be if it takes on debt equal to 50 percent of its unlevered value? What if it takes on debt equal to 100 percent of its unlevered value?,What will the value of the company be if it takes on debt equal to 50 percent of its levered value? What if the company takes on debt equal to 100 percent of its levered value?,,A,"a.
+{eq}Value \ unlevered \ enterprise \ = \ \dfrac{EBIT \ \times \ \left ( 1 \ - \ Tax \ rate \right )}{Cost \ of \ capital \ unlevered}
+
+\\
+
+Value \ unlevered \ enterprise \ = \ \dfrac{26,850 \ \times \ \left ( 1 \ - \ 35\% \right )}{14\%}
+
+\\
+
+Value \ unlevered \ enterprise \ = \ \dfrac{26,850 \ \times \ 0.65}{0.14}
+
+\\
+
+Value \ unlevered \ enterprise \ = \ \dfrac{17,452.5}{0.14}
+
+\\
+
+Value \ unlevered \ enterprise \ = \ \$124,660.7
+
+{/eq}
+b.
+For 50%
+Debt = 50% * Value unlevered enterprise
+Debt = 0.50 * 124,660.7
+Debt = $62,330.35
+Value of levered enterprise = Value unlevered enterprise + (Debt * Tax rate)
+Value of levered enterprise = 124,660.7 + (62,330.35 * 35%)
+Value of levered enterprise = 124,660.7 + (62,330.35 * 0.35)
+Value of levered enterprise = 124,660.7 + 21,815.6
+Value of levered enterprise = $146,476.3
+For 100%:
+Value of levered enterprise = Value unlevered enterprise + (Value unlevered enterprise * Tax rate)
+Value of levered enterprise = 124,660.7 + (124,660.7 * 35%)
+Value of levered enterprise = 124,660.7 + (124,660.7 * 0.35)
+Value of levered enterprise = 124,660.7 + 43,631.3
+Value of levered enterprise = $168,292
+c.
+For 50%:
+Value of levered enterprise = 124,660.7 + (168,292 * 50% * 35%)
+Value of levered enterprise = 124,660.7 + (84,146 * 0.35)
+Value of levered enterprise = 124,660.7 + 29,451.1
+Value of levered enterprise = $154,111.8
+For 100%:
+Value of levered enterprise = 124,660.7 + (168,292 * 100% * 35%)
+Value of levered enterprise = 124,660.7 + (168,292 * 0.35)
+Value of levered enterprise = 124,660.7 + 58,902.2
+Value of levered enterprise = $183,562.9",Leverage: When a company includes debt in the capital then it provides leverage because when a company issue debt then it does not have to dilute the ownership.  The company only required to pay interest on the debt capital.

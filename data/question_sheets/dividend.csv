@@ -1,0 +1,577 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"Alpha Corporation has 1,500 shares of $40 par, 7% cumulative preferred stock, and 2,200 shares of $10 par common stock. Alpha paid $10,000 in cash dividends, including one-year dividends in arrears to preferred stockholders. Common stockholders received is:",$0.00 ,$220.00 ,"$1,600.00 ","$5,800 ",C,"The correct answer is
+option C. $1,600.
+Given information:
+Number of preferred stock= 1,500
+Par value =$40
+Dividend rate=7%
+Number of common stock= 2,200
+Par value =$10
+Total dividend paid = $10,000
+The preferred dividend is computed by multiplying the number of preferred stocks by the par value and dividend rate.
+Step 1: Determine the annual preferred dividend as follows:
+{eq}\begin{aligned} \text{Annual preferred dividend} &=\text{ Number of preferred stocks }\times \text{ Par value }\times \text{ Dividend rate} \\ &=\text{1,500 }\times \text{ }\!\!\$\!\!\text{ 40 }\times \text{ 7 }\!\!\%\!\!\text{ } \\ &=\$60,000\text{ }\times \text{ }7\% \\ &=\$4,200 \end{aligned} {/eq}
+Step 2: Determine the total dividend paid to preferred stockholders in the current year as follows:
+{eq}\begin{aligned} \text{Total dividend pai}{{\text{d}}_{\text{preferred stock}}} &=\text{ Current year dividen}{{\text{d}}_{\text{preferred stock}}}\text{ }+\text{ Dividend arrear}{{\text{s}}_{\text{preferred stock}}} \\ &=\$4,200+\text{ }\$4,200 \\ &=\$8,400 \end{aligned} {/eq}
+It implies that preferred owners will get annual dividend payments of $4,200. Preferred investors will receive a $8,400 total dividend this year because the one-year dividend is in arrears.
+Step 3: Determine the dividend given to common stockholders as follows:
+{eq}\begin{aligned} \text{Dividend Paid to common stockholders} &=\text{ Total dividend paid }-\text{ Dividend paid to preferred stockholders} \\ &=\$10,000-\$8,400 \\ &=\$1,600 \end{aligned} {/eq}
+Thus, the common stockholders received $1,600.",Preferred Dividends : Preferred dividends are a fixed sum of money that businesses distribute to their preferred stockholders from their profits. Preferred stockholders receive dividend payments prior to common stockholders.
+2,Preference shareholders' sacrifice of undeclared preference dividend is to be credited to:,preference share capital.,paid-up capital.,equity capital stock.,none of these.,D,"The correct option is d. none of these.
+No shareholder is entitled to dividends. So, it is incorrect to say that undeclared preference dividends are sacrificed. Also, dividends are only recorded when they are declared. So,
+undeclared dividends are not recorded in the accounting records
+.
+Preference shareholders have a preferred right to dividends over common shareholders when they are declared. This right accumulates if the preference shares are cumulative. However, if the board of directors decide never to declare dividends, the preference shareholders will never receive dividends, and they have no claim against the company for the undeclared dividends. So, there is also no accounting entry to record these undeclared dividends.",Dividend Declaration: Dividends become due and payable on the date the board of directors formally declare the dividends. They are recorded in the accounting records on the declaration date because that is when the liability is incurred.
+3,"Rhubarb Corporation's outstanding stock is 100 shares of $100, 11% cumulative nonparticipating preferred stock, and 2,000 shares of $12 par value common stock. Rhubarb paid $1,600 in cash dividends during the year. Common stockholders received is:",$0.00 ,$500.00 ,"$2,500.00 ","$1,100.00 ",B,"The correct answer is
+B. $500.
+Given information:
+Number of preferred stock= 100
+Par value =$100
+Dividend rate=11%
+Number of common stock = 2,000
+Par value =$12
+Total dividend paid = $1,600
+Non-participating preference shareholders do not receive a portion of any surplus assets or earnings after a company's liquidation. They receive only the fixed dividend percentage that is mentioned on the stock certificate.
+Step 1: Determine the annual cumulative non-participating preferred stock dividend as follows:
+{eq}\begin{aligned} \text{Annual preferred dividend} &=\text{ Number of preferred stocks }\times \text{ Par value }\times \text{ Dividend rate} \\ &=\text{100 }\times \text{ }\!\!\$\!\!\text{ 100 }\times \text{ 11 }\!\!\%\!\!\text{ } \\ &=\$10,000\text{ }\times \text{ }11\% \\ &=\$1,100 \end{aligned} {/eq}
+Step 2: Determine the dividend distributed to common stockholders as follows:
+{eq}\begin{aligned} \text{Dividend Paid to common stockholders} &=\text{ Total dividend paid }-\text{ Dividend paid to preferred stockholders} \\ &=\$1,600-\$1,100 \\ &=\$500 \end{aligned} {/eq}
+Thus, the dividend received by common stockholders is $500.","Preferred Stock: Preferred stocks are equity instruments that are issued by a firm to raise funds for expansion and growth. There are mainly four types of preferred stocks: cumulative, non-cumulative, participative, and convertible."
+4,Stockholders are eligible for a dividend if they own the stock on the date of:,declarationb. recordc. paymentd. issuance,,,,B,"Stockholders are eligible for a dividend if they own the stock on the date of
+(b.) record
+.
+The record date is the date on which shareholders must be on record to receive a dividend. For example, if dividends are declared on February 1, with the record date on February 14, and the payment date on February 25, the shareholders that are eligible to receive the dividends are all those who hold shares on February 14, even if a shareholder only bought the shares on, say, February 10.
+The other options are incorrect because:
+(a.) declaration
+— The declaration date is when the company incurs the liability to pay the dividends, so it is February 1 in the example above. The board of directors names the record date as part of the dividend declaration, and only shareholders on the record date will receive dividends.
+(c.) payment
+— The payment date is when cash payments are made to shareholders according to the shares held on the record date (February 25 in our example). The payment date is typically a week or two after the record date to give the company time to process the dividend payments.
+(d.) issuance
+— The issuance date is when the corporation issues shares for the first time. Shares can subsequently be sold to new shareholders, who will then have the right to receive the dividends.","Cash Dividends: Cash dividends are distributions that a company makes to its shareholders from accumulated profits. Cash dividends can be paid on any class of stock issued and outstanding, but a company does not have an obligation to declare and pay dividends."
+5,"When Retained Earnings have a debit balance, a deficit exists.",TRUE,FALSE,,,A,"It is
+True
+that when retained earnings have a debit balance, a deficit exists.
+If retained earnings have a credit balance, they are recorded as a component of the shareholder equity on the liabilities and equity side of the balance sheet. The credit balance of retained earnings indicates that the business has surplus profits after distributing dividends.
+However, if retained earnings have a negative balance, they will be recorded as a debit balance in the equity account. For instance, a negative amount occurs when a firm's dividend payments exceed the amount of earnings it has made. It is also known as a deficit or accumulated deficit.
+Thus, the given statement is true.",Retained Earnings: The portion of total earnings that is reinvested into the business by a firm instead of making dividend payments is known as retained earnings. It aids in determining whether a firm has sufficient funds to meet its obligations and grow further.
+6,Which of the following increase owner's equity or stockholder's equity?,Cash.,Revenue.,Receiving cash from vendors.,Receiving cash from clients.,B,"The correct answer is
+B. Revenue
+.
+Answer Options
+Explanation
+A. Cash.
+The changes in cash balance impact the assets, not equity.
+B. Revenue.
+An increase in revenue increases the net income. When net income is closed, it increases the retained earnings, an important equity component.
+C. Receiving cash from vendors.
+Cash increases and Debtors balance decreases.
+D. Receiving cash from clients.
+Cash increases and Debtors balance decreases.",Closing Process: All the revenue and expense items of the income statement should be closed by transferring their balance to the retained earnings account on the balance sheet. The next period should start with a zero balance in each nominal account.
+7,Which of the following increase owner's equity or stockholder's equity?,Cash.,Revenue.,Receiving cash from vendors.,Receiving cash from clients.,B,"The correct answer is
+B. Revenue
+.
+Answer Options
+Explanation
+A. Cash.
+The changes in cash balance impact the assets, not equity.
+B. Revenue.
+An increase in revenue increases the net income. When net income is closed, it increases the retained earnings, an important equity component.
+C. Receiving cash from vendors.
+Cash increases and Debtors balance decreases.
+D. Receiving cash from clients.
+Cash increases and Debtors balance decreases.",Closing Process: All the revenue and expense items of the income statement should be closed by transferring their balance to the retained earnings account on the balance sheet. The next period should start with a zero balance in each nominal account.
+83,"A company declares a cash dividend on its common stock on December 24, Year One, payable to owners of record on January 2, Year Two, with checks to be mailed on January 9, Year Two. Which of the following statements is true?",The owners will record the revenue from this transaction in Year Two but the company will record the effect of the dividend in Year One.,This dividend is recorded by the company as an operating expense on its income statement.,"The company will have a liability on its December 31, Year One balance sheet, and the owners will record a receivable on their December 31, Year One balance sheet.","Both the revenue and the dividend paid will be recorded by the two companies on January 9, Year Two when payment is made.",A,"The correct option is a. The owners will record the revenue from this transaction in Year Two but the company will record the effect of the dividend in Year One.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. The owners will record the revenue from this transaction in Year Two but the company will record the effect of the dividend in Year One.
+This is the correct alternative because the company incurs the liability on the date the dividends are declared. However, the owners earn the dividend on January 2, because that is the record date of the transaction.
+b. This dividend is recorded by the company as an operating expense on its income statement.
+Dividends are recorded in the statement of stockholders' equity, not on the income statement.
+c. The company will have a liability on its December 31, Year One balance sheet, and the owners will record a receivable on their December 31, Year One balance sheet.
+The owners cannot record a receivable, because the record date is January 2, so on December 31, it has not yet been established to who the dividends will be paid.
+d. Both the revenue and the dividend paid will be recorded by the two companies on January 9, Year Two when payment is made.
+No, the company must incur the liability and record the dividend on the date it is declared, not when it is paid.","Cash Dividends: Cash dividends are cash distributions made to shareholders from the profits of a company. Companies have no obligation to pay dividends, but once dividends have been declared by the board of directors, the company incurs the liability to pay them."
+84,"A company has current assets of $549,000 and current liabilities of $226,000. The board of directors declares a cash dividend of $183,000.",What is the current ratio after the declaration but before payment?,What is the current ratio after the payment of the dividend?,,,A,"Answer (a)
+If the current liabilities of the company are $226,000 and it declares a cash dividend of $183,000. The dividend payable account will be credited by $183,000 and thus current liabilities will increase by $183,000
+So, the current ratio will be -
+{eq}\begin{align} \text{Current Ratio} &= \dfrac{\text{Current Assets}}{\text{Current Liabilities}}\\ &= \dfrac{\$549,000}{\$226,000 + \$183,000}\\ &= \dfrac{\$549,000}{\$409,000}\\ &= \text{1.34 times}\\ \end{align} {/eq}
+Answer (b)
+After the payment of dividends, the dividend payable account will be zero and the cash account (current assets) will decrease by $183,000
+So, the current ratio will be -
+{eq}\begin{align} \text{Current Ratio} &= \dfrac{\text{Current Assets}}{\text{Current Liabilities}}\\ &= \dfrac{\$549,000 - \$183,000}{\$226,000}\\ &= \dfrac{\$336,000}{\$226,000}\\ &= \text{1.62 times}\\ \end{align} {/eq}",Dividends: Dividends are the distribution of income of the company amount its stockholders. Companies declare dividends as a percentage of the par value of the shares.
+85,"A firm has $1,200,000 in paid-in capital, retained earnings of $60,000 (including the current year's earnings), and 25,000 ordinary shares. In the current year, it has $40,000 of earnings available for the ordinary shareholders. Assuming that legal capital includes all paid-up capital and that the value of retained earnings equals the firm's net assets, the most the firm can pay in cash dividends per share to each ordinary shareholder is:",$48 ,$1.60 ,$2.40 ,$4 ,C,"The correct answer is
+(c) $2.40
+The firm can distribute its retained earnings as dividends to its shareholders.
+If the retained earnings of the firm are $60,000 and shares outstanding are 25,000; then the dividend per share that the firm can pay will be
+$60,000 / 25,000 = $2.40 per share",Dividends: Dividends are the distribution of earnings by companies to their shareholders. The payment of cash dividends is classified as cash outflow under financing activities of the statement of cash flows.
+86,Cash dividends are based on the number of shares:,authorized,issued,outstanding,authorized and issued,C,"The correct answer is
+C. outstanding.
+The shares issued by a company that is currently held by shareholders are called outstanding shares. Since a cash dividend is the means used by a company to distribute its wealth among shareholders, it is always based on the number of shares outstanding.
+The other options are incorrect.
+A.
+Authorized:
+It represents the upper limit on the number of shares that can be issued throughout a company's life. This number can exceed the number of shares outstanding. Thus, cash dividends are not based on this metric.
+B.
+Issued:
+It represents the total number of shares issued by a company and includes the shares held by the shareholders as well as the shares repurchased by the company. The cash dividend is not paid on the shares repurchased. Thus the cash dividend is never based on the number of shares issued.
+D.
+Authorized and issued:
+The cash dividend is based on the number of shares outstanding.","Cash Dividend: A share of profits paid out to shareholders in the form of cash is called a cash dividend. It provides regular income to stockholders. As a result, cash dividend-paying stocks are preferred by investors who need additional income."
+87,"Company has 100,000 shares of $10 par value common stock outstanding that was originally issued for $18 per share. In the current year, when the price of this stock increased to $60 per share, the company's board of directors issued a two-for-one stock split. The price of the stock immediately fell to $30 per share. By what amount should the company reduce its Retained Earnings balance as a result of this split?",zero,1 million,3 million,6 million,A,"The correct option is
+(a) zero
+During a stock split, the balance of retained earnings is not transferred anywhere. A stock split only increases the number of shares outstanding and reduced the par value per share. Even the total capital amount remains the same.
+There is no change in the balance of the stockholder's equity due to a stock split.",Stock Split: A stock split refers to the bifurcation of existing stock into further smaller parts. A stock split does not change the total stockholders' equity of the business.
+88,"Custer.com's outstanding stock is 100 shares of $100, 6% cumulative nonparticipating preferred stock, and 1,000 shares of $10 par value common stock. Custer paid $2,000 cash dividends, including one-year dividends in arrears to preferred stockholders. Common stockholders received is:",$0.00 ,$800.00 ,"$1,818.00 ",$600.00 ,B,"The correct answer is
+B. $800.
+Preferred stockholders will get priority in the distribution of dividends. The annual dividend for preferred stockholders will be
+100 shares X $100 X 6% = $600.
+As preferred stock dividends of one year are in arrears, the total dividends distributed to preferred stockholders will be
+$600 X 2 = $1,200
+So, the dividends to common stockholders will be
+$2,000 - $1,200 = $800",Dividends: Dividends mean the distribution of income among shareholders of the company. Companies distribute dividends to keep shareholders interested in the company and provide them with some return on their investment.
+,,,,,,,,
+90,Operating cash flows exclude:,Interest received.,Interest paid.,Dividends received.,Dividends paid.,D,"The correct answer is
+d. Dividends paid
+.
+Operating cash flows include interest received on investments and interest paid on borrowings and dividends received on investments in securities of other companies. Dividends paid on shares are not part of operations. They are reported as cash outflows from financing activities.","Cash Flow Statement: A cash flow statement reports the business's cash position by determining the net cash flows generated from its operations, investments, and sources of finance. The capital from financing sources needs repayment except for the common stock."
+91,The date on which the directors announce a future dividend payment to stockholders is called the:,Dividend Date.,Date of declaration.,Date of record.,Date of payment.,B,"The correct option is B.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Dividend Date.
+This is not a concept used in accounting for dividends.
+b. Date of declaration.
+This is the correct alternative because the declaration date is the date of the board decision and also the date on which the dividends are recorded in the accounting records for the first time
+.
+c. Date of record.
+This is a date between the declaration and payment dates that are used to determine to which shareholders the dividends will be paid
+d. Date of payment.
+This is the date cash payments are made to the shareholders.",Cash Dividends: Dividends are distributions made to shareholders from the profits of a company. Dividends are usually paid in cash and they reduce the total stockholders' equity of the company because they reduce its retained earnings.
+92,The first item appearing on the statement of retained earnings is:,the beginning balance of retained earnings,net income,dividends,net increase of current year,A,"The correct answer is
+a. the beginning balance of retained earnings
+.
+Retained earnings statement reports the following items:
+Beginning balance in the retained earnings
+Net income earned during the period
+Dividends paid both in cash and stock
+Ending balance in the retained earnings
+The first item reported on the statement is retained earnings beginning balance.
+Let's see the retained earnings statement format to have better clarity:
+Amount
+Retained earnings, Beginning balance
+$XX
+Add
+: Net income
+$XX
+Less:
+Dividends
+$(XX)
+Retained earnings, Ending balance
+$XX",Stockholders' Equity: Stockholders' equity doesn't just represent the capital raised from the sale of stock to the shareholders but also includes the profits accumulated from the inception of the business operations.
+93,"The Monroe Corporation has 100,000 common shares issued and outstanding. This stock was issued several years ago, at a price above the $10 per share par value. During the current year, the board of directors declared a 30 percent stock dividend so that 30,000 new shares were issued to the stockholders when the price of the stock was $30 per share. As a result of this dividend, what reduction was recorded in the reported amount of retained earnings?",zero,300K,600K,900K,D,"The correct option is
+(D.) $900K
+Stock dividend is also called capitalization of earnings as the balance of retained earnings is transferred to the common stock and additional paid-in capital in excess of the par account. The amount transferred is equal to the market value of the shares issued as dividends.
+Here, 30,000 shares were issued as dividends when the market price of the stock was $30 per share. So, the balance to be transferred from retained earnings will be
+30,000 shares X $30 = $900,000",Stock Dividends: Stock dividends mean the distribution of stocks free of cost to the existing stockholders of the company as dividends. Companies avoid cash outflow by declaring stock dividends instead of regular cash dividends.
+94,"When dividends are declared and payable in the future, the journal entry for the company that is issuing the dividends includes a debit to:",Dividends Payable a credit to retained earnings.,Retained earnings and a credit to dividends payable.,Retained earnings and a credit to cash.,Dividends Payable and a credit to cash.,B,"The correct option is b. Retained earnings and a credit to dividends payable.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Dividends Payable a credit to retained earnings.
+This would increase Retained Earnings and dividends declared must decrease it.
+b. Retained earnings and a credit to dividends payable.
+This is the correct alternative because Retained Earnings decrease with the debit entry and the current liability created by the dividend declaration increases.
+c. Retained earnings and a credit to cash.
+This is the entry when dividends are declared and paid on the same date.
+d. Dividends Payable and a credit to cash.
+This is the entry when the dividends are paid in cash later, not when they are declared.","Accounting for Dividends: Dividends are only recorded in the accounting records once they have been declared because before this date the company has no obligation to pay dividends. Dividends are paid from accumulated profits, so they decrease retained earnings."
+95,"When previously declared dividends are paid, they represent a(n) _____ for the issuing company.",Expense.,Increase in equity.,Reduction in equity.,None of the available choices.,D,"The correct option is d. None of the available choices.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Expense.
+Dividends do not affect any expense account.
+b. Increase in equity.
+Stock issued and net income increase equity.
+c. Reduction in equity.
+Equity is reduced when the dividends are declared.
+d. None of the available choices.
+This is the correct alternative because on the date previously declared dividends are paid, the cash asset and the dividends payable liability both decrease
+.","Dividend Payment: The board of directors has the sole discretion to decide over dividend payments, and they usually declare the amount of a dividend, its record date, and its payment date. The payment of cash dividends is, therefore, the final transaction recorded for each dividend."
+96,Which one of the following is an example of investment income from securities?,interest earned from debt securities,deferred tax assets,depreciation of long-term assets,gain on the sale of fixed assets,A,"The correct option is
+A) interest earned from debt securities
+.
+Dividends from stocks and interest from bonds and debentures are the two main types of income that can be earned through investing in the financial markets. Interest accrued on these debt securities represents option A. An investor, such as a business or government, receives interest as payment for lending money to the issuer of the security.
+Reasons why other options are incorrect:
+B) deferred tax assets:
+False, as deferred tax assets are a type of accounting asset that represents a company's ability to write off a current or future tax liability. It's not money you'd get from investing.
+C) depreciation of long-term assets:
+False, since depreciation is a technique used in accounting to write off the value of a physical asset over the course of its useful life.
+D) gain on the sale of fixed assets:
+False because, while it could be an example of income, it is not an example of income earned through the sale of securities","Dividend: When corporate leadership chooses to disperse a portion of profits to stockholders, they do so by paying them a dividend. This happens when company leaders decide to share some of the company's earnings with their stockholders."
+227,A dividend was previously declared but has not been paid. The entry to record the actual cash payment will:,decrease assets and decrease stockholders' equity.,increase liabilities and decrease stockholders' equity.,decrease liabilities and increase stockholders' equity.,decrease assets and decrease liabilities.,D,"The correct option is d. decrease assets and decrease liabilities..
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. decrease assets and decrease stockholders' equity.
+No, stockholders' equity decreases when the declaration of the dividends is recorded.
+b. increase liabilities and decrease stockholders' equity.
+This is the entry recorded when dividends are declared because then Retained Earnings are debited and dividends payable, a liability, are credited.
+c. decrease liabilities and increase stockholders' equity.
+No, dividends never increase stockholders' equity.
+d. decrease assets and decrease liabilities.
+This is the correct alternative because the cash asset decreases and the dividends payable liability decreases when previously declared dividends are paid.","Dividend Declaration and Payment: There are three dates relevant to the declaration and payment of cash dividends; the date on which the dividends are declared, the record date, and the date on which the dividends are paid. Both the declaration and payment are recorded in the accounting records."
+228,A restriction/appropriation of retained earnings:,increases total retained earnings.,decreases total assets.,decreases total retained earnings.,has no effect on total retained earnings.,D,"The correct answer is
+d. has no effect on total retained earnings
+.
+Retained earnings are one of the components of stockholders' equity and indicate the cumulative balance of the net income retained from when the business started reporting profits. Restriction or appropriation of retained earnings means that the amount should be used for a specific cause alone. The balance in the account will remain the same even after a restriction, as the restriction is on its usage.
+Other options are incorrect:
+Options
+Analysis
+a. increases total retained earnings.
+Restriction of retained earnings does not affect the account balance.
+b. decreases total assets.
+Restriction of retained earnings does not affect the asset accounts.
+c. decreases total retained earnings.
+Restriction of retained earnings does not affect the account balance.","Equity: Equity includes contributed capital, retained earnings, and adjustments relating to treasury stock accounts. It indicates a company's net worth and belongs to its owners, who usually are its common shareholders."
+229,_____ are promised a fixed periodic dividend that must be paid prior to paying any common stock dividends.,Preferred stockholders.,Common stockholders.,Bondholders.,Creditors.,A,"The correct answer is option A.
+Preferred stockholders
+The preferred stockholders are given special rights when they purchase the entity's shares. One is getting a fixed periodic dividend before the entity pays the common dividend to the stockholders. It is a right that preferred stockholders will get regular dividend payments from the profits earned, and the company is liable to pay to the common stockholders only after they are paid.
+Reasons for incorrect options:
+B. The common stockholders are only paid once the company has paid all its obligations and the preferred stockholders. They do not get any preference in getting the profit share first and are paid if the company is left with any profit.
+C. Bondholders are typically the company's long-term liability that must be paid as per the terms of payments. They are not paid dividends as they are not the owners of the shares. Bondholders are even paid before the preferred stockholders by the company as it is a liability, and obligations are paid before the preferred and the common stockholders.
+D. Creditors have provided the company with the raw materials for which the company has yet to pay. Creditors are considered short-term obligation which generally needs to pay within a small duration of a year. So, creditors are paid for the provided inventory and are not paid any interest or dividend.","Dividend: When a person finds a way to earn money by investing funds in an entity by purchasing its share, which will reward him with the return on the investment, that return in terms of money is known as a dividend."
+230,Dividends Payable is classified as a(n):,current asset.,current liability.,owners' equity.,long-term liability.,B,"The correct answer is
+b. current liability
+.
+Dividends should be paid within 30 days from the declaration date, and a company is legally bound to make payments to the shareholders once the board declares dividends on the declaration date. As the liability is due within one year, it will be classified as current.
+Other options are incorrect:
+Options
+Analysis
+a. current asset.
+A payable amount is a liability, not an asset.
+c. owners' equity.
+Dividends are equity expenses, but payables are a liability.
+d. long-term liability.
+Dividends are payable within one year, and they cannot be long-term.","Shares: A company issues shares to accumulate capital from investors and use it to expand business operations. Shares can include common and preferred shares. Common shares represent ownership, while preferred shares don't/"
+231,"On December 31, 2017, Shorts Company had retained earnings of $2,184,000. During 2017, the company issued stock for $98,000 and paid dividends of $34,000. Net income for 2017 was $402,000.","($1,816,000)","($1,914,000)","($2,454,000)","($2,552,000)",A,"The correct answer is
+(a) $1,816,000
+{eq}\text{Ending Balance of Retained Earnings} = \text{Beginning Balance of Retained Earnings} + \text{Net Income} - \text{Dividends Paid}\\ \text{Beginning Balance of Retained Earnings} = \text{Ending Balance of Retained Earnings} - \text{Net Income} + \text{Dividends Paid}\\ {/eq}
+Computation of the retained earnings balance at the beginning of 2017
+Amount
+Ending Balance of Retained Earnings
+$2,184,000
+Less: Net Income
+$402,000
+Add: Dividends Paid
+$34,000
+Beginning Balance of Retained Earnings
+$1,816,000",Retained Earnings: Retained earnings are the amount of the income of the business that has not been distributed among the stockholders of the company. Retained earnings increase by the net income and decrease by the dividends paid.
+232,The date on which a cash dividend becomes a:,binding legal obligation is on the declaration date.,date of record.,payment date.,last day of the fiscal year.,A,"The correct answer is
+a declaration date.
+.
+Declared dividends are recorded as follows:
+Date
+Account Title
+Debit
+Credit
+Retained Earnings
+$XX
+Dividends Payable
+$XX
+Once the board declares a dividend, a binding legal obligation is created to make payments to the shareholders (explained in the credit side of the above journal entry).
+Other options are incorrect:
+Options
+Analysis
+b. date of record.
+The date of record confirms the eligible shareholders who will receive the next dividend.
+c. payment date.
+Dividends are paid on this date.
+d. last day of the fiscal year.
+This date is not relevant for dividend-related transactions.","Stock Returns: An investor enjoys stock returns in two forms: dividends and capital gains. Dividends may not be regular as they depend on the company's profit for the period, and capital gain is subject to market factors."
+233,The effect of the declaration of a cash dividend by the board of directors is to:,decrease cash and increase stockholders' equity.,decrease cash and decrease retained earnings.,increase liabilities and decrease retained earnings.,increase liabilities and increase retained earnings.,C,"The correct answer is
+c. increase liabilities and decrease retained earnings
+.
+The declaration of a cash dividend should be recorded first to understand the accounts involved:
+Date
+Account Title
+Debit
+Credit
+Retained Earnings
+$XX
+Dividends Payable
+$XX
+Retained earnings are part of equity, and equity reduces due to the declaration of dividends, and a liability to pay the shareholders is created with a credit entry.
+Other options are incorrect:
+Options
+Analysis
+a. decrease cash and increase stockholders' equity.
+Cash is not paid when dividends are declared.
+b. decrease cash and decrease retained earnings.
+Cash is not paid when dividends are declared.
+d. increase liabilities and increase retained earnings.
+Retained earnings reduce due to dividend declaration.","Dividends: Dividends require a process to be followed to be distributed to the shareholders. The first step is the declaration of dividends by the board of directors (BOD), followed by the record date and payment date."
+327,A proportionate distribution of shares of a corporation's own stock to its stockholders is called a(n):,stock dividend.,appropriation.,cash dividend.,appropriation.,A,"The answer is
+(a) stock dividend.
+A stock dividend means the distribution of bonus shares to the existing shareholders as dividends. Such shares are issued in the ratio of existing shareholding. Stock dividends are also called capitalization of earnings.
+Cash dividends means the distribution of cash as dividends to existing shareholders. Hence option (c) is incorrect.
+Appropriation means the utilization of the earnings of the company. It includes dividends, bonus shares, repayment of liabilities or purchase of fixed assets. Hence options (a) and (d) are incorrect.",Dividends: Dividends are distribution of earnings among the shareholders of the company. Dividend can either be cash dividends or stock dividends. Dividedns are distributed to both preferred and common stockholders.
+328,"Assume a company has been in business for several years. Which ""Retained Earnings"" account balance should appear on its Post-Closing Trial Balance?",the Retained Earnings balance at the end of the year,the Retained Earnings balance at the beginning of the year,,,A,"The correct answer is option a. the Retained Earnings balance at the end of the year.
+In a post-closing trial balance, the ending balance of retained earnings is the amount reflected on the said trial balance. This balance represents the accumulated earnings of the company after all temporary accounts, such as revenues, expenses, and dividends, have been closed or reset to zero at the end of the accounting period.
+The beginning balance of retained earnings for the next accounting period would be the same as the ending balance in the post-closing trial balance. As the next accounting period progresses, this beginning balance will be adjusted based on the results of the business operations. The company's net income (or loss) from the new period will be added to (or subtracted from) the beginning retained earnings balance and any declared dividends, which would reduce the retained earnings.
+In summary, the post-closing trial balance reflects the ending balance of retained earnings for a specific accounting period. This balance becomes the beginning balance for the subsequent period, subject to adjustments based on the company's financial performance and dividend declarations.
+Accordingly,
+the correct answer is option a. the Retained Earnings balance at the end of the year.","Balance Sheet: Typically after an accounting period, such as a month, quarter, or year, a balance sheet provides a comprehensive summary of all permanent account balances for a company."
+329,On which of the following dividend dates would a company reduce Retained Earnings?,The date of payment.,The balance sheet date.,The date of record.,The date of declaration.,D,"The correct answer is
+d. The date of declaration
+.
+Once the board of directors declares dividends, the following entry is recorded:
+Date
+Account Title
+Debit
+Credit
+Retained Earnings
+$XX
+Dividends Payable
+$XX
+On the payment date, we record the following entry:
+Date
+Account Title
+Debit
+Credit
+Dividends Payable
+$XX
+Cash
+$XX
+The record date attracts no entry as it confirms the list of shareholders eligible for the upcoming dividend, and the balance sheet date is irrelevant for dividends.
+Retained earnings are reduced on the declaration date
+.",Cash Dividends: Investors who have excess cash invest in securities to make returns in dividends and increase the stock price over the holding period. Dividends are taxable at the corporation level and in the hands of shareholders.
+330,"To receive the next cash dividend, an investor must purchase the stock before the:",dividend declaration date,date of record,payment date announced by the Board of Directors,end of the company's calendar year,B,"The correct option is
+B. date of record
+The date of record is decided by the company on the declaration of dividends. The shareholders who own the shares of the company on the record date are entitled to a dividend. Therefore to receive the next dividend, an investor must purchase the stock before the record date.
+Explanation for incorrect options
+The dividend declaration date is the date on which the dividends are declared. It is relevant for accounting purposes only. Hence option (A) is incorrect.
+The payment date is the date of payment of dividends, it has nothing to the eligibility for dividends. Hence option (C) is incorrect.
+The end of the company's calendar year is nothing to do with the dividends, hence option (D) is incorrect.",Dividends: Dividends mean the distribution of earnings to the shareholders of the company. The payment of dividends is a cash outflow under financing activities. Dividends are return on investment for the shareholders.
+331,"When a stock dividend is distributed, the account to be debited would be:",Capital Stock.,Retained Earnings.,Stock Dividends Distributable.,Paid-In Capital in Excess of Par.,C,"The correct answer is
+c. Stock Dividends are Distributable.
+Retained earnings are the accumulated amount of the earnings of the company that has not been distributed to the stockholders of the company. They are used to distribute stock dividends. They are debited on the declaration of stock dividends and the stock dividends distributable account is credited.
+And on the distribution of stock dividends, the stock dividends distributable account is debited, and the common stock and paid-in capital in excess of par accounts are credited.
+The other answers are incorrect.
+The capital stock and paid-in capital in excess of par will be credited and not debited, hence options (a) and (d) are incorrect.
+The retained earnings account is debited on the declaration of the stock dividends and not on the distribution, hence option (b) is incorrect.",Stock Dividends: Stock dividends are the distribution of free shares to the existing shareholders of the company. They are often called bonus shares. Stock dividends capitalize on the earnings of the company.
+376,"An entity declared a cash dividend on its common stock in December Year 1, payable in January Year 2. Retained earnings will:",Increase on the date of declaration.,Not be affected on the date of declaration.,Not be affected on the date of payment.,Decrease on the date of payment.,C,"The correct answer is
+c. Not be affected on the date of payment
+.
+Options
+Analysis
+a. Increase on the date of declaration.
+Retained earnings will not increase due to cash dividends, as cash dividends are paid out of retained earnings.
+b. Not be affected on the date of declaration.
+Retained earnings will be affected on the declaration date, as the liability to pay is created on the same day.
+c. Not be affected on the date of payment.
+On the payment date, the dividends payable account is debited, and the cash account is credited. Retained earnings will not be affected on this date.
+d. Decrease on the date of payment.
+Retained earnings will decrease on the declaration date.","Dividends: The three important dates relating to dividend payments are the declaration, record, and payment dates. Entries are needed on all the dates except the record date, as it merely confirms the list of shareholders eligible for dividends."
+377,Common Stock Dividends Distributable is classified as a(n):,asset account.,expense account.,stockholders' equity account.,liability account.,C,"The correct answer is
+c. stockholders' equity account
+.
+Options
+Analysis
+a. asset account.
+Asset accounts don't represent dividends distributable.
+b. expense account.
+Dividends distributable are expenses that are not reported on the income statement.
+c. stockholders' equity account.
+Common stock dividends distributable is classified as a stockholders' equity account. It represents the portion of a company's earnings that have been declared as dividends by the board of directors but have yet to be paid to shareholders.
+d. liability account.
+Common stock dividends distributable are not considered liabilities.","Dividend Declaration: A dividend declaration is an announcement by a company's board of directors that a dividend will be paid to the company's shareholders. Once declared, dividends cannot be revoked and should be paid within a stipulated time from the declaration date."
+378,"McDiamond Inc. has 2,000,000 shares of common stock and no preferred stock. If the company has declared $4,500,000 dividend, what is the dividend per share of common stock?",$0.62 ,$0.44 ,$2.25 ,$1.62 ,C,"The correct answer is
+C. $2.25
+.
+Inputs needed:
+Common dividends = $4,500,000
+Common shares = 2,000,000 shares
+McDiamond Inc.'s dividend per share can be calculated using the following formula:
+{eq}\text{Common dividend per share} = \dfrac{\text{Total common dividends}}{\text{Common shares}} = \dfrac{\$4,500,000}{2,000,000\,shares} = \$2.25 {/eq}","Common Dividends: Common dividends are paid to the shareholders out of retained earnings. If a company has preferred stock, it cannot pay common shareholders before satisfying the preferred shareholders due to the latter's privileges."
+379,"Olsteen, Inc., earned revenues of $62,000 and incurred expenses of $78,000. No dividends were declared. Which of the following statements is correct?",The entry to close Income Summary is the same regardless of a net income or a net loss.,The entry to close Income Summary requires a debit to the Income Summary account.,The entries to close revenues and expenses will differ if there is a net loss.,"Retained Earnings will be debited for $16,000 and Income Summary will be credited for $16,000",D,"The correct answer is
+D. Retained Earnings will be debited for $16,000 and Income Summary will be credited for $16,000
+.
+Let's find out the net profit or loss made during the period:
+Net income (Loss) = Revenue - Expenses
+Net income (Loss) = $62,000 - $78,000
+Net income (Loss) = $(16,000)
+A loss indicates a credit balance in the income summary, and it should be debited when closing to the retained earnings because retained earnings reduce as a result of losses.
+The closing entry is given as follows:
+Date
+Account Title
+Debit
+Credit
+Dec. 31
+Retained Earnings
+$16,000
+Income Summary
+$16,000",Income Summary: Revenue and expense accounts are closed to the income summary at the year-end. A credit balance in the income summary indicates net profit and a debit balance indicates a net loss. Dividends are closed to retained earnings.
+380,On which of the following does a company incur liability for a dividend?,the date of record.,the date of payment.,the date of liquidation.,the date of declaration.,D,"The correct answer is
+D. the date of declaration
+.
+Options
+Analysis
+A. the date of record.
+On this date, shareholders eligible for the next dividends are confirmed.
+B. the date of payment.
+On this date, shareholders get their dividend amounts.
+C. the date of liquidation.
+On this date, a company ceases operations, and its assets are sold to pay off its debts, including outstanding dividends.
+D. the date of declaration.
+A company incurs liability for a dividend on the date of declaration. It is the date when the company's board of directors formally approves the dividend payment and announces it to the shareholders. The dividends should be paid within 30 days from the date of declaration. The entry on the declaration date involves debiting ""dividends"" or ""retained earnings"" and crediting ""common dividends payable.""","Dividends: Dividends are rewards to the shareholders. Dividends are usually paid out of profits when in cash, but there are circumstances when a company declares stock dividends. The stock dividend doesn't affect the overall stockholders' equity."
+381,Regular dividends are declared out of:,Paid in Capital in Excess of Par Value.,Common Stock.,Treasury Stock.,Retained Earnings.,D,"The correct option is
+d. Retained Earnings.
+Dividends are the distribution of earnings among the shareholders of the company. Since the earnings of the company are transferred to the retained earnings account, any dividends are paid from retained earnings account.
+On declaration of dividends, the retained earnings are debited and dividends payable are credited.
+Explanation for incorrect answers
+The Paid in Capital in Excess of Par Value account can only be used for stock dividends, not regular dividends, hence option (a) is incorrect.
+The Common Stock shows the par value of the issued stock. Its amount only changes on issue or cancellation of stock, hence option (b) is incorrect.
+Treasury stocks are contra-equity accounts and are not used for dividends, hence option (c) is also incorrect.",Dividends: Dividends are the appropriation of a company's earnings among its shareholders. Dividends are part of the holding period return of the shareholders. Payment of dividends required approval of the General Meeting of the company.
+382,Regular dividends are declared out of:,Paid-in Capital in Excess of Par Value.,Treasury Stock.,Common Stock.,Retained Earnings.,D,"The correct answer is
+d. Retained Earnings
+.
+Options
+Analysis
+a. Paid-in Capital in Excess of Par Value.
+The account represents the difference between the stock's issue price and par value.
+b. Treasury Stock.
+Treasury stock represents the shares repurchased by the company.
+c. Common Stock.
+Common stock account represents the par value of the shares issued.
+d. Retained Earnings.
+When a company declares a dividend, it uses a portion of its retained earnings to distribute profits to its shareholders.",Dividends: Dividends are usually paid in cash but can also be paid in the form of additional shares of stock or other property. Dividends are returns for the shareholders that are taxable in the hands of the company and the shareholders as well.
+383,Retained earnings is:,the stockholders' claim on total assets.,equal to revenues.,the amount of net income kept in the corporation for future use.,equal to cash.,C,"The correct option is
+c. the amount of net income kept in the corporation for future use.
+Retained Earnings is a part of stockholders' equity. It shows the amount of earnings that have not been distributed to the stockholders and retained in the business by the company.
+Explanation for incorrect answers
+The stockholders' equity is the stockholders' claim on total assets, hence option (a) is incorrect.
+Revenues appear on the income statement while retained earnings appear on the balance sheet. Both are different hence option (b) is incorrect.
+Retained earnings is equal to the income retained in the business and not to cash, hence option (d) is incorrect.","Retained Earnings: In accounts of companies, certain closing entries are made. One such closing entry requires the transfer of net income or loss of the year to the retained earnings account. Retained earnings form part of the stockholders' equity."
+384,"Simone's Foods has outstanding 500 $10.00 preferred shares and 1,900 common shares. Simone's declares dividends of $12,300. The correct entry is","Dividends Expense - 12,300
+
+Cash - 12,300","Retained Earnings - 12, 300
+
+Dividends Payable, Preferred - 6,150
+
+Dividends Payable, Common - 6,150","Retained Earnings - 12, 300
+
+Dividends Payable, Preferred - 5,000
+
+Dividends Payable, Common - 7,300","Dividends Payable, Preferred - 5,000
+
+Dividends Payable, Common - 7,300
+
+Cash - 12,300",C,"The correct answer is
+Option C
+.
+Simone should record the dividend declaration using the following entry:
+Date
+Account Title
+Debit
+Credit
+Retained Earnings
+$12,300
+Dividends Payable, Preferred
+$5,000
+Dividends Payable, Common
+$7,300
+Note:
+Preferred dividend = 500 shares × $10 = $5,000
+Common dividend = (Total dividend - Preferred dividend) = $12,300 - $5,000 = $7,300
+Retained earnings will be debited by the total amount of dividends declared.","Dividends: Dividends to preferred shareholders are settled before common shareholders. Common shareholders get dividends, if any, left after settling the preferred dividends because of the latter's privileges."
+385,The Dividends account is increased with a debit because dividends:,are an expense,are declared an asset,reduce liabilities,"result in a decrease in equity, so debiting Dividends would have the effect of decreasing Equity",D,"The correct option is option (D) results in a decrease in equity, so debiting Dividends would have the effect of decreasing Equity
+Reason: Dividends are payments made by a corporation to its shareholders as a distribution of profits. When a corporation declares dividends, it reduces its retained earnings, which is a component of equity. Therefore, when the dividends are paid, the Dividends account is debited to reflect the decrease in equity. This is because debiting an equity account decreases it while crediting an equity account increases it. Thus, option (D) is correct.
+Reasons for incorrect options:
+Option (A) Dividends are an expense
+is incorrect as the expenses are costs incurred in the normal course of business to generate revenue. In contrast, dividends are a distribution of profits to shareholders. Expenses are typically recorded as debits, but dividends are not expenses. Thus, option (A) is not true.
+Option (B) Dividends are declared as an asset
+is incorrect as the assets are resources owned by a corporation that have value and can be used to generate revenue. Dividends are not assets because they represent a distribution of profits, not a resource owned by the corporation. Thus, option (B) is not true.
+Option (C) Dividends do not reduce liabilities
+is incorrect as the liabilities are obligations owed by a corporation, such as debts or accounts payable. Dividends are not liabilities because they represent a distribution of profits to shareholders, not an obligation owed by the corporation. Thus, option (C) is not true.","Dividends: The Dividends account is a temporary equity account that is used to record the distribution of profits by a corporation to its shareholders. When a corporation declares a dividend, it transfers a portion of its earnings to the shareholders."
+386,"The entry to record the payment of a previously declared dividend of $0.25 per share on 18,500 shares of common stock includes a:","debit to Dividends Payable for $4,625","debit to Cash $4,625","debit to Cash Dividends for $4,625","credit to Cash Dividends for $4,625",A,"The correct answer is
+A. debit to Dividends Payable for $4,625
+.
+Let's record the entry at the time of declaration of dividends to understand the payment entry better:
+Date
+Account Title
+Debit
+Credit
+Retained earnings (18,500 shares × $0.25)
+$4,625
+Dividends payable
+$4,625
+The entry recognizes the reduction in retained earnings and the creation of liability to pay the dividends.
+The next entry is to record the payment of a previously declared dividend:
+Date
+Account Title
+Debit
+Credit
+Dividends payable
+$4,625
+Cash
+$4,625
+The entry reflects the payment to shareholders and the reduction of liability.","Dividend Declaration: When the company declares a dividend, the dividend amount per share is announced, along with the record date and the payment date. Once declared, there is no scope for revocation of dividends."
+387,"Ware Company is authorized to sell 1,000,000 shares of $3 par value common stock. There are 500,000 shares issued and outstanding and the board of directors declares a 10% stock dividend. The market price is $20 per share.","A debit entry of $1,000,000.","A credit entry of $1,000,000.","A debit entry of $2,000,000.","A credit entry of $2,000,000.",A,"The correct option is A.
+A debit entry of $1,000,000.
+Given information:
+Outstanding common stocks = 500,000.
+Stock dividend = 10% (Implying 10 new stocks for every 1 stock held).
+Market price per share = $20.
+The number of stocks given in the dividend is computed as follows:
+{eq}\begin{align*}{\rm\text{Number of stocks given as dividend}}& = {\rm\text{Original outstanding stocks}} \times 10\% \,\,{\rm\text{Stock dividend}}\\& = 500,000 \times 10\% \\ &= 50,000\end{align*} {/eq}
+Thus, 50,000 stocks are given as dividends.
+Retained earning is a liability and will be debited with $1,000,000 (50,000 stock dividend declared * Market price per share $20) to show the decrease in the liability of the retained earnings.","Stock Dividend: A deficiency of cash balances or non-willingness to make a large cash disbursement of cash sometimes leads companies to pay stocks as a dividend to the stockholders, called the stock dividend."
+388,What type of account is increased with a debit but is a decrease to retained earnings?,Asset,Liability,Expense,Revenue,C,"The correct option is
+option c. Expenses
+.
+Expense accounts increase with debit but decrease with retained earnings. Expenses reduce profits, so these decrease retained earnings. Expenses are nominal in nature, so they increase with debit.
+Explanations for incorrect options:
+a. Asset: The asset account increases with debit, but it doesn't affect retained earnings.
+b. Liability: The liability account decreases with debit, and it also doesn't affect retained earnings.
+d. Revenue: Revenue decreases with debit, and it increases retained earnings.",Retained Earnings: Retained earnings are those net earnings that are not distributed as dividends to shareholders. These retained earnings can be used by the business in future years for growth or dividend distribution.
+389,Which of the following actions will increase the Common Stock account?,Stock split.,Purchase of treasury stock.,Cash dividend.,Stock dividend declared and distributed.,D,"The correct answer is
+D. Stock dividend declared and distributed
+.
+Options
+Analysis
+A. Stock split.
+Stock split does not affect a company's total equity amount. It increases the number of outstanding shares while decreasing the value per share.
+B. Purchase of treasury stock.
+The purchase of treasury stock decreases the common stock account.
+C. Cash dividend.
+Cash dividends don't impact the common stock account.
+D. Stock dividend declared and distributed.
+Stock dividends increase the common stock account and decrease the retained earnings without affecting the total stockholders' equity.",Common Stock: The common stock account has a normal credit balance. It represents the par value of the stock issued by a company. Common stock is the most convenient source of capital for the business.
+390,Which of the following is not a significant date with respect to dividends?,The incorporation date.,The declaration date.,The record date.,The payment date.,A,"The correct answer is
+a. The incorporation date
+.
+Options
+Analysis
+a. The incorporation date.
+A company is officially registered with the respective government on the incorporation date. Dividends generally occur after a company has been in operation for some time.
+b. The declaration date.
+The declaration date is when a company's board of directors announces a dividend, making it relevant.
+c. The record date.
+It is the date on which an investor must be a shareholder of record to be eligible for the immediate dividend.
+d. The payment date.
+It is the date the dividend is paid out to shareholders.","Dividends: Dividends are needed for the shareholders to hold their shares and for investors to buy the company's shares. An investor requires a return on any investment made, and a dividend is one such return on the security investment."
+391,Which of the following statements would be consistent with the bird-in-hand dividend theory?,There is no relationship between a firm's dividend policy and the value of its common stock.,Dividends are more certain than capital gains income.,Wealthy investors prefer corporations to defer dividend payments because capital gains produce greater after-tax income.,Dividends are less certain than capital gains.,B,"The correct option is b. i.e. Dividend are more certain than capital gains income.
+b. The bird-in-hand dividend theory argues investors are prepared to pay more for stocks that pay dividends, as they provide a steady stream of income, and a high dividend payout ratio should lead to a higher stock price. This view suggests that investors are risk-averse and value certainty over potential gains that may or may not materialize.
+The explanation of incorrect options:
+a. The option is inconsistent with the bird-in-hand dividend theory as it suggests that dividend policy has no impact on stock value, which contradicts the bird-in-hand dividend theory. According to the bird-in-hand dividend should increase the value of the firm's common stock. Therefore, the statement is inconsistent with this theory.
+c. Option c is inconsistent with the bird-in-hand dividend theory as it suggests that capital gains are preferred by wealthy investors above dividends, which contradicts the theory's assumption that investors prefer certainty over uncertainty.
+d. Option d is also inconsistent with the bird-in-hand dividend theory. This is because the theory asserts that compared to capital profits, dividends are more reliable, which goes against the theory's assumption, that dividends are more certain. So option d would imply the opposite.","Bird-In-Hand Dividend Theory: The bird-in-hand dividend theory assumes that the investors are risk-averse, prefer to receive a certain return on their investment rather than an uncertain return and have homogeneous preferences."
+569,Dividends paid are allocated according to the percentage of shares owned by each stockholder.,TRUE,FALSE,,,A,"Given statement, 'Dividends paid are allocated according to the percentage of shares owned by each stockholder.' is
+True
+.
+Dividends are payments made by a business from its profits to its shareholders. Each shareholder will get dividends in an amount according to the number of shares they own. It indicates that the distribution of dividends is determined by the proportion of shares each owner owns. In other words, a stockholder's dividend payout will increase the proportion to the number of shares they own.","Dividend: A dividend is a payout made by a company as a distribution of earnings to its shareholders, typically in the form of cash or extra shares of stock. Investors receive a return on their money invested through dividends."
+570,"John owns 500 shares of stock in Zebar Corporation with a market value of $2,000. Zebar declares a 10% stock dividend. After the dividend is paid, John owns:","550 shares with a market value of $2,000.","500 shares with a market value of $2,200.","550 shares with a market value of $2,200.","550 shares with a market value of $2,050.",A,"The answer is
+a. 550 shares with a market value of $2,000.
+Summary:
+Number of holding shares = 500 shares
+Market value of holding shares = $2,000
+Stock dividend = 10%
+Determine the number of holding stocks after the stock dividend:
+{eq}\text{Number of new holding stocks} = \text{Number of existing stocks} \times (1 + 10\%) \\
+
+\text{Number of new holding stocks} = 500 \times (1 + 10\%) \\
+
+\text{Number of new holding stocks} = 550 {/eq}
+The stock dividend will not affect the firm's market capitalization. Hence, the market value of holding shares after the stock dividend remains at $2,000.","Stock Dividend: Within a corporate entity, shareholders can receive annual dividends in either of the following forms: cash dividend or stock dividend. While the cash dividend will reduce the market capitalization of the firm, the stock dividend will increase the number of shares outstanding in the market."

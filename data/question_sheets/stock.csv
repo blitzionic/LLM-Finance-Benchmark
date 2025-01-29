@@ -1,0 +1,517 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"When 8,000 shares of $4.00 stated value common stock is issued at $16.00 per share, _____.",the accounting is exactly the same as the accounting for par value stock,the difference between the issue price and the stated value is credited to Paid-In Capital in Excess of Stated-Common.,"Common Stock — $4.00. Stated is credited for $128,000.",the account titled Paid-In Capital in Excess of Stated-Common is used to record the issue price of the stock.,B,"The correct answer is
+B. the difference between the issue price and the stated value is credited to Paid-In Capital in Excess of Stated-Common
+.
+Let's record the transaction as a journal entry to understand the accounts involved:
+Date
+Account Title
+Debit
+Credit
+Cash (8,000 shares × $16)
+$128,000
+Common Stock (8,000 shares × $4)
+$32,000
+Paid-In Capital in Excess of Stated-Common (Balancing fig.)
+$96,000
+Notes:
+Cash account reflects the issue proceeds.
+Common stock account reflects the stated value of the stock.
+Paid-In Capital in Excess of Stated-Common account reflects the difference between 1 and 2.",Stock Transactions: A company can sell stock to raise capital for expanding its assets and can also invest in the stock of other companies to reinvest and grow the earnings made from the primary business operations.
+2,"Goode Inc.'s stock has a required rate of return of 11.50%, and it sells for $18.00 per share. Goode's dividend is expected to grow at a constant rate of 7.00%. What was the last dividend?",$0.77,$0.62,$0.92,$0.76,D,"The answer is
+D. $0.76.
+Summary:
+Recent dividend = D0
+Required rate of return (I) = 11.50%
+Price (P0) = $18
+Constant growth rate (g) = 7%
+Determine the recent dividend (D0):
+{eq}P0 = \displaystyle \frac{D0 \times (1 + g)}{I - g} \\
+
+$18 = \displaystyle \frac{D0 \times (1 + 7\%)}{11.5\% - 7\%} \\
+
+D0 = \displaystyle \frac{\$18 \times (11.5\% - 7\%)}{1 + 7\%} \\
+
+D0 = $0.76 {/eq}","Dividend Growth Model: The dividend growth model assumes that a firm will make annual dividends that these dividends will increase at a constant rate indefinitely. With that being said, the pattern of these dividends is similar to the growing perpetuity."
+3,"If common stock is issued for an amount greater than par value, the excess should be credited to:",Retained Earnings.,Cash.,Paid -in Capital in Excess of Par Value.,Legal Capital.,C,"The correct answer is
+c. Paid-in capital in excess of par value
+.
+Common stock is considered sold at a premium when the issue proceeds exceed the par value of the shares issued. In such a case, the following entry is recorded:
+Date
+Account Title
+Debit
+Credit
+Cash (Issue proceeds)
+$XX
+Common Stock (Par value)
+$XX
+Paid-in Capital in Excess of Par Value (Premium)
+$XX
+Where,
+The Paid-in Capital in Excess of Par Value account reports the difference between the issue proceeds and par value.
+Note:
+Retained earnings and legal capital accounts are not used to record the stock issued at a premium. The cash account reflects the issue proceeds.",Stock Transactions: A company issues shares to raise capital to expand its operations to satisfy increased sales demand or improve its current financial performance. Common stock can be issued at any price apart from its par value.
+4,Common stock owners typically expect to make money on stocks by receiving:,interest and dividends.,interest and capital gains.,dividends and capital gains.,dividends and rental income.,C,"The answer is
+C) dividends and capital gains.
+The common stock will make dividends to investors if the firm generates sufficient profit. In addition, investors can obtain a capital gain from selling stocks if the firm represents a potential growth in the future.
+A common stock makes no interest payment or rental income since it is an equity security.","Common Stocks: Within a corporation, common stocks are shares of the firm that represents the business ownership. Compared to preferred stockholders, common stockholders have the voting right for the firm's strategies. However, common stockholders will receive lower dividends."
+5,Stocks with high price-earnings ratios are commonly referred to as _____ stocks.,income,value,growth,geometric,C,"The correct answer is
+option c. growth.
+The P/E ratio is measured using the price of a security per share and the earnings per share. It is a widely used metric by investors while determining the intrinsic value of shares. A high P/E ratio indicates that investors are willing to pay a premium for the stock based on its strong growth potential. So, companies that are expected to grow fast usually have a higher P/E ratio as the investors are willing to pay more for a share of the company's future growth. Therefore, such stocks are commonly referred to as growth stocks.
+Explanations of incorrect options:
+Option a: Income stock refers to a matured company's stock that typically has a long track record of paying a consistent dividend to its shareholders.
+Option b: Stocks with low P/E ratios are called value stocks. Investors invest in these stocks when the leading P/E ratio is below the justified P/E.
+Option d: Geometric is not a relevant term associated with stocks based on P/E ratios.","Justified Price Multiple: A justified price multiple is the multiplier value of the stock if it is fairly valued. If the actual price is more than the justified price multiplier, the stock is overpriced, and if the actual price is less than the justified price multiplier, the stock is undervalued. The justified P/E ratio used by investors and analysts is a variation of the regular P/E ratio."
+6,The total number of shares the corporation is allowed to issue is called:,issued stock.,authorized stock.,treasury stock.,outstanding stock.,B,"The correct answer is
+b. authorized stock
+.
+The maximum shares a company can issue in its lifetime is called authorized shares. The issued shares can equal the authorized shares or will be less but never above them. Authorized shares are disclosed in the memorandum of association.
+Other options are incorrect:
+Options
+Analysis
+a. issued stock.
+Shares sold by a company are called issued shares.
+c. treasury stock.
+Shares repurchased by a company are called treasury shares.
+d. outstanding stock.
+Issued stock minus treasury stock results in outstanding shares.",Stock: A corporation sells stock to gather capital for expanding its operations through long-term investments. The cost of selling stock to the investors is the minimum return they expect and is also referred to as the cost of equity.
+7,Investor-owned corporations are limited by law to issuing only one type of common stock.,True,False,,,B,"The statement is
+FALSE.
+A corporation can issue different classifications of common stocks. For instance, some investors might hold common stocks associated with the full provision of voting rights while other investors' common shares have less voting power. The main purposes for the second classification of common stocks is to lose the business control that he centralized to some groups of investors.",Publicly Listed Corporation: A corporation is defined as a publicly listed company as its shares are sold to the general public in an initial public offering (IPO). Notes that the firm's shares will be traded freely in the securities exchange market after its IPO.
+8,"Crawford Corporation issues 1,000 shares of $10 par common stock that is not widely traded for an acre of land appraised at $20,000. The journal entry would include","a debit to land for $20,000.","a credit to common stock for $10,000.","a credit to additional paid-in capital for $10,000.",All of these.,D,"The correct answer is
+D) All of these
+.
+Crawford Corporation should record the following entry for its transaction:
+Date
+Account Title
+Debit
+Credit
+Land (Market value)
+$20,000
+Common Stock (Par value) (1,000 shares × $10)
+$10,000
+Additional Paid-in Capital (Balancing Figure)
+$10,000
+The entry reflects the exchange of the land for common stock, where the company receives an asset (land) in exchange for issuing shares of common stock. The excess of the land's fair market value is recorded as additional paid-in capital.","Journal Entries: Journal entries are necessary to maintain the flow of business transactions and their impact on the financial information reported in the books of accounts. The entries should have a debit and a credit side, reflecting equal amounts."
+9,"The common stock of Zoroaster, Inc. pays a constant annual dividend. Thus, the market price of Zoroaster stock will:",decrease over time,increase when the market rate of return increases,increase over time,also remain constant,D,"The answer is
+d. decrease when the market rate of return increases
+If a stock makes constant dividends on an annual basis, the value of a stock can be determined below:
+{eq}\text{Value} = \displaystyle \frac{\text{Annual dividend}}{\text{Required rate of return}} {/eq}
+The investor's required rate of return and the value of the stock have an inverse relationship. Hence, an increase in the rate of return will decrease the value of the stock and vice versa.","Common Stocks: Common stocks are shares in a corporation in that stockholders are the firm's owners. By holding common stocks, investor expect to receive annual dividend payments and potential capital gain in the future."
+10,"A stock just paid a dividend of {eq}D_0
+
+{/eq} = $1.50. The required rate of return is {eq}r_s
+
+{/eq} = 10.1%, and the constant growth rate is {eq}g
+
+{/eq} = 4.0%. What is the current stock price?",$23.11,$23.70,$24.31,$25.57,D,"The answer is
+d. $25.57.
+Determine the current stock price (P0):
+{eq}P0 = \displaystyle \frac{D0 \times (1 + g)}{r_s - g} \\
+
+P0 = \displaystyle \frac{\$1.50 \times (1 + 4\%)}{10.1\% - 4\%} \\
+
+P0 = \displaystyle \$25.57 {/eq}",Constant Growth Model: The constant growth model is a valuation approach to estimate the value of a stock. This model converts all expected dividends at the investor's expected rate of return. Note that this model assumes that dividends grow at a fixed rate indefinitely.
+11,"A corporation purchases 18000 shares of its own $20 par common stock for $30 per share, recording it at cost. What will be the effect on total stockholders' equity?",Decrease by $540000.,Decrease by $180000.,Decrease by $360000.,Increase by $540000.,A,"The correct option is
+A)Decrease by $540000.
+When a company purchases its own stock, such stocks are called treasury stock. Treasury stock is a contra-equity account that reduces the stockholders' equity balance.
+Here the company purchases 18,000 shares of its own at $30 each. So the treasury stock account has a balance of $30 X 18,000 = $540,000
+So the stockholders' equity balance will
+decrease by $540,000",Treasury Stocks: The treasury stocks are those stocks that have been repurchased by the company itself. The company can later reissue such stocks are permanently cancel them.
+12,Which of the following is a stock variable as defined inMacronotesA?,income,capital,investment,profit,B,"The correct option is
+B. capital
+A stock indicates an amount present at a given time and may have accrued over time. In contrast, a flow variable has a specific value and is measured over a predetermined time frame. It is represented as a unit of time and is bounded by time. Capital is considered a stock variable because it is measured at a particular time. Over the stipulated term, a corporation expands its capital stock by investing in its current capital assets. When assessing a firm's overall availability of capital resources at a certain moment, the total quantity of capital collected and available in the firm's storage at that moment is referred to as the stock of capital. Capital is thus a stock variable since it is measured at a specific period.
+The other options are incorrect:
+A. income. Income is the compensation a person receives for doing labor-related services. An individual's income is calculated as the sum of their earnings over a given period rather than at a single point in time. Hence, income is a flow variable.
+C. investment. Investing is the process through which capital assets are acquired. Investments are made over an extended period, and the return on investment cannot be realized immediately. Thus, investments are flow variables.
+D. profit. Profit is earned by a person or a corporation on possible investments over a specified period. It cannot be estimated at any given time. Hence, profit is a flow concept rather than a stock concept.","Stock: In economic terms, a stock is a volume that can be measured economically at a certain time. In contrast to a flow, a stock has no apparent temporal dimension. Either stock- or flow-based economic variables can exist."
+13,"On June 30, 2004, when Vietti Co.'s stock was selling at $65 per share, its capital accounts were as follows:","$1,000,000.","$2,600,000.","$2,000,000.","$3,200,000.",C,"The correct option is
+C, i.e., $2,000,000
+,
+Explanation:
+Computation of the stock dividend:
+The stock dividend is the percentage of dividend declared, i.e., 100%, out of the outstanding shares at par value, i.e., (40,000 shares @$25)
+{eq}\begin{align*}
+
+{\rm\text{Stock dividend}} &= {\rm\text{Outstanding share}} \times {\rm\text{Percentage}} \times {\rm\text{Par value per share}}\\
+
+&= 40,000 \times 100\%  \times \$ 25\\
+
+&= \$ 1,000,000
+
+\end{align*}
+
+{/eq}
+Thus, the stock dividend is $1,000,000.
+Computation of the capital stock:
+The capital stock is the cumulative value of the existing capital stock, i.e., $1,000,000, and the stock dividend declared, i.e., $1,000,000.
+{eq}\begin{align*}
+
+{\rm\text{Capital stock}} &= {\rm\text{Existing capital stock}} + {\rm\text{Stock dividend}}\\
+
+&= \$ 1,000,000 + \$ 1,000,000\\
+
+&= \$ 2,000,000
+
+\end{align*}
+
+{/eq}
+Thus, the capital stock is
+$2,000,000
+.",Capital Stock: The capital stock is recorded on a company's balance sheet and represents the shares held by its preference and equity shareholders. A firm can raise funds without incurring debt by issuing capital stock.
+14,The issuance of common shares requires,credit to Common Shares.,credit to Retained Earnings.,debit to Common Shares.,debit to Retained Earnings.,A,"The correct answer is
+A) credit to Common Shares
+.
+The stock issuance at par can be recorded as follows:
+Date
+Account Title
+Debit
+Credit
+Cash
+$XX
+Common Stock (Par value)
+$XX
+(to record the stock issuance at par.)
+As we can see, the retained earnings account is not involved in a stock issuance transaction. The common stock account represents the owner's capital and has a credit balance.","Stock Issuance: A company sells shares of its ownership to investors in exchange for capital. When a company decides to issue stock, it hires an underwriter to do the job by paying them a commission."
+15,The following is a short-term way to hold cash until it is needed: Common stock.,True,False,,,A,"The correct answer is a.
+True
+Common stocks give investor holding in a company and are generally used as a long-term investment option, but it also gives the right to the owner to liquidate their investment when needed so that it can be used for the short term. Common stocks can be liquidated at any time, and the funds can be withdrawn as per the needs of an investor.","Common Stock: Common stock is the amount of holding an individual carries in a particular company which gives the proportion of ownership, voting rights, and right to share profit to the shareholder."
+16,"A stock just paid a dividend of  $1.50. The required rate of return is 10.2%, and the constant growth rate is 4.0%. What is the current stock price?",$20.88,$18.87,$27.93,$25.16,D,"The answer is
+D. $25.16.
+In this case, the current stock price can be determined according to the constant growth model, in which all dividends are discounted back to the present at the investor's required return.
+Summary:
+Recent dividend (D0) = $1.50
+Growth rate (g) = 4%
+Required rate of return (I) = 10.2%
+Determine the stock's intrinsic value:
+{eq}\text{Intrinsic Value} = \displaystyle \frac{D0\times (1 + g)}{I - g} \\
+
+\text{Intrinsic Value} = \displaystyle \frac{\$1.50\times (1 + 4\%)}{10.2\% - 4\%} \\
+
+\text{Intrinsic Value} = \displaystyle \$25.16 {/eq}","Intrinsic Value: An investor should estimate the intrinsic value of a stock for a purchase decision. If the stock's value s less than its market price, the stock is overvalued. In this case, investors should examine another stock that represents better potential."
+17,"If a corporation issues 5,000 shares of $1 par value common stock for $8,000, the journal entry would include a credit to:","Retained Earnings for $5,000.","Paid-in Capital in Excess of Par Common for $8,000.","Common Stock for $5,000.","Common Stock for $8,000.",C,"The correct option is
+option C. Common Stock for $5,000.
+The correct journal entry will be debit cash by $8,000 (amount received) and credit common stock for $5,000 ($1*5,000) and credit paid-in capital in excess of par common for $3,000 ($8,000-$5,000). The common stock balance and paid-in excess of the par common balance increase with the credit. The cash balance increases with the debit.
+Explanation for the incorrect options:
+Option A. Retained Earnings for $5,000. This is incorrect because retained earnings are not affected by issuing common shares.
+Option B. Paid-in Capital in Excess of Par Common for $8,000. This is incorrect because the amount is incorrect.
+Option D. Common Stock for $8,000. This option is incorrect because the amount is incorrect.",Issuance Of Common Share: Common shares refer to the equity shares of the organization that can be issued at par or above par. Issuance of common shares increases the cash inflow and common stock account balance.
+18,Stockholders always have preemptive rights when new issues of stock are offered.,True,False,,,B,"The statement is
+FALSE.
+Usually, preemptive rights will be offered to formers of the business or early shareholders, which helps them to secure their ownership percentage after each new issue of shares.",Preemptive Rights: Preemptive rights refer to an offer to current shareholders that they will be able to purchase new shares before public investors. The existence of preemptive rights is to protect shareholders from dilution.
+19,"When Patricia sells her General Motors common stock at the same time that Brian purchases the same amount of General Motors stock, General Motors receives:",the dollar value of the transaction.,"the dollar amount of the transaction, less brokerage fees.",only the par value of the common stock.,nothing.,D,"The answer is
+D. nothing.
+After the initial public offering (IPO), a firm's shares are traded freely between investors in the exchange market. The firm will not receive money from exchange transactions between sellers and buyers in the secondary market.","Common Stocks: A corporation can sell its shares to the general public to raise equity capital, which intends to fund the firm's long-term assets. In practice, the first time a firm sells its shares to the public is known as the initial public offering (IPO)."
+20,"A corporation issued 5,000 shares of its $10 par value common stock in exchange for land that has a market value of $84,000. The entry to record this transaction would include:","A credit to Land for $50,000.","A debit to Common Stock for $50,000.","A credit to Common Stock for $84,000.","A credit to Paid-in Capital in Excess of Par Value, Common Stock for $34,000.",D,"The entry to record this transaction would include
+d. A credit to Paid-in Capital in Excess of Par Value, Common Stock for $34,000
+.
+When stock is issued in exchange for an asset other than cash,
+the market value of either the stock issue or the asset acquired is used to record the transaction
+.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. A credit to Land for $50,000.
+No. Land is an asset. So, it must be debited to record the increase.
+b. A debit to Common Stock for $50,000.
+Common Stock is an equity account, and equity accounts increase on the credit side
+c. A credit to Common Stock for $84,000.
+Only the par value of the shares issued is recorded in the Common Stock account.
+d. A credit to Paid-in Capital in Excess of Par Value, Common Stock for $34,000
+This is the correct alternative because the difference between the par value of the shares ($50,000) and the market value of the land ($84,000) is credited to Paid-in Capital in Excess of Par Value, Common Stock
+The journal entry to record the transaction is:
+Date
+Description
+Debit
+Credit
+Land
+$84,000
+Common stock (5,000 × $10)
+$50,000
+Paid-in Capital in Excess of Par Value, Common Stock
+$34,000
+To record the issue of common stock in exchange for land","Recording a Stock Issue: When a company issues common or preferred stock, its stockholders' equity increases with the proceeds from the share issue. Normally, the total assets also increase, but a share issue can decrease liabilities when bonds or loans are converted to shares."
+21,Common stock is considered the legal capital of the corporation.,True,False,,,A,"The correct option is
+a
+, i.e., true.
+The legal capital of the corporation is a type of reserved amount of equity that is restricted to leave the company as it cannot be distributed through any means and is assessed by creditors when their money gets defaulted by the company. It generally includes the par value or face value, the minimum price preventing issuing stock at a price lower than that of preferred stock or a common stock that a company issues to its investors.",Common stock Common stock represents the percentage ownership of shareholders in a company. The shareholders also enjoy voting rights and elect the company's board of directors in which they hold common stock and are entitled to the dividend.
+22,"Five hundred shares of {eq}\$25 {/eq} par common stock were exchanged for a piece of equipment with a fair market value of {eq}\$13,500 {/eq}. The journal entry to record the transaction would include a credit to:","Equipment for {eq}\$12,500 {/eq}.","Debit to common stock for {eq}\$12,500 {/eq}.","Credit to paid-in capital in excess of par-common for {eq}\$1,000 {/eq}.","Credit to common stock for {eq}\$13,500 {/eq}.",C,"The issuance of 500 shares of common stock with a par value of $25 per share for a piece of equipment with a fair market value of $13,500 must be recorded in the book of the company as follows.
+Date
+Account Title
+Debit
+Credit
+Equipment
+$13,500
+Common Stock
+(500 shares * $25)
+$12,500
+Paid-in Capital in Excess of Par
+($13,500 - $12,500)
+$1,000
+To record issuance of 500 shares.
+Therefore, the correct answer is
+c. Credit to paid-in capital in excess of par-common for $1,000.","Stock Issuance: Stock issuance is an essential process for companies as it raises capital to fund operations, pay down debt, or invest in new projects. It is also an essential source of ownership and control for investors, who may receive dividends or have a say in the company's operations through voting rights."
+23,A company pays a constant annual dividend of $1.60 a share and currently sells for $28.50 a share. What is the rate of return?,4.56 percent,5.39 percent,5.61 percent,6.63 percent,C,"The answer is
+C. 5.61%.
+Given information:
+Constant annual dividend (D) = $1.60
+Current market price (P0) = $28.50
+Determine the rate of return on the stock:
+{eq}\text{Rate of return} = \displaystyle \frac{D}{P0} \\
+
+\text{Rate of return} = \displaystyle \frac{\$1.60}{\$28.50} \\
+
+\text{Rate of return} = \displaystyle 5.61\% {/eq}","Required Rate Of Return: The required rate of return on a stock represents the annualized return, which includes both dividend yield and capital gains yield. Since it is an annualized metric, investors can compare available stocks by this metric, which eliminates the effect of different holding periods."
+24,Authorized stock is which of the following?,The maximum number of shares the company can issue.,The number of shares the company has issued to its stockholders.,The number of shares that the stockholders own.,The number of shares that will be distributed in a stock dividend.,A,"The correct option is A. The maximum number of shares the company can issue..
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. The maximum number of shares the company can issue.
+This is the correct alternative. The authorized stock is the number of shares stated in the company's incorporation documents that represents the total number of shares the company can ever issue
+.
+B. The number of shares the company has issued to its stockholders.
+No, this is the issued shares
+C. The number of shares that the stockholders own.
+No, this is the outstanding shares, and it represents the issued shares minus any treasury shares that the company itself owns.
+D. The number of shares that will be distributed in a stock dividend.
+No, these are part of the issued shares after distribution.",Stock of a Company: The stock of a company refers to the shares the company sells to its owners or stockholders to raise capital for its operations. The proceeds from stock issues are recorded in stockholders' equity accounts in the general ledger.
+25,"When shares of stock are sold from one investor to another, they will trade at:",Par value.,Book value.,Market value.,Stated Value.,C,"The correct option is
+C. Market value.
+When one investor sells their shares to another, both parties pay the market price for the stock. The stock's market value is equivalent to its current trading price on the open market. Supply and demand, along with other factors like company performance, industry trends, economic circumstances, and investor sentiment, all play a role in setting the market price.
+Reasons why other options are incorrect:
+A. Par value.
+When a company issues shares of stock, they are valued at their par value. It's not reflective of the stock's market value at all.
+B. Book value.
+The book value of a company's stock is the total value of its assets minus its total liabilities, expressed as a price per share. It's a proxy for a firm's financial health, but it may not correspond with the value of its shares on the open market.
+D. Stated Value.
+Shares of stock are given a stated value for accounting and legal purposes. The figure may or may not accurately depict the stock's current market price.","Intra-day Trading: This is also known as day trading, where the investor buys and sells securities like shares, commodities, currencies, etc. on the same day. Basically, the investor targets short-term price fluctuation to generate profit."
+26,If shares are issued over and above the face value this excessive portion is called:,Share capital.,Discount.,Security Premium.,None of the above.,C,"The correct answer is
+c) Security Premium
+.
+Options
+Analysis
+a. Share capital.
+The share capital account should always be recorded with the face value of the shares issued.
+b. Discount.
+Shares are issued at a discount when the issue price of the share is less than the face value of the share.
+c. Security Premium.
+Security premium account reflects the excess cash received above the face value of the shares sold.
+d. None of the above.
+This option is invalid, as option c is correct.",Stock Transactions: A company sells shares to investors as a part of its financing activity. The amount it raises from the stock issuance is invested in fixed assets that yield benefits in the form of revenues and profits.
+27,"James Corporation issued 5,000 preference shares with a par value of CHF100 for CHF205 per share. This transaction will:","increase Share Premium-Preference by CHF1,025,000.","increase Share Capital-Ordinary by CHF525,000.","increase total equity by CHF1,025,000.","decrease Retained Earnings by CHF525,000.",C,"Correct Answer:
+Option C. increase total equity by CHF1,025,000
+.
+James Corporation should record its preferred stock issuance as follows:
+Account Title
+Debit
+Credit
+Cash (5,000 shares × CHF205)
+$1,025,000
+Share Capital-Ordinary (5,000 shares × CHF100)
+$500,000
+Share Premium-Preference (Balancing Figure)
+$525,000
+As a result of this transaction, the assets and total stockholders' equity increased by $1,025,000.
+Note:
+Preferred stock account will be credited with the par value of the shares issued.
+The shares premium account is used to record the difference caused in the par value and issue price due to selling the shares at a premium.","Financing Activities: The financing activities of a company help the company maintain its long-term solvency. The sources of long-term finance include stock issuance, bond issuance, borrowings from a bank, and other institutions."
+28,"If a company receives $12,000 from the stockholders to establish a corporation, the effect on the accounting equation would be:","Assets increase by $12,000 and equity increases by $12,000.","Liabilities increase by $12,000 and equity decreases by $12,000.","Assets increase by $12,000 and liabilities increase by $12,000.","Assets increase by $12,000 and liabilities decrease by $12,000.",A,"The correct answer is option
+(a)
+The entry to record the receipt from the stockholders would be:
+Particulars
+Debit($)
+Credit($)
+Cash
+$12,000
+Common Stock
+$12,000
+(To record the investment from the stockholders.)
+According to entry increasing assets will result from the debit to cash, whereas raising equity will result from the credit to common stock.",Common stock Ordinary shares and common stock are two names for the same thing. These are shares that regular stockholders have invested in the company's operations and are qualified to receive dividends when the management so decides.
+29,"Mendez, Inc., issued 20,000 shares of no-par common stock, stated value $10, at $16 cash per share. The journal entry to record this transaction is: Select one:","Cash320,000 Common Stock 320,000","Cash320,000 Common Stock 200,000Paid-in Capital in Excess of Par Value 120,000","Cash320,000 Common Stock 200,000Retained Earnings 120,000","Cash320,000 Common Stock 200,000Paid-in Capital in Excess of Stated Value 120,000",D,"The correct answer is
+D) Cash 320,000, Common Stock 200,000, Paid-in Capital in Excess of Stated Value 120,000
+.
+Mendez, Inc. should record its stock transaction in the following manner:
+Date
+Account Title
+Debit
+Credit
+Cash (20,000 shares × $16)
+$320,000
+Common Stock (20,000 shares × $10)
+$200,000
+Paid-in Capital in Excess of Stated Value (Balancing Figure)
+$120,000
+When the business sells a no-par value stock, Cash should be debited for the total proceeds, Common Stock should be credited for stated value, and Paid-in Capital in Excess of Stated Value account should reflect the excess of proceeds over the stated value.",Stated Value: The stated value of a stock is the value assigned to it by the issuing company. It represents the company's perception of the stock's worth and is assigned to a stock with no par value.
+30,Authorized capital stock is shares:,listed in the charter.,issued to the corporation's officers.,sold and in stockholder possession.,that pay dividends.,A,"The correct answer is option a. listed in the charter.
+Authorized capital stock is the maximum number of shares of stock that a corporation is legally allowed to issue, as specified in its charter. This number represents the upper limit of shares that can be sold to investors or distributed among shareholders.
+Therefore, option (a) is correct: authorized capital stock is shares listed in the corporation's charter. It means that the charter specifies the maximum number of shares that the company may issue, and this number is recorded as the authorized capital stock.
+The authorized capital stock is different from issued capital stock, which represents the actual number of shares that have been distributed or sold to investors and are currently in possession of stockholders. It means that options (b) and (c) are incorrect.
+Finally, option (d) is also incorrect because the payment of dividends is not dependent on whether the stock is authorized or issued, but rather on the company's financial performance and dividend policies.","Stock: From an accounting perspective, the stock is recorded as part of the equity section of the balance sheet and represents the residual interest in the company's assets after all liabilities have been deducted."
+31,The par value per share of common stock represents the:,dollar amount assigned to each share.,amount of dividends per share to be received each year.,minimum selling price of the stock established by the articles of incorporation.,minimum amount the stockholder will receive when the corporation is liquidated.,A,"The correct answer is
+a. dollar amount assigned to each share
+.
+Each share of stock is assigned a value called par value, usually denoted in $10 or $100. A company can sell its stock at par value, a premium, or at a discount.
+Other options are incorrect:
+Options
+Analysis
+b. amount of dividends per share to be received each year.
+They are referred to as dividends per share, not par value.
+c. minimum selling price of the stock established by the articles of incorporation.
+A company cannot establish a minimum selling price for the stock.
+d. the minimum amount the stockholder will receive when the corporation is liquidated.
+The stockholder will receive a company's net assets based on the proportion of ownership.",Stock Issuance: A company sells stock to investors in return for cash that will be used in revenue-yielding investments. Stocks offer returns in the form of cash and stock dividends and an increase in the stock price called capital gain.
+32,The ratio that measures the income earned by each share of common stock is:,number of times interest charges are earned,dividend yield,earnings per share,dividend per share,C,"The correct option is C.
+Profit per share, also known as the Earnings Per Share Ratio, is one of the most helpful metrics for evaluating a company's financial health and stock price (EPS). This is an essential factor in determining earnings per share. Earnings per share (EPS) is calculated by dividing a company's net profit by the total number of outstanding common shares. EPS, a popular statistic for determining corporate value, shows how much money a firm produces for each share of its stock.
+Thus, earning per share is the ratio that measures the income earned by each share of common stock.","Common Stock: The sort of stock most individuals invests in its common stock, which represents a portion of ownership in a business. In addition to the potential for dividends and capital growth, the common stock also comes with voting rights. In accounting, a company's balance sheet contains details on its common shares. Simply explained, each share of common stock corresponds to a portion of a company's ownership. Common stock may increase in value if a business performs well or if the value of its assets rises. On the other side, a common stock's value can drop if a business is struggling."
+33,"If you believe a stock's market value is about to drop, you could profit in the decline by _____ the stock.",assuming a long position in,assuming a bearish outlook on,assuming a short position in,placing a market order in,C,"The answer is
+C. assuming a short position in
+A. Incorrect. If the stock price is expected to drop in the future, the long position is not an appropriate strategy since it might cause a huge capital loss.
+B. Incorrect. A drop in the market value of a stock will not cause a decreasing trend in the market. Hence, assuming a bearish outlook is not relevant in this case.
+C. Correct. If there is a decrease in the market value of a stock, a short position can help investors to earn a capital gain since investors can sell stocks for a higher price while they can repurchase these stocks at a lower price in the future.
+D. Incorrect. A market order will be executed at the current bid, which causes a capital loss in a bearish market.",Market Value Of A Stock: The market value of a stock represents the trading price of a stock between sellers and buyers in the securities exchange market. The market value of a stock is usually different from its intrinsic value.
+34,Par value of a stock refers to the _____.,value assigned per share by the corporate charter,dividend value of the stock,maximum selling price of the stock,market value of the stock on the date of the financial statements,A,"The correct answer is option a. value assigned per share by the corporate charter.
+Option
+a. the value assigned per share by the corporate charter
+is the correct answer. The number of shares that the investors held in the firm is the basis for determining the amount of ownership in the company. The stock certificate's par value has already been allocated when it is received by the investor/shareholder.
+Option b. The dividend value of the stock is incorrect. The dividend value of stock refers to the value of return per stock owned by the investor/shareholder.
+Option c. maximum selling price of the stock. Par value is different from the maximum selling price.
+Option d. market value of the stock on the date of the financial statements is incorrect. The market value of the stock refers to the current value of shares in the market.","Stock: In business and finance, stock refers to the ownership held by the shareholder/investor in the company. This stock can be a preferred stock or a common stock."
+35,"Pumpkin Corporation issued 10,000 shares of common stock on January 1, 2018. The stock has no par value and was issued at $17 per share. The journal entry for this transaction includes a _____.","debit to Cash for $170,000 and a credit to Paid-In Capital in Excess of Par Common for $170,000.","debit to Cash for $170,000 and a credit to Common Stock No-Par Value for $170,000.","credit to Cash for $170,000, a debit to Paid-In Capital in Excess of Par Common for $10,000, and a debit to Common Stock No-Par Value for $160,000.","credit to Cash for $170,000 and a debit to Common Stock No-Par Value for $170,000.",B,"Correct Answer:
+Option B. debit to Cash for $170,000 and a credit to Common Stock No-Par Value for $170,000
+.
+When a stock is not assigned a par value, it is called a no-par stock, and the journal entry doesn't use the ""Paid-In Capital in Excess of Par"" account in the case of a no-par value stock.
+Pumpkin Corporation's stock transaction can be recorded as follows:
+Date
+Account Title
+Debit
+Credit
+January 1, 2018.
+Cash
+$170,000
+Common Stock No-Par Value
+$170,000
+Cash is debited for coming into the business, and the common stock account reflects the capital raised from issuing stock.
+Working note:
+Cash raised from the stock issuance = Shares issued × Issue price per share
+Cash raised from the stock issuance = 10,000 shares × $17
+Cash raised from the stock issuance = $170,000",Stock Issuance: Stock issuance is a company's way to raise capital and invest in the business. The cost of new equity is always higher as it includes flotation costs. A company can issue common and preferred shares to investors.
+36,Share capital is also known as:,total shareholders' equity.,contributed capital.,retained earnings.,common shareholders' equity.,B,"The correct answer is
+B. contributed capital
+.
+Options
+Analysis
+A. total shareholders' equity.
+Total stockholders' equity doesn't just include share capital but also retained earnings.
+B. contributed capital.
+Contributed capital represents the total proceeds from stock issuance (par value plus premium). It means the share capital raised by a company.
+C. retained earnings.
+Share capital represents the capital raised from shares. Retained earnings represent the earnings generated from investing the share capital in the operations.
+D. common shareholders' equity.
+Common shareholders' equity represents the net worth available to equity shareholders.","Capital Structure: A company's capital structure is built based on its financial activities, which include funding from long-term sources such as stocks and debentures. The overall cost of these funds should be less than the returns earned from investing the funds."
+37,The term used to describe the stock representing the primary ownership interest in a corporation is:,common stock.,retrained earnings.,financing activity.,dividends.,A,"The correct answer is
+a. common stock
+.
+Common stock indicates the primary ownership in a corporation because the shareholders who hold equity shares are the company's owners, who will not be redeemed the par value but will be distributed the net assets. Retained earnings refer to the accumulation of a portion of net income earned each year and belongs to the common shareholders. A financing activity doesn't indicate ownership. For example, preferred stock and debt are financing sources but don't indicate ownership. Also, dividends are paid as returns and are not an indicator of ownership.","External Sources of Capital: For a corporation, except for the retained earnings, all the sources from where capital can be raised are external. For expanding operations, assets should be increased, and capital needs to be spent on the same."
+38,"If a corporation issues 4,000 shares of $1 par value common stock for $12,000, the journal entry would include a credit to:","Paid-in Capital in Excess of Par Common for $12,000.","Common Stock for $4,000.","Retained Earnings for $4,000.","Common Stock for $12,000.",B,"The correct option is
+B. Common Stock for $4,000.
+If shares are issued at a price more than their par value, then the excess amount is credited to the paid-in capital in excess of par account. The share capital account will only be credited by the par value of stocks.
+Date
+Account
+Debit
+Credit
+Cash ---- Dr.
+$12,000
+Stock Capital ---- Cr.
+4,000 X $1 = $4,000
+Paid-in capital in excess of par   ---- Cr.
+$12,000 - $4,000 = $8,000",Stocks: Stocks are small portions of the ownership of the company. They can be easily traded on stock exchanges if they are listed. Stocks allow companies to raise large amounts of funds from the general public.
+39,The value of a common stock is based on its,Past performance.,Dividend yield.,Current earnings.,Value of future benefits to the holder.,D,"The correct answer is option
+D) Value of future benefits to the holder.
+One of the methods used by fundamental analysts is to value the stock based on the cash flows it is expected to generate in the future. The current value of a stock is the present value of all the anticipated future cash inflows in the form of dividends, capital appreciation, or any other benefit that the holder will receive for owning the stock.
+The other options are not correct because:
+Option A: Past performance: It is not a valid choice because the past performance is already reflected in the current market price of the stock.
+Option B: Dividend yield: This is not a valid choice because the dividend yield refers to the percentage of dividends earned over the market price. It is not a cash flow that can be discounted to arrive at the value of the stock.
+Option C: Current earnings: It is not a valid choice because the holders of the stock may not receive the entire earnings but a percentage of the earnings as dividends. The expected dividends earned from the earnings will be used to determine the stock's fair value.",Common Stock: Common stock represents a claim of the shareowner on a portion of the issuing entity's earnings and assets. The investor can receive a return on common stock in the form of dividends and capital gains.
+40,Recording a stock issuance in exchange for cash involves:,Debiting Cash and crediting Notes Payable.,Debiting Cash and crediting Dividends.,Debiting Common Stock and crediting Cash.,Debiting Cash and crediting Common Stock.,D,"Correct Answer:
+Option D) Debiting Cash and crediting Common Stock
+.
+Recording a stock issuance in exchange for cash requires the following entry:
+Account Title
+Debit
+Credit
+Cash
+$XX
+Common Stock
+$XX
+The debit to the cash account represents an increase in the assets by the amount raised by issuing common shares, and a credit to the common stock account represents an increase in the equity account.","Stock Issuance: Stock issuance is a company's action to raise capital to expand its operations by making capital investments. These fixed asset investments require huge amounts of money, and an internal financing source needs to be extended through external financing."
+41,The two-stage dividend growth model assumes the second-stage growth rate is:,less than the discount rate.,less than or equal to the discount rate.,"less than, greater than, or equal to the discount rate.",less than the first-stage growth rate.,D,"The answer is
+d. less than the first-stage growth rate.
+A multi-stage dividend growth model is a version of a dividend discount model, which assumes that the stock's dividends grow at a supernormal rate in the early periods. After the supernormal growth period, the stock's dividend will grow at a normal growth rate. It can be explained by the fact that a business will mature in the long run, which will maintain a stable growth rate for its earnings. Alternatively, a matured business will be less likely to achieve a significant gain to raise the growth rate for dividends.","Dividend Discount Model (DDM): The dividend discount model can help investors to estimate the fair value of a common stock. Within this model, all dividends are carried back to the present, using the investor's expected rate of return as a discount rate."
+42,"Consider the information below for Heep, Inc. How much did Heep receive (in cash or other assets) from issuing common stock?","$60,000","$80,000","$140,000",$160.000,C,"Correct Answer:
+Option c. $140,000
+.
+We can determine the cash received from stock issuance using the following format:
+Amount
+Par value of common stock
+$80,000
+Additional paid in capital
+$60,000
+Total cash received from the stock issuance
+$140,000","Stock Issuance: A company can issue stock as a source of raising capital from investors by selling them the company shares. It can issue common or preferred stock. It can also repurchase the stock earlier issued by it, which is called treasury stock."
+43,"BBB stock pays a dividend of $7.20 per year forever. If the expected rate of return is 5.3%, what is the present value?",$1.36,$7.58,$38.16,$135.85,D,"The answer is
+D) $135.85.
+Given information:
+Dividend = $7.20
+Rate of return (I) = 5.3%
+Estimate the present value of the stock:
+{eq}\text{Present Value} = \displaystyle \frac{\text{Dividend}}{\text{I}} \\ \text{Present Value} = \displaystyle \frac{\$7.20}{5.3\%} \\ \text{Present Value} = \$135.85 {/eq}","Stock Value: The value of a stock indicates how much an investor should pay for the stock. With that being said, a stock will be acquired as long as its current value is greater than its market price."
+44,The entry to record the issuance of common stock at a price above par would include a credit to:,Donated Capital,Retained Earnings,Treasury Stock,Paid-in Capital in Excess of Par Common Stock,D,"Correct Answer:
+Option d. Paid-in Capital in Excess of Par Common Stock
+.
+The entry to record the issuance of common stock at a premium is:
+Account Title
+Debit
+Credit
+Cash
+$XX
+Common Stock
+$XX
+Paid-in Capital in Excess of Par, Common Stock
+$XX
+The paid-in capital account holds the difference between the issue price and par value.","Share premium: Share premium is recognized when the shares are issued at a price higher than the par value. Shares can be sold at a higher or lower price, depending on the market conditions and should be recorded accordingly."
+45,Which of the following is not a strategic purpose of a long-term investment in another company's common stock?,expansion,integration,interest revenue,reduction of costs,D,"The answer is  D. reduction of costs
+A firm might acquire stocks from different firms for the following purposes:
+Merger and acquisition: By holding shares from another firm, it refers to the ownership of that firm, which can cause an M&A transaction in the future. This could be a part of an expansion strategy. With that being said, the current operation can be integrated with other firms from different business sectors, which can earn an advantage of synergy.
+Dividends: Stocks from a corporation that pays higher dividends will be attractive to other firms with excess cash.
+Capital for long-term stock investment is not a reduction of costs. A capital loss might reduce the taxable income for a lower tax liability. But, it is not an expected case for a stock investment.","Stock Investment: A stock investment might generate two following cash inflows: capital gain and dividend gain. Depending on the main purpose of stock investment, each investor might expect different holding periods on their stocks."
+46,"The following information is from the December 31, 2018 balance sheet of May Corporation.","$888,000","$913,000","$996,900","$736,000",B,"May Corporation's total paid-in capital as of December 31, 2018, equals
+B. $913,000
+.
+Total paid-in capital or contributed capital represents the entire proceeds from the issuance of both common and preferred stocks. It can be determined using the following format:
+Amount
+Preferred Stock, $100 par
+$390,000
+Paid-In Capital in Excess of Par-Preferred
+$25,000
+Common Stock, $1 par
+$152,000
+Paid-In Capital in Excess of Par Common
+$346,000
+Total paid-in capital
+$913,000","Contributed Capital: Paid-in capital is an essential metric for investors and analysts as it reflects the amount the company has available for investments, operations, and other activities. It can be found on the balance sheet under the stockholders' equity section."
+47,"When Happy Feet Corporation announces that its fourth-quarter earnings are up 10%, its stock price falls. This is consistent with the efficient markets hypothesis",if earnings were not as high as expected.,if earnings were not as low as expected.,if a merger is anticipated.,the company just invented a new bunion product.,A,"A) Correct.
+This information is recognized as negative information since the firm cannot achieve its goal.
+B) Incorrect. If the actual earnings are not as low as expected, it implies that the firm makes more than its lowest point of expected earnings, which is a positive sign. At this point, the price should increase.
+C) Incorrect. A merger will generate synergy due to the integrated resources of merged firms.
+D) Incorrect.  A new product is positive information since the firm will increase its sales. Hence, this information should raise the stock price.","Efficient Market Hypothesis: The efficient market hypothesis refers to the assumption that the price of an asset reflects all available information related to the asset. Thus, an investor can't purchase an undervalued asset, and sell it at an overvalued price."
+48,"Dilution refers to the loss of shareholder value, and may be represented by all of the following except dilution of _____.",ownership percentage,market value,the firm's current ratio,book value per share,C,"The answer is
+c. the firm's current ratio
+The current ratio measures the liquidity of a firm, which is determined by dividing the current asses by the current liabilities. This ratio is not affected by the number of shares outstanding in the market.
+a. An increase in the number of shares in the market will lower the percentage of ownership of existing shareholders.
+b. The market value per share is lower since the number of shares increases while the market capitalization remains unchanged.
+d. The book value per share is estimated by dividing the book value by a number of shares outstanding. Thus, an increase in the number of shares will reduce the book value per share.","Share Dilution: A share dilution refers to a decrease in the value of a share due to an increase in the number of shares outstanding in the securities exchange market. Usually, a share dilution occurs in the following situations:"
+49,A decrease in which of the following will increase the current value of a stock according to the dividend growth model?,Both the discount rate and the dividend growth rate.,"Number of future dividends, provided the number is less than infinite.",Dividend growth rate.,Discount rate.,A,"a. Incorrect. A decrease in the dividend growth rate will lower the expected dividend in the future, which will reduce the value of a stock. However, if the discount rate decreases simultaneously, the value of a stock will also increase. Hence, it is impossible to confirm whether the value of a stock will increase if both the discount rate and dividend growth rate decrease at the same time.
+b. Incorrect. By reducing the number of dividends in the future, the current value of a stock will decrease due.
+c. Incorrect. See the explanation in part a.
+d. Correct. A lower discount rate will raise the value of the stock since the value of the stock and its discount rate have an inverse relationship.",Current Value Of A Stock: The current value of a stock refers to its intrinsic value that is estimated by discounting all dividends to today according to the discounted cash flow model. Note that a stock should be acquired and held for the long term as long as its current value exceeds its market price.
+50,"High Tech Corp. cut its research and development budget in 2008 by {eq}\$4,000,000
+
+{/eq} in order to improve its cash flow for the year. Which of the following statements is most correct?",The change will have no impact on the stock price because the company's profits will not change in 2008.,The stock price will increase only if reported profits in 2009 are also higher than profits reported in 2007.,The stock price will likely increase because the value of the stock is based on reported cash flow.,The stock price may decrease because investors may predict that future cash flows will decrease due to the lack of innovation and new products.,C,"a. Incorrect. By reducing the research and development budget, the firm's net income in 2008 will increase. Thus, the firm's net cash flow in 2008 will also increase, which raise the value of the stock consequently.
+b. Incorrect. An increase in net income in 2008 might affect the demand for the stock immediately. It is not necessary to wait until 2009 for an increase in the price of the stock.
+c. Correct. See part a.
+d. Incorrect. See part a.","Net Income: Within a firm, net income represents the remainder of revenue after all eligible business expenses and tax obligations. For fundamental analysis, an investor expects to observe a growth in the firm's net income over periods."

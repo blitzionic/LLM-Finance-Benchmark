@@ -1,0 +1,672 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+2,Unsecured debt issued by bank holding companies is a form of equity capital.,True,False,,,A,"The above statement is True.
+Funds invested in a company by investors in return for ordinary or preferred shares are known as equity capital. This is the foundational investment for a firm to which debt financing could be added.
+In addition to receiving the principal amount, debt capital's lender also receives interest income. Those who own shares receive dividends or profits. Debt financing can be secured (against the surety of an asset) or unsecured. Since shareholders receive ownership rights, equity capital is insecure.
+Similar to equity capital holders, these bank-holding corporations own a share of the commercial bank's voting stock, which enables them to vote on issues about the development of the bank's corporate policies. They exercise control over the bank but do not participate in its daily operations. Like equity shareholders, they make loans.","Unsecured Debt: Unsecured debt is any debt or general obligation not collateralized by a claim on particular assets of the borrower in the event of bankruptcy, liquidation, or inability to satisfy the terms of repayment. It is sometimes referred to as uninsured debt."
+3,"A lender requires 2 points on a $250,000 loan with a 7% rate amortization over a 25 year-term, payable monthly. What is the effective yield to the lender if the loan runs full term?",9.0%,6.8%,7.2%,6.0%,C,"The answer is
+C) 7.2%.
+Given information:
+Initial principal = $250,000
+Number of payments (N) = 25 x 12 = 300
+Annual percentage rate (I) = 7%
+Initial point = 2%
+Estimate the required monthly payment (PMT):
+{eq}\text{Initial principal} = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{I}{12})^{-N}}{\displaystyle \frac{I}{12}} \\ \$250,000 = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{7\%}{12})^{-300}}{\displaystyle \frac{7\%}{12}} \\ \$250,000 = \displaystyle \text{PMT} \times 141.48690 \\ \text{PMT} = $1,766.94804 {/eq}
+Estimate the net proceeds of the loan:
+{eq}\text{Net proceeds} = \displaystyle \text{Initial principal}\times (1 - \text{Percentage point}) \\ \text{Net proceeds} = \displaystyle \$250,000 \times (1 - 2\%) \\ \text{Net proceeds} = \displaystyle \$245,000 {/eq}
+Estimate the effective annual interest rate on the loan (i):
+{eq}\text{Net proceeds} = \displaystyle \text{PMT} \times \frac{1 - (1 + \displaystyle \frac{i}{12})^{-N}}{\displaystyle \frac{i}{12}} \\ \$245,000 = \displaystyle \$1,766.94804 \times \frac{1 - (1 + \displaystyle \frac{i}{12})^{-300}}{\displaystyle \frac{i}{12}} {/eq}
+The effective annual interest rate can be determined by using the financial calculator with the following inputs:
+FV = Future value of loan = 0
+PMT = Annual payment = 1,766.94804
+PV = - Net proceeds of the loan = - 245,000
+N = Number of monthly payments = 300
+CPT I = 0.60209
+{eq}\text{i} = 0.60209 \times 12 = 7.2\% {/eq}","Amortization Loan: An amortization loan allows the borrower to repay the initial loan principal and interest charge by a series of monthly payments. Mortgage loans, auto loans, and purchase financing are representative of amortization loans."
+4,Unsecured debt issued by bank holding companies is a form of equity capital.,True,False,,,A,"The above statement is True.
+Funds invested in a company by investors in return for ordinary or preferred shares are known as equity capital. This is the foundational investment for a firm to which debt financing could be added.
+In addition to receiving the principal amount, debt capital's lender also receives interest income. Those who own shares receive dividends or profits. Debt financing can be secured (against the surety of an asset) or unsecured. Since shareholders receive ownership rights, equity capital is insecure.
+Similar to equity capital holders, these bank-holding corporations own a share of the commercial bank's voting stock, which enables them to vote on issues about the development of the bank's corporate policies. They exercise control over the bank but do not participate in its daily operations. Like equity shareholders, they make loans.","Unsecured Debt: Unsecured debt is any debt or general obligation not collateralized by a claim on particular assets of the borrower in the event of bankruptcy, liquidation, or inability to satisfy the terms of repayment. It is sometimes referred to as uninsured debt."
+5,"You borrow $85,000. You make monthly repayments over the next three years at a monthly interest rate of 3%. What is the amount of each monthly repayment?","$30,050.08","$1,343.32","$3,893.32","$2,361.11",C,"The answer is
+c. $3,893.32.
+Given information:
+Loan principal = $85,000
+Number of monthly payments (N) = 3 x 12 = 36
+Monthly interest rate (I) = 3%
+Monthly repayment = PMT
+Estimate the monthly repayment associated with the loan:
+{eq}\text{Loan principal} = \displaystyle PMT \times \frac{1 - (1 + I)^{-N}}{I} \\ \$85,000 = \displaystyle PMT \times \frac{1 - (1 + 3\%)^{-36}}{3\%} \\ \$85,000 = \displaystyle PMT \times 21.83225 \\ PMT = \displaystyle \frac{\$85,000}{21.83225} \\ PMT = $3,893.32 {/eq}","Installment Loan: An installment loan refers to a financing option in that a borrower repays the loan regularly. Usually, a lender will require monthly payments within a fixed period that is to reduce the credit risk associated with the loan."
+6,Sam received a $290 discount loan to purchase a stereo. The loan was offered at 16% for 90 days.,$279.4,$278.40,$277.40,,B,"Correct answer:
+1. Option b. $11.60
+2. Option b. $278.40
+Given:
+Loan value = $290
+Annual interest rate = 16%
+Loan period = 90 days
+Number of days in a year = 360 days (approximately)
+So, the interest would be:
+1. Interest:
+{eq}\begin{align*}
+
+{\rm\text{Interest}}\, &= \,{\rm\text{Loan value}}\, \times \,{\rm\text{Interest rate}}\, \times \dfrac{{{\rm\text{Loan period in days}}}}{{{\rm\text{Number of days in a year}}}}\\
+
+&= \$ 290\, \times \,16\% \, \times \dfrac{{90\,{\rm\text{days}}}}{{360\,{\rm\text{days}}}}\\
+
+&= \$ 11.60
+
+\end{align*}
+
+{/eq}
+Thus, the interest is
+$11.60.
+2. Proceeds:
+The proceeds can be computed by reducing the interest of $11.60 from the loan value of $290.
+{eq}\begin{align*}
+
+{\rm\text{Proceeds}}\, &= \,{\rm\text{Loan value}}\, - \,{\rm\text{Interest}}\\
+
+&= \$ 290\, - \,\$ 11.60\\
+
+&= \$ 278.40
+
+\end{align*}
+
+{/eq}
+Thus, the value of proceeds is
+$278.40.","Discount Loan: In a few cases, the interest payable on a loan is reduced, and the remaining balance is granted a loan for the borrower. This is referred to as a discount loan. The borrower will repay only the principal value, and no further interest will be paid."
+7,Refinancing a loan for more money than was originally owed is called a(n):,add-on loan.,accelerated loan.,discount loan.,garnishment.,A,"The correct answer is A.
+Refinancing a loan for more money in the process of adding more loan amounts at a cheaper interest rate than the first loan amount in which the interest rate is high. So, it is an add-on loan.
+Reason for incorrect option:
+Option B. accelerated loan refers to the borrower having to pay his entire loan amount immediately.
+Option C. In a discount, the loan borrower gets a discount on the loan amount. And not refinance it.
+Option D. A garnishment is the order to seize assets.","Loan: A loan is when a person obtains finance from any friend, bank, or financial entity with the binding that it will be returned in the future along with principal and interest."
+9,"A bank loans you $20,000, amortizing over five years at 12% pay yearly. How much interest will you pay in month 2 of the loan?",$179,$356,$198,$231,C,"The correct answer is:
+C. $198
+Before we prepare the loan amortization schedule, we will first calculate the monthly loan installments using the formula below
+{eq}\rm Installment=\dfrac{\text{ Loan amount}}{\dfrac{1-(1+r)^{-n}}{r}}
+
+{/eq}
+Where
+r
+is the loan interest rate per period and
+n
+is the number of periods. Therefore
+{eq}\rm Installment =\dfrac{20000}{\dfrac{1-(1+0.12/12)^{-12\times 5}}{0.12/12}}\\[0.3cm]
+
+\rm Installment=\$444.89
+
+{/eq}
+The table below shows the loan amortization schedule
+Month
+Opening bal (A)
+Installment (B)
+Interest (C=1% of A)
+Principal (D=B-C)
+Closing bal (A-D)
+1
+20,000
+444.89
+200
+244.89
+19,755
+2
+19,755
+444.89
+197.55
+247.3389
+19,508
+From the above table, we can see that the amount of interest paid in the second month is approximately $198.","Loan Amortization Schedule In finance, the loan amortization schedule is a schedule that tracks the progress of loan repayment. It shows the closing and opening loan balances for each period, the loan principal, and the interest paid in each period."
+10,Banks calculate the monthly payment on a loan as:,an ordinary annuity with payment made one month in advance.,an annuity due with payment made one month in advance.,an ordinary annuity with payment made at the end of the month.,an annuity due with payment made at the end of the month.,C,"The answer is
+c. an ordinary annuity with payment made at the end of the month.
+The series of monthly payments represents an annuity. Thus, if the monthly payment is required at the beginning of each month, it is an annuity due. Otherwise, it is an ordinary annuity. In practice, most banks will not require borrowers to make a payment immediately at the loan origination.","Installment Loan: An installment loan is a financing option in which a borrower can repay the loan with monthly payments. Usually, monthly payments are constant during the entire life of the loan. Within a monthly payment, there are two components: interest payment and principal repayment."
+11,A loan discount is:,a loan used to purchase a bond at a discount.,a discount market interest rate on a loan.,the same as a bond discount.,None of the above.,D,"The correct option is
+option D. None of the above.
+Option A: Loan Discount states the interest amount which is deducted from the loan principal value when the loan is acquired at a discount. A bond discount presents a bond type that can be purchased for less than its par or face value. Thus, loan discounts are not linked with bonds, as bonds are debt instruments traded in the money market.
+Option B: A loan discount is a loan type for which interest and other charges are not required to be paid. Thus, the interest rate is not discounted in the loan.
+Option C: A bond discount implies that the bond's market price is lower than its par value, whereas a loan discount means an amount that is already reduced by interest and other related charges. These two terms have different parameters.
+The given statements related to loan discounts are false as a loan discount involves payment of that borrowed amount, which excludes interest and other related charges. Therefore, the correct option is
+option D
+.","Loan: A loan is defined as an arrangement in which a lender provides funds to another individual in exchange for future repayment, i.e., principal plus interest amount. Money can be lent from a bank, insurance company, or financial institution."
+12,"Wake and Elizabeth are buying a $200,000 house and putting 10% down. The bank is offering a 30-year loan at 4.5% compounded monthly.",What is the loan amount?,What will the monthly payment be?,What is the (approximate) total amount of interest paid during the term of the loan?,,A,"Given data,
+Cost of the house = $200,000
+Down payment for the house = 10% of $200,000
+Loan term = 30 years or, 360 months
+Annual interest rate = 4.50%
+The interest is compounded monthly.
+(A)
+{eq}\begin{align*}
+
+Loan\ Amount &= Cost\ of\ the\ house - Down\ payment\\
+
+&=$200,000-($200,000*0.10)\\
+
+&=$200,000-$20,000\\
+
+&=$180,000\\
+
+\end{align*}
+
+{/eq}
+(B)
+The monthly interest rate {eq}=0.045/12=0.00375\ Or,\ 0.375\%
+
+{/eq}
+The monthly payment required to repay the loan over 30 years is calculated using the following formula:
+{eq}A=P \times \dfrac{i(1+i)^n}{(1+i)-1}
+
+{/eq}
+Where,
+A = monthly payment required to repay the loan
+P = Loan Principal
+i = monthly interest rate
+n = loan term in months
+Putting the corresponding values in the above formula, we get,
+{eq}\begin {align*}
+
+A&=$180,000 \times \dfrac{0.00375(1+0.00375)^{360}}{(1+0.00375)^{360}-1}\\
+
+&=$180,000 \times\dfrac{0.0014428867}{2.84769805}\\
+
+&=$912\\
+
+\end {align*}
+
+{/eq}
+Thus, the monthly payment = $912
+(C)
+{eq}\begin {align*}
+
+\text {Total amount paid over 360 months} &= 360 \times \text {monthly payment}\\
+
+&=360\times $912\\
+
+&=$328,320\\
+
+\end{align*}
+
+{/eq}
+Therefore,
+{eq}\begin {align*}
+
+\text {Total amount of interest paid} &= \text {Total amount paid to repay the loan} - \text {Loan Principal}\\
+
+&=$328,320-$180,000\\
+
+&=$148,320\\
+
+\end{align*}
+
+{/eq}",Home Mortgage: Most people buy homes by availing of a loan from a bank or any other financial institution. A mortgage refers to a loan taken by pledging some property. Thus most home mortgages are secured against some collateral. A mortgage loan is used either to buy or build a property or refinance a property.
+13,Each payment on a mortgage note payable consists of,interest on the original balance of the loan only.,reduction of loan principal only.,interest on the original balance of the loan and reduction of loan principal.,interest on the unpaid balance of the loan and reduction of loan principal.,D,"The correct answer is Option D.
+The payment made for the mortgage note payable remains the same for every period. However, the proportion of interest and principal repayment changes every time. Initially, the installment amount consists of greater interest expense and lesser principal repayment. This interest expense keeps declining with every installment because the interest expense is calculated on the loan balance that is yet to be paid.
+Explanation for Incorrect Options:
+Option A: The installment/payment amount consists of principal repayment also. Thus, this option is incorrect.
+Option B: This is not correct because each payment on the bond payable includes the interest amount.
+Option C: The interest is not paid on the original balance. Rather, it is paid on the carrying value of the mortgage.",Loan: The amount borrowed to finance an entity's assets is termed a loan. There are different types of a loan based on their tenure or purpose. It is commonly classified as a short-term and long-term loan.
+14,"An {eq}\$11,000,\ 12\%,\ 40
+
+{/eq}-day note, dated Nov. 3, is discounted at {eq}9\%
+
+{/eq} on Nov. 30. The proceeds of the note would be:","{eq}\$11,182.90
+
+{/eq}.","{eq}\$11,000.00
+
+{/eq}.","{eq}\$11,110.44
+
+{/eq}.","{eq}\$11,114.10
+
+{/eq}.",C,"The answer is
+C. $11,110.44.
+Summary:
+Par = $11,000
+Interest rate = 12%
+Maturity = 40 days
+Holding period = 27 days
+Discount rate (I) = 9%
+Determine the total amount received at maturity:
+{eq}\text{Total value} = \displaystyle \text{Maturity value} + \text{Interest} \\
+
+\text{Total value} = \displaystyle \$11,000 + \$11,000 \times \frac{12\%}{360} \times 40 \\
+
+\text{Total value} = \displaystyle $11,146.67 {/eq}
+Determine the discounted value of the note on Nov 30:
+{eq}\text{Discounted value} = \displaystyle \frac{\text{Total value}}{(1 + \displaystyle \frac{I}{360})^{\text{Holding periods}}} \\
+
+\text{Discounted value} = \displaystyle \frac{\$11,146.67}{(1 + \displaystyle \frac{9\%}{360})^{40 - 27}} \\
+
+\text{Discounted value} = \displaystyle $11,110.51 {/eq}
+The closest answer is $11,110.44.",Unsecured Note: An unsecured note is a short-term loan that is not backed by the issuer's assets. Unsecured notes are usually offered at a higher interest rate since they are riskier compared to secured debt.
+15,"Under the effective interest method of amortization, interest expense is calculated as:",Face values times the stated interest rate.,Carrying value times the market interest rate.,Face value times the market interest rate.,Carrying value times the stated interest rate.,B,"The correct answer is option
+B. Carrying value times the market interest rate.
+Under the effective interest method of amortization, the interest expense is calculated by multiplying the carrying value of a bond with the market interest rate prevailing on comparable securities. The stated interest rate is the coupon rate used to ascertain the coupon amount (i.e. stated coupon rate times the face value) paid to the bondholders.","Amortization of Bonds: In the context of accounting, a bond is a debt instrument issued at a premium to the face value, at a discount to the face value, or at the face value. The amortization process is a process by which a discount or premium bond is brought to its face value at maturity."
+16,Which of the following statements is true of amortization?,The computation of loan amortization is wholly based on the computation of simple interest.,The amortization schedule provides the data of equated monthly payments for which the classification of principal and interest along with unpaid principal balance is provided.,The amortization schedule represents only the interest portion of the loan.,Amortization solely refers to the total value to be paid by the borrower at the end of maturity.,B,"The correct answer is
+Option b.
+An amortization schedule is a summarized calculation of equal monthly payments that require the information related to the bifurcation of principal and interest amounts and the outstanding principal balance. It shows the amortization of loan value and helps differentiate between the interest payments and those paid to set off the principal balance.
+Incorrect Options:
+Option a:
+Compound interest calculation is generally used to compute loan amortization.
+Option c:
+The amortization schedule represents both the interest portion as well as the principal balance of the loan.
+Option d:
+Amortization does not solely represent the aggregate value to be given by the borrowers by the end.",Loan Amortization A type of loan where the entity who borrows money needs to repay the loan amount in pre-determined periodical payments is loan amortization. The repayment amount is initially allocated towards the interest due and the remaining is applied to lower the principal balance.
+17,Unsecured debt issued by bank holding companies is a form of equity capital.,True,False,,,A,"The above statement is True.
+Funds invested in a company by investors in return for ordinary or preferred shares are known as equity capital. This is the foundational investment for a firm to which debt financing could be added.
+In addition to receiving the principal amount, debt capital's lender also receives interest income. Those who own shares receive dividends or profits. Debt financing can be secured (against the surety of an asset) or unsecured. Since shareholders receive ownership rights, equity capital is insecure.
+Similar to equity capital holders, these bank-holding corporations own a share of the commercial bank's voting stock, which enables them to vote on issues about the development of the bank's corporate policies. They exercise control over the bank but do not participate in its daily operations. Like equity shareholders, they make loans.","Unsecured Debt: Unsecured debt is any debt or general obligation not collateralized by a claim on particular assets of the borrower in the event of bankruptcy, liquidation, or inability to satisfy the terms of repayment. It is sometimes referred to as uninsured debt."
+18,Institutions that serve as the bridge between savers and borrowers are known as:,commercial banks.,credit unions.,financial intermediaries.,securities firms.,C,"The correct option is
+c). Financial intermediaries.
+Financial intermediaries act as a neutral third party in financial dealings. A bank is a good illustration because it performs multiple functions: it facilitates transactions between borrowers and lenders, and it pools money for investment purposes. On the other hand, we'll discuss the various kinds of financial middlemen that exist.","Loan: The loan is the amount of money issued by the financial institution, which is used by the borrower and paid back in installments based on the interest rate charged by the financial institution."
+19,Bank loans to business firms:,are usually short-term in nature.,are preferred by the banker to be self-liquidating.,may require compensating balances.,All of these options.,C,"The answer is
+c. may require compensating balances.
+a. Incorrect. A business will usually acquire a short-term loan for the need of working capital. In addition, long-term loans can be acquired to fund for large projects as well. Thus, it is incorrect to certify that bank loans are usually short-term in nature.
+b. Incorrect. Bankers will be exposed to a potential collection loss and other risks when lending their funds to the borrowers. A self-liquidating loan will become risky if the related asset cannot generate a sufficient fund to cover for interest charges and principal repayment. In fact, bankers will prefer borrowers who can actively generate money from different business activities.
+c. Correct. Bankers might require a compensating balance associated with a loan, which aims to lower their potential risk of collection loss.","Bank Loans: A bank loan is a borrowing provided by a commercial bank, which will help the borrower to fund a specific transaction. Basically, a bank will offer both secured and unsecured loans."
+20,True or false? A simple way to amortize a loan is to have the borrower pay the interest each period plus a fixed amount.,True,False,,,A,"True.
+An amortized loan requires that the borrower repays the loan in parts. A simple way to amortize a loan is to let the borrower pay the loan interest in each period plus a fixed amount which should go to repaying the loan principal.","Loan Amortization Loan amortization refers to the process involved in repaying the loan. Lenders prepare a loan amortization schedule which tracks the loan balance, loan principal repaid, loan installment and interest for each payment period."
+21,A bank makes loans via its:,demand deposits,total reserves,excess reserves,required reserves,C,"The correct option is c)
+A bank makes loans through the excess reserves that it possesses. Every bank is required to keep a certain amount as a reserve; this reserve is made from the deposits of their customers. But when there are excess reserves with the bank, they use them to make loans to their customers.
+Reasons for incorrect options
+Option a) is incorrect because demand deposits are not used to make loans.
+Option b) is incorrect because a bank cannot use its total reserves to make loans.
+Option d) is incorrect because required reserves are not used to make loans.","Bank Loans: A bank loan is identified as financial aid provided by the banks to people in need of money. People can apply for a loan in banks, and if they are deemed eligible for the loan, the bank grants them the loan amount and deposits it into their account."
+22,"If a term loan requires equal annual payments that retire the loan and pay the interest, that is similar to_.",mortgage payments,dividend payments,lease payments,a sinking fund,A,"Correct Answer: a
+The structure mentioned in the given statement reflects the simultaneous payment of the principal and interest amount. This concurrent payment structure resembles the structure of mortgage. Also, the annual payment amount is similar to that is applicable in the case of a mortgage. So, because of the equivalent amount and simultaneous principal and interest payment, such a loan resembles a mortgage.
+An explanation for incorrect options:
+Option b: The dividend payments occur in equity, not in loans. Also, the dividend amount differs annually.
+Option c: The concept of lease payments are different as they do not involve the principal payments.
+Option d: The sinking fund involves contributions for future payments, not simultaneous payments.",Sinking Fund: A fund that creates safety for the bondholders by mentioning the early payment option in the prospectus is the sinking fund. The existence of a sinking fund makes positive ratings for the specified bond issuers.
+23,An interest-only loan is an example of a:,fully-amortizing loan.,loan with negative amortization.,non-amortizing loan.,partially-amortizing loan.,C,"The correct option is
+c. non-amortizing loan.
+We only serve the loan's interest during its tenure in interest-only loans and repay the entire loan at the end of its term. Because we don't repay the loan in between, the loan doesn't get amortized during the tenure. Therefore, it's a non-amortizing loan.
+As is the case in all other options, the loan amount changes during the loan's term; they are
+not
+interest-only loans.","Loan: A loan is a type of financial transaction that businesses use to get funds for long-term purposes. Generally, companies procure capital assets with the help of loans. Loans increase the leverage of companies."
+24,"Assuming all else is equal, which of the following loans is most likely to have the lowest total interest payments?",Unsecured non-amortizing loan.,Unsecured amortizing loan.,Secured non-amortizing loan.,Secured amortizing loan.,C,"The correct option is
+(c) Secured non-amortizing loan.
+Generally, secured loans have lower interest rates than unsecured loans, so if the loan is most likely to have the lowest total interest payments, it must be a secured loan.
+Usually, the total interest payment is lower under the constant principal repayment as here the principal repayment is fixed for all the years.
+Thus the loan that is most likely to have the lowest total interest payments would be a
+secured non-amortizing loan.","Loan: The loan is an arrangement between the lender and the borrower. A loan can be secured or unsecured, amortizing or non-amortizing based on the terms decided between the lender and the borrower."
+25,"Under the effective interest method of amortization, interest expense is calculated as:",Face values times the stated interest rate.,Carrying value times the market interest rate.,Face value times the market interest rate.,Carrying value times the stated interest rate.,B,"The correct answer is option
+B. Carrying value times the market interest rate.
+Under the effective interest method of amortization, the interest expense is calculated by multiplying the carrying value of a bond with the market interest rate prevailing on comparable securities. The stated interest rate is the coupon rate used to ascertain the coupon amount (i.e. stated coupon rate times the face value) paid to the bondholders.","Amortization of Bonds: In the context of accounting, a bond is a debt instrument issued at a premium to the face value, at a discount to the face value, or at the face value. The amortization process is a process by which a discount or premium bond is brought to its face value at maturity."
+26,Bank loans to business firms:,are usually short-term in nature.,are preferred by the banker to be self-liquidating.,may require compensating balances.,All of these options.,C,"The answer is
+c. may require compensating balances.
+a. Incorrect. A business will usually acquire a short-term loan for the need of working capital. In addition, long-term loans can be acquired to fund for large projects as well. Thus, it is incorrect to certify that bank loans are usually short-term in nature.
+b. Incorrect. Bankers will be exposed to a potential collection loss and other risks when lending their funds to the borrowers. A self-liquidating loan will become risky if the related asset cannot generate a sufficient fund to cover for interest charges and principal repayment. In fact, bankers will prefer borrowers who can actively generate money from different business activities.
+c. Correct. Bankers might require a compensating balance associated with a loan, which aims to lower their potential risk of collection loss.","Bank Loans: A bank loan is a borrowing provided by a commercial bank, which will help the borrower to fund a specific transaction. Basically, a bank will offer both secured and unsecured loans."
+27,"Before approving a loan application, a bank is likely to analyze the applicant's:",debt ratio,brand preferences,inflation rate,performance goals,A,"The correct answer is option
+a. debt ratio
+.
+The debt ratio for an applicant is ascertained by dividing the total liabilities or debt by the total assets. A higher debt ratio signifies higher risk because the inability to pay a higher interest amount for the debt may cause bankruptcy. The evaluation of the applicant's risk is important because it helps a bank to decide whether to proceed with the loan disbursement or not. If the bank decides to disburse the loan then depending upon the risk magnitude, the interest rate can be finalized.",Loans: Loans represent borrowings of an individual or a firm for making investments or expenditures. The sanctioned loan amount and interest rate are usually finalized after taking into consideration the risk associated with the applicant.
+28,"The type of debt nearly always repaid in full by the borrower, with a repayment rate of 97 percent, is _____ loans.",company-to-company,federally guaranteed,parallel,micro-,B,"The correct answer is B) federally guaranteed
+Federally guaranteed loans are also referred Federal Family Education Loans (FFELs). When a borrower fails to repay a federally guaranteed loan, the federal government repays the banking institution and takes charge of the credit. The federal government repays around 97% of the principal amount to the moneylender. At this stage, the federal government possesses the credit loan and the right to receive clearance on loan.
+Reasons for incorrect options:
+Option A)  is incorrect because, in company-to-company loans, a company gives credit guarantees, procures securities, or puts their money in another corporate body. The company fixes the repayment rate.
+Option C) is incorrect because a parallel loan involves two parent companies in distinct nations which take monies in their domestic currencies, then loans that sum to the other country's domestic subsidiary. At the loan's term expiry, the amount is remitted with interest, and the parent companies repay that sum to their domestic financial institutions.
+Option D) is incorrect because a microloan is the precise compact loan amount that a person receives as a loan from a microfinance institution. The number of microloans differs from nation to nation.",Loan: A loan is an amount advanced by one party to another in return for security or charge. The principal amount is supposed to be repaid with interest. The interest rate is decided at the beginning of the agreement.
+29,Compute the exact interest (365-day year) and the total amount of the loan for the following problems.,"$2,480 at 7% for 105 days.","$13,750 at 8.5% for 150 days.","$2,500 at 5% for 30 days.",,A,"a.	Computation of total amount of the loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= {\rm\text{Given}}\,\,{\rm\text{amount}}\, \times \,{\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,480 \times 7\%  \times \frac{{105}}{{365}}\\
+
+&= \$ 49.94
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\rm{\$ 2,480}} + {\rm{\$ 49}}{\rm{.94}}\\
+
+&= {\rm{\$ 2,529}}{\rm{.94}}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,529.94.
+b.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 13,750 \times 8.5\%  \times \frac{{150}}{{365}}\\
+
+&= \$ 480.31
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 13,750} + {\$ 480}{.31}\\
+
+&= {\$ 14,230}{.31}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $14,230,31.
+c.	Computation of total amount of loan:
+{eq}\begin{align*}
+
+{\rm\text{Exact}}\,\,{\rm\text{interest}} &= \,{\rm\text{Given}}\,\,{\rm\text{amount}} \times {\rm\text{rate}} \times \frac{{{\rm\text{No}}{\rm\text{.}}\,{\rm\text{of}}\,\,{\rm\text{days}}}}{{365}}\\
+
+&= \$ 2,500 \times 5\%  \times \frac{{30}}{{365}}\\
+
+&= \$ 10.27
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Loan}}\,\,{\rm\text{amount}} &= {\rm\text{Given}}\,\,{\rm\text{amount}} + {\rm\text{Exact}}\,\,{\rm\text{interest}}\\
+
+&= {\$ 2,500} + {\$ 10}{.27}\\
+
+&= {\$ 2,510}{.27}
+
+\end{align*}% MathType!End!2!1!
+
+{/eq}
+Therefore, the total amount of the loan is $2,510,27.","Loan Receiving money from a friend, family member, bank, or financial institution with the expectation of repaying the principal and interest over time is referred to as a loan. The principal is the loan amount, and the interest is the cost of receiving it."
+30,A term loan is usually characterized by:,a maturity of one to seven years.,a variable interest rate.,monthly or quarterly installment payments.,All of these options.,D,"The answer is
+d. All of these options.
+a. Correct. A term loan might have a maturity that will last from 1 year to 30 years.
+b. Correct. A term loan might be offered with a fixed interest rate or a floating interest rate.
+c. Correct. Payments for a term loan can be made on a fixed interval such as a monthly interval, a quarterly interval, a semiannual interval, etc.","Bank Loans: A bank loan is a financing option that a borrower can borrow the fund from a financial institution during a given term. In addition, the borrower will need to make regular payments while each payment includes both interest charges and payment principal."
+31,Which of the following is true when a company borrows money from the bank?,The amount borrowed will eventually become an expense on the company's income statement.,The interest that must be paid increases both assets and liabilities.,The interest associated with the loan will eventually be shown as an expense on the company's income statement.,"When the cash is received by the company, both assets and stockholders' equity are increased.",C,"The selected option is
+Option (c): Interest on the loan is shown as an expense in the income statement.
+a. The amount borrowed will be booked as a liability as it needs to be repaid and thus goes to the balance sheet. It will never become an expense on the income statement.
+b. The interest that is to be paid increases interest expense for the company and simultaneously increases the liability of interest payable on the company, but does not affect the assets of the company.
+c. The interest on the loan is an expense for the company as it is the cost that the company has to bear for taking such a loan from the bank. Thus, such interest is to be eventually booked as an expense on the income statement.
+d. When the cash is received as borrowing from the bank, assets would increase as cash balance increases with a simultaneous increase of liabilities as a bank loan is recorded as a liability. Hence, the shareholders' equity will not get affected in this case.","Bank Borrowing Bank Borrowing refers to taking money from a bank and repaying that over a predetermined fixed term during which interest at a fixed rate is applicable. Generally, companies go for such borrowings to raise funds for business purposes."
+32,"When a syndicated loan is oversubscribed, the borrower will have to make with a lower amount.",True,False,,,B,"The statement is false.  An oversubscribed loan is one that has more lenders ready to provide money than needed.  This means the company will obtain its full financing requirement and could obtain more, if necessary.","Bank Loan: A bank loan is a lending arrangement between a commercial bank and a corporation,  The bank gives the corporation money in exchange for interest and repayment at a specified future date."
+33,A bank loan that only incurs finance charges and payment obligations when used for a business is a:,promissory note.,line of credit.,note payable.,All of the above.,B,"The correct option is
+B)  line of credit.
+The line of credit or LOC is the present borrowing limit of a borrower that can reach at any time, and not paying that credit line borrowing amount incurs finance charges and payment obligations.
+Reasons for incorrect options:
+Option A. Promissory note is a written promise of repayment on a fixed future date.
+Option C. Notes payable are the short and long-term liabilities that a company takes from financiers.
+Option D: this option is incorrect, as the given information explains the line of credit.",Payment Obligation: The payment obligation is an obligation to the borrower for not repaying their loan amount according to the loan agreement with the lender or bank that provide loans. It can impact credit scores badly.
+34,"For relatively unknown companies, sums raised through syndicated lending tend to be smaller than borrowing directly from large commercial banks.",True,False,,,B,"The statement is false.  Sums raised through syndicated lending tend to be larger than borrowing directly from large commercial banks.  Moreover, syndicated lending is generally not available to relatively unknown companies.","Syndicated Loan: A syndicated loan is a lending arrangement where a loan a group of lenders, known as a syndicate, band together to provide the financing to a single borrower."
+35,Each payment on a mortgage note payable consists of,interest on the original balance of the loan only.,reduction of loan principal only.,interest on the original balance of the loan and reduction of loan principal.,interest on the unpaid balance of the loan and reduction of loan principal.,D,"The correct answer is Option D.
+The payment made for the mortgage note payable remains the same for every period. However, the proportion of interest and principal repayment changes every time. Initially, the installment amount consists of greater interest expense and lesser principal repayment. This interest expense keeps declining with every installment because the interest expense is calculated on the loan balance that is yet to be paid.
+Explanation for Incorrect Options:
+Option A: The installment/payment amount consists of principal repayment also. Thus, this option is incorrect.
+Option B: This is not correct because each payment on the bond payable includes the interest amount.
+Option C: The interest is not paid on the original balance. Rather, it is paid on the carrying value of the mortgage.",Loan: The amount borrowed to finance an entity's assets is termed a loan. There are different types of a loan based on their tenure or purpose. It is commonly classified as a short-term and long-term loan.
+36,"What is the term of a loan if $1,120 in interest is paid at 5.55% on the $10,000 principal?",2,3,4,5,A,"The correct answer is
+A. 2
+.
+We are given:
+The interest payment (I) is $1,120.
+The interest rate (i) is 5.5%.
+The loan amount (L) is $10,000.
+Calculation of the term of a loan (T) using term loan formula:
+{eq}\begin{align*}
+
+{\rm\text{Interest}} &= {\rm\text{Loan Amount}} \times {\rm\text{Interest Rate}} \times {\rm\text{Loan Term}}\\
+
+\$ 1,120 &= \$ 10,000 \times 5.55\%  \times {\rm\text{T}}\\
+
+{\rm\text{T}} &= \frac{{\$ 1,120}}{{\$ 555}}\\
+
+&= 2.03{\rm\text{ Years or }}2{\rm\text{ Years}}
+
+\end{align*}
+
+{/eq}
+The term of a loan is approximately 2 years.",Loan Term: A business association determines the loan term to manage the loan provisions that ensure the timely repayment of the debt. Managers use compound interest factors to determine the term of a loan.
+37,_____ loans are typically unsecured.,Equityb. Capitalc. Asset-basedd. Term,,,,D,"(d) Term
+loans are typically unsecured.
+The most frequent sort of unsecured borrowing is a term loan. As an unsecured loan, it is subject to a number of restrictions and requirements. These loans take a person's credentials into account, such as account balances, customer history, income, and credit scores. There is no collateral associated with this loan.
+a. Equity
+is incorrect because a home equity loan is a loan for a specific amount of money that is repaid over a specific time period and is secured by the equity in your home. If you cannot repay the loan, you risk losing your property to foreclosure.
+b. Capital
+is incorrect because a working capital loan is used to supplement temporary cash-flow deficits with outside funds. Working capital loans can be used for a variety of purposes, including improving a company's tactical position.
+c. Asset-based
+is incorrect because the practice of providing money in exchange for collateral is known as asset-based lending. An asset-based loan or line of credit can be secured by inventory, accounts receivable, equipment, or other property owned by the borrower.","Loans: A loan is when money is lent to another individual in exchange for repayment of the loan principal plus interest. Both parties must agree on the loan terms before any funds are released. Revolving loans or lines can be spent, repaid, and spent again, whereas term loans have a set rate and payment."
+38,A loan where the borrower receives money today and repays a single lump sum on a future date is called what kind of loan?,amortized,continuous,balloon,pure discount,D,"The correct option is
+D) pure discount
+: A pure discount loan is one that requires the entire loan amount to be paid together at the end of the period, including the principal amount as well as the interest amount. It is the future value of the loan that is repaid by the borrower.
+The incorrect options are:
+A) Amortized: Amortizing is unrolling the repayment loan amount over a period of time. An equated monthly installment (EMI) is paid based on the amortized original loan amount, reducing the original principal amount.
+B) Continuous: In a continuous loan, there is a limit and an expiration date for the entire adjustment. This contradicts the sentence stating that for a continuous loan, the borrower can repay a lump sum amount at a later date.
+C)Balloon: It is a type of loan that's not just a one-time payment. The concept of a balloon loan is that the payments are lower before the due date, resulting in a much larger amount by the end of the loan.","Loans: A loan is an amount of money that is provided by a bank or other financial institution to an individual, a company, or any other borrower.  It is financial assistance from the lender to the borrower in exchange for some additional interest on the original amount."
+39,A term loan is usually characterized by:,a maturity of one to seven years.,a variable interest rate.,monthly or quarterly installment payments.,All of these options.,D,"The answer is
+d. All of these options.
+a. Correct. A term loan might have a maturity that will last from 1 year to 30 years.
+b. Correct. A term loan might be offered with a fixed interest rate or a floating interest rate.
+c. Correct. Payments for a term loan can be made on a fixed interval such as a monthly interval, a quarterly interval, a semiannual interval, etc.","Bank Loans: A bank loan is a financing option that a borrower can borrow the fund from a financial institution during a given term. In addition, the borrower will need to make regular payments while each payment includes both interest charges and payment principal."
+40,"What is the term of a loan if $1,120 in interest is paid at 5.55% on the $10,000 principal?",2,3,4,5,A,"The correct answer is
+A. 2
+.
+We are given:
+The interest payment (I) is $1,120.
+The interest rate (i) is 5.5%.
+The loan amount (L) is $10,000.
+Calculation of the term of a loan (T) using term loan formula:
+{eq}\begin{align*}
+
+{\rm\text{Interest}} &= {\rm\text{Loan Amount}} \times {\rm\text{Interest Rate}} \times {\rm\text{Loan Term}}\\
+
+\$ 1,120 &= \$ 10,000 \times 5.55\%  \times {\rm\text{T}}\\
+
+{\rm\text{T}} &= \frac{{\$ 1,120}}{{\$ 555}}\\
+
+&= 2.03{\rm\text{ Years or }}2{\rm\text{ Years}}
+
+\end{align*}
+
+{/eq}
+The term of a loan is approximately 2 years.",Loan Term: A business association determines the loan term to manage the loan provisions that ensure the timely repayment of the debt. Managers use compound interest factors to determine the term of a loan.
+41,"For a loan of 100,000 at 10% over 5 years:",What is the annual payment?,Prepare the amortization schedule.,,,A,"Answer (a)
+{eq}\text{Installment} = \dfrac{\text{Loan Amount}}{\text{Cumulative Present value factor}}
+
+{/eq}
+We know that -
+{eq}\text{Cumulative present value factor (i%, n)} = \dfrac{1 - (1 + i)^{-n}}{i}
+
+{/eq}
+where,
+i = interest rate
+n = number of periods
+Here,
+i = 10%
+n = 5 years
+So,
+{eq}\text{Cumulative present value factor (10%, 5 years)} = \dfrac{1 - (1 + 0.10)^{-5}}{0.10}
+
+{/eq}
+{eq}\text{Cumulative present value factor (10%, 5 years)} = \dfrac{1 - (1.10)^{-5}}{0.10}
+
+{/eq}
+{eq}\text{Cumulative present value factor (10%, 5 years)} = 3.790786
+
+{/eq}
+{eq}\text{Installment} = \dfrac{\$100,000}{3.790786}
+
+{/eq}
+{eq}\text{Installment} = \$26,379.75
+
+{/eq}
+Answer (b)
+Year
+Beginning Balance
+Installment
+Interest
+Principal Repayment
+Ending Balance
+1
+$100,000.00
+$26,379.75
+$10,000.00
+$16,379.75
+$83,620.25
+2
+$83,620.25
+$26,379.75
+$8,362.03
+$18,017.72
+$65,602.53
+3
+$65,602.53
+$26,379.75
+$6,560.25
+$19,819.50
+$45,783.03
+4
+$45,783.03
+$26,379.75
+$4,578.30
+$21,801.45
+$23,981.58
+5
+$23,981.58
+$26,379.75
+$2,398.16
+$23,981.59
+-$0.01",Loan Amortization Schedule: A loan amortization schedule shows how much of the installment was interest and how much the principal repaid. It shows the ending balance after every installment.
+42,Sam received a $290 discount loan to purchase a stereo. The loan was offered at 16% for 90 days.,$279.4,$278.40,$277.40,,B,"Correct answer:
+1. Option b. $11.60
+2. Option b. $278.40
+Given:
+Loan value = $290
+Annual interest rate = 16%
+Loan period = 90 days
+Number of days in a year = 360 days (approximately)
+So, the interest would be:
+1. Interest:
+{eq}\begin{align*}
+
+{\rm\text{Interest}}\, &= \,{\rm\text{Loan value}}\, \times \,{\rm\text{Interest rate}}\, \times \dfrac{{{\rm\text{Loan period in days}}}}{{{\rm\text{Number of days in a year}}}}\\
+
+&= \$ 290\, \times \,16\% \, \times \dfrac{{90\,{\rm\text{days}}}}{{360\,{\rm\text{days}}}}\\
+
+&= \$ 11.60
+
+\end{align*}
+
+{/eq}
+Thus, the interest is
+$11.60.
+2. Proceeds:
+The proceeds can be computed by reducing the interest of $11.60 from the loan value of $290.
+{eq}\begin{align*}
+
+{\rm\text{Proceeds}}\, &= \,{\rm\text{Loan value}}\, - \,{\rm\text{Interest}}\\
+
+&= \$ 290\, - \,\$ 11.60\\
+
+&= \$ 278.40
+
+\end{align*}
+
+{/eq}
+Thus, the value of proceeds is
+$278.40.","Discount Loan: In a few cases, the interest payable on a loan is reduced, and the remaining balance is granted a loan for the borrower. This is referred to as a discount loan. The borrower will repay only the principal value, and no further interest will be paid."
+43,"True or false? With interest-only loans, the principal is never repaid.",True,False,,,B,"False.
+For an interest only loan, the borrower pays the loan interest for a given period of time and the loan principal is then repaid at a specified date in the future, either as a lumpsum or in parts.",Loans A loan is explained as a form of a debt where one party (the lender) agrees to issue a certain amount of money to another party (the borrower) and the amount issued is agreed to be repaid back in parts or as a lumpsum. Loans exist in different forms such as interest only loan and pure discount loans.
+44,"If your firm is short of cash and a telemarketer happens to call offering your firm a loan, you should _____.",check it out because your firm has nothing to lose,first go to your company's regular bank before considering a loan from an unfamiliar source,consider it if it is offered regardless of your firm's credit problems,seriously consider any source of a loan if your firm needs cash,B,"The correct option is
+Option b: first go to your company's regular bank before considering a loan from an unfamiliar source
+.
+Option a: Taking a loan will impact the firm's cash flow as it will involve paying down the interest and principal amount at a stipulated time. Therefore, it will result in an outflow of cash. This option would be an inaccurate decision for the firm.
+Option b: Banks always consider certain factors like credit score, repayment history, current income, and loan amount before lending funds to any firm. If a firm receives any loan offerings, it must consult with its regular banks for such matters and discuss relevant facts about loan taking, like assessing all costs, the ability of loan repayment, and interest rates, and checking any hidden gimmicky offers. Thus, this option is an accurate and correct decision.
+Option c: If credit problems are prevailing in a firm's operation, then it must avoid taking a loan as it will have insufficient collateral and inconsistent cash flows for repaying and availing the loan. Thus, this option is also inaccurate.
+Option d: If the firm considers loans as their funding source, then they are increasing liabilities for the firm which require cash availability at the time of their monthly installments. Rather, it must opt for other debt instruments to raise funds and fulfill cash requirements. Hence, this option is also inaccurate.","Debt Financing: Debt financing relates to one financing source where the entity obtains or borrows funds, either by borrowing from a financial institution or issuing debt instruments. Commonly, this practice is done for business expansion or working capital."
+45,"True or false? In consumer lending, indirect references from employers are the best source of income verification.",True,False,,,B,"The statement is
+FALSE.
+During the process of assessing a loan applicant, a verification from the employer of the loan applicant is considered as a direct verification. Note that, the loan applicant will need to authorize the employer for releasing income information before the lender can contact the employer for the verification process.","Consumer Loans: Consumer loans refer to loans obtained by individuals, which does not related business purposes. In practice, there are some common consumer loans such auto loans, mortgage loans, personal loans, student loans, etc."
+46,A term loan is usually characterized by:,a maturity of one to seven years,a variable interest rate,monthly or quarterly installment payments,All of these.,D,"The correct answer is option
+d. All of these
+A term loan is characterized by all these features, including a fixed maturity date, a fixed or variable interest rate, and regular installment payments.
+A) A maturity of one to seven years
+: A term loan is a loan that has a fixed maturity date, which might be anywhere between one and seven years, even if it occasionally lasts for ten years or longer. The borrower agrees to pay back the loan amount and any interest and fees within the specified period.
+B) A variable interest rate
+: If the loan has a variable interest rate, then the interest rate can fluctuate over the life of the loan based on shifts in the market. This means the borrower's monthly payments could also vary, depending on the current interest rate.
+C) Monthly or quarterly installment payments
+: Term loans are repaid through regular, scheduled payments over the loan term. These payments are typically made monthly or quarterly and include both principal and interest. The borrower agrees to make these payments on time, as specified in the loan agreement.","Term Loan: A term loan is a type of loan with a fixed maturity date and is reimbursed through systematic, planned payments over time. It generally does not charge penalties if not paid as per schedule."
+47,"Given a fully amortizing loan, which type of loan repayment schedule would result in the least amount of interest being paid over the life of the loan?",annual principal payments,semiannual principal payments (every 6 months),quarterly principal payments,monthly principal payments,A,The answer is a. annual principal payments.  More interest is paid on a loan as the frequency of its compounding increases.  This means loans with the most infrequent compounding schedules result in the lowest amount of total interest paid.,Fully amortizing loan: A fully amortizing loan is one that gradually reduces the principal to zero via a series of consistent payments.  The payments reflect a decreasing amount applied to interest and an increasing amount applied to the principal.
+48,"Ahmed took out a loan from his bank. He was charged a rate of 4% p.a. for 3 years. He paid the bank AED 2,400 in interest. How much money did Ahmed borrow from his bank?","AED 20,000",AED 288,"AED 17,600","AED 2,688",A,"The correct answer is
+option a. AED 20,000
+.
+Given information:
+Rate = 4% p.a.
+Period = 3 years
+Interest = AED 2,400
+The amount borrowed is known as the principal amount, which can be computed using the formula given below.
+{eq}\begin{aligned}
+
+\text{Borrowed}\ \text{amount}
+
+&=\frac{\text{Interest}}{\text{Rate}\times \text{Period}} \\
+
+&=\frac{2,400}{4\%\times 3} \\
+
+&=\frac{2,400}{0.12} \\
+
+&=20,000
+
+\end{aligned}
+
+{/eq}
+Thus, the money borrowed by Ahmed from bank is
+AED 20,000.","Loan: A loan is a liability created to raise funds for a short or long term. Loans can be taken from banks, financial institutions, individuals, etc. A certain amount of interest is the cost of borrowing."
+49,Each payment on a mortgage note payable consists of,interest on the original balance of the loan only.,reduction of loan principal only.,interest on the original balance of the loan and reduction of loan principal.,interest on the unpaid balance of the loan and reduction of loan principal.,D,"The correct answer is Option D.
+The payment made for the mortgage note payable remains the same for every period. However, the proportion of interest and principal repayment changes every time. Initially, the installment amount consists of greater interest expense and lesser principal repayment. This interest expense keeps declining with every installment because the interest expense is calculated on the loan balance that is yet to be paid.
+Explanation for Incorrect Options:
+Option A: The installment/payment amount consists of principal repayment also. Thus, this option is incorrect.
+Option B: This is not correct because each payment on the bond payable includes the interest amount.
+Option C: The interest is not paid on the original balance. Rather, it is paid on the carrying value of the mortgage.",Loan: The amount borrowed to finance an entity's assets is termed a loan. There are different types of a loan based on their tenure or purpose. It is commonly classified as a short-term and long-term loan.
+51,A term loan is usually characterized by:,a maturity of one to seven years,a variable interest rate,monthly or quarterly installment payments,All of these.,D,"The correct answer is option
+d. All of these
+A term loan is characterized by all these features, including a fixed maturity date, a fixed or variable interest rate, and regular installment payments.
+A) A maturity of one to seven years
+: A term loan is a loan that has a fixed maturity date, which might be anywhere between one and seven years, even if it occasionally lasts for ten years or longer. The borrower agrees to pay back the loan amount and any interest and fees within the specified period.
+B) A variable interest rate
+: If the loan has a variable interest rate, then the interest rate can fluctuate over the life of the loan based on shifts in the market. This means the borrower's monthly payments could also vary, depending on the current interest rate.
+C) Monthly or quarterly installment payments
+: Term loans are repaid through regular, scheduled payments over the loan term. These payments are typically made monthly or quarterly and include both principal and interest. The borrower agrees to make these payments on time, as specified in the loan agreement.","Term Loan: A term loan is a type of loan with a fixed maturity date and is reimbursed through systematic, planned payments over time. It generally does not charge penalties if not paid as per schedule."
+52,A loan estimate must include:,loan amount,loan payoff date,projected appraisal cost,title insurance premium,D,"The correct answer is option d.
+title insurance premium.
+The loan estimate is a document that contains all the information regarding the loan requested by an individual. The lender must deliver the borrower with this document within a maximum of 3 days after receiving the loan application.
+This document contains important information like the interest rate, the monthly payment that the borrower needs to pay, or the total cost of the loan, including the principal amount and the interest charged. It also provides information on taxes or the title insurance premium or how the future interest and payments for the borrower will change. This document is written in clear language, which the borrower can easily understand. It is designed to help better understand the terms and conditions the lender assigns to the borrower.
+Reasons for incorrect options:
+a. The borrower mentions the loan amount in the application provided to the lender for the loan request, and the loan estimate tells all the terms and conditions of the loan based on the loan amount requested by the borrower.
+b. Loan estimates provide information regarding all the costs, expenses, interest, payments, taxes, insurance, etc., that is, all the financial aspects of the loan.
+c. The projected appraisal cost is the cost that the lender incurs to check the capability of the borrower to repay the borrowed money. It is also not included in the loan estimate as the lender gets the loan estimate prepared based on the project appraisal done on the borrower.","Loan Estimate: A document that holds all the financial aspects of the loan, like the payments, interest, and total loan closing cost, and must be given by the lender to the borrower in three days, is called the loan estimate."
+53,"Dinero Bank offers you a $32,000, 7-year term loan at 12 percent annual interest. What will your annual loan payment be?","$7,455.81","$7,011.77","$7,719.50","$6,982.22",B,"The correct answer is b. $7,011.77
+From the question:
+Loan amount is $32,000
+Loan duration is 7 years
+Annual interest rate is 12%
+Calculation of annual loan payment:
+{eq}\begin{align*}{\rm{Annual}}\,{\rm{Loan}}\,{\rm{Payment}} &= \frac{{{\rm{rate}}\,\left( {{\rm{Present}}\,{\rm{Value}}} \right)}}{{1 - {{\left( {1 + {\rm{rate}}} \right)}^{ - {\rm{n}}}}}}\\ &= \frac{{0.12 \times \$ 32,000}}{{1 - {{\left( {1 + 0.12} \right)}^{ - 7}}}}\\& = \frac{{\$ 3,840}}{{0.547}}\\ &= \$ 7,011.77\end{align*}
+
+{/eq}
+Therefore, the annual loan payment is $7,011.77","Loan: When a borrower borrows some money on credit with a promise to repay that loan amount with the added interest of a specific rate after a period or in installments, that borrowed amount is known as a loan."
+54,"A bank loans you $20,000, amortizing over five years at 12% pay yearly. What will be your yearly payment?","$5,548","$3,148","$6,125","$6,664",A,"Option (A) is correct.
+Calculation of yearly payment:
+The interest rate (r) is 12%.
+The number of years (n) is 5.
+{eq}\begin{align*}
+
+{\rm\text{Yearly Payment}} &= \frac{{{\rm\text{Loan Amount}}}}{{PVIF{A_{\left( {r,n} \right)}}}}\\
+
+&= \frac{{\$ 20,000}}{{PVIF{A_{\left( {12\% ,5} \right)}}}}\\
+
+&= \frac{{\$ 20,000}}{{3.605}}\\
+
+&= \$ 5,548
+
+\end{align*}
+
+{/eq}","Loan Amortization: Amortization means allocation over a period, therefore, loan amortization refers to allocating a loan amount over a period. This allocation of loan amount includes both principal and interest amount."

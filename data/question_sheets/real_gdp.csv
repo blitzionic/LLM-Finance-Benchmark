@@ -1,0 +1,531 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"The table below contains data for the country of Batterland, which produces only waffles and pancakes. The base year is 2013.","$ 320,",$440,$760,$770,C,"The correct answer is
+Option C) $760
+.
+Real GDP indicates the total value created during a year through producing and providing goods and services, particularly at constant prices.
+In the given scenario, 2013 is the base year. Therefore, we will use the prices of 2013 for the quantities generated in 2011 to determine the real GDP in 2011.
+{eq}\begin{align*} \text{Real GDP in 2011} &= \text{(Quantity of Waffles in 2011 × Price of Waffles in 2013) + (Quantity of Pancakes in 2011 × Price of Pancakes in 2013)} \\ &= \rm {(100\,units × \$4) + (120\,units × \$3)} \\ &= \$400 + \$360\\ &= \$760 \end{align*} {/eq}","Factors Contributing to GDP: Factors contributing to GDP include government spending, consumer spending, business investment, and net exports. When these factors increase, GDP tends to grow as well. Per Capita GDP is calculated using the GDP and a country's total population, and it is a measure of the average economic output per person."
+2,"If a man marries his hired housekeeper, the value of GDP:",rises,"falls, but the value of national income rises","rises, but the value of national income falls",falls,D,"The correct option is
+d. Falls
+.
+We know that the GDP measures the monetary worth of all the furnished services and products that a country produces in a given period. In this case, the man marries the hired housekeeper, the housekeeper now becomes his wife; therefore, he will not pay her now for the domestic services done by her. So the value of GDP declines.","Income: In economics, income is the sum of money that a person can earn by supplying his/her labor services at a given period. There are other sources of income like interest rate, rent received, et cetera."
+3,Household production and the underground economy:,Is irrelevant because it constitutes only a very small fraction of GDP for  most countries,Are important but unaccounted for in the commerce Department's estimate of GDP,Are not considered formal production of goods and services therefore are not included in GDP accounting,Are fully accounted for in GDP figures gathered by the commerce department,B,"The correct option is
+B. Are important but unaccounted for in the Commerce Department's estimate of GDP
+.
+The production made by households for mutual help and the unaccounted/illegal production of services are products are not included while estimating the GDP as the data is not available regarding these services. Furthermore, these services and products are hidden to be estimated.  Hence, both the household production and underground economy are crucial but unaccounted for by the Commerce Department while estimating the GDP of a nation.","Household: The household is considered as one of the production factors that helps a nation to produce its final services and products by rendering its labor services at an existing wage rate. Thus, the household comprises labor services in an economy."
+4,"Suppose that a country's GDP rises from $5000 to $8000 and over the same period, prices have risen by 50%. In this case, real GDP has",risen.,fallen.,stayed the same.,"risen, then fallen over the period.",B,"The correct answer choice is
+B. fallen
+Determine the percentage change in the country's GDP as below:
+{eq}\begin{aligned}   \%\text{ change in GDP}&=\frac{\text{Initial GDP}-\text{New GDP}}{\text{Initial GDP}}\times 100 \\   &=\frac{\$8,000-\$5,000}{\$8,000}\times 100 \\   &=37.5  \end{aligned}
+
+{/eq}
+The increase in nominal GPP is 37.5% while the price by 50%. Since the real GDP equals the nominal GDP divided by the price level, a higher increase in prices relative to the nominal GDP implies a fall in the real GDP.
+Additional information:
+A. The real GDP will decrease and not increase. As such, the option is incorrect.
+C. Since the percentage change in nominal GDP and the price level are not the same, the real GDP will change rather than stay the same. As such, the option is incorrect.
+D. The real GDP will not rise since the prices increase more than the nominal GDP. This makes the option choice incorrect.","Real GDP vs Nominal GDP: The GDP or the gross domestic product can be defined as the money value of all the final goods and services that are produced domestically by a country during a given fiscal year. When one talks about the nominal GDP of a particular year, it implies the value of all final goods and services produced during that year measured at the price level of that year only. On the other hand, the real GDP  for a given year is estimated by measuring the value of that year's products based on the price level in the base year."
+5,"If spending exceeds output, real GDP will decline as firms cut back on production.",True,False,,,B,"In Economics, spending is another term for Consumption, and it is one of the major components of GDP. Effectively spending is the product of output (quantity) and its prices, and this is called Nominal GDP.  So, when spending exceeds output, it means spending (Nominal GDP) increases due to an increase in prices. Higher prices will encourage firms to produce more since at higher prices they are more likely to make profits. Thus, the given statement is
+b.false.","Real GDP Real GDP refers to the market value of domestically produced goods and services after controlling for the changes in prices. Mathematically, Real GDP is given as: {eq}Real \ GDP = Quantity \ in \ the \ current  \ year \times Prices \ in \ the \ base \ year (price  \  held \ constant)
+
+{/eq}"
+6,"If the money supply is $100, the velocity of money is 4, and the price level is 2.5, find real GDP.",10,62.5,101.5,160,A,"The real GDP will be computed using the following formula:
+{eq}\text{Money supply} \times \text{Velocity of money = Price level} \times \text{Real GDP}
+
+{/eq}
+Therefore, substituting the information given to our formula, we get:
+{eq}\$100 \times 4 = 2.5 \times \text{Real GDP}
+
+{/eq}
+{eq}\$400  = 2.5 \times \text{Real GDP}
+
+{/eq}
+{eq}\text{Real GDP}=\dfrac{ \$400}{2.5}
+
+{/eq}
+{eq}\text{Real GDP}=\$160
+
+{/eq}","Money Features: There are various forms of money. One of them is paper money, commonly known as fiat money. Some of the features of money include:"
+7,Which of the following accurately characterizes the distribution of real GDP per capita internationally?,Real GDP per capita is relatively uniform across countries.,Real GDP per capita varies greatly across countries.,The disparity between wealthy countries and poor countries in real GDP per person has become smaller over the last 1000 years.,Why some countries develop more quickly than others is a complete mystery.,B,"The correct option is
+B) The real GDP per capita varies greatly across countries.
+Every country has different resources, supply, demand, and economic and political conditions. These factors decide the GDP of the country. The country must have rich resources and political intent to boost its GDP and, hence, its real GDP per capita. So real GDP per capita varies greatly across countries. The per capita GDP of America is far different than that of India.
+The reason for wrong options.
+a) The GDP is never uniform and ever-changing.
+c) The GDP gap has increased in the past 1000 years.
+d) There is no mystery because some countries have rich natural resources and political intent.","Gross Domestic Product: Gross domestic product is the monetary outcome of the production activities in the country for a period. A developed country has higher economic activities and, hence, a higher GDP."
+8,Suppose you are given the following data:,"Less than $400,000","Between $400,000 and $550,000","Between $550,000 and $700,000","Between $700,000 and $850,000",C,"The correct option is
+Option (c.)
+.
+The GDP deflator can be calculated by taking the ratio between the nominal and real GDP and then multiplying it by 100. It can be denoted as:
+{eq}{\rm\ GDP}\,{\rm\ Deflator}\,{\rm\  = }\,\dfrac{{{\rm\ Nominal}\,{\rm\ GDP}}}{{{\rm\ Real}\,{\rm\ GDP}}}{\rm{ \times 100}}
+
+{/eq}
+The given value of nominal GDP is $700,000, and the value of the GDP deflator is 120. Thus, the real GDP can be calculated as follows:
+{eq}\begin{align*}
+
+{\rm\ GDP}\,{\rm\ Deflator}\,&{\rm\ = }\,\dfrac{{{\rm\ Nominal}\,{\rm\ GDP}}}{{{\rm\ Real}\,{\rm\ GDP}}}{\rm{ \times 100}}\\
+
+&{\rm\ 120 = }\dfrac{{{\rm\ 700,000}}}{{{\rm\ Real}\,{\rm\ GDP}}}{\rm{ \times 100}}\\
+
+{\rm\ Real}\,&{\rm\ GDP = }\dfrac{{{\rm\ 700,000}}}{{{\rm\ 120}}}{\rm{ \times 100}}\\
+
+&= 583,333.333
+
+\end{align*}
+
+{/eq}
+Thus, the real GDP for 2013 is $583,333.333
+.
+Reasons for incorrect options are
+Option (a.)
+The value of real GDP, as calculated by the formula of GDP deflator, is found to be $583,333.333, which is greater than $400,000.
+Option (b.)
+The real GDP from the calculation does not fall between $400,000 and $550,000.
+Option (d.)
+The real GDP calculated is the ratio between the nominal GDP and the GDP deflator, which is found to be $583,333.333 and is not within the given range.
+Option (e.)
+The value of the real GDP is less than $850,000, and it is found to be within the range of $550,000 and $700,000.","GDP Deflator: In economic terms, the GDP deflator measures the price level of all final commodities and services produced within an economy in a given period. It is similar to the consumer price index (CPI) as it is also used to measure an economy's inflation or deflation rate. However, the GDP deflator considers all final commodities and not a certain commodity bundle."
+9,"If real GDP per capita in the United States is currently $50,000 and grows at 2.5% per year, how many years will it take to reach $200,000?",Approximately 60 yearsB. Approximately 56 yearsC. Approximately 84 yearsD. Approximately 28 years,,,,B,"The formula for calculating the future value of real GDP can be computed by using the following formula:
+{eq}\rm GDP_{t+1} = GDP_{t}(1+g)^t
+
+{/eq}, where:
+{eq}\rm GDP_{t+1}
+
+{/eq} is the future value of real GDP per capita
+{eq}\rm GDP_{t}
+
+{/eq} is the current value of real GDP per capita
+{eq}\rm g
+
+{/eq} is the growth rate of real GDP (in %)
+{eq}\rm t
+
+{/eq} is the time in years
+To calculate the number of years,
+t
+, we'll substitute the given values into our formula to get:
+{eq}\begin{align*}
+
+\rm GDP_{t+1} &= \rm GDP_{t}(1+g)^t \\
+
+\rm 200000 &= \rm 50000(1+0.025)^t \\
+
+\rm \frac{200000}{50000} &= \rm (1+0.025)^t  \\
+
+\rm 4&=\rm (1.025)^t  \\
+
+\rm \ln(4) &= \rm t\ln(1.025) \  (\text{Introducing logs}) \\
+
+\rm t &= \rm \frac{\ln(4)}{ln(1.025)} \\
+
+\rm t &= \rm 56 \  \text{years}  \\
+
+\end{align*}
+
+{/eq}
+Thus, the correct solution is
+B. Approximately 56 years.","Real GDP per Capita: Real GDP per capita is the market value of goods and services per person in the economy measured at constant prices. Mathematically, Real GDP per capita is given by the following equation: {eq}\text{Real GDP Per Capita}=\frac{\text{Real GDP}}{\text{Population}}
+
+{/eq}"
+10,The long-term increase in the real GDP is called:,Economic growth.,Business cycles.,Economic progress.,Technological progress.,A,"The correct option is
+a). Economic growth.
+The fact that the GDP is rising means that production and consumption activity in the economy are increasing. So overall, this is economic growth because consumption is the ultimate activity of economic activities. Due to higher production, the unemployment rate is also low, and the majority of people have purchasing power in the economy.
+The explanation for other options
+Option b is not correct because ups and down the economy is a business cycle
+Option c is not correct because economic progress only compares the production activity.
+Option d is not correct because technological progress is an enhancement in technology.","Real GDP: The real gross domestic product is the monetary value of the produced goods and services in the economy and is also adjusted for inflation. Higher real GDP is better for any economy, and it indicates economic prosperity."
+11,GDP is an important indicator because it is used as a measure of all of the following except,environmental quality.,average living standards.,economic growth.,business-cycle fluctuations.,A,"The correct answer is option a - environmental quality.
+a.
+The option is true. Environmental quality is not considered a part of GDP. The reason is, environmental quality does not mean it adds to the total amount of commodities that are produced in the economy. Environmental quality does not mean that it will add up as a part of GDP as it does not produce any output to the economy.
+b.
+GDP is considered to be the market value of all finished commodities that are produced in an economy. Therefore, GDP does not measure the average standard of living. Hence, it is an incorrect option.
+c.
+The option is false as GDP ensures the amount of economic growth in the economy. The reason being when the GDP increases the economic growth of the economy also increases.
+d.
+The option is not true as GDP is an important indicator for fluctuations in the business cycle. GDP indicates whether an economy is going through inflation, recession, or depression.
+e.
+The option is false. GDP refers to the market value of commodities that are produced in an economy during a particular period. GDP does not measure the average income of households.","Economic Growth Economic growth refers to the rise in the production of commodities in a country during a given period.  Thus, it is measured by the aggregate value of the commodities that is measured by the GDP of the country."
+12,Individuals live and work as both individual and aggregate economic entities.,True,False,,,A,"The correct answer is a-
+True.
+The individual production that occurs in the economy is a part of the individual supply and is a part of the aggregate supply. Thus, it can be said that the output produced by an individual supplier becomes a part of the aggregate entities. Another example is the combination of the individual demand makes the market demand which is also a part of the aggregate measure.","Economic Inputs In a free-market economy, there are various inputs that are required to produce a certain level of output. Some of the inputs required to produce a certain level of output are land, labor, and capital."
+13,Which of the following is a shortcoming of GDP?,it excludes changes in inventories,it includes an estimate of illegal transactions,it excludes quality of products,it includes business investment spending,C,"The answer is
+c, it excludes quality of products
+. It is correct to say that GDP is an imperfect macroeconomic indicator. GDP only captures spending on newly created goods and services within a certain period of time. GDP can not capture changes in the quality of the goods and services purchased. Sometimes quality improvements cause more spending and higher prices, while other times the economy creates higher quality products at lower prices and causes less spending. For example, modern cars can drive more miles than older cars, which means households might purchase a new car less frequently than they had in prior years. Alternatively, clothing might be produced at a lower quality causing consumers to purchase clothing more frequently. GDP can not capture these quality differences, only the quanties of goods and services purchased by domestic households, firms, governments and foreigners.
+Answers A and D, refer the part of GDP captured by spending by private businesses. This part of GDP is referred to as investment and is not a shortcoming of GDP calculation. Most countries do not include an estimate of illegal transactions (also called black market spending) in their GDP, which is not a shortcoming.","Macroeconomics: Macroeconomics is a social science that seeks to answer questions about the overall performance of an economy, usually a country. Typically, questions are answered using either positive economic statements or normative economic statements. Positive economic statements or answers are given just as facts or data. Positive statements are not debated, whereas normative economic statements are given with some sort of opinion or philosophy. Normative statements and answers can and are debated by economists and policymakers. Often a normative statement will have a ""should"" or ""would improve"" in the answer. Both types of answers are helpful to creating monetary and fiscal policies for countries."
+14,Comparing real GDP between two consecutive years is most useful in determining which economic measurement?,equilibrium price,equity,economic growth,exchange rates,C,"The best answer is c.
+Comparing real GDP between two consecutive years is most useful in determining which economic measurement?
+a. equilibrium price
+No, the equilibrium price results from the interaction of supply and demand in a market.
+b. equity
+No, equity means the value of shares of stock issued by a company.
+c. economic growth
+Yes, this is the best answer. Gross Domestic Product (GDP) measures economic growth after adjusting for inflation.
+d. exchange rates
+No, exchange rates determine the relative value of different currencies.",Real GDP: Real GDP is short for real Gross Domestic Product (GDP). Gross Domestic Product measures the economic output of an economy over time. Real GDP means the inflation value has been adjusted out of the number.
+15,Which of the following is most commonly used to monitor short-run changes in economic activity?,The inflation rate.,Real GDP.,Aggregate demand.,Aggregate supply.,B,"Option B, Real GDP
+is correct.
+Real GDP is measured as the total value of goods and services produced in an economy. Real GDP is adjusted for inflation and monitors short-run changes in economic activity. It measures how the economy is performing in the short term.
+Option A: The inflation rate is the rate at which the price of goods increases over a period of time. Hence, option A is wrong.
+Option C: Aggregate demand measures the total demand for goods produced in an economy. It consists of consumer goods, exports, imports, etc., and does not monitor deviations in the short term. Hence, option C is wrong.
+Option D: Aggregate supply is the total quantity produced by producers in a given period at a given price. Aggregate supply has a positive correlation with the price level and aggregate supply. Hence, option D is wrong.","Economic Fluctuations: Economic fluctuations are determined by business cycles. During a recession, output falls, unemployment increases, and central banks decrease interest rates to bring the economy back on track. At their peak, output and employment surged, followed by a surge in interest rates."
+16,"Consider an economy that produces only DVDs and DVD players. Last year, 10 DVDs were sold at $20 each, and 5 DVD players were sold at $100 each, while this year 15 DVDs were sold at $10 each, and 10 DVD players were sold at $50 each. Real GDP this year using last year as the base year is:","$1,300",$100,$700,$300,A,"The correct option is
+option a)
+.
+As known, real GDP is calculated using the base year rate and given year quantities. The real GDP in the given year for 15 DVDs and 10 DVD players at base year rates will be:
+{eq}\begin{align*}
+
+{\rm{Real GDP}} &= (\$ 20 \times 15) + (\$ 100 \times 10)\\
+
+&= \$ 300 + \$ 1000\\
+
+&= \$ 1300
+
+\end{align*}
+
+{/eq}
+Hence the real GDP for the given year, taking the last year as the base year, is $1300.
+Reasons for incorrect options are
+Option b)
+The given figure is the rate of the DVD player in the base year.
+Option c)
+The given figure has no relevance to the given problem.
+Option d)
+The given figure of $300 is the earnings made by selling DVDs in the current year at base year rates.","GDP - Real and Nominal: GDP accounting is the total earnings in a nation from the sale of ultimate items and amenities. There are two kinds of GDP accounting based on the period in consideration, real and nominal. When the base along with the current year is considered, the real GDP is calculated, and when only the current year is considered, nominal GDP is calculated."
+17,GDP measured from the expenditure side include(s):,Tax payments,Spending on capital goods,Purchases of public goods and services,Foreign spending on American output,A,"GDP, or Gross Domestic Product, is a measure of the total value of goods and services produced in an economy. It can be measured in two ways: from the expenditure side and from the production side. When GDP is measured from the expenditure side, it includes the total spending on goods and services by households, businesses, and governments, as well as spending by foreigners on American-produced goods and services. This includes consumer spending on goods and services, investment in capital goods such as machinery and equipment, government spending on public goods and services, and exports. It does not include tax payments, as taxes are not considered a form of expenditure. So, the correct answers are:
+b. Spending on capital goods
+c. Purchases of public goods and services
+d. Foreign spending on American output","Macroeconomics: Macroeconomics is the branch of economics that studies the behavior and performance of an economy as a whole, rather than individual markets or households. It focuses on the aggregate outcomes of the economy, such as the total level of output, employment, inflation, and the trade balance."
+18,"If real GDP rose in 2008, we can conclude that:",the price level rose in 2008.,production rose in 2008.,neither production nor the price level rose in 2008.,"either production, or the price level, or both, rose in 2008.",B,"The correct answer is:
+B. production rose in 2008.
+The ratio between the nominal GDP and the price level yields the real GDP.
+{eq}\text{ Real GDP}=\dfrac{\text{ Nominal GDP}}{\text{ Price level}}
+
+{/eq}
+Therefore, if the real GDP rose in 2008, we can conclude that of the price level remains constant, then there was an increase in production in 2008.","Real GDP: The real gross domestic product is defined as the gross domestic product that has been measured at the prices of the base year. In other words, it is the GDP that has no effects of inflation."
+19,,Real GDP fell in Zorn.,Population fell in Alta.,Population growth reduced Alta's real GDP growth.,Alta's real GDP grew more rapidly than Zorn's real GDP.,D,"The correct answer is
+d. Alta's real GDP grew more rapidly than Zorn's real GDP
+.
+The real GDP growth of Alta is $100, from $2,100 to $2,200 between years 2 and 3.
+{eq}\begin{align*} \therefore \text{The rate of growth of real GDP for Alta between years 2 and 3 }&= \dfrac{\text{year 3 GDP }-\text{year 2 GDP}}{\text{year 2 GDP}} \\ &=\dfrac{2,200-2,100}{2,100} \\ &=\dfrac{100}{2,100} \\ &=0.0476\\ &=4.76\% \end{align*} {/eq}
+The real GDP growth of Zorn is $2,000, from $152,000 to $154,000 between years 2 and 3.
+{eq}\begin{align*} \therefore \text{The rate of growth of real GDP for Zorn between years 2 and 3 }&= \dfrac{\text{year 3 GDP }-\text{year 2 GDP}}{\text{year 2 GDP}} \\ &=\dfrac{154,000-152,000}{152,000} \\ &=\dfrac{2,000}{152,000} \\ &=0.0132 \\ &= 1.32\% \end{align*} {/eq}
+Since 4.76% represents a greater growth rate as compared to 1.35%, Alta's real GDP grew more rapidly than Zorn's real GDP between the years 2 and 3.
+The real GDP of Zorn increased from $152,000 to $154,000 between years 2 and 3, as seen in the given table. So, the real GDP did not fall in Zorn between years 2 and 3, and hence answer option a. is incorrect.
+The population in Alta increased from 202 in year 2 to 210 in year 3, as seen in the given table. So, the population did not fall in Alta between years 2 and 3, and hence answer option b. is incorrect.
+The population growth in Alta is 2, from 200 to 202 between years 1 and 2 and it is 8, from 202 to 210 between years 2 and 3. Thus, there is an increase in the population growth of Alta between years 2 and 3 as compared to the previous period. The real GDP growth of Alta is $100, from $2,000 to $2,100 between years 1 and 2 and it is $100, from $2,100 to $2,200 between years 2 and 3. Thus, there is no change in the real GDP growth of Alta between years 2 and 3 as compared to the previous period. Therefore, although there is population growth in Alta between years 2 and 3, there has been no reduction in its real GDP growth during this period. Hence, answer option c. is incorrect.","Real GDP: Real Gross Domestic Product (Real GDP) is a measure of the total value, adjusted for changes in price levels, i.e., inflation or deflation, of all final goods and services produced within an economy over a specific period."
+20,Which of the following is included in GDP?,value of existing home sales,value of stock purchases,child care performed by family member,value of consumer spending,D,"The correct solution to this problem is provided by
+option D: the value of consumer spending
+.
+Using the expenditure approach, the gross domestic product (GDP) of a country can be calculated using the formula below.
+{eq}GDP= C + G + I + NX
+
+{/eq}
+C is consumption (choice D is correct)
+G is government spending
+I is the business investment (choice B is incorrect)
+NX is net export
+As can be observed above, 'child care', 'value of stock purchases', and the 'sales value of a house' are not included in the calculation of a country's GDP.","Gross Domestic Product: The gross domestic product (GDP) of a country is one of the indicators that can be used to evaluate that country's economy. There are at least three approaches that can be used to calculate GDP: the spending approach, the income approach, and the production approach."
+21,"In general, the _____ the wealth of people in a country, the better the opportunity a firm has in that particular country.",less stable,greater,more equal,more diverse,B,"The answer is
+B. greater
+Wealth refers to a country's economic position. When wealth is up, employment is high and consumer spending is high. Therefore, firms should seek to enter countries with high income and spending.","Gross Domestic Product Gross Domestic Product, or GDP, is a measure of the total income and expenditures a country has within a specified time period. Generally speaking, a high GDP is indicative of a wealthy country."
+22,What is the difference between nominal GDP and real GDP?,Real GDP includes used goods and services,Real GDP is adjusted for inflation,Nominal GDP is adjusted  for inflation,There is no difference,B,"The correct answer choice is
+B. Real GDP is adjusted for inflation
+Nominal GDP is defined as the value of all final commodities and the services that an economy produces during any given period of time (usually an year). Nominal GDP is determined as the price level in the economy times the quantity of final commodities and services produced in the year. The real GDP, on the other hand, is the value of all the final commodities and services adjusted for the changes in the price level (also termed as inflation). The real GDP determines the increase in GDP that has happened owing to an increase in the production of output and not because of the changes in the price level.
+A. The option is incorrect since neither the nominal GDP nor the real GDP includes the used goods.
+C. The option is incorrect since the real GDP in inflation adjusted rather than the nominal GDP.
+D. The option is not a correct answer choice since the real GDP is a different concept from the Nominal GDP.",Defining GDP: GDP is an abbreviation for the Gross domestic product of the economy. The GDP is a measure of the economic growth of a country and includes the value of the final goods and services produced in the economy. A higher GDP implies increased economic growth while a decreased GDP implies restrained growth.
+23,"If an economy has sticky prices and demand unexpectedly increases, you would expect the economy's real GDP to:",Increase.,Decrease.,Remain the same.,,A,"The correct option is
+a. Increase
+.
+If an economy has sticky prices, it means the price tends to remain at the same level or change slowly, irrespective of the change in the cost of producing and selling products and services. Therefore, in an economy, when the economy has sticky prices and an unexpected increase in the demand causes the real GDP to rise by keeping the inflation rate stable.","Demand: In economics, demand refers to the units of a product or service that a buyer is willing and able to buy at each price level. Usually, as the price declines, the quantity demanded by buyers will rise, and another way around."
+24,Policies aimed to reduce the level of GDP are called:,stabilization policiesB. policies with inside lagsC. contractionary policiesD. expansionary policies,,,,C,"Policies aimed to reduce the level of GDP are called
+(C) Contractionary policies
+.
+Contractionary policies refer to macroeconomic policies that are aimed to slow down economic activities and control inflationary pressure. To control the inflationary pressure, the government and the central bank take action by increasing the interest rate, increasing government spending, and raising tax rates. When the tax rates and the interest rate are higher, the customer's purchasing power is reduced, and they purchase less. This demotivates the production and supply of products and services, resulting in lower economic activity.
+The other options are incorrect:
+A. stabilization policies
+is not correct because stabilization policies are used to stabilize the economies from fluctuations in economic activity.
+B. policies with inside lags
+is not correct because inside lag shows only the time the policies show actual results.
+D. expansionary policies
+is not correct because they are the opposite of contractionary policies and are used to expand economic activities.","Federal Reserve Bank: The Federal Reserve Bank (the Fed) has the right to issue monetary policies to control inflation and unemployment. It is an independent institution that, in theory, is not influenced by political pressure."
+25,"Answer true or false. Explain your answer. If the U.S. government reports that GDP in the third quater was $16 trillion at an annual rate, then the amount of income and expenditure during quater three was $4 trillion.",True,False,,,A,"*True, If the U.S. government reports that GDP in the third quarter was $16 trillion at an annual rate, then the amount of income and expenditure during quarter three was $4 trillion.
+GDP is a combination of all private, public consumption, investment, cost, and foreign balance of trade. The report shows that GDP was %16 trillion at an annual rate, so for each quarter, the income and expenditure shall be $4 trillion. Hence, the statement is TRUE.","The U.S. GDP: The United States of America's (USA) Gross Domestic Product (GDP) is the largest GDP in the world. Further, GDP determines the growth of a nation's economic development."
+26,Real GDP is nominal GDP adjusted for changes in,the price level.,the inflation rate.,population.,the unemployment rate.,A,"Real GDP is nominal GDP adjusted for changes in
+A. the price level.
+Real GDP is calculated as the difference between nominal GDP and the inflation rate. The inflation rate is the rate of changes in the price level. That is, real GDP is adjusted for inflation and due to this, it gives an accurate measurement for growth.
+Analysis of incorrect options
+B. the inflation rate is incorrect because real GDP is adjusted for inflation rate rather than changes in the inflation rate.
+C. population is incorrect because real GDP adjusted for the population is GDP per capita.
+D. the unemployment rate is incorrect because there is no relationship between nominal GDP with the unemployment rate in determining real GDP.","Nominal GDP: Nominal GDP is defined as the total amount of goods and services produced within an economic territory and measured using the prices of the current year. In the case of measurements in real GDP, base year prices are used to calculate. Generally, real GDP is deemed to be a better economic indicator."
+27,"Because of _____ resource prices, Green GDP has been _____.",rising; overestimated,falling; overestimate,rising; underestimated,falling; underestimated,C,"The correct option is (c.)
+The country's progress is accumulated by the condition of the people, environmental sustainability, and increased economic growth.
+The Green GDP enhances the services provided by natural resources. It helps in examining the biodiversity and environmental losses within the country. The rising of the resources price will underestimate the Green GDP because the green GDP focuses on environmental sustainability and concerns the interrelation of the market with nature.
+Underestimating the green GDP will cause adverse effects on the sustainability and allocation of resources. The inappropriate use of resources will cause harm to the environment as well as to humankind. The resources acquired by the industrialist will be affected as there will be no resources left for productivity, and the country will lower its GDP.
+Thus, underestimating the Green GDP will cause severe outcomes for the environment and simultaneously rises the prices of the resources that will affect the country's growth.
+Reason for incorrect answers:
+Option (a.)
+The rising prices of the resources and overestimating the green GDP will only create losses to the environment and other sectors because GDP and Green GDP work simultaneously for the country's growth.
+Option (b.)
+If the fall in resource price will affect GDP, the estimate of green GDP does not provide satisfaction because the overestimation of green GDP only depends on preserving the social and environmental costs.
+Option (d)
+The green GDP states the social benefits for society. The resource price fall will underestimate the green GDP and will not occur because of this environmental loss.",Green GDP: The green gross domestic product is the measure of the economic growth with environmental factors that will encourage the country's simultaneous rate of actual GDP. The green GDP concerns environmental sustainability and the country's growth rate.
+28,Real GDP is calculated using:,Actual figures about prices and quantities gathered from throughout the economy as opposed to nominal figures obtained from an economic model,"Only the real quantities of goods and services, not the prices",The prices of goods and services in a base year,The prices of goods and services in the current year,C,"The correct option is
+C. The prices of goods and services in a base year
+.
+The real GDP in economics is defined as the inflation-adjusted measure to determine the GDP of a nation. So, while estimating the real GDP of a nation, the base price level and the current year quantity are considered. Hence, it can be inferred the real GDP is estimated by using the prices of products and services in a base year.","Economic Growth: In economics, economic growth is defined as the increment in the real GDP of a nation between two specific periods. A rise in economic growth is an indicator of a nation's progress and a decline in it depicts a slow down in the economy."
+29,"Since GDP measures the nation's output at current market prices, then if a good or service is not exchanged through the marketplace, it cannot and does not go into GDP.",False.,True.,,,A,"The correct answer is option
+a. False.
+A country's gross domestic product (GDP) denotes the market value of all the finished goods and services produced during a given period. It may be calculated by using the income approach, expenditure approach, or the value-added approach. Thus, it does not take into account the exchange or transaction of goods and services in the marketplace.","Gross Domestic Product (GDP): Several macroeconomic indicators may be used to measure the economic performance of various countries in a particular industry. Some examples are gross domestic product (GDP), net domestic product (NDP), gross national product (GNP), and net national product (NNP)."
+30,"Suppose you paid {eq}\$2.50
+
+{/eq} for a beer in 2004 and {eq}\$3
+
+{/eq} exactly a year later. The price in 2004 is measured in _____ dollars; the price in 2005 is measured in _____ dollars.",real; real.,nominal; real.,real; nominal.,nominal; nominal.,D,"The 2004 and 2005 prices are stated as they are without being controlled for inflation or providing the inflation rate level. Thus, these prices are both
+nominal
+. The correct solution is
+D) nominal; nominal.
+Option A) is incorrect because there is no information about deriving real estimates using the inflation rate from the nominal information.
+Option B) is also partly incorrect. The 2005 price is not real since it has not been controlled for the inflation level.
+Option C) is also partly incorrect. The 2004 price is not real since it has not been adjusted for the inflation rate.","Real Terms A variable, such as the price of goods, is measured in real terms if it has been adjusted to the overall level of inflation in the economy. It is essential to adjust for the value of inflation because it depletes the true purchasing power of money."
+31,The following questions relate to the aggregate expenditures model:,"If Ca is $100, Ig is $50, Xn is -$10, and G is $30, what is the economy's equilibrium GDP?","If real GDP in an economy is currently $200, Ca is $100, Ig is $50, Xn is -$10, and G is $30, will the economy's real GDP rise, fall, or stay the same?","Suppose that fall-employment (and full-capacity) output in an economy is $200. If Ca is $150, Ig is $50, Xn is -$10, and G is $30, what will be the macroeconomic result?",,A,"Part a)
+Given:
+Ca: $100
+Ig: $50
+G: $30
+Xn: -$10
+Calculation of equilibrium GDP:
+{eq}\begin{aligned}   \text{GDP}&=\text{C}+\text{I}+\text{G}+\text{NX} \\   &=100+50+30-10 \\   &=\$170 \\ \end{aligned}
+
+{/eq}
+The value of GDP is $170
+Part b)
+Given that the current real GDP is $200 and the GDP in the previous part is $170. Therefore the real GDP of the economy will rise.
+Part c)
+Given:
+Full employment level of output: $200.
+Ca: $150
+Ig: $50
+G: $30
+Xn: -$10
+Calculation of GDP using the above-given values:
+{eq}\begin{aligned}   \text{GDP}&=\text{C}+\text{I}+\text{G}+\text{NX} \\   &=150+50+30-10 \\   &=\$220 \\ \end{aligned}
+
+{/eq}
+There is an inflationary gap in the economy since the level of output produced is higher than the full employment output.","GDP Calculation The commodities and services that have been produced within a nation and have been offered for sale in the market is counted as a part of the GDP. For example, a farmer producing his own food is not counted in the GDP but the crops which are available for sale in the market is included in GDP calculation."
+32,"If real GDP increases, we know for sure that",output has risen.,prices have risen.,prices have risen but output has remained constant.,prices have remained constant.,A,"The correct option is A.
+If real GDP increases, it is known for sure that output has risen.
+The real GDP is the measurement of the value of final items and services in an economy at the base year prices. The base year is chosen on the basis that the year should be normal, i.e., no natural calamities or other political disturbances occur. Moreover, it should not be an ancient year but close to the present. The real GDP is said to present a clear picture of the economy, as it is measured in the base year, so an increase in its value signifies an increase in the economy's productivity. The formula for real GDP is:
+{eq}{\rm{Real GDP}}\;{\rm{ = }}\;\dfrac{{N\;GDP}}{{GDP\;{\rm{Deflator}}}}
+
+{/eq}
+Real GDP is the ratio of nominal GDP (N GDP) to GDP deflator. The deflator is the deviation of the current price from the base year price, and nominal GDP is the value of final items and services at current prices. Hence, real GDP depicts the actual growth in an economy.
+Reasons for incorrect options:
+Option B.
+The GDP deflator shows the variation in prices.
+Option C.
+The rising prices while the output remains the same can be known from nominal GDP.
+Option D.
+If the GDP deflator is one, then it can be said that the prices have not changed.","Types of GDP: The accounting of GDP depends on the data used for it. Based on the time of data used, GDP is of two types: Real and Nominal. The difference between the two GDPs is the prices considered in accounting. Nominal GDP takes into account the price variation, whereas real GDP does not."
+33,True or false? Economists are concerned about inflation because real GDP is necessarily falling when there is inflation.,True,False,,,A,"Real GDP takes into account the value of inflation. Without inflation, the value of GDP is heavily inflated and does not seem to give a true picture of the growth. Real GDP is calculated as the ratio of nominal GDP to the price level.
+With inflation, the level of prices is increasing, so the denominator increases. This lowers the value of real GDP that accounts for lesser growth in the economy. This fall in Real GDP is a worry for economists as the growth prospects of an economy decrease.
+The given statement is
+true.","Inflation: Inflation refers to an increase in the level of general price levels in an economy. This increase in price levels is associated with a deterioration of purchasing power as money now buys lesser goods. Inflation is caused due to excess money supply, greater demand for commodities, or an increase in the costs of a product."
+34,"When analyzing the performance of a single economy over time, which measure is most appropriate?",Real GDP,GDP,Real GDP per capita,GDP per capita,A,"The option
+a)
+is correct. The most appropriate measure to analyze the performance of an economy is the Real GDP. This is so because it is adjusted to remove the effects of inflation and shows the true performance of the economy.  It shows the actual health of the economy and is calculated as, , where R is the real GDP, N is the nominal GDP i.e., GDP calculated at current prices and D is the GDP deflator which is a measure of inflation calculated as  .  .{eq}\[R = \dfrac{N}{D}\]
+
+{/eq}{eq}\[D = \dfrac{N}{R}\]
+
+{/eq}",Gross Domestic Product GDP or the Gross Domestic Product is the value of all final goods and services produced in an economy during a financial year. It constitutes the income generated from various economic activities and the expenditure made on purchasing the final goods and services
+35,Real GDP is:,"Equal of the value of nominal GDP, except in the base year",The value of goods and services evaluated at base year prices,The value of goods and services evaluated at current year prices,A measure of output that was replaced by nominal GDP some time ago,B,"Real GDP is:
+B) The value of goods and services evaluated at base year prices
+Real GDP refers to the total value of all the final commodities along with services that are produced by residents of a nation at the base or constant year. This is said to be a better tool for measuring economic growth as it helps to quantify the actual increase in production. This measure is affected by a change in quantity only.
+A) Real GDP is equal to the ratio of nominal GDP and the GDP deflator.
+C) The value of goods and services at current year prices is the nominal GDP.
+D) Real GDP and Nominal GDP are two distinct terms and have their own importance.","Nominal GDP: Nominal GDP refers to the total money value of entire production done by residents of a nation at current year prices. The value of Nominal GDP changes with a change in the price level, and is therefore not considered a good tool for measuring the economic growth of the country. This does not help in periodic comparisons."
+36,"True or false? When a Canadian citizen works temporarily in the United States, her production is part of U.S. GDP.",True,False,,,A,"The statement is
+TRUE.
+GDP is measured by the domestic territory of the country. Therefore, when a Canadian citizen works in the US, it means that the output produced in the US is a part of the US economy. The reason being GDP is measured in the domestic boundaries of a country.","Aggregate Demand Aggregate demand is defined as the total amount of goods and services that are demanded by the economy. It is the sum of consumption, investment, government expenditure, and net exports."
+37,Real GDP equals _____ times _____,Average hours of work; quantity of capital.,Average hours of work; allocative efficiency.,Labor input; labor productivity.,Natural resources; improvements in technology.,C,"The correct option is
+c
+.
+Real GDP equals labor input times labor productivity. This is so because Real GDP calculates the final value of goods and services after making the adjustments in the rise in prices. This says, that Real GDP would be equal to the total number of laborers worked for how many hours multiplied by the total output produced in those specific time periods.
+On the other hand, for options
+a
+,
+b
+, and
+d
+if we multiply the given options do not show the overall value of finished goods and services produced.","Real GDP A continuous hike in the price level of commodities in a time period is called inflation. Whereas, the overall value of finished commodities produced in the economy after adjusting for inflation in a year is the Real GDP of an economy."
+38,"A small economy only produces two goods: steak and potatoes. This information is shown in the table below. Based on the table, if year 1 is the base year, real GDP in year 2 is:","72,000","46,000","76,000","34,600",A,"The correct answer is
+Option a) $72,000
+.
+Real GDP measures a country's economic output adjusted for inflation or deflation. It represents the total value of all goods and services created and provided in a country during a specific period, usually a year, at constant prices.
+In the current scenario, the year 1 is the base year. Therefore, we will use the year-one price for the quantities generated in year 2 to determine the real GDP in year 2.
+{eq}\begin{align*} \text{Real GDP in Year 2} &= \text{(Steak Quantity in year 2 × Steak price in base year) + (Potato Quantity in year 2 × Potato price in base year)} \\ &= \rm {(800\,units × \$15) + (60,000\,units × \$1)} \\ &= \$12,000 + \$60,000\\ &= \$72,000 \end{align*} {/eq}","Economic Measures: GDP (Gross Domestic Product) is an economic measure of the total value created by the amount of goods and services produced in a country. Per capita is the average GDP per person in a country, calculated by dividing the total GDP by the population. It is often used to measure a country's economic performance and standard of living."
+39,"If the real GDP was $10 trillion last year and is $12.5 trillion this year, what is the growth rate?",12.5%,10%,25%,$12.5 trillion,C,"The correct option is
+c. 25%
+Growth rate is calculated by taking the difference between the current and last year's GDP, and the result will be divided by last year's GDP to derive the growth rate, which will be expressed in percentages.
+The growth is calculated using the following formula:
+{eq}\mathrm{Growth\ Rate = \dfrac{Current\ year\ GDP - Last\ year\ GDP}{Last\ Year\ GDP}*100} {/eq}
+Substitute in the given values:
+Last year GDP = $10 trillion
+Current year GDP = $12.5 trillion
+{eq}\mathrm{Growth\ Rate = \dfrac{12.5-10}{10}*100 = \$25\%} {/eq}
+So, the GDP growth rate was 25%.","Gross Domestic Product: Gross domestic product is the measurement of the output of the country in a given time. It includes everything that is manufactured and produced, like food, clothes, haircuts, doctor visits, and construction. The gross domestic product helps us understand how healthy and large the economy is."
+40,"In 2008, consumption spending is {eq}\$7,000
+
+{/eq}, government purchases are {eq}\$2,000
+
+{/eq} and investment spending is {eq}\$1,500
+
+{/eq}. If GDP for 2008 is {eq}\$10,300
+
+{/eq}, then:","exports are {eq}\$400
+
+{/eq} and imports are {eq}\$200
+
+{/eq}.","exports are {eq}\$100
+
+{/eq} and imports are {eq}\$200
+
+{/eq}.","exports are {eq}\$500
+
+{/eq} and imports are {eq}\$300
+
+{/eq}.","exports are {eq}\$600
+
+{/eq} and imports are {eq}\$800
+
+{/eq}.",D,"The correct answer is option d): Export $600, import $800
+Given:
+Consumer Spendind ( C ): $7,000
+Government purchase (G): $2,000
+Investment spending (I) : $1,500
+GDP: 10,300.
+The value of Net Export ( NX) is unknown.
+Calculation of the value of NX using the formula of GDP:
+{eq}\begin{aligned}   \text{GDP}&=\text{C}+\text{I}+\text{G}+\text{NX} \\   10,300&=7,000+2,000+1,500+\text{NX} \\   \text{NX}&=10,300-\left( 7,000+2,000+1,500 \right) \\   \text{NX}&=-200 \\ \end{aligned}
+
+{/eq}
+In option d the NX is -200
+Calculation of Net export for all the given options:
+Option A)
+Given: Export (X) $400
+Import (M): $200
+Calculation of of NX: {eq}\begin{aligned}   \text{NX}&=\text{X}-\text{M} \\   &=400-200 \\   &=\$200 \\ \end{aligned}
+
+{/eq}
+Option B)
+Given: Export (X) $100
+Import (M): $200
+Calculation of NX: {eq}\begin{aligned}   \text{NX}&=\text{X}-\text{M} \\   &=100-200 \\   &=-\$200 \\ \end{aligned}
+
+{/eq}
+Option C)
+Given: Export (X) $500
+Import (M): $300
+Calculation of NX: {eq}\begin{aligned}   \text{NX}&=\text{X}-\text{M} \\   &=500-300 \\   &=\$200 \\ \end{aligned}
+
+{/eq}
+Option D)
+Given: Export (X) $600
+Import (M): $800
+Calculation of of NX: {eq}\begin{aligned}   \text{NX}&=\text{X}-\text{M} \\   &=600-800 \\   &=-\$200 \\ \end{aligned}
+
+{/eq}",Net Export Net export is a component of GDP (Gross Domestic Product). Net export gives account for the export and import between countries. A positive value of Net export implies trade is in surplus which increase the GDP and a negative value of Net exports implies trade deficit which depresses the GDP.
+41,Real GDP is _____.,is nominal GDP adjusted for changes in the price level.,is also called nominal GDP.,measures GDP minus depreciation of capital.,will always change when prices change.,A,"The correct answer is:
+a. is nominal GDP adjusted for changes in the price level.
+The gross domestic product can be measured in real terms and in nominal terms. When measured in real terms, we use the prices in the base year and when measured in nominal terms, we use the prices in the current year. Thus, we can refer to real GDP as the nominal GDP which is adjusted for changes in the price level over time.
+b. is also called nominal GDP.
+Real GDP is not the same as nominal GDP.
+c. measures GDP minus depreciation of capital.
+Real GDP is not equal to GDP minus capital depreciation.
+d. will always change when prices change.
+Real GDP will not always change when prices change.","Gross Domestic Product In the national income accounting, one of the variables that is calculated is the gross domestic product (GDP, which translates to the total money value of all the finished products and services produced in the borders of a country."
+42,Growth in the economy is almost always measured as:,Growth in nominal GDP,Growth in measured GDP,Growth in real GDP,The growth of personal disposable income,C,"Growth in the economy is almost always measured as
+C) Growth in real GDP
+Real GDP refers to the market value of commodities and services measured at constant year prices. When economists talk about growth in real GDP, they talk about real GDP as it does not get affected by changes in prices.
+A)  Growth in the economy is not measured in terms of nominal GDP as Nominal GDP is affected by changes in prices.
+B) Growth in measured GDP is not a benchmark to measure growth in economy.
+D) Growth in personal disposable income is not equivalent to growth in GDP as personal disposable income excludes taxes.","GDP: GDP, also referred to as gross domestic product, measures the total value of final commodities including the services produced by an economy. The value of GDP is an important concept in economics as it measures the amount of income accrued by individuals of a nation. The value of GDP can be calculated using the value-added, income, or expenditure approach."
+43,"If the Fed wished to decrease GDP, it could:",increase the reserve requirement or conduct an open market sale.,increase the reserve requirement or conduct an open market purchase.,decrease the reserve requirement or conduct an open market purchase.,decrease the reserve requirement or conduct an open market sale.,A,"The correct option is
+a). Increase the reserve requirement or conduct an open market sale
+When the central bank increases the reserve requirement, then the commercial banks hold more money in the reserve account, and because of this, the supply of money into the economy gets low. Due to a lower money supply, companies' access to the fund becomes limited, which deters production. So the GDP melts down. The Federal Reserve also sells securities in the open market to grab the money supply from the economy. The ultimate purpose of the Fed is to reduce the money supply in the market to reduce GDP.
+Option b is not correct because open market purchases will shift money from the fed to the open market, and this will boost GDP.
+Option c is not correct because decreasing the reserve requirement will increase the amount of money available to commercial enterprises, and due to the availability of funds, production will be motivated.
+Option d is not correct because decreasing the reserve requirement will not work.","Gross Domestic Product: Whatever the economy produces within a time limit, its monetary value is called GDP for that time period, from which we can measure the economic prosperity of any country."
+44,"In 2016 nominal GDP was {eq}\$18,480
+
+{/eq} billion and the GDP deflator was 111.4. Real GDP was:","{eq}\$111.4
+
+{/eq}.","{eq}\$16,593
+
+{/eq}.","{eq}\$18,480
+
+{/eq}.","{eq}\$20,587
+
+{/eq}.",B,"The correct option is
+b. $16,593
+.
+We know that
+Real GDP = Nominal GDP / GDP deflator * 100
+Substitute the given values,
+Real GDP = $18,480 billion / 111.4 * 100
+Real GDP = $16,593 billion
+So, the real GDP for the year 2016 was $16,593 billion.","Real GDP: In macroeconomics, the term ""Real GDP"" is the monetary value of all the finally produced services and products by a country during a given period. It is estimated on the base year price level."
+45,Real GDP is the,value of the goods and services worn out in the production process during one year.,value of production of final output in one year after adjusting for changes in price during the same period.,value of goods and services produced as of a particular point in time.,,B,"The correct answer is:
+b. value of production of final output in one year after adjusting for changes in price during the same period.
+The real GDP is defined as the total value of production of all the final goods and services after the changes in prices have been adjusted or after the effect of inflation is adjusted. Real GDP is calculated at the base year's prices.",Real GDP The GDP means the gross domestic product. It is a macroeconomic variable that is calculated using various approaches such as the expenditure approach and the value-added approach.
+46,"In periods when prices are falling, on average,",real GDP will grow slower than nominal GDP.,real GDP will grow faster than nominal GDP.,real GDP will grow as fast as nominal GDP.,one cannot calculate real GDP.,B,"The correct option is
+option B.
+There is a close connection between the price level and GDP. Price, on average, reflects the country's financial strength. When prices fall persistently, the economy experiences faster real GDP growth than the nominal GDP. This situation implies that output volume has increased in the economy. When supply surpasses demand, businesses are compelled to cut the prices of their products. After the price cut, things become less expensive; thus, people's buying capacity increases.
+The above situation denotes negative inflation, in which people enjoy an average price level decline. GDP deflator helps understand this situation since it shows variation in prices of all domestic products. However, when the GDP deflator value is low, real GDP growth surpasses nominal GDP growth. Now, people experience either low inflation or deflation.
+Reasons for incorrect options are:
+Option A.
+This situation occurs when the price level goes up.
+Option C.
+This situation is almost impossible because price levels usually don't stay constant over time.
+Option D.
+Real GDP is enumerable using the GDP deflator and nominal GDP.",Real GDP: The real GDP is the amount of GDP after inflation is undertaken. This means that the GDP calculation reflects the overall income of a country. Inflation adjustment to it is the real picture of national income. This concept is needful to understand an economy.
+47,Which of the following is counted in the gross private domestic investment category used by the bureau of economics analysis when measuring GDP?,Changes in business inventories,Residential investment,Business fixed investment,All of the above,D,"The correct option is
+D. All of the above
+.
+The Gross Private Domestic Investment or GPDI is one of the economic measures that estimate the amount of currency or money that domestic businesses invest within their home country. Hence, it includes business fixed investment, residential investment, and the change in the exiting business inventories during a specific period.","GDP: In economics, the term ""GDP"" can be defined as the aggregate production of a nation. This is so because it is estimated by taking the aggregate output produced by each firm in an industry."
+48,"If the economy is not in a deep recession, any expansionary fiscal policy measure the president would take will likely increase:","aggregate demand and real GDP, but leave the price level unchanged.","aggregate demand, but not the price level.",real GDP and the price level.,"the price level, but may increase or decrease GDP, or will leave it unchanged.",D,"If the economy is not in a deep recession, any expansionary fiscal policy measure the president would take will likely increase
+d. the price level, but may increase or decrease GDP, or will leave it unchanged.
+Although the president's intent would surely be to grow the economy by increasing GDP, that might or might not happen. Expansionary fiscal policies such as tax cuts or increased federal spending will drive up the price level. Still, expanding GDP may not be possible if the economy is already near its full employment level.
+These answers are all incorrect because the price level will surely increase, but real GDP may or may not increase:
+a. aggregate demand and real GDP, but leave the price level unchanged.
+b. aggregate demand, but not the price level.
+c. real GDP and the price level.
+d. real GDP, but not the price level","Real GDP: GDP is an abbreviation for Gross Domestic Product, which measures a country's output over a specific time frame. Real GDP means the actual value of GDP after adjusting for inflation, which means an increase in the price level."
+49,Increases in productivity are a major contributor to increased GDP. What is a result of increased GDP?,increased supply of products,increased standard of living,increased wages for workers,none of the above,B,"The correct option is
+b. Increased standard of living
+.
+An increase in productivity is the per-unit increase in the production of final products and services by using the same level of inputs. Thus, it is a major contributor towards raising the level of GDP. Also, we know that the standard of living is the ratio of the GDP and the population. Therefore, an increase in the standard of living is a result of an increased level of GDP.",GDP: The term GDP in macroeconomics is the monetary worth of all the final services and products that a country can produce by using all the available resources judiciously.
+50,An increase in _____ GDP guarantees that more goods and services are being produced by an economy.,Nominal.,Real.,,,B,"The correct option is
+b. Real
+.
+The nominal GDP is estimated at both the current year price and output level. The real GDP is estimated on the base year price level and current year output level. Thus, the real GDP is the economic measure that estimates the increase in GDP which guarantees that more services and products are being produced by an economy.",GDP: GDP or Gross Domestic Product is the monetary value of all the final products and services produced by an economy during a given period. It has two types- Real and Nominal.
+51,Which of the following represents how real GDP is calculated?,(Nominal GDP multiplied by the GDP deflator) x 100,Nominal GDP divided by the population,(Nominal GDP divided by the PPI) x 100 where PPI the producer price index,(Nominal GDP divided by the GDP deflator) x 100,D,"The correct option is
+option D)
+.
+Real GDP is calculated by dividing the nominal GDP by the GDP deflator and multiplying it by hundred.
+As is known,
+{eq}\begin{align*}
+
+{\rm{GDP}}\;{\rm{Deflator}} &= \dfrac{{{\rm{Nominal}}\;{\rm{GDP}}}}{{{\rm{Real}}\;{\rm{GDP}}}} \times 100\\
+
+{\rm{Real}}\;{\rm{GDP}} &= \dfrac{{{\rm{Nominal}}\;{\rm{GDP}}}}{{{\rm{GDP}}\;{\rm{Deflator}}}} \times 100
+
+\end{align*}
+
+{/eq}
+Thus, Real GDP is nominal GDP divided by GDP deflator multiplied by 100.
+Option A)
+is incorrect because the GDP deflator is divided, not multiplied by the nominal GDP.
+Option B)
+is incorrect because this will give the nominal per capita GDP.
+Option C)
+is incorrect because PPI is concerned with the expense of inputs and not all the goods that are a part of GDP.","Real GDP Meaning: Real GDP is the composite value of all commodities and amenities produced in an economy at a given time, measured at base year prices. The base year is considered the measuring rod in the real GDP calculation as it shows the actual fluctuation in prices and improvement in production."

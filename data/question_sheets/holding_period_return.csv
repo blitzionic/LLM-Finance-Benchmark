@@ -1,0 +1,573 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Assume that USA interest rate is 6%; Mexico interest rate is 2%; spot rate now is $0.50/Peso; spot rate one year later is $0.51/Peso. Find the uncovered return from the USA point of view.,5.12%,3.71%,8.16%,4.04%,C,"The closest answer is c. 8.16%.  Support is below.
+The peso is expected to appreciate relative to the dollar.  Specifically, it is expected to gain 2.00% ($.51 / $.50 = .02).  This equates to a loss of 1.96% for USD investors ((1/.51)/(1/.50) -1 = .0196)
+So, for a U.S. investor borrowing in pesos and investing in USD, he can expect to pay interest of 2% on the peso, earn interest of 6.00% on the USD, and gain 2.00% of value on the exchange rate.  Specifically, the uncovered return is as follows:
+Uncovered Return = .06 - .02 - .02 = .08","Uncovered Return: When dealing with international investments and foreign currency exchange, an uncovered return is that which is attainable without any hedging maneuvers to mitigate exchange rate fluctuations."
+2,The holding period return on a stock is equal to __________.,the capital gain yield over the period plus the inflation rate.,the capital gain yield over the period plus the dividend yield.,the current yield plus the dividend yield.,the dividend yield plus the risk premium.,B,"Correct answer is Option b.
+The Holding period return gives the entire return that is earned on an investment from the beginning till the time it is sold. Thus, it includes both the dividends received and the gain on sale of stock.
+Thus, HPR is equal to the capital gain yield over the period plus the dividend yield.
+Explanation for incorrect answers:
+a. It is incorrect because HPR does not take inflation into account.
+c. It is incorrect because current yield is equal to the dividend yield itself and the capital gains yield is not included in this case.
+d. It is incorrect because risk premium is already a part of the required return on stock and capital gains yield is not included in this case as well.",Capital gains yield: Capital gains yield refers to the return that is earned as result of sale of an asset. It is expressed in percentage. It arises only when the value of asset at the time of sale is greater than the value of asset at the time of its purchase.
+3,"A stock has had returns of 5.05%, 12.11%, 5.83%, 6.14%, and -13.19% over the past five years. What was the holding period return for the stock?",) 14.84%,) 114.84%,) 83.49%,,A,"The correct answer is
+Option A.
+{eq}\begin{align*}
+
+{\rm\text{HPR}} &= \;\left[ {\left( {1 + r_1} \right) \times \left( {1 + r_2} \right) \times \left( {1 + r_3} \right) \times \left( {1 + r_4} \right) \times \left( {1 + r_5} \right)} \right] - 1\\
+
+&= \left[ {\left( {1 + 0.0505} \right) \times \left( {1 + 0.1211} \right) \times \left( {1 + 0.0583} \right) \times \left( {1 + 0.0614} \right) \times \left( {1 - 0.1319} \right)} \right] - 1\\
+
+&= \left[ {\left( {1.0505} \right) \times \left( {1.1211} \right) \times \left( {1.0583} \right) \times \left( {1.0614} \right) \times \left( {0.8681} \right)} \right] - 1\\
+
+&= 0.1484\\
+
+&= 14.84\%
+
+\end{align*}
+
+{/eq}
+Where:
+HPR = Holding Period Return
+r1 = Return in Year 1
+r2 = Return in Year 2
+r3 = Return in Year 3
+r4 = Return in Year 4
+r5 = Return in Year 5
+Therefore, the Holding Period Return is 14.84%.",Holding Period Return: The total amount of return earned or lost on an investment during a specific time is the holding period return. It is the total income earned due to the fluctuations in its value over the short term or long term.
+4,8. You purchased a share of stock for $20. Two years later you received SI as dividend and sold the share for $29. What was your holding period return?,stop-buy order,stop-loss order,limit-buy order,limit-sell order,D,"Question 8:
+Calculate the holding period return:
+{eq}\begin{align*}
+
+HPR&=\dfrac{Selling~Price+Dividend}{Purchase~Price}-1\\
+
+&=\dfrac{29+1}{20}-1\\
+
+&=1.50-1\\
+
+&=.50
+
+\end{align*}
+
+{/eq}
+The holding period return of the stock investment is D. 50%
+Question 9:
+Calculate the effective interest rates:
+{eq}EAR=(1+r)^{\dfrac{1}{n}}-1\\
+
+where:\\
+
+r=holding~period~return\\
+
+n=number~of~periods\\
+
+{/eq}
+In this case the number of periods would be 2 years, while the holding period return is 50%
+{eq}\begin{align*}
+
+EAR&=(1+.50)^{\dfrac{1}{2}}-1\\
+
+&=1.2247-1\\
+
+&=.2247
+
+\end{align*}
+
+{/eq}
+The effective interest rates of the 22.47% or A. 22.5%
+Question 10:
+B. Stop Loss Order
+Putting a stop loss order at the price of $60, protect the investment from further decline lower than the purchase price, but also captures the opportunity for future upward potential.","Holding Period Return: Holding period return refers to the total return of the investment from the day of purchase until it was sold. Unlike with effective annual interest rates which calculate the annualized return of the investment, the holding period return doesn't consider the number of periods but instead only calculates the total return of the investment."
+5,"What is the holding period return on an investment over 3 years, if in the first year the return was 5.2%, the second year it was -10% and in the third year the return was 76.7%?",167.30 percent.,67.30 percent.,-104.48 percent.,157.30 percent.,B,"Option (b) is correct.
+Calculation of holding period return
+Let the investment be x
+{eq}\begin{align*}
+
+{\rm\text{Value of Investment After 3 Year}} &= \$ 100\left( {1 + 0.052} \right)\left( {1 - 0.10} \right)\left( {1 + 0.767} \right)\\
+
+&= \$ 167.30
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Holding Period Return}} &= \frac{{{\rm\text{Value of Investment}}}}{{100}} - 1\\
+
+&= \frac{{\$ 167.30}}{{100}} - 1\\
+
+&= 67.30\%
+
+\end{align*}
+
+{/eq}","Holding period return Holding period return refers to net profit or loss percentage earned by the investor because of holding the investment over the period. It indicates the return for the total period, not the annual return, to calculate the holding annual return holding return is required to divide by the number of holding years."
+6,Suppose you bought a bond with an annual coupon rate of 7.2% one year ago for $895. The bond sells for $922 today.,"Assuming a $1,000 face value, what was your total dollar return on this investment over the past year? (Do not round intermediate calculations and round your answer to the nearest whole number, e.g., 32.)","What was your total nominal rate of return on this investment over the past year? (Do not round intermediate calculations and enter your answer as a percent rounded to 2 decimal places, e.g., 32.16.)","If the inflation rate last year was 4.2%, what was your total real rate of return on this investment? (Do not round intermediate calculations and enter your answer as a percent rounded to 2 decimal places, e.g., 32.16.)",,A,"a. Total dollar return is $99.
+Total dollar return is the sum of interest payment and capital gain. Given 1000 face value and 7.2% annual coupon, since the bond is held for one year, you would have received only one coupon payment = 1000 * 7.2% = 72. When the bond is sold, the capital gain = sale price - purchase price = 922 - 895 = 27.
+Hence, total dollar return = 72 + 27 = 99.
+b. Nominal rate of return = total dollar return / purchase price = 99 / 895 = 11.06%.
+c. Real rate of return = nominal rate of return - inflation rate = 11.06% - 4.2% = 6.86%.","Holding Period Return: The holding period is the period between when an asset is purchased and when the asset is sold. During the holding period, total dollar return is the sum of asset yields such as interest and dividend payments, and capital gains when the asset is sold."
+7,"You purchased a share of stock for $20. Two years later, you received $1 as dividend and sold the share for $29. What was your holding period return?",stop-buy order,stop-loss order,limit-buy order,limit-sell order,D,"1)
+The answer is D.
+The total dollar return is the sum of dividend, which is $1, and capital gains, which is 29 - 20 = $9. That is, total dollar return = 9 + 1 = 10. The holding period return is the ratio of total dollar return to initial investment, i.e.,
+{eq}\displaystyle \ \frac{10}{20} \ = \ 50\%.
+
+{/eq}
+2)
+The answer is B.
+We can use the following formula to derive effective annual rate over a number of years.
+{eq}\displaystyle \left \{ \left ( \frac{Future \ Value}{Beginning} \right )^{\frac{1}{n}} \right \} \ - \ 1
+
+{/eq}
+Where future value = Future value of the stock
+Present value = beginning value of the stock
+n = number of periods
+Here in this case Future value can be assumed to be $30 as $29 is ending amount plus $1 gain of dividend.
+{eq}\text{effective annual rate} = \displaystyle \ \left \{ \left ( \frac{30}{20} \right )^{\frac{1}{2}} \right \} \ - \ 1
+
+\\
+
+= \ 1.224744 \ - \ 1
+
+\\
+
+= \ 0.2247
+
+\\
+
+= \ 22.47\%
+
+{/eq}
+3)
+The answer is D.
+With a limit sell order, a security will be sold only if the price is at least as high as the specified price. In this case, if you execute a limit sell order with a target price of $90, then the stock will only be sold if the price is $90 or higher.","Holding Period Return: Holding period return is the rate of return during the period when an investor possesses an asset. During this period, the total dollar return is the sum of the asset yield and the capital gain from the appreciation of asset value."
+8,"Five years ago, Shirley Harper bought a 10-year bond that pays 8 percent semiannually for $981.10. Today, she sold it for $1, 067.22. What is the realized yield on her investment?",10%b. 7%c. 8%d. 11%,,,,A,"The (closest) answer is
+(a.) 10%.
+The realized return on the bond is the same as the internal rate of return on the bond given its initial cost and cash flows received. In this question, the bond costs $981.10 and over the 5 years holding period, the  bond generates a semiannual coupon payment equal to $1,000 * 8% / 2 times a year = $40 per semiannual payment. Because Shirley has owned it for five years and the payments are semiannual, there were 10 payments in total. The bond is then sold for $1067.22. Denoting the realized return on the bond
+y
+, we have:
+{eq}\displaystyle \sum_{t=1}^{10}{\frac{40}{(1 + y/2)^t}} + \frac{1067.22}{(1 + y/2)^{10}} = $981.10 {/eq}, which yields:
+{eq}y = 9.56\%{/eq}","Holding Period Return: If you purchased a bond and sold it before it matures, the realized return on the investment is known as the holding period return. This return is the sum of two components: the periodic interest yield on the bond and the capital gain (or loss) on the bond when it is sold."
+9,"Baker Baseball Cards, Inc. originally purchased the rookie card of Hammerin' Hank Aaron for $35.00. After holding the card for 4 years, Baker Baseball Cards auctioned the card for $140.00.",What are the holding period return and the simple annual return on this investment?,What is the holding period return of the baseball card?,,,A,"a.	Calculation of Holding period return on Investment:
+{eq}\begin{align*}
+
+{\rm\text{Holding period return }} &= {\rm\text { }}\frac{{{\rm\text {Sale Price}} - {\rm\text {Purchase Price}}}}{{{\rm\text {Purchase Price}}}} \times 100\\
+
+&= \frac{{\$ 140 - \$ 35}}{{\$ 35}} \times 100\\
+
+&= \frac{{\$ 105}}{{\$ 35}} \times 100\\
+
+&= 300\%
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Simple Annual Return }} &= {\rm\text { }}\frac{{{\rm\text {Holding period Return}}}}{{{\rm\text {Period of holding}}}}\\
+
+&= \frac{{300\% }}{4}\\
+
+&= 75\%
+
+\end{align*}
+
+{/eq}
+b.	Calculation of the Holding period return on the Baseball Card:
+{eq}\begin{align*}
+
+{\rm\text{Holding period return }} &= {\rm\text { }}\frac{{{\rm\text {Sale Price}} - {\rm\text {Purchase Price}}}}{{{\rm\text {Purchase Price}}}} \times 100\\
+
+&= \frac{{\$ 140 - \$ 35}}{{\$ 35}} \times 100\\
+
+&= \frac{{\$ 105}}{{\$ 35}} \times 100\\
+
+&= 300\%
+
+\end{align*}
+
+{/eq}",Holding Period Return. Holding period Return can be defined as the total returns earned in the form of periodic payments or capital appreciation from the time the asset was purchased till the time it is sold. It is one of the important forms of calculation of returns made on assets held for a long duration of time.
+10,"The realized rate of return, or holding period return, is equal to the holding period dollar gain divided by the price at the beginning of the period.",True,False,,,A,"The provided description is
+true
+.
+Concerning the meaning of holding a period return or realized return, it specifies the total return an investor earns from their investment portfolio within a specified period of holding those investments or assets.
+Computing the realized return with a percentage approach, the realized return is first analyzed by evaluating the difference between the ending value and the beginning value of investments. Afterwards, the amount realized is divided by the initial investment value and multiplied by 100. Thus, the provided statement is appropriate and true.","Investment Income: Investment income is the revenue or profit derived from financial accounts or assets. There are three main forms capital gains, interest, and dividends. The income involves the levying of tax at a special rate, a lower rate, or no tax at all, just as income tax depends upon the amount earned."
+11,"For an investment to yield positive results at the end of the investment period, the earnings should:",grow by at least ten percent,exceed the rate of inflation,be accrued on a debt security,be documented appropriately,C,"The best answer choice is c. c. be accrued on a debt security.  For a debt security that does not pay coupons, a discount instrument, the only way to recognize earnings over the life of the debt is to accrue the interest.
+The other answer choices are incorrect due to the reasons outlined below.
+a. An investment's earnings can grow by less than ten percent to yield positive results.
+b. An investment can generate positive nominal results without exceeding the rate of inflation.  It must exceed the rate of inflation to generate real positive results.
+d. An investment can generate positive results, even though its documentation may be inappropriate.","HPR: HPR stands for holding period return, which is the rate of return generated by an investment over the time period in which it is held.  The return comes from two sources - income received and price appreciation/depreciation."
+12,You buy an 8 year $1000 par value bond today that has a 6% yield and a 6% annual payment coupon. In one year promised yields have risen to 7%. Your one year holding period return was:,0.61%,-5.39%,1.28%,-3.25%,A,"The answer is A. 0.61%.  Rationale is below.
+At Year 0, we know the bond price must have been $1,000, because the 6% coupon matched the 6% yield to maturity.
+We can most efficiently compute the bond's price at Year 1 by using a financial calculator, such as a Texas Instruments BAII Plus Professional.
+For Year 1, input the following values:
+I/Y = 7.0%
+FV = $1,000.00
+PMT = $60.00
+N = 8 - 1 = 7
+Compute for PV to get a price of $946.11.
+Now, we can compute the holding period return (HPR), which is illustrated below.
+HPR = (Interest Income + Year 1 Price - Year 0 Price) / Year 0 Price
+HPR = ($60 + $946.11 - $1,000) / $1,000 = .0061 or .61%",HPR: HPR is short for holding period return.  It is a measure that indicates the total return (income plus price appreciation/depreciation) earned over the holding period for an investment.
+13,Suppose that a stock price has an expected return of 16% per annum and a volatility of 30% per annum.,The expected stock price at the end of the next day.,The standard deviation of the stock price at the end of the next day.,The 95% confidence limits for the stock price at the end of the next day.,,A,"a. The expected stock price at the end of the next day will be $50.022. The calculation is as follows:
+Expected price can calculate using the following formula:
+{eq}\begin{align*}
+
+&\frac{\Delta S}{S}\sim\phi \,\left( \mu \Delta t,\ {{\sigma }^{2}}\,\Delta t\, \right) \\
+
+& =\,\frac{\Delta
+
+S}{\$50}\sim\phi\,\left(0.16\times0.00274,0.09\times0.00274\right)\\&=\,\phi\,\left(0.00044,0.00
+
+0247\right)\\
+
+\end{align*}
+
+{/eq}
+That is, {eq}\begin{align*}
+
+&\Delta S\sim\phi \,\left( 50\,\,\times \ 0.00044,\ {{50}^{2}}\times \ 0.00274 \right) \\
+
+& =\,\Delta S\sim\phi \,\left( 0.022,\ 0.6164 \right)
+
+\end{align*}
+
+{/eq}
+Where S ($50) is the stock price, {eq}\mu
+
+{/eq} (0.16) is the expected return, {eq}\sigma
+
+{/eq} (0.30) is the volatility, and {eq}\Delta t
+
+{/eq} is the maturity period (1 / 365)
+b. The standard deviation of the stock price at the end of the next day will be 0.785, which calculated below:
+{eq}\begin{align*}
+
+& \sigma \,\times \,S\,\sqrt{\,\Delta t} \\
+
+& =\,0.30\,\times \,50\,\sqrt{\,\frac{1}{365}} \\
+
+& =\ 0.785
+
+\end{align*}
+
+{/eq}
+c. The 95% confidence limits for the stock price at the end of the next day will be as follows:
+{eq}50.022-1.96\times 0.785\quad \text{and}\quad 50.022+1.96\times 0.785\
+
+{/eq}
+This equals to: {eq}48.48\quad \text{and}\quad 51.56\
+
+{/eq}","Stock price Stock price refers to the market value of an underlying asset that traded during a contract, which often called the spot price. It compares with the strike price of the underlying asset to determine the profitability of the investor in the contract."
+14,"Ten months ago, Junior purchased a stock for $14 a share. The stock pays a quarterly dividend of $0.50 per share. Today, Junior sold the stock for $15 a share. His holding period return is:",10.0%B. 10.7%C. 16.7%D. 17.9%,,,,D,"We are given the following information:
+Purchase price = $14
+Selling price = $15
+Quarterly dividend = $0.50
+The holding period is 10 months, which indicates that there are 3 dividend payments within this period:
+{eq}\text{Holding period return} = \displaystyle \frac{\text{Selling Price} - \text{Purchase Price} + \text{Total Dividend Payment}}{\text{Purchase Price}} \\ \text{Holding period return} = \displaystyle \frac{\$15 - \$14 + \$0.50 \times 3}{\$14} \\ \text{Holding period return} = \displaystyle 17.90\% {/eq}
+The holding period return is
+(D.) 17.9%.","Holding Period Return (HPR): An investment's holding period return (HPR) will account for the total return for the entire investing period. In other words, the holding period return for a stock includes both dividend income and capital gains and/or losses."
+15,"A stock has had returns of 16.12%, 22.11%, -25.00%, 26.14%, and 16.00% over the past five years. What was the holding period return for the stock?",55.61%,155.61%,50.67%,,A,"The correct answer is option a.
+Calculation of holding period return for the stock:
+Year 1 =16.12%
+Year 2 =22.11%
+Year 3 = -25.00%
+Year 4 =26.14%
+Year 5 =16.00%
+{eq}\begin{align*}
+
+{\rm\text{Holding period return}} &= {\rm\text{Return}}\left( {{\rm\text {Year }}1 + {\rm\text {Year 2}} + {\rm\text {Year 3}} + {\rm\text {Year 4}} + {\rm\text {Year 5}}} \right)\\
+
+&= 16.12\%  + 22.11\%  - 25.00\%  + 26.14\%  + 16.00\% \\
+
+&= 55.61\%
+
+\end{align*}
+
+{/eq}","Holding Period Return: Unlike bonds, the holding period return for the stock is the sum of all returns for the previous years. Adding returns is that the return on the stock is calculated after taking effect of dividend paid and other market factors."
+16,"A coin that was featured in a famous novel sold at auction in 2014 for $5,904,000. The coin had a face value of $20 when it was issued in 1795 and had previously been sold for $135,000 in 1976.",At what annual rate did the coin appreciate from its first minting to the 1976 sale? (Do not round intermediate calculations. Enter your answer as a percent rounded to 2 decimal places.),What annual rate did the 1976 buyer earn on his purchase? (Do not round intermediate calculations. Enter your answer as a percent rounded to 2 decimal places.),At what annual rate did the coin appreciate from its first minting to the 2014 sale? (Do not round intermediate calculations. Enter your answer as a percent rounded to 2 decimal places.),,A,"The holding period return (HPR) and effective annual rate are calculated as follows:
+{eq}\begin{array}{l}
+
+{\rm\text{HPR}} = \frac{{{\rm\text{Sale value}} - {\rm\text{Original value}}}}{{{\rm\text{Original value}}}} \times 100\\
+
+{\rm\text{Annual rate}} = {\left( {1 + {\rm\text{HPR}}} \right)^{\frac{1}{n}}} - 1\\
+
+{\rm\text{where, }}n = {\rm\text{number of years}}
+
+\end{array}
+
+{/eq}
+a. The purchase value is $20 and the sale value is $135,000 for 181 years from 1795 to 1976.
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{\$ 135,000 - \$ 20}}{{\$ 20}} \times 100\\
+
+& = 674900\% \\
+
+{\rm\text{Annual rate}}& = {\left( {1 + 6749} \right)^{\frac{1}{{181}}}} - 1\\
+
+& = 1.04992 - 1\\
+
+& = 0.04992\\
+
+& = 4.99\%
+
+\end{align*}
+
+{/eq}
+Thus, the coin appreciated at an annual rate of 4.99% from first minting to 1976 sale.
+b. Purchase value for the 1976 buyer is $135,000 and sale value is $5,904,000 for 38 years from 1976 to 2014.
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{\$ 5,904,000 - \$ 135,000}}{{\$ 135,000}} \times 100\\
+
+& = 4273.33\% \\
+
+{\rm\text{Annual rate}}& = {\left( {1 + {\rm{42}}{\rm{.7333}}} \right)^{\frac{1}{{38}}}} - 1\\
+
+& = 1.10453 - 1\\
+
+& = 0.10453\\
+
+& = 10.45\%
+
+\end{align*}
+
+{/eq}
+Thus, the buyer earned an annual rate of 10.45%.
+c. There are 219 years from the year of first minting i.e., 1795 to 2014. The purchase value is $20 and the sale value is $5,904,000
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{{\rm{\$ 5,904,000}} - {\rm{\$ 20}}}}{{{\rm{\$ 20}}}} \times 100\\
+
+& = 29519900\% \\
+
+{\rm\text{Annual rate}}& = {\left( {1 + {\rm{295199}}} \right)^{\frac{1}{{219}}}} - 1\\
+
+& = 1.059199 - 1\\
+
+& = 0.059199\\
+
+& = 5.92\%
+
+\end{align*}
+
+{/eq}
+Thus, the coin appreciated at the rate of 5.92% annually from the year of first minting to the 2014 sale.",Appreciation: Appreciation is a term used to describe the increase in the value of an asset or a commodity. It is used in relation to a period in the past and is based upon the original value of the asset or commodity. This appreciation in value makes the asset attractive to investors.
+17,You bought a stock 10 years ago for 135kr and now it's trading at 342kr. It hasn't paid out any dividends during this period.,What is the Holding Period Return?,What is the Annual Percentage Rate?,What is the Effective Annual Rate?,,A,"Given information:
+Holding period (N) = 10 years
+Purchase price = 135 kr
+Selling price = 342 kr
+a. Estimate the holding period return (HPR):
+{eq}\text{HPR} = \displaystyle \frac{\text{Selling price}}{\text{Purchase price}} - 1 \\ \text{HPR} = \displaystyle \frac{342}{135} - 1 \\ \text{HPR} = \displaystyle 153.33\% {/eq}
+b. Estimate the annual percentage rate:
+{eq}\text{Annual percentage rate} = \displaystyle \sqrt[N]{\displaystyle \frac{\text{Selling price}}{\text{Purchase price}}} - 1 \\ \text{Annual percentage rate} = \displaystyle \sqrt[10]{\displaystyle \frac{342}{135}} - 1 \\ \text{Annual percentage rate} = \displaystyle 9.74\% {/eq}
+c. Estimate the effective annual rate:
+In this case, the effective annual rate is equal to the annual percentage rate since the effects of compounding interest are ignored in this case. In addition, there is no dividend payment during the holding period, which indicates that the effective annual rate includes only the annual capital gain yield (or, the annual percentage rate in this case).","Holding Period Return (HPR): A holding period return (HPR) is a percentage measure of the total return on an investment. This measure is determined on the entire life of the investment. Thus, a holding period return is not relevant to evaluate available investments with different maturities."
+18,"A 20-year, 10% coupon bond is currently quoted at $850.",What is the breakeven tax rate that would make a taxable investor indifferent between those two types of bonds?,"How will your answers to sections a through c in problem 1 be affected, if both 'interest income and capital gains are subject to the same tax rate of 30 percent?",Holding period yield if the bond is sold 5 years later at $1200.,,C,"Face or Par Value of Bond (F) = $1,000
+Current market price (P) = $850
+Annual coupon of Bond (C) = 10% of $1,000 = $100
+Number of years to maturity (N) = 20
+Part a.
+{eq}\begin{align*}
+
+\rm\text{Annual YTM} &= \frac{C + \frac{F-P}{N}}{\frac{F+P}{2}} \\
+
+&= \frac{\$100 + \frac{\$1,000 - \$850}{20}}{\frac{\$1,000+\$850}{2}}\\
+
+&= \frac{\$100 + \$7.5}{\$925}\\
+
+&= 0.1162162 \ or \ 11.62\%
+
+\end{align*}
+
+{/eq}
+Part b.
+Number of years to Call (T) = 10
+Callable Price is Par plus 2 year interest
+Callable Price (CP) = $1,000 + $100 + $100 = $1,200
+{eq}\begin{align*}
+
+\rm\text{Annual YTC} &= \frac{C + \frac{CP-P}{T}}{\frac{CP+P}{2}} \\
+
+&= \frac{\$100 + \frac{\$1,200 - \$850}{10}}{\frac{\$1,200+\$850}{2}}\\
+
+&= \frac{\$100 + \$35}{\$1,025}\\
+
+&= 0.13170 \ or \ 13.17\%
+
+\end{align*}
+
+{/eq}
+Part c.
+Selling Price of Bond (SP) = $1,200
+Number of years after which bond is sold (n) = 5
+{eq}\begin{align*}
+
+\rm\text{Holding Period Return} &= \frac{n \times C + (SP - P)}{P} \\
+
+&= \frac{5 \times \$100 + (\$1,200 - \$850)}{\$850} \\
+
+&= 1.00 \ or \ 100\%
+
+\end{align*}
+
+{/eq}
+Part 2
+a.
+Market yield of municipal Bond (r1) = 5.25%
+Market yield of corporate bond (r2) = 11.50%
+Let break even tax rate be t
+{eq}\begin{align*}
+
+r1 &= r2(1-t) \\
+
+5.25\% &= 11.50\%(1-t) \\
+
+0.4565217 &= 1 - t \\
+
+t &= 0.5434783 \ or \ 54.35\%
+
+\end{align*}
+
+{/eq}
+b.
+Now the tax on interest income and capital gain is 30%
+Tax rate (t) = 30%
+Before tax holding period return (HPR) = 100%
+{eq}\begin{align*}
+
+\rm\text{After tax holding period return} &= HPR(1-t) \\
+
+&= 100\%(1-0.30) \\
+
+&= 70\%
+
+\end{align*}
+
+{/eq}
+Now due to the tax the holding period return decrease to 70%",Holding Period Return: The total return that an investor earns when it holds the security is considered the holding period return. It mainly occurs either in capital gains or in dividend/interest income (depending upon the type of security).
+19,"You purchased the stock of Sargent Motors at a price of $75.75 one year ago today. If you sell the stock today for $89.00, what is your holding period return?",35.00%,12.50%,17.50%,25.00%,C,"Correct answer: Option C) 17.50%.
+Explanation:
+Holding period return = (Selling price - Purchase price) / Purchase price
+Holding period return = ($89 - $75.75) / $75.75
+Holding period return = 17.49%",Holding Period Return: The holding period return is the return that an investor can realize by holding the investment for a certain time period without selling it. The percentage is equal to the ratio of the return realized relative to the purchase price of the investment.
+20,"If you invest $3,600 in Dell Stock and 7 years later the stock is worth $10,300, what has been your Total Holding Period Percentage Return?",650%,186%,1.86%,6.5%,B,"The correct answer is option B) 186%.
+Given information:
+Dell stock investment = $3,600
+Dell stock worth after 7 years = $10,300
+The total holding period percentage return can be calculated using the information given. The computation is as follows:
+{eq}\begin{align*}{\rm{HPR}} &= \frac{{{\rm{I}} + \left( {{\rm{EV}} - {\rm{BV}}} \right)}}{{{\rm{BV}}}}\\ &= \frac{{\$ 0 + \left( {\$ 10,300 - \$ 3,600} \right)}}{{\$ 3,600}}\\ &= \frac{{\$ 6,700}}{{\$ 3,600}}\\ &= 1.86\end{align*} {/eq}
+Here,
+HPR = Holding Period Return
+I = Income from the stock's dividend
+EV = Ending value or worth of the stock
+BV= Beginning value of the stock
+Since no information regarding the dividend (income) received is given in the question, the income is assumed as 0.
+Now, the holding period return is 1.86, but in the question, the total holding period percentage return is asked that would be 1.86*100 = 186%.
+Therefore,
+the total holding period percentage return is 186%.",Holding Period Return: The holding period return is a criterion used to determine the worth of investing in the stock for a duration. It computes the amount a stock is offering to keep it in the portfolio for a period.
+21,"The realized rate of return, or holding period return, is equal to the holding period dollar gain divided by the price at the beginning of the period.",True,False,,,A,"The provided description is
+true
+.
+Concerning the meaning of holding a period return or realized return, it specifies the total return an investor earns from their investment portfolio within a specified period of holding those investments or assets.
+Computing the realized return with a percentage approach, the realized return is first analyzed by evaluating the difference between the ending value and the beginning value of investments. Afterwards, the amount realized is divided by the initial investment value and multiplied by 100. Thus, the provided statement is appropriate and true.","Investment Income: Investment income is the revenue or profit derived from financial accounts or assets. There are three main forms capital gains, interest, and dividends. The income involves the levying of tax at a special rate, a lower rate, or no tax at all, just as income tax depends upon the amount earned."
+22,"A coin that was featured in a famous novel sold at auction in 2014 for $3,158,000. The coin had a face value of $2 when it was issued in 1786 and had previously been sold for $420,000 in 1971.",At what annual rate did the coin appreciate from its first minting to the 1971 sale? (Do not round intermediate calculations. Enter your answer as a percent rounded to 2 decimal places.),At what annual rate did the 1971 buyer earn on his purchase? (Do not round intermediate calculation. Enter your answer as a percent rounded to 2 decimal places.),At what annual rate did the coin appreciate from its first minting to the 2014 sale? (Do not round intermediate calculations. Enter your answer as a percent rounded to 2 decimal places.),,A,"{eq}\begin{array}{l}
+
+{\rm\text{HPR}} = \frac{{{\rm\text{Sale value}} - {\rm\text{Purchase value}}}}{{{\rm\text{Purchase value}}}} \times 100\\
+
+{\rm\text{Annual HPR}} = {\left( {1 + {\rm{HPR}}} \right)^{\frac{1}{n}}} - 1\\
+
+{\rm\text{where, }}n = {\rm\text{number of years}}
+
+\end{array}
+
+{/eq}
+a. The purchase value is $2 and the sale value is $420,000 for 185 years from 1786 to 1971.
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{{\rm {\$ 420,000}} - {\rm{\$ 2}}}}{{{\rm{\$ 2}}}} \times 100\\
+
+& = 20999900\% \\
+
+{\rm\text{Annual HPR}}& = {\left( {1 + {\rm{209999}}} \right)^{\frac{1}{{185}}}} - 1\\
+
+& = 1.06848 - 1\\
+
+& = 0.06848\\
+
+& = 6.85\%
+
+\end{align*}
+
+{/eq}
+Thus, the coin appreciated by 6.85% annually.
+b. For the 1971 buyer, purchase value is $420,000 and sale value is $3,158,000 for 43 years from 1971 to 2014.
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{\$ 3,158,000 - \$ 420,000}}{{\$ 420,000}} \times 100\\
+
+& = 651.9048\% \\
+
+{\rm\text{Annual HPR}}& = {\left( {1 + {\rm{6}}{\rm{.519048}}} \right)^{\frac{1}{{43}}}} - 1\\
+
+& = 1.04804 - 1\\
+
+& = 0.04804\\
+
+& = 4.80\%
+
+\end{align*}
+
+{/eq}
+Thus, the buyer earned 4.80% annually.
+c. There are 228 years from 1786 to 2014. The purchase value is $2 and the sale value is $3,158,000
+{eq}\begin{align*}
+
+{\rm\text{HPR}}& = \frac{{{\rm{\$ 3,158,000}} - {\rm{\$ 2}}}}{{{\rm{\$ 2}}}} \times 100\\
+
+& = 157899900\% \\
+
+{\rm\text{Annual HPR}}& = {\left( {1 + {\rm{1578999}}} \right)^{\frac{1}{{228}}}} - 1\\
+
+& = 1.064598 - 1\\
+
+& = 0.064598\\
+
+& = 6.50\%
+
+\end{align*}
+
+{/eq}
+Thus, the coin appreciated at the rate of 6.50% annually.",Effective Annual Return: Effective annual return refers to the rate of return calculated annually that is equivalent to the holding period return which is the return for the period the asset has been held. Annual rate is the conversion of this holding period return.
+23,"Suppose a stock had an initial price of $68 per share, paid a dividend of $1.35 per share during the year, and had an ending share price of $76. Compute the percentage total return.",13.75,12.30,16.47,14.44,A,"Correct option is 13.75% (A).
+The calculation for the percentage total return is shown below.
+{eq}Percentage \ total \ return \ = \ \dfrac{Ending \ share \ price \ - \ Initial \ price \ + \ Dividend \ paid}{Initial \ price} \ \times \ 100
+
+\\
+
+Percentage \ total \ return \ = \ \dfrac{\$76 \ - \ \$68 \ + \ \$1.35}{\$68} \ \times \ 100
+
+\\
+
+Percentage \ total \ return \ = \ \dfrac{\$9.35}{\$68} \ \times \ 100
+
+\\
+
+Percentage \ total \ return \ = \ 13.75\%
+
+{/eq}",Holding Period Return: Holding period return of a common stock refers to the total return generated by the stock for the investor for the period it was held. The total return is affected by price appreciation and cash dividends.
+24,"For an investment to yield positive results at the end of the investment period, the earnings should:",grow by at least ten percent,exceed the rate of inflation,be accrued on a debt security,be documented appropriately,C,"The best answer choice is c. c. be accrued on a debt security.  For a debt security that does not pay coupons, a discount instrument, the only way to recognize earnings over the life of the debt is to accrue the interest.
+The other answer choices are incorrect due to the reasons outlined below.
+a. An investment's earnings can grow by less than ten percent to yield positive results.
+b. An investment can generate positive nominal results without exceeding the rate of inflation.  It must exceed the rate of inflation to generate real positive results.
+d. An investment can generate positive results, even though its documentation may be inappropriate.","HPR: HPR stands for holding period return, which is the rate of return generated by an investment over the time period in which it is held.  The return comes from two sources - income received and price appreciation/depreciation."
+25,The holding period return should not be used when analyzing investments with unequal holding periods.,True,False,,,A,"The statement is
+TRUE.
+Unequal holding periods between investments make the benchmarking being inconsistent because a longer holding period will generate higher total return. Thus, to compare available investments, the rate of return should be on annual basis.","Holding Period Return: The holding period return on an investment will examine all cash inflows within the holding term. It is estimated by total cash inflows divided by investment's initial cash outlay, represented in form of percentage."
+26,"If the annual earnings for a company are $30, the expected future price of its stock is $100, and the required rate of return is 30%, then the current price of the stock should be",$97.,$100.,$130.,$169.,B,"The answer is b.
+Assume that the annual earnings are all paid out as dividends, then the current dividends yield on the stock is:
+30 / 100 = 30%.
+We know that the total return on the investment is the sum of dividend yield and expected capital gain, i.e.,
+total required return = dividend yield + expected capital gain
+Given that required return is 30%, and current dividend yield is 30%, it implies that the expected capital gain is 0.
+We further know that the expected future price of the stock is 100, given that expected capital gain is 0, the current price must be the same as the expected future price, i.e., 100.","Asset Return: Investments in an asset yields returns in two ways: (1) the asset can provide periodic yields such as interest from bonds and dividends from stocks; (2) the asset might appreciate in price, thereby generating capital gains. Total return on an asset is the sum of asset yields and capital gains."

@@ -1,0 +1,705 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Suppose we have the following information about a $150k portfolio of two stocks:,90%,11%,13%,15%,C,"The correct answer is
+c.
+{eq}\begin{align*}
+
+{\rm\text{Weight of ABC}}\, &= \,\frac{{{\rm\text{Amount of ABC}}}}{{{\rm\text{Amount of ABC}}\, + \,{\rm\text{Amount of XYZ}}}} \times 100\\
+
+&= \frac{{\$ 90,000}}{{\$ 90,000 + \$ 60,000}} \times 100\\
+
+&= 60\% \\
+
+{\rm\text{Weight of XYZ}}\, &= \,\frac{{{\rm\text{Amount of XYZ}}}}{{{\rm\text{Amount of ABC}}\, + \,{\rm\text{Amount of XYZ}}}} \times 100\\
+
+&= \frac{{\$ 60,000}}{{\$ 90,000 + \$ 60,000}} \times 100\\
+
+&= 40\%
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Portfolio's expected return}}\, &= \,{\rm\text{Weight of ABC}}\, \times \,{\rm\text{Expected return of ABC}}\, + \,{\rm\text{Weight of XYZ}}\, \times \,{\rm\text{Expected return of XYZ}}\\
+
+&= 60\%  \times 15\%  + 40\%  \times 10\% \\
+
+&= 9\%  + 4\% \\
+
+&= 13\%
+
+\end{align*}
+
+{/eq}","Portfolio's Expected Return: Portfolio's expected return is the altogether expected return of the portfolio depending upon the weights of the financial securities in the portfolio. The higher the risk, the greater is the value of the expected return."
+2,A measure of the average value of a random variable is called a(n):,variance,standard deviation,expected value,coefficient of variation,C,"The expected value of a frequency distribution is the weighted average of all the observations taken. It is calculated by taking the weighted sum of all observations, weighted by their frequency, and dividing it by the total number of observations., This gives us the average or representative value of the frequency ditribution.
+Hence,
+option c. expected value
+is the correct answer.","Measures of Central Tendency: The measures of central tendency help us to find the middle or average or representative values of a frequency distribution. The common measures of central tendency are the mean (sum of values divided by the number), the mode (the most frequent value), and the median (the middlemost value when the observations are increased in ascending order). The standard deviation is another measure that helps to represent how spread out the data is from the average value."
+3,"A company had annual returns of 16 percent, 9 percent, -4 percent, and 13 percent over the past 4 years. What is the standard deviation of the returns for this period?",7.63 percent,8.81 percent,13.46 percent,15.26 percent,B,"The correct answer is option B. 8.81 percent
+Step 1: Calculation of average return:
+{eq}\begin{align*}{\rm{Average}}\,\,{\rm{Return}} &= \frac{{{\rm{Sum}}\,\,{\rm{of}}\,\,{\rm{observations}}}}{{{\rm{Number}}\,\,{\rm{of}}\,\,{\rm{observations}}}}\\ &= \frac{{16\% + 9\% + \left( {4\% } \right) + 13\% }}{4}\\ &= \frac{{34\% }}{4}\\ &= 8.5\% \end{align*} {/eq}
+Therefore, the average return is 8.5%
+Step 2: Calculation of variance:
+{eq}\begin{align*}{\rm{Variance}} &= \frac{{{{\left( {{\rm{Value}}\,\,{\rm{of}}\,{\rm{each}}\,{\rm{observation}} - {\rm{Average}}\,{\rm{return}}} \right)}^2}}}{{{\rm{Number}}\,{\rm{of}}\,{\rm{observations}} - 1}}\\ &= \frac{{{{\left( {16\% - 8.5\% } \right)}^2} + {{\left( {9\% - 8.5\% } \right)}^2} + {{\left( { - 4\% - 8.5\% } \right)}^2} + {{\left( {13\% - 8.5\% } \right)}^2}}}{{4 - 1}}\\ &= \frac{{56.25\% + 0.25\% + 156.25\% + 20.25\% }}{3}\\ &= 77.66\% \end{align*} {/eq}
+The variance is 77.66% or 0.7766
+Step 3: Calculation of standard deviation:
+{eq}\begin{align*}{\rm{Standard}}\,{\rm{Deviation}} &= \sqrt {{\rm{Variance}}} \\ &= \sqrt {77.66\% } \\ &= 8.81\% \end{align*} {/eq}
+Therefore, the standard deviation is 8.81%",Standard Deviation: The standard deviation is used to investigate the extent of dispersion of the data in the observations from the mean. It navigates the data back to the predefined mean position to estimate the dispersion.
+4,A measure of the riskiness of an asset held in isolation is:,Beta,Standard deviation,Covariance,Semi-variance,B,"The answer is
+b. Standard deviation
+For an asset held in isolation, standard deviation is an appropriate measure of risk since it will account the volatility of the asset price around the mean of prices during a specific period. This measure would be representative for the risk associated with asset.","Riskiness: Riskiness of a security refers to the uncertainty in price fluctuation, which will affect the investment efficiency. However, note that a risky security will promise a higher expected return to investor."
+5,The financing period:,"is the time it takes to purchase inventory, sell it, and collect the sales.",defines how much additional financing the company must have to support its operations.,is calculated as days' sales uncollected minus days' inventory on hand minus days' payable.,measures a company's short-term debt-paying ability.,B,"The answer is
+option B.
+The financing period is from when the company's obligations to its supplier are due until the end of its operating cycle. So, it is time that the firm determines how much money is needed to finance its business operations.
+Analysis of other options
+A. The statement defines the company's operating cycle, which is the time from purchasing inventory until the collection of credit sales.
+C. The statement describes an incorrect formula for the cash conversion cycle. The correct one is days' sales uncollected
+plus
+days' inventory on hand minus days' payable.
+D. It defines the current ratio.","Capital Structure: The company's capital structure includes equity and debt. These are the firm's sources of funds for running the business and daily operations, like purchasing materials."
+6,"A consultant predicts that there is a 25% chance of earning $500,000 and a 75% chance of earning $100,000. The expected profit is $200,000. The standard deviation is:","$120,000","$160,000","$166,000","$173,200",D,"We are given:
+The expected profit (X) is $200,000.
+The probability of earning $500,000 (P1) is 25%.
+The probability of earning $100,000 (P2) is 75%.
+The higher earnings (H) are $500,000.
+The lower earnings (L) are $100,000.
+Calculation of the standard deviation (SD):
+{eq}\begin{align*}
+
+{\rm\text{SD}} &= \sqrt {{\rm\text{P1}} \times \left( {{\rm\text{H}} - {\rm\text{X}}} \right)_{}^2 + {\rm\text{P2}} \times \left( {{\rm\text{L}} - {\rm\text{X}}} \right)_{}^2} \\
+
+&= \sqrt {25\%  \times \left( {\$ 500,000 - \$ 200,000} \right)_{}^2 + 75\%  \times \left( {\$ 100,000 - \$ 200,000} \right)_{}^2} \\
+
+&= \sqrt {\$ 30,000,000,000} \\
+
+&= \$ 173,205.08{\rm\text{ or }}\$ 173,200
+
+\end{align*}
+
+{/eq}
+The standard deviation is approximately $173,200. Therefore, the correct option is
+d) $173,200
+.",Expected Profit: Businesses reckon the expected profit using various financial methods to make a proper investment decision. Managers use expected profit information to determine appropriate budgets and cash allocations.
+7,"A portfolio has an actual return of 15.17%, a beta of 0.85, and a standard deviation of 7.2%. The market return is 13.4% and the risk-free rate is 2.8%.",2.25%,2.51%,2.67%,3.36%,D,"The portfolio's Jensen's alpha is 3.36% (D)
+The calculation is shown below.
+Alpha = Expected return on portfolio - (Risk-free rate + (Beta * (Market return - Risk-free rate)))
+Alpha = 15.17% - (2.8% + (0.85 * (13.4% - 2.8%)))
+Alpha = 15.17% - (2.8% + (0.85 * 10.6%))
+Alpha = 15.17% - (2.8% + 9.01%)
+Alpha = 15.17% - 11.81%
+Alpha = 3.36%","Standard Deviation: Standard Deviation is a measure that shows how much variation from the mean exists. Like the variance, if the data points are close to the mean, there is a small variation whereas if the data points are highly spread out from the mean, then it has a high variance."
+8,Positive cash flow from financing activities on the statement of cash flows means that a company has:,collected more from customers than it paid for operating expenses.,borrowed more than it is paying off.,paid a large cash dividend to shareholders.,"sold more property, plant, and equipment than it purchased.",B,"The correct option is B. borrowed more than it is paying off.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. collected more from customers than it paid for operating expenses.
+No the collection of cash from customers and payment of operating expenses are operating cash flows.
+B. borrowed more than it is paying off
+This is the correct alternative. New borrowings are cash inflows from financing activities on the statement of cash flows and debt repayments are cash outflows, so when a company borrows more money than it is paying back, its financing cash flow will be positive.
+C. paid a large cash dividend to shareholders.
+No, dividends paid are a cash outflow in the financing activities section so it would lead to a negative cash flow from financing activities on the statement of cash flows.
+D. sold more property, plant, and equipment than it purchased.
+No, this would lead to a positive cash flow from investing activities,",Interpreting the Statement of Cash Flow: The cash flow patterns in the statement of cash flow give users an indication of the business cycle a company is in and how it needed to manage its cash asset during the reporting period. Certain cash flow patterns are typical of start-up companies and others of established companies.
+9,What of the following is not one of the characteristics of long-term debt financing?,cost.,control.,risk.,inventory.,D,"The correct option is
+D. inventory
+.
+Explanation:
+Inventory is a feature of long-term debt finance that is unrelated to it. Raw materials, work-in-process commodities, and finished products are examples of a corporation's manufacturing, sale, or distribution inventory. Long-term debt financing may give a firm the funding it requires to make big expenditures in its business while spreading payments out over a longer period.
+Explanations for incorrect options:
+Option A- Cost: Long-term debt financing is often more expensive than short-term debt financing owing to the long payback time and the interest rate charged.
+Option B- Control: In the case of long-term debt financing, lenders may have more influence over the borrower since they have a larger commitment to the borrower and may need certain covenants or limits on the borrower's actions.
+Option C- Risk: Long-term debt financing is riskier than short-term debt financing since it has a longer repayment duration, increasing the possibility of default.","Long-Term Financing: Long-term debt financing entails borrowing cash for a period exceeding a year to finance a company's major operations. Financial institutions provide it, although it may also be received from other sources."
+10,The purpose of the Z transformation is to correct for:,varying shape of the sampling distribution of r.,an unknown mean of the sampling distribution of r.,an unknown standard deviation of the sampling distribution of r.,differing values of n.,A,"The
+z
+-score in the Z transformation or Fisher Z-transformation is the standard normal variable, distributed normally with a mean of 0 and a standard deviation of 1.
+We use Z transformation to make the distribution of Pearson's correlation coefficient '(r)', normal. We then use these
+z
+-scores to construct confidence intervals for the correlation coefficient
+(r)
+or while conducting the hypothesis tests for the difference between the correlation coefficients from two independent samples.
+The formula that we use to transform the r into a Z-score is as follows:
+{eq}z' = \dfrac{1}{2} \ln \left( \dfrac{1+r}{1-r} \right) {/eq}
+There is a table as well, we call it the ""r to z table"". It represents the
+z
+-scores for different values of
+r.
+Hence, we can say that the purpose of the Z transformation is to correct for
+a. the varying shape of the sampling distribution of
+r
+.
+Explanation for the incorrect options
+:
+For an unknown mean of the sampling distribution of r
+:_ z- transformation's purpose is to make the distribution of
+r
+normal. It is not for computing or correcting the unknown mean of the sampling distribution of
+r
+.
+An unknown standard deviation of the sampling distribution of r
+:_ Similar to the unknown mean, we do not use z-transformation for an unknown standard deviation.
+Differing values of n:
+n
+represents the sample size. We do not use z-transformation to correct for the different values of
+n.","Correlation Coefficient: The correlation coefficient, or Pearson's correlation coefficient, is denoted by {eq}r {/eq}. It is used to calculate the association between two different variables. It indicates how strong (or weak) and in what direction the association is. For example, there is a strong negative association between {eq}x {/eq} and {eq}y {/eq}, which means an increase in the {eq}x {/eq} is strongly associated with a decrease in the {eq}y {/eq}."
+11,The idea that investors in common stock may expect a lower total return if they purchase a stock with limited price volatility rather than one with high price volatility suggests that:,investors are irrational.,there is a relationship between risk and return.,real rates of return will be lower during periods of price stability.,stocks should be avoided when inflation is low.,B,"The correct answer is
+B.
+A direct correlation exists between uncertainty and the earnings expected by the investors on their investment. The higher the risk factor, the higher potential returns are expected and vice-versa. If the price volatility of a stock is less, it is established that there is less risk that will give fewer returns. However, if the volatility is high, there are high risk and returns.
+Option A is not correct since investors rationally make decisions.
+Option C is not correct since real rates of return will be lower during periods of price fall.
+Option D is incorrect since investment in stocks can be made when inflation is low.",Price Volatility Price Volatility shows the adverse movements in product prices being traded in the markets. It is caused by variations in the demand and supply of products and services. The percentage variation in the daily price level measures its price volatility.
+12,"If the standard deviation of the continuously compounded returns {eq}(\sigma)
+
+{/eq} on a stock is 40%, and the time interval is a year, then the upside change equals:",88.2%,8.7%,63.2%,49.2%,D,"The correct answer is
+D) 49.2%
+Given information:-
+The standard deviation of a continuously compounded return on a stock = 40%
+Time interval: 1 year
+The formula will be:-
+(1 + u) = e ^ (40%)
+(1 + u) = e ^ (0.4)
+= 1.4918
+Converting the amount in percentage:-
+= 1.4918*100
+= 49.18 or 49.2%
+The upside change will equal to 49.2%.","Returns: Returns refer to the amount of funds generated back to the person after he invests his hard-earned income considering all the risks associated with a security. The people tend to invest in the share market, stock market, bond market, and even in government securities and others."
+13,Commercial bank term loans,usually carry fixed interest rates.,are very short-term in nature.,are offered to superior credit applicants.,both b and c.,A,"A. Correct.
+A term loan can usually be offered with a fixed interest rate for the entire loan duration.
+B. Incorrect. A term loan can be a long-term borrowing. For instance, a mortgage loan has a maturity of 30 years.
+C. Incorrect. A term loan can be offered to any individual or organization that meets the lender's requirements.","Term Loan: A term loan refers to borrowing that requires regular repayments at fixed intervals for a particular period. Usually, each periodic payment includes both the interest and the principal repayment."
+14,"When we form an equally weighted portfolio of stocks and keep increasing the number of stocks in the portfolio, the volatility of the portfolio also increases.",True,False,,,B,"The above statement is
+false
+Volatility acknowledges as the measure which is widely used in computing the option prices in the stock market. Volatility is the rate at which the price increases or decreases in the stock market. It determines the scope by which the value of assets or security may rise or decline; therefore, the above statement is incorrect.","Portfolio Portfolio is defined as the combination of a variety of assets or security in a portfolio with the aim of minimizing the overall risk and increasing profitability. It includes the financial assets which comprises of the shares, bonds, and cash equivalent."
+15,Cash flow can be said to equal operating income _____.,less taxes plus depreciation,less taxes,before depreciation and taxes plus depreciation,after taxes minus depreciation,A,"The correct answer is option
+a. less taxes plus depreciation
+.
+The cash flow from operating activities can be calculated by making the following adjustments to the net operating income:
+Deduct taxes
+Deduct change in the working capital
+Add back the non-cash expenses like depreciation expenses and amortization expenses","Cash Flow Statement: The cash flow statement for a firm shows the net cash flows during a given period from three kinds of activities, namely, operating activities, investing activities, and financing activities. The cash flow from operating activities can be computed by using the direct method or indirect method."
+16,When making decisions. Investors are interested in assessing:,the company's ability to generate net cash inflows.,management's ability to protect and enhance the capital providers' investments.,Both a and b.,the company's ability to generate net income.,C,"Correct Answer:
+Option c. Both a and b
+.
+Investors should assess any company on the following basis:
+The company's ability to generate cash flows, not a net income, as cash flows provide a more realistic efficiency of the business.
+The company's ability to enhance the capital invested by investors and protect it from risks of bankruptcy.
+Net income includes noncash expenses that can mislead the actual numbers that a company generates.",Users of Financial Statements: Every company should file its financial statements annually for the users to be aware of a company's financial performance and position for any given year. These metrics help them make investment decisions.
+17,"Calculate the standard deviation of the following set of scores: 1.3, 1.6, 0.8, 1.1, 0.7.",0.37,0.45,2.01,1.30,A,"The first step of computing the standard deviation is to find the mean of the sample data. Using the following formula, we construct the mean as shown below:
+{eq}\bar {x}=\dfrac {1}{n} \sum {x_i}\\
+
+=\dfrac {1}{5} (1.3+1.6+...+0.7)\\
+
+=1.1
+
+{/eq}
+Substituting the mean in the following formula, we compute the standard deviation as shown below:
+{eq}s=\sqrt {\dfrac {1}{n-1}\sum {(x_i-\bar {x})^2}}\\
+
+=\sqrt {\dfrac {1}{5-1} (1.3-1.1)^2+(1.6-1.1)^2+...+(0.7-1.1)^2)}\\
+
+=0.3674
+
+{/eq}
+The answer is a) 0.37.",Standard Deviation Standard deviation is one of the measures of variability for continuous data. This measures the deviation of individual scores from the average of the data. Thus mean and standard deviation are used as the preferred measures of central tendency and variation for variables measured on an interval scale.
+18,A company that is leveraged is one that _____.,has a strong investment portfolio,has a high earnings per share,contains debt financing,contains equity financing,C,"The correct option is
+c. contains debt financing.
+A leveraged company is one that has taken on debt in order to fund its operations or growth. The term ""leverage"" is used to describe the practice of taking on debt in the belief that future profits will be enough to cover the loan's interest payments.
+Reasons why other options are incorrect:
+Option a. has a strong investment portfolio:
+There is no correlation between a company's investment portfolio and its level of debt, so this answer choice is incorrect.
+Option b. has a high earnings per share:
+A high EPS simply indicates that the company is making a lot of money in relation to the number of shares it has issued, so this choice is incorrect.
+Option d. contains equity financing:
+Equity financing is the wrong choice because it implies borrowing money rather than raising capital through the sale of shares.","Equity Financing: Equity financing is the method to get funds for business operations, growth, research and development, expansion, and other purposes. The company sells its share, known as ownership, to the public at large to get funding."
+19,"The average monthly cell phone bill (the parameter) for a particular carrier in Pittsburgh, PA is $90. Which of the following is most likely?",The average monthly bill (a statistic) for 50 randomly selected customers (of this carrier) is over $115.,The average monthly bill (a statistic) for 250 randomly selected customers (of this carrier) is over $115.,Both A and B are equally likely.,,A,"Now, in this example, the average phone bill for a particular carrier in Pittsburgh, PA is $90.
+Now, as the sample size increases the standard deviation will decrease and hence the likeliness of the value being over $115 decreases as we move towards a bigger sample.
+The average monthly bill (a statistic) for 50 randomly selected customers (of this carrier) is over $115 is more likely than the average monthly bill (a statistic) for 250 randomly selected customers (of this carrier) is over $115.
+Thus the correct answer is -
+a. The average monthly bill (a statistic) for 50 randomly selected customers (of this carrier) is over $115.","Standard Deviation The effect of the sample size on our are mean and standard deviation are very interesting and should be fully understood before deciding on the ideal sample size for our experiment. As the sample size of our sample increases, the standard deviation of the mean decreases and vice versa which basically means that if we decrease the sample size the standard deviation increases."
+20,Cheng Inc. is considering a capital budgeting project that has an expected return of 23% and a standard deviation of 30%. What is the project's coefficient of variation?,1.60,1.30,1.41,0.77,B,"The project's coefficient of variation is 1.30.
+Option B is correct. Calculation is shown below:
+Particulars
+Amount
+Standard deviation (A)
+30%
+Expected return (B)
+23%
+Coefficient of variation (C = A/B)
+1.30",Standard Deviation: Standard deviation is an important statistical concept in which the deviations of the values in a data set from its mean value are calculated. To calculate the standard deviation you need to calculate the average mean of the data set.
+21,The approximate probability of a value occurring that is greater than one standard deviation from the mean is approximately (assuming a normal distribution):,68.26%.,2.28%.,34%.,15.87%.,D,"Calculate the probability using the following equation:
+{eq}P=1-z\\
+
+where:\\
+
+z=z-score~of~one~standard~deviation\\
+
+{/eq}
+Looking at the z-table, the z-score of 1 standard deviation is .8431, then:
+{eq}\begin{align*}
+
+P=1-.8413\\
+
+&=.1587
+
+\end{align*}
+
+{/eq}
+Therefore, the correct answer is D. 15.87%","Standard Deviation: Standard deviation refers the measurement of the dispersion of the data set from its mean value. It is used to determine the level of volatility of an asset, in which higher standard deviation means higher volatility."
+22,A well-diversified portfolio with a beta of 2.0 is twice as risky as the market portfolio.,True,False,,,A,"The answer is
+A. True.
+The market portfolio is assumed to have a beta of 1.0.  A stock that moves less than the market will have a beta of < 1, and a stock that moves more than the market will have a beta of > 1.  A stock that has a beta of 2.0 can be viewed as twice as risky, or volatile, than the market portfolio.",Beta: Beta is a measure of a stock's volatility relative to the entire market.  It is an indication as to how the price of a stock moves in relation to the broader market.
+23,"A stock had returns of 8 percent, -2 percent, 4 percent, and 16 percent over the past four years. What is the standard deviation of this stock for the past four years?",6.3 percent,6.6 percent,7.1 percent,7.5 percent,D,"The correct answer is Option d.
+Year
+Actual Rate of Return Rt
+Rt-Ri
+(Rt-Ri) ^2
+1
+0.08
+0.015
+0.000225
+2
+-0.02
+-0.085
+0.007225
+3
+0.04
+-0.025
+0.000625
+4
+0.16
+0.095
+0.009025
+Mean
+0.065
+Total
+0.0171
+Where,
+{eq}\begin{align*}
+
+{R_i} &= {\rm\text{Artithmetic}}\;{\rm\text{mean}}\;{\rm\text{of}}\;{\rm\text{returns}}\\
+
+&= \dfrac{{\left( {0.08 - 0.02 + 0.04 + 0.16} \right)}}{4}\\
+
+&= 0.065
+
+\end{align*}
+
+{/eq}
+Computation of standard deviation
+{eq}\begin{align*}
+
+\sigma  &= {\left[ {\dfrac{1}{{n - 1}} \times {{\sum\limits_{i = 1} {\left( {{R_t} - {R_i}} \right)} }^2}} \right]^{\dfrac{1}{2}}} \times 100\\
+
+&= {\left[ {\dfrac{1}{{4 - 1}} \times 0.0171} \right]^{0.5}} \times 100\\
+
+&= {\left[ {0.0057} \right]^{0.5}} \times 100\\
+
+&= 7.5\%
+
+\end{align*}
+
+{/eq}
+Where n = no. of years = 4
+Thus, the standard deviation of the stock for past 4 years is 7.5%.",Standard Deviation of Returns: A standard deviation is a statistical tool used to calculate the gap between actual and average returns. The investment becomes riskier if the returns are more erratic and less turbulent otherwise.
+24,"Treasury bill returns are 7%, 6%, 5%, and 8% over four years. The standard deviation of returns of Treasury bills is:",0.9%,1.03%,1.29%,1.55%,C,"The correct answer is option C.
+1.29%.
+The standard deviation of the returns of treasury bills can be computed by following the steps below:
+Step 1: Calculate the average return:
+{eq}\begin{align*}{\rm{Average}}\,{\rm{Return}} &= \frac{{{\rm{Sum}}\,{\rm{of}}\,{\rm{observations}}}}{{{\rm{Number}}\,{\rm{of}}\,{\rm{observations}}}}\\ \\ &= \frac{{7\% + 6\% + 5\% + 8\% }}{4}\\ \\ &= \frac{{26\% }}{4}\\ &= 6.5\% \end{align*} {/eq}
+Hence, the average return is
+6.5%
+.
+Step 2: Calculate the variance:
+{eq}\begin{align*}{\rm{Variance}} &= \frac{{{{\left( {{\rm{Value}}\,\,{\rm{of}}\,{\rm{each}}\,{\rm{observation}} - {\rm{Average}}\,{\rm{return}}} \right)}^2}}}{{{\rm{Number}}\,{\rm{of}}\,{\rm{observations}} - 1}}\\ \\&= \frac{{{{\left( {7\% - 6.5\% } \right)}^2} + {{\left( {6\% - 6.5\% } \right)}^2} + {{\left( {5\% - 6.5\% } \right)}^2} + {{\left( {8\% - 6.5\% } \right)}^2}}}{{4 - 1}}\\ \\&= \frac{{0.25\% + 0.25\% + 2.25\% + 2.25\% }}{3}\\ &= 1.667\% \end{align*} {/eq}
+Hence, the variance is
+1.667%.
+Step 3: Calculate the standard deviation using the variance:
+{eq}\begin{align*}{\rm{Standard}}\,{\rm{Deviation}} &= \sqrt {{\rm{Variance}}} \\ \\&= \sqrt {1.667\% } \\ \\&= 1.29\% \,\end{align*} {/eq}
+Therefore, the standard deviation is
+1.29%.",Treasury Bills: A debt instrument issued by the US government to fund public projects is a treasury bill. These are short-term and must not take more than a year to pay back the amount to the investor.
+25,State true or false and justify your answer: Individual common stocks' betas have a tendency to move toward 1.0 over time.,True,False,,,A,"The answer is true.  Recent studies, including a 1992 article by Fama and French, shows that for an individual stock, past and current betas are not a good predictor of future beta. They suggest that a beta tends to mean revert, meaning a stock with a beta greater than or less than 1.0, will move toward 1.0 over time.",Stock Beta: Beta is a measure of a stock's risk relative to the broader market.  It is an indication of the extent to which a stock's price moves in relation to the market.  A beta of 1.0 moves in sync with the market.  A beta of less than 1.0 is less volatile than the broader market (defensive stock).  A beta of greater than 1.0 is more volatile than the broader market (tech stock).
+26,What is the algebraic equation for the coefficient of variation?,Standard deviation × mean,Variance × mean,Variance/mean,Standard deviation/mean,D,"The coefficient of variation is calculated by dividing the standard deviation with the arithmetic mean, so, the correct answer is
+d).",Coefficient of Variation: The coefficient of variation is a statistical measure that provides information regarding the relative dispersion of a data set. This coefficient is used to compare data sets from different populations.
+27,The standard deviation of a security measures the:,systematic risk of the security,unsystematic risk of the security,total risk of the security,risk per unit of return for the security,C,"The correct answer option is
+C. total risk of the security
+.
+Standard deviation is used to calculate the total risk that a security accompanies. It helps in better decision-making by forecasting the risks involved in an investment portfolio or a security. It includes the measure of both systematics and unsystematic risk and so gives a view of the total risk of the security.
+The analysis of incorrect options is as follows:
+A. The systematic risk of the security is measured using the beta coefficient. It is generally used to measure the risk of a well-diversified portfolio by considering its sensitivity to the factors relating to systematic risk.
+B. The unsystematic risk of the security is measured by subtracting systematic risk from total risk. The systematic risk is computed by using beta coefficient and the total risk is computed using standard deviation.
+D. The risk per unit of return for the security is measured using the coefficient of variation. It is computed by dividing the standard deviation by the expected rate of return. It acts as a standardized measure to identify the risk that every asset carries.
+So, these options are incorrect.","Security: Security refers to a financial instrument that can be traded in the market in exchange for funds. It is used for raising capital for businesses. Security can also be kept as collateral at the time of purchase of a loan. Since the value of a security is related to the market, it carries certain risks. The risk can be systematic and unsystematic."
+28,"The test scores for a math class are shown below. 81, 84, 82, 93, 81, 85, 95, 89, 86, 94",4.9,5.5,5.3,5.1,D,"First, let's organize the data set, and we organize it from smallest to largest.
+Sample data:
+$$\begin{align}
+
+&x_1= 81  \\[0.3cm]
+
+&x_2= 81 \\[0.3cm]
+
+&x_3= 82  \\[0.3cm]
+
+&x_4= 84  \\[0.3cm]
+
+&x_5= 85  \\[0.3cm]
+
+&x_6= 86  \\[0.3cm]
+
+&x_7= 89  \\[0.3cm]
+
+&x_8= 93  \\[0.3cm]
+
+&x_9= 94  \\[0.3cm]
+
+&x_10= 95  \\[0.3cm]
+
+&N= 10
+
+\end{align} \\
+
+$$
+We calculate the mean of the data sample using the following formula:
+$$\bar{x}= \frac{x_1+x_2+x_3+x_4+ x_5+x_6+x_7+x_8+x_9+x_10}{N}
+
+$$
+Substituting the data, we obtain:
+$$\bar{x}= \frac{81+81+82+84+85+86+89+93+94+95}{10}
+
+$$
+Performing the corresponding operations of addition and division, we obtain:
+$$\bar{x}= \frac{870}{10}=87
+
+$$
+Now we apply the standard deviation for the sample formula:
+$$S = \sqrt{\frac{\sum_{1}^{N}\left ( x_{i}-\bar{x} \right )^{2}}{N}}
+
+$$
+Where {eq}S
+
+{/eq} is the standard deviation, {eq}x
+
+{/eq} is the variable, {eq}x_i
+
+{/eq} is the observation {eq}i
+
+{/eq} of the variable {eq}x
+
+{/eq}, {eq}N
+
+{/eq} is the number of observations, {eq}\bar{x}
+
+{/eq} is the mean of the variable {eq}x
+
+{/eq}.
+Substituting the data, we obtain:
+$$S= \sqrt{\frac{\left (81-87 \right )^{2}+\left (81-87\right )^{2}+\left (82-87 \right )^{2}+\left (84-87 \right )^{2}+\left (85-87 \right )^{2}+\left (86-87 \right )^{2}+ \left (89-87 \right )^{2}+\left (93-87 \right )^{2}+ \left (94-87 \right )^{2}+\left (95-87 \right )^{2}}{10}}
+
+$$
+Solving we obtain:
+$$\begin{align}
+
+S &= \sqrt{\frac{36+36+25+9+4+1+4+36+49+64}{10}}  \\[0.3cm]
+
+&= \sqrt{\frac{264}{10}} \\[0.3cm]
+
+&\approx 5.1
+
+\end{align} \\
+
+$$
+The standard deviation for the given data set is:
+$$\boxed{5.1}
+
+$$.
+{eq}D
+
+{/eq}. is the correct option.","Standard Deviation The standard deviation is a statistical measure that tells us how dispersed the numbers are concerning the mean of a set of data. The higher the result, the greater the dispersion. To calculate the standard deviation, we can perform the following steps:"
+29,"The focus of financial accounting is on an organization's projects, processes, and subdivisions, and the focus of managerial accounting is on the whole organization.",True,False,,,B,"The given statement is
+False
+.
+Financial reporting is using formal documents that provide in-depth insights into financial data to accurately portray a company's finances to stakeholders, including its sales, costs, profits, capital, and cash flow.
+Financial accounting's main goal is to summarise and present a company's financial condition to parties with a stake in it, such as investors, creditors, governmental bodies, and suppliers.
+Financial and management accounting both present monetary data; managerial accounting presents a sizable amount of non-monetary data.","Managerial Accounting: Managerial accounting is a technique of reporting that produces statements, analyses, and documentation that aid management or users in improving corporate performance-related choices."
+30,Which of the following best defines cash flow?,net income plus depreciation,net income minus depreciation,net income plus taxes minus depreciation,net income plus taxes divided by depreciation,A,"The correct answer is option
+a. net income plus depreciation
+.
+The operating cash flow of a firm is computed by making the following adjustments to the net income:
+Adding the non-cash expenses such as depreciation and amortization
+Deducting the change in working capital from the net income
+The net income in turn is ascertained by deducting all the expenses such as cost of goods sold, operating expenses, tax expenses, and interest expenses from the sales revenue.","Statement of Cash Flows: The statement of cash flows shows cash inflows, cash outflows, and net cash flows for operating activities, investing activities, and financing activities for a given period. The operating activities cash flow can be computed by using the indirect method or direct method."
+31,One of the purposes of the statement of cash flows is to _____.,evaluate the level of debt and leverage of a company,determine the operating income of a business,to calculate inventory turnover,predict the ability of a company to pay debts and dividends,D,"The correct answer is option
+D. predict the ability of a company to pay debts and dividends
+.
+The statement of cash flows shows net cash flows from three kinds of activities, namely, operating activities, investing activities, and financing activities. The net cash flow from operating activities represents the cash available from core operations and may be used to settle the outstanding debt and pay off dividends.
+The inventory turnover ratio considers the cost of goods sold and the average total assets available on the income statement and balance sheet. The level of debt and leverage of a company can be ascertained by using the assets and liabilities data available on the balance sheet. The operating income is shown on the income statement of a firm.",Cash Flow Statement: The cash flow statement is one of three prominent financial statements prepared by any firm for a given accounting period. It shows the net cash flows provided by three activities for the given period. It is usually prepared using the data available on the balance sheet and income statement.
+32,"A project's cash flows have a beta of 1.2, a standard deviation of $200, and a coefficient of variation of 0.40. What is the expected cash flow?",$80,$167,$240,$500,D,"Option
+d. $500
+is the correct answer.
+Given statement:
+Beta = 1.2
+Standard deviation = $200
+Coefficient of variation = 0.40
+Computation:
+{eq}\begin{align*}
+
+{\rm{Expected}}\;{\rm{cash}}\;{\rm{flow}} &= \frac{{{\rm{Standard}}\;{\rm{deviation}}}}{{{\rm{Coefficient}}\;{\rm{of}}\;{\rm{variation}}}}\\
+
+&= \frac{{\$ 200}}{{0.40}}\\
+
+&= \$ 500
+
+\end{align*}
+
+{/eq}
+Therefore, the expected cash flow is
+$500
+.","Coefficient of Variation: When comparing the variability of several datasets with distinct data values, the coefficient of variation, a statistical metric that represents the relative variability of a dataset, is frequently utilized."
+33,Let X be a continuous random variable with a mean 12.25 and a standard deviation of 1.05. Find P(X = 14).,0,2,3,-4,A,"Given: The given variable, X, is a continuous random variable, the mean value is {eq}\mu =12.25
+
+{/eq}, and the standard deviation is {eq}\sigma =1.05
+
+{/eq}.
+As we can see, the given variable, X, is a continuous random variable. So we cannot determine the value of the probability of it at a single point because we can only calculate the probability at an interval. Hence, the probability corresponding to the given point is zero.
+{eq}P\left( X=14 \right)=0
+
+{/eq}
+Thus,
+option (a) is correct.","Standard Deviation: The standard deviation is a mathematical term which is commonly determined by using the mathematical formula below. {eq}\text{Standard}\ \text{deviation}=\sqrt{\dfrac{\sum{{{\left( \text{Each}\ \text{value}\ \text{from}\ \text{population}-\text{Mean}\ \text{of}\ \text{the}\ \text{population} \right)}^{2}}}}{\text{Total}\ \text{number}\ \text{of}\ \text{data}\ \text{present}\ \text{in}\ \text{the}\ \text{population}}}
+
+{/eq}"
+34,"If a stock has a beta of 1.50, which statement best describes the volatility of this stock relative to the market beta of 1?",The stock is 50% less volatile than the market beta.,The stock is 50% more volatile than the market beta.,The stock's beta has no relationship to the market beta.,The stock has equal volatility to the market beta.,B,"Option b is correct because the beta shows the volatility of the stock and the stock beta is greater than market beta by 50 % which means that the stock is 50% more volatile than the market.
+Option a is incorrect because the volatility increases with the increase in stock.
+Option c is incorrect because there exists a relationship between the stock beta and the market beta.
+Option d is incorrect because the volatility of stock will be equal to market beta when the beta of the market and the stock are equal.",Volatility: Volatility refers to the movement in the price of the stock during a certain period of time. It represents the risk inherited in a stock. A higher volatility means that the stock is highly risky whereas low volatile stocks show low risk.
+35,"Diversifying, to reduce volatility, is a good idea, only if:",Firms are willing to invest in capital formation.,Firms account for social costs of production.,"Shareholders are willing to pay premium for a company, in order to reduce return volatility.",,A,"The answer is A.
+Firms should be willing to engage in capital formation if they want to use diversification as a means of reducing volatility. Capital formation refers to the accumulation over an accounting period; it entails the addition of various capital goods and investments. When a company diversifies into other various investments, the risk is spread out, thus reducing the impact of loss in one investment. Capital formation aids in the acquisition of capital used to finance other investments, thus enabling the firm to diversify easily.","Volatility: Volatility is a statistical measure that measures the dispersion of returns from an investment such as securities or market indices. Volatile assets are considered risky because the expected price cannot be predicted, while non-volatile assets prices can be easily predicted. An asset is said to be volatile when its values are spread out over a large value range."
+36,Answer the question based from the data of Columbia Sportswear Company in 2015 found in: https://www.sec.gov/Archives/edgar/data/1050797/000105079716000020/colm-20151231x10k.htm,$44.13 and $36.09,$45.87 and $34.25,$66.00 and $43.56,$62.19 and $41.11,C,"The correct option is c.
+The high and low price per share for Columbia Sportswear Company's common stock for the Fourth Quarter of 2015 is $66.00 and $43.56 respectively.","""High"" and ""Low"" stock prices: High and low prices in the stock market change every day. High stock prices for a day means the highest price reached by that stock during the day and low stock prices means the lowest price reached by the stock in a day. Based on these various analyses is made for example 52-week high stock price and 52-week low stock price or even on a monthly or quarterly basis."
+37,"As a measure of variability, compared to the range, an advantage of the standard deviation is:",being calculated easily through the use of a formula.,considering only the data values in the middle of the data array.,describing the distance between the highest and lowest values.,considering all data values.,D,"As a measure of variability, compared to the range, an advantage of the standard deviation is that it considers all data values.
+The range can also be calculated easily through the use of a formula, so option A is incorrect. Options B and C are incorrect too as option C describes the range and option B is incorrect as it is the opposite of the actual answer.
+Thus, the correct answer is
+D. considering all data values.",Standard Deviation and Range: The standard deviation and the range of data are two different measures of variability. The range is the study of the highest and the lowest values whereas the standard deviation is the study of how far away the different values of the data set are from the mean. These two can be used in the calculation of variability.
+38,"If the standard deviation of the sampling distribution of sample means is 7.0 for samples of size 64, then the population standard deviation must be",56.,448.,3136.,7.,D,"D. 7
+The standard deviation of sampling distribution is computed as,
+{eq}% MathType!Translator!2!1!AMSTeX.tdl!AMSTeX!
+
+% MathType!MTEF!2!1!+-
+
+% feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq-Jc9
+
+% vqaqpepm0xbba9pwe9Q8fs0-yqaqpepae9pg0FirpepeKkFr0xfr-x
+
+% fr-xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGceaabbeaacaqGtb
+
+% GaaeOlaiaabseacaqGUaGaaeypamaalaaabaGaae4Wdaqaamaakaaa
+
+% baGaaeOBaaWcbeaaaaaakeaacaqG3aGaaeypamaalaaabaGaae4Wda
+
+% qaamaakaaabaGaaeOnaiaabsdaaSqabaaaaaGcbaGaae4naiaab6ca
+
+% caqGOaWaaOaaaeaacaqG2aGaaeinaaWcbeaakiaabMcacaqG9aGaae
+
+% 4WdaqaaiaabwdacaqG2aGaaeypaiaabo8aaaaa!4A73!
+
+\displaylines{
+
+{\text{S}}{\text{.D}}{\text{. = }}\frac{{\text{sigma }}}{{\sqrt {\text{n}} }} \cr
+
+{\text{7 = }}\frac{{\text{sigma }}}{{\sqrt {{\text{64}}} }} \cr
+
+{\text{7}}{\text{.(}}\sqrt {{\text{64}}} {\text{) = sigma }} \cr
+
+{\text{56 = sigma }} \cr} % MathType!End!2!1!
+
+{/eq}",Standard deviation The concept of standard deviation is typically brought into the picture by considering the probable dispersion in series. A higher magnitude of standard deviation reflects the extent of more spread out in the series.
+39,1. Larger values of the standard deviation result in a normal curve that is:,shifted to the left.,shifted to the right.,narrower and more peaked.,wider and flatter.,D,"A normal curve is in the shape of a downward bell where the probability values are plotted on the y-axis and the observations are plotted on the x-axis. The bell curve has a maxima at the mean and is symmetrical about the mean. The standard deviation is a measure of how spread out the data is. Hence,
+as the standard deviation increases, it means that there is a larger difference between the mean and the extreme values, hence it becomes wider, and flatter, as the probability of the values at the mean observation decreases.
+Thus,
+D. is the correct answer.","Standard Deviation Standard deviationis a measure of the dispersion that is present in our sample with respect to its mean. It basically takes into account all the outliers and the data points which are close to the mean. Alow standard deviationindicates that the values are clustered around the mean, whereas ahigh standard deviationindicates the presence of outliers in a manner where data points are spread out across the entire range. Along with the mean, the standard deviation is very important to get an idea about what the data set represents."
+40,Which of the following measures the impact of a change in the underlying stock price volatility on an option price?,Vega,Rho,Delta,Theta,A,"The correct answer is option
+a. Vega.
+The deviation in the price of an option due to an up or down in the volatility of the underlying asset is assessed by vega. An increase in volatility will generally lead to an increase in option prices, and a decrease in volatility will generally lead to a decrease in option prices. The option price will change due to a shift of even one-point implied volatility.
+Explanation for the incorrect options:
+b. Rho
+: Rho is a risk measure that indicates how much the price of an option will change in response to a change in the interest rate. It gauges how sensitive an option price is to interest rate fluctuations. It shows how much the option price will change if the risk-free interest rate changes by one percentage point.
+c. Delta
+: The alteration in the price of an option due to an increase or decrease in the price of the underlying asset is assessed by delta. It is represented as the amount that the option price will change for a one-point change in the underlying asset price. It reflects positive value for the call options.
+d. Theta
+: Theta is a way through which the fall in the price of the option can be seen in consideration of time. It shows how the option price will alter for each passing day to expiration. Theta is often used to evaluate the effect of time decay on option prices, which tends to erode the value of options as they approach expiration.",Stock Market Volatility: Stock market volatility is a metric people use to determine the total increase or decrease in the stock market value. It is highly affected when an unknown external factor hits the market.
+41,If you want to know the portfolio standard deviation for a three stock portfolio you will have to:,Calculate two covariances and one trivariance,Calculate only two covariances,Calculate three covariances,Average the variances of the individual stocks,C,"The correct answer is
+c. Calculate three covariances
+.
+Assuming the portfolio consists of stocks A, B, and C, you must calculate the covariance of A and B, the covariance of A and C, and the covariance of B and C.",Standard Deviation: Standard deviation is a statistical measure that explains the extent to which a set of data points is distributed about the population mean.  It is commonly used to evaluate the risk of an investment.
+42,Cash flow can be said to equal:,income before depreciation and taxes minus taxes,income before depreciation and taxes plus taxes,income before depreciation and taxes plus depreciation,income after taxes minus depreciation,A,"The correct answer is option
+A. income before depreciation and taxes minus taxes
+.
+The operating cash flow is given by:
+{eq}\begin{align*}
+
+&=  \text{Sales - cost of goods sold - operating expenses excluding depreciation - taxes} \\[0.3 cm]
+
+&= \text{Income before depreciation and taxes - taxes}
+
+\end{align*}
+
+{/eq}
+The depreciation expense is a non-cash expense so it does not affects the operating cash flows.","Cash Flows: The total net cash flows of a firm during a given period can be bifurcated into cash outflows and cash inflows. Moreover, they can be categorized into cash related to operating activities, investing activities, and financing activities."
+43,"Assume a corporation has earnings before depreciation and taxes of $82,000, depreciation of $45,000, and that it has a 30 percent tax bracket. What are the after-tax cash flows for the company?","$70,900","$82,000","$42,000",None of these,A,"The correct answer is option
+a. $70,900
+.
+The net income for the company is given by:
+{eq}\begin{align*}
+
+&= \text{(Earnings before taxes and depreciation - depreciation) * (1 - tax percent)} \\[0.3 cm]
+
+&= ($82,000 - $45,000) * (1 - 30\%) \\[0.3 cm]
+
+&= $37,000 * 0.70 \\[0.3 cm]
+
+&= $25,900
+
+\end{align*}
+
+{/eq}
+The after-tax cash flows for the company are given by:
+{eq}\begin{align*}
+
+&= \text{Net income + depreciation} \\[0.3 cm]
+
+&= $25,900 + $45,000 \\[0.3 cm]
+
+&= $70,900
+
+\end{align*}
+
+{/eq}","Cash Flows for a Firm: The cash flows for a firm in a given period are usually categorized into cash flows from operating activities, cash flows from investing activities, and cash flows from financing activities. The cash flows from operating activities are usually calculated by using the indirect method."
+44,"A stock had returns of 6 percent, 9 percent, 2 percent, and 12 percent over the past 4 years. What is the standard deviation of this stock for the past four years?",4.4 percent,15.3 percent,8.8 percent,2.8 percent,A,"The correct answer is option a. 4.4 percent.
+Given information:
+Table showing the return on the stock:
+Year (N)
+Return on the stock
+1
+6%
+2
+9%
+3
+2%
+4
+12%
+Calculation of the standard deviation:
+{eq}\begin{align*}{\rm\text{Standard deviation}} &= {\left[ {\frac{{{{\left( {{\rm\text{Return}}\,1 - {\rm\text{Average return}}} \right)}^2} + {{\left( {{\rm\text{Return}}\,2 - {\rm\text{Average return}}} \right)}^2} + {{\left( {{\rm\text{Return}}\,3 - {\rm\text{Average}}\;{\rm\text{return}}} \right)}^2} + {{\left( {{\rm\text{Return}}\,4 - {\rm\text{Average return}}} \right)}^2}}}{{{\rm\text{N}} - 1}}} \right]^{\frac{1}{2}}}\\ &= {\left[ {\frac{{{{\left( {6\% - 7.25\% } \right)}^2} + {{\left( {9\% - 7.25\% } \right)}^2} + {{\left( {2\% - 7.25\% } \right)}^2} + {{\left( {12\% - 7.25\% } \right)}^2}}}{{4 - 1}}} \right]^{\frac{1}{2}}}\\ &= {\left[ {18.25\% } \right]^{\frac{1}{2}}}\\ &= 4.3\% \end{align*} {/eq}
+Therefore, the standard deviation of the stock for the past 4 years is 4.3%.
+This value is not mentioned above options. So, taking the nearest value. That is, 4.4%.
+Working note:
+Calculation of the average return:
+{eq}\begin{align*}{\rm\text{Average return}} &= \frac{{{\rm\text{Return}}\,1 + {\rm\text{Return}}\,2 + {\rm\text{Return}}\,3 + {\rm\text{Return}}\,4}}{{{\rm\text{Number of years}}}}\\ &= \frac{{6\% + 9\% + 2\% + 12\% }}{4}\\ &= \frac{{29\% }}{4}\\ &= 7.25\% \end{align*} {/eq}
+Thus,
+the average return is 7.25%.",Standard deviation: The standard deviation is a criterion for assessing the degree of uncertainty attached to an investment opportunity. The overall risk tied to the stock will grow if the standard deviation rises.
+45,The numerical value of the standard deviation can never be:,larger than the variance,zero,negative,smaller than the variance,C,"The numerical value of the standard deviation can never be:
+c. negative
+.
+This value is simply the square root of variance. Note that by squaring a number, we cannot get a negative result. Because of this, the standard deviation can never be negative. It can, however, be equal to zero, smaller than the variance, or even larger than the variance (for example, if the variance is between 0 and 1).","Standard Deviation: This is a statistical measure that determines the amount of dispersion in a given data set. The higher it is, the greater the values' distance from the mean."
+46,Bae Inc. is considering an investment that has an expected return of 24% and a standard deviation of 10%. What is the investment's coefficient of variation?,0.49,0.52,0.50,0.42,D,"The coefficient of variation is 0.42 (d)
+The calculation is shown below.
+{eq}Coefficient \ of \ variation \ = \ \dfrac{Standard \ deviation}{Expected \ return}
+
+\\
+
+Coefficient \ of \ variation \ = \ \dfrac{10\%}{24\%}
+
+\\
+
+Coefficient \ of \ variation \ = \ 0.42
+
+{/eq}",Standard Deviation: Standard deviation is an important statistical calculation that calculates the deviation of values in the data set from its mean value. Standard deviation can be calculated by taking the square root of variance.
+47,A sample of 10 students completes a quiz in the following times (in minutes).,3,6.16,9.09,18.48,C,"The correct answer is:
+c. 9.09
+The formula for calculating the standard deviation of a sample is:
+{eq}\sigma=\sqrt{\dfrac{\sum(x_i-\bar x)^2}{n-1}}
+
+{/eq}
+Where:
+{eq}\bar x=\dfrac{\sum x_i}{n}
+
+{/eq} is the sample mean and,
+{eq}n
+
+{/eq} is the sample size.
+In our question, we have the following data:
+{eq}28, 32, 24, 46, 44, 40, 54, 38, 32, 42
+
+{/eq}
+From the data, we can generate the following table:
+x
+(x-38)
+(x-38)^2
+28
+-10
+100
+32
+-6
+36
+24
+-14
+196
+46
+8
+64
+44
+6
+36
+40
+2
+4
+54
+16
+256
+38
+0
+0
+32
+-6
+36
+42
+4
+16
+Sum
+380
+744
+From the table, the mean is equal to:
+{eq}\bar x=\dfrac{380}{10}\\[0.3cm]
+
+\bar x=38
+
+{/eq}
+Therefore, the standard deviation is equal to:
+{eq}\sigma=\dfrac{744}{10-1}\\[0.3cm]
+
+\sigma\approx \boxed{\color{blue}{9.09}}
+
+{/eq}","Standard Deviation: In statistics, the standard deviation determines the average deviation of each data point from the average value of the data or the mean of the data. Thus, the standard deviation is one of the measures of variability."
+48,"Over the past six years, a stock had annual returns of 2 percent, 10 percent, 14 percent, 8 percent, -6 percent, and 8 percent, respectively. What is the standard deviation of these returns?",7.04 percent.,8.38 percent.,11.97 percent.,7.19 percent.,D,"The correct answer is option D. 7.19%
+Step 1: Calculation of average return:
+{eq}\begin{align*}{\rm{Average}}\,{\rm{Return}} &= \frac{{{\rm{Sum}}\,{\rm{of}}{\rm{observations}}}}{{{\rm{Number}}\,{\rm{of}}\,{\rm{observations}}}}\\ &= \frac{{2\% + 10\% + 14\% + 8\% + \left( {6\% } \right) + 8\% }}{6}\\ &= \frac{{36\% }}{6}\\ &= 6\% \end{align*} {/eq}
+Therefore, the average return is 6%
+Step 2: Calculation of variance:
+{eq}\begin{align*}{\rm{Variance}} &= \frac{{{{\left( {{\rm{Value}}\,\,{\rm{of}}\,{\rm{each}}\,{\rm{observation}} - {\rm{Average}}\,{\rm{return}}} \right)}^2}}}{{{\rm{Number}}\,{\rm{of}}\,{\rm{observations}} - 1}}\\ &= \frac{{{{\left( {2\% - 5\% } \right)}^2} + {{\left( {10\% - 5\% } \right)}^2} + {{\left( {14\% - 5\% } \right)}^2} + {{\left( {8\% - 5\% } \right)}^2} + {{\left( { - 6\% - 5\% } \right)}^2} + {{\left( {8\% - 5\% } \right)}^2}}}{{6 - 1}}\\ &= \frac{{9\% + 25\% + 81\% + 9\% + 121\% + 9\% }}{5}\\ &= 50.8\% \end{align*} {/eq}
+Hence, the variance is 50.8% or 0.508
+Step 3: Calculation of standard deviation:
+{eq}\begin{align*}{\rm{Standard}}\,{\rm{Deviation}} &= \sqrt {{\rm{Variance}}} \\ &= \sqrt {50.8\% } \\ &= 7.12\% \end{align*} {/eq}
+Therefore, the standard deviation is 7.12 %, and the nearest option is 7.19%. Hence, option E is correct.","Standard Deviation: In a data set, when the observation deviates from its original position, the standard deviation calculates the change in the observation path to be brought back to its mean position."
+49,The cost associated with each additional dollar of financing for investment projects is:,the incremental return,the marginal cost of capital,risk-free rate,beta,B,"The correct answer is
+B
+.
+Explanation:
+The marginal cost of capital is a concept that helps an organization determine the cost of acquiring additional capital. It helps in decision-making regarding whether to raise additional funds or not. It also facilitates the determination of the proportion of the additional fund acquisition if the company decides to finance its investment. However, the long-term effects of the financing are not considered, which makes it unsuitable for a newly established firm.
+The Explanation for Incorrect Options:
+Option A: The incremental return is the profit earned due to selecting a particular course of action.
+Option C: A risk-free rate depicts the rate offered by an investment. Therefore, this is the incorrect option.
+Option D: It measures the systematic risk associated with an investment. Hence, it is incorrect.","Financing: Financing can be explained as a set of sequential steps followed to acquire funds for the smooth conduct of business operations. Examples are borrowing, issuing debt, bonds or securities."
+50,"A {eq}C_{p}
+
+{/eq} value of 1.33 indicates a standard of how many standard deviations (sigmas)?",) 1.33,) 4,) 2,) 6,B,"The answer is
+b.) 4
+A Cp value of 1.33 represents 4 standard deviations. The Cp index or process capability is the probability to produce an output within certain boundaries. It is used to determine how capable a process is and the higher the Cp value is above one, the more capable the process is.","Standard Deviation In the six-sigma process, standard deviation is the most important element. The standard deviation between units of production refers to the extent to which those units differ from the average product (mean)."

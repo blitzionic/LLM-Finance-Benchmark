@@ -1,0 +1,452 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"In a year in which common stocks offered an average return of 18 percent, Treasury bonds offered 10 percent and Treasury bills offered 7 percent, the risk premium for common stocks was:",1 percent,3 percent,8 percent,11 percent,D,"Correct answer: Option D) 11%.
+Explanation:
+Risk premium = Expected average return - Return from Treasury bills
+Risk premium = 18% - 7%
+Risk premium = 11%","Risk Premium: The excess of the expected return over the risk-free return is called the risk premium. Under the capital asset pricing model, the required return is determined by adding the product of the beta coefficient and the risk premium to the risk-free return. The risk premium represents a compensation for investing in highly-risky securities."
+2,"Using the dividends-based approach, estimate the return on investment for an investment that has a dividend yield of 7% and a dividend growth of 1%.",6%,7%,8%,9%,A,"Let us compute the return on investment using the dividends-based approach. The formula is:
+{eq}Expected\:return = \dfrac{Dividends}{Price\:of\:stock} + Growth\:rate \\
+
+OR \\
+
+Expected\:return = Dividend\:yield + Growth\:rate
+
+{/eq}
+Since we know the dividend yield and the dividend growth rate, we use the second formula.
+{eq}Expected\:return = Dividend\:yield + Growth\:rate \\
+
+Expected\:return = 7\text{%} + 1\text{%} \\
+
+Expected\:return = 8\text{%}
+
+{/eq}
+The estimated return on investment is
+c. 8%.",Dividends-Based Approach: The dividends-based approach is a method used to determine the expected rate of return. The return is based on the dividends received from investing in a stock and the dividends' growth.
+3,"You've observed the following returns on Crash-n-Burn Computer's stock over the past five years: 2 percent, -10 percent, 25 percent, 20 percent, and 13 percent. The average inflation rate over this period was 3.2 percent and the average T-bill rate was 4.2 percent.",5.28%,4.12%,0.66%,5.80%,D,"The answer is
+d. 5.80%.
+Given information:
+Return in year 1 (r1) = 2%
+Return in year 2 (r2) = -10%
+Return in year 3 (r3) = 25%
+Return in year 4 (r4) = 20%
+Return in year 5 (r5) = 13%
+Risk-free rate = 4.2%
+Study period (N) = 5 years
+Determine the average rate of return for the 5 years:
+{eq}\text{Average return} = \displaystyle \frac{r1 + r2 + r3 + r4 + r5}{N} \\
+
+\text{Average return} = \displaystyle \frac{2\% - 10\% + 25\% + 20\% + 13%}{5} \\
+
+\text{Average return} = \displaystyle 10\% {/eq}
+Determine the average risk premium on this stock:
+{eq}\text{Average risk premium} = \displaystyle \text{Average return} - \text{Risk-free premium} \\
+
+\text{Average risk premium} = \displaystyle 10\% - 4.2\% \\
+
+\text{Average risk premium} = \displaystyle 5.8\% {/eq}","Risk Premium: The risk premium on investment refers to an excess return between the investment's rate of return and the risk-free rate. Alternatively, this risk premium can be treated as a required additional return on the investment that an investor gives up the risk-free investment."
+4,Which one of the following statements is correct based on the period 1926-2013?,Long-term government bonds had more volatile annual returns than did the long-term corporate bonds.,The standard deviation of the annual rate of inflation was less than 3%.,The geometric average annual return on large-company stocks was higher than the average arithmetic return on those same stocks.,The risk premium on small-company stocks was less than 10%.,D,"The correct answer is ""d. The risk premium on small-company stocks was less than 10%.""  The historical market risk premium for equities has averaged between 3.5% and 5.5% the last century.  Small cap stocks are at the higher end of the spectrum, given their inherently higher degree of volatility relative to large cap stocks.","Market Risk Premium: This question calls for a basic understanding of the concept of the market risk premium.  Essentially, the market risk premium is the difference between the expected return of an equity portfolio and the risk-free rate of return, which is generally considered to be the yield on a U.S. Treasury bill."
+5,Given the following data:,5.6%,7.6%,11.7%,None of the given answers,A,"Option
+C
+. 11.7% is the correct answer.
+Given information:
+Risk-free rate
+4%
+Average risk premium
+7.7%
+Computation of the required rate of return:
+Given the following data:
+Risk-free rate
+4%
+Add: Average risk premium
+7.7%
+Required rate of return
+11.4%
+Therefore, the required rate of return is
+11.4%.",Average Risk Premium: The increased return investors anticipate earning while investing in a risky asset instead of a risk-free asset is the average risk premium. Investors need this premium in exchange for taking on more risk.
+6,"If the average annual rate of return for common stocks is 11.7 percent, and 4.0 percent for U.S. Treasury bills, what is the average market risk premium?",15.7 percent,4.0 percent,7.7 percent,Not enough information is provided.,C,"Correct option is 7.7% (C).
+The calculation for the average market risk premium is shown below.
+Particulars
+Amount
+Average annual return
+11.70%
+Less:
+Risk-free rate
+4%
+Average market risk premium
+7.7%",Market Risk Premium: The market risk premium is the difference between the risk-free rate of return and the estimated return of the market. The market risk premium is used in the calculation of the capital asset pricing model.
+7,"Calculate the required rate of return for Avy Inc., assuming that the company has a beta of 1.10, while investors expect treasury bills to be yielding 3.0%, with a market risk premium is 5.0%.",8.50%,10.83%,11.40%,12.00%,A,"The required rate of return is 8.50% (a)
+The calculation is shown below.
+Required rate of return = Risk-free rate + (Beta * Market risk premium)
+Required rate of return = 3% + (1.1 * 5%)
+Required rate of return = 3% + 5.50%
+Required rate of return = 8.50%",Risk-Free Rate: The total return generated by government-backed securities is known as a risk-free investment. The value of the risk-free return is used in the capital asset pricing model to calculate the expected return of the common stock.
+8,Which of the following factors contribute to the existence of firms?,All of these factors contribute to firm existence.,Risks associated with specialization,Incomplete contracts,Willingness of some people to take on risk in exchange for residual income,D,"The correct option is
+D) Willingness of some people to take on risk in exchange for residual income
+.
+Starting your own firm carries risk as there is always the possibility that the firm may fail and all the money put into it will be lost. As result, only people who are willing to take on this risk open their own firms. They do so because they know that if they are successful, they will be rewarded for taking the higher risk in the form of a risk premium.","Firms: A firm is an entity that produces goods and services. For any economy to function, firms are necessary as firms are the ones who allocate resources for the production of goods and services."
+9,The historical record fails to show that investors have received a risk premium for holding risky assets.,True,False,,,B,"The statement is b. False. Investors engaged in the U.S stock market experience a substantial risk premium over the decades. The U.S stock market often deals with risky investments via common stocks. And one can analyze in the historical records that the investor may receive the risk premium over holding the investments on the common stock rather than on risk-free assets, such as a treasury-bill.","Investor The investor is an individual who invest money on investments and provide capital to the business with a motive to earn returns in the future. The person can invest in different avenues, like stock, commodities, as well as financial securities."
+10,Which of the following is the formula used to describe the components of risk premium?,Risk Premium= Expected Return + Projected Return,Total Returns= Expected Return + Unexpected Return,Unexpected Returns = Systematic Portion + Unsystematic Portion,Risk Premium = Expected Return - Risk-Free Rate,D,"The correct formula for risk premium is option D.
+Market risk premium is a rate difference between:
+market's expected return, which is obtained from the historical returns of the market
+risk-free rate, which is determined from zero risk investment, like treasury bonds
+So, the formula is:
+{eq}\begin{align}
+
+\text{Risk premium} &= \text{Expected market return - Risk-free rate} \\
+
+\end{align}
+
+{/eq}
+Analysis of other options
+A. It is an incorrect formula of risk premium since expected return is reduced by risk-free rate, not increased by projected return.
+B. It is a formula for total return, not risk premium.
+C. The formula is for unexpected returns, not risk premium.","Risk Premium: The risk premium is a part of calculating the expected return under the capital asset pricing model (CAPM), which applies to the computation of stock price."
+11,A risk premium is:,the difference between the earnings of a low-risk asset and a high-risk asset.,a premium paid to a security holder to compensate him for bearing higher risk.,both A and B,none of the above,A,"Option A (the difference between the earnings of a low-risk asset and a high-risk asset.) is correct.
+Reason: It is because risk premium shows the maximum probable yield which an asset can provide to an investor in excess of a low-risk or risk-free return.
+Explanations for Incorrect Options:
+Option B: This option is partially incorrect because it didn't mention lower risk. Even an investor investing in a low-risk asset will also pay a premium to the security holder for bearing a low risk.
+Option C: Option B did not mention the low-risk investors.
+Option D: Option A elucidated upon the definition of risk premium.","Risk Whenever an investor takes a risk in an investment decision, it refers to what extent he is exposing himself to an uncertain situation where an investor can have a probability of losing money instead of getting a return."
+12,"For a given set of possible cash flows, as the required risk premium for a project increases, its price must decrease to entice investors to purchase the asset.",True,False,,,A,"Correct Answer: True
+When the required risk premium increases, the project's discount rate also increases. With the maximization in the discount rate, the discounted value of net cash flows decreases. So, the price must also decrease for the asset so that the positive value is generated from the project. Hence, with an increase in the risk premium, the price must decrease to generate positive value addition and entice investors to purchase the asset.","Risk Premium: The risk premium is a projects' incentive whose value increases with decreasing cash flows predictability. While searching for different shares, a potential shareholder looks at whether this incentive matches with the shareholders' desired incentive or not."
+13,The risk-free rate of return is 4.2 percent and the market rate of return is 8.5 percent. What is the expected return for a stock with a beta of 1.4?,11.90 percent,16.10 percent,10.22 percent,12.70 percent,C,"The expected return for a stock is 10.22% (C).
+Calculation is shown below:
+Expected return = Risk-free rate + (Beta * (Market rate of return - Risk-free rate))
+Expected return = 4.2% + (1.4 * (8.5% - 4.2%))
+Expected return = 4.2% + (1.4 * 4.3%)
+Expected return = 4.2% + 6.02%
+Expected return = 10.22%",Risk-Free Rate of Return: The total return generated by government-backed securities is considered to be a risk-free return. The total return generated by risk-free investment is considered a benchmark for other investments.
+14,"Desreumaux Inc's stock has an expected return of 12.25%, a beta of 1.25, and is in equilibrium. If the risk-free rate is 5.00%, what is the market risk premium?'",5.80%,5.95%,6.09%,6.25%,A,"The correct answer is
+A) 5.80%
+Given information:
+Expected return = 12.25%
+Beta = 1.25
+Risk-free rate = 5.00%
+Let's calculate the market risk premium:
+{eq}\begin{align*}
+
+{\rm{Market}}\;{\rm{risk}}\;{\rm{premium}} &= \frac{{{\rm{Expected}}\;{\rm{return}} - {\rm{Risk}}\;{\rm{free}}\;{\rm{rate}}}}{{{\rm{Beta}}}}\\
+
+&= \frac{{12.25\%  - 5\% }}{{1.25}}\\
+
+&= 5.8\%
+
+\end{align*}
+
+{/eq}
+If the risk-free rate is 5.00%, the market risk premium is 5.80%.","Market Risk Premium: The market risk premium is the extra return an investor gets to ensure they may invest in a stock or portfolio instead of risk-free securities. Due to the increased risk, the portfolio's return is higher."
+15,"In a year which common stocks offered an average return of 18 percent, Treasury bonds offered 10 percent and Treasury bills offered 7 percent, the risk premium for common stocks was:",1 percent.,3 percent.,8 percent.,11 percent.,D,"Correct Answer: Option D. 11 percent.
+Explanation:
+Risk premium = Expected average market return - Risk-free return
+Risk premium = 18% - 7%
+Risk premium = 11%
+The risk-free return is indicated by the rate on treasury bills.",Risk Premium: The difference between the market return and the risk-free return is called the risk premium. The risk premium is multiplied by the stock beta and added to the risk-free return to determine the expected return.
+16,The return on a security includes premiums for:,market risk and unique risk.,unique risk and firm-specific risk.,diversification and portfolio risk.,time value of money and market risk.,D,"The answer is
+D. time value of money and market risk
+.
+The market risk premium is the part of a security's return that exceeds the risk-free rate of return. It measures the compensation an investor gets for choosing an investment riskier than a market investment. On the other hand, the premium for the time value of money is the return an investor gets as a consequence of the waiting period for receiving the money initially invested. Hence, it is typically larger for securities with longer maturities and vice versa.",Risk Premium: A risk premium is an excess return an investor is going to gain from holding risky security. It is treated as compensation for investing in risky assets rather than in risk-free securities such as Treasury bonds.
+17,"Historically speaking, the market risk premium in Italy has been higher than that of the United States.",True,False,,,A,"The answer is a. true.  In recent history, the United States has exhibited stronger economic growth and less volatile year-to-year experience.  Italy has been hampered by a heavy debt load and an unusually high level of unemployment.  Given the higher degree of uncertainty and downside exposure in Italy, its market risk premium has been higher than that of the United States.",Market Risk Premium: A market risk premium is the incremental return one can expect (above the risk-free rate) for investing in the public equities market of a given economy.
+18,A safe dollar is always worth less than a risky dollar because the rate of return on a safe investment is generally low and the rate of return on a risky investment is generally high.,True,False,,,B,"The answer is b. False.  When contemplating the discounting process for a safe dollar versus a risky dollar, the former will be subject to a lower discount rate than the latter.  The lower rate will have a smaller discounting effect on the safe dollar than the risky dollar.  This will result in a larger present value for the safe dollar than the risky dollar.","Risk vs. Reward: A fundamental tenet of investing is the risk/reward tradeoff.  Generally, this is a fairly strong direct relationship between risk and return.  Higher levels of one correspond with higher levels of the other.  Lower levels of one correspond with lower levels of the other."
+19,The stock of United Industries has a beta of 1.26 and an expected return of 11.8. The risk-free rate of return is 5 percent. What is the expected return on the market?,12.31,7.83,6.80,10.40,D,"The correct answer is Option
+D) 10.40%
+.
+Given Information
+{eq}\begin{align*}
+
+{\rm\text{Let}}\;{R_m}\;{\rm\text{be}}\;{\rm\text{the}}\;{\rm\text{expected}}\;{\rm\text{return}}\;{\rm\text{on}}\;{\rm\text{market}}\\
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+\beta  &= 1.26\\
+
+E(r) &= 11.8\% \\
+
+{R_f} &= 5\%
+
+\end{align*}
+
+{/eq}
+Computation of expected return on market
+Using CAPM Model,
+{eq}\begin{align*}
+
+E(r) &= {R_f} + \beta  \times \left( {{R_m} - {R_f}} \right)\\
+
+{R_m} &= \left( {\dfrac{{E(r) - {R_f}}}{\beta }} \right) + {R_f}\\
+
+&= \dfrac{{11.8\%  - 5\% }}{{1.26}} + 5\% \\
+
+&= 5.40\%  + 5\% \\
+
+&= 10.40\%
+
+\end{align*}
+
+{/eq}
+Thus, the expected return on market is 10.40%.",Expected Return on Market: The expected return on the market can be calculated using the CAPM model. The market risk premium is the return over and above the risk-free rate of return used for calculating expected return.
+20,Zoom stock has a beta of 1.46. The risk-free rate of return is 3.07 percent and the market rate of return is 11.81 percent. What is the amount of the risk premium on Zoom stock?,8.09%,12.76%,9.59%,10.25%,B,"Option B) is correct.
+The amount of the risk premium on Zoom stock is 12.76%.
+Risk premium = Beta * (Market return - Risk-free rate)
+Risk premium = 1.46 * (11.81% - 3.07%)
+Risk premium = 1.46 * 8.74%
+Risk premium = 12.76%",Risk Premium: Risk premium refers to the difference between market return and the return generated by the asset. The risk premium is calculated while determining the total return generated by a particular asset.
+21,The spread between the interest rates on bonds with default risk and default-free bonds is called the:,risk premium,junk margin,bond margin,default premium,A,"The correct answer is A
+; risk premium.
+The spread between the interest rates on bonds with default risk and default-free bonds represents the compensation investors demand for taking on additional risk. This compensation is referred to as the risk premium.
+Reason for incorrect option:
+B
+: Junk margin is not a commonly used term in finance and is not related to the spread between interest rates on bonds with default risk and default-free bonds.
+C
+: Bond margin is a term that may refer to the amount by which the market value of a bond exceeds its face value. It has nothing to do with the difference in interest rates among bonds with and without risk of default.
+D
+: Default premium is also a term used in finance, which refers specifically to the additional interest rate that investors demand to compensate for the risk of default on a particular bond. It is a narrower term than risk premium, encompassing all additional compensation investors demand, taking on additional risk.","Risk Premium: The risk premium is the surplus gain investors ask for holding an investment with a higher degree of risk than a lower-risk investment, and it depends on the risk investors perceive to face."
+22,"If the average annual rate of return for common stocks is 11.7%, and 4.0% for U.S. Treasury bills, what is the average market risk premium?",15.7%,4.0%,7.7%,Not enough information provided,C,"The correct answer to the given question is option
+C. 7.7%
+.
+The average market risk premium is given by:
+{eq}\begin{align*}
+
+&= \text{Average annual rate of return for common stocks - average return on U.S. Treasury bills} \\[0.3 cm]
+
+&= 11.7\% - 4\% \\[0.3 cm]
+
+&= 7.7\%
+
+\end{align*}
+
+{/eq}","Market Risk Premium: In the parlance of finance, the security risk premium for a given common stock is usually ascertained by taking into account the market risk premium offered by the benchmark index and the beta coefficient of the security. The other risk premiums, which may also be considered are default risk premium, maturity risk premium, and liquidity risk premium."
+23,"If the {eq}r_f = 0.06
+
+{/eq} and the {eq}r_x = 0.10
+
+{/eq}, calculate the risk premium for {eq}x
+
+{/eq}.",0.02,0.03,0.04,0.05,C,"The correct answer is:
+C. 0.04
+Risk premium on an asset is calculated as:
+{eq}\text{Risk premium}=r_m-r_f
+
+{/eq}
+Where {eq}r_m
+
+{/eq} is the market rate of return and {eq}r_f
+
+{/eq} is the risk-free rate of return.
+Given that the market rate of return for X is {eq}r_x=0.10
+
+{/eq} and the risk-free rate of return is {eq}r_f=0.06
+
+{/eq}, then the risk premium is equal to:
+{eq}\text{Risk premium}=0.10-0.06\\[0.3cm]
+
+\text{Risk premium}=\boxed{\color{blue}{0.04}}
+
+{/eq}","The Security Market Line (SML): In finance, the security market line (SML) is graphed using the capital asset pricing model (CAPM) equation. Its slope, which is the difference between the market rate of return and the risk-free rate of return represents the asset's risk premium."
+24,"In a perfect capital market with risk-neutral investors, expected returns on all bonds must equal the risk-free rate.",True,False,,,A,"The given statement is True
+In the perfect capital market, risk-neutral investors refer to the investors who look at a potential gain in the investment. In the market, the bonds equate with the T-bills interest rate. And the rate at which investors calculate their gain will consider as the risk for the averse investors in the market. So, the return on the bonds will equal the risk-free rate at which the investors have made their mindset for potential gain in the market on the bonds.",Perfect Capital Market: A market that promotes every investor to participate in changing the price of given assets is called a perfect capital market. It provides full access to information to its investors for increasing the competition in the market.
+25,Which of the following is the formula used to describe the components of a risk premium?,risk premium = expected return + projected return,total returns = expected return + unexpected return,unexpected returns = systematic portion + unsystematic portion,risk premium = expected return risk - free rate,D,"The answer is
+d. risk premium = expected return - risk-free rate
+By its definition, a risk premium is determined by subtracting the risk-free rate from the nominal rate of return or the expected return. It refers to the additional risk associated with a particular investment over the risk-free rate.
+Risk premium = Expected return - Risk-free rate","Risk Premium: Depending on an investment's features, the investment can experience an inflation risk premium, credit risk premium, or default risk premium. The investor will expect a higher return on an investment with a higher risk premium."
+26,The risk premium is likely to be highest for:,U.S. government bonds.,corporate bonds.,gold mining expedition.,Either B or C,C,"The correct option is (C)
+.
+The risk premium is likely to be highest for gold mining expedition because it is the process in which less investment is involved in comparison to its return and that is why it would result in the highest risk premium for a company or an individual. Certain investors are involved in this purpose need compensation in excess of the risk-free rate of return which is known as a high-risk premium.
+Hence, it is the correct option.",Financial Accounting Financial accounting measures the financial capacity or the financial structure of an organization by recording the transactions that would be measured in monetary or economic terms only. It is one of the divisions of accounting.
+27,Which of the following countries has had the lowest risk premium?,U.S.,Denmark,Italy,Germany,B,"Answer: B. Denmark
+Explanation:
+Option B: As per the cited source of risk premium, Denmark is spotted as the lowest risk premium country, approximately an average of 6.1 percentages.
+Options A, and D: By referring to the data on the given subject, it can be assessed that range of risk premium percentages is medium in the U.S and Germany, which is 5.23%.
+Option C: Italy has the highest risk premium than other countries, around 8.46%.",Risk premium The risk premium is the excess of the awaited return on the risky asset over return on risk-free assets. It is a kind of payment given to investors to tolerate the potential risk of a particular endowment over that of a risk-free asset.
+28,Which of the following is the most appropriate market risk premium to use in the calculation of the cost of equity?,0% - 1%,2% - 3%,10% +,6% - 7%,D,"The correct answer is d. 6%-7%.
+Although the estimated market risk premium can vary over time, according to the SBBI Yearbook, the average risk premium for the period 1926 - 2015 was 6.6%.  The market risk premium varies substantially from one year to the next and it can be negative when the stock market return is negative.","Market Risk Premium: The market risk premium is the difference between the return investors require for holding the market portfolio and the risk free rate.  For example, if the S&P500 return for a given year is 13% and Treasury bonds yield 3%, the market risk premium will be 10%."
+29,A stock is selling for $45.75 with a call option available at a $40 strike that has a premium of $7.50. What percentage of the common stock price does the speculative premium represent?,16.39%,14.375%,12.57%,3.83%,D,"Option
+d
+,
+3.83%
+is the correct answer.
+Given information:
+Stock price = $45.75
+Strike value = $40
+Option price = $7.50
+Computation of the speculative premium;
+Strike value
+$40
+Add: Option price
+$7.50
+Less: Stock price
+($45.75)
+Speculative premium
+$1.75
+Percentage of the speculative premium:
+{eq}\begin{align*} {\rm{Percentage}}\;{\rm{of}}\;{\rm{the}}\;{\rm{speculative}}\;{\rm{premium}} &= \frac{{{\rm{Speculative}}\;{\rm{premium}}}}{{{\rm{Stock}}\;{\rm{price}}}}\\ &= \frac{{\$ 1.75}}{{\$ 45.75}}\\ &= 3.83\% \end{align*} {/eq}
+Therefore, the percentage of the speculative premium is
+3.83%.","Speculative Premium: The phrase ""speculative premium"" is used in the futures market. Theoretically, accepting the price risk by adopting the opposite position from the hedges would justify a speculative premium."
+30,The category of securities with the highest historical risk premium is:,large company stocks.,small company stocks.,government bonds.,small company corporate bonds.,B,"The correct answer is
+B. Small company stocks.
+A historic risk premium is calculated using a company's past performance. Therefore, small company stocks are considered to have a significantly high historic risk premium because small companies are often less established. Because of this, they do not have an operational history. It is also impossible to validate the potential of their business models and their influence in the market. Additionally, they do not have much historic financial data that investors can analyze to make informed decisions on their investments. These factors make small company stocks a highly risky investment, thus, a high historic risk premium.","Risk Premium: The risk premium on investment can be calculated by analyzing historic information, assessing theoretical data, or through inquiry. Although all these methods are effective, none of them can explicitly provide a risk premium's actual value. This is because risk premium is affected by a particular period for which an analysis is done, thus, it fluctuates between different years."
+31,The required risk premium for any given investment is defined by the security market line.,True,False,,,A,The statement is true. The security market line is helpful in contrasting the anticipated return expected by the investor in the security with the provided level of risk in it. The risk premium on any endowment is the product of beta and the expected market risk premium.,Risk premium A risk premium is the excess of the return on investment over the risk-free return rate. It may consider as a type of compensation to an investor for bearing the risk of the given endowment over the risk-free asset. The liquidity risk premium is one kind.
+32,Alpha stock has a beta of 1.43. The risk-free rate of return is 3.5 percent and the market rate of return is 11 percent. What is the amount of the risk premium on Alpha stock?,{eq}10.73\% {/eq}.,{eq}7.50\% {/eq}.,{eq}5.50\% {/eq}.,{eq}8.77\% {/eq}.,A,"The correct answer is option a. 10.73%.
+Given information:
+Stock's beta = 1.43
+Risk-free rate of return = 3.5% or 0.035
+Market rate of return = 11% or 0.11
+The calculation will need the information given in the question. So, using the information, the calculation of risk-premium is as follows:
+{eq}\begin{align*}{\rm{Risk}}\,{\rm{Premium}} &= {\rm{Beta}} \times \left( {{\rm{Market}}\,{\rm{Return}}\,{\rm{Rate}} - {\rm{Risk}}\,{\rm{Free}}\,{\rm{Rate}}} \right)\\ &= 1.43 \times \left( {0.11 - 0.035} \right)\\ &= 1.43 \times 0.075\\ &= 0.1073\end{align*} {/eq}
+Therefore,
+the stock's risk premium is 0.1073 or 10.73%.",Risk-Premium: The rate that the investor expects from an investment is higher than the other securities to compensate for the high risk involved; such a rate on security is known as a risk premium.
+33,"From a historical perspective (1926-2014), what would you expect to be the approximate return on a diversified portfolio of common stocks in the year that Treasury bills offered 7.5 percent?",8.5 percent,12.5 percent,14.5 percent,19.5 percent,C,"The correct answer is C. 14.5 percent.
+According to the SBBI Yearbook, the average market risk premium for the period 1926 - 2015 was approximately 7%.  We can calculate the average return on the market portfolio as:
+Market return = Risk-free rate + Market risk premium
+Market return = 7.5% + 7%
+Market return = 14.5%
+The average return on a diversified portfolio of common stocks would be 14.5%.","Market Risk Premium: The market risk premium measures the market attitude toward risk.  If the market is more risk-averse, the risk premium will be higher.  If the market is completely risk-neutral, the risk premium will be zero."
+34,The type of premium asked by investors for bearing the risk on an average stock is the:,Average premium,Market risk premium,Stock premium,None of the above,B,"The correct answer to the given question is option B. Market risk premium.
+In the parlance of finance, an average stock may be considered equivalent to some benchmark stock index such as Dow and Jones 30 index, S& P 500 index etc. Such benchmark stock index usually consists of a sample of representative companies from different sectors such as automotive sector, FMCG sector etc. and having different capitalization such as high-capitalization, mid-capitalization and low capitalization.
+The difference in the expected rate of return of such benchmark stock index and the risk-free rate which is usually the rate of return yielded by government securities such as T-bills is called as the market risk premium. This is the premium which investors usually demand when they invest in an average stock in the stock market.","Risk Premium: An investor usually asks for returns which are line with the risks they bear when they invest in securities in the financial markets. The premiums which they usually ask for are liquidity risk premium, default risk premium, inflation risk premium, maturity risk premium, market risk premium, foreign exchange risk premium etc."
+35,The market portfolio of common stocks earned 14.7% in one year. Treasury bills earned 5.7%. What was the real risk premium on equities?,12.2%,9%,6.5%,18.7%,B,"Correct Answer:
+Option B. 9%
+.
+The real risk premium on equities can be computed using the following equation:
+Real risk premium = Market return on common stock - Return on treasury bills
+Real risk premium = 14.7% - 5.7%
+Real risk premium = 9%",Risk Premium: A risk premium is a concept used in the capital asset pricing model equation that helps determine the required return on the stock. The risk premium is compensation paid to the investors for investing in risky stocks.
+36,"A stock has a beta of 1.2 and an expected return of 15.0 percent. If the risk-free rate is 5.3 percent, what is the market risk premium?",7.1%,6.2%,9.5%,8.1%,D,"Correct answer: Option
+d) 8.1%
+.
+Explanation:
+Expected return = Risk-free return + (Beta * Risk premium)
+15% = 5.30% + (1.20 * Risk premium)
+Risk premium = 8.10%",Risk Premium: A risk premium is an additional return that is paid for the high level of risk associated with the securities that investors have invested in. The risk premium represents the difference between the expected market return and the risk-free return. It is also used in the capital asset pricing model equation to determine the required return.
+37,"If you buy an insurance policy with a high deductible and copayments, you would end up paying:",A higher premium,A lower premium,The premium of a low-risk individual,Both B and C.,D,"The correct answer is
+D. Both B and C
+-
+lower premium and the premium of a low-risk individual
+For insurance policy holders, if they have a lower premium, they will have a higher deductible in order to use the benefits of the insurance plan. Also, those with a lower premium tend to be low-risk individuals. For example, a newly licensed teenager who just got in a car accident will have a higher premium than an middle-aged adult without accidents on his/her record.","Premiums and Deductibles: Premiumsare the routine payment to maintain insurance coverage. This can be bi-yearly, monthly, or another time frame. Deductiblesare the amounts required to be paid by the customer with coverage before benefits of the insurance plan take effect."
+38,The expected return on a particular stock is 14%. The stock s beta is 1.5. What is the risk-free rate if the expected return on the market portfolio equals 10%?,1%,2%,13.5%,15%,B,"Option
+b
+is the correct answer.
+Given information:
+Expected return (Er) = 14%
+Beta = 1.5
+Expected return on the market portfolio (Rm) = 10%
+The risk-free rate can be calculated by using the below formula.
+Risk-free rate (Rf).
+Computation of risk-free rate:
+{eq}\begin{align*} {\rm{Er}} &= {\rm{Rf}} + {\rm{beta}} \times ({\rm{Rm}} - {\rm{Rf}})\\ 14\% &= {\rm{Rf}} + 1.5 \times (10\% - {\rm{Rf}})\\ {\rm{Rf}} &= 2\% \end{align*} {/eq}
+Therefore, the risk-free rate is
+2%.","Market Portfolio: The market portfolio frequently includes stocks, bonds, and other sorts of investable securities. It is frequently used as a benchmark for assessing the performance of mutual funds and investment portfolios."
+39,"In a year in which common stocks offered an average return of 18%, Treasury bonds offered 10% and Treasury bills offered 7%, the risk premium for common stocks was:",1%.,3%.,8%.,11%.,D,"The answer is D.
+The risk premium for the common stock is the expected return on the common stocks minus the risk free rate. The appropriate risk free rate is the return on treasury bills. Since the common stock return is 18% and the treasury bill return is 7%, so the risk premium = 18% - 7% = 11%.
+The return on treasury bonds is not an appropriate proxy for the risk free rate, because treasury bonds are subject to maturity risks, thus its returns are not risk-free.",Risk Premium: Risk premium is the difference between the expected return on a risky asset and the risk free rate. The risk free rate is the expected return on an asset that is free of any kind of market risks.
+40,"Par values of both the 1-Year zero and the 2-Year zero are $1,000. Suppose that the short rate today is 3 percent and the expected short rate next year is 5 percent.",Find the price of the 2-Year zero under the Expectations Hypothesis.,Find the price at which the 2-Year zero can be sold after holding it for one year under the Expectations Hypothesis.,Suppose a short term-investor (one that is interested only in 1-Year investments) is willing to pay $880 for the 2-Year zero. Find the expected holding period return given this price that the investor is willing to pay.,Find the risk-premium implied by the expected holding period return.,A,"A.
+The expectation hypothesis states the different yield on assets with different maturity periods. According to the expectations hypothesis, the  rate of 2 year coupon bond would be calculated as follows,
+{eq}\begin{aligned}   \text{The rate of 2 year bond }&=\text{ }\frac{\text{Rate for 1 year+ Rate of 2 year}}{\text{2}} \\   &=\frac{3\%+5\%}{2} \\   &=4\% \\   &=0.04  \end{aligned}
+
+{/eq}
+The present value of the two year zero coupon bond is calculated as follows,
+{eq}\begin{aligned}   \text{Present value of 2 year coupon bond }&=\text{ }\frac{\text{Par value of 2 year zero coupon bond}}{{{\text{(1+rate of 2 year zero coupon bond)}}^{2}}} \\   &=\frac{1000}{{{(1+0.04)}^{2}}} \\   &=925.06  \end{aligned}
+
+{/eq}
+B.
+The expected value of the zero coupon bond at the end of the one year is calculated as follows,
+{eq}\begin{aligned}   \text{Expected value of 2 year coupon bond after 1 year }&=\text{ }\frac{\text{Par value of 2 year zero coupon bond}}{\text{(1+Expected rate for year 2)}} \\   &=\frac{1000}{{{(1+0.05)}^{{}}}} \\   &=952.38  \end{aligned}
+
+{/eq}
+C.
+The expected holding return for a zero coupon bond whose present value is $880 is calculated as follows,
+{eq}\begin{aligned}   \text{Return of holding period }&=\text{ }\frac{\text{Par value of 2 year zero coupon bond}}{\text{(1+ Rate of 2 year zero coupon bond)}} \\   &=\frac{880}{{{(1+0.04)}^{{}}}} \\   &=846.15  \end{aligned}
+
+{/eq}
+D.
+The risk premium is defined as the return on the investment over the guaranteed rate of return which is calculated as follows,
+{eq}\begin{aligned}   \text{Risk premium }&=\text{ Rate of  Expected retun of 2 year zero coupon bond - Rate of current 1 year bond} \\   &=4\%-3\% \\   &=1\%  \end{aligned}
+
+{/eq}","Price In an economy, the market price is determined when the market demand is equal to the market supply. At the equilibrium state, there is the proper and optimal distribution of resources and there is no excess demand or supply of commodities"
+41,"The default risk associated with securities is measured against a ""benchmark""; securities that are considered risk-free. What are those securities?",municipal bonds,Federal Reserve notes,gold,U.S. Government securities,D,"The correct option is
+d. U.S. Government securities
+.
+US government securities, and in particular US government-issued bonds are considered to be risk-free. This is because the government of the US backs such bonds.","Risk: The main risk associate with an investment is the risk of deterioration of the principal amount invested. The higher the risk undertaken, the higher the reward that is expected by an investor."
+42,"When the market risk premium rises, stock prices will:",rise,fall,recover,have excess volatility,B,"The answer is B. falls.  As the market risk premium rises, this means the difference between the return requirement for stocks and a risk-free assets has widened.  Therefore, stocks will be discounted at a greater rate that prior to the increase in the market risk premium.  The higher discount rate will lead to a greater discounting effect on future earnings, which means lower valuations.",Market Risk Premium: The market risk premium is a metric that indicates the return expected on the overall stock market less the return achievable on a risk-free asset.  It is a measure of the risk required for investing in the relatively volatile stock market.
+43,"A stock provides an (expected) return of 16%. The risk-free rate (e.g., T-Bill rate) is 3%. What is the risk premium for the stock?",3%,10%,13%,16%,C,"The correct answer is option C.
+Given information:
+The expected return on the stock is 16%.
+The risk-free rate is 3%.
+Calculation of the risk premium:
+{eq}\begin{align*}{\rm\text{Expected return on stock}} &= \left[ {{\rm\text{Risk}}\,{\rm\text{free rate}} + {\rm\text{Risk}}\;{\rm\text{premium}}} \right]\\{\rm\text{Risk premium}} &= \left[ {{\rm\text{Expected return on stock}} - {\rm\text{Risk free rate}}} \right] \times 100\\ &= \left[ {16\%  - 3\% } \right] \times 100\\ &= 13\% \end{align*}
+
+{/eq}
+Therefore, the risk premium for the stock is 13%.",Risk premium: An investor who invests in risky assets gains an enhanced investment yield. This rate is always higher than the risk-free rate. A greater rate of this premium will lead to a greater return.
+44,"Porter Inc's stock has an expected return of 12.50%, a beta of 1.25, and is in equilibrium. If the risk-free rate is 2.00%, what is the market risk premium?",10.50%,8.48%,7.98%,8.40%,D,"The market risk premium is 8.40% (d)
+The calculation is shown below.
+Expected return = Risk-free rate + (Beta * Market risk premium)
+12.50% = 2% + (1.25 * Market risk premium)
+1.25 * Market risk premium = 12.50% - 2%
+1.25 * Market risk premium = 10.50%
+Market risk premium = 8.40%",Market Risk Premium: The market risk premium is the excess amount of return an investor can receive by investing in the market rather than investing in risk-free instruments. The market risk premium is the difference between the market rate of return and the risk-free rate of return.
+45,The expected return on JK stock is 13.21 percent while the expected return on the market is 11.2 percent. The beta of JK stock is 1.3. What is the risk-free rate of return?,4.50 percent,3.20 percent,3.38 percent,4.00 percent,A,"We will use the following formula to calculate the answer:
+Expected return on JK stocks = Risk-free rate of return + Beta(Expected return on market - Risk-free rate of return)
+0.1321 = Risk-free rate of return + 1.3(0.112 - Risk-free rate of return)
+0.1321 = Risk-free rate of return + 0.1456 - 1.3Risk-free rate of return
+0.1456 - 0.1321 = 1.3Risk-free rate of return - Risk-free rate of return
+0.0135 = 0.3Risk-free rate of return
+Risk-free rate of return = 0.045 or 4.5%
+The risk-free rate of return is 4.5%. Hence, the correct option is A.","Risk-Free Rate Of Return: A risk-free rate is the lowest expected rate of return on investment when there is no risk to the investor. The three-month Treasury bill rate, which is one of the most secure investments available, is assumed to be the risk-free interest rate. When evaluating investments, the risk-free rate of return is critical. It helps us decide whether they're worth pursuing and allows us to compare different types to one another."
+46,YearOne-Year RateLiquidity Premium15.70%0%24.90%0.25%34.40%0.50%43.88%0.75%,"{eq}4.63\%
+
+{/eq}.","{eq}4.72\%
+
+{/eq}.","{eq}5.10\%
+
+{/eq}.","{eq}5.47\%
+
+{/eq}.",A,"The correct option is a. 4.63%
+Since the expected return on a 4-year bond is to be calculated so liquidity premium and rate for the 4-year bond will be considered. Liquidity premium will be added to arrive at the expected return.
+{eq}\begin{align*}
+
+{\rm\text{Expected Interest Rate}} &= 4{\rm\text{ Year Interest Rate}} + {\rm\text{Liquidity Premium}}\\
+
+& = 3.88\%  + 0.75\% \\
+
+&= 4.63\%
+
+\end{align*}
+
+{/eq}","Expected Return: Expected Return is the desired gain that an investor expects to earn on security. In the case of bonds, it depends upon various factors such as the risk profile of issuing entity, short-term or long-term bonds, callable or non-callable bonds, etc."
+47,Which of the following is the formula used to describe the components of risk premium?,Risk Premium= Expected Return + Projected Return,Total Returns= Expected Return + Unexpected Return,Unexpected Returns = Systematic Portion + Unsystematic Portion,Risk Premium = Expected Return - Risk-Free Rate,D,"The correct formula for risk premium is option D.
+Market risk premium is a rate difference between:
+market's expected return, which is obtained from the historical returns of the market
+risk-free rate, which is determined from zero risk investment, like treasury bonds
+So, the formula is:
+{eq}\begin{align}
+
+\text{Risk premium} &= \text{Expected market return - Risk-free rate} \\
+
+\end{align}
+
+{/eq}
+Analysis of other options
+A. It is an incorrect formula of risk premium since expected return is reduced by risk-free rate, not increased by projected return.
+B. It is a formula for total return, not risk premium.
+C. The formula is for unexpected returns, not risk premium.","Risk Premium: The risk premium is a part of calculating the expected return under the capital asset pricing model (CAPM), which applies to the computation of stock price."
+48,There are four major components that determine the risk premium. They include all the following except,interest rate risk,business risk,reinvestment rate risk,financial risk,C,"The answer is c. reinvestment rate risk.  Reinvestment rate risk is a type of financial risk.  While important, it is not considered a major component that determines the risk premium.  It is a secondary component.  The other answer choices provided reflect major risk exposures.","Risk Premium: A risk premium is reflective of the return an asset is expected to generate in excess of the risk-free rate of return, which is traditionally viewed as the 30-day U.S. Treasury bill.  Essentially, the risk premium is the compensation an investor can expect for assuming risk."
+49,Which of the following general statements about the term premium are true? Select all that apply.,"The greater the interest rate risk, the larger the term premium.","The shorter the time to maturity, the larger the term premium.","The longer the time to maturity, the larger the term premium.","If there were no term premium, the interest rates would be lower on average.",B,"The true statements are listed below.
+a. The greater the interest rate risk, the larger the term premium.
+c. The longer the time to maturity, the larger the term premium.
+d. If there were no term premium, the interest rates would be lower on average.
+The term premium, which is often referred to as the maturity risk premium or the interest rate risk premium, represents the increasingly large interest rate required by creditors for locking up their funds in increasingly longer-dated debt instruments.  The relationship holds, because longer-dated instruments are exposed to a higher degree of interest rate risk than shorter-duration instruments.  Moreover, if no premium existed, longer-dated instruments would carry the same interest rate as shorter-dated instruments, thereby lowering the average premium to zero.","Risk Premium: A risk premium is the additional compensation (return) investors require for assuming incremental risk on an investment.  A premium can be associated with various factors, including liquidity risk and credit risk."
+50,Asset A has an expected return of 14.5% and a beta of 1.15. The risk-free rate is 5%. What is the market risk premium?,8.26%,11.96%,13.26%,16.96%,A,"Option
+a
+,
+8.26%
+is the correct answer.
+Given information:
+Expected return = 14.5%
+Beta = 1.15
+Risk free rate = 5%
+The market risk premium will be calculated by the following formula:
+{eq}\begin{align*} {\rm{Market}}\;{\rm{risk}}\;{\rm{premium}} &= \frac{{{\rm{Expected}}\;{\rm{return}} - {\rm{Risk}}\;{\rm{free}}\;{\rm{rate}}}}{{{\rm{Beta}}}}\\ &= \frac{{14.5\% - 5\% }}{{1.15}}\\ &= 8.26\% \end{align*} {/eq}
+Therefore, the market risk premium is
+8.26%.",Market Risk Premium: Many financial models and valuation strategies depend on the market risk premium. It is a benchmark for investors when estimating the expected return on a particular investment or portfolio.

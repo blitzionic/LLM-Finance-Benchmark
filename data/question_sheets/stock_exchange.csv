@@ -1,0 +1,346 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"In order to prevent traders from reneging on futures contracts, exchanges require traders to maintain _____.",micro accounts,savings accounts,credit accounts,margin accounts,D,"The correct answer is option d.
+Margin accounts are required to prevent traders from reneging on futures contracts. These accounts require a trader to deposit and maintain a certain sum of money for initiating and maintaining their positions.
+An explanation for incorrect answers:
+a)	A micro account is a generic term used for small accounts of all types. It is not a prerequisite for futures trading. Hence, option a is incorrect.
+b)	Savings accounts are bank accounts. It is not required by the exchange for futures trading. Hence, option b is incorrect.
+c)	Credit accounts are a type of loan account. Exchanges require margins and not loans for futures trading. Hence, option c is incorrect.","Importance of Margins in Futures Trading: Margin accounts help in reducing the counterparty default risk in futures trading. If a margin account drops by a certain amount, either the trader has to exit from the position or deposit more funds."
+2,"If a company sells its stock on an organized stock market, then it must report to the:",AICPA (American Institute of Certified Public Accountants),SEC (Securities and Exchange Commission),IASB (International Accounting Standards Board),FASB (Financial Accounting Standard Board),B,"Correct option is Option B
+Explanation for correct option: Companies in the US need to register with stock and exchange commission before issuing the stock to investors in the stock market. SEC (Security and exchange commission) is the regulatory authority of the stock market in the US.
+Explanation for incorrect option:
+Option A: AICPA (American institute of certified public accounts) rules and sets the professional standard for certified public accountants.
+Option C: IASB (International accounting standard board) is setting the international financial reporting standards.
+Option D: FASB (Financial accounting standard board) is improving the accounting principles and standards of the US.","Security exchange market: The security exchange market is where the buyer and seller are engaging in selling or buying securities like stock, bond, financial instruments, etc. Securities are traded in the security exchange market."
+3,Both trading securities and securities available for sale are reported at their fair values.,True,False,,,A,"The above statement is
+True
+Reason  The business entity reports both available for sale securities and trading securities at their fair value because they are held for generating gain over a short period. These are reported at a fair value on the financial statements so that investors can directly determine the gains and losses arising from these securities.",Trading Security: The security purchased to generate short-term profit because the investor believes that the security price will increase is trading security. It is considered the current resource of the business entity.
+4,Investments that are typically held for short periods of time and sold by the company in the expectation of a profit on the short-term differences in price are classified as:,available-for-sale securities,trading securities,held-to-maturity securities,marketable securities,B,"Investments that are typically held for short periods of time and sold by the company in the expectation of a profit on the short-term differences in price are classified as (B) Trading securities.
+Trading securities has the intention to sell with the hope of generating profit.",Trading Securities Trading Securities are can either be debt securities or equity securities. These securities are classified as current assets in the statement of financial position or balance sheet because they can be sold within the accounting period of the company.
+5,Megan bought 200 shares of stock at a price of $10 a share. She used her margin account with a 70% initial margin to make the purchase. What is Megan's debit when she opens the account?,$600,$2000,$1400,$700,A,"The answer is a. $600.  Support is below.
+The initial value of the stock was $2,000 (200 * $10 = $2,000).
+The 70% margin requirement necessitated an opening equity balance of $1,400 ($2,000 * .70 = $1,400).
+This leaves a debt balance of $600 ($2,000 - $1,400 = $600).","Margin: With regard to a margin brokerage account, the word margin is synonymous with equity.  In other words, an account that requires an initial margin of 70%, calls for an initial margin equity position of 70%."
+6,"Regarding the situation in previous question, suppose the stock price later goes up from $100/share to $150/share, put a ................... may limit the potential loss for the investor.",limit sell order at $120/share,limit buy order at $120/share,stop buy order at $120/share,stop loss order at $120/share.,B,"The answer is B. limit buy order at $120/share.  Rationale is below.
+Assuming the existing position is a short sale on the stock, the investor can limit potential losses by buying the stock at a specified price above its existing price.  This will mitigate the investor's exposure to the increasing stock price, which is exactly the opposite of what he had hoped for by entering into the short sale.","Short Sale: A short sale is an investment trade in which one borrows a stock and simultaneously sells it to someone.  The motivation for such a maneuver is that the stock price will decline.  Then, the investor can buy it at a lower price than he sold it, pay off his loan, and pocket the difference as a profit."
+7,Initial margin amount is paid by the:,buyer,seller,both buyer and seller,broker,A,"The correct option is
+Option a: buyer
+.
+Option a: Margin trading involves the providing of financial resources to an investor to enable them to make their purchase of the desired stock in a single session. For this purpose, a margin account is opened in which the first initial margin payment is provided by the buyer or investor who needs to buy securities. Thus, this option is an accurate answer.
+Option b: A margin account is framed when an investor doesn't have the requisite funds to make more security purchases and a broker-dealer lends money to the investor. Thus, the initial payment is not made by the seller here. The provided option is inaccurate.
+Option c: The initial margin implies the portion of the purchase price set as the minimum requirement in the margin account, which is initially paid by investors, and the remaining portion is paid by the broker. Thus, this option is not inaccurate.
+Option d: In margin trading, the broker always lends funds to the investors. The broker keeps the bought shares as collateral. By opening a margin account, the broker disburses the funds to potential investors. Thus, this option doesn't accurately depict the initial margin amount.",Margin Trading: Margin trading is a mechanism that enables investors to purchase desired securities by borrowing funds from the broker for such a purchase. It assists the investor by retaining their long position and enhancing their possible profits from securities bought.
+8,True or false? The vast majority of corporate bond business takes place over the counter.,True,False,,,A,"The given statement is
+TRUE.
+Trading of corporate bonds is primarily done over-the-counter (OTC), and brokers set the purchase and sale in OTC trading. The bonds differ in terms of maturity time, nominal value, coupon rate, and credit score. Therefore, the diversified bond characteristics result in various issuers issuing bonds with varied features and yields making it difficult to trade them on significant or regular stock exchanges. Also, due to variation in bond prices, it is not easy to list the current value of a specific bond issue, making trading in bonds via exchanges challenging. The fluctuating interest rates and credit ratings also tend to impact the bond prices. So, investors prefer using brokers for transactions in the OTC markets.",Over-the-Counter (OTC): Over-the-Counter is the trading of various securities wherein a network of brokers are involved instead of trading listed on an approved stock exchange. Unlisted securities are bought and sold through the medium of OTC.
+9,Stock of a closely-held corporation does not trade on a stock exchange.,True,False,,,A,"The given statement is
+true
+.
+A firm in which a small number of people possess the bulk of the company's stock is described as a ""closely held company."" The shares of such firms are illiquid, which means they do not trade on a stock exchange as the insiders of the company monopolize trading in these shares.","Stock Exchange A place where investors can buy and sell shares of different companies is known as a stock exchange. This helps in generating liquidity for the stocks, and therefore, stocks can be converted into cash with ease."
+10,Instrument Corp. has the following investments which were held throughout 2010 2011:,"$40,000 gain.","$20,000 gain.","$60,000 gain.","$120,000 gain.",B,"In this problem, the information regarding the Trading Securities should be ignored as its unrealized holding gain or loss is reportable in the income statement and not as Other Comprehensive Income. We will only focus on the available for sale securities.
+The available for sale securities are initially reported at its cost and subsequently measured at its fair value. The securities had a cost of $300,000. At the end of 2010, its value increased to $320,000. Meaning, an unrealized gain in 2010 should be recognized at:
+Unrealized Gain = $320,000 - $300,000 = $20,000
+Answer: B.) $20,000 gain",Investment Securities: Unrealized Holding Gain or Loss Trading Securities Available-For-Sale Securities
+11,The United States requires foreign companies that wish to have securities traded on U.S. exchanges to:,reconcile their reporting methods to the U.S.,congressional law.,generally accepted accounting principles.,generally accepted auditing standards.,A,"Answer choice:
+a. reconcile their reporting methods to the U.S.
+Explanation:
+The United States requires foreign companies that wish to have securities traded on U.S. exchanges to reconcile their reporting methods to U.S. If they prepare their financial statements using International Financial Reporting Standards, and not U.S. GAAP, they must reconcile their net income to net income under U.S. GAAP.",Accounting Requirements: The United States has certain requirements in place for foreign companies that would like to list their securities for sale on the United States stock exchange. United States companies that wish to list their securities has to follow the SEC rules and regulations and submit an annual report including audited financial statements each year.
+12,"Assume you have purchased a contract for 25,000 British pounds for $35,000. Your margin requirement is $2,000. If the value of a pound increases by 0.01, what is your percentage profit?",10%,12.5%,15%,8%,B,"The correct answer is option b.
+Explanation:
+Calculation of Percentage Profit:
+{eq}\begin{align*}
+
+{\rm{Percentage}}\,{\rm{Profit}} &= \left( {\dfrac{{{\rm{Price}}\,{\rm{Change}} \times {\rm{Number}}\,{\rm{of}}\,{\rm{British}}\,{\rm{Pounds}}\,{\rm{Purchased}}}}{{{\rm{Margin}}\,{\rm{Requirement}}}}} \right) \times 100\% \\
+
+&= \left( {\dfrac{{\$ 0.01 \times 25,000}}{{\$ 2,000}}} \right) \times 100\% \\
+
+&= \left( {\dfrac{{\$ 250}}{{\$ 2,000}}} \right) \times 100\% \\
+
+&= 12.5\%
+
+\end{align*}
+
+{/eq}
+The percentage profit is 12.5%.
+An explanation for incorrect answers:
+10% is incorrect as it does not account for the profits correctly. Hence, option a is incorrect.
+15% is incorrect as there lies a mistake in the calculation. Hence, option c is incorrect.
+8% is incorrect as the calculation of profit is incorrect. Hence, option d is incorrect.
+12.5% is the correct answer. Hence, option e is incorrect.",Margin: A sum of money is required to initiate and maintain any position in a foreign currency. This sum of money is known as the margin and is calculated by the exchange and is based on the volatility of the currency.
+13,Which one of the following measurement bases applies to investments not subject to equity accounting that are classified as trading securities?,Current value,Book value,Effective rate of interest method,Lower-of-cost-or-market,A,"The correct option is (A) Current value
+.
+The current value measurement base didn't apply to equity accounting that is classified as trading securities. They are usually classified on the basis of book value, the effective rate of interest method, and the lower of cost or the market value of securities.
+These securities are recorded in the balance sheet of an organization at their fair values.
+Hence, it is the correct option.","Equity Equity represents the ownership of the business. It is one of the components of the position statement which involves the retained earnings, common stock, and treasury stock. It is calculated by subtracting all liabilities from the assets of an organization."
+14,"True or false? Organized stock exchanges provide the benefits of a continuous market, fair security pricing, and helping businesses raise new capital.",True,False,,,A,"The given statement is
+true
+.
+A well-organized stock exchange allows investors to understand their responsibility, the investment mechanism, and the process of withdrawing securities from the market. The organized stock market has lesser chances of any unfair activities. Hence, trading in an organized stock exchange keeps running continuously and provides adequate security in trading the securities. Thus, many companies feel secure in raising capital from the organized stock exchange.","Stock Market The stock market is the business place where multiple investors and sellers trade stocks and securities.  Stock exchange authorities are responsible for managing, regulating, and adequately running the stock markets."
+15,Which of the following market indices measures the performance of the smallest publicly-traded U.S. companies based on market capitalization?,Russell 2000 Index,S&P 500,NASDAQ Composite Index,Dow Jones Industrial Average (DJIA),A,"The correct option is
+A. Russell 2000 Index.
+The Russell 2000 Index tracks the financial results of the 2,000 smallest publicly traded companies in the United States. It is widely used by investors as a standard against which to judge the performance of small-cap stocks.
+Reasons why other options are incorrect:
+B. S&P 500:
+This option is not correct because this is a market index that measures the performance of the 500 large-cap companies.
+C. NASDAQ Composite Index.
+This option is not correct because this index measures the performance of all the companies listed on the NASDAQ.
+D. Dow Jones Industrial Average (DJIA):
+This option is not correct because only 30 large companies are listed and their performance is measured.","Stock Exchange: The stock exchange refers to the government-made security exchange where securities such as stocks, bonds, and other securities are bought and sold under the supervision of a governing authority to maintain transparency."
+16,"On its December 31, 2009, balance sheet, Quinn Co. reported its investment in trading securities, which had cost $600,000, at fair value of $550,000. At December 31, 2010, the fair value of the securities was $585,000. What should Quinn report on its 2010 income statement as a result of the increase in fair value of the investments in 2010?",$0.,"Unrealized loss of $15,000.","Realized gain of $35,000.","Unrealized gain of $35,000.",D,"Carrying value on December 31, 2010 = $550,000
+Fair Value on December 31, 2010 = $585,000
+Increase in fair value = $585,000 - $550,000 = $35,000
+The increase in fair value is treated as an unrealized holding gain in the 2010 income statement.
+Date
+Account Description
+Debit
+Credit
+December 31, 2010
+Trading Securities
+35,000
+Unrealized Holding Gain - P/L
+35,000
+Answer: d.",Trading Securities Trading securities are financial assets that are expected to be sold in the near term. This is why the changes in the fair value of the investment are reported in the income statement.
+17,"A stock moves from $45 at t = 0 to $55 at t = 1. If you buy it on margin (50%), and assume zero interest to borrow money from your broker, what is your return on equity over this time period?",0.2222,-0.4444,0.4444,-0.2222,C,"A correct answer is an option (C)
+Calculation of margin amount:
+{eq}\begin{align*}
+
+{\rm\text{Margin Amount}} &= {\rm\text{Buying Price}} \times {\rm\text{Margin Percentage}}\\
+
+&= \$ 55 \times 50\% \\
+
+&= \$ 22.50
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Return on Equity}} &= \frac{{{\rm\text{Sale Price}} - {\rm\text{Purchase Price}}}}{{{\rm\text{Margin Amount}}}}\\
+
+&= \frac{{\$ 55 - \$ 45}}{{\$ 22.50}}\\
+
+&= 0.4444
+
+\end{align*}
+
+{/eq}",Return on equity: Return on equity refers to net gain or loss earned by an investor on the equity for holding over the period. It helps in guazing the performance of equity share. Records of return on equity help the investor in making an investment decision.
+18,A customer has an existing margin account that shows:,$500,"$1,000","$2,000","$2,500",A,"The correct answer is A. $500.
+{eq}\begin{align*}
+
+{\rm\text{Account Equity}} &= {\rm\text{LMV}} - {\rm\text{Debit amount}}\\
+
+&= \$ 6,000 - \$ 5,000\\
+
+&= \$ 1,000
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Maintenance requirement}} &= {\rm\text{Market Value}} \times 25\% \\
+
+&= \$ 6,000 \times 25\% \\
+
+&= \$ 1,500
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm\text{Minimum Maintenance Margin Call}} &= {\rm\text{Maintenance Requirement}} - {\rm\text{Account Equity}}\\
+
+&= \$ 1,500 - \$ 1,000\\
+
+&= \$ 500
+
+\end{align*}
+
+{/eq}",Margin Account: Brokers provide margin accounts to their clients who invest their money in the stock market by borrowing money from the broker. The amount in the margin account includes the equity of the clients and also the borrowed money from the brokers. Brokers charge a certain percentage of interest on the borrowed money.
+19,Which of the following specifically refers to the process of arriving at a pronouncement issued by the FASB or SEC?,Standard setting,Accounting research,Policy determination,Accounting valuation measurement,A,"Correct Answer:
+Option (A) Standard setting is the correct answer because FASB or SEC makes the accounting rules to perform the accounting policies. The decision-making process is done with the three vital elements that are accounting theory, economic factor, and political factor.
+Incorrect Answers:
+Option (B) Accounting research is not the correct answerer
+Option (C) Policy determination is not the correct answerer
+Option (D) Accounting valuation measurement is not the correct answerer.
+So correct answer is an option (A) Standard setting",SEC: SEC stands for US Security and Exchange Commission whose function is to protect the investors in the security market. It maintains fairness and transparency in the market. The SEC is established in 1934 in the United States of America.
+20,"If a cash dividend is received on a stock held in a margin account, the payment:",Reduces the SMA,Reduces the debit balance,Increases the market value,Reduces the equity,B,"The correct answer is
+b. Reduces the debit balance
+.
+Cash dividends are credited to the margin account. Hence, if they are not withdrawn by the customer, they reduce the debit balance of the margin account.","Dividends in Margin Account: The cash dividend received on a stock held in a margin account is rarely of any use to the investor because the cash is used is for paying the accumulated interest accrued on margin money borrowed from the broker at the time of selling the stock if profits are not sufficient to cover the interest expense. If the margin money is repaid using profits, then the investor can collect the dividend."
+21,Which of the following regarding trading securities is correct?,"Trading securities are reported at cost on the balance sheet date, and unrealized holding gains and losses are included in income of the current period.","Trading securities are reported at fair values on the balance sheet date, and unrealized holding gains and losses are included in income of the current period","Trading securities are reported at fair values on the balance sheet date, but unrealized holding gains and losses are not included in income of the current period.","Trading securities are reported at cost on the balance sheet date, but unrealized holding gains and losses are not included in income of the current period.",B,"The correct answer is
+b. Trading securities are reported at fair values on the balance sheet date, and unrealized holding gains and losses are included in income of the current period.
+Since trading securities are held by the company for short-term and for trading purposes, this account is recorded at fair value at the end of the period and any gains and losses are recorded immediately in the income statement.",Trading Securities: Trading securities are either investments in debt or equity that the company actively trades to earn profit during the period. This is reported as current assets of the organization because of its term.
+22,Which one of the following best describes NASDAQ?,Largest U.S. stock market in terms of dollar trading volume.,Dealer price at which they will buy is listed as the asked price.,Market where the DMM's are located at posts.,Computer network of securities dealers.,A,"NASDAQ is a stock exchange located at One Liberty Plaza in New York City. It is owned by NASDAQ Inc. It is one of the largest stock exchange in the world in terms of market capitalization. More than 3,300 corporations are listed on NASDAQ.
+Hence, the correct option is
+(a) Largest U.S. stock market in terms of dollar trading volume.","Stock Exchange: We know that listed corporations issue stocks, debentures, bonds etc. to the general public in order to raise funds. These securities can be easily traded on the stock exchange."
+23,"True or false? For a firm to have its securities listed on an exchange, it must meet certain requirements. These usually include measures of profitability, size, market value, and public ownership.",True,False,,,A,"The given statement is
+true
+.
+Companies must provide their financial statements, capital structure details, shares and debentures issuance information, and the percentage of shares subscribed by the public to list the securities on a stock exchange. Additionally, a company must attach the underwriter agreement, a document of consent with the stock exchange regulatory body to confirm the eligibility for securities listing.","Market Value Market value is the company's actual worth listed by the stock exchange authorities, including evaluating the equity and the stock price. Market value reflects the value of the company in terms of money."
+24,Marketable securities that the investor company buys only with the intent to resell them shortly are called:,available-for-sale securities,underpriced securities,trading securities,options,C,"Correct Answer: Option c. trading securities
+Explanation:
+The securities are classified into three types:
+Trading securities
+Held-to-maturity securities
+Available for sale securities
+Trading securities are those securities that are bought with an intention of being sold immediately within a short period in order to book profits.","Current Assets: Current assets are the liquid assets of the company that are used up within a period of one year or less. These assets include cash, marketable securities, accounts receivable, inventory, supplies, etc. Current assets are used to meet the current liabilities."
+25,Which of the following stock indexes measures the equity market performance in France?,FTSE 100,NASDAQ,MerVal,CAC 40,D,"Correct Option is ""d""
+CAC 40 is barometer for French Equities Market that initiated in 1987 with base of 1000
+Other Options:
+(a) FTSE 100 is index for UK Market.
+(b) NASDAQ is index for US Market.
+(c) MerVal is index for Argentina Market","Stock Market: Stock Market is secondary market where pre-issued securities are traded among investors and securities are valued by market forces. Stock Market have certain index that shows performance of industry, sector and economy that is indicated economic situation."
+26,"You deposit $100,000 cash in a brokerage account and short sell $200,000 of stocks on margin. Later, the value of the stocks held short rises to $250,000. What is your account margin in percent?",20 percent,25 percent,33 percent,50 percent,A,"The correct answer is option
+a. 20 percent
+.
+The loss borne by the investor is given by:
+{eq}\begin{align*}
+
+&= \text{Final value of the stocks - initial value of the stocks} \\[0.3 cm]
+
+&= $200,000 - $250,000 \\[0.3 cm]
+
+&= -$50,000
+
+\end{align*}
+
+{/eq}
+The final equity or cash balance for the investor is given by:
+{eq}\begin{align*}
+
+&= \text{Initial cash balance - loss} \\[0.3 cm]
+
+&= $100,000 - $50,000 \\[0.3 cm]
+
+&= $50,000
+
+\end{align*}
+
+{/eq}
+The account margin in percent is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Final cash balance after loss}}{\text{Final value of stocks}} \\[0.3 cm]
+
+&= \dfrac{\$50,000}{\$250,000} \\[0.3 cm]
+
+&= 20\%
+
+\end{align*}
+
+{/eq}","Trading Securities: In the domain of finance, an investor may purchase or sell securities on a stock exchange by using a trading account. The investor may deploy two kinds of funds for purchasing the securities, namely, borrowed funds and equity."
+27,"For financial assets classified as trading securities, how are unrealized gains and losses reflected in shareholders equity?",They are not recognized.,They flow through income into retained earnings.,They are a component of accumulated other comprehensive income.,,B,"Correct answer is option B.
+As trading securities are of short term in nature, so any gains or losses occurred from them, appear in income statement after the heading of operating profit. Also after appearing in income statement, they appear in retained earnings as a part of net income carried forward from income statement.","Trading Securities Securities bought by a firm for the intention of making a quick profit are denoted as trading securities. Organizations do not hope to hold such securities for a long time, so they will engage only if they believe they will be adequately compensated for such risk they are undertaking."
+28,Which one of the following statements is incorrect regarding the margining of exchange-traded futures contracts?,Day trades and spread transactions require lower margin levels.,If an investor fails to deposit variation margin in a timely manner the positions may be liquidated by the carrying broker.,Initial margin is the amount of money that must be deposited when a futures contract is opened.,A margin call will be issued only if the investor s margin account balance becomes negative.,D,"The correct answer is option D. A margin call is not initiated when the account balance turns negative.  Rather, it is carried out when the account balance decreases and reaches the maintenance margin.
+An explanation for incorrect answers:
+Day trades require lower margins as they are not carried forward i.e., they are squared off on the same day. Since spread transactions are hedged, lower margins are required. Hence, option A. is incorrect.
+The position may be closed by the broker if there is insufficient balance in the investor's margin account. Hence, option B. is incorrect.
+Initial margin is required to trade or invest in futures contracts. Hence, option C. is incorrect.",Margin on Futures: A margin amount is mandatory for any investor to initiate or maintain a position on a futures contract on an exchange. The margin amount can be in the form of cash or cash equivalent like fixed deposits.
+29,Unrealized gains and losses on trading securities are not included in the calculation of income from operations.,True,False,,,A,"The given statement is
+True
+.
+Trading securities are recorded at the purchase price on the balance sheet. Unrealized gain means that the current market price of the security is higher than the purchase price. It is not recorded in the financial statements of the company. A company recorded gain/loss when it sold the security.",Trading Securities: It is a type of short-term investment by the company. It is a current asset for the company because its holding period is less than one year. It helps the company in generating extra revenue.
+30,You buy 540 shares of stock priced at $80 a share using the full amount of margin available. The maintenance margin requirement or MMR is 35%. At what stock price do you get a margin call?,$52.00,$61.54,$30.77,$57.33,D,"Option d is the correct answer.
+Number of shares bought (n) = 540
+Price of share (P) = $80
+Maintenance Margin Requirement (MMR) = 35%
+{eq}\begin{align*}
+
+\rm\text{Stock Price at which margin call is received} &= \frac {P}{(1+MMR)} \\
+
+&= \frac {\$80}{(1+0.35)} \\
+
+&= \$59.26
+
+\end{align*}
+
+{/eq}
+So as the price reaches $59.26 or falls below that the margin call would be received.
+The nearest option is $57.33
+Hence, option d is correct","Maintenance Margin Requirement: The maintenance margin requirement refers to the minimum amount of funds present in a trading account. Security can behold, or an executed trade can be carried on without receiving the margin call."
+31,True or False: One of the variables that influence the price of the option is the expected return on the stock.,True,False,,,B,"False:
+The Black-Scholes-Merton model takes into account the current stock price, the strike price of the option, the time until expiration, the implied volatility, and the risk-free interest rate to determine the value of an option. In this model, the option's price is not directly related to the stock's expected return.","Stock Exchange: The stock exchange is an institution that monitors the trade of stocks, futures, options, intraday trades, etc. This ensures that the rights of the buyers and sellers are protected and that no one faces financial loss."
+32,"True or false? Over-the-counter markets include all security markets, with the exception of organized exchanges.",True,False,,,A,"The given statement is
+True.
+Over-the-counter markets comprise all the security markets except the organized exchanges. All financial securities are traded in either one of the two places. An organized exchange is more regulated, transparent and provides more liquidity to the investors than an over-the-counter market. Securities that do not fulfill the listing requirements of any specific exchange system can be exchanged over-the-counter.","Organized Exchange Organized exchange is a physical or digital marketplace that involves the purchase and sale of security instruments regularly according to the regulations governing the particular exchange. Generally, derivates or stocks are dealt with in such types of financial markets."
+33,A customer opens a new margin account with the following position:,0,"$5,000","$10,000","$20,000",A,"The correct option is _A. _0_
+The customer cannot borrow or withdraw any amount of cash as the equity percentage is exactly equal to the minimum maintenance margin, 25%.
+{eq}\begin{align*}{\rm\text{Equity Percentage}} &= \frac{{{\rm\text{Long Market Value}} - {\rm\text{Debit}}}}{{{\rm\text{Long Market Value}}}} \times 100\\ &= \frac{{\$ 60,000 - \$ 45,000}}{{\$ 60,000}}\times 100\\ &= 25\% \end{align*}
+
+{/eq}",Maintenance Margin: Maintenance margin refers to the least amount of equity that is required to be held by the investors in their margin account after making the purchases. It is 25% of the aggregate value of the investment in margin account.
+34,"At the end of the first year of operations, the total cost of the trading securities portfolio is $245,000. Total fair value is $250,000. The financial statements should show:","an addition to an asset of $5,000 in the current assets section and a realized gain of $5,000 in ""Other revenues and gains.""","an addition to an asset of $5,000 and an unrealized gain of $5,000 in the stockholders' equity section.","an addition to an asset of $5,000 in the current assets section and an unrealized gain of $5,000 in ""Other revenues and gains.""","an addition to an asset of $5,000 and a realized gain of $5,000.",C,"Correct Answer: Option C. an addition to an asset of $5,000 in the current assets section and an unrealized gain of $5,000 in ""Other revenues and gains.
+Explanation:
+Trading securities are purchased to make instant profits from increased prices over short periods. The trading securities are short-term investments classified as current assets in the balance sheet, and the balance is adjusted for the changes in market price. The difference of $5,000 as provided will be reduced from the current assets, and the unrealized gain will be reported in the income statement under the head: Other revenues and gains.","Securities: The three classifications of securities investment are held to maturity, trading, and available for sale. The securities are reported at their fair value on the balance sheet."
+35,Assume the following buy and sell orders in NYSE:,George will buy 100 shares from Samuel at $50,Tiffany will buy from Cortland 100 shares at $50,Ashley will buy 100 shares from Kaneisha at $49,Yeming will buy 100 shares from Roderick at $48,A,"Option A is true, as the buy order of George is for 100 shares at a price range of $50 and Samuel sell order is $48 for 100 shares, in which the cost of a sell order is less than buy order, and it will be executed, and George will get the share.
+Option B is false as the buy order of Tiffany is for $50 for 100 shares, and Cortland's sell order is $51 for 100 shares which are higher, and the order will not be executed.
+Option C is false, as the buy order of Ashley is $49 for 100 shares and the sell order for Kaneisha is $49.5 for 100 shares, as in this case order will not execute.
+Option D false, as buy order of Yeming, is $48 for 100 shares, and the sell order for Roderick is $48.5 for 100 shares as in this case order will not execute","Buying and Selling of Share: Buying and selling of shares are done on the stock market. Under which securities are traded between buyer and seller, where buyer bid for shares and seller ask or offer a price in which they are ready to sell the share. All the buying and selling of shares are done on a stock exchange registered under the government."
+36,Buying the stock and the put option on the stock provides the same payoff as:,Investing the present value of the exercise price in T-bills and buying the call option on the stock.,Short-selling the stock and buying a call option on the stock.,Writing (selling) a put option and buying a call option on the stock.,A T-bill.,A,"The correct answer is option A) Investing the present value of the exercise price in T-bills and buying the call option on the stock
+In the scenario, it is clear that if the person invests his money in the stock of the company and invest the money in the put option also of the same stock, then the payoff the person will get by these investments will be equal to the option if the person buys the call option of the same company and making the investment in the treasury bills at the present price of the exercise definitely because in both conditions the payoff of the person will be same.","Stock: When a normal person thinks to become the owner of some company, then the stock is the best option because the person can buy the company's stock at any time and sell the company's stock at any time."
+37,Under which investment classification are unrealized gains and losses recognized as income?,Investments.,Held-to-maturity.,Available-for-sale.,Trading.,D,"Correct Answer: Option d. Trading.
+Explanation:
+The securities are classified into three types:
+Trading securities
+Available-for-sale securities
+Held-to-maturity securities
+The investors invest the trading securities in booking profits from the immediate sale of securities purchased repeatedly. As a result, the unrealized gains and losses are recognized as income from trading securities.","Investing Activities: One of the three business activities is the investment activity, which includes the purchase and sale of long-term fixed assets, long-term investments in the securities of other companies, etc. However, the dividend income or the interest revenue from these investments is reported under the operating activities section of the cash flow statement."
+38,Open interest is:,demand for derivatives.,minimum volume.,number of futures contracts.,outstanding number of option contracts in default.,D,"The correct answer is
+D. Outstanding number of options contract in default.
+It is the total number of open options contracts that traders in the market still hold at the close of a trading day. This number is determined by subtracting all the closed contracts from the sum of all the open trade contracts. It is a good indicator of the level of activity in the market. The number of outstanding options is never constant. It fluctuates throughout the day as the purchase and sale of the options contracts continue.",Day Trading: Day traders aim to benefit from the small price differences in the market since they purchase and subsequently sell securities on the same trading day.  They focus on market volatility to determine when to buy or sell a security. The active trading of securities causes all positions that a trader opens in a day to be closed within the trading day.
+39,Which Case is typically premised on the most optimistic and aggressive assumptions?,Base Case,Downside Case,Sponsor Case,Management Case,A,"The correct option is a
+The base case is used for the examination of expected outcomes. It recognizes all the assumptions that events will mostly occur. It uses the most optimistic and aggressive assumptions.
+Explanation for other options
+Option b) It is an incorrect option because the downside case works on the functional outcomes and ensures insured activities.
+Option c) It is an incorrect option because the sponsor case works on the principle of financial returns.
+Option d) It is an incorrect option because the management case is determined after assessing plans. It ensures the smooth functioning of the business.","Trading on securities market: The trading on the securities market is impacted by demand and supply factors. The trading takes the place of stocks, debentures, bonds, and other investment options. There are two markets, primary market, and secondary market."
+40,You'll receive a margin call if your margin drops below:,Maintenance margin,Zero,Initial margin,Liquidation margin,A,"The correct answer is
+a. Maintenance margin
+The maintenance margin is the minimum amount of equity required in the margin account to maintain a position as an investor after purchasing securities. If the balance falls below this margin, the investor receives a margin call to either deposit the due balance in the account or liquidate his or her position.
+Option b. is incorrect because the account balance cannot reach zero.
+Option c. is incorrect because the initial margin is the amount of equity deposited in the margin account to purchase securities before borrowing the remaining funds from brokers.
+Option d. is also incorrect because the liquidation margin represents the current value of the margin account. It includes the current deposits and the current value of its most recent investments.","Margin Call: For a margin account, a margin call refers to a warning issued by the investor's broker to bring up the account balance to the minimum specified limit if the account balance has fallen below the limit to avoid losing his or her position in the market. Margin trading is relatively common among professional investors as they have experience in handling risky transactions and leverage."
+41,A shareholder who has rights is:,always better off to exercise the rights.,always better off to sell the rights into the market.,able to exercise their rights or sell them.,never in the same ownership position again with rights.,C,"The answer is c.
+For a right offer, an investor can select to exercise the offer, or sell that right on the securities market since the right itself does have a value by the underlying shares.","Right Offer: A right offer is an invitation to existing shareholders, which allows them to purchase additional shares at a special price before those new shares are sold to the public. If an investor tends to hold the firm's shares for a long period, the right offer should be executed."
+42,Some Over-The-Counter (OTC) stocks are traded through which of the following?,Green Sheets,Blue Sheets,Red Sheets,Pink Sheets,D,"The correct answer is
+option d. Pink Sheets.
+Every major stock trading platform has specific listing requirements that penny stocks or smaller companies may not meet. As a result, these stocks are traded over-the-counter (OTC) using pink sheets. Pink sheet stocks are typically low-priced and considered risky investments. The OTC network facilitates trading for companies that are unable to meet the stringent requirements of large stock exchanges.
+The other colors (of sheets), green, blue, and red, are not relevant terms in the context of OTC stocks.","Stock Exchange: A stock exchange is a marketplace meant for trading stocks issued by various companies. Other financial instruments, such as bonds, derivatives, and other similar instruments, are also traded on a stock exchange."
+43,Which of the following is not a benefit provided by the existence of organized security exchanges?,Providing a continuous market.,Establishing and publicizing fair security prices.,Helping businesses raise new capital.,Standardization of all debt agreements.,D,"The correct option is D.
+i.e. Standardization of debt agreements.
+While organized security exchanges provide benefits such as a continuous market, establishing and publicizing fair security prices, and assisting companies in obtaining additional funding, standardization of all debt agreements is not one of them.
+Debt agreement standardization refers to creating a set of uniform terms and conditions for lending and borrowing money. It is designed to provide consistency and clarity regarding debt agreements, making them better intelligible and enforced.
+Standardization of debt agreements is typically established through legal agreements and regulations rather than security exchanges. However, security exchanges may play a role in facilitating the trading of debt securities once they have been standardized.",Stock exchange: The stock exchange is a segment of the stock market that enables transactions among dealers in financial products and their intended customers while adhering to a set of regulations and standards.
+44,"Assume you purchased 800 shares of XYZ common stock on margin at $45 per share from your broker. If the initial margin is 70%, the amount you borrowed from the broker is _____.","$36,000","$10,800","$46,800","$25,200",B,"The amount you borrowed from the broker is $10,800 (b)
+The amount borrowed is calculated as follows.
+Amount borrowed from broker = (Margin * No. of shares) - (Margin * No. of shares * Initial margin)
+Amount borrowed from broker = ($45 * 800) - ($45 * 800 * 70%)
+Amount borrowed from broker = $36,000 - $25,200
+Amount borrowed from broker = $10,800",Stock Margin: Stock margin is a facility offered by the stock broker to the investors. Margin provides leverage that can be used by investors to purchase large quantities of stocks with limited funds.
+45,"If yields are expected to fall, investors would choose to hold:",short-term securities.,long-term securities.,cash.,a mix of short-term securities and long-term.,A,"The correct option is A
+If yields are expected to fall investors would prefer selling currently held securities. Moreover, the investor would prefer to hold short-term securities as it will help in regulating risk.
+The explanation for the incorrect option is
+Option B) It is an incorrect option because long-term securities would get more vulnerable in terms of returns if yields are expected to fall.
+Option C) It is an incorrect option because cash is utilized to operate business activity. Holding cash will not generate any returns.
+Option D) It is an incorrect option because a mix of short-term and long-term securities is beneficial when returns are unexpected to rise and fall.","Trading Securities: Trading securities are investment tools like stocks, bonds, and mutual funds. Trading securities can be divided into debt securities and equity securities. Investors acquire securities at low prices and sell at higher prices to get profits."
+46,U.S. Corporations are not permitted to trade in their own securities.,True,False,,,B,"The given statement is
+false
+.
+United States corporations are permitted to trade in their own securities and are typically among the first investors. However, there are very strict regulations on purchasing and selling stock by those with an interest in the company.",Trading Trading refers to a process of exchanging the products or services in return of a consideration amount. It is considered as an economic activity which helps in improving the economic growth of a country by creating more profits.
+47,"A customer sells 1,000 shares of XYZ short at 2. The initial minimum margin requirement is:",$0,$675,"$2,000","$2,500",C,"The answer is c.
+The value of transaction is $2,000 ( $2 x 1,000 = $2,000).
+Usually, a minimum deposit would be 50% of the value of the transaction. However, this is the initial requirement, which must be met the minimum requirement requested by the law. And, that is $2,000.",Margin Account: A margin account is a brokerage account that allows investor to borrow funds from the broker and purchase securities by using that borrowings. This strategy would be helpful if the price of purchased securities is expected to increase in the future.
+48,A new public equity issue from a company with equity previously outstanding is called a(n):,initial public offering.,seasoned equity issue.,unseasoned equity issue.,private placement.,B,"The answer is b. seasoned equity issue.  A company that has already issued equity is said to be selling a seasoned equity issue when it goes to market.  This contrasts with an initial public offering, which reflects the very first time a company sells stock to the public.  The other answer choices are either fictitious (i.e. unseasoned equity issue), completely erroneous (i.e. private placement is not a public offering), or irrelevant to the case facts (i.e. syndicate).","Public Equity: Public equity is that which trades on a stock exchange and is accessible to a wide variety of retail and institutional investors.  This differs from private equity, which is privately held, less liquid, and inaccessible to many investors."
+49,Which of the following statements about short selling is true?,A short position may be hedged by writing call options.,A short position may be hedged by purchasing put options.,Short sellers may be subject to margin calls if the stock price increases.,Stocks that pay large dividends should be sold short before the ex-dividend date and bought afterward to take advantage of the large price declines in a short period.,C,"A. Incorrect. To hedge a short selling, the investor should buy a call option to reserve the right to purchase securities at a fixed price. This hedging strategy aims to protect the investor from a significant rise in the price of securities.
+B. Incorrect. A put option reserves a selling right in the future. It is not relevant to hedge for short selling.
+C. Correct. If the value of a short selling falls to a certain level, a margin call might occur. Note that the value of short selling will decrease when the market price of related security increases.
+D. Incorrect. It is uncertain that the price of the stock will fall after the ex-dividend date. For instance, investors might increase their demand for that stock if the business is operated efficiently. Thus, the price of a stock might increase after the ex-dividend date regardless of a reduction adjustment due to the dividend.","Short Selling: The short selling is an investment strategy that allows an investor borrows securities from the broker and sells these securities today for a higher price. To exist the position of a short selling, an investor needs to repay the borrowed amount of securities to the broker. This strategy will generate a profit if the price of securities decrease after the short selling."
+50,"For trading securities, the deferred tax effect should be presented in:",The income statement.,Other comprehensive income.,No need for accounting.,None of the above.,A,"The correct option is a. The income statement.
+The accounting for trading securities differs from that of available-for-sale investments because the unrealized gains and losses on trading securities are reported in the income statement, not under the Other Comprehensive Income.
+Let's look at the alternative:
+a. The income statement.
+This is the correct alternative. The deferred tax effect of the unrealized gains and losses on trading securities must be reported in the income statement because that is where the gains and losses are reported.
+b. Other comprehensive income.
+The deferred tax effects of the unrealized gains and losses on available-for-sale investments are included in Other Comprehensive Income. Items are reported in Other Comprehensive Income net of tax.
+c. No need for accounting.
+Deferred tax on the recognized unrealized gains or losses must be recorded.","Trading Securities: In financial accounting, trading securities are defined as investments in the stocks or bonds of other companies purchased to make short-term gains from changes in their market prices. The investor, therefore, does not typically intend to hold the trading securities over the long term."

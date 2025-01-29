@@ -1,0 +1,418 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"Dothan Inc.'s stock has a 25% chance of producing a 17% return, a 50% chance of producing a 12% return, and a 25% chance of producing a -18% return. What is the firm's expected rate of return?",5.81%,5.75%,6.27%,4.43%,B,"The firm's expected rate of return is
+5.75%
+. Thus, option b is correct.
+Calculation:
+Probability (A)
+Return(B)
+Expected return (A*B)
+25%
+17%
+4.25%
+50%
+12%
+6.00%
+25%
+-18%
+-4.50%
+Total
+5.75%","Investment Return: The return on investment is the proportion of annual income earned on the investment. Returns are affected by many factors, like risk, policies, market conditions, etc. Investors have to analyze all these factors before making any investment decision."
+2,Paper dollars:,are fiat money and gold coins are commodity money.,are commodity money and gold coins are fiat money.,and gold coins are both fiat monies.,and gold coins are both commodity monies.,A,"The correct answer is Option A) are fiat money and gold coins are commodity money.
+Fait money is the currency which is issued by the government which cannot be backed with the help of physical commodity like silver and gold but with the help of the government which issued that currency. The value of that money is measured by the relationship between the demand and supply and the stability of the issuing government instead of the worth commodity which is used for backing and the gold coins are considered as the commodity money.","Dollars: Dollars are the currency which is used in the countries like U.S, Canada, Australia and other countries that belong from the Caribbean, SE Asia, Pacific, and Africa. It is used as the measure of exchange."
+3,The total rate of return is equal to the?,sum of the coupon rate and the current yield.,yield to maturity.,sum of the current yield and the actual rate of capital gain or loss.,sum of the current yield and the expected rate of inflation.,B,"The correct option is
+B. Yield to maturity
+.
+The term YTD or Yield to Maturity can be defined as the total rate of return that person or investor earns from trading in bonds when all the interest payments and the original principal amount are being repaid.",Bonds Market: The bonds market can be defined as a financial market wherein potential market participants trade in the exchange of the debt securities that can be issued by either government or corporations.
+4,"The past five monthly returns for PG Company are 1.75 percent, -2.5 percent, 4.75 percent, 4.2 percent, and 2.5 percent. What is the average monthly return?",15.73%,10.73%,3.15%,2.15%,D,"The average monthly return will be the simple average of the five monthly returns. Therefore,
+Average monthly return
+= {eq}\displaystyle \frac{1.75 -2.5 + 4.75 + 4.2 + 2.5}{5} {/eq}
+= 2.14
+The correct answer is
+d. 2.15%",Trend Analysis: Trend analysis is a very popular stock performance observation and analysis tool used by valuation analysts for valuing a stock accurately. The simple average of return percentages from past periods is the initial calculation done to gain insight into a company's performance over the past periods.
+5,"Tammy can buy an asset this year for $1,000. She is expecting to sell it next year for $1,050. What is the asset's anticipated percentage rate of return?",0 percent.,5 percent.,10 percent.,15 percent.,B,"The correct option is
+b. 5 percent
+.
+Mathematically, the anticipated rate of return can be estimated as:
+The anticipated rate of return = Value of asset (Next year) - Value of asset (This year) / Value of asset (This year) * 100
+The anticipated rate of return = ($1050-$1000)/$1000 * 100
+The anticipated rate of return = 50/1000 * 100
+The anticipated rate of return = 5%","Interest Rate: In macroeconomics, the interest rate is the rate charged by the lender while lending money or any productive resource in the economy. It is charged above the principal value of money lent."
+7,"Suppose you deposit $2,000 today and your account will accumulate to $4,000 in 10 years. What is the rate of interest?",7.12%,7.15%,7.18%,7.21%,C,"Option C. 7.18% is the correct answer.
+Calculation of rate of return using present value formula:
+Present Value (PV) = $2,000
+Future Value (FV) = $4,000
+Period = 10 years
+Rate of return =?
+{eq}\begin{align*}
+
+FV &= PV{\left( {1 + r} \right)^n}\\
+
+\$ 4,000 &= \$ 2,000{\left( {1 + r} \right)^{10}}\\
+
+\$ 2 &= {\left( {1 + r} \right)^{10}}\\
+
+r &= 7.18\%
+
+\end{align*}
+
+{/eq}",Return on investment Return on investment can be defined as a metric used to gauge the performance of an investment or a business during a specific period of time generally a reporting period. This metric is used by investors to gauge their returns made from investments made in financial securities.
+8,You pay $20 to get $28 one year from today. What is your return on investment?,40%,108%,140%,80%,A,"The answer is
+a. 40%
+Given information:
+Initial outlay = $20
+Future value = $28
+Estimate the return on the investment:
+{eq}ROI = \displaystyle\frac{Future\:value - Initial\:outlay}{Initial\:outlay} {/eq}
+{eq}ROI = \displaystyle\frac{\$28 - \$20}{\$20} {/eq}
+{eq}ROI = 40\% {/eq}",Return On Investment (ROI): ROI is a financial ratio to measure how profitable an investment will be based on its expected return. It is estimated by the expected return divided by the initial cash outlays.
+10,"The S&P 500 index delivered a return of 15%, -5%, 25%, and 10% over four successive years. What is the arithmetic average annual return per year?",13.50%,16.88%,11.25%,12.38%,C,"The correct answer is
+C. 11.25%.
+Given information:
+Rate of return in year 1 (r1) = 15%
+Rate of return in year 2 (r2) = -5%
+Rate of return in year 3 (r3) = 25%
+Rate of return in year 4 (r4) = 10%
+Estimate the arithmetic average rate of return, given information:
+{eq}\text{Arithmetic average return} = \displaystyle \frac{r1 + r2 + r3 + r4}{4} \\ \text{Arithmetic average return} = \displaystyle \frac{15\% - 5\% + 25\% + 10\%}{4} \\ \text{Arithmetic average return} = \displaystyle 11.25\% {/eq}",Arithmetic Average Return: The arithmetic average return is a common metric to evaluate an investment within a specific study period. This average return is estimated by the sum of the annual rate of return by the number of years in the study period.
+11,"An investment center generated a contribution margin of $200,000, fixed costs of $100,000. The center's average operating assets were $500,000. How much is the return on investment?",20%,60%,40%,140%,A,"The correct option is
+(A) 20%
+Computation of net income
+Amount
+Contribution Margin
+$200,000
+Less: Fixed Costs
+$100,000
+Net Income
+$100,000
+{eq}\text{Return on investment} = \dfrac{\text{Net Income}}{\text{Average operating assets}} * 100
+
+{/eq}
+{eq}\text{Return on investment} = \dfrac{\$100,000}{\$500,000} * 100
+
+{/eq}
+{eq}\text{Return on investment} = 0.20 * 100
+
+{/eq}
+{eq}\text{Return on investment} = 20\%
+
+{/eq}",Return On Investment: The return on investment helps us to compare different investment alternatives. It shows the net income from investment as a percentage of the average investment. Business select investment with a high return.
+12,Which of the following statements is(are) true?,"The shorter the span of a moving average, the smoother the forecast.","To seasonalize a number, simply multiply that number by the appropriate seasonal index.",A major drawback of simple exponential smoothing is that a large amount of historical data must be stored.,,C,"The correct answer is below.
+c.	A major drawback of simple exponential smoothing is that a large amount of historical data must be stored.
+The other answers are incorrect due to the following reasons:
+a. The shorter the span of a moving average, the more erratic the forecast.
+b. Seasonalizing a number can be done in a number of ways, but the process is more complicated than simply multiplying a number by a seasonal index.  At a minimum, work must be done to continually maintain an appropriate index.","Arithmetic average: An arithmetic average is a sum of occurrences divided by the number of occurrences in the data set.  The formula is commonly used to measure financial performance, economic prices, and the sizes and weights of different things."
+13,You bought a share of preferred stock for $94.89 last year that paid a $4 dividend. The market price for your stock is now $96.12. What was your total return for last year?,5.70%,5.51%,4.20%,6.80%,B,"The total return for the last year is
+Option B) 5.51%.
+Explanation:
+Rate of return = (Current stock price - Purchase price + Dividend received) / Purchase price
+Rate of return = ($96.12 - $94.89 + $4) / $94.89
+Rate of return = 5.51%",Rate of Return: The rate of return is the percentage of the investment cost that has been earned as a result of making the investment. The return for a stock investment would include dividend payments and capital gains in the form of an increase in the stock price over the period.
+14,"A stock has had returns of 14 percent, -18 percent, 2 percent, 33 percent, 27 percent, and 6 percent over the last six years, respectively. What is the geometric return for this stock?",8.88 percent,9.32 percent,9.47 percent,10.31 percent,B,"The calculated value of the geometric return on the stock is option
+b. 9.32 percent
+.
+The geometric return on the stock is computed as follows:
+{eq}\begin{align*} &= \text{Product of the factors consisting of given annual returns}^\dfrac{1}{\text{Number of years}} \\[0.3 cm] &= {((1 + 14\%) * (1 - 18\%) * (1 + 2\%) * (1 + 33\%) * (1 + 27\%) * (1 + 6\%))}^\dfrac{1}{6} - 1 \\[0.3 cm] & = {(1.14 * 0.82 * 1.02 * 1.33 * 1.27 * 1.06)}^\dfrac{1}{6} - 1 \\[0.3 cm] & = {1.70718}^{0.16667} - 1 \\[0.3 cm] & = 1.09323 - 1 \\[0.3 cm] &= 9.32\% \\[0.3 cm] \end{align*} {/eq}",Geometric Return: The geometric return for a given series of annual returns refers to the compounded average annual return. It is an average value because it averages out the fluctuations observed in each of the individual years.
+15,Cash flows related to three mutually exclusive capital equipment projects are given in the table below.,10.20%,negative (<0%),14.67%,15.50%,B,"Answer and Explanation:
+The answer is option (B) as negative (<0%)
+Alternative C's ROR= $75,000*13%=$9,750
+Alternative A's ROR=$60,000*18%=$10,800
+{eq}\begin{align*}
+
+{\rm\text{Delta ROR}} &= \frac{{{\rm\text{Alternative C's ROR}} - {\rm\text{Alternative A's ROR}}}}{{{\rm\text{Difference in initial cost}}}}*{\rm\text{100}}\\
+
+&= \frac{{{\rm\text{\$ 9,750}} - {\rm\text{\$ 10,800}}}}{{{\rm\text{\$ 75,000}} - {\rm\text{\$ 60,000}}}}*{\rm\text{100}}\\
+
+&= {\rm\text{ - 7% }}
+
+\end{align*}
+
+{/eq}","Capital Budgeting: When in managing financial aspects, financial manger encounter with problem of allocation of optimum and sufficient long-term capital in fixed assets or long-term investment out of pool of available proposals. This decision of investing in fixed assets is term as capital budgeting and this decision is irreversible in short run."
+16,"The past six-monthly returns for a company's stock are 4.22 percent, 3.12 percent, 2.2 percent, 3.1 percent, 1.8 percent, and 5.2 percent.",-2.45 percent,2.12 percent,3.27 percent,1.51 percent,C,"Option C. 3.27 percent
+is correct.
+Given information:
+Monthly return 1 = 4.22%
+Monthly return 2 = 3.12%
+Monthly return 3 = 2.20%
+Monthly return 4 = 3.10%
+Monthly return 5 = 1.80%
+Monthly return 6 = 5.20%
+Calculate the average monthly return by dividing the sum of all monthly returns by the number of months:
+{eq}\begin{aligned} \text{Average Return} &=\frac{\text{Monthly Return 1}+\text{Monthly Return 2}+\text{Monthly Return 3}+\text{Monthly Return 4}+\text{Monthly Return 5}+\text{Monthly Return 6}}{\text{Number of Months}} \\ &=\frac{4.22\%+3.12\%+2.20\%+3.10\%+1.80\%+5.20\%}{6} \\ &=\frac{19.64\%}{6} \\ &=3.27\% \end{aligned} {/eq}
+Thus, 3.27 percent is the average monthly return.",Average Return: The return that a security or a portfolio of securities has been able to generate for investors on a simple average basis is known as the average return. It is different from compounded returns as it does not capture the impact of period-on-period returns.
+17,"According to the AICPA, if a CPA discovers that a client made an error in his/her prior year's tax return, the CPA should advise the client to correct the return.",TRUE,FALSE,,,A,"The given statement is
+true
+.
+The American Institute of Certified Public Accountants (AICPA) states that a CPA has an ethical duty to assist clients in remedying any errors they may have made on a prior year's tax return. It is mentioned in the AICPA's Code of Professional Conduct, which outlines the moral guidelines CPAs must follow when engaging in their work.
+It is generally a good practice to amend any errors or omissions in prior tax returns as soon as they are detected. It's also crucial to speak with a tax expert about the implications of the adjustment and the best method to file an amended return.","Tax Return: A tax return is a document taxpayers use to declare their income and determine their tax obligations. It is submitted to the IRS, and data on the return is utilized to calculate the amount of taxes owed."
+18,"If an investment is producing a return that is equal to the required return, the investment's net present value will be:",positive.,greater than the project's initial investment.,zero.,equal to the project's net profit.,C,"If an investment produces a return equal to the required return, the investment's net present value will be
+zero.
+Explanation:
+The net present value of a project is zero when the project does not yield any gain or loss and gives a neutral return. Therefore, the rate of return and the actual return is the same, and there is no profit or loss, i.e. the net present value is 0. The profits expected in the future are zero, and the project could be more attractive.
+Reasons for incorrect options:
+Reasons for incorrect options:
+a.
+Positive
+a positive net present value will mean that the earnings generated are more than the anticipated costs, and the investment is, therefore, profitable.
+b.
+Greater than the project's initial investment
+when the net present value is positive, the return is more than the initial investment.
+d.
+Equal to project net profit
+if the net present value is positive, the project is profitable and returns higher.
+e.
+less than or equal to zero
+if the net present value is less than or equal to 0, the project will generate a loss for the company, and therefore it is advised not to pursue the project.",Required Rate of Return: A project accelerates a minimum amount of return on its investment. The amount received in the form of return is the required rate of return. It calculates how profitable the project is.
+19,"The geometric mean return for a stock with a three-year performance history of +100%, - 50%, +95% is __________.",-1%,25%,30%,48%,B,"Correct answer is B.
+Let the returns of 100%, -50% and 95% be r1, r2 and r3 respectively. The number of years (n) is 3.
+The geometric mean of returns (GM) will be calculated as follows:
+{eq}\begin{array}{l}
+
+GM = \sqrt[n]{{\left( {1 + r1} \right) \times \left( {1 + r2} \right) \times \left( {1 + r3} \right)}} - 1\\
+
+GM = \sqrt[3]{{\left( {1 + 1.00} \right)\left( {1 - 0.50} \right)\left( {1 + 0.95} \right)}} - 1\\
+
+GM = \sqrt[3]{{1.95}} - 1\\
+
+GM = 0.25
+
+\end{array}
+
+{/eq}
+Thus, the geometric mean return for the stock is 25%.","Performance of Stock: Performance of a stock refers to the trends in the price and returns of a stock. An increase in the price of a stock will lead to rise in the value of shareholders and is treated as good performance. However, fall in stock price indicates poor performance."
+20,Which of the following will increase return on investment?,Variable costs are increased,An increase in fixed costs,Average operating assets are increased,Variable costs are decreased,D,"Recall that return on investments = Operating income / Average operating assets. Let us now discuss each alternative:
+a. Variable costs are increased
+No, if variable costs increase, the operating income will decrease, and if the numerator in the formula decreases, the result is lower.
+b. An increase in fixed costs
+No, because again the operating income will decrease when costs increase, so the ROI will be lower.
+c. Average operating assets are increased
+No, because when the denominator in the formula increases, the result decreases
+d. Variable costs are decreased
+This is the correct option, because this will cause operating income to increase, and then ROI will also increase.","Return on Investment: Return on investment is a widely used performance measurement tool. It is used in responsibility accounting to evaluate the performance of an investment center, because these centers control their revenues, expenses, and operating assets."
+21,Your friend claims that he can double his investment in stocks in only 2 years. What would be the annual rate of return if he were successful in doing so?,{eq}41.42\% {/eq}.,{eq}45.58\% {/eq}.,{eq}50.00\% {/eq}.,{eq}100.00\% {/eq}.,A,"Given information:
+Maturity period (n) = 2 years
+Assumption:
+Let the principal amount (P) invested be $100.
+The friend will double the investment in 2 years, making the future value $100*2 = $200. So, the future value (FV) = $200.
+Calculate the annual rate of return in the following way:
+{eq}\begin{align*}{\rm{FV}} &= {\rm{P}} \times {\left( {1 + {\rm{r}}} \right)^{\rm{n}}}\\\$ 200 &= \$ 100 \times {\left( {1 + {\rm{r}}} \right)^2}\\{\left( {1 + {\rm{r}}} \right)^2} &= \frac{{\$ 200}}{{\$ 100}}\\{\left( {1 + {\rm{r}}} \right)^2} &= 2\end{align*} {/eq}
+Solving further to determine the value of r,
+{eq}\begin{align*}\left( {1 + {\rm{r}}} \right) &= {2^{\frac{1}{2}}}\\\left( {1 + {\rm{r}}} \right) &= 1.4142\\{\rm{r}} &= 1.4142 - 1\\{\rm{r}} &= 0.4142\end{align*} {/eq}
+Therefore, the annual rate of return to double the investment in 2 years is 0.4142 or 41.42%. Hence,
+the correct answer is option a.",Rate of Return: The rate of return depicts the value at which a person will gain or lose the return on the sum they decided to invest. It is an important element that helps estimate the investment's future.
+22,"What annual rate of return is earned on a $2,100 investment when it grows to $4,700 in nineteen years?",2.24%,4.11%,1.24%,4.33%,D,"The correct answer is
+Option d. 4.33%.
+Given information:
+Investment amount = $2100
+Final value = $4700
+Compute the rate of return by dividing the final value by the investment value, raising the result to the power of the ratio of 1 to the investment period, and then subtracting 1 from the result.
+{eq}\begin{aligned} \text{Rate of Return} &={{\left( \frac{\text{Final Value}}{\text{Investment Value}} \right)}^{\frac{1}{\text{Investment Period}}}}-1 \\ &={{\left( \frac{\$4700}{\$2100} \right)}^{\frac{1}{19}}}-1 \\ &=1.0433-1 \\ &=0.0433\text{ or }4.33\% \end{aligned} {/eq}
+The annual rate of return is 4.33%.",Annual Rate Of Return: The rate that the current investor or a potential investor is likely to generate on average every year on the invested capital is referred to as the annual return. This rate captures the compounding effect as it shows the year-on-year return and not the simple average return.
+23,"Gwen purchased a stock one year ago for $25, and it is now worth $31. The stock paid a dividend of $1.50 during the year. What was the stock's rate of return from dividend income during the year?",6%,15%,24%,26%,A,"The correct answer is option
+A. 6%
+.
+The stock's rate of return from dividend income is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Dividend paid}}{\text{Purchase price of stock one year ago}} \\[0.3 cm] &= \dfrac{\$1.50}{\$25} \\[0.3 cm] &= 6\% \end{align*} {/eq}","Returns on a Stock: The total returns on a stock can be categorized into capital gains and dividend gains. They can be expressed in terms of dollars or percentages. Dividend gains are periodic gains, whereas capital gains are one-time gains."
+24,"A stock purchased on January 1 cost $4.35 per share. The same stock, sold on December 31 of the same year, brought in $4.75 per share. What was the approximate return on this stock?",109%,9%,1.09%,0.09%,B,"The approximate return on this stock is Option b) 9%.
+Explanation:
+Rate of return = (Current stock price - Purchase price + Dividend received) / Purchase price
+Rate of return = ($4.75 - $4.35 + $0) / $4.35
+Rate of return = 9.20%",Stock Return: A stock investment provides returns in the form of appreciation in the price of the stock over the holding period also termed as capital gains and dividends issued on the shares by the company. The rate of return on stock investment can be expressed in dollars as well as a percentage.
+25,"The past five monthly returns for K and Company are 4.75 percent, 4.92 percent, -0.45 percent, -0.45 percent, and 9.50 percent. What is the average monthly return?",4.01%,1.67%,3.65%,1.52%,C,"The correct answer is option
+c. 3.654%
+.
+The average monthly return is computed as:
+{eq}= \dfrac{\text{Sum of all the monthly returns}}{\text{Number of months}}
+
+{/eq}
+{eq}= \dfrac{(4.75\% + 4.92\% - 0.45\% - 0.45\% + 9.50\%)}{5}
+
+{/eq}
+{eq}= \dfrac{18.27\%}{5}
+
+{/eq}
+= 3.654%",Average Returns: The average returns on investment can be computed in terms of arithmetic average or geometric average. The arithmetic average is usually computed when the returns are not reinvested in the asset.
+26,"Which of the following would cause the U.S. dollar to appreciate against the Japanese yen, other things being equal?",A higher price level in Japan.,Higher real interest rates in the U.S.,Less popularity of U.S. exports in Japan.,Only A and B.,C,"The correct option is C) Less popularity of U.S. exports in Japan
+The US dollar refers to the US government's official currency. It is designated by the ISO code USD and is commonly abbreviated as US$. It is regarded as a common currency and is the most widely used in international transactions. In addition to the United States, USD is used as the primary currency in several other countries. Other things being equal, if American exports were less popular in Japan, the US dollar would rise against the yen.","Currency: Currency is a mechanism of commercial transactions. To put it bluntly, it's money, usually in the form of notes or coins, given by a government and generally accepted as a form of payment at its appropriate value."
+27,An Investment had a nominal return of 9.6 percent last year. The inflation rate was 2.5 percent. What was the real return on the investment?,770%,9.41%,6.93%,12.34%,C,"The real rate of return is 6.93% (c).
+The explanation is shown below.
+{eq}Real \ rate \ of \ return \ = \ \dfrac{1 \ + \ Nominal \ rate \ of \ return}{1 \ + \ Inflation \ rate} \ - \ 1
+
+\\
+
+Real \ rate \ of \ return \ = \ \dfrac{1 \ + \ 9.6\%}{1 \ + \ 2.5\%} \ - \ 1
+
+\\
+
+Real \ rate \ of \ return \ = \ \dfrac{1.096}{1.025} \ - \ 1
+
+\\
+
+Real \ rate \ of \ return \ = \ 1.0693 \ - \ 1
+
+\\
+
+Real \ rate \ of \ return \ = \ 0.0693 \ or \ 6.93\%
+
+{/eq}","Real Rate of Return: The real rate of return can be defined as the total amount of return generated on investment after taking into consideration the effect of inflation. {eq}Real \ rate \ of \ return \ = \ \dfrac{1 \ + \ Nominal \ rate \ of \ return}{1 \ + \ Inflation \ rate} \ - \ 1
+
+{/eq}"
+28,Which category(ies) of investments had an annual rate of return that exceeded 100 percent for at least one year during the period 1926-2012?,"Corporate bonds, large-company stocks, and small-company stocks.",Only large-company stocks.,Only small-company stocks.,No category earned an annual return in excess of 100 percent for any given year during the period.,C,"The correct answer is c.
+The small company stocks were able to provide more than 100% annual returns to investors for at least a year between 1926-2012. This is because of globalization and liberalisation which allowed the small companies to expand and increase their revenues. The increased revenue resulted in increased profits which were distributed among its shareholders as dividends.","Annual Rate of Return: The annual rate of return refers to the returns earned on an investment in a year. This rate is calculated by taking the year-end value investment and subtracting investment value at the beginning of the year, the result is multiplied by 100 to determine the rate of return."
+29,The Eastern Division of Kentucky Company has a rate of return on investment of 28% and a profit margin of 20%.,3.6,0.7,1.4,5,C,"The correct option is
+(C.) 1.40
+Given that -
+Profit Margin = 20%
+Return on investment = 28%
+As per Du-point formula, we know that -
+{eq}\text{Return on Investment} = \text{Profit Margin} * \text{Investment Turnover}
+
+{/eq}
+{eq}28\% = 20\% * \text{Investment Turnover}
+
+{/eq}
+{eq}\text{Investment Turnover} = \dfrac{28\%}{ 20\%}
+
+{/eq}
+{eq}\text{Investment Turnover} = 1.4
+
+{/eq}",Return on Investment: The return on investment is an important ratio in financial analysis. It shows how much a business earns for every dollar of investment. It is a vital performance measure.
+30,Division Q for Mott Co. has a rate of return on investment turnover of $2.32. What is the profit margin?,29.00%,12.50%,28.00%,2.32%,B,"We will assume that the question should read:
+Division Q for Mott Co. has a rate of return on investment turnover of 29% and an investment turnover of 2.32
+We know that
+Rate of Return = Profit Margin x Asset Turnover, so
+0.29 = Profit Margin x 2.32
+Profit margin = 0.29 / 2.32
+Profit margin = 0.125 or 12.50%
+The correct option is B.",Return on Investment can be calculated using the operating income and average operating assets of a division. This formula is often expanded to include asset turnover and the profit margin of the division.
+31,Which of the following is considered the best method of comparing the returns on various-sized investments?,total dollar return,real dollar return,absolute dollar return,percentage return,D,"The answer is
+d. percentage return
+It is irrelevant to compare actual return in dollar from different-sized investments since large-capital investments tend to generate more money than the small-capital investments, assuming that investment decisions are made efficiently. Hence, the benchmarking of total dollar return, real dollar return, and absolute dollar return should not be practiced.
+The variance return measures the risk of that investment's return. It will not be appropriate to compare investment's return.
+The percentage return is selected since it depicts the expected return on a dollar of initial capital, in which it removes the impact of the size of investment costs. Hence, the comparison of percentage returns from different-sized investments would be more consistent.","Investment Decision: An investment decision is an outcome of an investment evaluation, which will usually analyze the investment costs and its revenue in the future. Depending on the investor's perspective and the availability of information, the investment decision will be determined by different analytical models."
+32,"A stock has annual returns of 13 percent, 21 percent, -12 percent, 7 percent, and -6 percent for the past five years. The arithmetic average of these returns is _____ percent, while the geometric average return for the period is _____ percent.",4.60; 3.89,3.89; 3.62,4.60; 3.62,3.89; 4.60,A,"The correct answer is option
+a. 4.60; 3.89
+.
+The arithmetic average return is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Sum of annual returns}}{\text{Total number of years}} \\[0.3 cm]
+
+&= \dfrac{(13\% + 21\% - 12\% + 7\% - 6\%)}{5} \\[0.3cm]
+
+&= \dfrac{23\%}{5} \\[0.3 cm]
+
+&= 4.6\%
+
+\end{align*}
+
+{/eq}
+The geometric mean is given by:
+{eq}\begin{align*}
+
+&= \text{Product of the factors consisting of given annual returns}^\dfrac{1}{\text{Number of years}} \\[0.3 cm]
+
+&= {((1 + 13\%) * (1 + 21\%) * (1 - 12\%) * (1 + 7\%) * (1 - 6\%))}^\dfrac{1}{5} - 1 \\[0.3 cm]
+
+& = {(1.13 * 1.21 * 0.88 * 1.07 * 0.94)}^\dfrac{1}{5} - 1 \\[0.3 cm]
+
+& = {1.2102}^\dfrac{1}{5} - 1 \\[0.3 cm]
+
+&= 3.89\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}",Returns on Investment: The average returns on an investment are usually measured in terms of geometric mean and arithmetic mean. The geometric mean gives an idea of the compounded annual growth rate whereas the arithmetic return denotes the historical average annual return.
+33,"To find the portfolio's average return, we have to multiply each stock's average returns by?",the stocks' standard deviations.,the dollar amount invested in the stock divided by the total dollars invested.,one divided by the total number of stocks.,just the dollars invested in each stock.,B,"The correct option is b
+When the average return of a stock is multiplied by the amount invested in each stock and divided by the total amount invested in the portfolio, the result arrived is the average return of a portfolio. It is also known as the weighted average return of a portfolio.
+The explanation for incorrect options:
+a.
+Standard deviation of a portfolio is calculated when the standard deviation is multiplied with weights and correlation between two stocks.
+c.
+Dividing the average return by the number of stocks does not result in the average return of a portfolio.
+d.
+Multiplying the average return by dollars invested does not become an average return.","Portfolio: A portfolio consists of a group of financial securities. While choosing the portfolio of securities for his clients a financial planner considers factors such as income level of client, age group, financial objectives, risk capacity, other saving funds available, etc."
+34,"Weir Inc.'s stock has a {eq}25\%
+
+{/eq} chance of producing a {eq}35\%
+
+{/eq} return, a {eq}50\%
+
+{/eq} chance of producing a {eq}8\%
+
+{/eq} return, and a {eq}25\%
+
+{/eq} chance of producing a {eq}-10\%
+
+{/eq} return. What is the firm's expected rate of return?","{eq}10.25\%
+
+{/eq}.","{eq}12.50\%
+
+{/eq}.","{eq}10.80\%
+
+{/eq}.","{eq}11.20\%
+
+{/eq}.",,"The answer is
+a. 10.25%
+Estimate the expected rate of return:
+{eq}r_{expected} = r_1\times Probability_1 + r_2\times Probability_2 + r_3\times Probability_3 {/eq}
+{eq}r_{expected} = 35\%\times 25\% + 8\%\times 50\% + (-10\%)\times 25\% {/eq}
+{eq}r_{expected} = 10.25\% {/eq}","Rate of Return: For an investment, the term rate of return refers to the annualized return over the initial investment, which is measured by percentage. The expected rate of return should be compared with a relative investment or investor's opportunity cost before an investment decision."
+35,"In financial capital markets, those who demand financial capital by receiving funds expect to receive a rate of return.",TRUE,FALSE,,,B,"Answer: b. False
+In financial capital markets, those who demand financial capital by receiving funds do not expect to receive a rate of return. Instead, it is the supplier of capital that expects some sort of incentive that comes in the form of a rate of return in exchange for lending money. The supplier of capital is called an investor or a creditor, while the one who demands the capital is called a borrower. In business, creditors and borrowers are often entities rather than individuals.","Raising Capital Some of the reasons why companies raise are expanding the business, hiring more employees, or the purchase of new assets. They often issue stocks or bonds or borrow from creditors to finance this."
+36,A return of 12% compounded annually is the same as a return of 1% per month.,TRUE,FALSE,,,B,"The formula for effective annual rate is:
+{eq}\begin{align}
+
+\text{EAR} &= (1+\frac{r}{n})^{n} - 1\\
+
+\end{align}
+
+{/eq}
+Where the r is the annual rate, and the n is the number of compounding periods.
+For the first one, the r is 0.12, and its n is 1 for annual.
+{eq}\begin{align}
+
+\text{EAR} &= (1+\frac{0.12}{1})^{1} - 1\\
+
+&=0.12\,\text{or}\, 12\%
+
+\end{align}
+
+{/eq}
+The second one is already r divided by n, which is 0.01, and n is 12 for monthly.
+For the first one, the r is 0.12, and its n is 1 for annual.
+{eq}\begin{align}
+
+\text{EAR} &= (1+0.01)^{12} - 1\\
+
+&=0.1268250301\,\text{or}\,12.68\%
+
+\end{align}
+
+{/eq}
+Based on the calculations, they have different EAR. So, they are
+not the same.
+The statement is
+B. False.","Effective Annual Rate: To answer this kind of question, compute and compare the effective annual rate of return of these two different compounding returns and choose the higher one."
+37,"An investment that cost $48,000 provided annual cash inflows of $9,000 per year for six years. The desired rate of return is 10%. The actual return from the investment was:",equal to the desired rate of return.,less than the desired rate of return.,the answer cannot be determined from the information provided.,greater than the desired rate of return.,D,"Answer: D. greater than the desired rate of return.
+Explanation:
+We know that,
+{eq}\text{Rate of Return} = \dfrac{\text{Annual Income}}{\text{Initial Investment}} * 100
+
+{/eq}
+Given that -
+Initial Investment = $48,000
+Annual cash inflows = $9,000
+{eq}\text{Rate of Return} = \dfrac{\$9,000}{\$48,000} * 100
+
+{/eq}
+{eq}\text{Rate of Return} = 0.1875 * 100
+
+{/eq}
+{eq}\text{Rate of Return} = 18.75\%
+
+{/eq}
+The rate of return (at 18.75%) is greater than the desired rate of return (at 10%).",Rate Of Return: Investors use the rate of return to compare different investment alternatives. The rate of return shows the annual income as a percentage of initial investment and can be used to determine the economic viability of an investment.
+38,"In January 2015, the average price of an asset was $27,558. 9 years earlier, the average price was $21,608. What was the annual increase in selling price?",2.74%,3.01%,3.29%,2.47%,D,"The answer is d. 2.47%.  Support is below.
+The geometric average return is computed as follows:
+Average = (Ending Value / Beginning Value) ^ (1/n) - 1
+Average = ($27,558 / $21,608) ^ (1/9) - 1 = .0274","Geometric Average Return: The geometric average return is often referred to as the compound annual growth rate.  It is the annual rate of growth that takes a value from a beginning amount to an ending amount over a specified period of time, given a compound rate of change that occurs evenly over the time period."

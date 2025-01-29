@@ -1,0 +1,526 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"On January 1, 2010, AT&T issued a 3-year bond with a face value of $6,000,000 and a stated interest rate of 5%, the bond makes payments semi-annually.",Identify the relevant variables:,"If the going rate of interest is 5%, how much cash will AT&T receive when they issue the bond.","Given the information in part b, create an amortization schedule for the first two years. How much interest expense would AT&T recognize on the income statement in the first year? Is this the same or different than the promised annual cash payments? Explain.",,A,"a. Identify the relevant variables:
+Face Value
+FV = $6,000,000
+Stated Rate
+SR = 5% / 2 = 2.5%
+Interest Payment
+PMT = $6,000,000 x 2.5% = $150,000
+Number of Periods
+N = 3 years x 2 = 6 periods
+b. If the going rate of interest is 5%, how much cash will AT&T receive when they issue the bond.
+If stated rate and the market rate is the same, the bond will be issued at its face value. Bonds are issued at a discount when market rate is higher than the stated rate and bonds are issued at a premium when stated rate is higher than the market rate. Therefore, at a 5% going rate, AT&T will receive $6,000,000 cash.
+c. Given the information in part b, create an amortization schedule for the first two years. How much interest expense would AT&T recognize on the income statement in the first year? Is this the same or different than the promised annual cash payments? Explain.
+Amortization Schedule
+Date
+PMT
+Interest Expense
+Carrying Amount
+January 1, 2010
+-
+-
+$6,000,000
+June 30, 2010
+$150,000
+$150,000
+$6,000,000
+December 31, 2010
+150,000
+150,000
+$6,000,000
+June 30, 2011
+150,000
+150,000
+$6,000,000
+December 31, 2011
+150,000
+150,000
+$6,000,000
+AT&T will recognize a total interest expense of $300,000 in the first year. As you can see, the interest expense and the interest payment is the same since the stated rate and going rate of the bond is the same. Expense and payment will only differ when stated rate and market rate also differ.","Interest Expense and Interest Payment Interest expense recognized and interest payment made is not always the same. Interest payment is based on the stated rate of the bond. It is the actual cash disbursed to pay off the interest. On the other hand, interest expense is based on the market rates and is the accurate measure of interest incurred from the issuance of the bond."
+2,"Note Payable of $6,000 represents a loan that was taken on June 1, 2019 at a yearly interest rate of 10%. The adjusting entry required on Aug 318, 2019 will be:","Cash $200, credit Note Payable $200","Debit Interest Payable $100, credit Interest Expense $100","Debit interest expense $150, credit Interest Payable $150","Debit cash $100, credit Interest Payable $100",C,"The correct option is
+(c) Debit interest expense $150, credit Interest Payable $150
+As the loan was taken on June 1, 2019, at an interest rate of 10%. On Aug 31, 2019, we should book interest expenses for three months.
+{eq}\begin{align}
+
+\text{Interest Expense} &= \text{Loan Amount} \times \text{Interest Rate} \times \dfrac{\text{Number of months}}{12}\\
+
+&= \$6,000 \times 0.10 \times \dfrac{3}{12}\\
+
+&= \$600 \times \dfrac{1}{4}\\
+
+&= \$150\\
+
+\end{align}
+
+{/eq}
+So we will debit the interest expenses and credit the interest payable by $150.
+So the journal entry would be -
+Date
+Debit
+Credit
+Aug 31, 2018
+Interest Expense ----- Dr.
+$150
+Interest Payable ----- Cr.
+$150
+Explanation for incorrect answers
+The cash account will not be involved in the adjusting entry, hence options (a) and (d) are incorrect.
+The interest payable account would be credited, hence option (b) is incorrect.",Interest Expense: The interest expense is the cost of funds for loans and borrowings. The interest rate is decided upfront between the lender and the borrower. Payment of interest is a cash outflow under financing activities.
+3,"The interest on a $6,000, 6%, 60-day note receivable is:",$60.,$240.,$40.,$80.,A,"Answer: a. $60.
+Explanation:
+The interest on a $6,000, 6%, 60-day note receivable can be computed by using the following formula:
+Interest = P X R X T
+P = Principal amount = $6,000
+R = Annual interest rate = 6%
+T = Period of time in years = 60 days / 360 days
+Interest = $6,000 * 6% * 60 days / 360 days
+Interest =
+$60","Interest Interest on a note is computed using the formula; Interest = P X R X T. ""P"" is the principal amount of the note, ""R"" is the annual interest on the note and ""T"" is the period of time expressed in terms of years."
+4,"If Jackson sells $100,000 8% bonds when the market is 5%. The bonds will mature in 10 years. Interest is paid semi-annually. The bond interest payments will be?",$8000,$4000,none of the above,,B,"The bond interest payments will be
+b. $4,000
+The cash bond interest payment is calculated using the face value of the bond and the coupon interest rate. The interest is paid semi-annually so we must adjust it for 6 out of 12 months:
+Face value of the bonds
+$100,000
+Coupon interest rate
+8%
+Semi-annual interest payment
+= Face value × Coupon interest rate × 6/12
+= $100,000 × 0.08 × 6/12
+= $4,000","Bond Interest Payment: The bond interest payment is the cash paid to bondholders periodically. The interest rate and payment terms stated on the bond's issue documents are used to calculate the interest payment. When bonds are issued at a discount or a premium, the interest payment is not the same as the interest expense."
+5,What does the term structure of interest rates refer to?,The fact that long-term interest rates are always higher than short-term interest rates,The relationship between bond maturities and interest rates,Why the expectations theory and liquidity preference theory are contradictory,None of the above,B,"The term structure of interest rates, also known as the yield curve, refers to
+b. The relationship between bond maturities and interest rates
+. In general, the yields or interest rates will increase as the maturities increase. This relationship exists due to increased risk over time. Conversely, yields or interest rates will decrease as the maturities decrease. This normal relationship exists when the economy is in an expansionary stage. If this slope of relationship reverses, the economy is in or heading into a recessive stage.","Interest: Interest refers to an amount paid to a lender in exchange for their capital. Interest is expressed as a percentage, and the interest to be paid is calculated by multiplying the principal amount by the stated interest rate for the applicable period. Interest rates have a positive correlation to risk, meaning that as risk increases so do interest rates, and vice-versa."
+6,Accrued interest on a note is recorded by a debit to Interest Expense on the maker's books and a credit to Interest Revenue on the payee's books.,True,False,,,A,"The answer is
+TRUE
+Accrued Interest affects 2 parties, the debtor and the creditor.
+For the debtors book, the journal entry is:
+Accounts
+Debit
+Credit
+Interest Expense
+xxx
+Accrued Interest
+xxx
+- these proves that on the maker's book, interest expense is debited.
+For the creditors book, the journal entry is:
+Accounts
+Debit
+Credit
+Interest Receivable
+xxx
+Interest Revenue
+xxx
+- these proves that on the payee's book, interest revenue is credited.",Accrued Interest: Accrued Interest is one of the adjusting entry made at the end of the accounting period. These is to recognized the interest incurred by the company but are not yet paid during the period.
+7,Soiling the bonds at a premium has the effect of:,raising the effective interest rate above the stated interest rate.,attracting Investors that are willing to pay a lower rate of interest than on similar bonds.,causing the interest expense to be higher than the bond interest paid.,causing the interest expense to be lower than the bond interest paid.,D,"Option 'd' is the correct answer.
+If the bonds are issued at a discount, the amortized discount on the bonds payable is added to the bond interest paid. If the bonds are issued at a premium, the amortized premium on the bonds payable is subtracted from the bond interest paid.
+If the bonds are sold at a premium, the interest expense would be less than the bond interest paid since the amortized premium would be subtracted from the bond interest paid for calculating interest expense.","Interest expense: A company's borrowed cash charge is called an interest expense. A non-operating item that appears on the income statement is interest expense. The interest must be paid on all borrowings, including bonds, loans, convertible debt, and credit lines."
+8,"The interest on a $10,000, 6%, 60-day note receivable is",$680,$100,$300,$200,B,"The answer is
+b. $100.
+In this problem, the note's principal amount is $10,000, its interest rate is 6%, and the time is 60 days.
+So, the interest is:
+{eq}\begin{align}
+
+\text{Interest} &= \text{Principal x Rate x Time in days over number of days in a year} \\
+
+&=\$10,000 \times 6\% \times \frac{60}{360}\\
+
+&=\$100
+
+\end{align}
+
+{/eq}","Interest Expense: Interest expense records when the company has issued promissory notes or bonds or borrowed money from creditors or lenders, like banks or financial institutions."
+9,"Interest on a $5,000, 15% promissory note for six months is:",$3.75.,$375.,"$3,750.",$37.50.,B,"The correct answer is
+b. $375
+.
+The interest rate on a promissory note always implies an annual rate. In the given case:
+Face value of the note = $5,000
+Annual interest rate = 15%
+Interest period = 6 months
+We need to compute the interest applicable for six months, not one year. The following formula will help arrive at the same:
+{eq}\text{Interest for six months} = \text{Face value of the note × Interest rate} × \dfrac{6}{12} = {\$5,000 × 15\%} × \dfrac{6}{12} = \$375 {/eq}",Interest: Interest is a cost when the business borrows money and income when it lends money. Interest computations help determine the expense for the period a company must pay its creditors or accrue the same to pay on maturity.
+10,"To charge customers interest on overdue accounts, you need to:",enter the interest rate charges in the customer's ledger record and Sage 50 Accounting will automatically create an invoice for the interest charge when the account is overdue.,"enter the interest rate charges as ledger settings, print statements and create invoices for the interest amounts on the statements.",calculate the amount of interest owed and create an invoice for this amount.,print and send out customer statements and enter the receipts when the customers pay the interest charges.,B,"The correct answer is option
+b. enter the interest rate charges as ledger settings, print statements and create invoices for the interest amounts on the statements
+Explanation
+To charge customers interest on overdue accounts, following steps are followed:
+Turn on the Sage 50 Accounting setting that charges interest on late payments. Invoices will only become overdue from the time you enable this feature.
+Generate customer statements for those customers with overdue payments. The interest on the overdue balances for each customer are printed on their statements.
+Create a new sales invoice for the interest amount owing.
+When payment is received for the interest owed, enter the payment against the interest invoice. Sage 50 Accounting will continue to calculate interest on the original overdue invoice until payment is received for it.","Overdue Interest Sometimes the interest is charged on the overdue amount payable by the customer because of the delay in payment by such customers. To charge interest in Sage 50 Accounting, first of all the interest on overdue account should be entered in the ledger and then the statements on for each customer is printed and a new invoice for the interest amount is generated."
+11,"Higher interest rates increase the cost of borrowing, thus",increasing foreign direct investment.,increasing disposable income.,decreasing domestic tax rates.,reducing the amount of real investment undertaken in an economy.,D,"The correct answer to the given question is option
+D. reducing the amount of real investment undertaken in an economy.
+An increase in the cost of borrowing due to higher interest rates usually discourages new domestic and foreign investment as the sponsors of projects have to pay more cost for borrowing. In other words, the real investment undertaken in an economy reduces as the sponsors can undertake lower number of projects for the same value (i.e. principal + interest costs).","Cost of Capital: In the parlance of economics and finance, various projects are usually undertaken by having two sources of funds, namely, equity financing and debt financing. The overall cost of capital for a project is ascertained by taking a weighted average value of the proportion and costs of these funds."
+12,"The interest accrued on $4,800 at 7% for 75 days is:",$168.,$34.,$70.,$39.,C,"Answer: c) $70.
+The interest accrued on $4,800 at 7% for 75 days is computed as follows:
+Interest = Principal * Annual Interest Rate * Number of Days Outstanding / Number of Days in a year
+Interest = $4,800 * 7% * 75 days / 360 days
+Interest = $70","Interest Interest are additional income or payment related to the use of money of others. Common assets that earn interest are cash, loan receivable and notes receivable."
+13,"When interest rates go up, people are:",More likely to borrow,Less likely to borrow,Does not affect a person's consumption,None of the above.,B,"The correct answer is B. Less likely to Borrow
+Explanation:
+People will avoid taking out loans in these situations because rising interest rates will increase loan costs; instead, they will adopt saving habits and reduce their consumption and expenditures.
+The other options are incorrect because:
+Option A: If loan interest increases, it will not attract the borrowers because the costs associated with repaying the loan will rise. And hence, the choice is unwise.
+Option C is untrue because interest rates must impact people's spending and consumption.","Interest Rate According to the borrower, the interest rate is the percentage of the loan amount, that the lender charges over and above the principal amount. The interest is usually paid in installments."
+14,"Firewood Company signed a three-year note payable for $45,000 at 7% annual interest. What is the interest expense for 2013 if the note was signed on August 1, 2013?","$3,150","$1,575","$9,450","$1,313",D,"If the notes were issued on August 1, 2013, there were five months (August to December 2013) to accrue interest.
+So, the interest expense to be recorded is:
+{eq}\begin{align}
+
+\text{Interest expense} &= \text{Principal amount x Interest rate x Time} \\
+
+&=\$45,000 \times 7\% \times \frac{5}{12}\\
+
+&=\$1,312.50
+
+\end{align}
+
+{/eq}
+The answer is
+D. $1,313
+when rounded off to the nearest dollar.",Interest Expense: Interest expense is the cost incurred when a company borrows funds. It is one of the accrual accounts that need adjustments at the end of the accounting period through the preparation of adjusting entries.
+15,The interest charge on a simple loan is the difference between its maturity value and principal.,True,False,,,A,"It is
+a.true
+that the interest charge on a simple loan is the difference between its maturity value and principal.
+The interest charge is usually expressed as an annual percentage that is determined on the principal over time. The interest charge is an expense that is deducted against the revenues generated by the loan over the period the borrowed capital is used.",Interest: The value of money changes depending on when cash can be received. A dollar today is worth more by virtue of the holder's ability to spend it than a dollar at some future date and this is the time-value of money that must be considered when money is loaned or invested.
+16,"1) Identify whether discount or compound is needed, 2) work with a single sum or an annuity, 3) write out the appropriate formula, 4) fin the solution, and 5) respond to the final analysis question.",How much will Linda have at the end of 10 years if she deposits $500 in a savings account at 7% interest?,Was the advertisement correct?,,,D,"1. We need to calculated accumulated value hence, compounding would be used.
+2. $500 was invested once, hence we have to work with single sum
+3. Accumulation Factor = (1 + i){eq}^n
+
+{/eq}
+Where i = interest rate
+n = number of years
+4.
+Answer (a)
+After 10 years,
+Linda would have $500 * (1.07){eq}^10
+
+{/eq}
+Accumulated Amount = $500 * 1.967
+Accumulated Amount = $983.50
+Answer (b)
+The advertisement claimed that the money would be doubled in 10 years
+However from the above, we can see that the money has grown to $983.50 but not exactly doubled.
+So,we can conclude that the advertisement was incorrect.
+Future Value / Lump Sum
+FV = $983.50
+N = 10 years
+I = 7%",Compound Interest Compound Interest is an interest which earns interest. Suppose we invest $100 in an investment and earned 10% interest on it i.e. $10 ($100 * 10%) Now for the next year we would not only earn interest on $100 but also on $10 i.e. we would earn interest on $110. This is compounding of interest hence the interest such calculated is called compound interest.
+17,Which of the following assets do not qualify for capitalization of interest costs incurred during construction of the assets?,Assets under construction for an enterprise's own use.,Assets intended for sale or lease that are produced as discrete projects.,Assets financed through the issuance of long-term debt.,Assets not currently undergoing the activities necessary to get them ready for use.,D,"The answer is
+d. Assets not currently undergoing the activities necessary to get them ready for use.
+The interest cost incurred while the construction is not currently undergoing shall be expensed and not capitalized.","Interest Cost: Interest Cost are cost incurred because of borrowing funds to another party. These can be capitalized or expensed during the period it is incurred depending on where, when and how the fund incurring an interest is used."
+18,1. Prepare journal entries to record the following hypothetical 2006 events:,"A customer deposits $50,000 in WaMu savings account on 1/1/2006.",WaMu pays a 1% (annual) interest on that deposit on 3/31/06.,"WaMu lends the $50,000 to another customer for a 6% home loan on 1/1/06.",WaMu accrues interest on that loan as of 3/31/06.,A,"1. Prepare journal entries to record the following hypothetical 2006 events:
+a. A customer deposits $50,000 in WaMu savings account on 1/1/2006.
+Cash
+50,000
+Customers Saving Account
+50,000
+To record the deposit from customers.
+b. WaMu pays a 1% (annual) interest on that deposit on 3/31/06.
+interest Expense (50,000*1%*3/12)
+125
+Cash
+125
+To record the payment of interest.
+c. WaMu lends the $50,000 to another customer for a 6% home loan on 1/1/06.
+Loan Receivables
+50,000
+Cash
+50,000
+To record the receivable lent to customers
+d. WaMu accrues interest on that loan as of 3/31/06.
+Interest Receivables (50,000*6%*3/12)750
+Interest Income
+750
+To record the interest accrued.
+2. How much net interest income (profit) did WaMu earn in the first quarter of 2006 on this deposit and the corresponding loan?
+Interest Rate on Receivables
+6%
+Interest Rate on Payable
+1%
+Net Interest Rate
+5%
+Principal
+50,000
+Annual Net Interest
+2,500
+Time
+3/12
+Net Interest, 1st Quarter
+625","Interest: Interest refers to the amount of money earned or incurred by the company because of using someone's money. Interest can either be receivables or payables, dependingon whether the company is the provider of loan as a creditor or a debtor. Interest Receivables are treated as part of the current assets."
+19,"In Miller's model, when Personal tax rate on income from bonds is equal to the personal tax rate on income from stocks:",relative advantage of debt depends only on the corporate tax rate,relative advantage of debt depends only on the personal tax rate on interest income,relative advantage of debt depends only on the personal tax rate on income from equity,none of the above,A,"The answer is A. relative advantage of debt depends only on the corporate tax rate.  If the personal tax rate on income from bonds is equal to the personal tax rate on income from stocks, investors should be indifferent to the source of their income.  However, debt could still have a relative capital structure cost advantage over equity, if the corporate tax rate shows favor to debt (i.e. tax deductibility of interest expense).","Tax Deductibility of Interest Expense: In many tax jurisdictions, including that of the United States, debt is granted a tax advantage over equity capital.  I say this, because interest expense on debt is tax deductible, whereas dividends paid on equity are not.  For this reason, the after-tax cost of debt is the true measure of its cost."
+20,The Balance Sheet would disclose the interest owed:,nowhere on the Balance Sheet.,in the Stockholder's Section.,in the Asset section.,in the Liabilities section.,D,"Correct Answer: Option D. in the Liabilities section.
+Explanation:
+Interest owed represents the amount of interest that has been incurred and not yet been paid for. To account for the same, an adjusting entry is made which requires recognition of the expense for the period and also the creation of a current liability called interest payable. Hence the amount of interest owed is shown under the liabilities side of the balance sheet.","Cost of Debt: When a company borrows debt, it has to pay interest on the debt. The interest is computed on the basis of the coupon rate that is offered on the debt securities when they are issued. interest expense simply represents the cost of raising capital from debt instruments. It is a non-operating expense that is reduced from the operating income."
+21,"The interest charged by the bank, at the rate of 12%, on a 90-day, noninterest-bearing note payable for $75,000 is:","$1,000","$2,250","$3,000","$9,000",B,"The interest charge is
+B. $2,250
+.
+Given information:
+Noninterest bearing note payable = $75,000
+Interest rate = 12%
+Maturity period = 90 days
+Total days in a year = 360 (assumed)
+The interest charged by the bank can be computed by multiplying the note payable amount with the interest rate. The resulting amount is then multiplied by the ratio of maturity days and total days in a year.
+{eq}\begin{aligned}
+
+\text{Interest}
+
+&=\text{Note}\ \text{payable}\times \text{Interest}\ \text{rate}\times \left( \frac{\text{Maturity}\ \text{days}}{\text{Total}\ \text{days}} \right) \\
+
+&=\$75,000\times 12\%\times \left( \frac{90}{360} \right) \\
+
+&=\$75,000\times 12\%\times 0.25 \\
+
+&=\$2,250
+
+\end{aligned}
+
+{/eq}","Notes Payable: Notes payable is a liability for an individual, a business or the government. The maturity period of note payable varies from short to long-term. It can be issued to individuals, banks, or financial institutions."
+22,"A $35,000, two-month, 7% note payable was issued on December 1, 2015. What is the amount of interest expense recorded in the year 2016?",$402,$204,$408,$202,B,"The correct option is
+option b. $204
+.
+Calculation:
+{eq}\begin{aligned}   \text{Interest}\ \text{expense}\left( \text{for}\ \text{January} \right)&=\text{Note payable}\times \text{Interest}\ \text{rate}\times \frac{\text{Number}\ \text{of}\ \text{months}\ \text{interest}\ \text{due}}{\text{Total}\ \text{months}} \\   &=\$35,000\times 7\%\times \frac{1}{12} \\   &=\$204  \end{aligned}
+
+{/eq}","Expenses: Expenses refer to the costs incurred by the business in carrying out its business operations. It includes direct and indirect expenses, like direct materials are direct expenses and salaries are indirect expenses."
+23,A credit to BIE_ that account.,increases,decreases,remains the same,,D,"Bond interest expense is an expense account. So its normal balance is debit. It increases when debited and decreases when credited.
+Thus, the answer is
+B. decreases.",Bond Interest: Bond Interest is the company's costs incurred in interest for issuing bonds. This is calculated by getting the total payments (coupon payments over the life of the bonds plus face value of the bond) minus the issuing price of the bond.
+24,"What is the amount of interest accrued on $3,600 at 7% for 60 days?",$42,$60,$252,$600,A,"Answer choice:
+A.  $42
+Explanation:
+{eq}\text{Interest Accrued} = \text{Face Value} * \text{Interest rate} * \text{Number of days of loan / 360}  = \$3,600 * \ 0.07 * \ 60/360 = \$42
+
+{/eq}
+The amount of interest accrued can be calculated based on the interest rate and the amount of dates in the note.  The interest rate is for a year so this must only be recorded for the duration of the 60 day note.",Interest on a Note: Loan agreements are often called notes payable and there is interest that has to be paid on top of the face value.  The interest has to be accrued once it is incurred to ensure that the company is following accrual basis accounting which is required of publicly traded company's that are required to follow GAAP closely.
+25,A man received 7 percent interest on a loan of $200 for 1 year. How much interest did he receive?,$7,$9,$14,$20,A,"The following problem is a direct substitution of simple interest formula. The formula for simple interest is given by
+$$I = Prt,
+
+$$
+where {eq}I {/eq} is the interest, {eq}P {/eq} is the principal amount, {eq}r {/eq} is the interest rate, {eq}t {/eq} is the time the money invested. Substituting the known values, we get
+$$\begin{align}
+
+I &= \left(200\right)\left(\frac{7}{100}\right)\left(1\right) \\
+
+I &= 14
+
+\end{align}
+
+$$
+Hence, the correct answer is {eq}\boxed{ \text{C. } $14 .}  {/eq}","Interest: Interest is the amount of money generated by investing a principal amount over time. The interest is determined by the interest rate and the time duration, that is, longer investment tends to generate more interest."
+26,"A $10,000, 7% note is dated June 18 and is due in 45 days. The due date would be:",Aug. 4.,Aug. 2.,Aug. 3.,Aug. 1.,B,"The correct answer is
+b. Aug. 2
+.
+The due date of the note refers to the date on which the borrower should repay the amount borrowed along with the interest accrued on the same. The due date computation uses the following inputs:
+Note date = June 18
+Note period = 45 days
+The maturity date will be August 2, arriving by adding the days in June, July, and August until the completion of 45 days (12 days of June + 31 days of July + 2 days of August).","Liabilities: Liabilities are obligations due within a specified period, and their costs vary depending on the nature of the liability and the interest charged on it. The most normal cost of debt capital is interest, a tax-deductible expense."
+27,"Oklahoma Oil Corp. paid interest of $785,000 in 2018, and the interest payable account decreased by $125,000. What was the interest expense for the year?","$660,000.","$785,000.","$910,000.","$555,000.",A,"Correct Answer:
+Option a. $660,000
+.
+Oklahoma Oil Corp.'s interest expense for the year can be computed using the following formula:
+Interest expense for the year = Total interest paid - Decrease in interest payable
+Interest expense for the year = $785,000 - $125,000
+Interest expense for the year = $660,000",Interest Expense: Interest expense for the period can be determined by applying the interest rate to the par value of the amount borrowed in bonds or negotiable instruments. The cost is reported on the income statement.
+28,"Under US GAAP, periodic cash interest payments made during the period are reported in the statement of cash flows as a(an):",operating activity,investing activity,financing activity,Any of the above at the discretion of management.,A,"Answer: A. operating activity
+Under the US GAAP, interest paid, otherwise known as the interest expense incurred by the company should be reported under operating activities. Although the principal amount of the loan is presented as part of the financing activities, the interest expense component shall be recorded as part of operating activities, considering that such expense was incurred in the operations.","Statement of Cash Flows: Statement of Cash flows can be prepared using the direct and indirect method. In the indirect method, the amount of net income is increased by non-cash expenses such as depreciation and amortization and decrease in assets and increase in liabilities. The increase in asset and decrease in liabilities are considered as deductions."
+29,"As interest is recorded on an interest-bearing note, the Interest Expense account is:",decreased; the Interest Payable account is increased.,increased; the Interest Payable account is increased.,increased; the Notes Payable account is decreased.,increased; the Notes Payable account is increased.,D,"When a company recognized interest on an interest-bearing note, we usually recorded it in the book of accounts through the following journal entries.
+Date
+Account Title
+Debit
+Credit
+xx
+Interest Expense
+xx
+Interest Payable
+xx
+To record interest expense.
+Based on the above entries, the total interest expense account increased. Also, it is noted that the interest payable account is increased as liability has a normal credit balance. Accordingly, the correct answer is option
+b. increased; the Interest Payable account is increased.","Note Payable: Note payable is a liability account representing a formal, written agreement where a borrower promises to repay a lender a specific amount of money, with interest, over a predetermined period."
+30,"Interest expense on a 6-month, 8 percent, $6,000 note payable would be approximate:",$350,$120,$480,$240,D,"Correct answer: Option D) $240.
+Explanation:
+Interest expense = Face value of the amount borrowed * Interest rate * 6/12
+Interest expense = $6,000 * 8% * 6/12
+Interest expense = $240",Interest Expense: Interest expense is a charge against the profits of the company that is paid for the amount borrowed. Interest expense is a non-operating expense that is reported in the income statement. It is shown under the operating activities section of the cash flow statement.
+31,Which of the following is a true statement regarding interest calculation methods?,Interest is calculated on either a straight basis or a delayed basis.,Interest is calculated on either a straight basis or an undiscounted basis.,"If a borrower receives a loan on a discount basis, the APR will be less than the simple interest.","If a borrower receives a loan on a discount basis, the APR will be more than the simple interest rate.",D,"The correct answer is d. If a borrower receives a loan on a discount basis, the APR will be more than the simple interest rate.
+The discount basis method of loan deducts interest and related charges from the loan amount. The borrower is required to borrowed amount including interest and other charges. The annual percentage rate will be high as it is calculated on the full amount whereas the loan amount received is less. The borrower has to pay interest on more amount than the amount it is utilizing.
+Explanation for incorrect answers:
+a. Interest is calculated on either a straight basis or a delayed basis.
+Interest is calculated on either simple method or compound method.
+b. Interest is calculated on either a straight basis or an undiscounted basis.
+The discounted and undiscounted methods are used to calculate the amount of money to be lent to the borrower. The charges are either deducted from principal amount or not.
+c. If a borrower receives a loan on a discount basis, the APR will be less than the simple interest.
+The APR will be high as the interest is paid on the amount which is more than the amount that is received by the borrower.","Interest Calculation: Interest is the charge to be paid on the borrowed money, calculated as a percentage of principal amount. It can be calculated using simple method or compound method. It is affected by the amount borrowed, inflation and interest rate, time and risk factor."
+32,"Ahmad receives a $14,000, 12%, 60-day note. The maturity value of the note is:",$280,"$14,000","$14,280","$13,780",C,"Correct Answer:
+Option c. $14,280
+.
+Ahmad should first determine the total interest on the note:
+{eq}\text{Interest on the note} = \dfrac{\text{Face value of the note × Interest rate }}{\text{Total period}} × \text{ Interest period}= \dfrac{\$14,000 × 12\%}{360\,days} × 60\,days  = \$280
+
+{/eq}
+Now, the maturity value of the note can be computed as follows:
+Maturity value of the note = Face value of the note + Total interest
+Maturity value of the note = $14,000 + $280
+Maturity value of the note = $14,280",Maturity Value: A note's maturity value refers to the total amount receivable at maturity. This amount consists of the face value and the interest due on the note for the note period. Interest computation depends on the note and interest periods.
+33,A government will have an overall deficit that is smaller than its primary deficit if:,the government's net interest payments are positive.,government investment is negative.,government investment is positive.,the government's net interest payments are negative.,D,"The correct option is
+d. The government's net interest payments are negative
+.
+We know that
+Primary Deficit = Fiscal Deficit - Interest paid on debts
+In this case, the overall fiscal deficit is higher than the primary deficit; therefore, it can be concluded that the interest paid on the debts are negative.","Interest payment: In finance and economics, the term interest payment refers to interest paid on the principal sum of money borrowed from a financial institution by the borrower. In other words, it is a fee that a borrower has to pay the lender over the principal sum of money borrowed."
+34,"Interest calculated for one year on a $8,000, 6% promissory note is:",$48.,some other amount.,$480.,$4.80.,C,"The correct answer is
+c. $480
+.
+The inputs needed for interest computation include the following:
+Face value of the note = $8,000
+Annual interest rate = 6%
+The inputs are arranged logically to arrive at the interest expense as shown below:
+{eq}\text{Annual Interest} = \text{Face value of the note × Interest rate} = {\$8,000 × 6\%} = \$480 {/eq}",Interest Rate: Interest rate is essential to determine the interest on the borrowed amount that needs to be paid along with the face value of the note at maturity. The rate is determined at the time of discussing the loan.
+35,A debit to BIE_ that account.,increases,decreases,remains the same,,A,"Answer: A. increases
+Interest Expense is an expense account presented in the income statement and decreases the amount of net income. Since it is an expense account, the normal balance of the said account is debit. Thus, the debit in interest expense account increases the said account.",Bond Interest Expense: Bond interest expense can be computed by obtaining the principal amount and multiplying it to the nominal interest rate applicable in the bonds and the timers or time on which said liability is outstanding.
+36,"When the spread between interest rates on RSA and RSL __________, the bank's net interest income would be expected to __________.",increases; increase,increases; decrease,decreases; increase,B and C,A,"The correct answer is
+A) increases; increase
+.
+Rate-Sensitive Assets (RSA) are financial assets held by a bank or financial institution that are subject to changes in interest rates. These assets typically include loans, investments, and other interest-earning assets. Rate-Sensitive Liabilities (RSL) are the liabilities of a bank or financial institution that are subject to changes in interest rates. These liabilities usually include deposits and borrowings.
+The spread between interest rates on RSA and RSL refers to the difference between the interest rates that a bank earns on its Rate-Sensitive Assets and the interest rates it pays on its Rate-Sensitive Liabilities. This spread directly impacts the bank's net interest income, which is the difference between the interest income earned on assets and the interest expense paid on liabilities.
+A larger spread between the interest rates on RSA and RSL means that the bank is earning more from its assets compared to what it is paying on its liabilities. This would lead to an increase in net interest income, as the bank is making more money from the interest rate differential between its assets and liabilities. Therefore, when the spread between interest rates on RSA and RSL increases, the bank's net interest income would be expected to increase.
+Hence answer option A) is correct and options B), C), and D) are incorrect.","Interest: Interest is the cost of borrowing money, i.e., the fee paid by a borrower to a lender for the use of money. Interest can also be expressed as the return on invested capital, i.e., the compensation earned by an investor or lender for providing funds to another entity. Interest is typically expressed as a percentage of the principal amount, i.e., the initial sum of money borrowed or invested, and it is calculated based on an agreed-upon interest rate and time period."
+37,Operating expenses include interest expense and income tax expense.,True,False,,,B,"The statement is
+Option b) False.
+Explanation:
+Interest expense and income tax expense are non-operating expenses that are reduced from the operating income to derive the income before taxes or pretax income. Hence they are not included in the operating expenses.",Interest Expense: Interest expense is a charge against the profits of the company and is a tax-deductible expense that reduces the tax burden of the company. Interest expense is reported in the income statement while the accrued interest expense is reported as a current liability in the balance sheet.
+38,"A borrower takes out a 30-year mortgage loan for $250,000 with an interest rate of 5% and monthly payments. What portion of the first month's payment would be applied to interest?",$694,"$1,042","$1,342","$1,355",B,"The correct answer is option B.
+Given information:
+The mortgage loan amount is $250,000.
+The interest rate is 5%.
+The payments are done on monthly basis. (So, 12 months is taken as the total months in a year for the calculation of interest payment.)
+The duration of the loan is 30 years.
+Calculation of the portion of the first month's payment:
+{eq}\begin{align*}{\rm\text{Interest payment}} &= {\rm\text{Loan amount}} \times {\rm\text{Interest rate}} \times \frac{{{\rm\text{First month}}}}{{{\rm\text{Total month in a year}}}}\\ &= \$ 250,000 \times 5\%  \times \frac{1}{{12}}\\ &= \$ 250,000 \times 0.05 \times 0.0833\\ &= \$ 1,042\end{align*}
+
+{/eq}
+Therefore, the portion of the first month's interest payment is $1,042.",Interest payment: Interest is a fee that the user must pays to the creditor throughout the loan's term. These payments are in addition to the loan's amount. The interest rate for the interest payment is provided by the creditor.
+39,"Because of its inherent volatility, interest expense projections are most dependable when based on the interest expense incurred over the prior year.",True,False,,,B,"False: Interest rates are volatile, factors such as the state of the economy, and the monetary policy of the central bank that directly regulates the supply of money in a country cause changes in interest rates. If the economic conditions of the current year are different than the prior year, then, interest rates will be different and thus, it is difficult to predict interest solely on the basis of last year.","Interest: The charge that a borrower pays to the lender for using the borrowed money, is called interest. The rate of interest can be fixed or variable. In the case of variable rates, interest expense change according to the market interest rate."
+40,"A $12,000, 5% note is dated May 18 and is due in 90 days. Using a 360-day year, the maturity value would be:","$12,000.","$12,150.","$12,175.","$12,050.",B,"The correct answer is
+b. $12,150
+.
+The maturity value of a note consists of two components:
+Face value = $12,000
+Interest due on the note (Note 1) = $150
+Arranging these components logically gets us to the following number:
+Note's maturity value = Face value of the note + Interest on the note
+Note's maturity value = $12,000 + $150
+Note's maturity value = $12,150
+Note 1:
+The interest on the note should be calculated at $12,000 @ 5% for 90 days.
+Interest on the note = Face value of the note × Interest rate × {eq}\dfrac{90}{360} {/eq}
+Interest on the note = $12,000 × 5% × {eq}\dfrac{90}{360} {/eq}
+Interest on the note = $150",Notes Payable: Notes payable are an obligation arising from the amount borrowed by the business from the lender against a note. It contains a promise confirming the repayment of the face value and interest on the due date.
+41,A mountain bike has a cash price of $690.00. Eric purchases the bike by making a down payment of $69.00 and 24 payments of $38.74. Find the finance charge.,$621.00,$308.76,$69.00,$310.50,B,"The correct option is
+option b. $308.76
+.
+Given information:
+Cash price = $690
+Down payment = $69
+Amount of 24 payments = $38.74
+The finance charge can be calculated by deducting the total cash price from the total amount paid:
+{eq}\begin{aligned} \text{Finance}\ \text{charge} &=\left( \text{Down}\ \text{payment}+\text{Total}\ \text{of}\ \text{all}\ \text{payments} \right)-\text{Cash}\ \text{price} \\ &=\left( \$69+\$38.74\times 24 \right)-\$690 \\ &=\left( \$69+\$929.76 \right)-\$690 \\ &=\$998.76-\$690 \\ &=\$308.76 \end{aligned} {/eq}
+Thus, the finance charge amounts to $308.76.","Finance Charge: A finance charge refers to the total cost of borrowing funds paid to the lender by the borrower. Finance charges can be paid as interest payments, one-time fees, etc. on the borrowed amount."
+42,Choose the best answer to explain interest.,Interest is the return the company receives for selling bonds.,Interest is a fee the investor pays to purchase a bond.,Companies aren't required to make interest payments.,Interest is a fee the company pays to borrow money.,A,"Whenever we wants to borrow money, it would come with interest, interest is the fee which is paid to lender to compensate for his earnings which he could have get if the money was invested somewhere else.
+Interest is the cost for company when it sells bonds, it is return for the investor who invests in such bonds. Hence option (a) is not correct.
+Investor pays a certain price to purchase a bond, interest is received by him at specific intervals. Hence option (b) is not correct.
+Companies are required to make interest payments if they have borrowed money. Hence option (c) is not correct.
+Interest is a fee the company pays to borrow money. This statement is correct and hence option (d) is correct.
+So the correct answer is
+Option (d)","Interest Rate The value of money changes with time. A sum of money which is worth $1,000 today would not be of the same value if it is received at a later point of time. The reason could be inflation, changes in the economy etc. To save themselves from this depreciation of value, lenders often charge interest on the money. Interest rate factors return for lenders, time value of money, risk associated with borrower etc."
+43,"On December 31, the end of an annual accounting period, interest in the amount of {eq}\$500
+
+{/eq} has been earned but has not been received. The correct entry on December 31 is:","Interest Receivable 500, Interest Revenue 500","Cash 500, Interest Revenue 500","Accounts Receivable 500, Interest Expense 500",No entry.,A,"The answer is
+A. Interest Receivable 500, Interest Revenue 500
+Accounts
+Debit
+Credit
+Interest Receivable
+500
+Interest Revenue
+500
+The interest is already earned which qualifies it to be recognized as an income and since it is not yet received, it should be a receivable of the company.",Interest: Interest is an expense of the debtor and an income of the creditor. It will be presented in the income statement as other income for interest income and interest expense as deduction to operating come.
+44,"An individual wishes to borrow $10,000 for a year and is offered the following alternatives:",A 10 percent loan discounted in advance.,An 11 percent straight loan (interest paid at maturity),,,A,"(1)
+10%
+Interest is paid at present
+Loan *Interest rate
+=10,000*10%
+=$1,000
+effective rate
+=interest/amount received today *100
+=$1,000/(10,000-1,000interest)*100
+=$1000/$9000 *100
+=11.11%
+(2)
+11%
+Interest is paid at the end of year
+=Loan*interest rate
+$10,000*11%
+=$1,100
+Effective rate
+=$1,100/$10,000
+=11%
+Thus, option 2 will result in lower interest cost
+Option a) is more expensive",Interest On Loan When we borrow money there is an interest cost attached to it. Interest depends upon the rate and time of interest payment. Interest rate is determined at the time of taking loan.
+45,"Genetech has $2,000,000 in assets, and has decided to finance 30% with long-term financing (13% rate) and 70% with short-term financing (9%) rate. What will be their annual interest costs?","$78,000","$126,000","$440,000","$204,000",D,"The long-term financing rate is 13%. The Interest cost on 30% of the amount will be
+= 0.30 x $2,000,000 x 0.13
+= $78,000
+The interest cost on the remaining 70% of the amount will be
+= 0.70 x $2,000,000 x 0.09
+= $126,000
+Total annual interest cost is
+= $78,000 + $126,000
+= $204,000
+The correct answer is
+Option d.","Financing with Debt Capital: Financing with debt capital comes with the advantage of the interest tax shield. Using equity financing to raise a large sum of capital proves very costly for the firm. Due to this reason, part of the amount is raised through borrowed capital."
+46,"James borrows $10,000 from the bank. By the time the loan is repaid, James has paid the bank $10,400. What does the additional $400 represent?",Inflation rate,Purchasing power of money,Interest,Investment,C,"The correct answer is option C) Interest.
+The $400 additional payment on the $10,000 loan is considered interest. Interest is an expense for the borrower and an income for the lender. It is a fee or charges that the borrower pays to the lender for the use of money borrowed. The amount of interest charged depends on the amount borrowed, the duration of the loan, and the interest rate. The interest rate is the percentage of the loan amount charged as interest on top of the principal amount.
+Incorrect Options
+Option A) Inflation rate is incorrect. The inflation rate measures how quickly the prices of goods and services are rising.
+Option B) Purchasing power of money is incorrect. Purchasing power is the amount of money a person has available to purchase goods and services.
+Option D) Investment is incorrect. Investment is making money by putting money into assets such as stocks, bonds, real estate, commodities, or businesses to generate income or capital gains.","Expense: Expense is the cost incurred for goods or services. It is an outflow of money from a person, organization, or business for something of value. Expenses can be fixed and variable and classified as direct, indirect, or capital."
+47,"Roman Company issued {eq}\$600,000
+
+{/eq} of {eq}6\%,\ 5
+
+{/eq}-year bonds at {eq}98
+
+{/eq}, with interest paid annually. Assuming straight-line amortization, what is the total interest cost of the bonds?","{eq}\$180,000
+
+{/eq}.","{eq}\$192,000
+
+{/eq}.","{eq}\$168,000
+
+{/eq}.","{eq}\$174,000
+
+{/eq}.",B,"Answer:
+b. $192,000
+Amount
+Face Value
+$600,000
+Multiply: Interest Rate
+6%
+Annual Interest
+$36,000
+Multiply: Years
+5 years
+Total Interest Payment
+$180,000
+Add: Discount ($600,000 x (100% - 98%))
+12,000
+Total Interest Cost
+$192,000","Interest Expense: Interest expense is the result of borrowing a sum of money. In the income statement, earnings before interest and taxes (EBIT) less the interest expense will result in the earnings before tax (EBT)."
+48,"In a product structure, each product is treated as a _____ ; that is, the expenses related to a product are subtracted from the revenues generated by selling it.",profit center,cost center,core competency,functional division,A,"A) profit center
+In the product structure, each product performs the essential role because the trading of the product can generate lots of profits. This product implies the profit calculation which is generally detected by extracting the differences of costs and all revenues.",Expenses The expenses are generalized as the monetary costs which are usually spent in the firms' operations. The business firms need to manage all expenses with respect to the usage of few inputs and materials in the production process.
+49,"Spencer's Home Repair borrows $3,000 at 12.75% interest, for 330 days. If the bank uses the exact interest method, how much interest will the bank collect?",$300,$340,$345.82,"$5,200",C,"The correct option is
+C. $345.82
+The annual interest rate is 12.75% while Spencer's Home Repair borrowed money only for 330 days.
+So we need to calculate the interest rate for 330 days.
+The interest rate for 330 days will be
+{eq}=\dfrac{12.75\%}{\text{365 days}} \times \text{330 days}\\ =11.52739% {/eq}
+{eq}\begin{align} \text{Interest} &= \text{Loan Amount} \times \text{Interest Rate}\\ &= \$3,000 \times 11.52739\%\\ &= \$345.82 \end{align} {/eq}",Interest: The interest is the portion that the borrower pays to the lender for use of the lender's money. The interest provides for the opportunity cost of the lender. Interest can be either simple interest or compound interest.
+50,Interest cost incurred in purchasing an asset that is ready for its intended use should be:,written off over the remaining term of the debt.,be accumulated in a separate deferred charge account and written off equally over a 40-year period.,not be written off until the related asset is fully depreciated or disposed of.,none of these answers are correct.,A,"The correct option is a. written off over the remaining term of the debt.
+The interest cost incurred is related to the debt incurred and not directly to the asset purchased. Interest is therefore recognized as an expense based on the carrying amount of the debt and the effective interest rate. The only time a portion of an interest expense can be added to the cost of an asset is when the company constructs the asset and incurs interest during the construction period.
+Interest is never accumulated in a separate deferred charge account or not written off until the asset is fully depreciated or sold.","Interest Expense: Interest is the cost of debt, and it is typically incurred on all long-term debt and some short-term liabilities like notes payable. The interest expense is presented in the non-operating section of the income statement."

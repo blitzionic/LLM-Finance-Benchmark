@@ -1,0 +1,326 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Investment bankers who join together to share the financial risk associated with buying an entire issue of new securities and reselling them to the public is called a(n),primary market group,tombstone group,underwriting syndicate,selling group,C,"The correct answer is (C). selling group
+The underwriters' syndicate refers to the investment bankers and brokers that come together to help a new company sell its shares. They come together to share the risk in case the shares subscribed are less or not subscribed at all and they will be required to subscribe to the leftover shares.
+The explanations for incorrect options:
+Option A. It is incorrect as the primary market group is formed to sell the shares in the primary market.
+Option B. It is incorrect as the tombstone group means the public advertisement given by the investment bankers' group that they are underwriting an issue.
+Option D. It is incorrect as the selling group is concerned with marketing and selling the shares of a company.","Financial Risk: The financial risk refers to the probability that the investor may incur losses from the venture. This risk can lead to loss of capital for the investor. This risk can be categorized as credit risk, currency risk, equity risk, and liquidity risk."
+2,"Over the past 70 years, which of the following investments has provided the smallest average return?",small company stocks,common stocks,treasury bills,treasury bonds,C,"The correct option is (c) i.e. Treasury bills.
+Treasury bills have been short-term instruments backed by the government, so there is no risk or reward. Thus, its return has always been low and consistent. T-bills are short-term securities that mature in one year or less from their issue date.
+Treasury bills investment provides the smallest average return. The treasury bill's rate of return is very low compared to other stocks and is also considered less risky among other investments.
+Incorrect Options:
+a.	Small company stocks carry a high-risk premium because the risk associated with the stocks is generally high.
+b.	Common stock is an incorrect option because common stock of any size carries a higher risk on the investment premium.
+d.	Treasury bond is an incorrect option as bonds are the safest place to invest and it provides regular income. There are different types of risk involved in bonds that are, including inflation risk, default risk, and whatnot.
+e.	Corporate bonds are an incorrect option as bonds may be a reliable investment tool but it carries their own risk there are interest rate risk, reinvestment risk, and call risk.",Investment: Investment refers to the way of investing money with an intention to earn profit. Acquirement of the asset or any other item with a motive of income generation is known as investment.
+3,"At age 5, how much would you have to save per month to have $1 million in your account at age 65, if your investment rate was 10% per year? Assume no taxes and compounding on a monthly basis:",$213.30,$21.23,$274.60,can't be done with these assumptions.,B,"The correct answer is
+B. $21.23
+.
+We are given:
+The future value (FV) is $1,000,000.
+The number of years (n) is 60. (65-5)
+The number of compounding periods (c) is 12.
+The investment rate (i) is 10%.
+Calculation of the monthly payment (PMT) using the future value of an ordinary annuity formula:
+{eq}\begin{align*}
+
+{\rm\text{PMT}} &= \dfrac{{{\rm\text{FV}} \times \dfrac{{\rm\text{i}}}{{\rm\text{c}}}}}{{\left( {1 + \dfrac{{\rm\text{i}}}{{\rm\text{c}}}} \right)_{}^{{\rm\text{n}} \times {\rm\text{c}}} - 1}}\\
+
+&= \dfrac{{\$ 1,000,000 \times \dfrac{{0.10}}{{12}}}}{{\left( {1 + \dfrac{{0.10}}{{12}}} \right)_{}^{60 \times 12} - 1}}\\
+
+&= \dfrac{{\$ 1,000,000 \times 0.0083333}}{{392.522412959}}\\
+
+&= \$ 21.23
+
+\end{align*}
+
+{/eq}
+One needs to save
+$21.23
+per month to earn $1 million in 60 years.","Investment Rate: Companies use the investment rate to determine the expected return from the potential investments. Investors use investment rate, duration, and target amount to compute the periodic investment payment."
+4,Which of the following was NOT a major supplier of funds to credit markets in 2008?,Households,Government-sponsored agencies,Mutual funds and ETFs,All of the options were major suppliers of funds,A,"The answer is A.
+Explanation:
+The major funds suppliers during 2008 were Mutual Funds, Efts, and government-sponsored agencies. After the collapse, when wall street was recovering, the financial markets like the mutuals funds took a sudden turn and started to grow as investors started to invest in those government bonds in 2008 where something which came to highlight. And the credit market started making progress in these areas. A household was not the key supplier because of the recession",Credit Market: The credit market is where the investors invest in credit-related securities such as bonds to earn profits. The credit market is also called as debt market. It provides a huge amount of capital to the government and even organizations.
+5,Which of the following would an economist consider to be an investment?,Boeing Corp. building a new factory,Oprah buying a $10 million home from a fellow celebrity,"A stockbroker buying 10,000 shares of Starbucks stock",All of the above,A,"The correct answer is option a- Boeing corp. Building a new factory
+a.
+The option is true as an investment is defined as an asset that has the potential of generating income from it. Therefore, building a new factory will generate income from it, and hence it is considered as an investment.
+b.
+The option is not true as purchasing a home cannot be considered as an investment rather it is considered as an asset. An asset is defined as a resource that contains a high economic value and can be used for future use.
+c.
+The option is not true as purchasing a stock of Starbucks is considered as an investment if purchased by the first party. However, it cannot be considered as an investment solely as a stockbroker does not purchase stocks for himself rather he purchases them for a third party.
+d.
+The option is not true as purchasing a factory is considered an investment.",Stock Stock refers to the part of ownership that is a part of a big organization. The owners of the stock become a part of the organization and have a part in the profits of the organization. The purchase and sale of stocks in a financial market are known as the stock market.
+6,Which of the following costs is typically considered to be associated with an individual's educational investment?,expenditures for tuitions and books,earnings forgone while in school,the effort expended attending class and studying,all of the above,D,"The correct option is
+d. All of the above
+.
+When a person starts investing in his/her education, there exist various direct expenses that include tuition fees and books. The person also spends experiences psychic losses in terms of loss of effort while attending classes and studying. Besides this, there exists a cost of foregone earning while the person is attending school.","Investment: In economics, the term investment is the sum of money that a person or firm utilizes in the current period to earn a positive benefit in the future. Usually, the level of investment rises by there is a decline in the cost of borrowings."
+7,"True or false? As you allocate more of your investment portfolio to bonds, you reduce your exposure to interest rate risk but increase your exposure to market risk.",True,False,,,B,"Correct Answer: False
+When asset allocation results in higher bond investments, investors face different risks associated with bonds. The exposure of investors towards interest rate risk also increases in this strategy. The exposure arises due to the fixed return presence. The investor has to bear market risk. So, the exposure to interest rate risk increases instead of decreasing.","Market Risk: A risk that even an effective asset allocation strategy cannot reduce is called market risk. Because of this type of risk in the financial market, a portfolio manager does not get zero value for the overall portfolio risk."
+8,Which of the following increases financial risk?,The substitution of short-term debt for long-term debt.,The substitution of long-term debt for short-term debt.,The substitution of equity for short-term debt.,The reduction of cash and marketable securities.,C,"The correct answer is
+c. The substitution of equity for short-term debt.
+The financial risk is expected to rise in option c as the equity level decreases and the debt level increases. This increases the chance of financial distress in the company due to increased debt repayment and interest payment. Therefore, the financial risk enhances. Hence, the correct answer is c.
+Incorrect options:
+a. and b.
+In both cases, the category of debt is only interchanged. This will not vary the overall debt value since the amount of debt will remain constant in both cases. Hence, option a and b are incorrect.
+d.
+reduction of cash and marketable security will affect the liquidity and liquidity risk of the company. Financial risk will not be impacted. Hence, option d is incorrect.","Financial Risk: Uncertainties associated with default in debt repayment and interest payment are termed as financial risks. The financial risk is influenced by the company's earnings, value, and existing debt level."
+9,"When a general business partnership fails, the partners:",lose only their investment.,may be required to pay partnership debts from personal assets.,can waive their limited liability.,are liable for losses equivalent to their own individual contributions.,D,"Option 'b' is the correct answer.
+Partners' liability in a general partnership is uncapped. It implies that in the event of a loss, the partners will be required to cover it even out of their own private or personal assets. So perhaps they must use personal assets to pay off partnership obligations.","General Business: The General Business specialization is intended for students who want to learn about business foundations in-depth. With this specialization, students can earn a business degree without choosing a specific area of study."
+10,Someone who can tolerate a risky investment would:,wake up in the middle of the night worrying about the investment,be very concerned that a downturn would wipe out the long-term gains,understand that an investment that fell when the entire market fell was not necessarily a bad investment,keep all money in a savings account at a bank for long-term growth,C,"A person who can tolerate risk would not be concerned with short-term losses in their investments, knowing that they inevitably will happen from time to time.   Often, such downturns are the result of macroeconomic factors, such as higher interest rates or inflation, rather than specific issues associated with the investments themselves.
+Therefore, the answer is:
+c. understand that an investment that fell when the entire market fell was not necessarily a bad investment
+The other answers are incorrect for the following reasons:
+a. wake up in the middle of the night worrying about the investment
+- someone who can tolerate risk would not be losing sleep over his or her investments.
+b. be very concerned that a downturn would wipe out the long-term gains
+- again, a risk tolerant person would not be concerned with short-term downturns.
+d. keep all money in a savings account at a bank for long-term growth
+- since a savings account is a low risk investment, a risk tolerant person would be likely to invest at least some of his or her money in more risky investments that have the potential for higher returns.",Investment Risk An investment whose value can rise or fall is risky by nature due to the possibility that the investor could lose some or all of his or her money.   Many investors use strategies to try to minimize risk including diversifying their portfolios and investing for the long term.
+11,The chance you take of making or losing money on your investment is known as:,income,risk,recession,reward,B,"The correct option is (b): risk
+Reason: Whenever a person takes a risk, the person can either succeed or be in a perilous situation. So investment involves risk because making money indicates success, and losing money indicates a perilous situation. If an investment had always made money, then the investment would not have been treated as a risky step taken by an investor.
+Explanations for Incorrect Options:
+Option a: Earnings from investment do not indicate income but rather a profit or a loss.
+Option c: Recession does not refer to the context of making or losing money by a person; instead, a recession is an economic situation resulting in colossal unemployment problems.
+Option d: Reward refers to recognition and is unrelated to investment.","Investment Investment refers to the act of investing money in any asset by any individual or any organization. They invest with great hope of earning a return, but it might be positive or negative based on different circumstances."
+12,"Some savings and investment choices have the potential for higher earnings. However, these may also be difficult to convert to cash when you need the funds. This problem refers to:",inflation risk,income risk,personal risk,liquidity risk,D,"The correct answer is
+Option d.
+The risk involved in converting any savings or financial instruments immediately into cash or any equivalent form of money is liquidity risk. Liquid money means the availability of ready cash used quickly for any payment. Illiquid assets are challenging to sell and can lead to a cash crisis.
+Incorrect Options:
+Option a is incorrect since inflation risk is the possibility of a reduction in an investment's future value due to an unexpected rise in prices.
+Option b is incorrect because income risk arises due to a probability of a reduction in interest rates leading to a decrease in the yield for short-term debt instruments.
+Option c is incorrect because personal risk is related to the likelihood of losing something in value for which insurance can be used as a protective measure.",Financial Risk The chance of losing money in a business project or investment due to unforeseen circumstances is a financial risk. Businesses use various analytical tools such as financial ratios to identify and control such risks.
+13,A product that does not perform up to expectations is an example of _____ risk.,functional,social,time,financial,D,"The answer is
+d. financial
+A financial risk refers to the potential danger of losing financial value. If a product does not meet the performance expectations of the firm or customers, then the firm loses customers as well as the financial resources put into the production process.
+Other Options
+a. functional - Functional risk is a fear a customer may have in regards to the product performing as it is intended.
+b. social - Social risks are risks that impact the macro-environment, such as poverty and limited resources.
+c. time - A time risk is the exposure to the potential loss of time.","Types of Risks A risk is the chance that some danger or negative outcome may occur. In business, there are various risks that may impact the outcome of an investment or decision. These risks include functional risks, social risks, time risks, and financial risks."
+14,"Historically, investments with the highest returns have the lowest standard deviations because investors do not like risk.",True,False,,,B,"The statement is
+false
+.
+Investments with a low standard deviation can never give the highest returns, thus the statement is false. The investment, which has a higher risk, or standard deviation, will provide higher returns irrespective of the time period, that is, historically or currently.","Investment: ""Investment"" is the use of funds to generate profits. It was done in corporate, securities, or other assets after analyzing the expected return and risk related to the investment opportunity."
+15,__________ is the risk that a borrower will not repay on a timely basis.,Interest rate risk.,Liquidity risk.,Credit (default risk).,None of the above.,A,"The correct answer is option c
+Credit risk is the risk that lenders have to bear while lending money to borrowers. It is the chance that lenders have to take while giving money away.
+Explanation for incorrect option:
+Option a: It is an incorrect option because interest rate risk arises due to an increase or decrease in interest rates.
+Option b: It is an incorrect option because liquidity risk is associated with the conversion of a current asset into cash in the market.
+Option d: It is an incorrect option because the answer is given in options.",Strategic Financial Management: Strategic financial management is the process of using tools and techniques to take capital requirements and investment decisions. It helps in developing strategies so as to manage the financial resources of an organization.
+16,What are the effects on the accounting equation from the purchase of a short-term investment?,No effects - assets increase and decrease by the same amount.b. Assets and liabilities decrease.c. Assets and stockholders' equity decrease.d. Stockholders' equity decreases and liabilities increase.,,,,A,"The correct answer is
+a. No effects - assets increase and decrease by the same amount.
+Purchase of short-term investment refers to the purchase of highly liquid instruments. Any increase or decrease in the value of a company's short-term investment reflects on the company's balance sheet. At the same time, there will not be any effective change in the accounting equation because assets will increase and decrease by the same amount. Therefore no change occurs.",Investment Investment means the current commitment of money for a period of time to derive future payments received by the investor for the expected inflation rate and will be saved as deferred consumption.
+17,A change in the debt/asset ratio will have an effect on __________ risk.,financial,business,,,A,"A. financial
+A change in the debt/asset ratio will have an effect on
+financial
+risk.
+The assets are resources owned by a business for the purpose of generating income. Assets are funded by a combination of equity from owners and debt creditors. The debt-asset ratio in finance is a measure of solvency of a business which means it estimates the percentage of business assets funded by debt. Financial risk is associated with the funding of a business such as loans and the probability that a firm may default in making payment of the debt when it falls due.","Types of risk: Risk in finance refers to the likelihood that actual outcomes will vary from those predicted. In establishing a business, investors consider the trade-off between risk and return. The risks considered can be broadly classified into business risk and financial risk."
+18,A) How does investment as defined by economists differ from investment as defined by the general public?,,What would happen to the amount of economic investment made today if firms expected the future returns to such investment to be very low?,What if firms expected future returns to be very high?,,A,"_(A)_Economists define investment as the purchase of machinery and addition to a stock of capital. Still, from the general public's viewpoint, investment is buying financial assets.
+_(B)_If the firm's investment made today gives less return in the future as it has a low expected future return, then it affects the firm's profit, and the amount of economic investment made today will have losses and, in future,the investments will come down. Still, sometimes firms have high confidence to invest in a low expected future return, and it turns out to be profitable as the actual return may rise or fall.
+_(C)_If the firm's expected  future returns  are very high, then it can fetch a good profit  in the future and would invest more. But while investing, the firm also needs to check its risk. A higher expected return with lower risk is always preferred.","Investment Investment is a flow of money added to a stock of capital that gives a higher future return. It is said to be inversely related to the rate of interest. The higher the rate of interest, the less the investment."
+19,Which of the following individuals should have the highest tolerance for risk?,"Joan Cummings, who is a single mother with two small children Darren Carter, who works for American Airlines and is worried that he is going to be laid off soon","Barry Parks, who is an investment banker and earns over $200,000 per year","Michael Clark, who is 74 years old and been retired for 6 years","Fred Funderbunk, who delivers pizzas and makes about $15,000 per year",B,"Which of the following individuals should have the highest tolerance for risk?
+b. Barry Parks, who is an investment banker and earns over $200,000 per year
+All the others would have lower risk tolerances because they have smaller incomes and/or less wealth or both. For them, the risk of loss is too great.","Risk Aversion: People differ in their approaches to risk. Some people like adventuresome vacations, while others will choose something safer. Some people like to gamble at casinos or the racetrack, while others do not. Investments work the same way - some people can take a greater risk to earn a greater reward, while others either should not or would not take the bigger risk."
+20,"To convince investors to accept greater volatility, you must:",decrease the risk-free rate,decrease the real return,increase the risk-free rate,increase the risk premium,D,"The correct answer is e. increase the risk premium
+Option d. is correct because increasing the risk premium will convince investors to accept greater volatility. An increased risk premium will result in a higher rate of return and, therefore, will increase the overall value of the investor's investment. A higher risk premium will persuade investors that greater volatility may be worth the potential high rate of return.
+Option a. is incorrect because decreasing the risk-free rate will result in a lower rate of return. This will not entice investors to accept greater volatility because their investment has a high risk of losing value.
+Option b. is incorrect because decreasing the real return will not convince investors to accept greater volatility. Investors in this situation need to be offered a high rate of return in order to be persuaded to invest in high volatility investment vehicles.
+Option c. is incorrect because the greater volatility does not comprise a risk-free rate. Conversely, investing in greater volatility means a higher risk investment.",Risk: All investments vehicles are subject to risk. Investors assume the risk of losing money if their investment loses value. Risky investments comprise higher rates of return but assume a greater risk of accruing losses.
+21,Planned investment may differ from actual investment.,True,False,,,A,"The correct answer is option a. True.
+Planned investment and actual investment may differ in some situations. The actual investment is the calculation by the planned investment and the unplanned investment. So, actual investment differs from planned investment by the reduction or deduction of unplanned investment.",Investment: The asset that is used to generate money for investors is said to be an investment. The firm mostly uses it for the development and profit of the organization. It increases the earnings of investors.
+22,"To maximize profits, bank managers need only concern themselves with asset management.",True,False,,,B,"The above statement is FALSE.
+Banks collect deposits (liabilities for which interest is paid) and lend money (assets against which they receive interest) to make money. When the gap between paid and earned interest widens, profit rises. In financial accounting, asset and liability management, or ALM, is the process of controlling the financial risks brought on by discrepancies between assets and liabilities.
+After risk management comes strategic planning, this includes maximizing assets to pay for complex liabilities, which might increase profitability, and is more focused on lowering long-term risks than short-term ones. Financial firms may increase productivity and profitability by properly managing their assets and liabilities while reducing risk.
+Thus, bank managers need both assets and liabilities management.","Financial Risk: Financial risk is the potential for losing money on an investment or business endeavor. Operational, liquidity and credit risk are the most common and diverse financial risks. Risks that might result in financial loss for interested parties are financial."
+23,A graph of the relationship between financial risk and expected financial reward would show a curve that has a:,positive slope,negative slope,U-shape,bell-shape,A,"Option a. positive slope
+is correct.
+It is because the expected financial reward and the expected financial risk are directly related to each other. The dependent variable (financial reward) has a direct relationship with the independent variable (financial risk). This means that with the movement of the independent variable in any direction, there will be movement of the dependent variable in the same direction. If the risk increases, the reward will increase as well to compensate for the extra risk taken.
+The other options are incorrect.
+Option b.
+negative slope
+: It is incorrect because the negative slope depicts the inverse relationship, which is not the case in the given variables. The inverse relationship exists between variables when the dependent variable moves in the opposite direction of the movement of the independent variable. Risk and return do not have this type of relationship.
+Option c.
+U-shape
+: It is incorrect because there is a heterogeneous movement in the dependent and independent variables with respect to each other.
+Option d.
+Bell-shape
+: It is incorrect because in a bell-shaped slope, the changes in the dependent variable do not have a constant relationship with the independent variable.","Relationship Between Financial Variables: The relationship between two financial variables refers to the variability of the variables and how they react to one another's movements. In simple terms, a relationship describes how the dependent variable moves as a result of the movement of the independent variable."
+24,"If all of the unsystematic risks in a portfolio can be eliminated, then, what is the result?",a portfolio that contains only systematic risk,a portfolio that has an expected return of zero,a risk-free portfolio,such a portfolio cannot be constructed since there will always be an unsystematic risk in any portfolio,A,"The right choice is
+A. a portfolio will have only systematic risk
+.
+Total risk is the blend of systematic and UR. When the UR is eliminated or zero, this signifies that total risk will be equivalent to systematic risk only. As an effect, the portfolio will have only systematic risk. Therefore, this is right.
+Option B: A portfolio will have a zero expected return in case the security is not correlated to the market. This is analogous to the risk-free rate. Conclusively, this option is incorrect.
+Option C: Risk-free portfolio is also referred to as a zero-beta portfolio, which has no systematic risk. The UR cannot be eliminated. Conclusively, this option is incorrect.
+Option D: This option is incorrect because, with the assistance of the proper diversification of the portfolio, UR is possible to be eliminated.",Unsystematic Risk: Unsystematic risks (URs) are that portion of the total risk that is not caused by external factors and is encountered within a particular industry or may be security-related. It is the opposite of systematic risk.
+25,Which of the following is not a factor affecting the market price of a foreign bond held by a U.S. investor?,Foreign interest rate movements,Credit risk,Exchange rate fluctuations,All of the above are factors affecting the market price of a foreign bond.,D,"The answer is
+d. All of the above are factors affecting the market price of a foreign bond.
+The value of a bond is directly connected to the movement of market interest rates. An increase in the foreign interest rate will lower the value of a foreign bond, and vice versa.
+An increase in the credit risk will suggest bondholders to raise their expected rate of return on the holding bond. Hence, credit risk is also a factor to impact the value of a bond.
+Exchange rate fluctuation will affect the value of securities in domestic currency, which might lower the converted value of the bond as well.
+Briefly, foreign interest rate, credit risk and current exchange rate will affect the value of a foreign bond.","Bonds: Bonds will usually generate a stable stream of income for investors. Hence, bonds are recommended for investors who are sensitive to the investment risk. Basically, government bonds will involve lower default risk compared to corporate bonds."
+26,The benefit of diversification when constructing a portfolio is that it can eliminate which of the following?,speculative bubbles,risk aversion,firm-specific risk,market risk,C,"The benefit of diversification when constructing a portfolio is that it can eliminate which of the following?
+c. firm-specific risk
+Buying stock in only one company violates the adage about not putting all your eggs into one basket. Two of the other problems - speculative bubbles and market risk - are external and universal. If those problems occur, they will happen to the entire market. That means nothing you choose will prevent them. The risk aversion factor is internal - either you're a person who can tolerate more risk, or you're not. The best personal strategy is to determine what level of risk you can handle and then invest in a diverse assortment of stocks and bonds.","Investment Diversification: Diversifying your investments means buying a mixture or blend of stocks and bonds and investing in more than one company. Some people choose mutual fund investing, where the stocks and bonds are chosen and combined by experts. Some people prefer to do this on their own."
+27,"If two investments have the same simple rate of return, they will be equally attractive to an investor.",True,False,,,A,"The statement is True.
+If two investments have the same simple rate of return, they will be equally attractive to an investor. However, it is based on the perception of investors. Some investors may decide based on risk factors and some other concepts. Hence, it purely depends on investor perception.
+If other things are constant, the investor is equally attracted to the two investments if both offer the same simple rate of return.","Investment: An investment is an asset created by an investor by own fund and capital.in the mode of shareholding, fixed assets, bonds, real estate, partnership capital, etc., It is created to grow an investor's money."
+28,Which of the following increases the investment account under the equity method of accounting?,Decreases in the market price of the investee's stock.,Dividends paid by the investee that was declared in the previous year.,Net loss of the investee company.,None of these answer choices is correct.,D,"Answer: d. None of these answer choices is correct.
+When the equity method is used, the investment account is increased by the share of the investor to the net income of the investee. The share on net loss, as mentioned in choice C, would decrease the investment account. In the same manner, the scenarios is choice A and B would at the same time decrease the dividend account.","Investments: Investments could be long-term or short-term, depending on the terms and conditions between the investor and the investee. These could be accounted for using the equity method, fair value method, among others."
+29,"An investment that cost $48,000 provided annual cash inflows of $9,000 per year for six years. The desired rate of return is 10%. The actual return from the investment was:",equal to the desired rate of return.,less than the desired rate of return.,the answer cannot be determined from the information provided.,greater than the desired rate of return.,D,"The desired rate of return is 10%, the investment cost is $48,000, and the annual cash inflows are $9,000 per year. Therefore, the desired rate of return is $4,800 (0.10 x $48,000). The difference between the actual return and the desired rate of return is
+= $9,000 - $4,800
+= $4,200
+Hence, the correct answer is
+D. greater than the desired rate of return
+.",Desired Rate of Return: The desired rate of return on investment is the nominal return that the investor can expect the investment to earn. The actual return could be higher or lower than it and the difference between both returns determines the performance of the investment.
+30,The investment function will shift when there is a change in:,the opportunity cost of retained earnings.,firms' profit expectations.,the cost of borrowing.,the interest rate.,B,"The correct option is b) firms' profit expectations
+It is correct because when firms' expectations regarding future profit change, it affects the investment function in the economy. As the firms expect that there will be an increase in the profit margin in future, then they will increase and create a positive shift in investment function and vice-versa.
+Reason for incorrect options:-
+Option a) is incorrect because the change in opportunity cost is associated with exempted cost or non-selected benefit. It will change as the investment function changes instead of first change in opportunity cost than in investment function.
+Option c) is incorrect because it will increase the investment spending, but not the investment function as it refers to new investment.
+Option d) is incorrect because it increases the value of the old investment by creating a shift in investment by employing new investment.",Investment: Investment is the capital firms use in commencing or expanding the business to increase their overall revenue. The investment becomes finance for the firm for setting off the cost of output before its sale.
+31,The difference between gross and net investment is referred to as:,a personal tax.,the income earned but not received.,a capital consumption allowance.,an indirect business tax.,A,"The correct answer is option c- a capital consumption allowance
+a.
+The option is not true as personal tax includes taxes like a direct tax which is the income tax. The difference between gross investment (GI) and net investment (NI) is depreciation.
+b.
+The option is not true as the difference between NI and GI is the depreciation cost which is incurred by the firm.
+c.
+The option is true. Depreciation is the wear and tear of capital goods. Therefore, the allowance required for the maintenance of capital goods is called depreciation. So, the difference between GI and NI is depreciation.
+d.
+The option is not true as indirect tax involves sales tax, and other types of taxes and depreciation are the difference between gross and net investment.
+e.
+The option is not true as depreciation is the major difference between net and gross investment not any kind of statistical discrepancy.","GDP GDP is defined as the final value of commodities and services that is produced in the economy. Therefore, final goods are produced in the domestic territory of a country. Hence, when output rises the GDP in the economy also rises."
+32,Unrealized gains and losses on investments in trading securities are reported:,as a contra asset.,as a current asset.,on the income statement.,on the balance sheet as part of shareholders' equity.,C,"Unrealized gains and losses on investments in trading securities are reported C. on the income statement.
+All gains and losses on investment in trading securities are reported in the statement of financial performance or income statement.",Investment Investment is the act putting up money with the intention of generating profit. Accounting for investment varies depending on the type of investment.
+33,Which of the following would increase investment spending by businesses?,An increase in technology.,A decrease in business taxes.,A reduction in interest rates.,All of the above would increase investment spending by businesses.,D,"The correct answer is option d. All option a, b and c contributes towards the increase in investment spending by businesses. Investment spending rises to follow good economic terms from taxes, better technology application, and interest rate terms.
+An increase in technology increases the investment spending by a business through capital productivity. Increasing and improving technology aids in less cost and increased productivity.
+A decrease in business tax implies that a business's revenue increases due to a reduced charge. The revenue is invested back t the business operations.
+A reduction in interest rates also increases the investment spending in business. The business can easily access loans and assets for investment with shallow interest.","Investments: In business and economics, investment is an asset acquired and invested in building wealth and money savings from appreciation and hard-earned income. Investment's primary goal is attaining extra income or profit in a specified period."
+34,The total demand for goods and services in an economy is known as:,aggregate demand,national demand,economy-wide demand,gross national product,A,"The correct option is
+a) aggregate demand
+The total demand for goods and services in an economy is known as aggregate demand. It also includes demands like consumption, investment, net export, and government demand. The aggregate demand helps the economist analyze the economy's health and the level of economic activity in the country.
+The explanation for other options
+Option b is not correct because national demand only measures demand within the national boundary.
+Option c is not correct because economy-wide demand is used interchangeably with aggregate demand.
+Option d is not correct because it is the value of the fiscal output of the economy.","Investment: The term ""investment demand"" is used to describe the need for companies to purchase tangible capital goods and services in order to either sustain or increase their current operations."
+35,Return on investment:,is equal to the current prime rate.,provides a replacement value.,is net profit divided by investment.,establishes a value for the business.,C,"The answer is
+c. is net profit divided by investment.
+Return on investment is a metric used to determine an investors value or profitability. We determine return on investment by dividing net profit by the investment.
+Other Options
+a. is equal to the current prime rate - The current prime rate is the rate that financial institutions charge. It is the rate that customers with good credit receive.
+b. provides a replacement value - a replacement value is the amount an insurance company pays in the event that there is theft of property.
+d. establishes a value for the business - The value of the business can be determined by determining the difference between assets and liabilities.","Investments An investment is the purchase of an asset with an expected return on that investment at some time in the future. Investments are essential in building a valuable financial portfolio, which provide the investor with security."
+36,A rightward shift of the investment demand curve would be caused by a(an),increase in the expected rate of return on investment caused by an increase in business confidence.,a decrease in the expected rate of return on investment caused by a decrease in business confidence.,increase in the rate of interest.,a decrease in the rate of interest.,A,"The correct option is a. increase in the expected rate of return on investment caused by an increase in business confidence
+It is correct because the investment demand curve will shift rightward as the expected returns on investment are high due to future expectancy and a rise in businesses performances. The human tendency reflects that individuals invest more where the return on expected is high and vice-versa.
+Reason for incorrect options:-
+Option b) is incorrect because the investment demand curve will shift to the left instead of the right if the expected returns are low.
+Option c) is incorrect because the increase in the interest rate will increase the cost of borrowing, and the investment will decline.
+Option d) is incorrect because a reduced interest rate will create movement in the curve instead of shifting the curve to the right.","Investment: Investment is one of the main components of the economy's GDP as it reflects individuals' confidence in the business. An increase in the investment demand creates a rightward shift in the investment demand curve, proposes raised GDP, and vice-versa."
+37,"Relative to a buy and hold strategy, average arithmetic returns overstate the return on a portfolio.",True,False,,,A,"The statement is a. True.  The arithmetic average, or simple average, is always higher than the geometric average.  When evaluating investment returns, the latter metric is more appropriate and telling of true performance.",Buy-and-Hold Strategy: A buy-and-hold investment strategy is when where an investor acquires an asset and holds it for a relatively long period of time.  He or she is confident in the economic merit of the asset and does not react to short-term volatility in financial markets.
+38,"Stocks have both diversifiable risk and undiversifiable risk, but only diversifiable risk is rewarded with higher expected returns.",True,False,,,B,"The above statement is
+False.
+Reason:
+Unsystematic risk or Diversifiable risk are those risks that are in control of the management. For example, new competitors, financial risk, legal risk, goodwill risk, etc. These types of risk generally occur due to the internal environment and can be avoided but there are certain types of risk that cannot be neglected by an investor like an investor has invested funds into a healthcare stock. The investor may know about the various policies attached to it but on the other hand, the investor may not be informed about the new laws related to the healthcare product by the government.
+Therefore, the diversifiable risk does not always reward you with higher returns since all risks are uncertain that can happen at any time. An investor will try to minimize the risk as much as possible in order to gain more but in financial instruments, risk cannot be neglected.","Risk: Risk is the situation where the result is exposed to danger. In financial terminology, the risk is the situation where certainty and uncertainty both lie. Every investment has its risk attached which an investor has to bear in order to gain profit."
+39,"If an economy wants to increase its current level of investment, it must:",sacrifice future consumption,print more money,offer more stocks and bonds to financial investors,sacrifice current consumption,D,"The correct answer is
+d. sacrifice current consumption
+The present investment is a part of the present income of a consumer. The income of the consumer can be consumed or can be saved. If the consumer saves more money in financial institutions such as a bank, then the banks will get more funds to provide loans. The increase in the supply(SS) of funds will reduce the rate of interest of providing loans if the demand(DD) for the loans will remain constant. Then more consumers will take more loans to invest in businesses. Even one individual can directly invest in a business. If an individual reduces the present consumption then only can increase the amount of present investment when the present income level will be constant.
+Similarly, an economy wants to increase its present investment. Then the present consumption level has to reduce if the present income level remains unchanged.
+Additional Information:
+a.
+Sacrificing future consumption will increase future investment.
+b.
+The central government can print more money. But printing more money may not increase the investment and may only increase the consumption of the economy.
+c.
+Offering more stock and bonds is different from buying those bonds and stocks. A company can offer more bonds and stock, but investing in those stocks and bonds will depend on the financial investors. If the present incomes of the financial investors are constant then the investors have to reduce their present consumption to invest more in present.",Investment(I) An act that allocates resources such as money on the assets or items with an expectation to create and increase the profit and the income is known as investment. The investment increases the fund supply(SS) for which the producer can produce more and hires more employees. The income of the consumers and producers will increase. The investment helps to flourish the business. There are two types of investment: investment vehicles and economic investment.
+40,The additional return offered by a more risky investment relative to a safer one is called:,the risk premium.,the risky return.,the risk-free rate.,the insurance premium.,A,"The additional return offered by a more risky investment relative to a safer one is called
+A. the risk premium.
+The risk premium is found by subtracting a low-risk option from the expected return for a high-risk one. For example, a low-risk investment that will return 4% to the investors, when compared with a high-risk investment that returns 7%, generates a risk premium of 3%.
+Analysis of Alternatives
+b) A risky return is one the investor may gain or lose on.
+c) The risk-free rate is the rate of return on safe investments like a treasury bill.
+d) The insurance premium is the amount paid to mitigate risk to an insurance agency.",Investing: Investing is engaged in for a variety of reasons including preservation of wealth and seeking opportunities. There are inherent trade-offs in investment with safer investments usually generating lower returns while riskier investments can bring in higher earnings.
+41,Which of the following investment rules has the value additivity property?,the payback period method,the net present value method,the book rate of return method,the internal rate of return method,B,"The correct option is b)
+The value of additivity attribute is contained in the investing guidelines for the net present value approach Additivity to value implies that the NPV of a project is all that matters in determining its worth to a company rate of discount. When a company invests in a project, it eliminates the possibility of the stockholder spending the same amount of money on a financial asset, known as an opportunity cost. The total net present value of a large building appears to be equal to the total of all intelligent and efficient investments.
+Option a)
+is incorrect because the payback period is determined by dividing the capital investment by the cashflows.
+Option c)
+is incorrect because the book rate of return is seen as a measure of the necessary investment return according to extensive empirical study.
+Option d)
+is incorrect because a helpful tool for comparing investments is the internal rate of return (IRR), which is the interest rate at which the total of all cash flows equals zero.",Investment-Rule: Any government legislation or regulation that promotes or impedes foreign investment in the regional economy is called an investment policy. A simple formula that predicts how rapidly money will grow is called the rule of 72.It provides a rough estimate of how long it will take for your money to double at a certain return rate.
+42,An investment strategy that yielded a high rate of return in the past will often be disastrous in the future.,True,False,,,A,"The above statement is true
+The loss or gain of an investment over a specific period is known as the rate of return (ROR), and it is stated as a percentage of the investment's starting cost. If the ROR is positive, the position has gained money; if it is negative, it has lost money.
+All other things being equal, the rate of return on investment is calculated based on future value. A strategy that aims to strike a balance between capital preservation and growth is called a balanced investing approach. It is often utilized by investors with moderate risk tolerance and comprises about an equal amount of equities and bonds. On the risk-reward scale, balanced investing strategies are at the center.","Investment Strategy: An investment plan or strategy is the name given to a collection of guidelines created to assist a single investor in achieving their monetary and investment objectives. This strategy directs an investor's choices based on objectives, risk tolerance, and anticipated capital requirements"
+43,"Rishi Singh has $1,500 to invest. His investment counselor suggests an investment that pays no stated interest but will return $2,000 at the end of 3 years.",What annual rate of return will Mr. Singh earn with this investment?,"Mr. Singh is considering another investment, of equal risk, that earns an annual return of 8%. Which investment should he make, and why?",,,A,"Given:
+The investment amount (PV) is $1,500.
+The investment dollar return (FV) is $2,000.
+The investment duration (t) is 3.
+a.	Calculation of the annual rate of return (i):
+{eq}\begin{align*}
+
+{\rm\text{FV}} &= {\rm\text{PV}} \times \left( {1 + {\rm\text{i}}} \right)_{}^{\rm\text{t}}\\
+
+\$ 2,000 &= \$ 1,500 \times \left( {1 + {\rm\text{i}}} \right)_{}^3\\
+
+\left( {1 + {\rm\text{i}}} \right)_{}^3 &= \frac{{\$ 2,000}}{{\$ 1,500}}\\
+
+{\rm\text{i}} &= \sqrt[3]{{1.3333}} - 1
+
+\end{align*}
+
+{/eq}
+Further,
+{eq}\begin{align*}
+
+{\rm\text{i}}&= 1.10064 - 1\\
+
+&= 0.10064{\rm\text{ or }}10.06\%
+
+\end{align*}
+
+{/eq}
+The annual rate of return is
+10.06%
+.
+b.
+Mr. Singh should make an investment that his counselor suggests that provides a return of $2,000 at the end of 3rd year. The reason to select an investment that generates $2,000 at no stated interest is that this investment provides a higher annual return of 10.06% than the investment opportunity that pays only 8%.",Investment: Business institutions invest in potential investment options to generate profit on their business capital. Managers assess the effective investment return before making a potential investment.
+44,Identify each of the following investments as either an economic investment or a financial investment.,A mining company sets up a new gold mine.,A woman buys a 100-year-old farmhouse in the countryside.,,,A,"Economic investment refers to all those tangible assets or goods that the firms and businesses purchase. They are used by firms and businesses for production.
+Financial investment refers to the purchase of intangible assets such as stocks and bonds.
+Part a) Economic investment
+Setting up a new gold mine would increase the total stock of the asset of the gold mining company. The production of gold will increase. Therefore it would be considered as an economic investment by the firm.
+Part b) Economic investment
+The farmhouse is a tangible asset, that increases the worth of the total asset acquired by the women. Thus it is an economic investment",Investment Investment is one of the components of the GDP (Gross domestic product) of a nation. An increase in investment has a positive effect on the GDP of a country. It increases the level of output produced thereby increasing the level of employment.
+45,"Credit risk is,",the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices.,the risk that an entity will have difficulty meeting obligations that are associated with financial liabilities.,the risk that one party to a financial instrument will cause a financial loss for the other party by failing to discharge (respect) an obligation.,the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates.,C,"The correct option is
+(C.) the risk that one party to a financial instrument will cause a financial loss for the other party by failing to discharge (respect) an obligation.
+A credit risk is associated with the lender. It is the risk that the borrower will default in paying its obligations causing trouble to the lender's financial position.
+Explanation for incorrect answers
+The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market prices is called market risk, hence option (A) is incorrect.
+The risk that an entity will have difficulty meeting obligations that are associated with financial liabilities is called liquidity risk, hence option (B) is incorrect.
+The risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in foreign exchange rates is called foreign exchange risk, hence option (D) is incorrect.","Risks: Risks mean exposure to uncertainties. A business faces certain uncertainties related to the market, cash flows, foreign exchanges, etc. The management of these exposures to have a low risk is called risk management."
+46,"Larger bond issues can lower ""liquidity risk,"" or the possibility that an investor will not be able to sell a bond quickly and easily.",True,False,,,A,"Explanation:
+Bonds issued by a company are like loan borrowings taken from the public. If the bond size issued by the company is large, it will have a longer holding duration as well. Thus, investors won't be able to sell it easily. Therefore, the answer is true.
+Since the possibility to sell a bond is less, firms are less liable to make principal payments and therefore will have funds for long durations. This will ensure efficient operations of the firm lowering its liquidity risk further.","Liquidity Risk Liquidity means the ability of a firm to pay all its current debt obligations in time, so liquidity risk means the firm's inability or slower efficiency to meet its obligations. Investors and creditors study this risk for investment decisions."
+47,"In general, from the individual investor position, the stock is considered an investment than debt, because payments on debt because payment on debt are.","safer, lower",safer less certain,riskier; contractual,riskier; guaranteed by the federal government,C,"The correct answer is C.
+The investment in stock is riskier than the investment in debt because it does not provide guaranteed returns to the investor. The price of the share also moves as per the market movement. The payments to be made related to debt are contractual as the rate of interest and the time of repayment is mentioned in the contract that is signed at the time of purchase of debt.
+The explanation for incorrect answer:
+Option A is incorrect as stock investments are not safer than debt investments.
+Option B is incorrect as debt payments are paid consistently and the stock returns are inconsistent.
+Option D is incorrect as the government does not give a guarantee for debt payment, they only back the securities issued by the government agencies.",Investment: Investment refers to any asset bought with the objective of earning income using that asset. The investment is acquired with the objective of keeping it for the long term rather than immediately consuming it. This is done to generate a better payoff than the present.
+48,"Rudy is a 52-year-old freelance writer who wants a short-term, low-risk investment with low liquidity. Which of these investment vehicles should he consider?",CD,IRA,Mutual fund,Stocks,D,"The correct option is a: CD.
+Rudy, as a freelance writer receiving her payment in lump-sum, should invest in a CD. A CD is a Certificate of Deposit, a financial instrument of investment offered by banks or other financial institutions. It is a one-time deposit which the investor can withdraw after the maturity period and earn interest. Certificate of Deposits involves low risk, as they are backed by the government and do not have higher returns.
+Option (b) is incorrect because IRA is an individual retirement account which is a retirement plan.
+Option (c) is incorrect because mutual funds are investments made by a pool of investors involving securities, stocks, and bonds, which are riskier investments.
+Option (d) is incorrect because stocks involve higher risk due to the instability in the exchange market.","Investment Investment is the utilization of money and wealth to further create money by earning interests and higher returns. Investment is made on financial instruments like stocks, bonds, equities, and securities."
+49,Which of the following is an example of a greenfield investment?,A Chinese sugar maker setting up a sugar crushing facility in Cuba.,A Serbian automobile company purchasing a Croatian component manufacturer.,A Finnish mobile phone manufacturer expanding its production facility in Finland.,An Indian oil exploration company acquiring an oil refining company.,A,"The correct answer is: A) A Chinese sugar maker setting up a sugar crushing facility in Cuba.
+An investment by a company in which the company starts its operation in the other country, and the other country acts as a subsidiary to the main company is referred to as Greenfield investment. The company invests in setting up the plants and manages the operation in the other country.
+Reasons of incorrect answers:
+Option B) is incorrect because only purchasing a component form other country does not account for the greenfield investment.
+Option C) is incorrect because if the company is investing in the same country it cannot be characterized as a greenfield investment.
+Option D) is incorrect because acquisition of a company does not correspond to greenfield investment.","Investment: When the money is deposited for a definite period of time with an expectation of return it is called investment. Investment is done so as to generate more wealth than there is already, by increasing the value of the asset."
+50,"All else equal, a large decline in the real interest rate will shift the:",investment demand curve leftward,investment demand curve rightward,investment schedule downward,investment schedule upward,D,"The correct answer is option D)  investment schedule upward
+When there is a decrease in the real interest rate to a large extent, there will be an upward shift in the investment schedule because there is an increase in the real wealth. Borrowing becomes cheaper. This increases the spending by the consumers and the businesses.
+The explanation for the incorrect options:
+Option A)
+Investment demand curve shifts leftward when there is less demand for commodities and services. There will be a decrease in production and as a result, there will be a decrease in the investment leading to a left shift in the investment demand curve
+Option B)
+Investment demand curve shifts to the right during an expansion in the economy. That is when there is an increase in the demand for commodities and services, there will be more production. Thereby a rightward shift in the investment demand curve.
+Option C)
+The investment schedule shifts downward when the real interest rate increases. That is when the cost of borrowing money increases.",Investment The investment function depicts a relation between the i (interest rate) and the investment. A lower i induces more investors to make investments. Whereas a higher i discourage the investors to invest.

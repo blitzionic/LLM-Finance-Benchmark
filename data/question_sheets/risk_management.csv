@@ -1,0 +1,358 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,A grid charting the potential frequency and severity of losses is called a:,risk management information system,risk management Intranet,risk map,risk management website,C,"The answer is
+C) risk map
+A risk map is a visual depiction of various risks of an organization. One axis on the map indicates risk significance, while the other axis shows the frequency or likelihood.
+Other Options
+A) risk management information system - is a system that stores and aggregates data concerning risk. RMIS is used to help firms make calculated decisions.
+B) risk management Intranet - refers to the visual representation of information management practices.
+D) risk management website - is not a tool used in risk management.","Risk Management The purpose of risk management is to control the outcome and process of a project or task. By limiting risks, organizations improve the possibility of retaining their investments and reducing potential losses."
+2,"Equipment with a book value of $8,000 is sold for $3,000 cash. The statement of cash flows will report a:","$5,000 cash outflow in the financing activities section","$3,000 cash inflow in the operating activities section","$5,000 cash outflow in the operating activities section","$3,000 cash inflow in the investing activities section",D,"The correct answer is option
+D. $3,000 cash inflow in the investing activities section
+.
+The cash receipt from the sale of equipment (i.e. $3,000) will be reported as a cash inflow from the investing activities because the equipment represents an investment in operating assets.
+Incorrect Options
+.
+The financing activities section consists of cash inflows and cash outflows related to the raising of funds in the form of equity or debt along with the payment of returns in the form of interest or dividends to the investors. The operating activities section consists of core business operations activities such as the cash received from customers, cash payments to suppliers, factory insurance payments, and salary payments to employees.","Statement of Cash Flows: The statement of cash flows is a financial statement that shows the cash inflows and cash outflows for different kinds of activities, namely, financing activities, operating activities, and investing activities for a given period. The cash flows from operating activities may be ascertained by using the direct method or indirect method."
+3,The DICE method of policy analysis entails four steps used to determine whether a policy provides coverage. The first step is a review of the applicable policy's:,Exclusions to determine whether they preclude coverage of the loss.,Definitions to determine whether coverage is limited based on words with special meanings.,Insuring agreements to determine the circumstances under which the insurer agrees to pay.,Declarations page to determine whether it covers the person or the property at the time of the loss.,D,"The correct answer is
+(d) Declarations page to determine whether it covers the person or the property at the time of the loss.
+The first step of policy analysis is a review of the declarations page, which summarizes important provisions of the policy. It identifies who the insured is, which risks or property the policy covers, the policy period, and limits.
+'a) Exclusions to determine whether they preclude coverage of the loss' is incorrect because this is the fourth step of the DICE method.
+'b) Definitions to determine whether coverage is limited based on words with special meanings' is incorrect because policy limits are reviewed from the declarations page.
+'c) Insuring agreements to determine the circumstances under which the insurer agrees to pay' is incorrect because this is the second step of the DICE method, not the first.","DICE method of Policy Analysis: The acronym DICE stands for declarations page, insuring agreement, conditions, and exclusions, all parts of an insurance policy. The DICE method of analyzing a policy is a tool used to understand the provisions of an insurance policy."
+4,The term diversifiable risk is synonymous with which of the following?,Risk premium,Systematic risk,Unsystematic risk,Total risk,C,"The correct answer is Option
+c
+, i.e,
+Unsystematic risk
+.
+Unsystematic risk is connected with an investment that can be moderated on diversification and hence, referred to as diversifiable risk. This risk is company-specific and not industry related. For example, these risks are related to labor strikes and government-imposed penalties on the company. Business risk, financial risk, and managing risk are the three variants of diversifiable risk.
+The explanation for incorrect options:
+a.	Risk Premium is the difference between the expected market rate and risk-free return.
+b.	Systematic risk is known as undiversifiable or market risk related to the whole market segment or the industry.
+d.	Total risk: It is the sum of the systematic and unsystematic risks that help understand the industry's threat.",Portfolio Risk Management: Portfolio risk is an unknown situation that impacts portfolio goals in either a favourable or unfavourable manner. Its management is reducing the risk associated with the portfolio by organized assessment.
+5,The financing period:,"is the time it takes to purchase inventory, sell it, and collect the sales.",defines how much additional financing the company must have to support its operations.,is calculated as days' sales uncollected minus days' inventory on hand minus days' payable.,measures a company's short-term debt-paying ability.,B,"The answer is
+option B.
+The financing period is from when the company's obligations to its supplier are due until the end of its operating cycle. So, it is time that the firm determines how much money is needed to finance its business operations.
+Analysis of other options
+A. The statement defines the company's operating cycle, which is the time from purchasing inventory until the collection of credit sales.
+C. The statement describes an incorrect formula for the cash conversion cycle. The correct one is days' sales uncollected
+plus
+days' inventory on hand minus days' payable.
+D. It defines the current ratio.","Capital Structure: The company's capital structure includes equity and debt. These are the firm's sources of funds for running the business and daily operations, like purchasing materials."
+6,Risk generally means that the problem and alternative solutions fall somewhere between the extremes of being _____ and _____.,common; usual,certain; ambiguous,routine; non-routine,certain; uncertain,B,"The correct answer is b. certain; ambiguous
+Risk cannot be fully predicted by any method or tool. Some amount of uncertainty is always involved while calculating risk. The problem and solution lie somewhere between being certain and ambiguous. Ambiguous means the lack of clarity while finding a solution to a problem.
+Reasons for incorrect options:
+Option a. is incorrect because the problem and the solutions are not necessarily common and usual.
+Option c. is incorrect because the problem can be routine or non-routine and the same as the solution.
+Option d. is incorrect because the problem can be certain or uncertain; it depends on the situation.","Risk Management: Risk refers to the level of uncertainty, and managing the level of uncertainty is known as risk management. An organization faces various types of risk on a day-to-day basis. Risk management aims to minimize the risk and control unforeseen threats."
+7,Which of the following does not represent a basic type of insurance organization?,Stock companies,Bond companies,Mutual companies,Fraternal benefit societies,B,"The correct option is b.
+Bond companies
+Bond companies are not the fundamental kind of insurance company.
+Bond companies are not typically involved in the insurance industry. Instead, they issue bonds, which are debt securities sold to investors and deliver a fixed return rate over a predetermined timeframe.
+Reason for incorrect options:
+Option a:
+Stock companies are designed to generate profits for their shareholders by offering insurance policies to customers at a higher price than the cost.
+Option c:
+Mutual companies are insurance firms in which customers buy a policy from a mutual company, become a member, and can participate in the company's decision-making process.
+Option d:
+Fraternal benefit societies are those organizations that often provide social and charitable services apart from insurance coverage to their fellows.
+Option e:
+Assessment companies are insurance companies that operate cooperatively. When customers buy a policy from an assessment company, they agree to pay a portion of any claims made by other policyholders.","Insurance Organization: Insurance organizations are financial middlemen that provide direct insurance or reinsurance products, protecting the policyholder financially against potential hazards that may arise in the future."
+8,"State whether the statement is true or false, also explain why. The U.S. economy has been more stable since 1950.",True,False,,,A,"The above statement is True.
+After the great recession (2008-09) ended, the home economy has been remarkably steady. The volatility of quarter-to-quarter variations in GDP is relatively low by historical norms. The western economies discover that the stabilization of GDP growth has been mostly attributed to improvements in inventory management, which are generally the result of technological advancements. The reduction in inflation volatility may be attributed to a more active monetary policy.
+The economy has also expanded while unemployment is staying low. The median American family's purchasing power was more at the last decade's conclusion than at its start. Eisenhower's attempts to balance the federal budget contributed to the low level of inflation.
+Thus, the western economy has been more stable because of fewer economic fluctuations since 1950.","Analyzing Economies: Fundamentally, economic research includes an assessment of costs and benefits. Economic analysis may help charities and the donors that support them by comparing the value and cost of social interventions. It is seen that western nations are industrialized with a capitalist market economy."
+9,"Insurance which covers an insured for amounts over and above the primary insurance, is known as _ insurance.",) property,) unnecessary,) umbrella,) extra,C,"The correct answer is
+c.) umbrella
+Umbrella insurance covers claims that are not included in the primary policies. It is related to excess insurance in the aspect of going beyond other covers; only that umbrella insurance is not limited to a particular coverage territory. It is advisable to take umbrella insurance if an entity's or individual's value of assets exceeds the policy limits.
+Extra insurance
+pays for unusual losses resulting from an entity's experience of significant disruption. Property insurance is highly specialized and addresses risks such as theft and fire.
+Option A
+is, therefore, incorrect.
+Option B
+is also incorrect because unnecessary insurance includes policies such as rental car insurance, whose risks are insignificant.",Insurance: Insurance is a risk management strategy involving protection from contingent loss. Insurance companies undertake risk management through the issuance of insurance policies to clients. Clients pay premiums for the insurance.
+10,Risk may be integrated into capital budgeting decisions by _____.,adjusting the standard deviation of possible outcomes,determining the expected value,adjusting the discount rate,adjusting the time horizon,C,"The answer is
+c. adjusting the discount rate
+The capital budgeting decision depends on the value-added associated with a new project. This value-added is determined by discounting all expected cash flows at the required rate of return. In the case that managers identify another risk premiums, the discount rate can be increased to reflect that an increase in risk causes an increase in the expected return.","Risk: Risk indicates an uncertainty of an outcome due to fast-changing market conditions. In practice, investors will raise their required rate of return on investment if there is an increase in related risk."
+11,Which of the following statements is true regarding the Standard Nonforfeiture Law?,The Standard Nonforfeiture Law applies to group insurance,The Standard Nonforfeiture Law applies to reinsurance,"A life insurance policy that develops, or has the potential to develop a cash value that does not contain the nonforfeiture options, cannot be delivered or issued for delivery",The insurer may not defer the payment of any cash surrender value after the demand with surrender of the policy,D,"The correct option is (D.) The insurer may not defer the payment of any cash surrender value after the demand with the surrender of the policy.
+The Standard Nonforfeiture Law is a clause in an insurance policy that assures that if the policy terminates due to nonpayment, the insured party may obtain full or partial benefits or a partial return of premiums. The insurer is the individual to whom the company is providing the insurance. In a nonforfeiture contract, the insurer is not supposed to postpone the payment of any cash surrender value once the insurance is surrendered. Hence, it is true to state that the insurer cannot defer the payment of any cash surrender value after the demand for the policy's surrender is made.
+Reasons for incorrect options:
+Option A.) is incorrect because the Standard Nonforfeiture Law does not apply to provide insurance to a group of people and only provides life insurance to individuals.
+Option B.) is incorrect because reinsurance is the insurance made for the insurance company itself, and the Standard Nonforfeiture Law is not applied in such circumstances.
+Option C.) is incorrect because, under the Standard Nonforfeiture Law, it is false to state that a life insurance policy with the potential to contain cash value but not include nonforfeiture alternatives cannot be delivered or issued for delivery.","Life Insurance: A life insurance is a legally documented agreement that ensures that the insurer is able to pay a sum of the amount in exchange for a premium. Generally, this contract is eligible after a predetermined time or upon the death of the individual being insured."
+12,Commercial bank term loans,usually carry fixed interest rates.,are very short-term in nature.,are offered to superior credit applicants.,both b and c.,A,"A. Correct.
+A term loan can usually be offered with a fixed interest rate for the entire loan duration.
+B. Incorrect. A term loan can be a long-term borrowing. For instance, a mortgage loan has a maturity of 30 years.
+C. Incorrect. A term loan can be offered to any individual or organization that meets the lender's requirements.","Term Loan: A term loan refers to borrowing that requires regular repayments at fixed intervals for a particular period. Usually, each periodic payment includes both the interest and the principal repayment."
+13,The other insurance provisions clause is used by insurers in most property and liability policies to:,Reduce information asymmetry.,Allow for duplicate recovery.,Limit over-indemnification.,Avoid the collateral source rule.,C,"Option c. Limit over-indemnification
+is correct.
+Other insurance provision clauses are used by insurers to prevent the insured party from earning any profits out of the loss event. Losses among the insurers are proportioned on a pro-rata basis wherein two or more insurance policies are taken for one object or event.
+Option a: Insurance companies reduce information asymmetry by increasing the premium of the product, which offsets the risk between high-risk individuals and low-risk ones. Hence, option a is wrong.
+Option b: Double recovery violates the core principle of insurance that no individual should profit from different insurers for an identical loss. Hence, option b is wrong.
+Option d: The collateral source rule stops the reduction of monetary benefits to the plaintiff in the event that it is covered by insurance. Hence, option d is wrong.","Insurance: Insurance is a financial contract wherein one individual or institution receives monetary protection from the other party in the event of a future loss in return for a set amount of premium. An individual who buys the contract is insured, and the one who receives the premium is the insurer."
+14,Cash flow can be said to equal operating income _____.,less taxes plus depreciation,less taxes,before depreciation and taxes plus depreciation,after taxes minus depreciation,A,"The correct answer is option
+a. less taxes plus depreciation
+.
+The cash flow from operating activities can be calculated by making the following adjustments to the net operating income:
+Deduct taxes
+Deduct change in the working capital
+Add back the non-cash expenses like depreciation expenses and amortization expenses","Cash Flow Statement: The cash flow statement for a firm shows the net cash flows during a given period from three kinds of activities, namely, operating activities, investing activities, and financing activities. The cash flow from operating activities can be computed by using the direct method or indirect method."
+15,When making decisions. Investors are interested in assessing:,the company's ability to generate net cash inflows.,management's ability to protect and enhance the capital providers' investments.,Both a and b.,the company's ability to generate net income.,C,"Correct Answer:
+Option c. Both a and b
+.
+Investors should assess any company on the following basis:
+The company's ability to generate cash flows, not a net income, as cash flows provide a more realistic efficiency of the business.
+The company's ability to enhance the capital invested by investors and protect it from risks of bankruptcy.
+Net income includes noncash expenses that can mislead the actual numbers that a company generates.",Users of Financial Statements: Every company should file its financial statements annually for the users to be aware of a company's financial performance and position for any given year. These metrics help them make investment decisions.
+16,What are some of the aspects designed to offset global risks?,Production shifting,Redundancy in systems,Hedging strategies,All of the above.,D,"What are some of the aspects designed to offset global risks?
+d) All of the above.
+Offsetting risks normally involves reducing the chances of a risk happening. All the above options describe aspects that are designed to eliminate global risks. Therefore, the correct answer is
+option d.
+Option a) Production shifting
+is VALID because production shifting helps in offsetting production risk by eliminating uncertainty.
+Option b) Redundancy in systems
+is VALID since redundancy prevents risks that are caused by a single point of failure.
+Option c) Hedging strategies
+is VALID since hedging eliminates risks by taking opposite sides to decrease the potential losses when one side fails.",Global Risks: A global risk refer to a negative occurrence that can negatively impact an entire organization for a long duration. Preventing this kind of risk reduces the chances of making losses. The process of developing techniques that help prevent risks from occurring is known as risk management.
+17,Cash paid to purchase a building appears on the statement of cash flows among the,Operating activities.,Financing activities.,Investing activities.,Stockholders' equity.,C,"The correct answer is option
+C) Investing activities.
+The cash paid to purchase a building is shown as a cash outflow from the investing activities. A building is a fixed asset where a firm makes an investment to facilitate business operations.
+The funds raised from shareholders and lenders represent cash inflows from financing activities. The cash flows received from customers for the goods sold and the cash paid to suppliers and employees represent cash flows from operating activities.","Cash Flows Statement: The cash flows statement of a firm represents the net cash flows for a given period for three types of activities, namely, operating activities, financing activities, and investing activities. The net cash flows are ascertained by deducting the cash outflows from the cash inflows."
+18,The excess return required from a risky asset over that required from a risk-free asset is called the:,risk premium,geometric premium,excess return,average return,A,"a) Correct. A risk premium indicates an additional risk on top of the base rate, which is the risk-free rate. In this case, a risky asset has a higher excess return compared to a risk-free asset since it involves an additional risk premium.
+b) Incorrect. A geometric premium is an estimate for a given period.
+c) Incorrect. An excess return represents the difference between an actual rate of return and a risk-free rate.
+d) Incorrect. The average return is a mean of all annual rates of returns for a given period.
+e) Incorrect. Variance refers to the difference between the actual rate of returns and the mean of these rates of returns.","Risk-Free Rate: The risk-free rate refers to an expected rate of return on an investment that incurs zero risk. Theoretically, financial analysts will consider the interest rate on government securities for the risk-free rate because the default risk of a government is extremely low."
+19,Which one of the following is an advantage of a manuscript form?,It reduces the paperwork necessary for an insurance policy.,The insurer does not have to keep a duplicate of each insured's entire policy.,It is typically interpreted as a contract of adhesion.,It can be specifically drafted or selected to cover a unique loss exposure.,D,"The correct answer is:
+d. It can be specifically drafted or selected to cover a unique loss exposure.
+When buying an insurance policy, it is normal for insurance companies to give individuals options from initially developed standardized policies. The only difference between standardized insurance policies for different clients is usually the declaration page. However, a manuscript form is unique. It is used to create a tailor-made insurance policy for a client with unique needs. The client might be seeking coverage for a particular type of risk that only they are exposed to.","Manuscript Form: Each individual looking to buy an insurance policy has different requirements. While attempting to appeal to a bigger audience, insurance companies develop standardized policies that can work for just about anyone."
+20,"During the past year, Lockhart Inc. declared $40,000 in cash dividends. If the beginning and ending balance of the dividends payable account was $12,000 and $10,000, respectively, what amount of cash paid for dividends will appear in the cash flow from financing activities section of the statement of cash flows?","$30,000","$38,000","$40,000","$42,000",D,"The correct answer is option
+D. $42,000
+.
+The amount of dividends paid to the shareholders during the year is given by:
+{eq}\begin{align*}
+
+&= \text{Beginning balance of the dividends payable + declared cash dividends - ending balance of the dividends payable} \\[0.3 cm]
+
+&= $12,000 + $40,000 - $10,000 \\[0.3 cm]
+
+&= $42,000
+
+\end{align*}
+
+{/eq}","Dividend Payments: Of the total net income earned in a given year, some amount is distributed to the shareholders in the form of dividends. The remaining amount is retained in the form of reserves and surplus to facilitate the prospective investments."
+21,"Congress considers a bill that would eliminate the mortgage interest deduction for individuals. For the housing industry, this is an example of _____.",interest rate risk.,business risk.,tax risk.,event risk.,C,"The correct option is
+tax risk
+.
+A) Interest rate risk: It means the risk of a change in interest rates. For example, an increase in interest rates leads to a decrease in the value of bonds. Thus, this is an incorrect option.
+B) Business risk: It means risk related to a business that may lead to lower profits for the business, like a change in consumer preference, government policy, etc. Hence, it is an incorrect option.
+C) Tax risk: It means a change in tax laws or its effect on investment. The given example is of tax risk because it will create a tax burden on the housing industry if the mortgage interest deduction is eliminated.
+D) Event risk: It refers to an uncertain occurrence that may lead to losses to investors. Thus, it is an incorrect option.","Investment Risks: Investments in securities involve some kind of risk; that is, uncertainty, which may lead to a decrease in return or value of the investment. There are various types of risk, like interest rate risk, business risk, tax risk, etc."
+22,"The property-casualty insurance policy provisions that indicate who or what is covered, and where and when coverage applies, are found in the:",Definitions.,Declarations.,Insuring agreements.,Miscellaneous provisions.,C,"The correct answer is
+c) Insuring agreements.
+The insuring agreement's section of an insurance policy defines the property or individual covered by the policy. It describes in detail the risk the policy insures against, for example, fire, motor accidents, and hurricanes. This section also stipulates the circumstances under which an insurer is obligated to compensate the insured and the extent of compensation.
+""a) Definitions"" is incorrect because this section explains the terms used in an insurance policy to prevent ambiguity.
+""b) Declarations"" is incorrect because this section is a summary of the main details of the policy. It lists the insured's information and policy details like policy period and policy number.
+""d) Miscellaneous provisions"" is incorrect because this contract section contains random and mostly minor provisions such as the jurisdictional standing and choice of law applicable.","Property-Casualty Insurance Policy Provisions: Property insurance covers properties such as homes and cars. In contrast, casualty insurance protects an insured individual if they are found to be legally responsible for an accident injuring other parties. The two are combined into one property-casualty insurance policy with various parts, including the declarations page, definitions, and insuring agreements sections."
+23,Which of the following is a risk-adjusted measure of firm performance?,ROA,Operating profit,Economic profit,Net profit margin,A,"The Correct Answer is (a.) ROA
+This is a type of return on investment (ROI) after taking the risk of doing job performance. The risk-adjusted return calculates how much risk is involved in generating a certain return. The notion compares the returns of various investments with varying risk levels to a benchmark.
+Reasons for incorrect options:
+Option (b.) is incorrect because operating profit is a profit from business operations (gross profit fewer operating expenses) before interest and taxes are deducted. Hence it is not a good indicator of risk-adjusted performance.
+Option (c.) is incorrect because profit margin (or loss) is the gap between the money made from a product's sale and the expenses of all inputs, excluding opportunity and travel expenses. As a result, do not move towards the risk assessment.
+Option (d.) is incorrect because the net profit margin is a percentage of sales that controls how much net profit is generated. This provides information on earnings rather than risk.
+Option (e.) is incorrect because the gross margin is the amount of money a firm keeps after paying all the direct costs associated with producing the goods and services it sells.","Risk Adjustment: Risk adjustment is a policy that reimburses plans based on its members' predicted healthcare expenditures, considering the level of disease in that community to stabilize insurance markets."
+24,Which of the following types of insurance policies can usually be assigned without the insurer's consent?,I only,II only,Both I and II,Neither I nor II,A,"A) I only
+I. Life insurance is correct
+A life insurance policy can be assigned without the insurer's consent. This is because an insured has the right to assign his/her life insurance policy unless there are some specified limitations on the contract. The insured can transfer all his/her rights to all of the policy benefits to an assignee. But it is important to ensure you follow the proper procedure regardless of whether it is collateral or absolute. This is because the assignment of the policy cannot be binding until it is filed at the insurance company.
+II. Property insurance is incorrect
+A property insurance policy requires the insurer's consent to be assigned. This policy provides coverage for personal and real property owned by an individual or a business. Property insurance protects property owners from property loss due to an accident. Replacing or repairing a property after damages is expensive, but having the right property insurance can make the process easier.","Insurance Policy An insurance policy is a legal contract between an insurance company and a policyholder or the insured. It outlines the coverage the insurance company is willing to provide to a person. It is important to read and understand the policy to ensure it meets your needs. Each insurance policy has different requirements, so it is crucial to understand the conditions for each type of policy before signing an agreement."
+25,"Before any insurable interest or risk of loss in specific goods can pass from the seller to the buyer, the goods must exist and be identified in the contract.",True,False,,,A,"The given statement is true
+Two necessary conditions before passing the risk of loss from the seller to the buyer involve the existence of goods; goods must be available for the transfer of insurable interest; if goods are absent, the insurable interest cannot be passed. Another requirement is that existing goods must be identified in a legal contract. A contract should specify any good involved and gives the proper right to the buyer to get the goods insured.",Insurable Interest: Insurable interest refers to some security that prevents financial loss to the product owner. It helps prevent the gambling of goods and favors saving the public interest in the contract.
+26,True or False: Debentures are an important source of short-term funds for smaller businesses.,True,False,,,B,"The statement is
+FALSE.
+Practically, debentures are mainly issued to raise long-term debt capital in large companies since these companies usually have strong financial stability. Smaller businesses will usually obtain debt capital from financial institutions.","Debentures: Debentures are described as certificates of loan that are issued by a corporation. Debentures are unsecured loans, which will not be backed by any assets. With that being said, the interest rate on debentures will mostly vary on the issuer's creditworthiness."
+27,Which of the following statements is true regarding interest on life insurance proceeds?,The insurer may retain the proceeds and pay the beneficiary or policyholder respectively interest on those proceeds,Interest on the proceeds is payable from the date of death to the date of payment,Interest on the proceeds must be paid at the rate of 6% per annum,Interest on the proceeds is payable from 30 days following the date of death to the date of payment,D,"The correct answer is (D.) Interest on the proceeds is payable from 30 days following the date of death to the date of payment.
+The insurer has a time of 30 days to pay the benefits to the beneficiary. If the beneficiary does not receive any payment, they have the right to elect that they have not received the lump-sum payment from the insurer. The insurer has to pay the benefits once the claim is verified within 30 days of the death. It is an important aspect of the beneficiary's share to cover any financial loss. The number of days should not increase, and the beneficiary should receive the claim positively. The insurer must pay the beneficial interests at the specified time, avoiding delay.
+Reasons for incorrect options:
+Option (A.) is incorrect because the insurer cannot retain the insured proceeds. The beneficiary should be funded with interest and proceeds within 30 days.
+Option (B.) is incorrect because there is a time of 30 days, and the insurer should not exceed the days for payment. It does not depend on the insurer's will to pay the amount.
+Option (C.) is incorrect because the interest rate on proceeds depends on the policy type, period, and nature. It cannot always be fixed for all the beneficiaries.",Term Insurance: Term insurance gives long-term protection to the individual with the benefit of easy payment options. It has a specified time that secures the amount with a flexible assured sum that can be changed with the individual's preference.
+28,True or False: The term debenture refers to the after-tax value of an investment.,True,False,,,B,"The statement is
+false
+.
+Explanation
+A debenture is a debt for the issuer, so they get a deduction for paying interest on that debenture, or, in other words, the interest on a debenture is an expense for a company. A debenture is a type of long-term debt, so the interest on debentures is considered an expense. As a result, the interest on a debenture gives a tax shield to the issuer. But the debenture holder gets the interest as income, which is taxable for them.
+From the above explanation, it is concluded that the given statement is false.",Debt Instrument: A debt instrument is a type of asset that is purchased by an individual or an organization investor. The investor gets the principal amount and interest on the investment before or on the agreed date. The issuers of debt instruments are corporate organizations or the government of a country.
+29,Which of the following best defines cash flow?,net income plus depreciation,net income minus depreciation,net income plus taxes minus depreciation,net income plus taxes divided by depreciation,A,"The correct answer is option
+a. net income plus depreciation
+.
+The operating cash flow of a firm is computed by making the following adjustments to the net income:
+Adding the non-cash expenses such as depreciation and amortization
+Deducting the change in working capital from the net income
+The net income in turn is ascertained by deducting all the expenses such as cost of goods sold, operating expenses, tax expenses, and interest expenses from the sales revenue.","Statement of Cash Flows: The statement of cash flows shows cash inflows, cash outflows, and net cash flows for operating activities, investing activities, and financing activities for a given period. The operating activities cash flow can be computed by using the indirect method or direct method."
+30,An amount paid by the insured party when medical services are rendered is called:,ART,Co-Payment,Rider,Annuity,B,"An amount paid by the insured party when medical services are rendered is called:
+b. Co-Payment
+Co-Payment can be defined as a fixed amount paid by a health insured person if they undergo specific medical processes or expenses despite being covered by the insured company. The main reason for Co-Payments is to help reduce or prevent moral hazards. Moral hazards can be classified as a risk likely to occur when a party has not entered a contract in good faith. This type of risk is expected when the insured party engages in risky behaviors that may lead to the loss covered by the insurance company. Co-Payments prevent the insured from acquiring unnecessary medical processes, tests, and procedures because the insurance company will pay. Therefore, the correct answer is
+option b.
+Additional Information
+Option a, ART,
+is INCORRECT because ART is a type of life insurance that guarantees future insurability for a given number of years.
+Option c, Rider,
+is INCORRECT because a rider provides additional protection against specified risks.
+Option d, Annuity,
+is INCORRECT because annuity refers to a fixed amount received by an individual in their lifetime.","Insurance: Insurance refers to a legally accepted and mutually beneficial agreement between two or more parties in which one party pays a given amount of premiums in exchange for compensation in case of a specified loss. The premiums usually depend on several factors like the risk involved and the type of insurance. The main types of insurance are medical or health, fire, property, and life insurance."
+31,Which of the following is NOT considered a permanent source of financing?,Commercial paper,Preferred stock,Corporate bonds,Common stock,A,"The correct option is
+Option A: Commercial paper
+.
+Option A: Commercial paper is a money market instrument for short-term borrowings. It enables an entity to fulfill its capital requirements over a short period. Its maturity period is below 270 days. Therefore, it can't be considered a permanent source of financing.
+Option B: Preferred stock is a method of equity financing that an entity uses to raise capital without diluting voting rights. This is treated as a permanent funding source.  Hence, this option is incorrect.
+Option C: Corporate bonds offer the benefit of long maturity periods, which makes them a permanent funding source. This option is also incorrect.
+Option D: Common stock offers an entity the advantage of permanent capital. This is preferred by companies for long-term financing. Therefore, this option is also incorrect.",Financing: Financing is concerned with ensuring the availability of funds for business activities. An entity can go for equity financing or debt financing to acquire funds for its operational activities.
+32,"If you prefer a gamble with a lower expected value and potentially higher winnings, you are:",risk-averse,risk-neutral,a risk-taker,a winnings maximizer,C,"If you prefer a gamble with a lower expected value and potentially higher winnings, you are:
+c) a risk-taker
+.
+A risk-taker or a risk-lover is an individual who likes taking risk. They will usually be comfortable with a situation where higher risk leads to higher winnings. In this case, the individual is a risk taker.
+Analysis of incorrect options:
+a) risk-averse is incorrect because an individual who is risk averse will never prefer a situation with low expected value.
+b) risk-neutral is incorrect because in this case the individual would prefer equal winnings that would be proportional to the amount of risk taken by them.
+d) a winnings maximizer is incorrect because the individual is having a lower payoff.",Risk: Risk is defined as the difference between expected and actual payoff received by individuals. The coefficient of risk is called beta and it measures the level of systematic risk in the economy. The higher the beta. the more the compensation required by investors to invest in any particular asset.
+33,Which of the following is not considered an investing activity when preparing the statement of cash flows?,a purchase of equipment.,receipts on notes receivable.,a sale of investments.,payment of dividends.,B,"The correct options are
+option B: receipts on notes receivable and Option D: dividend payment
+.
+Option A: The purchase of equipment will impact the entity's non-current asset value. This is considered investment-related activity. This option is inaccurate.
+Option B: Cash receipts from note receivables, which are of long-term nature, are treated under operating activities. The receipts of interest received are treated as a cash inflow in operating activities. This option is accurate.
+Option C: Sales of assets or securities are reported under investing activities as they result in cash proceeds from non-current assets. This option is inaccurate.
+Option D: Payment of dividends is treated as a cash outflow under financing activities. These are payments that are provided to shareholders as a return on their investments in the entity. This option is accurate.","Business Activity: Business activity encompasses those activities conducted by the entity to make profits, and other activities were undertaken during the business duration such as selling, buying, investing, and obtaining loans."
+34,"Generally, the least expensive source of long-term capital is:",retained earnings,preferred stock,long-term debt,short-term debt,C,"The correct option is
+Option C: long-term debt
+.
+Option A: Retained earnings specify the internal financing source for the entity and are considered shareholder equity. This is mainly utilized for dividend payments and other reinvesting activities. Its cost is always higher than preferred stock and debt costs, and if the entity must retain more of its profits, it has to convince its shareholders to agree to such decisions. This option is inaccurate.
+Option B: Preferred stocks are generally issued for extended maturity. These are traded at a price not similar to common shares and pay a steady dividend to their holders. This option is more expensive and not accurate for answering.
+Option C: Long-term debt is considered the least expensive because its interest payments are tax deductible. Its costs are tax deductible and lower than the cost of preferred stock. These are substitutes for equity financing because of their advantages, like higher equity retention, low-interest rates, and stable, structured payments over time.
+Option D: Short-term debt carries a higher interest rate than long-term debt. Such financing sources are for taking on debt for a shorter period than a year. This option is too inaccurate to be considered under long-term capital funding.","Corporate Finance: Corporate finance specifies the organizational practice of identifying, planning, and controlling transactions and activities concerning the capital structure, like handling funding sources and investment decisions."
+35,"When a finance company purchases equipment for use by another business, the finance company provides financing in the form of:",factoring,leasing,a bankers acceptance,a letter of credit,A,"a. Incorrect. Factoring refers to the fact that a business will sell its accounts receivable at a discount for immediate cash.
+b. Correct. Leasing is a financing option that a firm can use for a specific asset that is owned by another firm. The lessee needs to make monthly payments during the term of the lease contract.
+c. Incorrect. A banker's acceptance (BA) is a form of payment guaranteed by a bank. With that being said, it can be considered a short-term financing option for the buyer.
+d. Incorrect. A letter of credit (L/C) is also a form of payment for import and export transaction.","Finance Company: A finance company is a financial institution that offers mostly short-term consumer loans to its clients. Note that a finance company is not a depository institution, in which the company raises its capital from its owners and borrowings from other financial institutions."
+36,Which of the following is an advantage of using equity as a source of funding?,It won't dilute existing shareholders' value of change ownership percentage.,The cost of equity is usually lower than the cost of credit.,It doesn't have additional financial commitments.,It's very liquid and always accepted.,C,"The correct answer is option
+c. It doesn't have additional financial commitments.
+Issuing equity for sourcing funds doesn't entail additional financial commitments whereas issuing debt or credit involves mandatory payment of interest and principal value to the investors as per the stipulated time frame.
+Incorrect options
+The risk associated with equity is usually higher than the risk associated with credit or debt and hence, the cost of equity is higher than the cost of credit. Issuing more equity for financing will increase the number of shares outstanding thereby diluting the ownership percentage of existing shareholders in the firm. Depending upon the market value of equity relative to its book value, its liquidity would change and hence, we cannot say that equity is very liquid and always acceptable.",Financing the Assets: The assets of a firm can be funded by using two prominent sources of financing - shareholders' equity and liabilities or borrowings. The borrowings can be bifurcated into short-term and long-term whereas the equity can be divided into common equity and preferred equity.
+37,"If an investment has 35 percent more non-diversifiable risk than the market portfolio, its beta will be:",35.,1.35.,0.35.,,B,"The correct option is b.
+As the standard value of non-diversifiable risk is 1 and if an investment has 35% more non-diversifiable risk than the market portfolio, its beta will be calculated by adding 1 and 35%.
+{eq}\begin{aligned}   Beta&=1+35\% \\   &=1+0.35 \\   &=1.35  \end{aligned}
+
+{/eq}",Risk(R) Mostly all businesses are being initiated to earn profits. These profits are the rewards earned for the risk taken by the entrepreneurs and investors for the amount of money they have invested at the various stages of the business.
+38,What instruments do not have a zero default risk?,FDIC,NCUA,Mutual fund account,US treasury bills,C,"The correct option is
+c. A mutual fund account
+Depositors of banks and credit unions are protected by the Federal Deposit Insurance Corporation (FDIC) and the National Credit Union Administration (NCUA), two government agencies. In the event of a bank or credit union's failure, this insurance guarantees depositors a maximum return on their money. As a result, the risk of default for the FDIC and the NCUA is both nils.
+Because of the stability of the United States government, US Treasury bills are considered to have the lowest default risk. Therefore, there is no default risk associated with US Treasury bills.
+Mutual fund accounts, on the other hand, invest in a wide range of assets, not just government bonds or stocks. There is more of a chance of losing money in a mutual fund than in an account at the FDIC, an NCUA-insured account, or a US Treasury bill.","Risk: Risks are the occurrence of unexpected and unwanted events that have the potential to harm business or investment. Some examples of risks are political instability, natural disasters, etc."
+39,Cash flow can be said to equal:,income before depreciation and taxes minus taxes,income before depreciation and taxes plus taxes,income before depreciation and taxes plus depreciation,income after taxes minus depreciation,A,"The correct answer is option
+A. income before depreciation and taxes minus taxes
+.
+The operating cash flow is given by:
+{eq}\begin{align*}
+
+&=  \text{Sales - cost of goods sold - operating expenses excluding depreciation - taxes} \\[0.3 cm]
+
+&= \text{Income before depreciation and taxes - taxes}
+
+\end{align*}
+
+{/eq}
+The depreciation expense is a non-cash expense so it does not affects the operating cash flows.","Cash Flows: The total net cash flows of a firm during a given period can be bifurcated into cash outflows and cash inflows. Moreover, they can be categorized into cash related to operating activities, investing activities, and financing activities."
+40,A consumer prices out different insurance plans. Of the three functions of money this is an example of:,Unit of account,Store of value,Medium of exchange,,B,"The correct option is (B.) Store of value.
+Store of value is determined as securing the wealth for the future. The insurance plan will act as an asset for future preferences and helps store the money. Insurance plans save money as well as act as an asset. Whenever in need, the money is utilized. Insurance money is the source of the Store of value as the money created in the plan will be returned whenever in need or after clearing its maturity.
+Reasons for incorrect options:
+Option A.) is incorrect because the insurance plans will not be counted as the Unit of account as it refers to the standard of the monetary measures for the goods and services.
+Option C.) is incorrect because the insurance plan is not the source of exchange. Medium of exchange refers to the exchange where the exchange is acceptable with goods and services.",Pricing Insurance: The insurance pricing is the rate at which the insurance companies have quoted the charge. The rate at which the companies promote their pricing stability for the insurance. The pricing insurance is futuristic and provides benefits to the consumer.
+41,"Assume a corporation has earnings before depreciation and taxes of $82,000, depreciation of $45,000, and that it has a 30 percent tax bracket. What are the after-tax cash flows for the company?","$70,900","$82,000","$42,000",None of these,A,"The correct answer is option
+a. $70,900
+.
+The net income for the company is given by:
+{eq}\begin{align*}
+
+&= \text{(Earnings before taxes and depreciation - depreciation) * (1 - tax percent)} \\[0.3 cm]
+
+&= ($82,000 - $45,000) * (1 - 30\%) \\[0.3 cm]
+
+&= $37,000 * 0.70 \\[0.3 cm]
+
+&= $25,900
+
+\end{align*}
+
+{/eq}
+The after-tax cash flows for the company are given by:
+{eq}\begin{align*}
+
+&= \text{Net income + depreciation} \\[0.3 cm]
+
+&= $25,900 + $45,000 \\[0.3 cm]
+
+&= $70,900
+
+\end{align*}
+
+{/eq}","Cash Flows for a Firm: The cash flows for a firm in a given period are usually categorized into cash flows from operating activities, cash flows from investing activities, and cash flows from financing activities. The cash flows from operating activities are usually calculated by using the indirect method."
+42,Total risk can be divided into:,standard deviation and variance.,standard deviation and covariance.,portfolio risk and beta.,market risk and firm-specific risk.,D,"The correct option is d.
+Market risk, or systematic risk, that an asset carries can affect a large sector of asset classes; it is not controllable by any firm. For example, Interest rate.
+Firm-specific risk, or unsystematic risk, affects a particular company or organization. A company can control it. For example, an accident of a truck with raw material.
+Reason for incorrect option:
+Option a. The standard deviation shows the volatility in the market, but variance shows the degree of spread in data.
+Option b. covariance indicates the relationship among variables and is not associated with risk.
+Option c. Portfolio risk is associated with loss in principal amount or inflation. The beta is associated with the risk in a particular stock.",Total risk: The total risk is associated with all the systematic (risk carried by an asset) and unsystematic (any new risk for the investment) risk factors that impact the investment decision.
+43,Each financial decision made by a corporate manager can be evaluated by its direct impact on the corporation's stock price.,True,False,,,B,"The given statement, 'Each financial decision made by a corporate manager can be evaluated by its direct impact on the corporation's stock price.' is
+False.
+While corporate managers' financial choices may undoubtedly affect a company's stock price, not all choices should always be judged simply on how they will affect the stock price.
+Managers should take a variety of things into account when making financial choices, including the long-term financial health of the firm, its development potential, and its capacity to produce sustainable profits, in addition to merely the immediate effect on the stock price. The management of a firm has no direct control over various external factors that might affect stock prices, including changes in the general economy, changes in investor mood, and geopolitical events.
+Therefore, even while the stock price might be a significant indicator of a company's profitability, corporate managers shouldn't base all of their financial choices only on it.","Financial Decision: An individual, company, or organization makes a financial decision when allocating, managing, and using financial resources. Financial decisions may be as straightforward as deciding how much to spend."
+44,Unsystematic risk is:,the risk associated with movements in stock prices,reduced through diversification,higher when interest rates rise,the risk of loss of purchasing power,B,"The answer is
+B. reduced through diversification
+Diversification is an investment strategy to reduce the unsystematic risk associated with each security. However, it cannot eliminate the systematic risk.
+A. Incorrect. The unsystematic risk is caused by specific risks associated with the firm. Thus, it will indirectly affect the change in stock price.
+B. Correct.
+C. Incorrect. An increase in market interest rates should be considered a systematic risk.
+D. Incorrect. The loss of purchasing power refers to the inflation risk premium, which is a risk component of the systematic risk.","Risk: Risk refers to an uncertainty of a investment's value. In practice, financial experts will alway intend to measure risk, which is to reduce the negative impact to the investment. However, it is impossible to recognize all potential risks in practice."
+45,"To determine the extent of coverage a policy provides, pre-loss policy analysis almost exclusively relies on:",Post-loss policy analysis.,Scenario analysis.,The DICE method.,Coverage triggers.,B,"The correct option is:
+Option b: Scenario analysis
+.
+The pre-loss policy takes into account the amount of risk to be retained, the risk type involved, who is responsible for overall risk, and the amount of purchased risk.
+Option a: Post-loss analysis involves the analysis of the magnitude of loss by accounting for the property loss because of machinery breakdown, natural calamities, environmental impacts, etc., and business interruptions due to such hindrances.
+Option b: Scenario analysis will be helpful in the pre-loss analysis as with this analysis, the policyholder can know the loss scenarios or events before their occurrence and examine the fit of insurance coverage as per the policyholder's purpose.
+Option c: The DICE method is utilized to examine the policy by executing the 4 main steps that are declaration, insuring agreement, conditions, and exclusions. Thus, the pre-loss analysis does not include the application of the DICE method.
+Option d: Coverage triggers specify the policies that will cover the policyholder's claim. These are defined terms in the policy documents that specify the events that occur to claim the loss or sum assured.
+Thus, pre-loss analysis is evaluated considering the loss scenarios. Therefore,
+option b
+is the right one.",Risk Management: Risk management involves assessing and analyzing the loss exposures of the policyholder and taking the requisite steps to reduce the financial risks that unforeseen events pose to the policyholder.
+46,Which of the following is not one of the major sections of the statement of cash flows?,cash flows from financing activities,cash flows from selling activities,cash flows from operating activities,cash flows from investing activities,B,"The correct answer is option
+B. cash flows from selling activities
+.
+The three main sections of the statement of cash flows are as follows:
+Cash flows from financing activities
+Cash flows from operating  activities
+Cash flows from investing activities","Cash Flow Statement: The cash flow statement is a financial statement that shows the cash inflows, cash outflows, and net cash flows for different kinds of activities. The cash flow related to the operating activities can be ascertained by using the direct method or indirect method."
+47,The management control system includes:,Delegation of decision rights.,Commitments.,Pricing decisions.,Capital budgeting.,A,"The correct option is
+option a. Delegation of decision rights.
+Assigning duties to individuals for specific decision-making tasks is considered a delegation of decision rights. Because a manager cannot perform all of an organization's tasks, he or she must delegate or assign authority to subordinates in order to complete those tasks.
+The explanation for the incorrect options:
+Option b: Commitments are made by the members of an organization towards the organizational goals; this shapes the identity of the business. But it does not come under a management control system.
+Option c: The management control system is the system by which the performance of different organizational resources is analyzed. Pricing decisions are not a part of the management control system.
+Option d: Capital budgeting is very important for management because it helps in evaluating major projects of the organization, but it is not a part of the management control system.","Management: Management is the process that deals with the people or activities of an organization. It includes various functions such as directing, staffing, controlling, etc. If the management is efficient or effective, then it will lead to the maximization of profit."
+48,Adverse selection in insurance implies that:,Potential customers facing more risk are no more interested in purchasing insurance.,People are not risk averse.,All people face the same risk.,Insurers cannot tell the risk levels that different individuals face.,A,"The correct answer is
+A. potential customers facing more risk are no more interested in purchasing insurance covers
+In insurance, adverse selection describes a situation in which people face more health risks or are in high-risk situations but fail to acquire insurance coverage. In such circumstances, people only take on insurance policies when they have greater chances of benefiting from those insurance policy covers. Thus, people who need more life insurance have greater chances of purchasing insurance than potential insurance policy customers. For example, an individual applying for insurance may acquire the insurance at a cost that is way below the level of risk. A good example is a situation in which caffeine dependent individual gets insurance at the same rate as someone without caffeine dependency depicting adverse selection.
+On the other hand, adverse selection under insurance does not depict individuals who are risk-averse or have the same risk because only high-risk individuals are liable to take up insurance policies. Similarly, insurers can discern individual risks because each insures against future unforeseen events, eliminating choices B, C, and D.","Adverse Selection: It can be a situation in which individuals have information asymmetries, meaning that one party is more knowledgeable than the other regarding market trends and technology. For example, a situation where a seller is more informed about the market than buyers can be considered an adverse selection. In the product market, sellers or buyers with abundant knowledge of the market trends are more likely to succeed in those markets due to adverse selection."
+49,The cost associated with each additional dollar of financing for investment projects is:,the incremental return,the marginal cost of capital,risk-free rate,beta,B,"The correct answer is
+B
+.
+Explanation:
+The marginal cost of capital is a concept that helps an organization determine the cost of acquiring additional capital. It helps in decision-making regarding whether to raise additional funds or not. It also facilitates the determination of the proportion of the additional fund acquisition if the company decides to finance its investment. However, the long-term effects of the financing are not considered, which makes it unsuitable for a newly established firm.
+The Explanation for Incorrect Options:
+Option A: The incremental return is the profit earned due to selecting a particular course of action.
+Option C: A risk-free rate depicts the rate offered by an investment. Therefore, this is the incorrect option.
+Option D: It measures the systematic risk associated with an investment. Hence, it is incorrect.","Financing: Financing can be explained as a set of sequential steps followed to acquire funds for the smooth conduct of business operations. Examples are borrowing, issuing debt, bonds or securities."
+50,"Beginning with an investment in one company's securities, as we add securities of other companies to our portfolio, which type of risk declines?",Systematic risk.,Market risk.,Non-diversifiable risk.,None of the above.,D,"The correct answer is option
+d. None of the above.
+The total risk of an investment portfolio can be bifurcated into systematic risk and unsystematic risk. Systematic risk is a market-wide risk or non-diversifiable risk that affects the securities of all the firms whereas unsystematic risk is a diversifiable or firm-specific risk that affects only a particular company's securities. Thus, as we add securities of other companies to a given portfolio, the unsystematic risk declines.",Portfolio Performance: The performance of a given portfolio is usually measured by considering two prominent metrics - risk and expected returns. The risk can be broadly categorized into two kinds - systematic risk and unsystematic risk.

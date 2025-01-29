@@ -1,0 +1,403 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The numerator of the rate earned on common stockholders' equity ratio is,net income.,net income minus preferred dividends.,income before income tax.,operating income minus interest expense.,B,"The correct answer is option b. net income minus preferred dividends.
+The rate earned on the common stockholders' equity ratio, also known as return on common stockholders' equity or return on equity (ROE), is a measure of a company's profitability and the efficiency with which it uses stockholders' equity to generate profits.
+The formula for the rate earned on common stockholders' equity ratio is as follows:
+{eq}\begin{align} \text{Rate of Return - Common Stock} &= \frac{\text{Net Income - Preferred Dividends}}{\text{Average Common Stockholders' Equity}} \\ \end{align} {/eq}
+By subtracting the preferred dividends from net income, the ratio focuses on the earnings available to common stockholders, providing a measure of how effectively the company is generating returns for them.
+Accordingly, the correct answer is option
+b. net income minus preferred dividends.","Ratio Analysis: In management accounting, ratio analysis allows analysts, investors, and management to assess a company's profitability, liquidity, solvency, efficiency, and overall financial health."
+2,Which of the following is not a liquidity ratio? Select one:,Current ratio,Quick ratio,Debt-to-equity ratio,Interest coverage ratio,C,"The correct answer can either be c. Debt-to-equity ratio or d. Interest coverage ratio.
+A liquidity ratios measures the ability of the company to pay off its short-term debts as they become due using the company's current or quick assets. Thus, the current ratio and quick ratio are both liquidity ratios.
+Now, let us explain the correct answers.
+c. Debt-to-Equity Ratio: This is a solvency ratio, not a liquidity ratio. It measures the riskiness of a company's financial structure and its ability to meet long-term obligations.
+d. Interest Coverage Ratio: This is also not a liquidity ratio; it is a solvency or profitability ratio that measures a company's ability to pay interest on its outstanding debt.","Financial Ratios: In accounting, financial ratios are often used for benchmarking, which involves comparing a company's financial performance with industry averages, direct competitors, or historical performance."
+3,Which of the following ratios is the most useful one in assessing a firm's ability to service debts?,Fixed asset turnover.,Times interest earned ratio.,Gross profit margin.,Return on equity.,B,"a. Incorrect. The fixed asset turnover is an efficiency ratio that measures how the firm's fixed assets are operated to generate sales within a year.
+b. Correct. The times interest earned ratio (TIE) is determined by dividing the firm's Earnings Before Interest and Taxes (EBIT) by the interest expenses. With that being said, it indicates whether a firm can pay its financing costs by operating income.
+c. Incorrect. Gross profit margin is a profitability ratio that measures the relationship between gross profit and the firm's sales.
+d. Incorrect. Return on equity (ROE) is a profitability ratio. It is estimated by dividing the firm's net income by the total shareholders' equity capital. It is not a relevant ratio to measure the firm's ability to service debt.","Financial Ratios: An analysis of financial ratios is a necessary part of a fundamental analysis, which helps the firm's managers and investors to identify strengths and weaknesses through the financial statements. An analysis of financial ratios can be classified into 4 groups: liquidity, profitability, solvency and efficiency, and market prospect ratios."
+4,What is the ratio that measures a firm's ability to repay both its short-and long-term debt?,Earnings per share.,Cash debt coverage ratio.,Cash flow to operating income ratio.,Cash flow per share.,B,"The correct option is
+b. Cash debt coverage ratio.
+A company's ability to service its debt, both current and future, using cash flow from operations is quantified by the cash debt coverage ratio, a financial metric. It reveals how comfortably a business can meet its debt payments with its current cash on hand. The ability of a company to generate enough cash to meet its debt obligations can be gauged by calculating this ratio, which compares cash flow from operations to the company's total debt.
+Reasons why other options are incorrect:
+a. Earnings per share. A company's ability to repay debt is not directly reflected in its earnings per share, which measures profitability per share.
+c. Cash flow to operating income ratio. The ratio of a company's cash flow from operations to its operating income does not take into account the company's ability to make debt payments.
+d. Cash flow per share. A company's ability to repay its debts is not taken into account when calculating its cash flow per share.","Cash Equivalent: An asset that can be quickly and easily converted into cash is called a cash equivalent. Cash equivalents, which include checks and T-bills, can be converted to cash quickly and whose value does not fluctuate."
+5,Financial information is presented below:,0.96.,0.04.,0.20.,0.80.,B,"The correct answer is
+B. 0.04
+.
+The health of a company's total finances is ascertained using profit margin ratios. A company's profit margin is an indicator of how much money it is generating on its goods or services after all direct and indirect costs have been deducted.
+Given information:
+Operating expenses = $32,000
+Sales revenue = $205,000
+Cost of goods sold = $165,000
+Determine the operating income.
+{eq}\begin{aligned} \text{Operating Income} &=\text{Sales Revenue}-\text{Cost of Goods Sold}-\text{Operating Expenses} \\ &=\$205,000-\$165,000-\$32,000 \\ &=\$8,000 \end{aligned} {/eq}
+Determine the profit margin ratio.
+{eq}\begin{aligned} \text{Profit Margin Ratio}&=\frac{\text{Operating Income}}{\text{Sales Revenue}} \\ &=\frac{\$8,000}{\$205,000} \\ &=0.04 \end{aligned} {/eq}","Accounting Ratio: Accounting ratios are comparisons of two or more financial data points that are used to examine a company's financial accounts. It is a powerful instrument used by creditors, shareholders, and other types of stakeholders to comprehend the financial health, strength, and profitability of businesses."
+6,Which of the following ratios is not a debt management ratio?,Times interest earned.,Debt-to-equity ratio.,Long-term debt-to-equity ratio.,Return on equity ratio.,D,"The correct answer is d.
+Return on equity ratio
+The return on equity ratio is not a debt management ratio because it comes under the profitability ratios. It helps to measure the profit made by a company compared to equity invested in it.
+Reasons for incorrect options:
+a.
+Times interest earned ratio is one of the debt management ratios. It is used to know whether a company can settle with interest on its debts.
+b.
+The debt-to-equity ratio helps assess the percentage of debt used in financial structure compared to equity.
+c.
+The long-term debt to equity ratio is a ratio that tells about the amount of long-term debt used compared to the equity in a company. It helps to acknowledge how much leverage the company is taking.",Debt Management Ratio: Debt management Ratios show the debt of a company compared to its equity. Debt Management ratios are used to know the number of operations running on debts instead of equity out of all the operations.
+7,Which of the following is not an asset management ratio?,average collection period,days sales outstanding ratio,price-earnings ratio,inventory turnover ratio,C,"The correct answer is
+option c. price-earnings ratio.
+The price-earning (P/E) ratio is a valuation ratio. It is one of the methods that analysts and investors most frequently use to assess a stock's relative value. The P/E ratio aids in identifying an undervalued or overvalued stock. It exhibits the relationship between the firm's stock price and earnings per share. It signifies the quantum of money an investor is willing to invest in a single company's stock.
+The explanation for the incorrect options:
+Option a. Average collection period (ACP): The average collection period is an assets management ratio that gauges how long it typically takes a business to obtain money from consumers. The total accounts receivable are divided by the average daily credit sales to get the ACP.
+Option b. Days sales outstanding ratio: Giving out products on credit is one approach to increase a company's profitability. Days sales outstanding are useful in keeping an eye on how long it will take the business owner to receive payment for products that were given out on credit.
+Option d. Inventory turnover ratio: It is one of the asset efficiency ratios that is used to gauge how well a business uses its resources. It shows how frequently a business turns over its stock in relation to its COGS. It is one of the most important asset management ratios. In the case of businesses that sell tangible goods, it is the most crucial ratio.","Asset Management Ratio: The assets management ratio is a metric that aids in assessing how efficiently and effectively a business creates proceeds from sales utilizing equity resources. The assets turnover ratio, receivable turnover ratio, and payable turnover ratio are some examples of asset management ratios. ."
+8,A company has a cash ratio of 2.3. What does this imply?,The company has an unnecessarily large amount of cash supply.,The company does not have enough cash supply.,The company is not in a position to pay off its long-term liabilities.,The company is not in a position to pay off its current liabilities.,A,"The correct answer is
+a. The company has an unnecessarily large amount of cash supply.
+The cash ratio is the liquidity ratio. It is the ratio of cash and cash equivalents to the current liabilities of the company. A cash ratio greater than 1 indicates that the company has a cash supply greater than what is required to cover current liabilities. On the other hand, a cash ratio of less than 1 indicates that the cash supply is not sufficient to meet current liabilities.
+In the given scenario, the cash ratio is 2.3, which indicates that the cash supply is too large, relative to what is required. It points toward inefficient cash management.
+The other options are incorrect.
+b.
+The company does not have enough cash supply:
+The cash ratio of 2.3 indicates that the company has enough cash supply.
+c.
+The company is not in a position to pay off its long-term liabilities:
+The cash ratio does not measure the ability of the company to repay long-term liabilities.
+d.
+The company is not in a position to pay off its current liabilities:
+The cash ratio of the company is greater than 1. Thus, it is in a position to pay off its current liabilities.","Financial Ratios: Financial ratios are the metrics calculated using the information reported in the financial statements. They provide meaningful insights into different aspects of a business, like its profitability, liquidity, leverage, margin, etc."
+9,Cash and cash equivalents are divided by _____ to determine the cash ratio.,total current liabilities,fixed assets,equity,total long-term liabilities,A,"The correct answer is
+(A) total current liabilities.
+The cash ratio is one of the liquidity or solvency ratio of businesses. It shows how much of the current liabilities can be settled by the total cash and cash equivalents.
+The formula to calculate the cash ratio is -
+{eq}\text{Cash Ratio} = \dfrac{\text{Total Cash and Cash Equivalents}}{\text{Total Current Liabilities}} {/eq}",Ratio Analysis: Ratio analysis refers to the study of relationships between different line items of financial statements. They help in better understanding of the financial position of the business.
+10,"If security can easily be converted to cash without a loss in value, it",is liquid.,has a high after-tax yield.,has high credit risk.,is illiquid.,A,"The correct answer is option
+A) is liquid.
+Liquid security is a security that can be easily converted into cash without a reduction in value and without a time lag.
+If a security has a high probability of default or bankruptcy then it is said to have a high credit risk. If the rate of return expected on a security after deducting the applicable taxes is high then it is said to have a high after-tax yield.","Liquidity: Liquidity is one of the characteristics associated with assets, which could be financial assets or physical assets. Cash is usually considered to be the most liquid asset and is usually followed by T-bills and marketable securities."
+,,,,,,,,
+,,,,,,,,
+13,Which of the following types of ratios relate to the relationship of company assets among creditors and shareholders/owners?,Leverage ratios,Profitability ratios,Market ratios,Liquidity ratios,A,"The correct answer is option A) Leverage ratios.
+Leverage ratios relate to the relationship of a company's assets among creditors and shareholders/owners. These ratios measure the proportion of debt and equity used to finance the company's assets, as well as the company's ability to meet its long-term financial obligations. Common leverage ratios include debt-to-equity ratio, debt ratio, and equity multiplier. Other options are incorrect as these ratios do not relate to the relationship of company assets among creditors and shareholders/owners.
+Therefore, the correct answer is option
+A) Leverage ratios.","Ratio Analysis: By comparing financial ratios across different time periods, users can identify company performance trends. This helps determine if the company's financial position is improving, deteriorating, or remaining stable."
+14,Liquidity ratios show a company's capacity to pay maturing current liabilities.,TRUE,FALSE,,,A,"The given statement is
+(a.) True.
+Liquidity ratios are ratios that analyze the business's ability to pay off its short-term or current liabilities. The current ratio, acid-test or quick ratio, and cash ratio are examples of liquidity ratios.","Ratio Analysis: Ratio analysis is a technique to analyze the financial statements of a business. It helps the inventors to compare different companies, their performances over the years, etc."
+15,Which ratios help assess the firm's ability to meet cash needs as they arise?,Current ratio and cash flow liquidity ratio.,Average collection period and net profit margin.,Debt ratio and dividend payout.,Operating profit margin and return on equity.,A,"The correct answer is option a. Current ratio and cash flow liquidity ratio.
+These two ratios help assess a firm's ability to meet its cash needs as they arise. The current ratio measures a company's short-term liquidity by comparing its current assets to its current liabilities. The cash flow liquidity ratio (a cash flow to current liabilities ratio) compares a company's cash flow from operations to its current liabilities, emphasizing the firm's ability to generate cash from its operations to meet its short-term obligations. Both ratios provide insight into a firm's capacity to pay off its short-term liabilities and address immediate cash needs.
+Incorrect Options
+b. Average collection period and net profit margin:
+The average collection period is when the company can collect its receivables. The net profit margin simply shows how much percentage the net profit is over total revenue.
+c. Debt ratio and dividend payout:
+The debt ratio is the total percentage of debt over total assets, while the dividend payout ratio shows how much is the company's earnings are paid to its stockholders.
+d. Operating profit margin and return on equity:
+The operating profit margin shows the percentage of operating profit over sales, while the return on equity shows the percentage of net income over the company's equity.","Financial Ratios: In managerial accounting, financial ratios are significant management tools used to analyze business performance. These financial ratios can assess business performance."
+16,Why is the quick ratio considered by some to be a better measure of liquidity than the current ratio?,The quick ratio more accurately reflects a firm's profitability.,It omits the least liquid current asset from the numerator of the ratio.,The current ratio does not include accounts receivable.,"It measures how ""quickly"" cash flows through the firm.",B,"a. Incorrect. A quick ratio is a liquidity ratio that messes with the firm's ability to cover its current liabilities with its current assets.
+b. Correct. The quick ratio is more relevant to assess a firm's liquidity since it excludes the inventory. Inventory is the less liquid current asset among a firm's different types of current assets.
+c. Incorrect. Accounts receivable is included in the estimate of the two liquidity ratios.
+d. Incorrect. To measure how quickly cash flows through the firm, an investor should determine the cash turnover. The curernt ratio and quick ratio are to measure the firm's liquidity in a short-term.","Liquidity Ratios: A firm's liquidity ratios include the following two ratios: current ratio and quick ratio. For a firm with strong liquidity, these two ratios should be greater than 1 to reserve the fact that all current assets can be converted into cash to cover the firm's liabilities."
+17,Liquidity ratios indicate:,a firm's ability to meet short-term financial obligations.,how efficiently a firm is allocating its liabilities.,the return on assets.,the profitability of the firm.,A,"Liquidity ratios indicate
+a. a firm's ability to meet short-term financial obligations.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. a firm's ability to meet short-term financial obligations.
+This is the correct alternative because the liquidity ratios such as the current and quick ratios compare a company's current assets to its current liabilities.
+b. how efficiently a firm is allocating its liabilities.
+The use of liabilities to generate profit is measured by the leverage ratio.
+c. the return on assets.
+The return on assets is measured by the return on assets ratio, not the liquidity ratios.
+d. the profitability of the firm.
+The profitability ratios such as return on investment, gross profit margin, and net profit margin indicate the profitability of a company.",Liquidity Ratios: Liquidity ratios are a group of financial statements ratios that include the current and quick ratios. They are typically used internally by the management of the company and externally by investors and other stakeholders to access the company's risk profile.
+18,A company's current ratio must always equal or exceed its acid-test ratio.,TRUE,FALSE,,,A,"The correct answer is
+option a. True
+In the computation of the current ratio, the numerator includes all the current assets that a company owns, and the denominator consists of its current liabilities. In the computation of the acid-test ratio, the numerator consists of only cash equivalents and bills receivable for the period, and the denominator remains the same as before. This decrease in items in the numerator of the acid test ratio always makes the current ratio higher than the acid test ratio. Hence, it is
+true
+to state that a company's current ratio must always equal or exceed its acid-test ratio.","Liquidity Ratio: Liquidity ratios measure the ability of a company in tackling its short-term liabilities using its current assets. These include the current ratio, cash ratio, acid-test ratio, etc."
+19,Asset liability management is a formal process to ensure _____.,that borrowings are limited to what is needed,that loans are made at the best interest rates possible,a bank has steps that it can take if a liquidity crisis develops,that steps are taken to ensure the highest level of checking accounts,C,"The correct answer is
+c. a bank has steps that it can take if a liquidity crisis develops.
+Asset liability management is the process of ensuring the organization will have enough liquid assets to convert into cash to cover withdrawals. Low-risk investments such as savings accounts and money market accounts pay lower rates of interest compared to the interest rates associated with higher-risk securities. Financial organizations will typically use funds such as these from investors to make loans or to engage in other activities that may not be liquid. The organizations are still required to have the ability to cover withdrawals and need to properly manage how much of their portfolio becomes tied up in illiquid holdings. Managers can often predict a normal rate of withdrawal, but must also be ready to weather a run on the institution if financial conditions change and more investors want to convert their holdings back into cash. Organizations that fail to properly manage their asset-liability can quickly collapse or lose great sums of money if they need to rush to convert illiquid assets into cash at discounted rates.
+The other answers all discuss policies to properly manage the portfolio of the organization. However, none of these are the definition of asset liability management.",Liquid Assets: Liquid assets include cash or other securities that can be quickly converted into cash. Certain commodities such as gold and silver are highly liquid assets that can quickly be exchanged. Securities such as real estate are less liquid and require greater periods of time to sell and convert into cash if required.
+20,A common measure of liquidity is:,the ratio of sales to assets.,dividends per share of common stock.,the accounts receivable turnover.,the profit margin.,C,"The correct answer is option c. the accounts receivable turnover.
+Liquidity measures the ability of a company to convert its assets into cash quickly and meet its short-term obligations. For example, accounts receivable turnover is a financial ratio that assesses how effectively a company collects payments from its customers. A higher turnover ratio indicates better liquidity, showing that the company can quickly manage its receivables.
+Incorrect Options
+a. The ratio of sales to assets:
+This is known as the Asset Turnover Ratio. It measures a company's efficiency in utilizing its assets to generate revenue. It's calculated by dividing the net sales by the average total assets during a specific period. While it provides insight into a company's operational efficiency, it's not a direct measure of liquidity.
+b. Dividends per share of common stock:
+Dividends per share (DPS) is a financial metric that expresses the amount of dividends paid to outstanding shareholders. It represents the portion of a company's earnings distributed to stockholders. This metric relates more to a company's profitability and shareholder returns than liquidity.
+d. The profit margin:
+The profit margin is a financial ratio that measures a company's profitability. It's calculated as the net income divided by total revenue. There are several types of profit margins, such as gross profit margin, operating profit margin, and net profit margin. These ratios offer information about a company's efficiency and profitability, not liquidity.",Ratio Analysis: Ratio analysis is a quantitative method used to evaluate various aspects of a company's financial performance by comparing different financial ratios. These ratios are calculated using the information usually found in a company's financial statements.
+21,"Which of the following is not a measurement of a business's liquidity, solvency, or profitability?",Current ratio,Net Revenue - Current Assets,Gross margin ratio,Debt ratio,B,"The correct answer is option
+b. Net Revenue - Current Assets
+.
+The current ratio is a liquidity ratio that is ascertained by dividing the current assets by the current liabilities. The gross margin ratio is a profitability ratio ascertained by dividing the gross profit by the sales revenue. The debt ratio is a solvency that is computed by dividing the total debt by the total assets.
+There is no metric related to the difference between net revenue and current assets (net revenue - current assets).","Financial Ratios: The financial ratios that are used to analyze different firms in an industry are categorized into solvency ratios, profitability ratios, liquidity ratios, and efficiency ratios. Financial ratios of a firm are usually compared with the industry averages to ascertain the relative performance."
+22,Which of these is not a liquidity ratio?,Asset turnover,Accounts receivable turnover,Inventory turnover,Current ratio,A,"The correct answer is option A. Asset turnover.
+Asset turnover is not a liquidity ratio. An efficiency or activity ratio measures how effectively a company uses its assets to generate sales. On the other hand, liquidity ratios, like the current ratio, measure a company's ability to meet short-term obligations. Accounts receivable and inventory turnover ratios can also be considered activity ratios as they measure how efficiently a company manages its receivables and inventory. So, accounts receivable turnover, inventory turnover, and current ratio are all considered liquidity ratio. The asset turnover is not a liquidity ratio, it is an efficiency ratio.","Financial Ratios: In management accounting, financial ratios help companies assess a company's financial performance over time. They provide insights into profitability, liquidity, solvency, efficiency, and return on investment."
+23,The accounts receivable turnover is computed by dividing the:,net credit sales by average receivables.,net credit sales by ending receivables.,total sales by average receivables.,total sales by ending receivables.,A,"The accounts receivable turnover is computed by dividing the:
+{eq}\begin{align} \frac{\text{Net Credit Sales}}{\text {Average Accounts Receivable}} \end{align} {/eq}
+The accounts receivable turnover is a financial ratio that measures a company's effectiveness in managing and collecting its credit sales from customers. A higher turnover ratio indicates a more efficient credit management and collection process.
+Therefore, the correct answer is option
+a. net credit sales by average receivables.","Financial Ratios: In management accounting, financial ratios are important ratios as it helps the company analyze the result of business operations. It also helps investors logically decide whether to invest in the company."
+24,The current ratio measures _____.,a company's ability to sell its long-term assets.,a company's ability to pay current liabilities from its total assets.,a company's ability to pay current liabilities from current assets.,a company's profitability during a particular period.,C,"The current ratio measures
+c. a company's ability to pay current liabilities from current assets
+.
+Current ratio is used to determine the capability of a business in settling its current liabilities by utilizing its current assets. It is estimated by comparing the current assets and current liabilities of a business.
+The other options are incorrect.
+a. A company's ability to sell its long-term assets
+: The current ratio does not consider long-term assets because it focuses on short-term items only.
+b. A company's ability to pay current liabilities from its total assets
+: The current ratio determines the payment capacity of current liabilities from current assets and not from total assets.
+d. A company's profitability during a particular period
+: The current ratio is a liquidity ratio, not a profitable ratio.","Current Ratio: Current ratio is used to measure the short-term liquidity of a business. A higher value of the ratio is recommended because it ensures timely payment of short-term obligations, indicating sufficient short-term funds."
+25,Which of the following is not an asset management ratio?,The average collection period,An inventory turnover ratio,A price-earnings ratio,A fixed asset turnover ratio,C,"Option c. price-earnings ratio
+is correct.
+The price-earnings ratio, commonly referred to as the ""price-to-earnings or P/E ratio,"" is a financial metric that evaluates the performance of a company relative to its share price. It is computed by dividing the price of a share by earnings (on a per-share basis). This ratio can be viewed as a value indicator, such that a company with a high P/E ratio can be viewed as overvalued and vice versa.
+Other options are incorrect.
+Option a. The average collection period: It is incorrect because the formulation of the ratio involves the inclusion of average receivables, which is a current asset of a company.
+Option b. Inventory turnover ratio: It is incorrect because, as the name suggests, the computation of this ratio factors in the inventory as well, which is a current asset of a company.
+Option d. Fixed asset turnover ratio: This is a financial ratio that measures the revenue-generating ability of the assets employed by a firm. It measures the efficiency of assets employed.","Ratio Analysis: Ratio analysis is a metric used to evaluate a company s financial performance, operational efficiency, solvency, liquidity, and overall position. It uses key variables to logically infer an explanation of the financial position of a company."
+26,The most stringent test of a company's liquidity is its:,cash ratioB. quick ratioC. current ratio,,,,A,"The most stringent test of a company's liquidity is its
+(A.) cash ratio
+.
+The formula associated with a firm's cash ratio can be written as follows:
+{eq}\rm Cash~ratio = \frac{\text{Cash and cash equivalents}}{\text{Current liabilities }} {/eq}
+This means that the cash ratio represents the percentage of current liabilities that can be paid off using cash that is already on hand.
+The quick ratio is the second most stringent and is defined by the following relation:
+{eq}\begin{align} \text{Quick ratio} &= \frac{\text{Current assets - Inventory - Prepaid expenses}}{\text{Current liabilities }} \\ \end{align} {/eq}
+The quick ratio therefore considers current assets like accounts receivable that can be converted to cash promptly to be available as well to cover current liabilities.
+The current ratio is the least strict liquidity ratio because it uses all the current assets, including inventory, to be available to settle current liabilities. Its formula is:
+{eq}\begin{align} \text{Current ratio} &= \frac{\text{Current assets}}{\text{Current liabilities }} \\ \end{align} {/eq}",Liquidity Ratios: A company's liquidity ratios are used to indicate its ability to pay its short-term debts and operating expenses. It is an important financial indicator because poor cash flow and cash management reduce any company's ability to generate returns for investors.
+27,". Darlene Corporation has $300,000 in assets, 30 percent of which are current, and $100,000 in liabilities, 40 percent of which are current. Which of the following is true?",Darlene's current ratio is 3 to 1.,"Darlene's working capital is $200,000.","Darlene's working capital is $50,000.",The current ratio and working capital are measures of a company's profitability.,C,"To answer this question, let's first calculate Darlene Corporation's current assets, current liabilities, current ratio, and working capital.
+For Current Assets
+Current Assets = Total Assets * (Percentage of Current Assets)
+Current Assets = $300,000 * 30%
+Current Assets = $90,000
+So, the total current asset is equivalent to $90,000.
+For Current Liabilities
+Current Liabilities = Total Liabilities * (Percentage of Current Liabilities)
+Current Liabilities = $100,000 * 40%
+Current Liabilities = $40,000
+For current Ratio
+The current ratio is computed as follows.
+{eq}\begin{align} \text{Current Ratio} &= \frac{\text{Total Current Asset}}{\text{Total Current Liabilities}} \\ &= \frac{\$90,000}{\text{\$40,000}} \\ &= 2.25 \end{align} {/eq}
+So, it means that the current ratio is equivalent to 2.25.
+For Working Capital
+Working capital is computed based on the difference between the total current assets and total current liabilities.
+Working Capital = Current Assets - Current Liabilities
+Working Capital = $90,000 - $40,000
+Working Capital = $50,000
+So,
+the total working capital is $50,000.
+Based on the calculations above, the correct answer is:
+c. Darlene's working capital is $50,000.
+Note: The current ratio and working capital are measures of a company's liquidity and short-term financial health, not profitability.","Ratio Analysis: In management accounting, the management uses ratio analysis in evaluating past performance. This analysis can also be used when making benchmarking activities."
+28,"If you wanted to know about a firm's ability to pay off its short-term debts, the types of financial ratios that would be useful in the analysis would be:",market value ratios.,profitability ratios.,debt management ratios.,liquidity ratios.,D,"a. Incorrect. Market value ratios are not relevant to measure the firm's ability to pay off its short-term debt. Instead, market value rations are to evaluate the company's position in the market.
+b. Incorrect. Profitability ratios are to evaluate the firm's ability to generate earnings.
+c. Incorrect. Debt management ratios are to evaluate the company's leverage.
+d.Correct. Liquidity ratios are estimated by dividing the current assets by current liabilities. Hence, these ratios are appropriate to measure the company's ability to cover its short-term debt with its short-term assets.","Financial Ratios: Financial ratios are calculated according to a company's financial statements. An analysis of financial ratios is useful if all financials are reported accurately. Alternatively, the transparency of financial statements should be evaluated before conducting a financial ratios analysis."
+,,,,,,,,
+30,The gross margin percentage is most likely to be used to assess:,how quickly inventories are sold.,the overall profitability of the company's products.,the efficiency of administrative departments.,how quickly accounts receivable can be collected.,B,"The correct option is B) the overall profitability of the company's products.
+Recall that the gross margin percentage is calculated using this formula:
+{eq}\begin{align} \text{Gross margin percentage} &= \frac{\text{Gross profit}}{\text{Net sales }} \\ \\ \end{align} {/eq}
+Gross profit is the difference between sales revenue and the cost of goods sold.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A) how quickly inventories are sold.
+The inventory turnover ratio indicates how quickly inventories are sold.
+B) the overall profitability of the company's products.
+This is the correct alternative because the gross margin percentage represents the gross profit the company earned from each sales dollar. It measures the overall product markup that the company attained during a period.
+C) the efficiency of administrative departments.
+The gross margin percentage is influenced by sales and the cost of goods sold expense. Administrative costs do not affect the ratio, and it does not measure departmental performance.
+D) how quickly accounts receivable can be collected.
+The receivables turnover ratio shows how quickly accounts receivable are collected.","Financial Ratios: Financial ratios help users to make sense of financial statements. Financial ratios interpret a company's profitability, efficiency, liquidity, and solvency. Ratios are most useful when compared to benchmarks."
+31,"A balance sheet shows cash, $75,000; marketable securities, $110,000; receivables, $90,000; and $225,000 of inventories. Current liabilities are $200,000. The current ratio is 1.375 to 1.",TRUE,FALSE,,,B,"The statament is
+b. False
+.
+The formula to determine the current ratio is to divide the current assets by the current liabilities. The total value of current assets is as follows:
+Current assets = Cash + Marketable securities + Receivables + Inventories
+Current assets = $75,000 + $110,000 + $90,000 + $225,000
+Current assets = $500,000
+The current ratio is computed as shown below:
+{eq}\text{Current ratio} = \dfrac{\text{Current assets}}{\text{Current liabilities}} = \dfrac{\$500,000}{\$200,000} = 2.5 {/eq}
+For every 1 current liability, there is an available of 2.5 current assets to pay it off.
+The statement is false as the current ratio is 2.5 to 1.","Current Assets: Current assets become cash in one year or less and current liabilities need settlement within one year. Current assets and current liabilities provide insight into the company's cash position, which helps decision-making on various financial aspects of the business."
+32,"Net sales are $2,000,000, cost of goods sold is $960,000, and average inventory is $30,000. How many days sales are in inventory?",12.2,66.7,11.4,2.6,C,"In general, the days' sales in inventory is calculated by dividing the average inventory by the cost of goods sold (COGS) and then multiplying by the number of days in the period in question (this is most often 365 days, because there are 365 days in a year, and this is the most common period length):
+$$\text{Days' Sales in Inventory} = \frac{\text{Average Inventory}}{\text{Cost of Goods Sold}} \times \text{Number of Days in Period} $$
+This calculation tells us the average number of days it takes for a company to sell its inventory over a given period of time.
+We want to determine the days' sales in inventory for the scenario provided in the question. The problem provides the following information needed to implement our formula:
+Average Inventory = $30,000
+Cost of Goods Sold (COGS) = $960,000
+Since a period is not specified, we can assume it is a year. Hence, the number of days in our period is 365.
+Plugging these values into our formula and evaluating, we get the following:
+$$\begin{align} \text{Days' Sales in Inventory} &= \frac{\text{Average Inventory}}{\text{Cost of Goods Sold}} \times \text{Number of Days in Period}\\[0.3cm] &= \frac{\$30,000}{\text{\$960,000}} \times 365\\[0.3cm] &= \text{11.40625 days} \end{align} $$
+Rounding to one decimal place, we have that the company takes about
+11.4 days
+on average to sell its inventory. Therefore,
+the correct answer is option C) 11.4.","Financial Ratios: In management accounting, financial ratios are tools that can be used to highlight the strengths and weaknesses of a company's financial position. The values of these ratios can be particularly useful for investors and creditors."
+33,Which of these is not a liquidity ratio?,Accounts receivable turnover.,Inventory turnover.,Current ratio.,Asset turnover.,D,"The correct answer is
+d. Asset turnover
+.
+Liquidity ratios are useful in determining if the business is settling its current obligations easily or not. These ratios include the current ratio, quick ratio, and cash ratio.
+Options
+Reasoning
+a. Accounts receivable turnover.
+Accounts receivable are current assets, and the times a company converts credit sales into cash indicates its cash position, also liquidity.
+b. Inventory turnover.
+Inventory is a current asset, and the times a company converts its inventory into sales indicates its cash position, also liquidity.
+c. Current ratio.
+Current ratio is a liquidity ratio, as discussed above.
+d. Asset turnover.
+Assets turnover computation uses the fixed assets and sales revenue, where fixed assets are not liquid. It is an efficiency ratio that comments on the usage of fixed assets in creating revenue in an efficient manner.","Assets: Assets are classified as short-term and long-term based on how quickly they can become cash. The long-term assets are operating assets that generate income for the business, and short-term assets are used to pay off the current obligations."
+34,"Tressler Dry Cleaners has an inventory of $1,700, accounts payable of $4,200, cash of $1,950, and accounts receivable of $3,680.",0.24,0.46,0.53,0.98,B,"Cash equivalents are those securities that have high liquidity with features such as less risk of fluctuation, short-term periods, etc. Some examples of cash equivalents are t-bills, marketable securities, etc.
+On the balance sheet, inventory and accounts receivable are listed as current assets but they are not taken into consideration for calculating the cash ratio.
+Given information:
+Cash= $1950
+Accounts payable=$4,200
+Determine the cash ratio as shown below:
+{eq}\begin{aligned} \text{Cash ratio} &=\frac{\text{Cash}}{\text{Total current liabilities}} \\ &=\frac{\$1,950}{\$4,200} \\ &=0.46 \end{aligned} {/eq}
+The cash ratio is 0.46. Thus, the correct answer is
+option b. 0.46.","Cash Ratio: The cash ratio aids in comparing the most liquid assets, such as cash and cash equivalents, against their current liabilities. The cash ratio is calculated to assess a firm's ability to fulfill its short-term commitments."
+35,Financial information is presented below:,0.96.,0.04.,0.20.,0.80.,B,"The correct answer is
+B. 0.04
+.
+The health of a company's total finances is ascertained using profit margin ratios. A company's profit margin is an indicator of how much money it is generating on its goods or services after all direct and indirect costs have been deducted.
+Given information:
+Operating expenses = $32,000
+Sales revenue = $205,000
+Cost of goods sold = $165,000
+Determine the operating income.
+{eq}\begin{aligned} \text{Operating Income} &=\text{Sales Revenue}-\text{Cost of Goods Sold}-\text{Operating Expenses} \\ &=\$205,000-\$165,000-\$32,000 \\ &=\$8,000 \end{aligned} {/eq}
+Determine the profit margin ratio.
+{eq}\begin{aligned} \text{Profit Margin Ratio}&=\frac{\text{Operating Income}}{\text{Sales Revenue}} \\ &=\frac{\$8,000}{\$205,000} \\ &=0.04 \end{aligned} {/eq}","Accounting Ratio: Accounting ratios are comparisons of two or more financial data points that are used to examine a company's financial accounts. It is a powerful instrument used by creditors, shareholders, and other types of stakeholders to comprehend the financial health, strength, and profitability of businesses."
+36,Working capital is another term for the current ratio.,TRUE,FALSE,,,B,"The given statement is
+(b.) False.
+The working capital and current ratio are two different terms with different meanings.
+The working capital is the difference between the total current assets and total current liabilities of the business.
+{eq}\text{Working Capital} = \text{Current Assets} - \text{Current Liabilities} {/eq}
+Whereas the current ratio is calculated by dividing total current assets by total current liabilities.
+{eq}\text{Current Ratio} = \dfrac{\text{Current Assets}}{\text{Current Liabilities}} {/eq}",Current Ratio: The current ratio is the most common liquidity ratio of the business. It shows the relationship between the total current assets and total current liabilities of the business.
+37,"If accounts receivable stays the same, and credit sales go up:",The average collection period will go up.,The average collection period will go down.,Accounts receivable turnover will decrease.,b. and c.,B,"The correct answer is
+b. The average collection period will go down.
+The average collection period is calculated as 365 divided by the accounts receivable turnover ratio. So, it can be said that the average collection period has an inverse relationship with the accounts receivable turnover ratio.
+On the other hand, the accounts receivable turnover ratio is the ratio of credit sales and average accounts receivable. So, if credit sales go up and accounts receivable stay the same, the accounts receivable turnover ratio increases because credit sale is the numerator of the ratio. Due to this increase in the accounts receivable turnover ratio, the average collection period is reduced (owing to the inverse relationship with accounts receivable turnover).
+The other options are incorrect.
+a. The average collection period will go up: The average collection period goes up if accounts receivable turnover decreases. However, here, the accounts receivable remain the same, and credit sales increase. So, the accounts receivable turnover increases.
+c. Accounts receivable turnover will decrease: Accounts receivable turnover decreases when credit sales go down or average creditors increase.
+d. b. and c: Since option c is incorrect, this option is incorrect as well.","Ratio Analysis: Ratio analysis is a mathematical method for examining the balance sheet and income statement of a business to learn more about its liquidity, efficiency, and profitability. Ratio analysis serves as the foundation for basic equity research."
+38,"A company has assets totaling $128,625, liabilities totaling $67,980, and net income for the period totaling $ $74,000. Calculate the return on assets.",27%,92%,58%,74%,C,"The company's return on assets (ROA) is
+(C) 58%
+.
+Given data,
+Total assets = $128,625
+Total Liabilities = $67,980
+Net Income = $74,000
+The return on assets (ROA) of the company is calculated as follows:
+{eq}\begin{align*} ROA &=\dfrac{Net\ Income}{Total\ assets}\\ &=\dfrac{74,000}{128,625}\\ &=0.57531584\\ &=57.53\%\\ \end{align*} {/eq}
+The given company's return on assets is 58% (rounded off).",Return on Assets (ROA): The return on assets is a financial ratio that shows how the asset class is performing in income generation. It is calculated by dividing the net income by the average total assets.
+39,"ABC Corporation had total quick assets of $6,700,000, current assets of $12,000,000, and current liabilities of $8,500,000. Its acid-test ratio equals:",0.56,1.56,2.2,0.79,D,"The correct option is
+option d. 0.79.
+Given information:
+Quick assets = $6,700,000
+Current assets= $12,000,000
+Current liabilities = $8,500,000
+Quick assets are used for computing quick ratios. It is classified as a subset of current assets, excluding inventory, which is transformed quickly into cash.
+Determine the quick ratio by dividing quick assets by current liabilities:
+{eq}\begin{aligned} \text{Quick ratio} &=\frac{\text{Quick assets}}{\text{Current liabilities}} \\ &=\frac{\$6,700,000}{\$8,500,000} \\ &=0.7882\ \text{or}\ 0.79 \end{aligned} {/eq}
+Thus, the quick ratio is 0.79.","Quick Ratio: The quick ratio measures a business's short-term liquidity position. It also aids in assessing its capacity to pay short-term commitments with its most liquid assets, such as cash, marketable securities, accounts receivable, etc. It is also called the acid-test ratio."
+40,Which ratios would you not use to assess the capital gearing of an enterprise?,Interest cover ratio,Asset turnover,Debt-to-equity ratio,Long-term debt to assets,B,"The correct answer is
+B) Asset turnover
+.
+The asset turnover ratio is not a capital gearing ratio but rather an efficiency ratio, which shows how efficiently a company uses its economic resources (total assets) to create revenues. Let's see the formula to get some clarity:
+{eq}\text{Asset Turnover} = \dfrac{\text{Sales Revenue}}{\text{Total Assets}} {/eq}
+Capital gearing ratios measure the proportion of a company's long-term debt to equity. Gearing ratios analyze how much of the company's operations are funded using debt and the funds raised by issuing equity. These ratios should be compared with other companies in the same industry to make more sense.
+Let's see the capital gearing ratios:
+{eq}\text{Interest coverage Ratio} = \dfrac{\text{Earnings before interest and taxes}}{\text{Interest Expense}} {/eq}
+The ratio counts the times a company's operating income exceeds its interest costs.
+{eq}\text{Debt-to-equity ratio} = \dfrac{\text{Debt}}{\text{Equity}} {/eq}
+The ratio determines the portion of debt a company has compared to equity.
+{eq}\text{Long-term debt to assets ratio} = \dfrac{\text{Long-term Debt}}{\text{Total Assets}} {/eq}
+The ratio indicates the percentage of total assets acquired using long-term debt securities.
+{eq}\text{Debt ratio} = \dfrac{\text{Total Debt}}{\text{Total Assets}} {/eq}
+The ratio indicates the percentage of total assets acquired using total debt.","Leverage: Leverage indicates debt in a company's capital structure, and highly geared capital is when the company has to pay more interest because of huge debt dependence. Low-geared capital is when the company pays less dividends and interest."
+41,"Calculate the Inventory Days on hand, assuming:",365 Days,4 Days,91 Days,50 Days,C,"The correct answer is
+option c. 91 Days.
+Given information:
+Sales = $400,000
+Gross Margin = 50%
+Opening Inventory = $40,000
+Closing Inventory = $60,000
+A financial metric called Inventory Days on Hand measures the quantum of days a business will take to sell its inventory. It measures how effectively a business manages its inventory.
+Step 1: Determine the cost of goods sold as follows:
+{eq}\begin{aligned} \text{Cost of goods sold} &=\text{Sales}-\text{Gross profit} \\ &=\$400,000-\left( 50\%\times \$400,000 \right) \\ &=\$400,000-\$200,000 \\ &=\$200,000 \end{aligned} {/eq}
+Step 2: Determine the average inventory as follows:
+{eq}\begin{aligned} \text{Average inventory} &=\frac{\text{Beginning inventory}+\text{Closing inventory}}{2} \\ &=\frac{\$40,000+\$60,000}{2} \\ &=\$50,000 \end{aligned} {/eq}
+Step 3: Determine the inventory days on hand as follows:
+{eq}\begin{aligned} \text{Inventory days on hand} &=\frac{\text{Average inventory}}{\text{Cost of goods sold}}\times \text{Number of days in a year} \\ &=\frac{\$50,000}{\$200,000}\times 365 \\ &=0.25\times 365 \\ &=91.25\ \text{or}\ 91 \end{aligned} {/eq}
+Thus, the inventory days on hand is 91 days.","Inventory: All the items that a business keeps on hand for production or sales to generate profit are referred to as inventory. There are three categories of inventory: raw materials, works-in-progress, and finished goods."
+42,"The more debt is successfully used to expand the business, the greater the improvement in return on equity compared to return on assets will be.",TRUE,FALSE,,,B,"False
+Debt can be used to leverage an organization's equity for a higher return on equity (ROE), but it also raises the organization's financial risk and lowers its return on assets (ROA). A company's net income and return on assets both suffer when it takes on debt and must make interest payments.
+Debt can be used to fund business expansion, which can boost ROE, but it can also reduce ROA and raise financial risk. A company's debt levels should be managed with caution to ensure a reasonable return on investment.",Debt: Debt is the loan taken by the company for various financial purposes. The company has to pay it back in a certain time period with interest. Interest is a source of revenue for the banks.
+43,Which of the following is TRUE of the current ratio?,"The more predictable a firm's current ratio, the higher the current liabilities.",A higher current ratio indicates a greater degree of liquidity.,A higher current ratio indicates a higher return on equity.,"The more predictable a firm's cash flows, the higher the acceptable current ratio.",B,"a. Incorrect. The current ratio is estimated by the current position of current assets and current liabilities, which is to evaluate the firm's liquidity today. The predicted current ratio might be less meaningful for a liquidity analysis since future cash flows are not certain.
+b. Correct. A high current ratio indicates that the firm can sell its current assets to pay for short-term debt. If this ratio is greater than 1, it implies strong liquidity.
+c. Incorrect. The current ratio and return on equity will not have a direct relationship.
+d. Incorrect. The current ratio and cash flows have no direct relationship.",Current Ratio: A company's current ratio is a financial ratio to measure its short-term liquidity. This ratio is estimated by dividing the total current assets by the total current liabilities. The relevance of this ratio is subject to the accuracy of the financial statements.
+44,Which of the following may cause a change in profit margin?,Change in sales volume.,Change in unit selling price.,Change in cost per unit.,All of the above.,D,"The correct answer is option
+d. All of the above
+.
+The profit margin of a firm is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Profit}}{\text{Sales revenue}} \\[0.3 cm] &= \dfrac{\text{(Selling price per unit - cost per unit) * sales volume}}{\text{Selling price per unit * sales volume}} \\[0.3 cm] \end{align*} {/eq}
+From the above formula, it is clear that the profit margin will change with changes in factors like selling price per unit, cost per unit, and sales volume.","Profitability Ratios: Profitability ratios are financial ratios used to analyze the profitability of a firm. Examples of these ratios are profit margin, return on equity, return on assets, and earnings per share."
+45,"If the profit margin ratio is 0.05 and the net income is 5, then net sales are",60,80,100,120,C,"The correct answer is option C) 100.
+To calculate the net sales, we can use the profit margin ratio formula:
+{eq}\begin{align} \text{Profit Margin Ratio} &= \frac{\text{Net Income}}{\text{Net Sales}} \\ \end{align} {/eq}
+We can rearrange the above formula to solve for net sales as follows:
+{eq}\begin{align} \text{Net Sales} &= \frac{\text{Net Income}}{\text{Profit Margin Ratio}} \\ \end{align} {/eq}
+Given that the profit margin ratio is 0.05 and the net income is 5, we can substitute these values into the formula:
+{eq}\begin{align} \text{Net Sales} &= \frac{\text{Net Income}}{\text{Profit Margin Ratio}} \\ &= \frac{\$5}{\text{0.05}} \\ &= $100 \end{align} {/eq}
+Therefore,
+the net sales would be 100.","Financial Ratios: In management accounting, financial ratios are accounting ratios that help make valuable business decisions. These ratios can be profitability ratios, longevity ratios, etc."
+,,,,,,,,
+47,Assume the following data:,4.7,5,14,7,B,"The answer is
+b. 5.
+Given information:
+EBIT = 100
+Interest expense = 20
+Estimate the firm's times interest earned ratio (TIE):
+{eq}\text{TIE} = \displaystyle \frac{\text{EBIT}}{\text{Interest expense}} \\ \text{TIE} = \displaystyle \frac{\$100}{\$20} \\ \text{TIE} = \displaystyle 5 {/eq}","Times Interest Earned Ratio: The times interest earned ratio is a financial ratio to measure the firm's ability to repay its financing cost by its operating income (EBIT). Hence, this ratio is computed by dividing the firm's earnings before interest and taxes (EBIT) by total interest expense."
+48,Which of the following is not a measure of a company's liquidity?,accounts receivable turnover,return on equity,quick ratio,cash flow ratio,B,"b. return on equity
+is not a measure of a company's liquidity. Return on equity is the net income divided by the total equity. It is a
+profitability ratio
+, not a liquidity ratio because it represents the net income earned for each dollar of stockholders' equity. Liquidity ratios are ratios that analyze a company's cash position and its ability to meet its short-term commitments.
+The other options are all examples of liquidity ratios because they are all related to cash and cash management:
+a. The accounts receivable turnover measures how many times a year the company collects all its accounts receivable in cash.
+c. The quick ratio compares the quick assets (cash and accounts receivable) with the total current liabilities.
+d. The cash flow ratio compares the operating cash flow for a period to the balance of all current liabilities at the end of the period.","Financial Ratios: Financial ratios are used to interpret company financial statements. Various classes of ratios are calculated to gain an understanding of a company's performance and its financial position. These include profitability, liquidity, and solvency ratios."
+49,"If a company has current assets of $15,000 and current liabilities of $9,500, its current ratio is 1.6.",TRUE,FALSE,,,A,"The given statement is
+(a) True.
+Given that -
+Current Asset = $15,000
+Current Liabilities = $9,500
+{eq}\begin{align} \text{Current Ratio} &= \dfrac{\text{Current Assets}}{\text{Current Liabilities}}\\ &= \dfrac{\$15,000}{\$9,500}\\ &= 1.58\\ &= \text{1.60 (approx.)}\\ \end{align} {/eq}",Current Ratio: The current ratio is the most common liquidity ratio. It shows the relationship between the current assets and current liabilities of the business.
+50,Financial ratios may not help in which of the following situations?,Comparing the firm's performance against its peers.,Measuring the firm's morale.,Comparing the efficiency of different teams within the firm.,Measuring the firm's performance through time.,B,"The correct answer is
+option b. Measuring the firm's morale.
+Firm morale, being a non-financial factor, cannot be directly measured through financial ratios. It comprises the overall emotional well-being, motivation, and job satisfaction of employees within a firm. It is a subjective concept. A combination of measures such as employee surveys, employee turnover and retention ratios, feedback, performance appraisals, and other engagement activities can be used to measure a firm's morale.
+The other options are incorrect because:
+Option a: Comparing the firm's performance against its peers: Financial ratios are valuable tools for comparing a firm's performance with that of its competitors. By examining key ratios, such as the net profit margin, a firm can assess its relative profitability in comparison to its industry peers. For instance, a firm has a net profit margin of 15 percent and its competitor achieves 18 percent. This comparison prompts the firm to investigate the factors contributing to its lower margins. It enables the firm to identify areas for improvement and take appropriate actions to enhance profitability.
+Option c: Comparing the efficiency of different teams within the firm: Financial ratios can also be utilized to evaluate the efficiency of different departments within the same firm. For instance, consider a firm with two divisions: one responsible for producing biscuits and the other for producing beverages. By examining the inventory turnover ratio, which is 5 times for the biscuit division and 2 times for the beverage division, a comparison can be made. This analysis helps the firm identify areas of inefficiency within the beverage division, allowing for targeted improvements to enhance its inventory management and overall operational efficiency.
+Option d: Measuring the firm's performance through time: Financial ratios are instrumental in comparing a firm's financial performance across different periods. By examining changes in ratios, such as return on equity (ROE), a firm can gain insights into its progress over time. For instance, the ROE of a firm was 10 percent last year and has increased to 12 percent this year. This analysis enables the firm to identify the factors contributing to its improved performance.",Performance Appraisal: Performance appraisal is a process that measures and evaluates an employee's work performance and contribution to their organization. It is undertaken to make decisions regarding the promotion or training needs of employees.
+51,The return on average common stockholders' equity equals net income available to common stockholders divided by average common stockholders' equity.,TRUE,FALSE,,,A,"The correct answer is option a. True.
+The return on average common stockholders' equity (ROE) is a financial metric that measures the profitability of a company relative to the equity held by common stockholders. It is calculated by dividing the net income available to common stockholders by the average common stockholders' equity:
+{eq}\begin{align} \text{Return on Average Common Stockholders' Equity (ROE)} &= \frac{\text{Net Income Available to Common Stockholders }}{\text{Average Common Stockholders' Equity}} \\ \end{align} {/eq}","Ratio Application: In management accounting, the term ""ratio application"" refers to the use of financial ratios to analyze and evaluate a company's financial performance, position, and efficiency."
+52,"Assume that Company A does not have any prepaid expenses on its balance sheet. If the Current Ratio is 1 and the Quick Ratio is 0.8, inventory equals 20% of current liabilities.",TRUE,FALSE,,,A,"The given statement is
+(a) True.
+The current ratio is equal to 1.
+{eq}\text{Current Ratio} = \dfrac{\text{Current Assets}}{\text{Current Liabilities}} {/eq}
+{eq}\dfrac{\text{Current Assets}}{\text{Current Liabilities}} = 1\\ \text{Current Assets} = \text{Current Liabilities} ------ (1) {/eq}
+The quick ratio is equal to 0.8.
+{eq}\text{Quick Ratio} = \dfrac{\text{Current Assets - Inventories}}{\text{Current Liabilities}} {/eq}
+{eq}\dfrac{\text{Current Assets - Inventories}}{\text{Current Liabilities}} = 0.8\\ \text{Current Assets - Inventories} = 0.8 \times \text{Current Liabilities}\\ \text{Putting the value of current assets as per equation 1}\\ \text{Current Liabilities - Inventories} = 0.8 \times \text{Current Liabilities}\\ \text{Inventories} = \text{Current Liabilities} - 0.8 \times \text{Current Liabilities}\\ \text{Inventories} = 0.2 \times \text{Current Liabilities}\\ {/eq}",Liquidity Ratio: Liquidity ratios show the business's ability to pay off its short-term obligations. The current ratio and quick ratio are examples of liquidity ratios.
+53,"A company has net working capital of $0, current liabilities of $25, and total assets equal to $100. What is its current ratio?",0,1,0.5,4,B,"The correct answer is option
+b. 1
+.
+The value of current assets is computed as:
+{eq}\begin{align*} &= \text{Net working capital + current liabilities} \\[0.3 cm] &= $0 + $25 \\[0.3 cm] &= $25 \end{align*} {/eq}
+The value of the current ratio is computed by:
+{eq}\begin{align*} &= \dfrac{\text{Current assets}}{\text{Current liabilities}} \\[0.3 cm] &= \dfrac{\$25}{\$25} \\[0.3 cm] &= 1 \end{align*} {/eq}","Current Ratio: The metrics used to understand the liquidity of a firm are the current ratio, quick ratio, and net working capital. All these ratio consider items listed under the current assets and current liabilities sections of a balance sheet."

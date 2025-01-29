@@ -1,0 +1,542 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"A trial balance has total debits of $20,000 and total credits of $24,500. Which one of the following errors would create this imbalance?","A $2,250 credit to Consulting Fees Earned in a journal entry is incorrectly posted to the ledger as a $2,250 debit, leaving the Consulting Fees Earned account with a $6,300 credit balance.b. A $4,500 debit to Salaries Expense in a journal entry is incorrectly posted to the ledger as a $4,500 credit, leaving the Salaries Expense account with a $750 debit balance.c. A $2,250 debit to Rent Expense in a journal entry is incorrectly posted to the ledger as a $2,250 credit, leaving the Rent Expense account with a $3,000 debit balance.d. A $2,250 debit posting to Accounts Receivable was posted mistakenly to Cash.e. A $4,500 debit posting to Equipment was posted mistakenly to Supplies.",,,,C,"The correct option is
+(c.) A $2,250 debit to Rent Expense in a journal entry is incorrectly posted to the ledger as a $2,250 credit.
+The balance of the Rent Expense should have been $3,000 + $2,250 for the missing debit entry and + $2,250 to remove the incorrect credit entry = $7,500. If the correct balance ($7,500) is recorded on the trial balance is recorded on the trial balance instead of the incorrect balance of $3,000, the total debits will change to $24,500 and the trial balance will balance.
+The other answers are incorrect:
+a. A $2,250 credit to Consulting Fees Earned in a journal entry is incorrectly posted to the ledger as a $2,250 debit, leaving the Consulting Fees Earned account with a $6,300 credit balance.
+The error caused the balance to decrease by double the amount of the entry because a credit entry was missing and an incorrect debit entry decreased the account balance. The correct balance for Consulting Fees Earned is $6,300 + $2,250 + $2,250 = $10,800. Correcting the mistake would increase the total credits to $29,000, and the trial balance would still not balance.
+b. A $4,500 debit to Salaries Expense in a journal entry is incorrectly posted to the ledger as a $4,500 credit, leaving the Salaries Expense account with a $750 debit balance.
+The correct amount for Salaries is $750 + $4,500 + $4,500 = $9,750. If this is corrected on the trial balance, the total debits would be $29,000 so the trial balance would still not balance.
+d. A $2,250 debit posting to Accounts Receivable was posted mistakenly to Cash.
+The trial balance will balance as long as all debit postings were posted for the correct amount to the debit side. In this case, the Accounts Receivable and Cash account balance will be wrong, but the trial balance will be in balance.
+e. A $4,500 debit posting to Equipment was posted mistakenly to Supplies.
+The trial balance will balance because equal debits and credits were posted. The balances of the Equipment and Supplies accounts would be wrong because of the posting error.
+f. An entry debiting Cash and crediting Notes Payable for $4,500 was mistakenly not posted.
+This trial balance will balance because both the debit and credit entries were omitted. The balances of the Cash and Notes Payable accounts would, however, be wrong.",Trial Balance: A trial balance is prepared for internal use only. It is prepared at various stages of the accounting cycle to summarize the general ledger account balances and to reveal errors made in transaction processing.
+2,"Under IFRS, the unrealized loss on trading investments should be reported:","as part of other comprehensive loss, reducing net income.","on the income statement, reducing net income.","as part of other comprehensive loss, not affecting net income.","directly to stockholders' equity, bypassing the income statement.",B,"Under IFRS, the unrealized loss on trading investments should be reported b. on the income statement, reducing net income.
+The following table explores each answer option and explains the right and wrong answers with reasons.
+a. as part of other comprehensive loss, reducing net income.
+Other comprehensive gains and losses do not affect net income.
+b. on the income statement, reducing net income.
+This is the correct alternative because unrealized gains and losses on trading investments are not part of other comprehensive income. Instead, they are reported in the non-operating section of the balance sheet, separately from realized gains and losses.
+c. as part of other comprehensive loss, not affecting net income.
+This is true for available-for-sale investments, not trading investments.
+d. directly to stockholders' equity, bypassing the income statement.
+Only dividends are reported directly in stockholders' equity. Gains and losses always affect the income statement or the statement of other comprehensive income.","Trading Investments: Trading investments are investments in the stocks and bonds of other companies that the company holds to sell in the short term. Companies buy trading investments to profit from short-term market movements, not long-term capital growth."
+3,Which one of the following is a source of equity?,Notes payable,Accounts payable,Land,Contributed capital,D,"The correct answer is
+d. Contributed capital
+.
+Contributed capital consists of two components:
+Stock's par value
+Stock premium or discount resulting from the sale of stock at a premium or discount reflected in the ""additional paid-in capital"" account.
+The contributed capital is the primary source of equity, usually raised to make long-term investments.
+A brief explanation of each incorrect option is provided in the table below:
+Answer Options
+Explanation
+a. Notes payable
+It is a liability resulting from borrowing cash against a note.
+b. Accounts payable
+It is a liability resulting from the credit purchase of goods.
+c. Land
+It is an asset resulting from capital spending.",Stockholders: Stockholders are investors or entities that own shares in a company's stock. They have voting rights in business decisions and are rewarded with dividends (out of retained earnings).
+4,All of the following are the external users of the financial statements except:,Company's Managers.,Investors.,Suppliers.,Customers.,A,"Internal users of financial statements are people who are part of the business organization and use these statements. Meanwhile, external users of financial statements are the people outside the business organization or the people who are not part of the business entity and also use these financial statements. Examples of internal users are the employees and the company's managers, while examples of external users are the investors, lenders, regulators, customers, and suppliers. Three of the given options, which are investors, suppliers, and customers, are external users. So, the only users that are not external among the options are the company's managers, who are internal users.
+Thus, option a. Company's Managers is the answer.","Users of Financial Statements: Financial statements, such as the income statement and the balance sheet, are crucial in businesses as they show the financial health of a company and can help in making important business decisions. The users of these financial statements can be categorized into internal users and external users."
+5,"The balance sheet of United Studios at December 31 showed assets of $30,000 and shareholders equity of $20,000. What were the liabilities at December 31?","$30,000","$10,000","$20,000",$50.000,B,"The correct answer is
+b. $10,000
+.
+Given information:
+Assets = $30,000
+Shareholders' equity = $20,000
+The calculation of liabilities using the accounting equation which states that the total assets equate to the sum of stockholders' equity and liabilities is as follows:
+{eq}\begin{aligned} \text{Total}\ \text{assets} &=\text{Shareholders }\!\!'\!\!\text{ equity}+\text{Total liabilities} \\ \$30,000 &=\$20,000+\text{Total liabilities} \\ \text{Total liabilities} &=\$30,000-\$20,000 \\ &=\$10,000 \end{aligned} {/eq}
+The liabilities on December 31 are
+$10,000
+.","Accounting Equation: The accounting equation is the basis for determining and analyzing the balance sheet follows the double-entry bookkeeping, which includes the display and evaluation of all accounting entries."
+6,The term revenue can best be described as the:,cash received from selling goods and serving customers during a given accounting period.,selling price of goods and services rendered to customers during a given accounting period.,net increase in owners' equity during a given period.,bottom line in the income statement.,B,"The correct answer is
+b. selling price of goods and services rendered to customers during a given accounting period.
+Revenue is the top line of the income statement, It reflects the amount of goods and services rendered to customers during a given accounting period. All expenses of the given accounting period are subtracted from revenue to arrive at the net income.
+Explanation for incorrect options
+The cash received from selling goods and serving customers during a given accounting period is the cash collection from customers; hence option (a) is incorrect.
+The net increase in owners' equity during a given period is the change in owner's equity; hence option (c) is incorrect.
+The bottom line in the income statement is the net income; hence option (d) is incorrect,","Income Statement: The income statement of the financial statements along with the balance sheet, statement of cash flows, and the statement of changes in equity. The income statement shows all the revenue and expenses of the business for the given period."
+7,Determine the financial statement on which retained earnings may appear.,income statement,balance sheet,both the income statement and the balance sheet,neither the income statement nor the balance sheet,B,"Retained earnings may appear on the
+b. balance sheet
+Retained earnings are presented on the balance sheet under the stockholders' equity section. It represents the total accumulated net income over the company's lifetime minus dividends paid to shareholders. The movements in retained earnings for the reporting period are presented in the statement of changes in stockholders' equity.
+In the Income Statement, expenses are deducted from revenue to calculate the net income for the period. This net income is then carried forward to the statement of changes in stockholders' equity, specifically to the retained earnings column. Retained Earnings are not presented on the income statement.","Financial Statements: The annual financial statements companies prepare for external use indicate different aspects of the issuer's financial situation. The income statement reports the results of the company's operations, the balance sheet shows its financial position and the statement of cash flow shows its cash flows for the reporting period."
+8,A common-size analysis of the balance sheet is most likely to signal investors that the company:,has increased sales.,is using assets efficiently.,is becoming more leveraged.,,C,"The correct answer is
+c. is becoming more leveraged.
+In the common-size analysis of the balance sheet, every line item is expressed as a percentage of total assets. Financial leverage indicates the extent to which a company uses debt to finance its assets, and this is precisely what the total liabilities line in the common-sized balance sheet will report; investors can then compare this value of the current and prior period to conclude whether the company is becoming more leveraged.
+The other answer choices are incorrect.
+a. has increased sales. The common-sized
+income statement
+, not the balance sheet, will indicate if sales revenue has increased.
+b. is using assets efficiently. Efficiency ratios like return on total assets or return indicate whether the company uses its assets efficiently, not common-sized financial statements.","Common-Size Analysis: Financial statements include much information, and investors and analysts must interpret this information to draw appropriate conclusions. Common-sized analysis is used to dissect financial statements and identify trends and issues."
+9,Determine the financial statement on which depreciation expense would appear.,income statement,balance sheet,both the income statement and the balance sheet,neither the income statement nor the balance sheet,A,"The depreciation expense would appear on the
+a. income statement
+The income statement is the financial statement in which the revenues and expenses for a period are listed, and the net income is calculated. The income statement starts with the revenue and the cost of goods sold expense is deducted to find the gross profit. Then, the operating expenses are deducted to find the net operating income. Depreciation is typically one of the operating expenses.
+Option b. is incorrect because expenses are not presented on the balance sheet. The related contra-asset account called Accumulated Depreciation shows the carrying amount of property, plant, and equipment on the balance sheet.","Financial Statements: A company's financial statements are designed to give users a complete picture of the results of a company's operations, its cash flows for the reporting period, and its financial position at the end of the reporting period."
+10,Which of the following is a financial statement produced by companies?,Assessment sheet,Statement of cash flows,Statement of gross Income,Expense statement,B,"The correct option is b. Statement of cash flows.
+The annual financial statements of a company consist of the :
+Income statement in which the revenues and expenses for the period are reported.
+The balance sheet in which the assets, liabilities, and stockholders' equity account balance on the reporting date are presented.
+The statement of cash flow in which the cash flows are summarized in three sections.
+Notes to the financial statements in which accounting policies are described and more details amount the amounts in the other statements are given.
+The assessment sheet, statement of gross income, expense statement, and tax statement are not statements prepared for external use.",Company Financial Statements: Publically-traded and large private companies are obliged to prepare and publish annual financial statements for public use. The aim of these financial statements is to provide investors and other stakeholders with complete and relevant information.
+11,The balance sheet should be prepared:,before the income statement and the statement of owner's equityb. before the income statement and after the statement of owner's equityc. after the income statement and the statement of owner's equityd. after the income statement and before the statement of owner's equity,,,,C,"The balance sheet should be prepared
+(c.) after the income statement and the statement of owner's equity.
+The balance sheet is prepared after the income statement because the net income from the income statement is carried over to the statement of owner's equity. It's prepared after the statement of owner's equity because the ending balance for owner's capital that is calculated in the statement of owner's capital is used in the balance sheet.
+The other options are wrong because the balance sheet cannot be prepared before the ending owner's capital balance has been calculated in the statement of owner's equity. The ending owner's capital balance cannot be calculated before the net income has been determined in the income statement.",Balance Sheet: The balance sheet is also called the statement of financial position. It is the financial statement that presents a snapshot of the assets and liabilities of a company. Balance sheet accounts are usually carried at cost.
+12,A company's profitability for a period would best be evaluated using the:,Balance sheet.,Income statement.,Cash flow statement.,,B,"The correct answer is
+B. Income statement.
+An income statement includes the revenues and expenses of a business for a specific timeframe. The difference between the two helps identify the profit earned or loss suffered by the business. So, an income statement helps in determining a business's profitability.
+The explanation of the incorrect options is as follows:
+A. A balance sheet shows a business's financial position through assets, liabilities, and owner's equity. It does not reflect the profit or loss faced. So, it cannot be used for evaluating profitability.
+C. Cash flow statement: A cash flow statement shows the inflows and outflows of cash over a specific period from various activities. The difference between cash inflows and outflows will help compute the firm's liquidity, not its profitability.","Profitability: The profits earned by a business in a specific timeframe, generally a year, are called the profitability of the business. It makes it clear whether the business is operating effectively or facing losses."
+13,An analysis in which all the components of an income statement are expressed as a percentage of net sales is called:,vertical analysis.,horizontal analysis.,liquidity analysis.,common-size analysis.,A,"An analysis in which all the components of an income statement are expressed as a percentage of net sales is called
+a. vertical analysis
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. vertical analysis.
+This is the correct alternative. In vertical analysis, each line item in the financial statement is expressed as a percentage of the base amount. In the income statement, this base amount is net sales and in the balance sheet, the base amount is total assets.
+b. horizontal analysis.
+In horizontal analysis, the changes between the current and prior periods are expressed as percentages.
+c. liquidity analysis.
+Liquidity analysis is the study of a company's cash flow using ratios like the current and quick ratios.
+d. common-size analysis
+A common-size analysis is an analysis where the current results are compared. It includes vertical and horizontal analysis and can also include comparisons with other companies.",Income Statement: The statement prepared by qualified and skilled individuals in a business to estimate the net earnings made is called the income statement. The income statement is put together before composing the balance sheet.
+14,"On the statement of cash flows prepared by the indirect method, a $50,000 gain on the sale of investments would be:",deducted from net income in converting the net income reported on the income statement to cash flows from operating activities.,added to net income in converting the net income reported on the income statement to cash flows from operating activities.,added to cash received from the sale to determine cash flows from investing activities.,deducted from cash received from the sale to determine cash flows from investing activities.,A,"The correct answer is
+a. deducted from net income to convert it into cash flows from operating activities
+.
+When using the indirect method to calculate operating cash flows, profits from the sale of long-term investments should be subtracted from net income. This adjustment is necessary because these profits represent non-operating income and are classified as part of investing activities.
+However, we cannot report them under cash flows from investing activities, but we should adjust them while determining the operating cash flows.
+The profit of $50,000 will be deducted from the net income in the process of reconciling the net income to arrive at the operating cash flows.
+A brief explanation of each incorrect option is provided in the table below:
+Answer Options
+Explanation
+b. added to net income to convert it into cash flows from operations.
+A gain is a non-operating income already part of the net income computation, needing a deduction.
+c. added to cash received from the sale to determine cash flows from investing activities.
+Investing activities only report the cash flows from asset sales, not the profits or losses.
+d. deducted from cash received from the sale to determine cash flows from investing activities.
+Investing activities only report the cash flows from asset sales, not the profits or losses.","Indirect Method: The indirect method is employed in creating a cash flow statement, beginning with net income, followed by incorporating adjustments for non-cash items and variations in working capital. This aids in calculating the net cash provided by operating activities."
+15,Analysis of the financing activities section of the statement of cash flows will disclose:,the extent of investments in plant and equipment,net income for the period,any sales or repurchases of stock,the amount of money loaned to others,C,"Analysis of the financing activities section of the statement of cash flows will disclose
+c. any sales or repurchases of stock
+.
+The financing activities include all transactions with creditors and shareholders. Treasury stock transactions are transactions with shareholders. The cash used to buy treasury stock is reported as a cash outflow in the statement of cash flows, while cash received from the subsequent sale of the treasury stock is reported as a cash inflow.
+The other options:
+Option a. the extent of investments in plant and equipment is wrong. The cash effects of investments in property, plant, and equipment are presented in the investing activities section, not the financing activities section.
+b. net income for the period is wrong. Details of the net income are shown in the income statement, not the statement of cash flows.
+d. the amount of money loaned to others is wrong. Details of loans made and other investments are included in the investing activities section.",Cash Flow Statement: The statement of cash flows provides useful information about a company's cash flow patterns. It gives stakeholders an insight into the economic cycle of the company and management's ability to manage its cash resources.
+16,"On a multiple-step income statement, Income from Operations is computed as follows:",net sales less cost of goods soldb. cost of goods sold less total assetsc. operating expenses plus total assetsd. gross profit less total operating expenses,,,,D,"On a multiple-step income statement, Income from Operations is computed as
+(d.) gross profit less total operating expenses
+.
+On the income statement, 'Income from Operations' is the line item right after the operating expenses (selling and administrative expenses) have been deducted from the gross profit) and before the non-operating items like interest and gains or losses on the sale of assets are deducted or added. It also excludes income tax.
+The table provides reasons why the other options are incorrect:
+a. net sales less cost of goods sold
+This formula calculates the gross profit, not income from operations.
+b. cost of goods sold less total assets
+Total assets are calculated on the balance sheet and income from operations in the income statement.
+c. operating expenses plus total assets
+Again, total assets are not used to calculate any income statement line item",Income from Operations: The income from operations (rather than the net income) is used in several financial ratio formulas. It is therefore presented separately as a line item on the income statement when the statement is prepared in the multi-step format.
+17,"Before issuing a report on the compilation of financial statements of a nonpublic entity, the accountant should:",Apply analytical procedures to selected financial data to discover any material misstatements.b. Corroborate at least a sample of the assertions management has embodied in the financial statements.c. Inquire of the client's personnel whether the financial statements omit substantially all disclosures.d. Read the financial statements to consider whether the financial statements are free from obvious material errors.,,,,D,"Before issuing a report on the compilation of financial statements of a nonpublic entity, the accountant should
+(d.) Read the financial statements to consider whether the financial statements are free from obvious material errors
+.
+A compilation engagement is a non-attest engagement where the accountant assists the client in preparing financial statements. The accountant does not express any opinion about the financial statements in the compilation report, and they are not required to perform any procedures or make any inquiries. However, the AICPA's standards on non-attest services require that the practitioner read through the financial statements to make sure there are no obvious mistakes in them.
+The other alternatives are wrong:
+(a.) Apply analytical procedures to selected financial data to discover any material misstatements
+is wrong. Practitioners are required to perform analytical procedures in a review engagement but not in a compilation engagement.
+(b.) Corroborate at least a sample of the assertions management has embodied in the financial statements
+is wrong because management assertions are only tested in audit engagements.
+(c.) Inquire of the client's personnel whether the financial statements omit substantially all disclosures
+is also wrong. Inquiries are required in review engagements and fill audits, not in compilation engagements.",Assurance Services: Assurance services refer to engagements performed by certified public accountants in which they express an opinion on financial information. The external audit of financial statements and attest services like agree-upon procedure engagements are examples of assurance services.
+18,True or false? Estimated liabilities involve an obligation to pay an uncertain but reasonably estimated amount owed on a known obligation.,True,False,,,A,"Estimated liabilities involve an obligation to pay an uncertain but reasonably estimated amount owed on a known obligation.
+This statement is
+TRUE
+.
+It is accurate to say that estimated liabilities involve an obligation to pay an uncertain but reasonably estimated amount owed on a known obligation. Estimated liabilities are liabilities like compensated absences, accrued warranty expenses, accrued property taxes, and pension liabilities. To be recognized as an estimated liability (instead of a known liability or a contingent liability), the liability must be:
+A liability that the company knows has incurred and must pay in the future. It is not a contingent liability that might or might not be payable.
+A liability that is reasonably estimatable. If the company cannot, despite its best efforts, reasonably estimate the amount of the liability, it cannot recognize the liability. It must, however, disclose full details in its financial statements.",Liabilities in Accounting: The accounting standards define a liability as a present obligation created by past events due to which an entity has to transfer resources in the future. Liabilities are presented in the second section of a firm's classified balance sheet.
+19,Which financial statement is provided by virtually all corporations worldwide?,Statement of Cash Flows,Statement of Changes in Financial Position,Balance Sheet,Statement of Changes in Non-current Assets,C,"The correct option is
+C. Balance Sheet
+.
+A balance sheet is required to be presented virtually by all corporations. Members of corporations are from different areas worldwide, and ensuring their availability at the head office at the same time is not possible. Hence, the balance sheet is presented virtually, so that each member can access it. The availability of this information positively impacts the opportunities of a business as well.
+Explanations for incorrect options:
+A. Statement of Cash Flows
+: It is not required to be presented virtually under any law.
+B. Statement of Changes in Financial Position
+: It is prepared for a business's internal purposes and other needs. It is not required to be presented virtually.
+D. Statement of Changes in Non-current Assets
+: It is prepared for internal business decision-making purposes.","Financial Statements: Financial statements indicate the financial position of a business. The profitability, stability, growth, and many other aspects of a business are determined with the help of its financial statements."
+20,A trial balance prepared after the closing entries have been journalized and posted is the:,unadjusted trial balanceb. post-closing trial balancec. general ledgerd. adjusted trial balance,,,,B,"A trial balance prepared after the closing entries have been journalized and posted is the
+(b.) post-closing trial balance
+.
+The post-closing trial balance contains only permanent account balances because all temporary accounts have been closed, and its balances are the beginning balance for the new accounting period.
+The other alternatives are incorrect:
+(a). The unadjusted trial balance
+is the first trial balance that is prepared after the routine postings have been completed but before any adjusting entries are processed.
+(c.) The general ledger
+is the accounting record to which transactions are posted and that is used to calculate the account balances that are summarized in the trial balance.
+(d.) The adjusted trial balance
+is prepared after the adjusting entries have been posted and before the financial statements are prepared.","Accounting Cycle: The accounting cycle includes the various steps completed every year to record and summarize business transactions, adjust account balances, and prepare financial statements for external use. It involves the preparation of several financial reports for internal use."
+21,The adjusted trial balance shows:,amounts that may be out of balance.,amounts ready for the financial statements.,"assets, liabilities, and stockholders' equity only.",revenues and expenses only.,B,"The adjusted trial balance shows
+b. amounts ready for the financial statements
+.
+The adjusted trial balance is prepared after all the adjusting entries have been processed and general ledger account balances have been updated. Therefore, the balances on the adjusted trial balance are used for preparing the financial statements.
+Option a. (amounts that may be out of balance) is incorrect. Any trial balance should be in balance if the entries were recorded properly in the general ledger.
+Option c. (assets, liabilities, and stockholders' equity only) is also incorrect. All accounts are listed on the adjusted trial balance. The post-closing trial balance only includes balance sheet accounts.
+Option d. (revenues and expenses only) is also incorrect. The trial balance is not prepared with only revenue and expense accounts because that would not balance and serve no purpose.",Trial Balances: Trial balances are prepared for internal use in accounting. They are prepared during various stages in the accounting cycle to verify that the general ledger processing is correct and serve as a source document for the next stage.
+22,An accountant's compilation report should be dated as of the date of:,completion of fieldwork.,completion of the compilation.,transmittal of the compilation report.,the latest subsequent event referred to in the notes to the financial statements.,B,"An accountant's compilation report should be dated as of the date of
+b. completion of the compilation
+. A complication service is a non-attest service in which the practitioner prepares financial statements using information provided by the client. The compilation report states the fact that no audit or review was performed, details management's responsibility, and states that the practitioner is responsible for performing the engagement in accordance with Statements on Standards for Accounting and Review Services issued by the AICPA. It also includes a date, which should be the date of completion of the compilation.
+The other options are wrong:
+Option a.
+completion of fieldwork
+is wrong because no fieldwork is done in a compilation engagement. The date on which fieldwork is completed is also never used as a reporting date in any report.
+Option c.
+transmittal of the compilation report
+is also wrong. The date the report is transmitted is irrelevant.
+Option d.
+the latest subsequent event referred to in the notes to the financial statements
+is wrong. The practitioner does not review subsequent events to do the date or the report in a compilation engagement, only in an audit engagement.",Compilation Engagement: A compilation engagement is a service where a public accountant assists a client with the preparation of financial statements. The accountant does not express any opinion on the fair representation of the company's financial position in a compilation engagement.
+23,A worksheet is a substitute for a financial statement? True or false?,True,False,,,B,"This statement is
+false.
+A worksheet is not a substitute for a financial statement.
+A financial statement is a document required by law for both public and private organizations. Financial statements must be filed with appropriate regulatory bodies. Publically traded companies must specifically file a 10-K form with the SEC annually for reporting purposes. Financial statements are required to ensure proper accounting is being performed and to prevent illegal activities.
+Worksheets are internal documents used within organizations to aid in the generation of financial statements and may be used for other internal purposes. Worksheets may track the flows of capital and may be focused specifically on certain divisions or departments within the company. Worksheets do not meet the regulatory requirements of financial statements required by state governments or the SEC. The financial statements required must be filed.",Financial Disclosure: Financial disclosure involves the documentation of financial transactions. This documentation is provided to regulatory bodies for review and possibly public distribution. Certain levels are financial disclosure are required to ensure legal procedures are being followed. Additional financial disclosure is often required for public transactions and for publically traded companies.
+24,The cash flows from operating activities are reported by the direct method on the statement of cash flows. Determine the following:,"If sales for the current year were $513,750 and accounts receivable decreased by $32,625 during the year, what was the amount of cash received from customers?","If income tax expense for the current year was $34,500 and income tax payable decreased by $3,900 during the year, what was the number of cash payments for income tax?",Briefly explain why the cash received from customers in (a) is different than sales.,,A,"a. Cash received from customers
+We add the decrease in accounts receivable to the sales revenue to calculate the cash received from customers because the decrease indicates that the cash collections exceeded sales on account.
+Sales
+$513,750
+Decrease in accounts receivable
+$32,625
+Cash received from customers
+$546,375
+b. Cash payments for income tax
+Again, we add the decrease in tax payable to the income statement expense because cash payments for tax exceed the expense recorded.
+Income tax expense
+$34,500
+Decrease in income tax payable
+$3,900
+Cash paid for income tax
+$38,400
+c. Explanation
+The accounts receivable general ledger account is debited when the sales revenue is recorded and credited when cash collections from customers are recorded.
+If the beginning and ending balance of accounts receivable differ, it implies that there is a difference between the sales revenue and the cash collected. So, the income statement sales and the cash receipts in the statement of cash flows differ.",Operating Activities: Operating activities is a section in the statement of cash flows. It refers to the sales of goods to customers and the related expenses and costs. The cash used or provided by operating activities is calculated in the first section of the statement of cash flows.
+25,Expenses that CANNOT be traced directly to operations are identified as:,other income.,operating expenses.,cost of goods sold.,other expenses.,A,"To answer the above problem, let us discuss each of the above options.
+a. Other Income: This is incorrect. Othe Income refers to generated income from non-core operations of the business. It is not considered as an expense.
+b. Operating Expenses: This is incorrect. Operating Expenses relateds to a business's primary operations - the production of goods or services. They might include rent, utilities, salaries, and depreciation.
+c. Cost of Goods Sold (COGS): This is incorrect. It is the direct cost of producing the goods sold by a company. It includes direct materials, direct labor, and direct overhead costs.
+d. Other Expenses: This is the correct answer. Other Expenses category often includes expenses that are not directly tied to a company's primary operations. Examples could include interest expense, losses from selling an asset, or extraordinary items (rare or unusual expenses).
+So, the expenses that cannot be traced directly to operations are typically classified as ""other expenses."" Therefore,
+the correct answer is option d. other expenses.","Financial Statements: Financial statements are essential for management to make strategic business decisions, based on the company's profitability, liquidity, solvency, and overall financial health."
+26,What is the major difference between the Unadjusted Trial Balance and the Adjusted Trial Balance?,The Adjusted Trial Balance will show the net income (loss) as an additional account.,Both will need to be in balance in order to continue with the end-of-period processing,The Adjusted Trial Balance includes the postings of the adjustments for the period in the balance of the accounts.,The Unadjusted Trial Balance will be used to record the adjustments for the period.,C,"The major difference between the Unadjusted Trial Balance and Adjusted Trial Balance is that the
+c. The Adjusted Trial Balance includes the postings of the adjustments for the period in the balance of the accounts.
+The adjusted trial balance is prepared after all the adjusting entries for the period have been posted, while the unadjusted trial balance is prepared after all the routine transactions have been posted but before the adjusting entries have been recorded. The difference between the two reports is the posting of the adjusting entries.
+The other options are wrong:
+a. The Adjusted Trial Balance will show the net income (loss) as an additional account
+is wrong because net income is never a lone item on a trial balance.
+b. Both will need to be in balance in order to continue with the end-of-period processing
+is wrong because, while the statement is true, it does not present a difference between the two trial balances.
+d. The Unadjusted Trial Balance will be used to record the adjustments for the period
+is wrong because this statement also does not explain the difference between the two trial balances.","Trial Balance: In the accounting cycle, the trial balance is a financial report prepared to summarise account balances, verify the accuracy of the posting process, and serve as a supporting document for the next step in the cycle."
+27,Discontinued operations should be shown in the income statement:,"as ""Other revenues and gains""","as ""Other expenses and losses""","in a separate section titled ""Irregular Item""",net of tax,D,"Discontinued operations should be shown in the income statement
+d. net of tax.
+Discontinued operations are reported separately from continuing operations and net of tax. It helps to avoid skewing the company's earnings results and gives a clear picture of the ongoing operations' profitability.
+The other options are incorrect because:
+a. as 'Other revenues and gains': This is not the correct place to report discontinued operations. These are reserved for revenue and gains that are not directly linked to the core business activities but are ongoing.
+b. as 'Other expenses and losses': These are usually for expenses and losses that are not common and recurring in the normal business cycle, not for the results of discontinued operations.
+c. in a separate section titled 'Irregular Item': An irregular item is a term not typically used in standard accounting practices. It is not appropriate for reporting discontinued operations.","Financial Statements: In accounting, the preparation of different financial statements is significant so that the result of business operations can be communicated thoroughly to the intended users of financial information."
+28,The trial balance proves that no errors have been committed in journalizing or posting transactions.,True,False,,,B,"The statement is
+b. False
+.
+It is incorrect to say that the trial balance proves that no errors have been committed in journalizing or posting transactions.
+The trial balance lists all the general ledger account balances, with debit and credit balances in two separate columns. If the total of these two columns agrees, it proves that the total debits posted in the general ledger equals the total credits posted. It indicates that there are no mathematical errors in calculating the account balances.
+However, several other errors can occur while journalizing and posting transactions, which would not affect the trial balance:
+When a transaction is recorded for the wrong amount on the debit and credit side, the trial balance will remain in balance.
+If a transaction is omitted or duplicated, it will not affect the trial balance.
+Even if an entry is posted to the wrong general ledger account, the trial balance will still balance.
+If a transaction is recorded in the wrong period, the trial balance will not identify it as an error.","Trial Balance: In the annual accounting cycle, trial balances are prepared at various times. The unadjusted trial balance is prepared after all routine processing has been completed, while the adjusted trial balance is compiled after all adjusting entries are posted. The post-closing trial balance is the final trial balance that is prepared."
+29,The payment of utility expenses in cash would affect the operating activities in the statement of cash flows and the income statement but NOT the balance sheet.,True,False,,,B,"The correct answer is
+b. False
+.
+Utility expenses have an impact on the cash flow statement since they are paid in cash. On the other hand, since utility expenses are included in the expense section of the income statement, they reduce total profit.
+However, this has an impact on the balance sheet, since the cash also decreases, which lowers the current assets on the balance sheet.","Cash Flow Statement: A cash flow statement is a sectional representation of the cash position of an entity for a reporting period. The cash flow statement of an entity covers its operating, investing, and financing activities."
+30,An accountant's compilation report should be dated as of the date of:,completion of fieldwork.,completion of the compilation.,transmittal of the compilation report.,the latest subsequent event referred to in the notes to the financial statements.,B,"An accountant's compilation report should be dated as of the date of
+b. completion of the compilation
+. A complication service is a non-attest service in which the practitioner prepares financial statements using information provided by the client. The compilation report states the fact that no audit or review was performed, details management's responsibility, and states that the practitioner is responsible for performing the engagement in accordance with Statements on Standards for Accounting and Review Services issued by the AICPA. It also includes a date, which should be the date of completion of the compilation.
+The other options are wrong:
+Option a.
+completion of fieldwork
+is wrong because no fieldwork is done in a compilation engagement. The date on which fieldwork is completed is also never used as a reporting date in any report.
+Option c.
+transmittal of the compilation report
+is also wrong. The date the report is transmitted is irrelevant.
+Option d.
+the latest subsequent event referred to in the notes to the financial statements
+is wrong. The practitioner does not review subsequent events to do the date or the report in a compilation engagement, only in an audit engagement.",Compilation Engagement: A compilation engagement is a service where a public accountant assists a client with the preparation of financial statements. The accountant does not express any opinion on the fair representation of the company's financial position in a compilation engagement.
+31,Determine the financial statement on which common stock would appear.,income statementb. balance sheetc. both the income statement and the balance sheetd. neither the income statement nor the balance sheet,,,,B,"Common stock would appear on the
+(b.) balance sheet
+.
+The balance sheet is the financial statement on which assets, liabilities, and stockholders' equity accounts are listed. Common stock is a stockholders' equity account that is included in the last section of the balance sheet.
+The income statement, on the other hand, is the financial statement on which revenues and expenses are reported and the net income for the period is calculated. Stockholders' equity accounts are not included on the income statement.",Financial Statements: Companies prepare periodic financial statements to keep internal and external stakeholders informed about the company's financial position and the results of its operations and cash flows for the reporting period.
+32,"Under IFRS, the unrealized loss on trading investments should be reported:","as part of other comprehensive loss, reducing net income.","on the income statement, reducing net income.","as part of other comprehensive loss, not affecting net income.","directly to stockholders' equity, bypassing the income statement.",B,"Under IFRS, the unrealized loss on trading investments should be reported b. on the income statement, reducing net income.
+The following table explores each answer option and explains the right and wrong answers with reasons.
+a. as part of other comprehensive loss, reducing net income.
+Other comprehensive gains and losses do not affect net income.
+b. on the income statement, reducing net income.
+This is the correct alternative because unrealized gains and losses on trading investments are not part of other comprehensive income. Instead, they are reported in the non-operating section of the balance sheet, separately from realized gains and losses.
+c. as part of other comprehensive loss, not affecting net income.
+This is true for available-for-sale investments, not trading investments.
+d. directly to stockholders' equity, bypassing the income statement.
+Only dividends are reported directly in stockholders' equity. Gains and losses always affect the income statement or the statement of other comprehensive income.","Trading Investments: Trading investments are investments in the stocks and bonds of other companies that the company holds to sell in the short term. Companies buy trading investments to profit from short-term market movements, not long-term capital growth."
+33,_____ on the balance sheet represents the entire book value of the residual ownership of a corporation.,Total current asset,Shareholders' equity,Retained earnings,Total long-term liabilities,B,"The correct answer is
+b) Shareholders' equity
+.
+The book value of residual ownership is represented by shareholders' equity. It is the owners' share capital, which includes outstanding shares, paid-in capital, treasury stock, and retained earnings. It can be calculated by deducting the liabilities from the total assets.
+The other options are incorrect.
+a) Total current asset: It represents the book value of all the short-term resources like cash, accounts receivable, inventories, etc.
+c) Retained earnings: It represents the book value of past profits retained by the company.
+d) Total long-term liabilities: It represents the book value of long-term business obligations like bonds payable, bank loans, etc.",Balance Sheet: The balance sheet represents the financial position of a business on a particular date. It is prepared at the end of the accounting period and helps the users understand the business financials.
+34,"The following data are from the accounts of Jennings Corp. as of December 31, 2023. All amounts are accurate, all accounts have normal balances, and total debits equal total credits.",Compute the year-end balance of retained earnings.,"Prepare a classified balance sheet as of December 31, 2023.","Compute working capital on December 31, 2022.",,A,"A) Year-end balance of retained earnings
+Retained earnings increases with the net income for the year and decreases with the dividends declared in the year,
+Jennings Corp.
+Retained earnings, December 31, 2023
+in millions
+Retained earnings, December 31, 2022
+17
+Net income for 2023
+35
+Dividends (cash) declared
+-3
+Retained earnings, December 31, 2023
+49
+B) Prepare a classified balance sheet
+In the balance sheet, we start with the current assets (cash, short-term investments, accounts receivable, inventory, and short-term prepaid expenses). Next, we add the long-term assets (land, equipment, the patent, investments, long-term prepaid expenses, and the debt retirement fund) to get to the total assets.
+In the liability section, we start with the current liabilities (accounts payable, taxes payable, and dividends payable) and then we add the long-term liabilities to get to the total liabilities. Finally, we present the equity accounts (common stock and retained earnings accounts).
+Jennings Corp.
+Balance Sheet on December 31, 2023
+2023 (in millions)
+ASSETS:
+Current Assets:
+Cash
+$20
+Short-term investments
+$10
+Accounts receivable (net of allowance for doubtful accounts of $2 million)
+$15
+Inventory
+$30
+Prepaid expenses
+$1
+Total current assets
+$76
+Long-Term Assets:
+Land
+$18
+Equipment and furniture
+$70
+Accumulated depreciation
+-$6
+Intangible assets:
+Patent
+$4
+Other assets:
+Debt retirement fund
+$4
+Prepaid rent
+$2
+Long-term investment
+$26
+Total long-term assets
+$118
+Total assets
+$194
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+Accounts payable
+$8
+Income taxes payable
+$4
+Cash dividends payable
+$5
+Deferred revenue
+$2
+Total Current Liabilities:
+$19
+Long-Term Liabilities
+Bonds payable
+$51
+Total long-term liabilities
+$51
+Total Liabilities
+$70
+Stockholders' Equity
+Common stock, par $1 (100,000 shares authorized and issued)
+$70
+Premium on common stock
+$5
+Retained earnings
+$49
+Total Stockholders' Equity
+$124
+Total liabilities and stockholders' equity
+$194
+C) Working capital
+The working capital is the difference between the current assets and current liabilities. We get both amounts on the balance sheet above:
+Current assets on December 31, 2023
+$76 million
+Minus: Current liabilities on December 31, 2023
+$(19 million)
+Equals:
+Working capital on December 31, 2023
+$57 million","Classified Balance Sheet: A balance sheet is a financial statement in which the balances of assets, liabilities, and equity accounts on the reporting date are listed. It provides users with a snapshot of the financial position of the company on that date."
+35,Which of the following will not be reported in the statement of cash flows?,The net change in stockholders' equity during the year.,Cash payments for plant assets during the year.,Cash receipts from sales of plant assets during the year.,How acquisitions of plant assets during the year were financed.,A,"The correct option is a) The net change in stockholders' equity during the year.
+Note that we must identify the item that is NOT reported on the statement of cash flows.
+a) The net change in stockholders' equity during the year.
+This is the correct alternative. Cash flows that affect stockholders' equity are reported on the statement of cash flow but not the net change in stockholders' equity. Non-cash items like stock for bond transactions are excluded from the statement of cash flows.
+b) Cash payments for plant assets during the year.
+Cash payments for plant assets are included in the investing activities section as cash outflows. All cash flows related to long-term assets are presented under the investing activities section.
+c) Cash receipts from sales of plant assets during the year.
+Cash receipts from sales of plant assets are also included in the investing activities section as cash inflows.
+d) How acquisitions of plant assets during the year were financed.
+The cash outflow for the purchase of plant assets is presented in the investing activities section, while the cash inflows used for financing plant acquisitions through common stock issues are presented in the financing activities section. If plant assets were acquired in a non-cash transaction (like a bonds-for-asset exchange), the transaction is not included in the statement of cash flows.","Statement of Cash Flow: The statement of cash flow reports on the cash inflows and outflows that cause a change in the cash asset on the balance sheet during the year. These cash flows are organized into three sections: operating, investing, and financing activities."
+36,Which of the following budgets or schedules uses data contained in the selling and administrative expense budget?,Cash receipts scheduleB. Sales budgetC. Inventory purchases budgetD. Cash payments schedule,,,,D,"The
+(D.) cash payments schedule
+uses data contained in the selling and administrative expense budget.
+The cash payments for selling and administrative expenses that are contained in the cash payment schedules are derived from the selling and administrative expenses budget.
+The other answers are incorrect:
+A. Cash receipts schedule
+The selling and administrative expenses budget contains information about operating expenses. Expenses do not affect cash collections.
+B. Sales budget
+The sales budget uses the estimated sales units and selling price per unit to calculate the budgeted sales revenue. It does not use information from the selling and administrative expenses budget.
+C. Inventory purchases budget
+The inventory purchases budget used the sales units and desired inventory levels to calculate the inventory that must be purchased on each budget period. It does not contain any information about selling and administrative expenses.","Preparing a Master Budget: Rather than one file, the master budget is a collection of budgets and supporting schedules. The budgets build upon each other because information from one budget is used to prepare the next. Therefore, the first budget prepared in the master budgeting process is typically the sales budget."
+37,A single-step income statement:,"reports gross profitb. does not report cost of goods soldc. reports sales revenues and ""other revenues and gains"" in the revenues section of the income statementd. reports operating income separately",,,,C,"A single-step income statement
+c. reports sales revenues and ""other revenues and gains"" in the revenues section of the income statement
+.
+The single-step income statement has only two sections; in the first section, all revenues and gains are presented, and in the second are all expenses and losses. Operating and non-operating items are not separated, and product and period costs are presented together as well. In the end, the net income is presented.
+The other options are incorrect:
+a. reports gross profit
+is incorrect because the gross profit is presented in the multi-step format after the cost of goods sold has been deducted from sales revenue.
+b. does not report cost of goods sold
+is false because the cost of goods sold is presented along with all the other expenses. It is NOT presented in a separate section.
+d. reports operating income separately
+is also true of the
+multi-step
+format, where operating and non-operating items are split.",Income Statement Formats: An income statement can be prepared using either the single-step or multi-step format. The accounting standards require the use of the multi-step format but many smaller companies use the less complicated single-step format.
+38,The primary purpose of the statement of cash flows is to:,prove that revenues exceed expenses if there is a net income.,facilitate banking relationships.,provide information about the investing and financing activities during a period.,provide information about the cash receipts and cash payments during a period.,D,"The correct option is D) provide information about the cash receipts and cash payments during a period.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A) prove that revenues exceed expenses if there is a net income.
+The income statement reports on revenues, expenses, and net income, not the cash flows.
+B) facilitate banking relationships.
+Banks need the information in all financial statements to assess their clients, not just the statement of cash flow.
+C) provide information about the investing and financing activities during a period.
+The statement of cash flow has sections for the cash flows from investing and financing activities, But this only includes cash flows, not the total activity. The balance sheet, read together with the notes to the financial statements, is a better source of complete information about all investing and financing activities.
+D) provide information about the cash receipts and cash payments during a period.
+This is the correct alternative. In the statement of cash flows, the cash inflows and outflows for the reporting period are presented in three sections. The net result then represents the change in cash and cash equivalents for the period.","Purpose of Financial Statements: Companies prepare annual financial statements to communicate their results to stakeholders. Each financial statement included in the published set has a specific purpose, while information from one statement is often used to prepare another."
+39,The purpose of the post-closing trial balance is to,Provide the account balances for preparation of the balance sheet.,Ensure that the ledger is in balance for the start of the next period.,Aid the journalizing and posting of the closing entries.,Ensure that the ledger is in balance for completion of the worksheet.,B,"The correct response is
+B) The post-closing trial balance is prepared to ensure the ledger is balanced at the start of the next accounting period
+.
+After the closing entries are finished, the post-closing trial balance is prepared to make sure that the ledger accounts are balanced at the beginning of the next accounting period. This step is crucial to verifying that the total debits match the total credits in the ledger accounts and confirming that the books are in balance before the next accounting period begins.
+A brief explanation of each incorrect option is provided in the table below:
+Answer Options
+Explanation
+A) Provide the account balances for preparation of the balance sheet.
+The post-closing trial balance does not provide the account balances needed to prepare the balance sheet. Instead, this purpose is served by the unadjusted or adjusted trial balance.
+C) Aid the journalizing and posting of the closing entries.
+The post-closing trial balance is not involved in aiding the journalizing and posting of the closing entries. It is prepared after the closing entries have been journalized and posted.
+D) Ensure that the ledger balances to complete the worksheet.
+The post-closing trial balance aims to provide that the ledger is balanced for the start of the next accounting period rather than for completing the worksheet.",Trial Balance: A trial balance lists the general ledger accounts in a business's ledger. It is typically prepared at the end of an accounting period after the general ledger has been updated with all the relevant transactions for the period.
+40,Any mistake in the ledger can be easily detected with the help of which of the following?,Trial Balance,Income Statement,Balance Sheet,Journal,A,"Any mistake in the ledger can be easily detected with the help of the
+a. Trial Balance
+.
+The trial balance is the financial report that lists all general ledger accounts and their balances, with one column for the debit balances and the other for credit balances. The totals of these two columns must agree. If they do not, it implies a mistake (or mistakes) were made somewhere in the general ledger. Therefore, the trial balance is used as a tool to identify errors.
+Note that it may not always be correct to say that
+any
+mistake can be detected using the trial balance because there are mistakes the trial balance may not spot. For instance, when an entry was omitted, duplicated, or processed for the incorrect amount.
+Option b. is incorrect because the income statement is used to calculate the net income, not to detect errors.
+Option c. is also incorrect because the balance sheet lists assets and liability account balances and will not show errors in the balances.
+Option d. is incorrect because the journal is for recording transactions for the first time, not to show errors in the ledger.",Financial Reports: The financial reports are prepared for internal and external use throughout the accounting cycle. Reports published for external use are typically prepared at the end of each reporting period after account balances have been verified.
+41,"Because financial statements typically are based on historical data, financial statement analysis is only used to evaluate an organization's past financial condition. True or false?",True,False,,,B,"This statement is
+false.
+Financial statement analysis are used to evaluate an organization's past financial condition and predict future performance.
+Financial statements can identify trends in performance that can be used to predict future performance. Businesses and investors may forecast future earnings and growth based on previous performance when making decisions for expansion or contraction within the organization. Shareholders may buy and sell stocks based on predictions of future performance which will be estimated with inclusion of the financial statements.","Predictive Modeling: Predictive modeling is a technique that uses data and analytics to predict the future performance of an organization. Historically, modeling would be based on complex human calculations and estimations. Modern computing allows for more complex analysis that can result in more variables being considered resulting in greater accuracy in predictions."
+42,Common-size statements are financial statements of companies of similar size?,True,False,,,B,"The statement is
+false
+.
+Common-size statements are NOT financial statements of companies of similar size. They are financial statements that are reworked to express each line item as either a percentage of a base amount or as a percentage of a prior period. This analysis can be done for companies of different sizes or industries or among competitors within the same industry.
+There are two common-size analyses that investors use:
+The vertical analysis is a financial statement analysis where each item in the income statement is expressed as a percentage of net sales and each balance sheet item as a percentage of total assets.
+Horizontal analysis is an analysis where the change between the current and prior year amount for each line item is calculated and expressed as a percentage of the base year.",Analyzing Financial Statements: Company financial statements contain a myriad of information. Investors and investment analysts make sense of the information presented in those statements using tools such as ratio analysis and other comparative analysis techniques.
+43,Which of the following is not a financial statement?,Balance Sheet.,Income Statement.,Statement of owner's equity.,Trial Balance.,D,"The correct answer is
+d. Trial Balance
+.
+A trial balance is not a financial statement; it is just a report prepared by the firms to check the accuracy of the recording and classification of accounting transactions. If the total of all debit balance accounts is equal to the credit balance accounts, then there is no mistake in the records.
+The other options are incorrect.
+a. Balance Sheet: It is a financial statement that shows the firm's financial position.
+b. Income Statement: It is a financial statement that shows the firm's profitability.
+c. Statement of Owner's Equity: This is a financial statement that shows the capital contribution by the shareholders.","Accounting: Accounting is an important part of every business, as it helps the business maintain a record of all the transactions and analyze its financial situation. It starts with the identification of transactions."
+44,Which type of corporate information is not available to investors?,Dividend history,Forecast of cash needs for the upcoming year,Cash provided by investing activities,Beginning cash balance,B,"The correct answer is
+b. Forecast of cash needs for the upcoming year.
+The following table explores each answer option and explains the right and wrong answers with reasons.
+a. Dividend history
+A company's dividend history is public knowledge. It can be found on the company website and in the financial press.
+b. Forecast of cash needs for the upcoming year
+This is the correct alternative because the company financial statements do not include forecasts. Details for forecasted cash needs are not included in any other section of the annual report
+.
+c. Cash provided by investing activities
+The cash provided by investing activities is calculated and disclosed in the statement of cash flow. The statement of cash flow is a required financial statement for large companies.
+d. Beginning cash balance
+The beginning cash balance is presented in the final section of the statement of cash flow.",Investments in Stocks: Individuals and companies can invest in the equity securities of large companies by buying the shares on a public stock exchange. Investors use financial and nonfinancial information about companies to select the best investment opportunities from various sources.
+45,Which of the following is true of the statement of cash flows?,The statement of cash flows shows where cash came from and how cash was spent.,"The statement of cash flows covers a span of time and is dated ""Year Ended Month Day, Year"".",The statement of cash flows reports why cash increased or decreased during the period.,All of the above are true of the statement of cash flows.,D,"The correct answer is
+d. All of the above are true of the statement of cash flows.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. The statement of cash flows shows where cash came from and how cash was spent.
+In each of the three sections of the statement of cash flow, the cash inflows and outflows related to that activity are listed. The statement therefore presented the sources and used of cash for the period.
+b. The statement of cash flows covers a span of time and is dated ""Year Ended Month Day, Year"".
+The statement of cash flow covers all the cash flows for the reporting period, not just the position on the reporting date. The statement is therefore prepared for the period ended xxx, and not on xxx.
+c. The statement of cash flows reports why cash increased or decreased during the period.
+The sum of the net cash used or provided by the three activities listed in the statement of cash flow must equal the change in the cash and cash equivalents on the balance sheet. The statement of cash flow therefore explains why cash increased or decreased.
+d. All of the above are true of the statement of cash flows.
+This is the correct alternative",Purpose of the Statement of Cash Flow: U.S. GAAP and international reporting standards require the inclusion of the cash flow statement in any set of published financial statements. The purpose of the statement of cash flow is to provide information about the reporting company's cash flow patterns.
+46,A classified balance sheet should be organized like the photo below. True or false? ,True,False,,,A,"The statement is
+True
+.
+A classified balance sheet presents a company's assets, liabilities, and equity in a categorized manner. It separates current assets and liabilities from non-current ones, providing a clear snapshot of the company's financial position. The classified balance sheet helps users analyze the company's liquidity, leverage, and overall financial health more effectively than an unclassified balance sheet.
+As shown in the screenshot, the classified balance sheet:
+Reports assets as - Current and Long-term / Fixed
+Reports liabilities as - Current and long-term
+Reports equity after the total liabilities.","Financial Statements: Financial statements are essential for various reasons. They provide valuable information to investors, creditors, and management to assess a business's financial health and performance. They also help in making investment decisions, obtaining credit, and evaluating the effectiveness of management in utilizing resources."
+47,"A prior period adjustment should be reflected, net of applicable income taxes, in the financial statements of a business entity in the?",Retained earnings statement after net income but before dividends.,Retained earnings statement as an adjustment of the opening balance.,Income statement after income from continuing operations.,Income statement as part of the income from continuing operations.,B,"The correct option is b. Retained earnings statement as an adjustment of the opening balance. .
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Retained earnings statement after net income but before dividends.
+In the statement of retained earnings, net income should be followed by dividends.
+b. Retained earnings statement as an adjustment of the opening balance.
+This is the correct alternative because prior period adjustments require the restatement of the beginning balance of retained earnings. The restated amount is presented at the top of the statement of retained earnings (or statement of stockholders' equity) to reflect the new, restated, beginning balance of retained earnings.
+c. Income statement after income from continuing operations.
+The net income from and gain or loss on the disposal of discontinued operations are presented after income from continuing operations in the income statement. No prior period adjustments are presented here.
+d. Income statement as part of the income from continuing operations.
+Only current period revenues, expenses, gains, and losses are presented in the first part of the income statement.","Restating Financial Statements: Certain accounting events require the restatement of prior period financial statements. These include a change from one acceptable accounting practice to another, or the correction of prior period accounting errors."
+48,Determine the financial statement on which a gain on sale of property would appear.,income statement,balance sheet,both the income statement and the balance sheet,neither the income statement nor the balance sheet,A,"A gain on the sale of property would appear on the
+a. income statement
+in the non-operating section. The income statement is the financial statement where revenues, gains, expenses, and losses are presented and used to calculate the net income for the year.
+Gains on the sale of property do not appear on the balance sheet because the balance sheet reports only the ending balances of assets, liabilities, and stockholders' equity accounts. The relevant property, plant, and equipment account's balance will decrease with the book value of the asset that was sold in the balance sheet.","Asset Disposal: When a long-term asset is sold, the cost and accumulated depreciation must be removed from the accounting records on the disposal date. The proceeds received on disposal, usually cash, must also be recorded and any gain or loss on the asset's sale."
+49,The direct method of preparing the operating activities section of the statement of cash flows _____.,adjusts accrual-basis income,lists each important item of cash outflows from investing activities,adjusts cash-basis income,lists each important item of cash inflows from operating activities,D,"The correct option is d. lists each important item of cash inflows from operating activities.
+Discussion of the alternatives:
+a. adjusts accrual-basis income
+This is true for the indirect method, not the direct method.
+b. lists each important item of cash outflows from investing activities
+Cash flows from investing activities are listed in the investing activities section of the statement of cash flow.
+c. adjusts cash-basis income
+No adjustment is needed to cash-basis net income when preparing the statement of cash flow because no non-cash items are included in cash-basis net income. However, under the direct method, net income is not adjusted.
+d. lists each important item of cash inflows from operating activities
+This is the correct alternative. In the operating section of the statement of cash flow prepared using the direct method, the cash received from customers and the cash paid to suppliers, employees, and interest and income taxes are all listed separately
+.",Preparing the Statement of Cash Flow: The statement of cash flow can be prepared using either the direct or the indirect method. The only difference between the two methods lies in the way the cash flow from operating activities is calculated and presented.
+50,The three major classifications of activities in a cash flow statement are:,"inflows, outflows, and net flows.","operating, investing, and financing.","revenues, expenses, and net income.",,B,"The three major classifications of activities in a cash flow statement are
+B. operating, investing, and financing.
+In the statement of cash flow, the operating activities section is presented first. Here, the cash collected from customers and paid to suppliers and for operating expenses are used to calculate the cash used or provided by the company's operating activities. Next, the cash flows associated with long-term assets are summarized to determine the cash flow from operating activities. Finally, the cash flows from financing activities (related to long-term liabilities and stockholders' equity) is calculated.
+Option A.
+inflows, outflows, and net flows.
+is wrong. The statement of cash flow is not designed to present information in this order.
+Option C.
+revenues, expenses, and net income
+is also wrong. This is roughly the sections in the single-step income statement, not the statement of cash flow.",Statement of Cash Flow: The statement of cash flow is prepared in the format prescribed by the accounting standards. The format is designed to provide users of the financial statements with complete and consistent information about the change in the cash balance.

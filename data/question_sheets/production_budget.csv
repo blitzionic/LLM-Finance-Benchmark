@@ -1,0 +1,347 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Budgets that are periodically revised and have new periods added to replace those that have lapsed are called:,Production budgets.,Sales budgets.,Cash budgets.,Rolling budgets.,D,"Option d): the rolling budget is the correct alternative.
+Explanation:
+Option a) Production budget: this is an estimate of the quantity of product needed for the production of an entity.
+Option b) Sales budget: it is the estimation of sales revenue, selling expenses, and, consequently, the profit contribution made by the sales function for a future financial period.
+Option c) Cash budget: it is the estimation of an entity's future cash flow over a time interval to determine an individual's or entity's cash position.
+Option d) A rolling budget is classified as a budget that is prepared on a continuous basis. It involves continuous updates by summing up an additional accounting period when the previous accounting period has expired. It gives management a chance to revise their plan for the betterment of the business.",Budget A budget is defined as the estimation of the expenditure and revenues of an entity for a certain time period. It can be prepared for any individual or entity. It can be prepared for the effective utilization of the funds.
+2,Budgeted production is calculated by:,"adding budgeted unit sales to budgeted ending work in process inventory, and subtracting budgeted beginning work in process inventory","adding budgeted unit sales to budgeted ending finished goods inventory, and subtracting budgeted beginning finished goods inventory","adding budgeted unit sales to budgeted beginning work in process inventory, and subtracting budgeted ending work in process inventory","adding budgeted unit sales to budgeted beginning finished goods inventory, and subtracting budgeted ending finished goods inventory",B,"The correct option is B. adding budgeted unit sales to budgeted ending finished goods inventory, and subtracting budgeted beginning finished goods inventory.
+We do not use work-in-process to prepare the production budget. One of the underlying assumptions of the master budget process is that there are no work-in-process units.
+We need to add the ending finished goods units to the sales units because these units must all be produced in the period. We then deduct the beginning finished goods units, because these units are already on hand.
+A production budget can therefore look like this:
+Production Budget
+Budgeted sales units
+40,000
+Ending finished goods inventory
+6,000
+Total units required
+46,000
+Units in beginning inventory
+-4,000
+Estimated Production Units
+42,000",Budgeted Production: Budgeted production is used in the master budget process to determine the raw materials purchases and the number of direct labor hours the company will need for each production period. It also affects the budgeted balance sheet because it is used to calculate the budgeted ending inventory asset.
+3,All of the following are categories sometimes used in budgets except:,Sunk costs.,Fixed costs.,Semi-variable costs.,Variable costs.,A,"The correct answer is
+a. Sunk costs.
+Budgeting is a forward-looking process. Therefore, only those costs that are yet to be incurred are considered when making budgetary decisions. Also, sunk costs have already been incurred and cannot be recovered, irrespective of the actions taken. As a result, these costs are not used in the budgeting process.
+The other options are incorrect.
+b.
+Fixed costs:
+Costs like rent, property tax, insurance premium, etc. that need to be incurred irrespective of the units sold are called fixed costs. These costs are yet to be incurred and hence are an integral input of the budgeting process.
+c.
+Semi-variable costs:
+The costs that remain fixed up to a certain level of activity, but increase if this level is breached are called semi-variable costs. Expenses like lighting, overtime, etc. fall into this category. Since a business incurs these costs to achieve the budgeted performance, these costs are included in the budgeting process.
+d.
+Variable costs:
+The costs that vary with the level of production are called variable costs. It includes the cost of raw materials, shipping charges, sales commissions, etc. These costs are included in the budgeting process because they are yet to be incurred.","Budget: A budget is a quantitative plan for a specific period, defining the revenue and expenses a company expects to earn and make during the specific period. In addition, it also judiciously allocates scarce resources to different business processes and units."
+4,"In a production budget, total required production units are the budgeted sales units plus:",beginning finished goods units.,desired ending finished goods units.,desired ending finished goods units plus beginning finished goods units.,desired ending finished goods units minus beginning finished goods units.,D,"The correct answer is the d. desired ending finished goods units minus beginning finished goods units.
+The required production units are calculated by determining the estimated sales and the finished goods inventory in hand. The difference in the number of units is the required number of units to be produced.
+The explanation for incorrect answers:
+Option A is incorrect as using only beginning finished goods inventory is incomplete.
+Option B is incorrect as using only ending finished goods will not calculate the correct number of production units required.
+Option C is incorrect as the ending and beginning inventory is subtracted to calculate the required inventory in the period.",Production Budget: The production budget is designed by the management to estimate the number of products to be manufactured. It is designed based on the sales forecast and the budgeted amount of finished inventory. This budget only estimates the units to be produced and not the number of units.
+5,Which of the following is an element of a master budget?,An employee turnover budget.,A waste and spoilage budget.,A production schedule.,A labor efficiency budget.,C,"The correct option is c) A production schedule.
+The production schedule or production budget is prepared after the sales budget has been completed. It uses the estimated sales units and the desired Finished Goods inventory levels to determine how many units must be produced in each budget period. This information is then used to calculate direct materials, direct labor, and manufacturing overhead costs for each period.
+The employee turnover budget, waste and spoilage budget, and labor efficiency budget are not budgets that are included in the master budget.","Elements of the Master Budget: A company's master budget is a collection of budgets that are used to plan and control its operations. The budgets are prepared in a logical sequence starting with the sales budget, because information from one budget is used to prepare the next."
+6,Required production during a planning period will depend on the:,beginning inventory of products.,sales during the period.,desired level of ending inventory.,All of the above.,D,"Correct answer:
+Option D) Al of the above.
+Explanation:
+The formula we use to determine the required production is given below:
+Required production = Sales during the period + Desired level of ending inventory - Beginning inventory of products.",Required Production: A production budget is dependent on the sales budget in order to determine the required production needed during a planning period. Required production needs enable a company to prepare beforehand to arrange the cash to meet the costs of production.
+7,The production budget determines the number of units to be produced during the period.,True,False,,,A,"The correct choice is
+a.True
+The statement ""the production budget determines the number of units produced during the period"" is true.
+The production budget is one of the operating budgets that manufacturing companies prepare to indicate the units to be manufactured. Other operating budgets are the sales budget, direct materials budget, direct labor budget, and the overhead budget. In the budgeting process, the first step is to estimate the expected sales and then prepare a sales budget. After having the sales budget we prepare the production budget. Other than having the sales estimates we must also consider the required ending inventory to determine the number of units to produce. The reason we consider ending inventory needed is to reduce the possibility of a stock out.","Production Budget: The budgeting process is very important for planning purposes because it allows management to estimate and allocate resources. Budgets of various types are prepared and combined to form the master budget. Sales budget, production budget, capital expenditure budget, and financial budget are among the budgets an organization prepares. The budget compares needs to resources and indicates whether it will be in deficit or surplus."
+8,Total output is maximized when:,marginal product equals zero.,average product equals zero.,marginal product is maximized.,average product is maximized.,A,"The correct option is
+a. Marginal product equals zero
+.
+According to the law of variable proportion, the total output is maximized in stage 2. In this stage, the marginal product becomes zero as producing one more unit of output, keeps the additional cost the same. Furthermore, the average product declines as it is the ratio of total product and output produced.","Total Cost: In the production theory, the total cost is depicted as the sum of the fixed cost and variable cost. The fixed cost is the cost that does not depends on the production level whereas, the variable cost is directly related to the production cost."
+9,Which of the following describes the production budget?,It aids in planning to ensure the company has adequate inventory and cash on hand.,It gives the quantity of finished goods to be manufactured during a budget period.,It depicts the breakdown of sales on the basis of terms and conditions of collection of sales revenue.,It helps in planning to ensure the business has adequate cash.,B,"The statement that describes the production budget correctly is option B.
+The production budget's bottom line is the budgeted units of finished products for production, which is calculated as:
+{eq}\begin{align}
+
+\text{Budgeted production} &= \text{Budgeted sales + Desired ending inventory - Beginning inventory} \\
+
+\end{align}
+
+{/eq}
+Analysis of other options
+Option A.
+Cash on hand makes the statement incorrect since the data for that does not appear on the production budget but on the cash budget.
+Option C.
+The collections of sales revenue data report on the cash budget, not the production budget.
+Option D.
+The budget that helps ensure adequate cash is the cash budget, which shows all cash receipts and cash disbursements.","Production Budget: Production budget shows the budgeted sales units, the firm's desired ending finished goods inventory units, the beginning finished goods inventory units, and the budgeted number of units to produce during the period."
+10,Production estimates for August are as follows:,"$1,170,000 for A; $702,000 for B","$1,125,000 for A; $675,000 for B","$1,080,000 for A; $648,000 for B","$1,080,000 for A; $1,296,000 for B",C,"Let us first calculate the quantity to be manufactured as below:
+Production quantity = Sales + Ending inventory - Beginning inventory
+Production quantity = 75,000 units + 9,000 units - 12,000 units
+Production quantity = 72,000 units
+Let us now calculate the total direct material to be purchased as below:
+Particulars
+Direct Material A
+Direct Material B
+Production quantity
+72,000 units
+72,000 units
+Direct material required per unit
+3 lbs
+0.5lbs
+Direct material units required
+216,000 units
+36,000 units
+Direct material cost per unit
+$5
+$18
+Direct material to be purchased
+$1,080,000
+$648,000
+As per the above calculation the correct option is C.",Production budget: A production budget is knowing the quantity to be manufactured so that the requirement of sales and ending inventory is met by the company. The purpose of preparing the production budget is that the company can prepare in advance for the cost that will be incurred to manufacture the estimated quantity of product.
+11,Which of the following is not included in the production budget?,Sales forecast,Ending inventory of work in process,Beginning inventory of finished goods,Desired ending inventory of finished goods,B,"The correct option is
+Option B: Ending inventory of work in process
+.
+Option A: The production budget (PB) relies on the sales budget to know the units of predicted sales. The sales forecast describes the predicted demand for an enterprise over a certain period. Thus, it must be included in PB to determine the number of products required. This option is not accurate.
+Option B: The work-in-process stock is not accounted for in PB as the manufacturer is only concerned with the direct material's cost and the volume of finished goods (FG) essential for production to meet predicted sales needs. While determining the PB, the expected sales are added with the desired ending finished inventory and the quantity of beginning FG inventory is deducted from them. Thus, this option is accurate.
+Option C: The anticipated inventory quantity at the beginning is involved in analyzing the production level to be achieved. This finished item inventory is subtracted to determine the production quantity.
+Option D: The ending FG inventory is accounted for while framing the PB as the entity always holds extra inventory for handling demand shocks and keeping safety stock. This option is not accurate.",Production Budget: A production budget identifies the volume of finished goods that must be manufactured to meet the expected sales under each budget period. Its key foundation is a sales budget that involves adjustments to ending and beginning inventory levels.
+12,Which of the following budgets are prepared before the production budget?,Option A,Option B,Option C,Option D,C,"The sales budget is prepared before the production budget since it drives the amount of units required to be produced. The direct materials budget is prepared
+after
+the production budget since the units produced will drive the amount of direct materials required.
+The answer is thus Option C (c).",What Is A Production Budget: Companies that manufacture their own goods for sale usually prepare a production budget at the beginning of every reporting period. The production budget estimates the volume of units required to be manufactured in order to meet customer demand.
+13,"If budgeted beginning inventory is $8,000, budgeted ending inventory is $9,400, and budgeted cost of goods sold is $10,260, budgeted production should be:","$11,550","$11,660","$1,400","$9,600",B,"The correct option is b.
+We must use the format of the production budget to find the answer:
+Budgeted Cost of Goods Sold
+$10,260
+Budgeted ending inventory
+9,400
+Budgeted cost of goods available for sale
+$19,660
+Budgeted beginning inventory
+(8,000)
+Budgeted prodcution
+$11,660",Budgeted Production: A company's budgeted production is a part of the master budget. It can be prepared after the sales budget is finalized because the production needs of a company depend on its estimated sales volumes.
+14,The production budgets are used to prepare which of the following budgets?,sales in units,"direct materials purchases, direct labor cost, and factory overhead cost",operating expenses,sales in dollars,B,"Answer: b) direct materials purchases, direct labor cost, and factory overhead cost
+Production budget estimates the number of units to be produced based on the estimated level of sales, ending inventories and the beginning inventories. The estimated units to be produced will be considered in computing for the raw materials to be purchased, the direct labor hours required to produce these units and the necessary factory overhead which is usually based on direct labor hours.",Selling Price: Selling price pertains to the value set by the company on how much they could charge to products and services they are offering for sale. This is considered in computing for the sales revenue.
+15,"As production experience is gained, incremental production costs increase at a constant rate.",True,False,,,B,"The correct answer is false
+Incremental production cost increases only due to the production of additional units.
+Incremental costs occur when the company produces one extra unit. The costs associated with incremental costs can be both fixed and variable costs. An increase in the production of additional units increases the incremental costs. Men, materials, utility bills, and packing and shipping are some incremental cost factors. Incremental costs should be less than the incremental revenue; otherwise, purchasing the particular goods would cut costs. Incremental costs help the company to determine the profitability of its business. Higher the incremental revenue than the incremental costs.","Production costs Production is the process of transforming the input raw material to obtain finished products. The costs involved in the production process are production costs. The three kinds of production costs are fixed costs, variable costs, and incremental production costs."
+16,True/False: The production budget contains both the unit and monetary amounts.,True,False,,,B,"The correct answer is
+B. False
+.
+A production budget contains only the unit amounts and not the monetary amounts. A production budget is a financial tool used to calculate and express the number of units of a product that a production facility needs to produce in a certain span of time, based on the sales forecast for that specified time and the beginning and ending inventory information.
+The basic components of a production budget are:
+Time Frame: It is the time span for which the budget is prepared.
+Sales Forecast: It is the forecasted sales for that specific time frame.
+Beginning Inventory: It is the inventory level of the specific product at the beginning of that said time frame.
+Ending Inventory: It is the inventory level of the specific product required at the end of the said time frame.
+Required Production: It is the production that is required in that time frame to match the sales forecast and the ending inventory requirement taking into account the beginning inventory information.
+A sample production budget is given below for ease of understanding:
+Quarter 1
+Quarter 2
+Quarter 3
+Quarter 4
+Sales Forecast (unit)
+2000
+3000
+2500
+3000
++ Planned Ending Inventory (units)
+200
+200
+200
+200
+- Beginning Inventory (units)
+100
+200
+200
+200
+= Required Production (units)
+1900
+3,000
+2500
+3000","Budget: A budget is a financial plan that outlines expected income and expenditures for a specific period of time, usually a fiscal year or a calendar year. It serves as a tool for financial management, as it helps individuals and organizations manage their resources effectively by setting financial goals and allocating resources accordingly."
+17,"In a production budget, the total required units are the budgeted sales units plus:",desired ending finished goods units plus beginning finished goods units.,desired ending finished goods units minus beginning finished goods units.,beginning finished goods units.,desired ending finished goods units.,B,"Correct Answer: Option b. desired ending finished goods units minus beginning finished goods units.
+Explanation:
+The equation that is used for budgeted production is:
+Budgeted production = Budgeted sales units + Desired ending finished goods units - Beginning finished goods units
+Budgeted production indicates the units required to be produced in the next period in order to meet the needs of the estimated sales. The beginning inventory is reduced because the goods are already produced and can be sold directly.",Ending Inventory: Ending inventory indicates a current asset with a permanent account balance. The ending inventory for the current period is the beginning inventory of the next period as the inventory account is not closed at the end of the accounting period.
+18,The culmination of preparing operating budgets is the:,cash budget,budgeted income statement,budgeted balance sheet,production budget,B,"Correct Answer:
+Option (b) budgeted income statement is the correct answer because the budgeted income statement used estimating profit, revenue, and  expenses to the organization for the future years
+Incorrect Answers
+Option (a) cash budget is not the correct answer because it presents a cash receipt and a cash payment of the organization.
+Option (c) budgeted balance sheet is not the correct answer because it records the assets and liabilities and stockholders for future years.
+Option (d) production budget is not the answer correct answer because it records the estimation of the unit of productions.
+So correct answers is an option (b) budgeted income statement",Production budget: The production budget is the budget that the number of units to be produced in the future years. They will help to maintain the proper balance of units in the organization. It is calculated as sales plus the ending inventory in the organization.
+19,It is least likely that a production budget revision would cause a revision in the:,capital budget.,cash budget.,purchases budget.,pro forma balance sheet.,A,"Answer: a. capital budget.
+When the production budget is revised, this means that that the estimated level of sales, the estimated beginning inventories or the ending inventories are revised. Thus, the required level of purchases, as presented in the purchases budget are revised as well. Moreover, since these purchases may be made on account or bought through cash, the cash budget will at the same time change. The proforma balance sheet will also be affected by either the change in cash or the change in inventory balances. Thus, Choice A, or the capital budget is least likely to be affected by this transaction.","Cash Collections Budget: The Collections budget, also known as the cash receipts budget, reports the amount of estimated collections, based on the schedule of sales and accounts receivables."
+20,"In the production budget, the total units to be produced is computed as _____.",expected sales - desired ending inventory - beginning inventory,expected sales + desired ending inventory + beginning inventory,expected sales - desired ending inventory + beginning inventory,expected sales + desired ending inventory - beginning inventory,D,"The correct alternative would be ""d.""
+{eq}\text{Total units to be produced}=\text{Expected sales}+\text{Desired ending inventory}-\text{Beginning inventory}
+
+{/eq}
+Explanation:
+A production budget can be a report that estimates the number of items a plant will manufacture based on projected sales and required ending inventory levels for future periods. Thus, the quantity will be determined by adding the desired level of inventory to the estimated sales and subtracting the quantity already available that is beginning inventory.
+Hence, the correct equation to compute the units is as follows:
+{eq}\text{Total units to be produced}=\text{Expected sales}+\text{Desired ending inventory}-\text{Beginning inventory}
+
+{/eq}","Inventory The products that are available for sale, the leftover raw materials after the manufacturing process, and the items classified as ""work in progress stock"" would be incorporated into the ""inventory"". It is a critical asset for a trade."
+21,"The production budget shows expected unit sales of 16,000. Beginning finished goods units are 2,800. Required production units are 16,800. What are the desired ending finished goods units?","2,000.","2,800.","3,200.","3,600.",D,"The correct option is D. 3,600
+.
+Compute the desired ending stock as below:
+{eq}\begin{align*}
+
+{\rm\text{Closing Stock}} &= {\rm\text{Production}} + {\rm\text{Opening Stock}} - {\rm\text{Sales}}\\
+
+&= 16,800 + 2,800 - 16,000\\
+
+&= 3,600
+
+\end{align*}
+
+{/eq}","Closing Stock: The quantity that a non-service business entity holds at the closing of each period is called the Closing Stock. This also serves to be the opening stock for the next period. It is valued using FIFO, LIFO, and average cost techniques when the price is not constant."
+22,Which budget is prepared without dollar amounts?,direct materials purchases budget,overhead budget,production budget,all of the above,C,"The answer is ""c. production budget.""
+Explanation:
+We would like to define each budget and reach out to you at the conclusion.
+a. Direct material purchase budget: After finalizing the quantity to be produced, the DM (direct material) purchase budget would be prepared to ascertain the quantity of DM required to produce the quantity. The anticipated expenses and cost of DM would also be incorporated into the budget.
+b. Overhead budget: It would estimate all the costs that are anticipated to produce merchandise or provide services. But it will not include the cost of DM and direct labor.
+c. Production budget: It would be an estimation of the quantity to be produced and would not incorporate the cost of these required quantities. The anticipated quantity in the budget would be the basis for preparing further budgets.
+d. According to the description of the other alternatives written above, the alternative ""d"" cannot be the correct alternative, and the same would be elaborated on in the conclusion paragraph.
+Conclusion
+: Hence, the DM purchases and overhead budget would consist of costs (in dollar amounts), whereas the production budget would only incorporate the quantity. Thus, the accurate answer is ""production budget,"" and all other alternatives are wrong.","Master Budget The master budget will consist of a financial strategy, cash flow figures, and budgeted monetary articulations with all the subordinate budgets, and in general, it will be prepared for a financial year."
+23,Which of the following budgets does not require the production budget?,direct materials,direct labor,manufacturing overhead,marketing and administrative expenses,D,"Answer: D. marketing and administrative expenses
+All of the costs in the choices needs a budget. However, only direct materials, labor, and manufacturing overhead are included in the production budget as they are necessary to produce the products. These certain costs are referred to as product costs and therefore, inventoriable. Marketing and administrative expenses is not a product cost. Hence, not in the production budget but in the administrative budget. It is a period cost. Period costs are expensed outright at the period they are incurred. Period costs do not relate to the production. They are not incurred to produce products but rather to manage the company. Example, the salaries of employees. The salaries of employees assigned in the production department is a product cost. So, it is included in the production budget. The salaries of employees in the marketing and selling department are period costs and should be under the administrative budget.",Production Budget A production budget estimates the total amount of resources needed for a the entire production in a certain period. It uses estimates based on past experiences and current market trends. A certain production level is estimated to cater the estimated Sales for such period. The cost is then budgeted to achieve the estimated number of units to be produced.
+24,Which of the following must managers prepare before they can prepare a direct materials purchases budget?,Labor budget,Overhead budget,Production budget,Cost of goods manufactured budget,C,"The correct option is
+c. Production budget
+Explanation:
+If the management wants to determine the amount of direct materials to be acquired, it must first know the level of production. It means the units to be manufactured in a given period must be determined. Therefore, the management must create the production budget first, and after that, the direct materials to be used for the preparation of estimated units should be analyzed.
+Explanation for the incorrect options:
+Option a. It is incorrect because the labor budget is separate from the direct materials budget.
+Option b. It is incorrect because the overhead budget is prepared after the direct materials and labor budgets.
+Option d. It is incorrect because the cost of goods manufactured budget is prepared at the end after the preparation of direct materials, labor, and overhead budgets.","Managers: Managers are the individuals who administer the tasks of others and ensure the team members are performing as per the policies. If various activities are being performed and the size of the business entity is large, a higher number of managers can be appointed."
+25,"In order to estimate production requirements, we",add beginning inventory to projected sales in units and subtract desired ending inventory.,add projected sales in units to desired ending inventory and subtract beginning inventory.,add beginning inventory to the desired ending inventory and divide by two.,add beginning inventory to the desired ending inventory and subtract projected sales in units.,B,"Correct answer:
+Option B) add projected sales in units to desired ending inventory and subtract beginning inventory.
+Explanation:
+Note that, budgeted production is equal to the sum of the budgeted sales units, and the desired ending inventory reduced by the beginning inventory.
+Formula:
+Budgeted production = Budgeted sales + Desired Ending inventory - Beginning inventory.
+Since there is stock already in the beginning inventory, the projected units to the extent of beginning inventory can be reduced and units sufficient to meet the sales and desired inventory should be produced.","Production Budget: A production budget tells the company as to how many units are required to be produced during the future period and in order to determine the same, it has to depend on the sales budget to gather information as the budgeted sales. The sales budget indicates the units that are expected to be sold in the future period."
+26,Which of the following budgets must managers prepare before they can prepare a direct materials purchases budget?,Labor budget,Overhead budget,Production budget,Cost of goods manufactured budget,C,"The correct answer is
+option c. Production budget.
+The managers must prepare production budget first so that the can prepare prepare a direct materials purchases budget. To be particular, its the Sales Budget that must be done first on a set of production budget report. So, the correct answer is option c.","Production Budget: In management accounting, a production budget means an estimate for products to be produced by the organization over a particular period. It is primarily based on the forecasted sales of the company."
+27,"The production budget shows expected unit sales of 64,000. Beginning finished goods units are 11,200. Required production units are 67,200.","8,000","11,200","12,800","14,400",A,"To find the desired ending finished goods units on the budget, we use the following formula:
+Beginning Goods + Required Production - Expected Unit Sales = Desired Ending Finished Goods Units
+11,200 + 67,200 - 64,000 =
+14,400","Production Budget: Capacity refers to the limits a company can operate in during production. Companies do not operate at capacity even though they can because a production that exceeds sales beyond a certain amount leads to unnecessary inventory costs. For this reason, companies operate with a production budget."
+28,Select the correct equation format for the purchases budget.,Beginning inventory + expected sales = required purchases.,Cost of budgeted sales + beginning inventory - desired ending inventory = required purchases.,Beginning inventory + expected sales - desired ending inventory = required purchases.,Cost of budgeted sales + desired ending inventory - beginning inventory = required purchases.,D,"Correct Answer:
+Option d. Cost of budgeted sales + desired ending inventory - beginning inventory = required purchases.
+To determine the required production or purchases, we use the following format:
+Amount
+Expected sales
+XX
+Add: Desired ending inventory
+XX
+Less: Beginning inventory
+(XX)
+Required purchases / production
+XX
+To be prepared for the estimated sales, the production process should be free from interruption, and to help the same, we use a production budget.",Production Process: The production process requires converting raw materials into intermediaries and then finished goods. The smooth flow of production requires eliminating stock-out situations and other hindrances.
+29,Calculate the production budget from the following data:,"80,058 units","146,370 units","32,330 units","98,642 units",D,"The correct answer is
+d. 98,642
+.
+The production budget is given by:
+{eq}\begin{align*}
+
+&= \text{sales + closing inventory - opening inventory} \\[0.3 cm]
+
+&= 89,350 + 33,156 - 23,864 \\[0.3 cm]
+
+&= 98,642 \text{ units}
+
+\end{align*}
+
+{/eq}","Production Budget: In the parlance of accounting, the budgeting process is used to make projections for the costs, revenues, and cash flows for the forthcoming year. The overall budget may be decomposed into various sub-budgets, such as production budget, sales budget, and inventory budget."
+30,Which of the following is not used in the preparation of a production budget?,The sales forecast.,The inventory policy.,Cash payments for raw materials.,The beginning inventory quantity.,C,"Correct Answer:
+Option c. Cash payments for raw materials
+.
+A production budget determines the units to be produced in a given period after considering the estimated sales units, desired ending stock, and the beginning stock. The formula to express required production is given as follows:
+Production budget = Estimated sales units + Desired ending inventory - Beginning inventory
+Where,
+The sales budget provides the estimated sales forecast.
+The inventory policy provides for the units desired in ending inventory.
+Beginning stock flows from the ending stock of the previous year.
+The cash payment for raw materials is not mentioned anywhere in preparing a production budget
+.",Stock: Stock is an adjustment item that impacts the income statement (cost of goods sold and net income) and balance sheet (assets). It should be valued at the lower of cost and the market value.
+31,What learning rate is being demonstrated if the first unit takes 25 hours and the third unit takes 24 hours to complete?,Greater than or equal to 97 percent,Less than 97 percent but greater than or equal to 95 percent,Less than 95 percent but greater than or equal to 93 percent,Less than 93 percent,A,"The correct answer is
+Option (A)
+.
+Calculation of the learning rate (b):
+{eq}\begin{align*}
+
+{\rm\text{Unit 3}}_{}^{{\rm\text{Log}}_2^{}{\rm\text{b}}} &= \frac{{{\rm\text{Time}}_{{\rm\text{Unit 3}}}^{}}}{{{\rm\text{Time}}_{{\rm\text{Unit 1}}}^{}}}\\
+
+{\rm\text{3}}_{}^{{\rm\text{Log}}_2^{}{\rm\text{b}}} &= \frac{{24}}{{25}}\\
+
+{\rm\text{3}}_{}^{{\rm\text{Log}}_2^{}{\rm\text{b}}} &= 0.96\\
+
+{\rm\text{Log}}_2^{}{\rm\text{b}} &=  - 0.037157781\\
+
+{\rm\text{b}} &= 2_{}^{ - 0.037157781}\\
+
+&= 0.974573041{\rm\text{ or}}{\rm\text{ 97}}{\rm\text{.46% }}
+
+\end{align*}
+
+{/eq}
+The learning rate is 97.46%.",Production: Business establishments perform production processes to produce commodities or services to fulfil their customers' demands and earn sales revenue. Managers use a learning curve to check the efficiency and effectiveness of the production process.
+32,The MRTS is equal to the,slope of the total product curve.,change in output divided by the change in labor.,change in output minus the size of capita.,ratio of the marginal products of the inputs.,D,"Correct option is d) ratio of the marginal products of the inputs
+Let us take {eq}labor\left( L \right){/eq} and capital{eq}\left( K \right)
+
+{/eq} as the inputs of production of an isoquant.
+{eq}MRTS{\rm{ = }}\left(  -  \right)\dfrac{{\left( {\Delta K} \right)}}{{\left( {\Delta L} \right)}}
+
+{/eq}
+Let the marginal productivity of labor and marginal productivity of capital be denoted by {eq}M{P_L}
+
+{/eq} and {eq}M{P_K}
+
+{/eq} respectively.
+Change in output {eq}\left( {\Delta Y} \right)
+
+{/eq} is denoted by
+{eq}\begin{align*}
+
+\Delta Y &= \left( {\Delta K \times M{P_K}} \right) + \left( {\Delta L \times M{P_L}} \right)\\
+
+0 &= \left( {\Delta K \times M{P_K}} \right) + \left( {\Delta L \times M{P_L}} \right)\\
+
+- \left( {\Delta K \times M{P_K}} \right) &= \left( {\Delta L \times M{P_L}} \right)\\
+
+- \dfrac{{\Delta K}}{{\Delta L}} &= \dfrac{{M{P_L}}}{{M{P_K}}}
+
+\end{align*}
+
+{/eq}
+Here, {eq}\Delta Y
+
+{/eq} is zero meaning the output remains unchanged.
+{eq}MRTS =  - \dfrac{{\Delta K}}{{\Delta L}} = \dfrac{{M{P_L}}}{{M{P_K}}}
+
+{/eq}
+Thus, Marginal rate of substitution {eq}\left( {MRTS} \right)
+
+{/eq} is equal to the ratio of the marginal products of the inputs.",Total product Total product is defined as the total output produced by an industry or a firm in a certain period of time using various inputs. Such as output requiring capital and labor for its production is calculated by multiplying the total labor and total capital used in the production process over the production period which may be a day or a month or even a year.
+33,All of the following are reasons why firms have different production costs except _____.,learning,scope of involvement,product design,economies of scale,B,"The answer is
+B) scope of involvement
+Scope of involvement refers to the market segments organizations intend to compete in. Understanding the scope of involvement does not directly or uniquely explain different production costs.
+Other Options
+A) learning influences innovative technology which, ultimately, keeps costs down.
+C) product design directly impacts production costs due to the costs of materials in the design.
+D) economies of scale is an advantage in terms of costs because the more an organization produces, the less their production costs are.","Production Costs Production costs are a combination of explicit and implicit costs. Explicit costs are the costs that are directly paid for such as labor and material costs. Implicit costs are not explicitly stated and cannot be reported, such as opportunity cost."
+34,Which of the following budgets must managers prepare before they can prepare a direct materials purchase budget?,Labor budget,Overhead budget,Production budget,Cost of goods manufactured budget,C,"The answer is
+c. Production budget
+Production Budget shows the estimated units of product that can be produced in the next production period. The production budget is then used to determine the estimated direct materials that should be used. The estimated direct materials for next production period is shown in the direct materials purchase budget.",Direct materials purchase budget: Direct materials purchase budget is the estimated direct materials to be used on the next production period. It is computed by multiplying the estimated production to the estimated direct materials used per unit.
+35,Which of the following budget is not specifically dependent on the short-run production budget?,Direct materials budget.,Direct labor budget.,Factory overhead budget.,Capital expenditures budget.,D,"The direct materials budget, direct labor budget, and factory overhead budget are calculated based on the short-term production budget. For instance, the quantity of direct materials, labor, and overhead will depend on activity. The capital expenditures budget, on the other hand, is used in reference to long-term goals.
+The correct answer is
+d. Capital expenditures budget.","Production Budget: The production budget is a budget which demonstrates the units the company expects to produce. Moreover, this budget shows the estimated inputs which will be required to meet estimated production as well as the cost of the associated inputs. The number of units to be produced is calculated using approximate sales figures and planned finished goods inventory."
+36,The budget or schedule that provides necessary input data for the direct labor budget is the:,raw materials purchases budget.,production budget.,schedule of cash collections.,cash budget.,B,"Option B. Production Budget
+Because It calculates the units which are to be produced.","Budget Budget refers to the statements where the expenses and income are budgeted in advance and the standards are set, which are to be followed and the deviations are then calculated and removed."
+37,The production budgets are used to prepare which of the following budgets?,Operating expenses,"Direct materials purchases, direct labor cost, factory overhead cost",Sales in dollars,Sales in units,B,"Correct Answer: Option b. Direct materials purchases, direct labor cost, factory overhead cost.
+Explanation:
+The production budget is prepared to determine the estimated number of units that should be produced in order to meet the needs of the sales and ending inventory. The purchase of direct materials, direct labor hours required, and the factory overhead cost are all based on the number of units to be produced. Hence the production budgets are used to prepare these three budgets.","Budgeting: Budgeting involves the creation of goals for the company, execution of plans to achieve the goals created, and comparison of actual results with the planned budget and account for any variances. There are various types of budgets that are classified on the basis of cost. Budgets are important for all types of organizations whether big or small."

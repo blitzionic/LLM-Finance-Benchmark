@@ -1,0 +1,435 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"What should you pay for a stock if next year's annual dividend is forecast to be $5.25, the constant-growth rate is 2.85%, and you require a 15.5% rate of return?",$41.50,$38.87,$31.25,$42.68,A,"Correct option is $41.50 (a).
+The calculation for the stock price is shown below.
+{eq}Stock \ price \ = \ \dfrac{Annual \ dividend}{Rate \ of \ return \ - \ Growth \ rate}
+
+\\
+
+Stock \ price \ = \ \dfrac{\$5.25}{15.5\% \ - \ 2.85\%}
+
+\\
+
+Stock \ price \ = \ \dfrac{\$5.25}{12.65\%}
+
+\\
+
+Stock \ price \ = \ \dfrac{\$5.25}{0.1265}
+
+\\
+
+Stock \ price \ = \ \$41.50
+
+{/eq}",Stock Valuation: Stock valuation is the process of determining the intrinsic value at which the stock can trade in the stock market. One method is to discount all the future cash dividends using the required rate of return.
+2,Accounting and reporting for equity securities where the company has 20 - 50% ownership use which of the following methods?,Equity.,Consolidation.,Fair value.,Amortized cost.,A,"The correct answer is A, i.e., equity
+Explanation:
+(A) Equity method:
+When one firm, the investor, significantly influences another company, the investee, the equity method is employed. A corporation is said to have substantial influence when it owns between 20 and 50 percent of the equity of another company.
+Companies that own less than 20% of another company's stock could have considerable influence on the company. If they do, then, they must also apply the equity approach.
+The explanation for incorrect options:
+(B) Consolidation method:
+The subsidiary and the parent business balances are reported in a single statement. Thus, the term ""consolidated"" is under the consolidation technique. When using the consolidation approach, a parent business adds all of the revenue from a subsidiary to its own.
+(C) Fair value method:
+The fair value accounting method is followed when assessing the company's liability in its present market. In other words, ""fair value"" is the price at which one might sell an asset while still being fair to the seller and the buyer.
+(D) Amortized cost:
+A fixed asset's amortized cost is the portion of its cost charged to expenses through depreciation or amortization. Intangible fixed assets are notably reduced through amortization, and tangible fixed assets are notably reduced through depreciation",Equity method: The equity method is an accounting method used when investing in another company. It is used when the investor controls 20 to 50% of voting stock and gets the right to vote on any decision in investing company.
+3,"If a stock pays a constant annual dividend, then the stock can be valued using the:",present value of an annuity due formula,perpetuity present value formula,present value of an ordinary annuity formula,payout ratio formula,B,"The correct answer is option
+B. perpetuity present value formula
+.
+The present value of a perpetuity is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Annual payment}}{\text{Discount rate}} \end{align*} {/eq}
+Similarly, the value of a stock that is expected to pay a constant annual dividend is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Constant annual dividend}}{\text{Required rate of return}} \end{align*} {/eq}",Stock Valuation: The value of a stock is ascertained by taking a sum of all discounted values of all the expected cash flows. These cash flows are usually the dividend payments and the prospective selling price of the stock.
+4,An investor should purchase a stock when:,the market price is greater than the justified price.,the capital gains rate is less than the required return and no dividends are paid.,the market price exceeds the intrinsic value.,the expected rate of return equals or exceeds the required return.,D,"Option D
+is the correct answer.
+When the expected rate of return is higher than the required one, the investor will make a profit. If the rate is the same, he will make neither a profit nor a loss. Hence, option D is right.
+Option A: When the market price is higher than the justified price, the security is overvalued and should be avoided for investment purposes. Hence, option A is wrong.
+Option B: When the capital gain rate is lower than the required rate of return, the investor will end up incurring a loss. Hence, option B is wrong.
+Option C: When the market price exceeds the intrinsic value, the security is overvalued and should not be purchased. Hence, option C is wrong.",Stocks: Stocks are one of the most return-enhancing investments. One can earn an inflation-beating return with stocks and at the same time earn current income. One will profit from stocks by buying at a cheaper price and selling at a higher price.
+5,Preferred stockholders receive a dividend preference over common stockholders.,True,False,,,A,"This statement is true.
+As preference shareholders are those, who have a preference right to receive the dividend at the time of dividend distribution with a predetermined fixed rate over the common stockholders. And Preference shareholders are given priority in the payment of capital at the time of liquidation over the equity shareholders.",Shareholders 'Equity: Shareholders' equity is the investment of funds made by the company's owners into the business. This investment includes the funds directly invested in the business and reinvested profits or income.
+6,"How much of a stock's $30 price is reflected in PVGO if it expects to earn $4 per share, has an expected dividend of $2.50, and a required return of 20%?",$0,$6,$8,$10,D,"The correct answer is:
+D. $10
+The present value of growth opportunity is calculated as
+{eq}PVGO=P-\dfrac{EPS}{r}
+
+{/eq}
+Where:
+{eq}P
+
+{/eq} is the current price of a stock,
+{eq}EPS
+
+{/eq} is the earning per share and,
+{eq}r
+
+{/eq} is the required rate of return or the cost of capital.
+Therefore, given the information in the question, the PVGO is equal to
+{eq}PVGO=\$30-\dfrac{\$4}{0.20}\\[0.3cm]
+
+PVGO=\$30-\$20\\[0.3cm]
+
+PVGO= \boxed{\$10}
+
+{/eq}","Present Value of Growth Opportunities In finance, the present value of growth opportunities (PVGO) determines the present value of reinvesting the future earnings. In simple terms, it is the present value of a company's growth."
+7,Dick Dowen is considering three investment opportunities:,A 4.5% city of Chicago bond that is tax-exempt at both state and federal levels.,A 4.75% state of Illinois bond that is tax-exempt at the federal level but taxable at the state level.,A 6.7% McDonald's corporate bond that is taxable at both the state and federal levels.,,A,"The Answer is A
+Effective after-tax rate of return:
+Effective after-tax rate of return = Pretax interest rate x (1 - Federal tax rate) x (1 - State tax rate)
+A. Determine the effective after-tax return of the City bond:
+Effective after-tax return = 4.5%
+B. Determine the effective after-tax return of the State bond:
+Effective after-tax return = 4.75% x (1 - 6%) = 4.47%
+C. Determine the effective after-tax return of the corporate bond:
+Effective after-tax return = 6.7% x (1 - 6%) x (1 - 30%) = 4.41%
+Conclusion:
+According to the estimate after-tax returns, bonds from the City of Chicago has the highest yield.Therefore, the answer is C.","Treasury Bonds: Treasury bonds are debentures issued by the government to fund its upcoming expenditures. Usually, interest earnings from Treasury bonds will be exempt from income tax."
+8,Which one of the following is a requirement of the two-stage dividend growth model?,both growth rates must be less than the discount rate,one of the two growth rates must exceed the discount rate,the first growth rate must exceed the second growth rate,the second growth rate must be less than the discount rate,E,"Correct Answer: E
+The discount rate must be higher than the second growth rate in the two-stage growth model. The denominator term in the stock valuation model requires reducing the second growth from the discount rate. If the growth rate is high, the stock value will turn negative. A zero growth rate will yield an infinite value. So the second growth rate must be less.
+An explanation for incorrect options:
+Option A: First growth rate is not necessary to be higher than the discount rate. The reason is that difference between the first growth rate and the discount rate is not applicable in the formula.
+Option B: Second should not exceed; there is no choice anyone can exceed.
+Option C: There is no restriction in the relationship between the two growth rates.",Second Growth Rate: The growth rate applicable after the initial growth rate in the two or multi-stage growth model is known as the second growth rate. The second growth rate will also serve as the final growth rate in the two-stage model.
+9,Who determines the market price of a share of common stock?,The board of directors of the firm,The stock exchange on which the stock is listed,The president of the company,Individuals buying and selling the stock,B,"Correct Answer:
+Option b. The stock exchange on which the stock is listed
+.
+A company's common stock refers to the capital it raises by issuing its shares to investors. Common stock can be valued using the dividend growth model and a few other valuation models.
+Options
+Analysis
+a. The board of directors of the firm.
+The board, elected by the common stockholders, determines the dividend per share, not the market price.
+b. The stock exchange on which the stock is listed.
+The stock's market price is determined by the market forces and the stock exchange in which the stock is listed. In the US, the stock exchange is New York Stock Exchange (NYSE).
+c. The president of the company.
+The market price per share is not a company's decision. It bases on the market and the stock's volatility to the market changes.
+d. Individuals buying and selling the stock.
+Individuals who trade stock cannot determine the stock price. They trade for the stock based on the market price of the share, which depends on the market forces.","Stock Valuation: Stock valuation helps investors make investment decisions. An investor can choose from various models of valuation, such as the dividend growth model and the free cash flows model, to determine a stock's intrinsic value."
+10,The dividend growth model is based on the assumption that the dividend either remains constant or increase by a positive amount each year.,True,False,,,B,"The correct answer is option
+B) False
+.
+The dividend growth model is based on the assumption that the expected dividend either increases or decreases by a constant percentage each year. The value of a stock, as per this model, is given by:
+{eq}P = \dfrac{D_1}{(r - g)}
+
+{/eq}
+where,
+P = Value of the stock today
+D1 = Dividend to be paid next year
+r = Required rate of return
+g = Expected constant growth rate of dividends","Stock Valuation: The stock valuation of a firm can be done using methods such as the discounted cash flow method, constant growth rate model, or dividend discount model. The value can be compared with the stock's market price to see if the stock is fairly valued."
+11,"Using the one-period valuation model, assuming a year-end dividend of $1.00, an expected sales price of $100, and a required rate of return of 5%, the current price of the stock would be:",$110.00,$101.00,$100.00,$96.19,D,"The current price of the stock would be
+Option D) $96.19
+.
+Using the  one-period valuation model, we can use the following equation to determine the current stock price:
+{eq}\text{Current stock price} = \dfrac{\text{Expected dividend + Expected sales price}}{\text{1 + Required return}} = \dfrac{\$1 + \$100}{1 + 5\%} = \$96.19
+
+{/eq}",Required Return: The return investors expect on their stock investment in a company is termed the required return. It is the yield that an investor expects to hold an investment in a company. The one-period valuation model requires using the year-end dividends and expected sales price.
+12,"If your company purchases a new, American-made laptop computer to track stock prices in your career as a stockbroker, it will be classified in US GDP as",a household expenditure.,a consumption expenditure.,an investment expenditure.,not classified.,C,"If your company purchases a new, American-made laptop computer to track stock prices in your career as a stockbroker, it will be classified in US GDP as
+C. an investment expenditure.
+Investment spending or expenditure relates to the amount of money an individual or business spends on purchasing capital goods. In the above case, the laptop computer was purchased to help a business carry out specific business. This means that the laptop is capital good for the business. Therefore, it is classified as an investment expenditure. If the laptop was bought for personal use or entertainment, it would be classified as a consumer good. Thus, the correct answer is
+option C
+.
+Additional Information
+Option A. a household expenditure
+is INCORRECT since the household expenditure involves money spent on household goods and services.
+Option B. a consumption expenditure
+is INCORRECT because consumer expenditure is made up of goods bought for the end consumer consumption.
+Option D. not classified
+is INCORRECT because the item is classified as investment expenditure.",Stockbroker: A stockbroker relates to an individual who buys and sells stocks on behave of a third party. Predicting the stock price of stocks is essential for stockbrokers since it enables them to give better advice to the stockholder. One of the ways of predicting stock is through data analysis.
+13,"Old Imbalance Footwear, Inc., stock pays $3.20/share each year in dividends, with investors' required return equaling 10%. What is the price of a share of stock?",$320,$16,$32,,C,"Option (c) is correct.
+Calculation of share price:
+{eq}\begin{align*}
+
+{\rm\text{Share Price}} &= \frac{{{\rm\text{Dividend}}}}{{{\rm\text{Required Rate of Return}}}}\\
+
+&= \frac{{\$ 3.20}}{{10\% }}\\
+
+&= \$ 32
+
+\end{align*}
+
+{/eq}","Theoretical Share Price: The share price determined with the help of valuation model like dividend discount model is known as theoretical share price. It is ascertained to determine how securities are valued in the market, whether underpriced or overpriced."
+14,Assume you purchased 150 shares of a stock at $18 per share (ignore all commissions). The stock paid a dividend of $0.75 per share for the year. What is the total cost of the stock?,$112.50,"$1,800","$2,812.50","$2,700",D,"The correct answer is option
+d. $2,700
+.
+The total cost of the stock is given by:
+{eq}\begin{align*}
+
+&= \text{Cost per share * number of shares} \\[0.3 cm]
+
+&= $18 * 150 \\[0.3 cm]
+
+&= $2,700
+
+\end{align*}
+
+{/eq}","Stock Valuation: The stocks of a firm can be broadly categorized into two categories, namely, common stock, and preferred stock. The preferred stockholders are given preference over the common stockholders for the disbursement of dividends and liquidation proceeds."
+15,"In a general sense, the value of any asset is the",Value of the dividends received from the asset.,Present value of the cash flows received from the asset.,Value of past dividends and price increase for the asset.,Future value of the expected earnings discounted by the asset's cost of capital.,B,"The correct answer is option
+B) Present value of the cash flows received from the asset.
+The value of any asset is computed by taking a sum of the present values of all the cash flows expected to be received from it. The discount rate for the computations is usually the opportunity cost or cost of capital.","Valuation: The required rate of return predominantly governs the value of assets like bonds and equities. Some techniques used for the valuation of equities are the dividend discount model, discounted cash flow model, and dividend growth model."
+16,Which of the following statements is CORRECT?,Two firms with the same expected dividend and growth rates must also have the same stock price.,It is appropriate to use the constant growth model to estimate a stock's value even if its growth rate is never expected to become constant.,"If a stock has a required rate of return rs = 12%, and if its dividend is expected to grow at a constant rate of 5%, this implies that the stock's dividend yield is also 5%.",The constant growth model takes into consideration the capital gains investors expect to earn on a stock.,D,"The correct answer is
+Option D.
+The constant growth model is a technique used in the analysis of a company's stock price. The dividend discount model, a form of the constant growth model, considers the sum of income and capital gains expected by the investors as the total returns on a given stock.
+An explanation for Incorrect Options:
+Option A:
+Two firms having similar expected dividend and growth rates may not have the same stock price.
+Option B:
+The constant growth model is useful to estimate a stock's value only when the growth rate is expected to be constant.
+Option C:
+If a stock has a required rate of return is 12%, and if its dividend is expected to grow at a constant rate of 5%, it does not imply that the stock's dividend yield is also 5%.","Stock Valuation Models Stock Valuation Models facilitate determining the position of the stock value by measuring its intrinsic value. Different models, such as discounted cash flow, dividend discount model, etc., are used by investors to know if the stock is overvalued or undervalued."
+17,"Assume an economy in long-run equilibrium. If there is a rise in the stock market that increases the value of stocks held by households, which of the following will be true?",V only.,I and III only.,II and III only.,I and IV only.,D,"In a long-run equilibrium situation if there is a rise in the stock market and thereby an increase in the value of the stocks held by households then consumption rises. As consumption rises, the real GDP in the economy rises and the aggregate demand curve shifts to the right. As a result, the price level rises. This higher price level leads to a lower wage and employment rises in the economy. So, real GDP is more than the potential output for which an inflationary gap develops. To bring the economy back to equilibrium or to eliminate the gap the aggregate demand curve needs to be shifted to the left by policy intervention. This is also called a stabilization policy or a contractionary policy. Hence, the correct solution is (D).",Stock market The stock market is a market where buyers and sellers trade equity shares of public and private enterprises. All public enterprises need to be enlisted in a particular stock exchange to participate in the trading of shares.
+18,What should be the price for a common stock paying $3.50 annually in dividends if the growth rate is zero and the discount rate is 8?,$22.86,$28.00,$42.00,$43.75,D,"The price of common stock is $43.75 (D)
+The calculation is shown below.
+{eq}Price \ of \ common \ stock \ = \ \dfrac{Dividend}{Discount \ rate}
+
+\\
+
+Price \ of \ common \ stock \ = \ \dfrac{\$3.50}{8\%}
+
+\\
+
+Price \ of \ common \ stock \ = \ \dfrac{\$3.50}{0.08}
+
+\\
+
+Price \ of \ common \ stock \ = \ \$43.75
+
+{/eq}",Stock Valuation: A stock valuation can be defined as the process of finding out the intrinsic value of the common stock at which the buyer will be ready to buy the stock and the seller will be ready to sell.
+19,"If the market rate of interest is 10%, a $15,000, 13%, 10-year bond that pays interest annually would sell at an amount",equal to face value.,less than face value.,that cannot be determined.,greater than face value.,D,"The correct answer is option
+D) greater than the face value
+The selling price of a bond is inversely related to the market interest provided other parameters like the coupon rate, yield to maturity, and face value are intact. Thus, the selling price will be greater than the face value if the market interest rate is less than the coupon rate and the selling price will be less than the face value if the market interest rate is more than the coupon rate. The selling price is equal to the face value if both the market interest rate and coupon rate are the same.
+In the given question, since the market interest rate of 10% is less than the coupon rate of 13%, the selling price will be more than the face value.","Bond Valuation: A bond is a debt instrument issued by corporations and governments to raise funds in the form of long-term borrowings. A bond may be issued at the face value, at a discount to the face value, or at a premium to the face value."
+20,"How much should you pay for a share of stock that offers a constant growth rate of 10%, requires a 16% rate of return, and paid a $5 dividend last year?",$91.67,$50.00,$81.25,$95.86,A,"We will use the current price formula which is:
+{eq}Stock\,Price =\dfrac {D1}{r-g}\\
+
+{/eq}
+where,
+D1 = Expected Dividend = Dividend*1 + r = 5* 1.10
+r = Required Rate of Growth = 0.16
+g = growth rate = 0.10
+{eq}Stock\,Price =\dfrac {(5\times 1.10)}{(0.16-0.1)}\\
+
+Stock\,Price = \dfrac {5.5}{0.06}\\
+
+Stock\,Price = 91.67(Approx).\\
+
+{/eq}
+Stock price for the stock considering all variables is
+A. $91.67","Stock Price Stock price represents the current value of stock shares at a given time. The price of a stock fluctuates based on various factors, such as the number of people who want to purchase the stock versus selling the stock."
+21,The value of a supernormal growth stock is the present value of the mixed growth dividends plus the present value of the constant growth dividends.,True,False,,,A,"The statement is
+TRUE.
+The intrinsic value of a stock can be determined by discounting all expected dividends at the investor's required rate of return. This valuation approach is relevant with an assumption that the firm will last forever. Alternatively, dividend payments must be carried indefinitely. Thus, analysts will assume that the firm will make a constant growth dividends when its operation is matured while dividends might be maintained at different growth rate for a short period. Hence, it is correct to statement the value of a supernormal growth stock is the present value of the mixed growth dividends plus the present value of the constant growth dividends.","Intrinsic Value: A stock's intrinsic value represents the fair value of stock, in which it should reflect the fundamental value of equity per share. Usually, investors will decide a purchase decision by comparing the intrinsic value and the market price. If the market price exceeds the intrinsic value, the stock is overvalued by market investors."
+22,The zero-growth dividend model:,gives the highest value for a common stock.,is the most accurate model to use.,is equivalent to the valuation model for preferred stock.,assumes the highest required return possible.,C,"The correct answer is
+c) is equivalent to the valuation model for preferred stock.
+Preferred stockholders get the same amount of dividend and there is no growth; thus, a zero-growth dividend model is equivalent to the preferred stock valuation model. The amount of the dividend remained fixed forever in both cases.
+The other options are incorrect.
+a) gives the highest value for a common stock
+: The dividend discount model (DDM) gives the highest value for the common stock.
+b) is the most accurate model to use:
+DDM is the most accurate model to use, as it determines the true value of stock.
+d) assumes the highest required return possible
+: Zero-coupon does not assume the highest return. It assumes a zero dividend growth rate.","Zero-Growth Dividend Model: The zero-growth dividend model, as the name implies, assumes that the dividend growth rate of stock is zero. Thus, this model assumes that the same amount of dividend is paid forever."
+23,"The outstanding debt of Berstin Corp. has eight years to maturity, a current yield of 8%, and a price of $95. What is the pretax cost of debt if the tax rate is 30%?",8.5%,6.5%,5.6%,more information needed,A,"The answer is
+A. 8.5%
+Summary:
+Price = $95
+Par = $100
+Time to maturity (N) = 8
+Current yield = 8%
+Determine the coupon payment (PMT):
+PMT = Bond price x Current yield = $95 x 8% = $7.6
+Determine the pre-tax cost of debt (I):
+Inputs for the financial calculator:
+FV = 100
+PV = - 95
+N = 8
+PMT = 7.6
+CPT I = 8.50
+The pretax cost of debt should be 8.50%","Bonds: An eligible corporate entity can sell bonds to the general public for additional debt capital. In practice, a new issue of bonds will have an advantage that its interest expense is a factor to reduce the firm's total income tax liability."
+24,The value of a stock is a function of:,future returns.,historic dividend growth rate.,most recent earnings per share.,past returns.,A,"The correct answer is
+Option a.
+The forecasted future returns of a firm evaluates its stock value. The present worth of the money invested in stock can be estimated by considering the future cash expected from the investment and discounting it at a required return percentage.
+Incorrect options:
+Option b is incorrect because the value of a stock is not dependent on the historical dividend growth rate.
+Option c is incorrect because the value of a stock does not depend on the most recent earnings per share.
+Option d is incorrect because the value of a stock is not a function of past returns.","Historical Dividend Growth Rate A company's dividend growth rate history determines the possible dividend growth in the future, which is an indicator of long-term financial income and success. It can calculate on a periodical basis, such as quarterly, or monthly or annually."
+25,"According to the semi-strong form of market efficiency, when new information becomes available in the market, the related stock prices will _____.",remain unchanged because they already reflect this information,accurately and rapidly adjust to include this new information,adjust to accurately reflect this new information over the course of the next few days,most likely increase because all new information has a positive effect on stock prices.,B,The answer is b. accurately and rapidly adjust to include this new information.  The semi-strong form of market efficiency holds that prices reflects all available technical and fundamental information.  The only information that is not present in prices is insider-level information.,"Stock Price: A stock price is the value of one share of common stock of a company.  It is also referred to as the market value of company.  When multiplied by the number of common stock shares outstanding, it yields the market capitalization of a company."
+26,True or false? People buy a corporation's stock because they like the good that is produced by that firm.,True,False,,,B,"The given statement
+People buy a corporation's stock because they like the good that is produced by that firm
+is
+false
+A corporation issues stocks to shareholders to raise the company's capital where each individual share represents ownership in the company. And grants the shareholder certain 'ownership' in the company. People buy corporation stocks because the stock market grows over a period of time. The shareholders receive a good amount of the company's profit in the 'long run'. And if the price of the stock increase, the individual can sell the stock aswell and earn a profit. Thus it is not the love for the product that induces an investor to purchase a corporation's stock.",Stock Market A 'stock' of a company refers to a security that represents possession of a fraction of the company. A shareholder is an individual or an institution that holds shares in a company's stock.
+27,"The market value of a stock depends on a number of factors, including investors' expectations regarding the future performance of a corporation.",True,False,,,A,"The correct answer is
+a. True.
+It can be correctly said that the market value of a stock depends on a number of factors, including investors' expectations regarding the future performance of a corporation.
+The price at which the stock of a company can be bought or sold is called its market value. It is primarily affected by the demand and supply forces, which are, in turn, affected by investor expectations.
+Any information that is expected to have a positive impact on business operations leads to higher investor expectations about future performance, increases demand, and drives up the stock price. On the other hand, any information that negatively affects the future expectations of investors about the business increases the supply and decreases the stock price. In addition, the stock price is also affected by other factors like interest rates, inflation, political stability, etc.",Stock: A security representing ownership interest in the company is called a stock. The stocks of listed companies trade on stock exchanges. It helps companies raise funds from the general public and provides liquidity to investors.
+28,The cost of common equity is represented by the symbol g in the dividend growth equation.,True,False,,,B,"The correct answer is option
+a. False
+.
+The value of a stock as per the dividend growth equation is computed as:
+{eq}\begin{align*}
+
+P &= \dfrac{D_1}{(r - g)}
+
+\end{align*}
+
+{/eq}
+where,
+P = Value of a stock
+D_1 = Dividend at the end of year 1
+r = cost of common equity
+g = growth rate","Stock Valuation: The value of a stock can be ascertained by using the dividend growth model, dividend discount model, and discounted cash flow model. A stock may be called undervalued, overvalued, or fairly valued on the basis of current market price and calculated value."
+29,If a stock's P/E ratio is 13.5 at a time when earnings are $3 per year and the dividend payout ratio is 40%.,$24.30,$18.00,$22.22,$40.50,D,"The stock's current price is $40.50 (D)
+The calculation is shown below.
+Stock's current price = P/E ratio * Earnings
+Stock's current price = 13.5 * $3
+Stock's current price = $40.50",Stock Valuation: Stock valuation is a process by which financial analysts calculate the intrinsic value of the common stock. It is the value at which the stock should be trading in the secondary market.
+30,"In the one-period valuation model, the current stock price increases if:",the expected sales price increases,the expected sales price falls,the required return increases,dividends are cut,A,"One-period valuation model:
+{eq}Price_0 = \displaystyle \frac{D1 + Price_1}{1 + I} {/eq}, where
+D1: Divinded in 1 year
+I: Required rate of return
+A. Correct. An increase in dividend payment or stock price will also raise the current price of stock.
+B. Incorrect. A lower future sales price will reduce the current price.
+C. Incorrect. An increase in the required rate of return will lower the current price since they have an inverse relationship.
+D. Incorrect. An omission of dividend payment will reduce the stock's intrinsic value.","Intrinsic Value: The intrinsic value of a stock refers to how much the stock is worth in today's dollars. The intrinsic value can be obtained by discounting all expected dividends, using the required rate of return as the discount rate for cash flows."
+31,"If a company's current stock price is $25.20 and it is likely to pay a $0.95 dividend next year. Since analysts estimate the company will have a 14% growth rate, what is its expected return?",17.77%,1.08%,3.77%,14.00%,A,"Answer: Option A, i.e., 17.77%, is the correct answer.
+Explanation: Computation of expected return:
+{eq}\begin{align*}
+
+{\rm\text{Expected return }} &= {\rm\text{ }}\left( {\frac{{{\rm\text{Next dividend}}}}{{{\rm\text{Current stock price}}}}} \right){\rm\text{ }} + {\rm\text{ Growth rate}}\\
+
+&= \left( {\frac{{\$ \;0.95}}{{\$ \;25.20}}} \right) + {\rm\text{ }}0.14\\
+
+&= 0.0377{\rm\text{ }} + {\rm\text{ }}0.14\\
+
+&= 0.1777\\
+
+&= 17.77\%
+
+\end{align*}
+
+{/eq}
+Therefore, the company's expected return is 17.77%, i.e., option A.",Expected return: It is the profit or loss an investor expects from an investment based on past returns and the likelihood of a particular return under various scenarios and does not guarantee actual returns.
+32,The annual interest on a bond divided by the bond's market price is called the:,yield to call.,required yield.,total yield.,current yield.,A,"A. Incorrect. Yield to call is a measure of an annual rate of return by holding a bond until the call provision is executed.
+B. Incorrect. Required yield refers to the investor's expected rate of return on the bond investment.
+C. Incorrect. Total yield can be considered as the yield to maturity of a bond.
+D. Correct. By diving the coupon payment by the bond's market price of a bond, investors can obtain its current yield, which is a measure of return on a bond. However, yield to maturity is more relevant than the current yield when analyzing a bond investment.
+E. Incorrect. The yield to maturity is an annualized rate of return when a bond is held until its maturity.","Bonds: Bonds are issued to raise additional debt capital to finance the firm's assets. A new issue of bonds has a lower financing cost compared to a new issue of equity.  However, the bond issuer will engage a large payment at the bond's maturity."
+33,A stock that pays a constant annual dividend will have a market price that:,increases when the market rate of return increases,decreases when the market rate of return increases,decreases over time,increases over time,B,"The correct answer is option
+b. decreases when the market rate of return increases
+.
+The market price of a stock that pays a constant annual dividend is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Annual dividend}}{\text{Market rate of return}} \end{align*} {/eq}
+Thus, the market price will decrease if the market rate of return increases, and similarly, the market price will increase if the market rate of return decreases.","Stock Valuation: The valuation of a stock can be carried out by using methods like the discounted cash flow model, dividend discount model, dividend growth model, or price-earnings ratio method. The value can be compared with the market price to see if the stock is rightly priced."
+34,What would you pay for a stock which just paid a $5 dividend (D0) if the expected dividend and earnings growth rate is 4% and you require a 16% return on your investment?,$33,$43,$51,$77,B,"The correct answer is
+Option b) $43
+.
+The dividend growth model is made of the following components:
+Expected dividend (Refer to the Step 1) = $5.20
+Constant growth rate = 4%
+Required return = 16%
+In the first step, we will determine the expected dividend, which represents the dividend receivable in the coming year.
+{eq}\text{Expected dividend} = \text{Current dividend × (1 + Constant growth rate)} = \$5 × (1 + 0.04) = \$5.20 {/eq}
+Upon arranging the components listed above in a logical manner, the following outcome is derived:
+{eq}\text{Stock's current price} = \dfrac{\text{Expected dividend}}{\text{Required return - Constant growth rate}} = \dfrac{\$5.20}{16\% - 4\%} = \$43.33 {/eq}
+Option b) $43 is the closest value of the stock's current price.
+.",Dividend Growth Model: The dividend growth model uses assumptions regarding the growth rate of dividends when determining the stock's intrinsic value. The assumption provides that the dividends will grow at the same rate until forever. The stock's price is also assumed to grow at the same rate as dividends.
+35,"Conventional valuation of firms entails discounting _____ cash flows using the target's weighted average cost of capital in order to estimate the firm's _____ _____, while the valuation of a firm from an LBO model perspective entails assuming a _____ capital structure in order to determine an estimate of the firm's _____ _____.","Free, terminal value, variable, enterprise value","Pre-financing, enterprise value, constant, equity value","Post-financing, enterprise value, variable, equity value",None of the above.,D,"The answer is D. None of the above.  An appropriate statement is provided below, with the missing words in CAPITAL LETTERS.
+Conventional valuation of firms entails discounting FREE cash flows using the target's weighted average cost of capital in order to estimate the firm's EQUITY VALUE, while the valuation of a firm from an LBO model perspective entails assuming a POST-FINANCING (or LEVERAGED) capital structure in order to determine an estimate of the firm's ENTERPRISE VALUE.",Company Valuation: A company valuation is an analytic exercise focused on establishing the intrinsic worth of a company.  Many different methods can be used when conducting a valuation.  The most effective exercises entail a mix of quantitative and qualitative approaches.
+36,"Growth stocks typically do not pay dividends, in order to maintain or accelerate their growth by reinvesting the earnings in the company.",True,False,,,A,"True
+.
+It is true that growth stocks usually do not pay dividends. It is done to accelerate their growth by reinvesting the earnings in the company. Thus, investors invest in these stocks for capital gain. Growth stocks usually sell at a higher price.","Dividends: Dividends are the returns that a stockholder receives. Dividends are usually a regular payment made by the company, either annually, semiannually, or quarterly as per the earnings of the company."
+37,Stock prices are influenced the most by:,general market conditions,the price of bonds,interest rates,inflation,C,"The correct answer is
+C. Interest rates
+.
+Interest rates are the most important element in determining the value of a stock. Increasing interest rates reduce a company's profit margins by increasing the cost of borrowing money. Stock prices are anticipated to fall as a result of reduced profitability. An interest rate decrease, which lowers the cost of borrowing money, is frequently beneficial when the economy is ailing and stock values are falling. However, this is not always the case. Stocks took a hit after the Federal Reserve's latest interest rate decrease was deemed insufficient.","Stock Prices: Everyone interested in stock market transactions needs to know the factors influencing the share price. Generally, these are the well-documented variables that influence the value of the stock. Stock prices fluctuate based on a variety of factors. It is possible for an investor to earn significantly in the stock market if one follows the appropriate methods and considers all the important factors."
+38,"Per our coverage of Revsine, if a company currently earns $5.00 per share, and has a risk-adjusted cost of equity capital of 9%, a share of common stock should theoretically sell for:",$0.45,$5.00,$48.00,$55.55,D,"The correct option is $55.55 (d).
+Calculation for selling price is shown below.
+{eq}Selling \ price \ = \ \dfrac{Current \ earnings}{Cost \ of \ equity}
+
+\\
+
+Selling \ price \ = \ \dfrac{\$5}{9\%}
+
+\\
+
+Selling \ price \ = \ \dfrac{\$5}{0.09}
+
+\\
+
+Selling \ price \ = \ \$55.55
+
+{/eq}",Stock Valuation: One of the methods that the investors used to determine the intrinsic value of common stock is to discount all the future cash inflow generated from the stock in the form of capital appreciation and dividends.
+39,"Compute the price of the stock if the,",$70.25,$72.50,$75.20,$74.10,C,"Correct option is $75.20 (C).
+The calculation for the price of the stock is shown below.
+{eq}Price \ of \ stock \ = \ \dfrac{Current \ dividend \ \times \ \left ( 1 \ + \ Growth \ rate \right )}{Required \ return \ - \ Growth \ rate}
+
+\\
+
+Price \ of \ stock \ = \ \dfrac{\$3.43 \ \times \ \left ( 1 \ + \ 14\% \right )}{19.2\% \ - \ 14\%}
+
+\\
+
+Price \ of \ stock \ = \ \dfrac{\$3.43 \ \times \ 1.14}{5.2\%}
+
+\\
+
+Price \ of \ stock \ = \ \dfrac{\$3.9102}{0.052}
+
+\\
+
+Price \ of \ stock \ = \ \$75.20
+
+{/eq}",Stock Price: If common stock is paying regular dividends to the common stockholders then we can calculate its intrinsic value by discounting all the future dividends. This is a popular method used by investors to determine the intrinsic value of a particular common stock.
+40,"In the generalized dividend model, the current stock price is the sum of:",the actual value of the future dividend stream,the present value of the future dividend stream,the present value of the future dividend stream plus the actual future sales price,the present value of the future sales price,B,"The correct answer is option
+B) the present value of the future dividend stream
+.
+The current price of a stock is computed by taking the present value of all future dividend payments. The future sales price is not considered in the generalized model because it is assumed that the stock will be held for a very long term and will not be sold.","Stock Valuation: The valuation of a stock can be done by using methods like the dividend discount model, discounted cash flow model, or dividend growth model. The current market price can be compared with the computed value to see if the stock is rightly valued."
+41,"Using the one-period valuation model, assuming a year-end dividend of $0.11, an expected sales price of $110, and a required rate of return of 10%, the current price of the stock would be:",$110.11,$121.12,$100.10,$100.11,C,"The current price of the stock would be
+Option C) $100.10
+.
+Using the  one-period valuation model, we can use the following equation to determine the current stock price:
+{eq}\text{Current stock price} = \dfrac{\text{Expected dividend + Expected sales price}}{\text{1 + Required return}} = \dfrac{\$0.11 + \$110}{1 + 10\%} = \$100.10
+
+{/eq}","Stock Valuation: A stock's intrinsic value helps determine if a company's stock is correctly priced or not. Investors can make the right investment decisions based on fair value. However, a stock's intrinsic value is different from the current market price."
+42,A stock's price will fall if there is,a decrease in perceived risk.,an increase in the required rate of return.,an increase in the future sales price.,current dividends are high.,B,"The correct answer is Option B.
+An inverse relationship exists between the expected stock price and its required return. If the rate of return rises, the stock price will fall. A higher risk is attached to a higher rate of return. If the investor requires an increased return on investment in stock, its price will need to be lower if all other factors remain the same.
+Explanation for incorrect options:
+Option A: Due a decrease in perceived risk, the price of the stock is not likely to fall.
+Option C: A stock's price will not fall if there is an increase in the future sales price.
+Option D:  High current dividends will not lead to a fall in the stock's price.","Perceived Risk: When consumers are uncertain about their decision to purchase goods, especially costly ones such as houses, cars, etc., their uncertain behavior is known as perceived risk. These differ for various customers."
+43,Which one of these statements is correct?,Betas are exact measurements.,"If a stock has a very low beta, it is most apt to maintain that beta in the future.",The expected future risk premium is easy to accurately determine.,CAPM is widely used as a means of valuing stock.,D,"The correct Option is
+D.
+CAPM (Capital Asset Pricing Model) is widely used to value stock. It is helpful to determine the fair value of a stock by comparing the time value and its risk with its estimated return.
+All other options are incorrect.
+Option A
+: Betas are not exact measurements. It measures the approximate effect of overall market movement on the movement of a stock, and its prediction may not always be accurate.
+Option B
+: Beta may change from year to year, as per the changes in the stock volatility. Hence, if a stock has a very low beta, is it not apt to maintain that beta in the future.
+Option C
+: It is not an easy task to accurately determine the expected future risk premium.","Stock Valuation Valuation of a company's stock is commonly done by calculating its price-to-earnings ratio measured by dividing the stock value by its earning per share. If the P/E ratio is low, it is established that the buyer of an investment receives the stock at an attractive price."
+44,An issue of common stock has just paid a dividend of $3.75. Its growth rate is 8%. What is its price if the market rate of return is 16%?,$25.01,$46.88,$50.63,None of the above,C,"Answer and Explanation:
+The correct answer is option C), i.e., $50.63.
+Given information:
+Dividend (Div0) paid = $3.75
+Growth rate (g) = 8%
+Market rate of return (r) = 16%
+Calculating the common stock price:
+{eq}\begin{align*}{\rm{Stock}}\,{\rm{Price}} &= \frac{{{\rm{Di}}{{\rm{v}}_1}}}{{{\rm{r}} - {\rm{g}}}}\\ &= \frac{{\$ 4.05}}{{16\% - 8\% }}\\ &= \frac{{\$ 4.05}}{{0.08}}\\ &= \$ 50.63\end{align*} {/eq}
+Therefore,
+the common stock price is $50.63.
+Working note:
+Calculation of dividend to be paid for next period:
+{eq}\begin{align*}{\rm{Di}}{{\rm{v}}_{\rm{1}}} &= {\rm{Di}}{{\rm{v}}_{\rm{0}}}\left( {1 + {\rm{g}}} \right)\\ &= \$ 3.75\left( {1 + 8\% } \right)\\ &= \$ 3.75 \times 1.08\\ &= \$ 4.05\end{align*} {/eq}
+Hence, the estimated dividend for the next period is $4.05.",Stock Price: The stock price is the price that indicates the value at which the company's stock is available for the people for buying purposes. It fluctuates depending on the market condition.
+45,"During the 2008-2009 financial crisis, General Electric's share price dropped significantly. This was because of the:",business risk,market risk,exchange risk,interest rate risk,B,"The answer is
+b. market risk.
+a. Incorrect. Business risk includes uncertainties that happen in that firm and the industry only.
+b. Correct. Market risk will have a wide impact to every business sectors. And, it is not avoidable.
+c. Incorrect. No information provided is related to the currency exchange rate risk.
+d. Incorrect. The financial crisis in 2008 was not caused by an interest rate risk, in which it was the collapse of the mortgage market. Hence, it should not be recognized as an interest rate risk to the business of General Electric (GE).","Stock Price: The price of a firm's shares will be floating in the securities exchange market under the laws of demand and supply. In addition, there are several substantial factors influencing both demand and supply for the stock, in which those factors might cause potential capital loss to investors."
+46,"When a parent company uses the equity method to account for investments, the controlling interest in consolidated net income includes all of the following except:",The parent's income from its own operations.,The parent company's share of income from consolidated subsidiaries.,The non-controlling interest's share of income from consolidated subsidiaries.,Differential adjustments.,C,"The right answer is
+c. The non-controlling interest's share.
+Option a: The consolidation takes record of both the parent and associate company's income. Therefore, the respective part of the parent is included. So, it is an incorrect option.
+Option b: The associates' (consolidated subsidiaries') share of income equivalent to the parents' ownership is taken in consolidation. Thus, it is not right.
+Option c: Non-controlling interest means the part of the company that belongs to outsiders, and this part of the income is not allowed to be shown by parents in its records. Therefore, it should not be reported in consolidated statements.
+Option d: Differential adjustments are the main focus of consolidation in order to exclude duplicate and inter-group transactions. Hence, this option is not accurate.
+Hence, option c is correct.",Equity Method: The investor firm records the revenue received by the other entity on its financial statements in an amount equivalent to its equity stake in another company using the equity accounting method.

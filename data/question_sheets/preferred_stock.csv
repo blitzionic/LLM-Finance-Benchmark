@@ -1,0 +1,602 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Preferred stock is included in the calculation of Net financial obligations (NFO).,True,False,,,B,"False
+Net Financial Obligations (NFO) do not include preferred stock. In most cases, NFO consists of both short-term and long-term debt obligations, minus liquid assets. Preferred stock combines features of debt and equity into a single security. However, it is not a debt obligation but rather an equity instrument. NFO, which takes debt obligations into account, excludes preferred stock because it is more concerned with meeting those obligations.",Preferred Stock: Preference stock gives preference to the holder to get compensated when the company is liquidated. The preferred stockholders also claim ahead of the common stockholders on the earnings and assets of a business.
+2,A high proportion of the value of a growth stock comes from:,Past dividend payments.,Past earnings.,PVGO (Present Value of the Growth Opportunities).,Both A and B.,C,"The correct option is C. PVGO (Present Value of the Growth Opportunities)
+Explanation:
+The growth stock's value completely depends on expectations formed among the shareholders. These shareholders invest in growth stock by calculating the present value (PV) of the growth opportunities (GO). The shareholders are certain because they analyze the PVGO of the stock. The shareholders pay a higher price for the growth stock because they expect it to grow at a higher rate.
+A high proportion of the value of a growth stock comes from
+PVGO (Present Value of the Growth Opportunities)
+Explanation for incorrect options:
+The high proportion of the value of a growth stock does not come from past dividend payments, past earnings, or both.
+A. Past dividend payments.
+dividend payment depends on the company's earnings and is not fixed yearly. It depends on the market conditions, the peak season, etc. Therefore, a shareholder cannot expect a high proportion by analyzing past dividend payments as it is dynamic.
+B. Past earnings
+a company's earnings are not stable and keep fluctuating depending on the operations performed, new technology introduced, an entry in a new market, and various other factors. Therefore, a shareholder cannot ascertain a high proportion by studying the company's past earnings.
+D. Both A and B.
+Since option A and option B, the shareholders cannot analyze the high proportion value of the stock, so option D is also incorrect.",Stock: A stock refers to a document that details the ownership of an individual in the company where stock is purchased. The stock is bought and sold on the stock exchange per government regulations.
+3,"Five hundred shares of $25 par common stock were exchanged for a piece of equipment with a fair market value of $13,500. The journal entry to record the transaction would include a:","credit to Equipment for $12,500.","debit to Common Stock for $12,500.","credit to Paid-In Capital in Excess of Par Common for $1,000.","credit to Common Stock for $13,500.",C,"The issuance of five hundred shares of $25 par common stock were exchanged for a piece of equipment with a fair market value of $13,500 must be recorded as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Equipment (at market value)
+$13,500
+Common Stock
+(500 shares x $25)
+$12,500
+Paid-in Capital in Excess of Par
+$1,000
+To record the issuance of stock.
+Accordingly, the correct answer is option
+C. credit to Paid-In Capital in Excess of Par Common for $1,000.","Common Stock: Companies typically issue common stock to raise funds for various business needs such as start-up costs, expanding operations, investing in new projects, paying off debt, and more."
+4,Common stockholders have a residual claim to income in other words they are last in line.,True,False,,,A,"The given statement is
+true.
+A company, in order to support its overall activities, requires capital that can be raised from different alternatives such as common equity, debt, and preferred stock.
+Holders of debt who provide capital to the company generally receive a return, which is in the form of interest, and they will receive it irrespective of whether the firm has sufficient funds to honor its due obligations or not. Similarly, the preferred stockholders also receive a return but it is paid out of those profits that are left after paying the necessary tax obligations. The return to both common as well as preferred stockholders that it receives from the company is always in the form of dividends. However, the claim of common shareholders is at the bottom of the priority list, and their claim is purely residual, meaning that they only receive the leftover amount after clearing out all claims from the company's assets.
+Among the three capital providers, the first priority is always given to the debtholders as their claim is superior and secured. The next on the line is preferred shareholders which is a hybrid of both common shares and debt. Lastly, once other capital providers' claims are paid off, the common shareholders receive their claim if there is anything left for them.
+Hence, the provided statement is true.","Common Stockholders: Investors who purchase the common equity shares of any company not only become the holders of those shares but also the company's true owners, and they are known as common stockholders. By purchasing common shares, the investors receive a right to participate in the profit-sharing among them, based on their holding weight in the company."
+5,Firm X has a tax rate of 27%. The price of its new preferred stock is $69 and its flotation cost is $2. The cost of new preferred stock is 14%. What is the firm's dividend?,$11.53,$9.38,$10.83,$8.03,B,"The correct answer is
+b. $9.38.
+Given information:
+Price (P0) = $69
+Flotation cost = $2
+Cost of new preferred stock = 14%
+The corporate income tax is not considered in this case since dividends are paid from after-tax income.
+Estimate the dividend for the new preferred stock:
+{eq}\text{Dividend} = \displaystyle \text{Cost of new preferred stock} \times (\text{P0} - \text{Flotation cost}) \\ \text{Dividend} = \displaystyle 14\% \times (\$69 - \$2) \\ \text{Dividend} = \$9.38 {/eq}","Dividends: A dividend payment is a capital distribution to a corporation's owners within a year. Dividends are paid from the firm's net income, which should not be expensed for tax purposes."
+6,"What is the dividend on an 8 percent preferred stock that currently sells for {eq}\$45
+
+{/eq} and has a face value of {eq}\$50
+
+{/eq} per share?","{eq}\$3.33
+
+{/eq}.","{eq}\$3.60
+
+{/eq}.","{eq}\$4.00
+
+{/eq}.","{eq}\$5.00
+
+{/eq}.",C,"The answer is
+c. $4.
+Summary:
+Face value = $50
+Dividend payout ratio = 8%
+Determine the annual dividend for a preferred stock:
+Annual dividend = Face value x Dividend payout ratio
+Annual dividend = $50 x 8%
+Annual dividend = $4","Preferred Stock: A corporate entity is allowed to sell preferred stocks to public investors if it intends to raise more equity capital. In practice, investors might be more interested in holding preferred stocks than common stocks since preferred stocks offer higher dividends."
+7,A missed dividend payment never has to be paid if the preferred stock is cumulative.,True,False,,,B,"The provided statement is
+false
+.
+Cumulative preferred stock stipulates that when dividend payments have not been made in the past, cumulative preferred shareholders must be paid first with the total dividend that is owed to them.
+The cumulative preferred stock gives investors the right to receive missed dividends.
+Thus, the provided statement is false as the underlying provision in cumulative preferred stock mandates that the entity must provide all dividend payments to its investors.",Preferred Stock: Preferred stocks are financial securities with fixed-income features and the right to claim an entity's assets. It provides more stable cash flows when compared with equity stock.
+8,Which of the following is NOT true of preferred stock?,Preferred stock generally pays a fixed dividend.,Preferred stock is perpetuity.,Dividends on preferred stock are tax deductible.,Preferred stock dividends have a higher priority than common stock dividends.,C,"Correct Answer:
+Option c. Dividends on preferred stock are tax deductible
+.
+Options
+Analysis
+a. Preferred stock generally pays a fixed dividend.
+It is true that preferred stock pays fixed dividends at the stated rate.
+b. Preferred stock is perpetuity.
+It is perpetuity because it pays constant dividends to the shareholders until the business exists.
+c. Dividends on preferred stock are tax deductible.
+It is a false statement because preferred dividends are taxable both in the hands of the corporation and in the hands of the shareholders.
+d. Preferred stock dividends have a higher priority than common stock dividends.
+It is true that the preferred stockholders have privileges over the common stockholders when it comes to dividend payments and par value redemptions.","Selling Stock: A corporation sells stock to investors to raise capital and invest in the business. It can sell common or preferred stock to raise capital. Though the preferred stock is a form of equity, it still differs from it in its characteristics."
+9,A stock's beta is more relevant as a measure of risk to an investor with a well-diversified portfolio than to an investor who holds only one stock.,True,False,,,A,"The given statement, 'A stock's beta is more relevant as a measure of risk to an investor with a well-diversified portfolio than to an investor who holds only one stock' is
+a. true
+.
+The sensitivity of a stock's returns to those of the entire market is measured by its beta. A stock with a beta of 1 follows the market's movements, whereas a beta greater than 1 is more volatile, and a beta of less than 1 is less volatile.
+When the investor's portfolio is already well-diversified across various equities and asset classes, the beta of a particular stock becomes more important as a gauge of risk for the investor. As a result, the investor is more interested in how the return on a single stock will change concerning the market as a whole. Contrarily, an investor who owns just one stock is subject to idiosyncratic or company-specific risk, which beta does not account for. In this instance, the investor is more concerned with the company's unique risk than with the stock's performance in the market.",Stock Portfolio: A stock portfolio is a set of stocks or other securities an individual or a fund holds. The objective of a stock portfolio is to diversify the holdings to control risk and possibly optimize returns.
+10,Holt Company paid out cash dividends at the end of each year as follows:,"Assume that Holt had 250,000 common shares and 10,000, $7, non-cumulative preferred shares. How much cash would be paid out in 2014, 2015, and 2016 to each class of shares?","Assume that Holt had 100,000 common shares, and 5,000, $4, cumulative preferred shares that were three years in arrears as at January 1, 2014. How much cash would be paid out in 2014, 2015, and 2016 to each class of shares?",,,A,"Answer (a)
+10,000, $7, non-cumulative preferred shares mean the annual preferred stock dividend will be 10,000 shares X $7 = $70,000.
+As the shares are non-cumulative, no dividend will stand in arrears if, in any year, total income is insufficient to provide for preferred stock dividends.
+Computation of preferred and common stock dividends
+Year
+Total   Dividends (A)
+Preferred Stock Dividends (B)
+Common Stock Dividends (A - B)
+2014
+$250,000
+$70,000
+$250,000 - $70,000 = $180,000
+2015
+$325,000
+$70,000
+$325,000 - $70,000 = $255,000
+2016
+$400,000
+$70,000
+$400,000 - $70,000 = $330,000
+Answer (b)
+5,000, $4, cumulative preferred shares mean the annual preferred stock dividend will be 5,000 shares X $4 = $20,000.
+As of January 1, 2014, three-year dividends were in arrears. So, in January total preferred stock dividend to be paid will be $20,000 X 3 = $60,000 + $20,000 = $80,000
+Year
+Total   Dividends (A)
+Preferred Stock Dividends (B)
+Common Stock Dividends (A - B)
+2014
+$250,000
+$80,000
+$250,000 - $80,000 = $170,000
+2015
+$325,000
+$20,000
+$325,000 - $20,000 = $305,000
+2016
+$400,000
+$20,000
+$400,000 - $20,000 = $380,000","Preferred Stock: Preferred Stock gets preference over common stock in the distribution of dividends. Preferred stock can be cumulative or non-cumulative. non-cumulative, For non-cumulative preferred stocks, no dividend stand in arrears if, in any year, total income is insufficient to provide for preferred stock dividends. Whereas, for cumulative preferred stocks, dividends remain in arrears if, in any year, total income is insufficient to provide for preferred stock dividends."
+11,The earnings per share is computed for what type of stock?,Common stock.,Nonredeemable preferred.,Redeemable preferred.,Common stock and fully diluted preferred stock.,A,"The correct option is
+a. Common stock.
+Earnings per share (EPS) is a financial indicator that quantifies a company's profitability by revealing how much of the company's net income is distributed to each outstanding share of common stock. It is calculated by dividing the net income attributable to common shareholders by the diluted share count as of the end of the calculation period.
+Reasons why other options are incorrect:
+b. Nonredeemable preferred. Preferred stock is a subset of a company's stock that typically has a higher dividend rate and dividend priority over common stock. Preference shares that cannot be converted into cash are excluded from earnings-per-share calculations.
+c. Redeemable preferred. Redeemable preferred stock is preferred stock that can be repurchased by the company at a predetermined price. Earnings per share (EPS) are not calculated for this stock, as is the case with nonredeemable preferred stock.
+d. Common stock and fully diluted preferred stock. While fully diluted preferred stock could be factored into an EPS calculation, doing so would be inaccurate. In the case of fully diluted preferred stock, all convertible securities are factored into the earnings per share calculation, which isn't always the case.","Stock: The investors invest in the stock or share, which is a type of security where they purchase the shares of a company and get ownership rights in the company to the extent of their holding."
+12,Preferred stockholders _____.,generally have voting rights,are guaranteed that they will not have a loss on their investment,have more investment risk compared to common stockholders,receive a dividend preference over common stockholders,D,"The correct option is D. receive a dividend preference over common stockholders.
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. generally have voting rights
+Preferred shares generally do not have voting rights.
+B. are guaranteed that they will not have a loss on their investment
+There is no guarantee that a preferred shareholder will not lose their investment in case of liquidation. Preferred shareholders have a preferred right to the assets of the company over common shareholders but only after creditors have been paid, and if the remaining assets are worth less than the par value for preferred stock, preferred shareholders will have a loss on their investment.
+C. have more investment risk compared to common stockholders
+No, preferred shareholders have less risk because they have preferred rights to dividends and assets in case of liquidation.
+D. receive a dividend preference over common stockholders
+This is the correct alternative because when a company declares dividends the preferred shareholders have the first, but limited, right to their dividend payment.",Preferred Stockholders: The preferred stockholders of a company are the owners of the preferred stock class. They do not have the same rights and risks as the common shareholders and preferred shares are therefore often called hybrid-equity financing.
+13,What is the value of a preferred stock that pays a $4.50 dividend to an investor with a required rate of return of 10%?,$22.22,$27.83,$45,$55.50,C,"The correct option is
+option c. $45
+.
+Calculation:
+{eq}\begin{aligned}   \text{Value}\ \text{of}\ \text{preferred}\ \text{stock}&=\frac{\text{Dividend}}{\text{Rate}} \\   &=\frac{\$4.50}{10\%} \\   &=\$45  \end{aligned}
+
+{/eq}",Preferred Stock: Preferred stock is the type of stock that lacks voting rights but gets preference before equity stockholders at the time of profit distribution and at the time of winding up settlements.
+14,You would like to earn a 6 percent rate of return on a preferred stock that pays $2.50. How much are you willing to pay for 50 shares?,"$1,940.00","$4,167.00","$2,083.33","$3,690.16",C,"The answer is
+c. $2,083.33.
+Summary:
+Dividend = $2.50
+Required rate of return (I) = 6%
+Number of shares (N) = 50 shares
+Determine the price of each preferred share:
+{eq}\text{Price} = \displaystyle \frac{\text{Dividend}}{I} =\frac{\$2.50}{6\%} = \$41.66667 {/eq}
+Determine the total payment to acquire 50 shares:
+{eq}\text{Total payment} = \displaystyle \text{Price} \times N = $41.67 \times 50 = $2,083.33 {/eq}","Preferred Stocks: A preferred stock offers a higher dividend compared to a common stock. However, a preferred stockholder has no voting right for the firm's strategies. In fact, preferred stocks are also considered as equity securities."
+15,Issuing common stock will decrease a company's financial leverage.,True,False,,,A,"True
+A company's financial leverage will be reduced when it issues common stock. Leverage refers to the use of debt financing for business or investment purposes. The issuance of common stock is a form of equity financing rather than debt financing for a company. This lowers the capital structure risk for the company by decreasing its reliance on borrowed funds.","Common Stock: Common stock is a form of ownership share that entitles the holder to a claim on the company's assets and earnings. The holder has a voice in the running of the company, the election of directors, and major corporate actions."
+16,"If a preferred stock pays an annual dividend of $2.75 per share. If the stock is currently selling for $27.50 per share, what is the expected rate of return on this stock?",2.75%,10%,17.5%,27.5%,B,"The correct answer is
+B) 10%
+.
+The expected rate of return on the preferred stock can be computed using the following formula:
+{eq}\text{Expected return} = \dfrac{\text{Preferred stock dividend}}{\text{Current price of the preferred share}} = \dfrac{\$2.75}{\$27.50} = 10\%
+
+{/eq}","Preferred Stock: A company's preferred stock offers fixed dividends to its shareholders, also called the cost of preferred stock. The stock has various types and provides privileges to the shareholders over ordinary shares."
+17,Preferred stock has all but which of the following characteristics?,No stated maturity.,A fixed dividend payment that carries higher precedence than common dividends.,The same binding contractual obligation as debt.,Preferred lacks the ownership privilege of common stock.,C,"The correct answer is
+option c. The same binding contractual obligation as debt.
+This statement is not correct because preferred stocks have less priority than debt. A firm's earnings must be used to pay interest payments before paying dividends to preferred stockholders. Even during liquidation, creditors are prioritized over equity investors.
+Explanation for incorrect options:
+Preferred shares, also referred to as preference shares or preferred stock, are classified as securities that reflect ownership in a firm and have a primary claim over common stocks on the assets and profits of a corporation.
+Option A: This statement is correct because preferred stocks have an indefinite life span because they have no set maturity date. However, the issuer may call them at a later time.
+Option B: This statement is correct because preferred shareholders receive dividend payouts earlier than holders of common stock. The dividend may be fixed or variable, depending on the benchmark interest rate.
+Option D: This statement is correct because shares give their owners the right to first claim the organization's assets in case of liquidation before ordinary stockholders. They have no voting rights.
+Hence, option C is a reasonable choice.","Stocks: Stocks are classified as a security that depicts ownership share in a corporation. Firms issue stocks to raise finance, which is required to meet the capital requirements for running operations smoothly."
+18,"True or False: The dividend preference on 50,000 shares of 5% $10 par value preferred stock issued at a price of $20 a share will be $25,000.",True,False,,,A,"The given statement is
+true.
+{eq}\text{Annual Preferred Dividend} = \text{Number of shares} \times \text{Par value} \times \text{Rate of dividend} {/eq}
+Here,
+Number of shares = 50,000 shares
+Par value = $10
+Rate of Dividend = 5%
+Putting values, we get -
+{eq}\begin{align} \text{Annual Preferred Dividend} &= \text{Number of shares} \times \text{Par value} \times \text{Rate of dividend}\\ &= 50,000 \times \$10 \times 5\%\\ &= \$500,000 \times 5\%\\ &= \$25,000 \end{align} {/eq}","Preferred Stock: The preferred stocks have characteristics of both debt and equity. Like debt, their annual payments are fixed at the time of issue but they don't have any security like equity."
+19,One type of preferred stock that provides for the payment of preferred dividends that are in arrears is called:,non-participating.,cumulative.,non-cumulative.,participating.,B,"The correct answer is option b. cumulative.
+The type of preferred stock that provides for the payment of preferred dividends that are in arrears is called cumulative preferred stock. It means that if the company fails to pay the preferred dividend in any given year, the amount owed accumulates and becomes payable in the future.
+Incorrect Options
+Option (a) is incorrect. Non-participating preferred stock does not allow holders to participate in any additional profits beyond the fixed dividend rate.
+Option (c) is incorrect. Non-cumulative preferred stock does not accumulate unpaid dividends.
+Option (d) is incorrect. Participating preferred stock entitles the holder to a share of profits beyond the fixed dividend rate.","Stock: In accounting, stock refers to the ownership interest or equity that a person or entity holds in a corporation or other business organization. When a company issues stock, it essentially sells ownership shares to investors, who become shareholders or stockholders."
+20,Determine whether the following statement is true or false: Preferred stock may be convertible.,True,False,,,A,"The provided statement is
+true
+.
+The preferred stock offers a guaranteed dividend and higher claims on the entity's assets. It has four main categories, convertible, participatory, callable, and cumulative preferred stock.
+Convertible preference shares provide investors with the option to exchange their preferred stock for common stock at a certain rate. Therefore, this statement is accurate and true.",Stockholders: Stockholders are those individuals or entities that have invested their funds in an issuing company to receive declared dividends when the entity does well. Common types of stockholders are equity and preference shareholders.
+21,Preferred stock that has dividends in arrears is:,Noncumulative preferred stock.,Noncumulative and convertible preferred stock.,Noncumulative and callable preferred stock.,Cumulative preferred stock.,D,"The correct answer is
+d. Cumulative preferred stock
+.
+Preferred stock has various types, and a few of them are cumulative, non-cumulative, redeemable, irredeemable, participating, and nonparticipating shares. Cumulative preferred stockholders can participate in the arrears of dividends of previous years. Noncumulative preferred stockholders cannot receive the dividend foregone due to insufficient profits. Convertible preferred stock allows the shareholder to convert the preferred shares into equity shares within a defined period. A company can call callable preferred stock anytime within its maturity period.","Capital: The sources of capital for a company include stocks and debt securities. These sources ensure a company's long-term solvency. Each source of capital is attached to a cost, which the company should meet regularly."
+22,Preferred stock that's given a right to share with the common stock in dividends in excess of a stated preferred dividend rate is called:,nonparticipating.,participating.,cumulative.,noncumulative.,B,"Preferred stock that's given a right to share with the common stock in dividends in excess of a stated preferred dividend rate is called
+B. participating
+preferred stock. Preferred stock is participating if the number of preferred shares outstanding is added to the number of common shares outstanding when the common dividend per share is calculated. Preferred stockholders then receive this dividend on top of their normal preferred dividend. Their participation rights are, however, often capped.
+Preferred stock is cumulative when the preferred shareholders are entitled to dividends in arrears on top of their preferred stock dividends for the current period.",Preferred Stock: Preferred stock is a share class. Preferred stock is sometimes called hybrid debt financing because many of the rights associated with preferred shares remind us of the obligations incurred when incurring external debt.
+23,The cost of preferred stock is typically higher than the cost of long-term debt (bonds) because the cost of long-term debt (interest) is tax deductible.,True,False,,,A,"The given statement is
+true
+.
+The cost of debt involves the amount that an entity provides to its debtholders as a return on lent funds. The two main components of this cost are the principal value and the coupon payment, or interest value. The cost of debt is lower than the cost of preferred stock.
+Dividends are provided after tax is deducted from cash flow. Thus, there is no tax adjustment given to the issuing company.
+While, interest payments given on debts are tax-deductible, Therefore, the income tax to be paid by the entity will be lower because of the presence of an interest component.",Preferred Stock: Preferred stock describes those shareholders who own a claim over the entity's profits before equity holders. The preferred stock gets preferential treatment and gets a fixed dividend amount.
+24,A share of 5% preferred stock has a par value of $30 and a market value of $100. The owners of the preferred stock will receive a cash dividend of:,$30 per share.,$5 per share.,$1.50 per share.,$70 per share.,C,"The correct answer is
+C. $1.50 per share
+.
+The inputs needed for the cash dividend per preferred share are given as follows:
+Par value of preferred stock = $30
+Preferred dividend rate = 5%
+The inputs are arranged logically to calculate the dividend per share in the following formula:
+Cash dividend per preferred share = Par value of preferred stock × Preferred dividend rate
+Cash dividend per preferred share = $30 × 5%
+Cash dividend per preferred share = $1.50","Preferred Dividend: A preferred dividend is paid to the shareholders owning a company's preferred stock. The preferred stock offers shareholders fixed dividends and privileges over common stock. Also, there are a variety of preferred shares that a company can sell."
+25,ABC sells 400 shares of its $23 par common stock for $27. The entry would entail credit(s) to:,"Cash for $9,200.","Paid-In Capital in Excess of Par Common for $800 and Common Stock for $10,800.","Paid-In Capital in Excess of Par Common for $1,600 and Common Stock for $9,200.","Common Stock for $10,800.",C,"To answer the above problem, let us first journalize the above transaction as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Cash (400 shares x $27
+$10,800
+Common Stock (400 shares * $23 par value)
+$9,200
+Paid-in Capital in Excess of Par Value
+(400 shares * ($27 selling price - $23 par value))
+$1,600
+So, the company would credit both the Common Stock and Paid-in Capital in Excess of Par Value accounts. The Common Stock account represents the par value of the shares issued and Paid-in Capital in Excess of Par Value the excess received over the par value.
+Therefore, the correct answer is option
+C. Paid-In Capital in Excess of Par Common for $1,600 and Common Stock for $9,200.","Common Stock: In business and finance, when a company releases common stock, it adds to the total number of shares available, potentially reducing the value of existing shares."
+26,Preferred stockholders generally give up voting rights for priority claims on the earnings of the corporation.,True,False,,,A,"The given statement is
+(a) True.
+Preferred stockholders of the company have a priority over the common stockholders in the payment of dividends. Dividends are first paid to preferred stockholders and then to common stockholders.
+However, unlike common stockholders, preferred stockholders do not have voting rights. So it can be said that preferred stockholders generally give up voting rights for priority claims on the earnings of the corporation.","Stocks: Stocks indicate a portion of the capital of a company. Generally, stocks are of two types viz. preferred stocks and common stocks. Both kinds of stocks have different characteristics."
+27,_____ allow bondholders to purchase a certain number of shares of the firm's common stock at a specified price over a certain period of time.,Stock purchase warrants.,Debentures.,Put options.,Call options.,A,"The correct answer is
+A.
+Stock purchase warrants.
+Stock purchase warrants offer bondholders the firm's common stock at a predetermined price for a fixed tenure. These are financial certificates; their holders have purchasing privileges but are not bound to purchase the firm's common stock. Stock purchase warrants are issued to concerned investors directly by the company.
+Reasons for incorrect options:
+B.
+Debentures are debt instruments utilized to extend money. It is based on the issuer's prestige and creditworthiness instead of collateral. Debentures don't have the right to purchase common stocks.
+C.
+The put option gives the contract holder attribution to sell any base security but is not bounded to sell. It can be any commodity, such as stocks or bonds, on which derivatives are based. So, the put options are not concerned with common stock purchases.
+D.
+Call options provide the privilege to buy a commodity on which derivatives are based to the holder of these contracts. Call options are mostly not related to the purchase of common stock until they are specifically issued as a stock option.",Bond Holders: Bondholders are called the company's creditors as they hold the debt securities. Bondholders get interest after a fixed time and the principal amount back at the maturity of debt securities.
+28,"A company issued 20,000 shares of $20 par value common stock for $22 per share. Which of the following is NOT part of the entry to record this transaction?","Credit - Additional Paid in Capital $40,000.","Credit - Common Stock $400,000.","Debit - Cash $440,000.","Credit - Common Stock $440,000.",D,"The correct option is
+d. Credit - Common Stock $440,000.
+The journal entry for the issue of stock will include the cash account debited by the total issue receipts, the common stock account credited by the par value of stocks issued, and the balance will be credited to the additional paid-in capital in excess of par.
+Journal Entry
+Date
+Account
+Debit
+Credit
+Cash Account --- Dr.
+$22 X 20,000 = $440,000
+Common stock --- Cr.
+$20 X 20,000 = $400,000
+Additional paid-in Capital --- Cr.
+$2 X 20,000 = $40,000",Journal Entry: A journal entry is the primary record of a business transaction. It shows the accounts that will be affected by the business transaction along with the corresponding amounts.
+29,"Sunrise Online issued 500 shares of its $10 common stock in exchange for equipment with a fair market value of $7,500. The entry to record the transaction would include a:","debit to Equipment for $5,000.","debit to Common Stock for $5,000.","credit to Paid-In Capital in Excess of Par Value for $2,500.","credit to Common Stock Subscribed for $5,000.",C,"To answer the above problem, let us first journalize the transaction.
+Date
+Account Title
+Debit
+Credit
+xx
+Equipment (at market value)
+$7,500
+Common Stock (at par value)
+$5,000
+Additional Paid-in Capital (excess of par)
+$2,500
+To record the issuance of stock in exchange for equipment.
+Based on the above options, the correct answer is option
+C. credit to Paid-In Capital in Excess of Par Value for $2,500.",Common Stock: Common stock refers to a security that signifies ownership in a corporation. A common stockholder can vote on corporate matters such as selecting the board of directors and setting corporate policies.
+30,Which of the following investments gives the investor the right to vote on major issues concerning the company?,Corporate bond,Mutual fund,Common stock,Municipal bond,C,"The correct answer is option C. Common stock.
+A common stock gives the investor the right to vote on major issues concerning the company, such as electing board members, approving mergers and acquisitions, and other significant corporate decisions. Common stockholders, usually have one vote per share of stock they own, allowing them to have a say in the company's governance.
+Incorrect Options
+A. Corporate bond: A corporate bond is a debt security issued by a company to raise capital. Bondholders are considered creditors and do not have voting rights in the company's decisions.
+B. Mutual fund: A mutual fund is an investment vehicle that pools money from multiple investors to buy a diversified portfolio of stocks, bonds, or other assets. Investors in a mutual fund own shares of the fund, not the underlying assets, and thus do not have direct voting rights in the individual companies within the fund's portfolio.
+D. Municipal bond: A municipal bond is a debt security issued by state, county, or local governments to finance public projects. Like corporate bondholders, municipal bondholders are considered creditors and do not have voting rights in the issuing government's decisions.","Company Stocks: Company stocks represent partial ownership in a company. When an investor buys a stock, he/she becomes a shareholder, and he/she owns a fraction of the company's assets and has a claim on its future earnings."
+31,Preferred stockholders:,receive a set percentage of corporation net income.,are guaranteed that they will not have a loss on their investment.,receive a dividend preference over common stockholders.,are guaranteed to receive an annual dividend payment.,C,"The correct option is
+C. receive a dividend preference over common stockholders
+In comparison to common stockholders, preferred stockholders are given a dividend preference, which means they receive dividends more quickly. As a result of this provision, dividends to preferred stockholders will always be paid out ahead of dividends to common stockholders. This guarantees a higher payout rate and gives you preferential treatment when dividends are distributed.
+The explanation for the correct option:
+A. receive a set percentage of corporation net income: Preferred stockholders are not always entitled to a certain share of the company's net profit. Preferred stock dividends are typically a set dollar amount or a set percentage of the stock's face value, rather than a percentage of the company's net income.
+B. are guaranteed that they will not have a loss on their investment: Preferred stockholders are not safe from financial losses. There is still the possibility that their investment could go down in value if the company runs into financial trouble.
+D. are guaranteed to receive an annual dividend payment: Annual dividend payments to preferred stockholders are not guaranteed. Preferred stock dividends are typically paid on a quarterly or annual basis, but the exact timing and amount of these payments can vary.","Common Stock: The common shareholders are the owners of the company, have voting rights, and generally do not have priority in the distribution of income. The preferred stockholders are also the owners, but they do not have voting rights."
+32,"Innovative Media issues 1,000 shares of 8%, $50 par value preferred stock for $60 per share. Which of the following will be recorded at the time of the issue?","A credit to additional paid-in capital for $10,000.","A debit to cash for $50,000.","A credit to preferred stock for $10,000.","A creaser to preferred stock for $60,000.",A,"The correct answer is
+a) A credit to additional paid-in capital for $10,000
+.
+Innovative Media should record its stock issuance in the following manner:
+Account Title
+Debit
+Credit
+Cash (1,000 shares × $60)
+$60,000
+Preferred Stock (1,000 shares × $50)
+$50,000
+Additional paid-in capital (Balancing figure)
+$10,000
+Note:
+Cash should be debited for the amount received.
+Preferred stock account should be credited with the par value of shares sold.
+Additional paid-in capital should be credited for the difference between the issue price and par value.",Preferred Stock: A company can issue preferred stock and common stock to its investors. Preferred stock provides privileges to the shareholders when it comes to paying dividends and redeeming the stock's par value.
+33,"Soledad Company preferred stock has a market price of $20. If it has a yearly dividend of $1.50, what is your expected rate of return if you purchase the stock at its market price?",13.31%,7.5%,0.075%,21.33%,B,"Soledad Company's stock is expected to give a return of
+Option B) 7.5%
+.
+The expected return on preferred stock can be computed using the stock's dividends and current market price.
+The formula to calculate the expected return on preferred stock is given as follows:
+Expected return = {eq}\dfrac{\text{Annual Dividend}}{\text{Current market price}} = \dfrac{\$1.50}{\$20} = 7.5\%
+
+{/eq}",Expected Return: Investors expect a return on the amount they invest in securities such as stocks and bonds. The return for investors is a borrowing cost for the company. It should ensure that capital raised should be used for investments that yield returns higher than the cost of capital.
+34,Which of the following statements regarding stock splits is incorrect?,A stock split increases total owners' equity.,A stock split involves a reduction in the share's issue value.,"A stock split is an increase in the number of authorized, issued, and outstanding shares.",A stock split decreases the market price of the shares.,A,"The correct option is
+A. A stock split increases total owners' equity.
+A stock split has no effect on the total equity of the company's owners. It's as simple as increasing the total number of shares in circulation while simultaneously lowering the price per share. This means that owners' equity (representing the market value of all shares) has not changed.
+Reasons why other options are incorrect:
+B. A stock split involves a reduction in the share's issue value:
+The price per share or issue value is reduced when a stock is split, making the stock more affordable for retail investors.
+C. A stock split is an increase in the number of authorized, issued, and outstanding shares:
+Stock market liquidity can improve after a stock split because more of the company's shares will be floating around.
+D. A stock split decreases the market price of the shares:
+The market value of a company's shares drops after a stock split, making those shares more affordable for potential buyers. The market cap (the sum of all shareholders' equity) has not changed.","Stock Split: When the share price of the company is too high or demand is high and supply is low, the existing shares are split into many parts to increase the number of shares. For existing holders, the share price gets low and the number of shares increases."
+35,What is the value of a preferred stock if you assume it has an annual dividend $4 per share and the required rate of return is 8%?,$8,$64,$50,$100,C,"The correct answer is option
+c. $50
+.
+The value of the preferred stock is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Annual dividend}}{\text{Required rate of return}} \\[0. 3cm] &= \dfrac{\$4}{8\%} \\[0.3 cm] &= $50 \end{align*} {/eq}","Preferred Stock: Preferred stock is one of the two stocks issued by a firm, the other being the common stock. Preferred stockholders get preference over common stockholders for receipt of dividends and liquidation receipts."
+36,Cumulative preferred shares mean:,shareholders receive additional dividends beyond the stated amount.,dividend in arrears must be paid before any dividends are paid on common shares.,preferred shares can be exchanged for common shares at a specific conversion ratio.,preferred shareholders typically have a preference for dividends.,B,"The correct answer is
+b. dividend in arrears must be paid before any dividends are paid on common shares
+.
+Options provided in the question
+Analysis
+a. shareholders receive additional dividends beyond the stated amount.
+These shareholders hold participating preferred shares.
+b. dividend in arrears must be paid before any dividends are paid on common shares.
+Cumulative preferred shares allow holders to receive dividends of arrears in the year of sufficient profits before paying ordinary dividends.
+c. preferred shares can be exchanged for common shares at a specific conversion ratio.
+These are called convertible preferred shares.
+d. preferred shareholders typically have a preference for dividends.
+All the preferred shares have a preference for dividends over common shares, not just cumulative preferred shares.",Dividends: Dividends are paid to the company's shareholders from the earnings retained for expanding business. The dividend account is closed at the year-end by a transfer to the retained earnings on the balance sheet.
+37,Which of the following is/are true?,Preferred stock is usually voting stock.,Common stock is usually voting stock.,"Common dividends are usually paid first, before preferred dividends.",Both B and C are true.,A,"The correct option is .
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. Preferred stock is usually voting stock.
+No, preferred stock is typically not a voting stock.
+B. Common stock is usually voting stock.
+This is the correct alternative. All companies must have a common stock class and common stock is always a voting stock.
+C. Common dividends are usually paid first, before preferred dividends.
+No, preferred shareholders have the first claim to dividends, so they are always paid first and the common shareholders then get the remainder of the dividends declared.
+D. Both B and C are true.
+No",Classes of Stocks: Companies issue different classes of stock to manage the shareholders that can control their operations and to make an investment in their shares more attractive to new shareholders. The terms of each share class are described in the company's incorporation documents.
+38,All of the following accurately describe preferred stock except _____.,carries a fixed dividend rate,receives preference in distribution of dividends and/or distribution of assets upon liquidation,carries voting rights,is typically issued at par value,A,"The correct option is .
+Note that we must identify the statement that does NOT describe a preferred stock. Let us discuss each alternative:
+a. carries a fixed dividend rate
+This is true. Preferred shareholders have a limited right to dividends described in the company's charter document.
+b. receives preference in distribution of dividends and/or distribution of assets upon liquidation
+This is true again. Dividends on preferred stock are paid before common shareholders can receive dividends, and if a company is liquidated, its preferred shareholders first get their paid-in capital returned because common shareholders receive the remaining assets.
+c. carries voting rights
+This is the correct alternative because preferred stockholders usually do not have voting rights
+.
+d. is typically issued at par value
+This is also true. The fixed dividend rate is usually described as a percentage of the par value of the shares",Preferred Stock: Preferred stock is a class of equity shares that have different rights compared to common stock. The total paid-in capital from preferred stock is presented in the stockholders' equity section of the balance sheet.
+39,N. Ron Corp. preferred stock pays a $0.15 annual dividend. What is the value of the stock if your required rate of return is 25%?,$60.00,$0.06,$6.00,$0.60,D,"N. Ron Corp.'s preferred stock values
+D) $0.60
+.
+The current price of preferred stock need not be the same as the par value. The preferred stock's price equals the ratio of the preferred annual dividend relative to the required return on preferred stock.
+The formula that can be used to determine the stock price is expressed as follows:
+Current Stock Price ={eq}\dfrac{\text{Annual Dividend}}{\text{Required Return}} = \dfrac{\$0.15}{25\%} = \$0.60
+
+{/eq}","Preferred Stock: Preferred stock is a company's capital source to sustain its long-term solvency. It offers fixed dividends to its shareholders and some privileges over the common stockholders. However, it doesn't provide voting rights to them."
+40,Which of the following statements most accurately describes non-cumulative stock?,"A form of common stock in which the fixed dividend obligation does not accumulate, if not paid.","A form of preferred stock in which the fixed dividend obligation does not accumulate, or accrue, if not paid.","Any share of stock that does not appreciate, or grow in value over time.","A form of preferred stock in which the market value decreases, over time.",A,"The correct option is .
+Let us discuss each alternative:
+a. A form of common stock in which the fixed dividend obligation does not accumulate, if not paid.
+No, common stock never has a fixed dividend obligation.
+b. A form of preferred stock in which the fixed dividend obligation does not accumulate, or accrue, if not paid.
+This is the correct alternative. Non-cumulative stockholders do not have the right to dividends in arrears
+c. Any share of stock that does not appreciate, or grow in value over time.
+No, non-cumulative refers to dividend rights, not stock value.
+d. A form of preferred stock in which the market value decreases, over time.
+No, market value movements are not determined by stock descriptions.",Common and Preferred Shares: The share capital of companies is often divided into various classes that give their holder different rights. Common and preferred stocks are the share classes used by most companies.
+41,Common stockholders have a residual claim to income in other words they are last in line.,True,False,,,A,"The given statement is
+true.
+A company, in order to support its overall activities, requires capital that can be raised from different alternatives such as common equity, debt, and preferred stock.
+Holders of debt who provide capital to the company generally receive a return, which is in the form of interest, and they will receive it irrespective of whether the firm has sufficient funds to honor its due obligations or not. Similarly, the preferred stockholders also receive a return but it is paid out of those profits that are left after paying the necessary tax obligations. The return to both common as well as preferred stockholders that it receives from the company is always in the form of dividends. However, the claim of common shareholders is at the bottom of the priority list, and their claim is purely residual, meaning that they only receive the leftover amount after clearing out all claims from the company's assets.
+Among the three capital providers, the first priority is always given to the debtholders as their claim is superior and secured. The next on the line is preferred shareholders which is a hybrid of both common shares and debt. Lastly, once other capital providers' claims are paid off, the common shareholders receive their claim if there is anything left for them.
+Hence, the provided statement is true.","Common Stockholders: Investors who purchase the common equity shares of any company not only become the holders of those shares but also the company's true owners, and they are known as common stockholders. By purchasing common shares, the investors receive a right to participate in the profit-sharing among them, based on their holding weight in the company."
+42,How is preferred stock affected by a decrease in the required rate of return?,The value of a share of preferred stock increases.,The dividend increases.,The dividend decreases.,The dividend yield increases.,A,"a. Correct. The value of preferred stock and its expected return have an inverse relationship. A decrease in the required return will raise the value of preferred stock.
+b. Incorrect. Most preferred stocks offer a fixed dividend payout ratio. Thus, a change in the required rate of return will not affect the annual dividend payment.
+c. Incorrect. See part b.
+d. Incorrect. The dividend yield is determined by dividing the annual dividend payment by the stock's price. In this case, the dividend yield will reduce since the stock's price increases while the dividend payment remains unchanged.","Preferred Stocks: Preferred stocks are equity securities in a corporate entity, which offer higher dividends than common stocks. Mostly, a firm will offer cumulative preferred stocks to ensure that missing dividends from preferred stocks will be paid out before  dividends for common stockholders."
+43,"Soledad Company preferred stock has a market price of $20. If it has a yearly dividend of $1.50, what is your expected rate of return if you purchase the stock at its market price?",13.31%,7.5%,0.075%,21.33%,B,"Soledad Company's stock is expected to give a return of
+Option B) 7.5%
+.
+The expected return on preferred stock can be computed using the stock's dividends and current market price.
+The formula to calculate the expected return on preferred stock is given as follows:
+Expected return = {eq}\dfrac{\text{Annual Dividend}}{\text{Current market price}} = \dfrac{\$1.50}{\$20} = 7.5\%
+
+{/eq}",Expected Return: Investors expect a return on the amount they invest in securities such as stocks and bonds. The return for investors is a borrowing cost for the company. It should ensure that capital raised should be used for investments that yield returns higher than the cost of capital.
+44,Which of the following statements about a convertible security is not true?,It may be either a bond or share of preferred stock.,It provides level interest payments.,The best time to buy is when both bond and stock prices are low.,All of the statements are true.,D,"The answer is
+d. All of the statements are true.
+a. Convertible securities can be bonds (convertible bonds) or preferred stocks. Both types of security can be converted into common shares.
+b. Before convertible securities can be exchanged for common shares, bondholders can receive interest payments as in a regular bond. Preferred stockholders still receive dividends until the preferred stocks are converted to stocks.
+c. By purchasing these convertible securities at low prices, investors can obtain excessive gains due to higher conversion value in the future.","Convertible Security: Convertible security can be exchanged for another type of security in the future. The conversion rate is predetermined at the issuance of the security. In addition, there will be a required waiting period before the conversion option is executed."
+45,"The company has 100,000 shares of authorized 6%, $5 par preferred stock, of which 50,000 is outstanding, and 60,000 is issued. If a dividend is paid, how much will go to preferred stockholders?","None, dividends are paid to common stockholders","30,000","15,000","18,000",C,"The correct answer is
+C. 15,000
+.
+The preferred stock offers fixed dividends which are calculated on its par value. In the given case, we have the following inputs:
+Par value of preferred stock = $5
+Outstanding preferred shares = 50,000 shares
+Preferred dividend rate = 6%
+Arranging these inputs in a logical manner, we get the following value:
+Preferred dividend = Par value of preferred stock × Dividend rate
+Preferred dividend = (50,000 shares × $5) × 6%
+Preferred dividend = $250,000 × 6%
+Preferred dividend = $15,000","Preferred Stock: Preferred stock is recorded as a part of the stockholders' equity; however, the par value of preferred stock is redeemed at maturity, indicating they are not owners, unlike common shareholders."
+46,The par value of a common stock is rarely equal to its market value on the date the stock is issued.,True,False,,,A,"The statement is
+a. True
+. It is
+true
+to say that the par value of a common stock is rarely equal to its market value on the date the stock is issued. The par value of a share is the value per share stated in its charter. It is nothing to do with the underlying value of a company's assets or its earning power, so it is not the value used to determine the issue price of a stock when it is issued to investors for the first time.
+For example, the par value of Apple Inc. stock is $0.00001 per share and no Apple share was ever sold for anything close to that amount.",Common Stock: Companies can have various authorized stock classes in their balance sheets but each company must have at least common stock as a stock class. It is the stock class that received residual dividends when dividends are declared and that receives the assets of the company after all other claims have been settled in cash of liquidation.
+47,Which of the following statements most accurately describes cumulative stock?,"A form of common stock in which the fixed dividend rate accumulates over time, if not paid.","A form of preferred stock in which the market value grows cumulatively, over time.","Any share of stock that accumulates additional value, over time.","A form of preferred stock in which the fixed dividend obligation accumulates, if not paid.",D,"Correct Answer:
+Option d. A form of preferred stock in which the fixed dividend obligation accumulates, if not paid.
+Options
+Analysis
+a. A form of common stock in which the fixed dividend rate accumulates over time if not paid.
+Cumulative is one of the types of preferred stock and not common stock.
+b. A form of preferred stock in which the market value grows cumulatively over time.
+The market value doesn't grow cumulatively, but the dividend in arrears is paid in the year of sufficient profits.
+c. Any share of stock that accumulates additional value over time.
+Cumulative preferred stock doesn't accumulate additional value over time.
+d. A form of preferred stock in which the fixed dividend obligation accumulates if not paid.
+Cumulative preferred stock is preferred stock type that requires accumulating dividends in the years of insufficient profits and paying them in the years in which sufficient profits are earned.","Preferred Stock: A company issues preferred stock to raise capital to support and increase its investments. Preferred stock provides a fixed dividend to its holders and is still reported under stockholders' equity, not as a long-term debt."
+48,Preferred stock dividends are a deductible expense for a corporation.,True,False,,,B,"The provided statement is
+False
+.
+Preferred stock doesn't provide a direct tax advantage to the corporation issuing it. The dividend payout for these stocks is made after-tax dollars. Therefore, this stock doesn't put forward the tax deduction for the present tax year.
+The dividend provided to preference holders is seen as a profit distribution, and the IRS doesn't view such a profit distribution as a tax-deductible expense.",Preferred Shares: Preferred shares are specified as a company's stock that holds a dividend payment and higher rights over the entity's assets than equity shareholders. These stocks don't obtain any voting rights like common shareholders.
+49,Cumulative preferred stock:,requires dividends in arrears to be carried over into the next period,has a right to vote cumulatively,has a claim to dividends before bonds,All of the above.,A,"Correct Answer:
+Option a. requires dividends in arrears to be carried over into the next period
+.
+Options
+Analysis
+a. requires dividends in arrears to be carried over into the next period.
+Cumulative preferred stock should be paid the arrears of past dividends in the period of sufficient profits. The unpaid dividends cannot be foregone in the case of cumulative preferred stock.
+b. has a right to vote cumulatively.
+Preferred stock usually doesn't have voting rights, unlike common stock.
+c. has a claim to dividends before bonds.
+Preferred stock claims dividends before common stock, not bonds.","Preferred Stock: Preferred stock is a hybrid source of finance that provides fixed returns and the redemption of the par value. A company can issue different types of preferred shares to investors, each with a unique feature."
+50,Preferred stock is the least used of all long-term securities because,investors can get higher returns after taxes in other investments.,preferred dividends are considered regular (fixed) obligations but are not tax-deductible.,flotation costs are extremely high compared to bonds.,all of these.,D,"The answer is
+D. all of these.
+A. Correct. The dividend payout ratio on preferred stocks is constant. In fact, investors can exceed this payout ratio by acquiring different investments or assets. For instance, the capital gain yield on common stocks can beat this payout ratio.
+B. Correct. Dividends from preferred stocks must be paid out regularly from the source of net income. It implies that a large cash outflow occurs, but the firm cannot deduct it as a qualified expense.
+C. Correct. Flotation costs for new issues of common stocks or preferred stocks are high.","Preferred Stocks: Within a corporation, preferred stocks are also equity securities that are issued to raise additional capital. Compared to dividends from common stocks, preferred stockholders will earn higher dividends."
+52,The Bank of Ellicott City has issued perpetual preferred stock with a $100 par value. The bank pays a quarterly dividend of $1.65 on this stock.,What is the current price of this preferred stock given a required rate of return of 13.75 percent?,"The preferred stock for the Bank of Ellicott City is currently selling at $49.54. If the required rate of return is 12.5 percent, what is the dividend paid by this stock?",,,A,"Answer to a:
+The current price of the preferred stock is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Annual dividend}}{\text{Required rate of return}} \\[0.3 cm] &= \dfrac{\text{(Quarterly dividend * number of quarters in a year)}}{\text{Required rate of return}} \\[0.3 cm] &= \dfrac{\$1.65 * 4}{13.75\%} \\[0.3 cm] &= \dfrac{\$6.60}{0.1375} \\[0.3 cm] &= $48 \end{align*} {/eq}
+Answer to b:
+The dividend paid by the stock is computed as follows:
+{eq}\begin{align*} &= \text{Required rate of return} \times \text{Current selling price} \\[0.3 cm] &= 12.5\% \times $49.54 \\[0.3 cm] &= $6.1925 \end{align*} {/eq}",Preferred Stock: Preferred stock is one of the two types of stocks issued by a firm to raise funds from shareholders. Preferred stock usually pays a fixed dividend yield to the shareholders and that too before the dividend payments to common shareholders.
+53,"In determining diluted EPS, convertible preferred stock is always dilutive.",True,False,,,B,"The answer is
+B. False
+. It is
+false
+to say that in determining diluted EPS, convertible preferred stock is always dilutive..
+A security is considered dilutive if, upon its exercise, the EPS is expected to decrease. A convertible preferred stock can be converted into a fixed number of equity shares at a specific time, thus increasing the number of common shares.
+However, whether convertible preferred shares are dilutive or anti-dilutive depends on the relationship between the ratio of convertible preferred dividends to convertible preferred shares and basic EPS.
+Convertible preferred stock is considered dilutive only if the ratio is smaller than basic EPS. Otherwise, convertible preferred shares are considered anti-dilutive.",Preference Stock: Preference stock is a type of stocks issued by listed companies. These shares enjoy preference in terms of payment of dividends and repayment of capital compared to common stock.
+54,The cost of retained earnings is the same as the cost of internal (common) equity.,True,False,,,A,"The given statement is
+true.
+The cost of retained earnings can be described as the opportunity cost of not distributing dividends to shareholders. Retained earnings are cumulative profits or earnings which have not been paid out as dividends, since shareholders do not get any dividend and the amount retained by the company is further invested in the company. Therefore, the cost of retained earnings is the same as the cost of internal equity.","Equity: Equity, often called common stocks of a company, have residual rights in the company. Equity shareholders get dividends out of net income, which is left after adjusting the cost of debt and the cost of preference shareholders."
+55,The income available to common stockholders is net income plus any dividends on preferred stock.,True,False,,,B,"The statement is
+b) False
+.
+The preferred dividend belongs to the preferred shareholders, and common stockholders cannot receive dividends until the preferred dividend is paid. The net income available to common stockholders is an input used to determine the company's earnings per share. It can be computed as follows:
+Net income available to ordinary shareholders (common) = Net income earned during the period - Preferred dividends
+The statement is hence false.","Preferred Stock: Preferred stock is reported under the stockholders' equity but doesn't indicate ownership, unlike common stock. The par value of the preferred stock should be redeemed to the shareholders at maturity, like in the case of bonds."
+56,Which of the following is/are true?,Preferred stock is usually voting stock.,Common stock is usually voting stock.,"Common dividends are usually paid first, before preferred dividends.",Both B and C are true.,B,"The correct option is .
+The table explores each answer option and explains the right and wrong answers with reasons:
+A. Preferred stock is usually voting stock.
+No, preferred stock is typically not a voting stock.
+B. Common stock is usually voting stock.
+This is the correct alternative. All companies must have a common stock class and common stock is always a voting stock.
+C. Common dividends are usually paid first, before preferred dividends.
+No, preferred shareholders have the first claim to dividends, so they are always paid first and the common shareholders then get the remainder of the dividends declared.
+D. Both B and C are true.
+No",Classes of Stocks: Companies issue different classes of stock to manage the shareholders that can control their operations and to make an investment in their shares more attractive to new shareholders. The terms of each share class are described in the company's incorporation documents.
+57,"If a $100 par value preferred stock pays an annual dividend of $5 and comparable yields are 10 percent, the price of this preferred stock will be",$100,$75,$50,$25,C,"The correct answer is
+Option C) $50
+.
+As per the data:
+Annual dividend per share = $5
+Dividend yield = 10%
+We can use the following formula to determine the preferred stock price:
+{eq}\text{Current price of the preferred share} = \dfrac{\text{Annual dividend per share}}{\text{Dividend yield}} = \dfrac{\$5}{10\%} = \$50
+
+{/eq}",Dividend Yield: Dividend yield refers to the percentage of the market price of a share earned as a dividend. The dividend yield is essential when determining a stock's required return. It uses the market price of the share and not its book value.
+58,The entry to record selling 300 shares of no-par common stock with a stated value of $60 for $70 would be which of the following?,"Debit Cash $21,000; credit Common Stock $21,000.","Debit Cash $18,000; credit Common Stock $18,000.","Debit Cash $21,000; credit Common Stock $18,000; debit Paid-In Capital in Excess of Par Value Common $3,000.","Debit Cash $21,000; credit Common Stock $18,000; credit Paid-In Capital in Excess of Stated Value Common $3,000.",D,"Based on the above problem, the entry would be as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Cash (300 shares * $70 per share)
+$21,000
+Common Stock (300 shares * $60 stated value)
+$18,000
+Paid-in Capital in Excess of Stated Value (the remainder)
+$3,000
+This entry reflects receiving cash from the sale of the stock, increasing the common stock at the stated value, and recognizing the excess received over the stated value as additional paid-in capital.
+Therefore,
+the correct answer is option D. Debit Cash $21,000; credit Common Stock $18,000; credit Paid-In Capital in Excess of Stated Value Common $3,000.","Common Stock: In business and finance, common stock value can change based on company performance, economics, and investor sentiment. Holders have rights but not priority for dividend payment."
+59,"When stock is exchanged for noncash assets,",debit the asset for prior book value and credit Common Stock for cash received.,"debit assets for market value and credit Common Stock for par value; if needed, credit Paid-In Capital in Excess of Par.",debit assets for market value and credit Common Stock for market value.,debit assets for par value and credit Common Stock for par value.,B,"The correct answer is option B. debit assets for market value and credit Common Stock for par value; if needed, credit Paid-In Capital in Excess of Par.
+When stock is exchanged for noncash assets, these transactions are recorded at the market value of the consideration given or the consideration received, whichever is more clearly evident. The asset received is debited (increased) at its market value. Common Stock is credited (increased) for the par value of the shares issued, and any excess over par value is credited to Paid-In Capital in Excess of Par. This option reflects the application of these concepts.
+For example, let us assume that ABC Company issued 5,000 common shares with par value worth $10 per share in exchange for an equipment with a market value worth $95,000. This must be recorded in the company as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Equipment
+$95,000
+Common Stock
+(5,000 x $10)
+$50,000
+Additional Pai-in Capital (excess of par)
+$45,000","Common Stock: In business and finance, common stockholders often have the right to vote on major corporate decisions, like electing the board of directors or approving mergers and acquisitions."
+60,Which of the following is NOT a benefit of preferred stock over common stock?,Preference to assets in the case of liquidation.,Voting rights.,Preference to dividends before common shareholders.,All of these are benefits of preferred stock over common stock.,B,"The correct answer is
+b. Voting rights.
+Common stockholders have the right to vote and participate in the decision-making process. This advantage is not enjoyed by the preferred stockholders. Thus, voting rights represent an advantage of common stock over preferred stock.
+The other options are incorrect.
+a.
+Preference to assets in the case of liquidation:
+If a company liquidates, the preferred stockholders enjoy a preferential claim over the company's assets. Due to this, capital is repaid to them before common stockholders. Thus, this statement represents a benefit of preferred stock over common stock.
+c.
+Preference to dividends before common shareholders:
+The dividends to preferred stockholders are paid before common stockholders. Thus, this statement represents a benefit of preferred stock over common stock.
+d.
+All of these are benefits of preferred stock over common stock:
+Voting rights do not represent a benefit of preferred stock over common stock.","Equity Securities: Common stock and preferred stock are the two types of equity securities issued by companies. Both represent ownership interests in the company, but significant differences exist between the two securities."
+61,Preferred stock is similar to a bond in the following way:,preferred stock always contains a maturity date.,both investments provide a stated income stream.,both contain a growth factor similar to common stock.,both provide interest payments.,B,"a. Incorrect. Preferred stock does not have a maturity date.
+b. Correct.
+A preferred stock provides annual dividends, while a bond provides annual interest payments. These two streams of income are similar between preferred stock and a bond.
+c. Incorrect. Coupon payments and preferred stock dividends don't contain a growth factor.
+d. Incorrect. Preferred stocks provide dividend payments.",Preferred Stocks: Preferred stocks are securities issued to raise additional equity capital. Preferred stocks pay higher dividends to shareholders compared to common stocks. The value of the preferred stock is sensitive to changes in market interest rates.
+62,"Waterway Inc. issues 500 shares of $10 par value common stock and 100 shares of $100 par value preferred stock for a lump sum of $114,000.",Prepare the journal entry for the issuance when the market price of the common shares is $176 each and the market price of the preferred is $220 each.,Prepare the journal entry for the issuance when only the market price of the common stock is known and it is $198 per share.,,,A,"a.
+Journal entry is prepared as follows:
+S. No.
+Account titles and explanation
+Debit
+Credit
+1
+Cash
+$114,000
+Common stock (500*$10)
+$5,000
+Preferred stock (100*$100)
+$10,000
+Additional paid-in capital - Preferred stock (100*($220-$100))
+$12,000
+Additional paid-in capital - Common stock (balancing figure)
+$87,000
+Lumpsum issue of shares.
+Cash is debited for the receipt of issue proceeds. Common stock and preferred stock are credited for the par value of each category of shares. The additional paid-in capital is credited for the preferred stock for the amount above the par value ($100) compared to the market value ($220). The remaining amount is credited to additional paid-in capital for common stock.
+b.
+Journal entry is prepared as follows:
+S. No.
+Account titles and explanation
+Debit
+Credit
+1
+Cash
+$114,000
+Common stock (500*$10)
+$5,000
+Preferred stock (100*$100)
+$10,000
+Additional paid-in capital - Common stock (balancing figure)
+$99,000
+Lumpsum issue of shares.
+Cash is debited for the receipt of issue proceeds. Common stock and preferred stock are credited for the par value of each category of shares. The additional paid-in capital is credited for common stock for the remaining amount because it seems there is no active market for preferred stock so it is assumed to issue at par.","Share Issue: A company issues its shares to raise long-term capital. The shares are issued in the form of common shares, which constitute permanent capital, and preferred shares are long-term share capital."
+63,"A firm issued 10,000 shares of no par - value common stock, receiving proceeds of $40 per share. What is the amount recorded?",$0 in the Common Stock account,"$400,000 in the Common Stock account","$400,000 in the Paid - in Capital in Excess of Par account",$0 in the Paid - in Capital in Excess of Par account,B,"The answer is
+b. $400,000 in the Common Stock account
+Given information:
+Number of shares = 10,000
+Par value = No par value
+Net proceeds per share = $40
+If stocks are issued without par value, the common stock account will be credited while the cash account is debited at the same amount of net proceeds. The paid-in capital in excess of par does not exist in this case.
+Estimate the amount of money to credited to the common stock account:
+{eq}\text{Reported amount} = \text{Net proceeds} \times \text{N} \\ \text{Reported amount} = \$40 \times 10,000 \\ \text{Reported amount} = \$400,000 {/eq}","Common Stocks: Common stocks are equity securities that a firm can sell to the public to raise additional equity capital. The cost of new common equity is greater than the cost of existing equity capital due to the flotation costs. Compared to a new issue of bonds, the firm is not required to repay the principal to investors if new common stocks are issued."

@@ -1,0 +1,457 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"Consider a zero-coupon bond with a $1,000 face value and 10 years left until maturity.","{eq}7.5
+
+{/eq},","{eq}10.4
+
+{/eq},","{eq}9.7
+
+{/eq},","{eq}8.1
+
+{/eq}.",D,"The correct answer is option
+d. 8.1
+Explanation
+{eq}Issue\ price * (1 + yield\ to\ maturity\ rate)^ {period} = Maturity\ value
+
+{/eq}
+Here,
+Issue price = $459
+Maturity value = $1,000
+Period = 10
+So,
+{eq}$459 * (1 + yield\ to\ maturity\ rate)^ {10} = $1,000
+
+{/eq}
+{eq}(1 + yield\ to\ maturity\ rate) = ($1,000/$459)^ {1/10}
+
+{/eq}
+Yield to maturity = 1.08098267 - 1
+Yield to maturity rate
+=
+0.8098 or 8.09%
+This is closet to 8.1% so correct answer is option d",Zero Coupon Bond Zero coupon bond are non-interest bearing bonds. These bonds are issued by the borrower at a discounted rate and the face value is received by the lender at maturity. The difference between the issue price and the face value is the interest on the bond. The zero coupon bond are also known as deep discounted bond because these bonds are always issued at a discounted price
+2,Savings Bonds Series EE savings bonds are guaranteed to double in price if they are held for:,10 years,5 years,15 years,20 years,D,"Savings Bonds Series EE savings bonds are guaranteed to double in price if they are held for
+d. 20 years
+.
+The bonds are guaranteed to double in 20 years. This translates into an effective annual yield of 3.53%. The actual yield may vary due to market rates.","Series EE Bonds: Series EE Bonds are issued by the treasury and are sold to the public. The bonds cannot be bought or sold after that, and therefore it is a non-marketable security. The bond promises to double up in value in a stipulated time."
+3,Which of the following would not be associated with a zero-coupon bond?,Yield to maturity,Interest-rate risk,Discount bond,Current yield,D,"The answer is D.
+Since zero-coupon bond will not make any coupon payments, it is impossible to estimate the current yield in this case.","Zero-Coupon Bonds: Zero-coupon bonds are bonds that will not make any interest payments to investors. Instead, investors will receive the par value at the maturity and can purchase bonds at a deep discount price."
+4,"Given its time to maturity, the duration of a zero-coupon bond is:",lowest when the discount rate is equal to the risk-free rate.,higher when the discount rate is higher.,higher when the discount rate is lower.,the same regardless of the discount rate.,D,"The correct answer is d.
+In the case of a zero-coupon bond, the duration is equal to maturity. The duration of bonds is dependent on coupon payments, and since, the zero-coupon bond does not make any coupon payments, therefore, its duration is independent of the discount rate. Thus, we can conclude that the duration of a zero-coupon bond is the same and does not take into consideration the discount rate.","Zero-Coupon Bond: A zero-coupon bond is a debt instrument that does not carry an interest rate but can be traded at high discounts, thus, resulting in profits for the seller. These instruments are bought at low prices and then sold at face value and this difference results in profits."
+5,Which of the following statements is CORRECT?,The time to maturity does not affect the change in the value of a bond in response to a given change in interest rates.,"The shorter the time to maturity, the greater the change in the value of a bond in response to a given change in interest rates.","The longer the time to maturity, the smaller the change in the value of a bond in response to a given change in interest rates.","You hold two bonds. One is a 10-year, zero-coupon, issue and the other is a 10-year bond that pays a 6% annual coupon. The same market rate, 6%, applies to both bonds. If the market rate rises from the current level, the zero-coupon bond will experience a larger percentage decline.",D,"The correct option is
+Option d.
+The foremost thing in bond investment is that if the current yield rate grows, the prices will be adversely impacted. Since the zero-coupon bonds are considered highly volatile as compared to other debt instruments, they will face a greater dropdown in price if the market rate rises.
+Explanation for the incorrect options:
+Option a. It is incorrect because the time to maturity influences the bond value.
+Option b. It is incorrect because if the time to maturity is shorter, there will be a minor change in the bond price.
+Option c. It is incorrect because there will be a greater change in the bond value.","Bond: A bond refers to a financial instrument where one party lends money to another, usually to a business organization or corporates upon which the lender receives a recurring return as interest. They attract tax savings."
+6,"A riskless zero-coupon (no coupon payments) bond that will pay $1,000 in 10 years is selling today for $650. What implied rate of return does the bond offer?",4.4%,35%,0%,6.5%,A,"Correct answer is Option a).
+The current price of the bond (P0) is $650 and the face value of the bond (FV) is $1,000. The number of bond maturity (n) is 10. Let the interest rate be r.
+{eq}\begin{align*}
+
+P0{\left( {1 + r} \right)^n}& = FV\\
+
+\$ 650{\left( {1 + r} \right)^{10}}& = \$ 1,000\\
+
+r& = \sqrt[{10}]{{\frac{{\$ 1,000}}{{\$ 650}}}} - 1\\
+
+r& = 4.4\%
+
+\end{align*}
+
+{/eq}
+The implied rate of return of the bond is 4.4%.","Zero-coupon bond: A zero-coupon bond is a bond that does not make any coupon payments as returns to its holders. These bonds are issued at a discount and redeemed at the face value, thus the discount on the bond is a return to the bondholders."
+7,"Innovative Inventions Inc. needs to raise $10 million. If the company chooses to issue zero-coupon bonds, its debt-to-equity ratio will most likely:",rise as the maturity date approaches.,decline as the maturity date approaches.,remain constant throughout the life of the bond.,,A,"The correct option is
+(A). rise as the maturity date approaches.
+When we account for the zero-coupon bonds using the effective interest method, we debit the discount on bond as interest expense annually and increase the bond payable. Thus the debt-to-equity ratio will rise as the maturity date approaches.","Zero-Coupon Bonds: Zero-coupon bonds are those financial instruments that do not pay any interest. Instead, companies issue these bonds at a discount and redeem them at par."
+8,At what price will Gohm have to sell a 10-year zero coupon bond that will yield 8.75% if held to maturity?,$453,$875.00,$87.50,$432,D,"D) $432
+Term to maturity (n) =10-years
+Yield to maturity (r) = 8.75%
+Par value = $1,000
+Coupon payment = $0
+{eq}\begin{align*}
+
+\ Bond \ Price &=  \dfrac{Par \ value}{ (1 + r)^{n}}\\
+
+&=  \dfrac{1,000}{ (1 + 0.0875)^{10}}\\
+
+& =$432.22\\
+
+\end{align*}
+
+{/eq}",Zero-Coupon Bond: A zero-coupon bond is a bond that does not pay any coupon payments to the bondholder. The issuer of the bond only pays the par value at maturity. The price of the bond therefore will be the present worth of the par value disounted using the yield to maturity. A zero-coupon bond trades at a discount as the price is lower than the par value.
+9,Crown King zero coupon bonds were issued in 1998 at $124. These bonds will mature in 2018. What will these bonds sell for in 2008 if the required rate of return in 2008 is 9.5%?,$352,$404,$413,$163,B,"B) $404
+Term to maturity (n) = 2018 - 2008 = 10 years
+Yield to maturity (r) = 9.5%
+Par value = $1,000
+{eq}\begin{align*}
+
+\ Bond \ Price  &=  \dfrac{Par \ value}{ (1 + r)^{n}}\\
+
+&=  \dfrac{1,000}{ (1 + 0.095)^{10}}\\
+
+& = $403.51\\
+
+\end{align*}
+
+{/eq}
+The bonds will sell for
+$404
+in 2008","Price of Zero Coupon Bond: A zero coupon bond is a bond that does not pay interest to the bond holder. The issuer borrows funds from the bondholder and promises to repay the par value when the bond matures. The price of a zero coupon bond is determined by the par value, the yield to maturity and the term to maturity. A zero-coupon bond is priced bydiscounting the par value to its present worth. The zero coupon bond is referred to as a discount bond as the price is always lower than the par value."
+10,"Prior to its maturity date, the price of a zero-coupon bond is always greater than its face value. Sovereign debt is debt issued by national governments. (True or False)",True,False,,,B,"The answer is
+False
+Zero-coupon bonds are purchased at less than face value. At maturity, the face value of the bond is settled. As the name suggests, its interest rate is Zero. The return on investment is the difference between purchase value and face value. At no point in time, the price of a zero-coupon bond is more than face value.",Bond A bond is an instrument issued by public and government companies. They issue bonds to raise long-term money. Investors are essentially money-lenders to these companies.
+11,"Consider a zero-coupon bond with a $100 face value and 10 years left until maturity. If the YTM of this bond is 5.3%, then the price of this bond is:",$83.53,$100,$71.60,$60,D,"The correct answer is option D.
+$60
+Given information:
+Face value = $100
+Maturity period (n) = 10 years
+Interest rate (r) = 5.3% or 0.053
+The zero-coupon bond is different from a regular bond and the formula to compute its value is shown below:
+{eq}\begin{align*}{\rm{Zero-Coupon}}\,{\rm{Bond}}\,\,{\rm{Price}} &= \frac{{{\rm{Face}}\,\,{\rm{value}}}}{{{{\left( {1 + {\rm{r}}} \right)}^{\mathop{\rm n}\nolimits} }}}\\ &= \frac{{\$ 100}}{{{{\left( {1 + 0.053} \right)}^{10}}}}\\ &= \frac{{\$ 100}}{{1.67}}\\ &= \$ 59.88\end{align*} {/eq}
+Therefore, the bond price is
+$60
+(rounded off to the nearest number).","Zero-Coupon Bonds: Zero-coupon bonds, like the U.S. treasury bills, are not liable to pay any interest to their holders. Such bonds are sold at a discount considering their face value;"
+12,The yield to maturity for a perpetuity is a useful approximation for the yield to maturity on long-term coupon bonds. It is called the _____ when approximating the yield for a coupon bond.,current yield,discount yield,future yield,star yield,A,"Correct option: A
+The current yield is the return on investment of the bond. It is a return on investment that a bondholder can expect to earn by securing the financial security now and holding it up to next year. It focuses on the current market price of the collateral rather than its face value.","Coupon Bonds: A coupon bond is a financial security that includes coupons for annual interest payments. The bond coupon rate is the percentage of its face value that is paid as interest each year. A bond with a zero-coupon rate, therefore, does not pay interest. Instead, a zero-coupon bond makes a return upon maturity."
+13,"A zero-coupon bond matures in 20 years. If the market interest rate on this bond is now 8.5%, what is the market price of this bond today? That is, calculate the market value of the bond.","1,000",195.62,None of the above is correct.,,B,"The correct answer is
+option b. $195.62.
+Given information:
+Market rate: 8.5%
+Number of years: 20
+Determine the market price of the zero-coupon bond by using the mathematical formula for calculating the present value of a lump sum.
+{eq}\begin{aligned} \text{Present value of zero-coupon bond}&=\frac{\text{Face value}}{{{\left( 1+\text{Market rate} \right)}^{\text{Number of years}}}} \\ &=\frac{\$1,000}{{{\left( 1+8.50\% \right)}^{20}}} \\ &=\$195.62 \end{aligned} {/eq}
+Thus, the market price of the bond is $195.62.
+Note: The face value is assumed to be $1,000.",Zero Coupon Bond: A zero-coupon bond is a bond that is sold at a heavily discounted price from its redemption value because the bonds do not pay any coupon payments and return a fixed value at maturity.
+14,Which of the following statements is false?,"Given the spot interest rates, we can determine the price and yield of any other default-free bond.","As the coupon increases, earlier cash flows become relatively less important than later cash flows in the calculation of the present value.","When the yield curve is flat, all zero-coupon and coupon-paying bonds will have the same yield, independent of their maturities and coupon rates.","When U.S. bond traders refer to ""the yield curve,"" they are often referring to the coupon-paying Treasury yield curve.",C,"Correct Answer
+C
+When the yield curve is flat, it shows the yield spread between the long-term bonds and the short-term bonds is falling. A flat curve states that the bonds with money to a loan will get the same amount of interest rate to loan their money via bonds for the short-term bonds. The flattening yield curve indicates recession and does not show that the flat curve yield will not have the same yield. Therefore, it is false that when the yield curve is flat, all zero-coupon and coupon-paying bonds will have the same yield, independent of their maturities and coupon rates.",Coupon payment A coupon payment is the payment of interest on an annual basis on a bond between the period of the bond's issue date and the maturity date of the bond. A coupon bond is when the borrower borrows the capital from the bondholder and pays the field interest rate on it.
+15,What is the journal entry for recording interest expense for a zero-coupon bond?,debit Cash and credit Discount on Bonds Payable,debit Interest Expense and credit Discount on Notes Payable,debit Interest Expense and credit Cash,debit Cash and credit Interest Payable,B,"As the name implies, zero-coupon bonds pay no cash interest and are therefore always sold at a discount to give the investor a return on the investment. The entry will have no leg to Cash.
+This mean's that the interest expense is solely derived from the amortization of the bond discount. Remember that expenses increase on the debit side so the expense must be debited and the discount account credited.
+Therefore,
+the correct option is b.",Recording Interest on Bonds Payable The interest expense on most bonds payable has a component for the coupon-rate interest and a component that is the amortization of the premium or discount recorded on the issuing of the bond.
+16,"When a company issues bonds that include no periodic interest payments, the bonds are called zero-coupon bonds.",True,False,,,A,"The correct answer is
+a. True
+.
+Reason: When a business firm emanates bonds and no payments of interest have to be done periodically, then the bonds are known with a name of zero-coupon bonds.
+The zero-coupon bonds are sold with a deep discount by paying the full amount of their face value at the time of maturity.",Bonds: A bond is a form of fixed income financial instrument that is used as borrowings by business firms or the government. The government or corporates emanate bonds for raising the funds from the market. It comes under the category of corporate debt and is treated as tradeable assets.
+17,A zero-coupon bond pays a flat coupon rate of $100 no matter what the interest rate is.,True,False,,,B,"A zero-coupon bond is a bond that does not pay any coupons to the bond-holders throughout the tenor. Such bond is usually issued at a discount to the face value or par value and redeemed at par value at the time of maturity. The difference between the issue price and the par value represents the returns to the investors.
+The correct answer is option
+b. False
+.","Bonds: In the context of finance, there are two kinds of financial assets that are prominently resorted to by investors, namely, shareholders' equity and bonds. The bonds may be zero-coupon bonds or coupon-paying bonds. Moreover, they may be categorized as government bonds or corporate bonds."
+18,Determine the yield to maturity to the nearest tenth of 1 percent of a zero coupon bond with 8 years to maturity that is currently selling for $404.,11.3%,12.3%,11.7%,12.0%,D,"The answer is
+D. 12%
+Given information:
+Price = $404
+N = 8
+Par = $1,000
+Estimate the yield to maturity:
+{eq}Price = \displaystyle\frac{Par}{(1+I)^N} {/eq}
+{eq}$404 = \displaystyle\frac{\$1,000}{(1+I)^8} {/eq}
+{eq}I = \displaystyle \sqrt[8]{\frac{\$1,000}{\$404}} -1 {/eq}
+{eq}I = 12.0\% {/eq}","Zero-coupon Bonds: Zero-coupon bonds are bonds issued without the provision of paying interest payments. Instead, investors can purchase zero-coupon bond at a deep discount, in which the price discount is to offset the lack of coupon payments."
+19,"A risk-free, zero-coupon bond has 15 years to maturity. Which of the following is closest to the price per $100 of face value that the bond will trade at if the YTM is 7%?",29.55B) 32.68C) 36.24D) 38.78,,,,C,"We are given:
+Years to maturity (
+n
+) = 15 years
+Face value = $100
+Yield-to-maturity, YTM = 7%
+The issue price of the bond can be calculated as follows:
+{eq}\begin{align*}
+
+\rm Bond \ price_{zero-coupon} &= \rm \dfrac{ Face \ value }{(1 + YTM )^{n}}\\
+
+&= \dfrac{100 }{(1 + 0.07)^{15}}\\
+
+&= \dfrac{100 }{2.759031541}\\
+
+& =$36.24
+
+\end{align*}
+
+{/eq}
+The price of the bond is
+(c.) $36.24
+.","Zero-Coupon Bond: Different types of bonds exist in the market including coupon-paying bonds and zero-coupon bonds. The coupon-paying bonds feature a coupon rate that is used to compute the interest regularly paid to the bondholder. The zero-coupon bond does not pay any interest to the bondholder and is always issued at a discount. Because of this, the price should be lower than the face value. When estimating the price, we consider the face value, the years to maturity and the yield-to-maturity (YTM)."
+20,A coupon bond that has no maturity date and no repayment of principal is called a,consol.,cabinet.,Treasury bill.,Treasury note.,A,"The correct answer is:
+A. consol.
+A console is a coupon bond that pays the owner fixed payments at the end of every year but does not pay the principal amount to the owner upon maturity of the bond.",Coupon Bonds: Coupon bonds are bonds that pay the investor fixed coupon payments every year. Coupon bonds are issued by the government and companies.
+21,"Jill wants to buy 5-year zero coupon bonds with a face value of $1,000. Her required return on the bonds is 6.9 percent p.a. Assuming annual compounding, what would Jill be prepared to pay for the bond?",$979.44,"$1,020.83",$716.33,$847.89,C,"Option c. $716.33
+is correct.
+Given information:
+Face value = $1,000
+Bond life = 5 years
+Required return = 6.90%
+Calculate the bond price by dividing its face value by the sum of one and the required return and raising the sum to the power of the bond's life.
+{eq}\begin{aligned} \text{Bond Price} &=\frac{\text{Face Value}}{{{\left( 1+\text{Required Return} \right)}^{\text{Bond life}}}} \\ &=\frac{\$1,000}{{{\left( 1+6.90\% \right)}^{5}}} \\ &=\frac{\$1,000}{1.396} \\ &=\$716.33 \end{aligned} {/eq}
+The bond price is
+$716.33
+. Thus,
+option c
+is correct.",Zero Coupon Bond: A bond is said to be a zero coupon bond if it fails to make any coupon payments during its life. These types of bonds are not issued at their associated face value but at a price much lower than their face value. The return to the holder of the bond is in the form of a discount provided at the time of issue of the bond.
+22,A zero-coupon bond refers to a bond which:,"does not pay any coupon payments because the issuer is in default,","promises a single future payment,","pays coupons only once a year,",pays coupons only if the bond price is above face value.,B,"A zero-coupon bond {eq}\boxed{\text{(B) promises a single future payment.}}
+
+{/eq}
+A zero-coupon bond is a bond where the bondholder will be paid once in the bond's life, unlike other bonds where there is the periodic payment of interest earnings. A zero-coupon bondholder receives no periodic interest. However, the amount in the bond is paid in full once upon maturity.","Bond Payments: The corporations mainly avail of the bonds in the process of raising money. Individuals owning bonds are lenders to the company. As a reward to these lenders, the company may make payments to them based on the type of bond held."
+23,"An investor buys a ten-year, zero-coupon bond for $425.75. What is the YTM of the bond?",8%,8.23%,8.65%,8.91%,D,"The answer is
+D. 8.91%.
+Given information:
+Time to maturity (N) = 10 years
+Selling price (P0) = $425.75
+Par = $1,000
+Estimate the bond's yield to maturity (YTM):
+{eq}YTM = \displaystyle \sqrt[N]{\displaystyle\frac{Par}{P_0}} - 1 \\ YTM = \displaystyle \sqrt[10]{\displaystyle\frac{\$1,000}{\$425.75}} - 1 \\ YTM = \displaystyle 8.91\% {/eq}","Zero-Coupon Bonds: A zero-coupon bond will not generate any interest income for bondholders. There is a single payment at maturity, which is paid to bondholders as a return on the capital. A zero-coupon bond is a risky investment since investors are engaged in higher credit risk."
+24,"If you buy a bond issued by Intel, the bond is a(n):",liability to Intel and an asset to you.,liability to you and an asset to Intel.,liability to both you and Intel.,asset to both you and Intel.,A,"The answer is a).
+When you purchase a bond issued by Intel, your are essentially lending to Intel, and Intel promises to repay your both the principal amount and interests. Since the bond represents a cash flow from Intel to you, it is an asset to you and a liability to Intel.","Bond: A bond is a type of debt instruments, and represents a way of indirect financing. Compared to equity, the volume of bond market, measured in dollar terms, is many many times larger."
+25,The _____ of a coupon bond and the yield to maturity are inversely related.,price,par value,maturity date,term,A,"A. Price
+Income and bond prices are inversely linked. Increased prices will reduce yields and lower bond prices will increase yields. YTM is calculated on the basis of the coupon rate, maturity, and market value of the bond. YTM is essentially the internal rate of return on the bond and therefore does not relate to the maturity date and term of the par value. Par value is the value of the face.","Coupon Bond: Coupon Bond or bond coupons are debt obligations where the coupons are attached which reflects the semi-annual interest payments. In this type of Bond, there is no name of the purchaser is printed on any kind of certificate."
+26,Which of the following bonds pay no interest until maturity?,Zero-coupon bonds,Registered bonds,Serial bonds,Debenture bonds,A,"The correct answer is:
+A. Zero-coupon bonds
+A zero-coupon bond is defined as a bond that pays no interest until its maturity date is arrived at.
+Registered bonds - these are bonds for which important information about the bond and the bondholder (such as the name and contact information) are held by the company or issurer.
+Serial bonds - these are bonds whose maturity occurs in installments or at regular intervals.
+Debenture bonds - a debenture bond is any debt instrument that a company issues with an aim of raising capital. Debenture bonds are issues with no collateral.","Types of Bonds: In finance and accounting, a bond is a financial instrument that investors buy from companies with the expectation of making a profit. Companies, on the other hand, issue bonds with an aim of raising capital."
+27,"You have just won a $50,000 bond that pays no interest and matures in 20 years. If the discount rate is 10%, what is the present value of your bond?","$7,450","$8,175","$8,900","$1,490",A,"The closest answer choice is a. $7,450.
+The present value of the bond is computed as follows:
+{eq}PV = Amount / (1+ Rate)^n
+
+{/eq}
+{eq}PV = $50,000 / (1.10)^{20}
+
+{/eq}
+PV = $7,432.18","Zero Coupon Bond: A zero coupon bond, also known as a discount bond, is one that pays no interest over its term.  Rather the interest compensation is factored into the purchase price of the bond via a discount."
+28,Bonds having zero default risk are classified as:,U.S bonds.,return security.,issued security.,treasury bonds.,D,"The correct answer to the given question is option D. Treasury bonds.
+The Treasury bonds and Treasury bills issued by the U.S. government are considered to have zero default risk as they are backed by the U.S. government.","Zero-Coupon Bond: A bond is a debt instrument which may be a coupon-paying bond or a zero-coupon bond. Also, it may be issued by a corporate, a financial institution or a government. A zero coupon bond is usually at a discount to the face value and pays back the face value at the time of maturity thereby yielding returns to the investor."
+29,Which of the following statements regarding bonds and their terms is FALSE?,The internal rate of return (IRR) of an investment in a zero-coupon bond is the rate of return that investors will earn on their money if they buy a default-free bond at its current price and hold it to maturity.,The yield to maturity of a bond is the discount rate that sets the future value (FV) of the promised bond payments equal to the current market price of the bond.,Financial professionals also use the term spot interest rates to refer to the default-free zero-coupon yields.,None of the above.,B,"Option b is the correct answer_-
+The yield to maturity of a bond is the discount rate of interest which is earned by an investor, if he holds the bond until its maturity period. The yield to maturity sets the present value of all future cashflows which is equal to market price of bond.
+Explanation for incorrect options:
+a)	It is a true statement that the internal rate of return in a zero-coupon bond is the interest rate that an investor earns on the bond purchased at its current price and hold it to maturity.
+c)  It is a true statement as spot rate of any particular term until maturity is considered same as the yield on zero-coupon bonds, so some financial professionals use the term spot interest rate for the default-free zero-coupon yield.
+d) None of the above is an incorrect option because there is a statement mentioned which a correct option, that is the yield to maturity of a bond is the discount rate that sets the future value (FV) of the promised bond payments equal to the current market price of the bond.",Zero Coupon Bond: Zero Coupon Bonds is a debt security tool that is issued at a discount to face value. No interest is paid during the period of the bond. But at the time of maturity full payment or bullet payment of the face value would be done.
+30,The primary difference between Treasury notes and bonds is:,maturity at issue,default risk,coupon rate,tax status,A,"The correct answer is
+A. maturity at issue
+.
+Treasury notes would be government bonds with the maturity of 1 year or less.
+Treasury bonds (T-bonds) would have a maturity that can last from 10 years to 30 years.","Government Debentures: Government debentures refer to bonds issued by the government to raise additional funds for government expenditures, public-use infrastructures, and other social services. Depending on the purpose of using funds, debentures will be issued with different maturity."
+31,The IRR of an investment in a zero-coupon bond is the rate of return that investors will earn on their money if they buy a default-free bond at its current price and hold it to maturity. (True or False),True,False,,,B,"This statement is False.
+IRR refers to the rate of return of any investment.  It can be calculated for a bond that is sold before maturity as well.  The main fallacy in this statement, however, is that a zero-coupon bond is the same as a default-free bond.  They are not.  A zero coupon bond pays no coupons but may have default risk.  Many zero-coupon bonds are issued by corporations and have substantial risk of default.  This risk is reflected in the credit rating of each bond.  Only bonds issued by the government are free from default risk.",Default Risk: Default risk is the probability that the bond issuer will default on its payments.  Higher default risk makes the bond payments less certain and increases the required return by investors.
+32,True or False: Zero-coupon bonds often allow the firm to decrease the required rate of return on the investment.,True,False,,,B,"The statement is
+FALSE.
+Compared to regular coupon bonds, zero-coupon bonds have higher financing costs since zero-coupon bondholders require a higher rate of return since they are exposed to higher credit risk. With that being said, the firm should also raise the required rate of return on its investments, which intends to generate sufficient earnings for recouping its financing cost.","Zero-Coupon Bond: Zero-coupon bondholders are exposed to higher credit risk compared to regular bondholders since a zero-coupon bond makes no coupons during the bond's time to maturity. However, thee zero-coupon bonds are offered with a large discount to offset for the lack of periodic interest payments."
+33,Which one of the following bonds is the LEAST sensitive to changes in market interest rates?,"Zero-coupon, 10 years","6 percent annual coupon, 10-year","Zero-coupon, 4 years","6 percent annual coupon, 4 year",D,"Correct Answer: d
+A short-term bond that pays interest annually is less sensitive than a zero-coupon bond of the same maturity because it pays interest to its investors annually, which eliminates interest rate risk. Hence, short-term bonds are least sensitive to change to market interest rates.
+Reasons for incorrect answers:
+a.	A zero-coupon bond of 10 years is the most sensitive amongst all the available options since a zero-coupon bond does not pay any interest, and the full amount is repaid only on maturity.
+b.	Bonds having longer maturity are subject to higher interest risk than short-term bonds.
+c.	Prices of zero-coupon bonds fall sharply if the interest rate rises because no interest is paid on it, and the full amount is paid only on maturity.","Government Securities: When the government of a country issues securities to raise funds for meeting its expenses, it is called government securities. It pays interest to investors regularly. Government securities are considered the safest because the government has higher credibility."
+34,Which of the following is true of a zero coupon bond?,The bond has a zero par value.,The bond sells at a premium prior to maturity.,The bond makes no coupon payments.,The bond has no value until the year it matures because there are no positive cash flows until then.,A,"a. Incorrect. A zero-coupon bond still has a par value, which indicates the principal received by bondholders at maturity.
+b. Incorrect. A zero-coupon bond makes no coupon payments. Instead, it is sold at a deep discount.
+c. Correct. A zero-coupon bondholder will not receive any coupons. However, this type of bond is sold at a discount.
+d. Incorrect. The value of a zero-coupon bond is estimated by discounting its par value to a given point in time. Its value at a given point in time will vary on the remaining time to maturity and market interest rates.","Bonds: A firm can sell bonds to the public for acquiring debt capital. Compared to a new issue of stocks, a new issue of bonds is more advantageous since a new issue of bonds incurs a lower financing cost. In practice, bonds can be classified into two groups: coupon bonds and zero-coupon bonds."
+35,Zero-coupon bonds always sell at a discount.,True,False,,,A,"Answer: True
+Zero Coupon Bonds is a liability account that does not pay interest and is issued at a discount. A zero coupon bond is treated the same as non-interest bearing note. The difference between the present value of the bonds and the face value is the discount.Because Zero Coupon Bonds does not bear interest, this discount is deemed as the interest on the notes and will be amortized over the life of the note.
+Assume that the entity issued 1,000 face value zero coupon bonds for 800.It will be recorded as:
+Account
+Debit
+Credit
+Cash
+800
+Discount on Zero Coupon Bonds
+200
+Zero Coupon Bonds Payable
+1,00
+to record the issuance of bonds.",Discount on Bonds: Discount on Bonds is the difference between the face value of the bonds and its present value. Bonds is issued at a discount if the effective interest rate is greater than the nominal rate. Any resulting discount or premium on a bond will be amortized over its life.
+36,"Consider a zero-coupon bond with a $5,000 face value and 20 years left until maturity. If the bond is currently trading for $2,385, then the yield to maturity on this bond is closest to:",3.77%,1.89%,47.7%,52.3%,A,"The yield to maturity on the zero coupon bond will be,
+YTM = {eq}\displaystyle \left (\dfrac{FV}{PV} \right )^\dfrac{1}{t} - 1 {/eq}
+Where,
+FV is the face value, $5,000
+PV is the present value of the bond, $2,385
+t is the number of periods until the bond's maturity. This will be 20 assuming annual compounding.
+Therefore,
+YTM = {eq}\displaystyle \left (\dfrac{\$5,000}{\$2,385} \right )^\dfrac{1}{20} - 1 {/eq}
+YTM = 1.0377 - 1
+YTM = 0.0377
+Therefore, the yield to call will be 3.77%
+The correct answer is
+A. 3.77%",Corporate Bonds: Corporate bonds are debt instruments designed to give lenders the benefit of periodical coupons till the bond matures and the lenders receive the maturity value of the bond. There are multiple types available in the market. A few of them are listed below:
+37,"Northern Warehouses wants to raise $12 million to expand its business. To accomplish this, it plans to sell 30-year, $1,000 face value zero-coupon bonds. The bonds will be priced to yield 7 percent. What is the minimum number of bonds it must sell to raise the $12 million it needs?","94,537","82,828","75,298","189,074",A,"The closest answer is
+a. 94,537.
+Given information:
+Par = $1,000
+Time to maturity (N) = 30 years
+Yield (I) = 7%
+Expected fund = $12,000,000
+Estimate the price of bond:
+{eq}\text{Price} = \displaystyle \frac{Par}{(1 + I)^N} \\ \text{Price} = \displaystyle \frac{\$1,000}{(1 + 7\%)^{30}} \\ \text{Price} = $131.36712 {/eq}
+Estimate the number of bonds to be issued:
+{eq}\text{Number of bonds} = \displaystyle \frac{\text{Expected fund}}{\text{Price}} \\ \text{Number of bonds} = \displaystyle \frac{\$12,000,000}{\$131.36712} \\ \text{Number of bonds} = \displaystyle 91,347 {/eq}
+The minimum number of new bonds is 91,347. Thus, the reasonable number new of bonds can be 94,537, which is greater than the required minimum number of bonds. In detail, the number of bonds can exceed the minimum number of bonds to generate extra fund for related costs.","Zero-Coupon Bond: A zero-coupon bond is a debenture to raise additional debt capital within a corporation. Compared to a regular bond, a zero-coupon bond will not make a coupon. And, there is a principal repayment at the bond's maturity."
+38,"For long-term U.S. government bonds, which risk concerns investors the most?",Interest rate risk,Default risk,Market risk,Liquidity risk,A,"The answer is A. Interest rate risk.
+The US government bonds are highly affected by interest rate risks. When investors are scared of inflation or when the financial markets hope for the Feds to increase the rates of interest, it is highly likely that the returns on government bonds would increase with a decrease in their prices. This causes a huge impact on the long-term bonds since their prices fall substantially compared to other short-term bonds. Generally, the interest rate risk refers to the possibility of a loss in government bonds due to the changes in the rates of interest. The bonds' value reduces with a rise in the rates of interest.","Government bonds: Purchasing government bonds means lending funds to the government, and in return being paid a certain interest level at stated periods. The investor is paid the whole principal at maturity. Government bonds are considered safe investments but are faced with several risks, including inflation, interest rate, and currency risk."
+39,"Using semiannual compounding, what would the price of a 15-year, zero coupon bond that has a par value of $1,000 and a required return of 8 percent be?",$308,$315,$464,$555,A,"The answer is
+a. $308
+Summary:
+Par = $1,000
+Required rate of return (I) = 8%
+Number of semiannual periods (N) = 15 x 2 = 30
+Determine the price of the given bond:
+{eq}Price = \displaystyle \frac{Par}{(1 + \displaystyle\frac{I}{2})^N} {/eq}
+{eq}Price = \displaystyle \frac{\$1,000}{(1 + \displaystyle\frac{8\%}{2})^{30}} {/eq}
+{eq}Price = $308 {/eq}","Zero-Coupon Bond: A discount bond is a bond that will not pay any interest payments. Instead, an investor can acquire that bond at a deep discount, which means its offer price is significantly lower than the par value."
+40,A 14-year-zero-coupon bond was issued with a $1000 par value to yield 12%. What is the approximate market value of the bond?,$597.,$205.,$275.,$482. 14.,B,"The correct answer is option B.
+Given information:
+Face value of bond (FV) = $1000
+Number of period (n) = 14 years
+Discount rate (r) = 12% or 0.12
+The following method can be used to determine the bond's market value:
+{eq}\begin{align*} {\rm\text{Market value of bond}} &= \frac{{{\rm\text{FV}}}}{{{{\left( {1 + r} \right)}^n}}}\\ &= \frac{{\$ 1000}}{{{{\left( {1 + 0.12} \right)}^{14}}}}\\ &= \frac{{\$ 1000}}{{4.8871}}\\ &= \$ 204.62\,{\rm\text{or}}\,\$ 205 \end{align*} {/eq}
+The approximate market value of the bond is $205.",Zero-Coupon Bonds: Zero-coupon bonds are debt mechanisms offered for sale at a price below their face worth; the variances between the bond's nominal price and the cost of acquisition are the profit of such bondholders.
+41,"Based on semiannual compounding, what would the yield-to-maturity (YTM) be on a 15-year, zero-coupon, $1,000 par value bond that's currently trading at $331.40?",3.750%,5.151%,7.500%,7.640%,C,"The correct answer is option
+C. 7.500%
+The number of semi-annual periods is given by:
+{eq}\begin{align*}
+
+&= \text{Number of years} \times \text{Number of semi-annual periods in a year} \\[0.3 cm]
+
+&= 15 \times 2 \\[0.3 cm]
+
+&= 30
+
+\end{align*}
+
+{/eq}
+The semi-annual interest rate is given by:
+{eq}\begin{align*}
+
+&= (\dfrac{\text{Par value of bond}}{\text{Current value of bond}})^{\dfrac{1}{\text{Number of periods}}} - 1 \\[0.3 cm]
+
+&= (\dfrac{1,000}{331.40}) ^ {\dfrac{1}{30}} - 1 \\[0.3 cm]
+
+&= 3.0175 ^ {0.033}  - 1 \\[0.3 cm]
+
+&= 1.0375 - 1 \\[0.3 cm]
+
+&= 3.75\%
+
+\end{align*}
+
+{/eq}
+The annual yield to maturity (YTM) value is given by:
+{eq}\begin{align*}
+
+&= \text{Semi-annual interest rate} \times \text{Number of semi-annual periods in a year} \\[0.3 cm]
+
+&= 3.75\% \times 2 \\[0.3 cm]
+
+&= 7.50\%
+
+\end{align*}
+
+{/eq}",Zero-Coupon Bond: A bond is a debt security that may or may not pay interest coupons to the investors or bond-holders. A zero-coupon bond is usually issued at a discount to the face value and redeemed at the face value at maturity. The difference in the two values is the return for the investors.
+42,"You have purchased a zero coupon bond that will pay $15,000 to your newborn child in 21 years. If this bond is discounted at a rate of 2.875% per year, what is today's price (present value) for this bond?","$5,654","$9,348.25","$8,271.50","$15,000",C,"The calculated value of today's price of the bond is option c.
+$8,271.50
+.
+The price of the bond is computed as:
+{eq}\begin{align*} &= \dfrac{\text{Face value or maturity value}}{\text{(1 + discount rate)}^{\text{Number of years}}} \\[0.3 cm] &= \dfrac{\$15,000}{(1 + 2.875\%)^{21}} \\[0.3 cm] &= \dfrac{\$15,000}{1.02875^{21}} - 1 \\[0.3 cm] &= $8,271.50 \\[0.3 cm] \end{align*} {/eq}","Bond's Price: A zero-coupon bond is a bond that does not pay any periodic interest or coupon payments to the investors. Since it does not pay any interest to the investors, it is issued at a discount to the face value."
+43,"Which of these types of bonds would be issued at the lowest price, assuming they all have the same par value and are issued on the same date?",Plain Vanilla bond,Original Issue Discount Bond,0-Coupon bond,,C,"The answer is (c) 0-Coupon bond
+The 0-coupon bonds are bonds that are issued at a deep discount on face value. These bonds do not offer any interest to bondholders and redeem at the full face at maturity. The difference between issued value and redeeming value is the actual return earned by the bondholder.
+Explanation for Incorrect Options:
+Option (a) Plain vanilla bonds are issued with no special feature, and very low risk is associated with these bonds.
+Option (b) The original issue discount is the discount offered on the face value of a bond when bonds are issued for the first time.",Bond: A bond is a negotiable financial instrument that indicates that a company owes a specific amount of loan to a bondholder. The bondholders invest with the expectation of earning higher returns on the amount invested. Companies pay a fixed coupon rate on a bond's face value and redeem the principal amount of bonds at the time of maturity.
+44,Which of the following is true of the structure of a zero-coupon bond?,an annuity of interest payments and a single principal payment at maturity,"no interim interest payments but a variable payment at maturity, depending on interest rates",an annuity of payments comprised of both interest and principal,no interim interest payments and a single payment at maturity,D,"The answer is
+D. no interim interest payments and a single payment at maturity
+A zero-coupon bond will not make interest payments during its life. Instead, investors can purchase it at a deep discount. And, the bond issuer will return the principal to the bondholder at maturity.
+Analysis of other options
+:
+A. Incorrect. There is no interest payment for a zero-coupon bond.
+B. Incorrect. A principal is a fixed amount.
+C. Incorrect. A zero coupon has no coupon payments. In addition, a regular bond will make interest payments and principal payments separately. A bond is not an amortization loan that each payment includes both interest and principal payments.","Zero-Coupon Bond: A zero-coupon bond is a debenture that a business or a government can sell to the general public for additional debt capital. Usually, zero-coupon bonds will be relevant for raising funds in a short period."
+45,The current exchange rate between French franc and U.S. Dollar is FF 5.529 per dollar. Last month this rate was FF 5.491 per dollar.,FF has appreciated,US $ has depreciated,FF has depreciated,US $ has appreciated,C,"The correct answer is option
+c) FF has depreciated
+The current exchange rate between French Franc and US Dollar has increased to FF 5.529 per dollar compares to its last month's value of FF 5.491 per dollar.
+{eq}\begin{align*}
+
+{\rm\text{Increase in exchange rate}}\, &= \,{\rm\text{Current exchange rate}}\, - \,{\rm\text{Last month's exchange rate}}\\
+
+&= {\rm\text{FF}}\,5.529\,{\rm\text{per dollar}}\, - \,{\rm\text{FF}}\,5.491\,{\rm\text{per dollar}}\\
+
+&= {\rm\text{FF}}\,0.038\,{\rm\text{per dollar}}
+
+\end{align*}
+
+{/eq}
+It implies that an additional FF 0.038 must be paid to purchase one dollar. Since an additional amount is to be paid for buying the same volume of foreign currency (US Dollars), it implies that the FF value has decreased, which indicates a situation of FF depreciation. Hence,
+option c is correct.
+Incorrect option explanation:
+If FF had appreciated, the current exchange rate would be less than last month's exchange rate as the FF is more valuable at present than last month. Hence,
+option a is incorrect.
+FF has been compared to one dollar in both cases. So, it means that the dollar value has not appreciated or depreciated. Hence,
+options b and d are incorrect.","Currency Depreciation: When more money has to be paid to buy a product or currency, it implies that the domestic currency's value has declined. This situation is marked as currency depreciation and is unfavorable to the economy."
+46,"An investment is made on May 24 for $50,000, 5% bonds at par value. Interest is payable on March 31 and September 30.",$167,$875,$375,$555,B,"1st Due date = 31 March
+Remaining Days from 24 may to 30 September = 128 Days
+The accrued interest on the purchase date = 50,000 x (5 / 100) x (128 / 365)
+The accrued interest on the purchase date = $876.71
+As the accrued interest on the purchase date is $876.71 it is approximately $875.
+Hence the correct option is $875 which is option B.",Bonds: The bonds are the financial instruments that are used by the companies. The bonds are issued into the financial market by the companies when they require additional funds. These instruments are the debt-instruments issued to collect the fund from the investors.
+47,"When the zero curve is upward sloping, which of the following is true?",The one-year zero rates are always greater than the forward rate for the period between 1 year and 1.5 years.,The one-year zero rates are always less than the forward rate for the period between 1 year and 1.5 years.,The one-year par yield is always greater than the one-year zero rates.,None of the above,B,"The answer is b. The one-year zero rates are always less than the forward rate for the period between 1 year and 1.5 years.  This is consistent with an upward sloping curve, where the expectations for interest rates are higher farther into the future.","Zero Curve: A zero curve is a yield curve that depicts the interest rates offered on zero-coupon bonds of different maturities.  Incidentally, zero-coupon bonds do not pay interest during their lives.  They have a single payment that occurs at maturity."
+48,Which of the following statements regarding bond trading is INCORRECT?,The long-term bonds issued by the U.S. government are called Treasury Bills.,The long-term bonds issued by state and local governments in the United States are called municipal bonds.,A bond that makes no coupon payments (and thus is initially priced at a deep discount) is called a zero-coupon bond.,The price a dealer is willing to pay for a security is called the bid price.,A,"The question asks us to select the incorrect statement about bond trading. The answer is
+A. The long-term bonds issued by the U.S. government are called Treasury Bills.
+That statement is incorrect because Treasury bills are not long-term bonds. Treasury bills are
+short-term securities
+that typically mature within a year. They may mature in just a few days or 365 days.
+The government issues securities as a means to raise funds. Among these, Treasury bills stand out as one of the safest investments. This is because the full faith and credit of the issuing government, in this case, the United States, backs them. The Department of the Treasury issues Treasury bills through regular auctions. Investors purchase these T-bills at a discount from their face value and receive the total face value when the T-bill matures. The difference between the purchase price and the face value is the investor's return.
+The other given statements are true regarding bond trading and, therefore, are not the answer to the question.
+Other Answer Options
+Analysis
+Option B
+Municipal bonds are long-term debt securities that the state and local governments issue to fund various projects, such as building schools, highways, and hospitals. This is a correct statement about bond trading.
+Option C
+A zero coupon bond is a type of bond that does not make periodic interest payments. This is a correct statement about bond trading.
+Option D
+A bid price is the maximum price a buyer can pay for a security, such as a stock or bond, at a given time. This is a correct statement about bond trading.","External Funding: Businesses seek external funding to finance operations, expansion, or new projects. External funding sources provide capital through bank loans, venture capital, and government grants. Each source has its terms, conditions, and implications for the industry."
+49,A zero coupon bond is an example of a(n):,fixed income security,original issue deep discount bond,tax-exempt bond,fixed income security and an original issue deep discount bond,D,"The answer is
+D) fixed income security and an original issue deep discount bond
+Bonds are considered as fixed-income securities because interest payments or principal are constant. In addition, since a zero-coupon Bond does not make interest payment, investors can purchase it at a deep discount initially. The deep discount aims to offset the lack of interest payments within the bond's term.",Zero-coupon Bonds: Zero-coupon bonds are bonds that are issued by either corporations or governments. The main difference between a regular bond and a zero-coupon bond is that a zero-coupon bond does not pay interest payments.
+50,The book value of zero-coupon bonds increases by the periodic amount of interest recognized. True or false?,True,False,,,A,"It is
+true
+to say that the book value of zero-coupon bonds increases by the periodic amount of interest recognized because zero-coupon bonds are always issued at a discount because the present value of its future cash flows is always lower than the maturity value. When a discount on a bond issue is amortized, the carrying amount for the liability increases.
+Let us illustrate this with an example. Let us say a company issued 5-year, $1,000,000 zero-coupon bonds for $747,258 when the market interest rate is 6%. The amortization schedule for the bonds looks like this:
+Amortization Table
+Period End
+Beginning carrying value (A)
+Interest Expense (B= A * 0.06)
+Cash interest payment (C )
+Premium Amortization (D= B-C)
+Closing carrying value (E=A+D)
+Dec 31, 20X0
+$747,258
+Dec 31, 20X1
+$747,258
+$44,835
+$0
+-$44,835
+$792,093
+Dec 31, 20X2
+$792,093
+$47,526
+$0
+-$47,526
+$839,619
+Dec 31, 20X3
+$839,619
+$50,377
+$0
+-$50,377
+$889,996
+Dec 31, 20X4
+$889,996
+$53,400
+$0
+-$53,400
+$943,396
+Dec 31, 20X5
+$943,396
+$56,604
+$0
+-$56,604
+$1,000,000
+We can see on the schedule that the carrying amount increases until it is equal to the face value on maturity.","Zero Coupon Bond: A zero-coupon bond is a bond with a stated or coupon interest rate of 0%. This does not mean that no interest is recorded on the bond because zero-coupon bonds are generally issued at deep discounts, and the discount must be amortized over the life of the bond"

@@ -1,0 +1,455 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,What would we expect an increase in the average population age to do to the equilibrium interest rate?,Increase the interest rate.,Decrease the interest rate.,,,D,"The interest rate will decrease with an increase in the average population age.
+Population comprises of all age groups. With an increase in population number of old and middle-aged people also increases.
+Old and middle age people are the savers. More amount would be saved by the old and middle age group than invested or borrowed.
+In order to increase the borrowing for the young population, the interest rate would decline
+Therefore, to attract borrowing and investment interest rate would decline.",Equilibrium Interest Rate The rate of interest which is determined by equalizing the quantity of money demanded by the population and the supply of money is known as the equilibrium interest rate.
+2,Your bank is offering you an account that will pay 17% interest in total for a two-year deposit.,six months.,one year.,one month.,,A,"The equivalent discount rate (EDR) is calculated using the following formula:
+{eq}EDR=(1+r)^{n}-1\\
+
+where:\\
+
+r=interest~rate\\
+
+n=number~of~periods\\
+
+{/eq}
+Using this formula, we'll solve for the provided time periods.
+a. Six Months
+Note that r will equal 17% while n will equal (6 months / 24 months total).
+{eq}\begin{align*}
+
+EDR&=(1+.17)^{1/4}-1\\
+
+&=(1.17)^{.25}-1\\
+
+&=1.04-1\\
+
+&=.04
+
+\end{align*}
+
+{/eq}
+The equivalent semi annual rate of the loan is 4%
+b. One Year
+Note that r will equal 17% while n will equal 1/2 (1 year / 2 years total).
+{eq}\begin{align*}
+
+EDR&=(1+.17)^{1/2}-1\\
+
+&=(1.17)^{.50}-1\\
+
+&=1.0817-1\\
+
+&=.0817
+
+\end{align*}
+
+{/eq}
+The equivalent annual rate of the loan is 8.17%
+c. One Month
+Note that r will equal 17% while n will equal 1/24 (1 month / 24 months total).
+{eq}\begin{align*}
+
+EDR&=(1+.17)^{1/24}-1\\
+
+&=(1.17)^{.04167}-1\\
+
+&=1.00656-1\\
+
+&=.00656
+
+\end{align*}
+
+{/eq}
+The equivalent month;y rate of the loan is 0.656%","Interest: Interest refers to payment or series of payments received by a lender from a borrower. Interest is expressed as a percentage to be paid on the principal value of the loan. Higher interest rates are desirable to investors; however, a higher interest rate also signals that the investment is possibly riskier."
+3,"If a central bank is following a policy of fixing an interest rate at a constant value, then, if the economy expands, the bank will respond by:",shifting the demand for money to the left.,shifting the demand for money to the right.,shifting the supply of money to the left.,shifting the supply of money to the right.,D,"The correct option is d. shifting the supply of money to the right
+Explanation:
+To match expansion consumers and production borrow more money. Producers borrow to increase outfit level and expansion of industries and consumers for consumption. So that supply of money is increase and this will also lead to shift in supply curve rightwards.",Interest Rate The interest rate is the rate which is imposed by the authority of the country to the taxable income of the corporations and individuals. Interest rates can not be the same for all; it is vary according to the income of the individuals.
+4,Financial institutions lend money to each other on a daily basis at the rate called the _____.,prime rate,target rate,overnight rate,bank rate.,C,"Correct option: c. Overnight rate
+.
+The rate that a bank or a financial institution charges for providing loans to another financial institution, with a promise of repayment overnight or daily, is known as the overnight rate. These loans are helpful for institutions that need quick money and do not have time to complete formality for borrowing from the central bank.
+The explanation for the incorrect options:
+Option a: It is an incorrect option because the prime rate is the lowest commercial rate for borrowing money from the market.
+Option b: It is incorrect because the central bank uses the target rate for monetary policies.
+Option d: It is an incorrect option because the bank rate is the rate banks pay to the central bank on borrowings.",Financial Institutions: Any institution involved in the business of lending and borrowing money is termed a financial institution; these institutions earn income in the form of interest they received from the money they landed in the market in a particular period.
+5,Which of the following is less sensitive to interest rate changes?,The residential housing market.,Retail markets.,Utility industries.,State and local finances.,D,The interest rate sensitivity refers to the measures the how much the price of fixed income assets will shift as a consequence of differences in the interest rate environment. The more sensitive securities have a higher variation in price than those with less sensitivity. The variety of sensitivity must be brought into record when choosing a fixed-income implement the investor may trade in the secondary market. It is recognized as the term of the asset. Hence the correct option is d. State and local finances,Interest Rate: The amount of interest lent for a certain period as a proportion of the amount invested or received recognized as the interest rate. The proportion of the amount lent that a lender charges as interest to the borrower that is annually represented as an annual percentage.
+6,Effective Interest (as opposed to Simple Interest) is not useful over more than one compounding period because it doesn't incorporate the idea of Time Value of Money.,True,False,,,B,"The statement mentioned above is
+false
+Explanation:
+The number of time the compounding period increases the amount of return and the value for money increases. Understanding, if an amount is compounded annually i.e. once in a year @10% the interest will increase up to 10% only. But if we increase the number of period it is compounded say for quarterly the interest rate 10% will be treated 4 times which ultimately will increase the annual returns more rapidly.
+Therefore, the more will be the compounding period the higher the effective interest rate will be reflected on time value.",Interest Rate: An interest rate is a percentage of amounts which an investor receives on the amount it has invested in an investment. It changes according to different investments. There are two types of interest rates calculation method as simple and compound interest rate.
+7,Three factors explain the risk structure of interest rates:,"liquidity, default risk, and the income tax treatment of a security.","maturity, default risk, and the income tax treatment of a security.","maturity, liquidity, and the income tax treatment of a security.","maturity, default risk, and the liquidity of a security.",D,"The answer is
+D) maturity, default risk, and the liquidity of a security.
+The interest rate on an investment can be considered a trade-off for an investor by accepting all potential risks on the investment. Thus, the interest rate can be estimated approximately by adding up all risk premiums.
+Interest rate = Real risk-free rate + Inflation premium + Liquidity risk premium + Maturity risk premium + Default risk premium
+The income tax treatment affects the investor's net proceeds from the investment. It should not be a component of the interest rate structure.","Interest Rate: The interest rate refers to an annual return on an interest-bearing investment such as Treasury bonds, corporate bonds, and certificates of deposit (CD). If the interest rate changes, it affects the value of interest-bearing assets."
+8,Overnight loans from one bank to another for reserve purposes entail an interest rate called the:,prime rate,discounted rate,federal funds rate,treasury bill rate,A,"The correct answer is A) Prime rate
+In the above-given statement, the prime rate entails an interest rate on overnight loans in different banks. The prime rate is most creditworthy for the corporate-related consumers of the commercial banks. The overnight loans will be based on the prime rates from the starting point to the ending point. The federal reserve determines the overnight rate for the lending charges, primarily based on the prime rate. It includes personal loans, mortgages, and small business loans. The prime rate is the specific component for the changes in the ultimate rate.
+The explanation for incorrect answers
+Option B) is incorrect because discounted rate determines the future cash flows with the present value. It is only useful for monetary policy in the country.
+Option C) is incorrect because the federal funds rate is the lending reserve balances on an uncollateralized basis to maintain reserve requirements.
+Option D) is incorrect because the treasury bill rate will impose on the borrowed money payable by the United States government.","Interest rate: Interest rate is the proportion of the lending charges expressed annually for the principal sum and the compounding frequency of the annual percentage. It includes the collateral amount, reserve requirements, and investment maturity."
+9,"If an institutional investor wants to borrow money for 30 days to finance a bond purchase, which of these is most likely to be the lowest loan rate available?",Term repo rate.,Call money rate.,Broker loan rate.,,A,"The correct answer is A. Term repo rate.
+The term repo rate refers to the repo rate for long-term periods and proves more beneficial for the investor than the repo rate for investment. This rate is also lower than using other bank financing rates.
+The explanation for incorrect answers:
+Option B is incorrect as this is a costly loan rate as the borrowers have to pay a service fee and the interest along with the principal amount.
+Option C is incorrect as the broker loans carry a high interest rate compared to other short-term loan rates.",Lending Rate: Lending rate means the rate charged by the loan provider on the amount of loan from the borrower. This rate is charged till the borrower discharges the borrowed money. This can be calculated using a simple or compounded method.
+10,"If the rate of interest increases, then the future value of any given future cash flow stream will:",increase,decrease,not be affected,,B,"The correct answer is
+b. decrease.
+Interest rates can be perceived as the cost of borrowing and varies with changes in the amount and payment duration. Interest rates affect several economic factors such as money supply, spending and consumption. An increase in interest rates reduces the money supply, consumption and spending. It also reduces the total disposable income within a specified period. When money supply and disposable income decrease, the cash flow system in the long run and short run durations is interrupted because cash flow reduces. This is both for individuals and businesses. When the money supply is low, most businesses and people spend less and save more as emergency funds. The level of investments is also interrupted when there is a change in money supply and interest rates within a given duration.",Significance of Interest Rates: Interest rates are used to help regulate and control the level of borrowing in a country within a specified period. The central bank is the main determinant of the level of interest rates to be set within a specified period. It mainly controls interest rates by controlling the interest rate paid by commercial banks on borrowed loans from the central banks.
+11,Mexican interest rates are normally substantially higher than U.S. interest rates.,"What does this imply about the inflation differential (Mexico inflation minus U.S. inflation), assuming that the peso interest rate is the same in both countries? Does this imply that the Mexican peso will appreciate or depreciate? Explain.","It may be argued that the high Mexican interest rate should entice U.S. investors to invest in Mexican money market securities, which could cause the peso to appreciate. Reconcile this theory with your answer (a). If you believe that the high Mexican interest rate does not entice U.S. investors, explain why.","Assume that the difference between Mexican and U.S. interest rates is typically attributed to a difference in expected inflation in the two countries. Also assume that purchasing power parity holds. Do you think that your business cash flows would be adversely affected? In reality, purchasing power parity does not hold consistently. Assume that the inflation differential (Mexico inflation minus U.S. inflation) is not fully offset by the exchange rate movement of the peso. Would this benefit or hurt your business? Now assume that the inflation differential is more than offset by the exchange rate movement of the peso. Would this benefit or hurt your business?",,A,"a).
+The nominal interest rates of Mexico are higher than the nominal interest rates of the United States, but actual interest rates will remain the same. It means that the inflation rate is higher in Mexico than the inflation rate in the United States.
+Therefore, there is a positive inflation differential between the United States and Mexico. It will affect the depreciation of the Mexican Peso due to an increase in the inflation rate or high inflationary pressure. It has happened due to the decrease in purchasing power of the Peso.
+b).
+The high Mexican interest rate can be offset through the high inflation rate, and the real interest rate remains the same. Thus, it should not be enticing for the United States investors. Also, the exchange rate between Peso currency is weakening with effect to dollars will offset any benefits, investors in the United States could gain from investment in Peso.
+c).
+Our business cash flow would not be adversely affected by the purchasing power that may reduce as the future cash flows are discounted at present. Hence, adjustments concerning inflation can be made. Our business is based in Mexico and also export-oriented. Thus, our industry gets more Pesos due to depreciation, and the inflation does not fully offset it.
+Our business will get hurt in the second situation because it will get a relatively lesser Peso currency.",Interest rate: Interest rate refers to the money charged on the loan amount to a borrower. Some loans have used a compound interest rate which is applied to the principal amount. A higher interest rate on loans is significantly riskier.
+12,The true cost/return of borrowing and lending is best measured by:,the three-month U.S. Treasury bill rate.,the inflation rate.,the nominal interest rate.,the real interest rate.,D,"The correct answer is D) Real interest rate.
+In the above-given statement, the real interest rate adjusts the impact of the inflation rate in the observed target market in the economy. It reflects on the loan and investment of the purchasing power parity of the consumers. It is representing a preference of time in the lender and borrower. The real interest rate will estimate future inflation, which is expected during the fiscal year. The real yield and real cost affect the long-term investor. It is reflecting a time-preference on the future goods and present products. A lender prefers an adjusted inflation rate which may be lower in the future.
+The explanation for incorrect answers
+Option A) is incorrect because the treasury bill rate of the three months duration is not the correct measurement of borrowing amount.
+Option B) is incorrect because the inflation rate records a currency or purchasing power during the fiscal year.
+Option C) is incorrect because the nominal interest rate does not take a multiplied compounding amount. It records only the expected inflation rate.",Interest rate: Interest rate is the charging amount by the lender to use the principal amount. It is the total percentage of deposited amount during the accounting year. It includes compound interest and simple interest.
+13,The price of borrowed money is called:,Wages,Rent,Profit,Interest rate,D,"The correct option is d.) interest rate.
+The price of borrowed money is called the interest rate, as the lender lets the borrower use his funds and expects some returns. The lender can be both individuals and banks. The interest rate is the lender's earnings and the borrower's expense. The lenders have saved their funds by curtailing their consumption or restricting their wants. To part with this liquidity, they need some reward, and economists have called this reward the interest rate. It is a measure to know the preference between present and future earnings.
+Reasons for incorrect options are:
+Option a.
+Wages are remuneration that the human capital gets when employed in production.
+Option b.
+Rent is the earning of land and has no relation to borrowing money.
+Option c.
+Profit is the remuneration accruing to the entrepreneur for his contribution to the production process.
+Option e.
+Interest rate and CPI are not the same things, as the interest rate is a tool to control inflation, whereas CPI is the measure of estimating inflation.","Borrowed Money: When a lack of revenues arises due to expenses undertaken, both private parties and the government borrow money. This borrowing can take place either through internal or external sources. The extensive borrowings of the government are not considered a good sign as it reflects the government's dependency on sources other than its revenue."
+14,Interest rates measure:,returns on certificates of deposit.,borrowing costs of mortgages.,changes in the unemployment rate.,,B,"The correct option is: b. borrowing costs of mortgages.
+Explanation:
+Interest rates are described as a proportion or percentage that is charged on the borrowings. It typically measures the
+borrowing costs of a loan or a mortgage.
+It is calculated on an annual basis in the percentage form. The financial institution or lender charged the interest rate on the borrowing money. It has two classifications: compound interest and simple interest. It is also stated that high risk contains greater interest rates, and low risk contains lower interest rates. It may vary depending on the cost of mortgages.","Employment: Employment is recognized as an agreement between the employee and the employer that reflects employees' status as being employed. It is distinct for every employee as per their designation and roles. It contains necessary information such as benefits, perks, base salary, and the company's terms and conditions."
+15,At which interest rate will an individual be indifferent between receiving $50 per year every year forever (starting one year from now) and receiving $1000 today?,2.5%,5%,10%,7.5%,D,"The correct answer is B, 5%.
+The interest rate at which an individual will be indifferent between receiving $1000 today or $50 per year forever is calculated.
+The present value of the perpetual payment is given as:-
+{eq}{{\rm{PV}}}= \dfrac{{{\rm{Cash}}\;{\rm{flow}}}}{{{\rm{Interest}}\;{\rm{rate}}}}
+
+{/eq}
+Thus, to be indifferent, the present value of $50 should be equal to $1000.
+{eq}\begin{align*}
+
+1000\;&=\; \dfrac{{{\rm{50}}}}{{\rm{i}}}\\
+
+{{\rm{i}}}\;&=\;\dfrac{{{\rm{50}}}}{{{\rm{1000}}}}\\
+
+{{\rm{i}}}\;&=\; 0{\rm{.05}}
+
+\end{align*}
+
+{/eq}
+Therefore, the interest rate must be equal to 5 percent.","Interest Rate: Interest rate refers to the rate of return one gains on the investment. The investment can be done in the form of lending cash to an individual, bank, or any other financial or non-financial institution."
+16,"In the Bs/Bd model, which of the following would likely lead to a decrease in interest rates?",An increase in federal entitlement expenditures.,An increase in expected inflation.,An increase in business confidence.,An increase in the public's propensity to save rather than consume.,D,"In the Bs/Bd model, which of the following would likely lead to a decrease in interest rates?
+D) An increase in the public's propensity to save rather than consume.
+When the public's propensity to save than consume increases, the overall amount of money circulating within the economy declines. The decline in money circulation leads to a decrease in the money supply. Therefore, the Fed is forced to reduce the interest rate since the low-interest rate discourages people from saving and encourages more spending. This leads to an increase in consumption, which boosts the overall economy. Thus, the correct answer is
+option D.
+Additional Information
+Option A) An increase in federal entitlement expenditures
+is incorrect since the rise in federal entitlement expenditures increases the money supply.
+Option B) An increase in expected inflation
+is incorrect since inflation forces the Fed to increase the interest rate.
+Option C) An increase in business confidence
+is wrong because it increases consumption, thus, increasing the demand for money, which increases interest rates.",Economic Models: Economic models are concepts in economics that are used to explain different financial situations. Having a good understanding of various economic concepts is essential since it helps economists in making better decisions. Bs/Bd model and Heckscher-Ohlin model are some of the significant examples of economic models.
+17,"One reason why Europeans continued to leave money in their bank deposits, despite negative interest rates was:","To support survive of their banks,","Because it was required by law,","To continue using electronic payments,",The huge withdrawal fees that they had to pay.,D,"Answer choice:
+d.  The huge withdrawal fees that they had to pay.
+Explanation:
+One of the main reasons that Europeans continued to leave money in their bank deposits during a period of negative interest rates were the large withdrawal fees that they would have to pay if they took their money out.  A negative interest rate means that the consumers are making no money in interest to keep their money with the bank.","Interest Rates: When banks lend money to consumers and businesses they charge interest which essentially the cost of renting the money from the bank.  Interest rates increase and decrease based on the economy.  Also, when consumers deposit funds with the bank the bank often pays consumers interest for the balance that they hold with the bank."
+18,"True or false? As a general rule, the effective annual rate is more appropriate to use for financial decision-making than the annual percentage rate.",True,False,,,A,"True
+. The effective yearly rate is preferred in decision-making compared to the annual percentage return. The effective annual return gets obtained by reducing the nominal interest amounts for the asset's compounding periods to achieve interest requirements. On the other hand, the yearly percentage rate depicts the annual gain achieved by adding up the amounts charged to borrowings and the amounts distributed to investors. Because the effective yearly rate of return accounts for nominal interest for the period of compounding the asset in question, it gives more reliable interest payments that can get used in business and individual decision-making.","Financial Decisions: Any choice regarding distribution, issuance, or receipt of money can serve as a financial decision. Businesses, companies, and governments have managers facing such decisions because funds are either moving out or coming in regarding operations carried out. For example, a business may make monetary decisions when buying an asset, while a government may need to raise funds in revenue, hence incorporating financial choices."
+19,"If the annual interest is 12%, but the compounding is done quarterly, then the interest rate is 3% per period.",True,False,,,A,"The periodic (i.e.quarterly) interest rate is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Annual interest rate}}{\text{Number of quarters in a year}} \\[0.3 cm]
+
+&= \dfrac{12\%}{4} \\[0.3 cm]
+
+&= 3\% \\[0.3 cm]
+
+\end{align*}
+
+{/eq}
+The correct answer is option
+a. True
+.",Interest Rate: The interest rate on a financial asset may be expressed in terms of nominal interest rate or real interest rate. The real interest rate is determined by adjusting the nominal interest rate for inflation. The effective interest rate is ascertained by considering the periodic compounding.
+20,Which of the following best describes the interest rate effect?,An increase in the price level raises the interest rate and chokes off government spending.,An increase in the price level lowers the interest rate and chokes off government spending.,An increase in the price level raises the interest rate and chokes off investment and consumption spending.,An increase in the price level lowers the interest rate and chokes off investment and consumption spending.,C,"The correct answer is
+c. An increase in the price level raises the interest rate and chokes off investment and consumption spending.
+A rise in price level triggers an increase in interest rate. This is because a price increase will lead to inflation, indicating an increase in the money supply. In order to prevent inflation, the central bank increases interest rates, reduces government spending and investments. When the central bank raises its total interest rates to other banks, they also respond with an increase in interest rates within the same period and vice versa. With higher interest rates, the cost of borrowing becomes costly, leading to a reduction in consumer spending, a decline in demand, a decline in production, and a reduction in general investments. When interest rates are low, people's income tends to incline, causing an increase in general consumption spending and investment.","Interest Rates: Interest rates can be described in several ways, including it's the amount of additional income generated from an investment or the extra amount to a loan, which is treated as the cost of borrowing a loan. Interest rates become higher when the payment period of a loan is longer or when the investment income anticipated is in the long run."
+21,The _____ rate is the interest rate banks charge each other for borrowing or storing money.,Federal Reserve interest,loan interest,federal funds,none of the above,D,"The correct option is d) none of the above
+The interest rate charged by banks while borrowing and storing funds with each other is called interbank rates. When banks have a surplus amount, they put this surplus with other banks, and when they require money, they borrow from other banks, and the interest charged on these transactions is called interbank rate.
+Reasons for incorrect options
+Option a) is incorrect because The Federal Reserve charges Federal Reserve interest rates on commercial banks.
+Option b) is incorrect because loan interest is in charges on common people's loans.
+Option c) is incorrect because federal funds rates are charged when banks lend to other banks overnight.","Loan Interest Rate: The interest rates charged on the amount borrowed from banks by anyone are called loan interest rates. Banks have different interest rates for different types of loans like; home loans, educations loans, or car loans."
+22,"As the interest rate increases, the opportunity cost of:",borrowing decreases,past consumption decreases,current consumption increases,saving increases,C,"The correct option is (c)
+As the interest rate increases, the opportunity cost of current consumption increases because it is the cost that is foregone. People will save more for gaining greater interest and reduce the current consumption level.
+The incorrect option is (a).
+With the increase in interest rate, there will be less borrowing because people have to pay a larger interest rate. Therefore, it is not an opportunity cost of an increase in interest rate.
+The incorrect option is (b).
+With the increase in interest rate, there is no effect on past consumption. It is the amount which has already been consumed and it cannot be decreased.
+The incorrect option is (d).
+As the interest rate increases, the opportunity cost of holding the cash increases. People tend to save more in the banks as the rate of return is more. An increase in interest rate leads to an increase in savings and vice-versa.",Opportunity Cost: Opportunity cost is the cost of second-best alternative foregone. It is the loss that can be gained from other alternatives while choosing a particular alternative of a product or service.
+23,"Everything else held constant, an increase in interest rates on student loans:",increases the cost of a college education.,reduces the cost of a college education.,has no effect on educational costs.,increases costs for students with no loans.,A,"The accurate choice is A) increases the cost of a college education.
+Explanation:
+Keeping everything else constant, an increase in interest rates on student loans will increase the cost of a college education. Student loans are taken by students to pay the cost of a college education. When the interest on such loans increases, the cost of the college education is impacted in direct proportion. Hence option A) is the apt choice.","Interest Expense: When banks extend loans, they charge interest on the amount lent. When a bank accepts deposits, it pays interest on the amount deposited by investors. The deposit rate is always lower than the borrowing interest rate."
+24,The two-year zero rate is 6% and the three year zero rate is 6.5%. What is the forward rate for the third year? All rates are continuously compounded.,6.75%,7.0%,7.25%,7.5%,D,"Let r
+m,n
+be the interest rate staring in year m and lasting for n years.  According to the unbiased expectations hypothesis:
+{eq}e^{r_{0,3}*3}=e^{r_{0,2}*2+r_{2,1}}\\
+
+e^{0.065*3}=e^{0.06*2+r_{2,1}}\\
+
+r_{2,1}=7.5\%\\
+
+{/eq}
+The answer is d.","Forward Rate: The forward rate is the expected interest rate for some future period.  If investors' expectations are unbiased, then the return on a long-term investment must equal the return of two or more short-term investments in a row."
+25,An increase in interest rates will likely cause:,A decrease in both aggregate demand and the consumption function.,A decrease in aggregate demand and an increase in aggregate supply.,An increase in both aggregate demand and the consumption function.,An increase in both aggregate demand and aggregate supply.,A,"Option A) is correct: a decrease in both aggregate demand and the consumption function.
+The rise in interest rate increases the cost of investment, and investment falls in the economy. It leads to a fall in income and employment, which reduces consumption done by the consumers in the economy. It leads to a fall in aggregate demand and consumption function.
+All other options are incorrect because they do not explain the causes of the increase in interest rates.",Interest Rate : Interest rate is the cost of investment which helps the producers and consumers to decide on investment and savings. It affects many sectors of an economy and thus affects the Gross Domestic Product (GDP).
+26,The interest rate banks charge each other for short-term loans is called the:,commercial paper rate,discount rate,federal funds rate,lombard rate,C,"The correct answer is
+option c
+federal funds rate.
+Because By law, banks should keep a save reserve to a specific level of their deposits in a record at a Federal Reserve bank. The interest on interbank borrowings is said as federal fund rate.
+The reason for the incorrect option is:
+Option a is incorrect because the commercial paper rate is that an organization gives a short-term instrument to raise reserves for the most part for a time frame as one year.
+Option b is incorrect because the discount rate is the loan fee charged to business banks and other monetary establishments for quick advances they take from the Federal Reserve Bank.
+Option d is incorrect because the Lombard rate is a credit presented as a fixed loan or concurred overdraft conceded against a pledge of liquid assets like equities, etc.
+Option e is incorrect because the prime rate is an interest rate utilized by banks to give loans to clients with great credit.","Interest Rate: The interest rate is the sum a bank charges a borrower and is a percentage of the principal (i.e., the amount lent). The interest rate on an advance is regularly noted on a yearly premise known as the annual percentage rate (APR)."
+27,"$1,000 par value zero-coupon bonds (ignore liquidity premiums).",9.55%,11.74%,14.89%,13.73%,C,"Let, r
+m,n
+be the rate of return on a bond that starts in year m and last for n years.  Ignoring the liquidity premium, the return on long-term bonds is the geometric average of the returns on short term bonds.  Therefore,
+{eq}(1+r_{0,5})^5=(1+r_{0,3})^3*(1+r_{3,2})^2\\
+
+(1+0.1070)^5=(1+0.0799)^3*(1+r_{3,2})^2\\
+
+r_{3,2}=14.89\%\\
+
+{/eq}
+The answer is c.","Unbiased Expectations: According to the unbiased expectations theory, the geometric average return on several short term bonds is the rate of return on a long term bond.  This theory ignores liquidity premiums."
+28,"If the interest rate decreases, the opportunity cost of holding cash _____, and personal consumption is expected to _____, respectively.",increases; decreaseb. increases; increasec. decreases; increased. decreases; decrease,,,,C,"The correct answer is
+c. decreases; increase
+.
+If the interest rate decreases, the opportunity cost of holding cash
+decreases
+, and personal consumption is expected to
+increase
+, respectively.
+Higher interest rates make saving money more attractive. When rates are lower, people are more inclined to keep a larger amount of liquid cash on hand for emergencies. Or they may choose to spend their cash or borrow money if the rate to repay is low enough. The money they borrow will finance houses, cars, or smaller purchases and will increase the level of economic activity overall.","Interest Rates: In a market economy, almost everything is decided by the laws of supply and demand, which set market quantities and prices. Money is the same, and interest rates are what we call the prices. Banks accept money deposits from savers at one interest rate and loan the money to borrowers at a higher interest rate, earning revenue in the process."
+29,Which of the following is less sensitive to interest rate changes?,The residential housing market.,Retail markets.,Utility industries.,State and local finances.,D,The interest rate sensitivity refers to the measures the how much the price of fixed income assets will shift as a consequence of differences in the interest rate environment. The more sensitive securities have a higher variation in price than those with less sensitivity. The variety of sensitivity must be brought into record when choosing a fixed-income implement the investor may trade in the secondary market. It is recognized as the term of the asset. Hence the correct option is d. State and local finances,Interest Rate: The amount of interest lent for a certain period as a proportion of the amount invested or received recognized as the interest rate. The proportion of the amount lent that a lender charges as interest to the borrower that is annually represented as an annual percentage.
+30,"If Gus Solis believes interest rates are going to fall in the near future and remain low for several years, Gus should now:","invest in a long-term, fixed-rate certificate of deposit.",bury his money in fruit jars in the back yard.,invest in a variable-rate certificate of deposit.,"invest in a short-term, fixed-rate certificate of deposit.",A,"The correct answer to the above is Option A. invest in a long-term, fixed-rate certificate of deposit.
+Explanation.
+It is given in the question that the interest rates are going to fall and will remain low for several years.
+So we need to consider an investment for the long term.
+Therefore, Option D. investing in a short-term, fixed-rate certificate of deposit will be incorrect in this case.
+Since the interest rates are falling, a variable-rate investment shall not be chosen because the variable-rate investment also lowers the interest as the market rate goes down.
+So, Option C. investing in a variable-rate certificate of deposit is also incorrect.
+Option B. burying the money in fruit jars in the backyard is the worst idea. It will not give any reward at all.
+So, our investment shall be for a fixed rate and for the long term. A fixed-rate investment will give the same amount of interest even if the market rate is low.
+So Option A is the correct investment decision to be taken.","Interest Rates Interest rates are a key tool for consideration in investing. Higher interest rates are attractive for investing but generally contain higher risk. Bonds, debentures, and fixed deposits offer interests as the reward for investing in them."
+31,Which best explains why banks consider interest on loans to be important?,Interest helps them cover business costs.,Interest enables them to control the economy.,Interest helps them to satisfy customers.,Interest enables them to stockpile money.,A,"The correct answer is A.
+Banks consider interest on loans quite significant because
+interest helps them cover business costs.
+Interest is the cost incurred by the borrower to borrow money. Additionally, this means that when a bank grants a borrower a loan, they are bound to refund the principal amount at an agreed interest amount paid periodically over agreed timeframes. Loans offered by banks emanate from monetary deposits by customers through a process named fractional banking. It is the process where the bank gives loans to borrowers from an amount of the funds deposited by customers.",Interest Rate: Interest rate explains a percentage computed yearly to depict the proportion of money that a borrower is bound to pay together with the borrowed amount from the lender. The totality of the monetary amount that the lender lends to the borrower is described as the principal sum. The interest rate that the borrower is bound to pay periodically is determined from the principal sum.
+32,How long will it take any sum of money to duplicate itself at a 7% simple interest rate?,n = 15 years,n = 7 years,n = 14 years,n = 14.3 years,D,"The answer is d. n= 14.3 years.
+Simple interest = principal {eq}\times
+
+{/eq} interest rate {eq}\times
+
+{/eq} number of periods.
+The number of periods required to earn a simple interest that is equal to principal = 1 / interest rate = 1 / 0.07 {eq}\approx
+
+{/eq} 14.286","Simple Interest Simple interest is the interest earned based on the principal. Simple interest does not compound, which means there is no interest earned on accumulated interests. Simple interest is equal to principal times interest rate times the number of periods."
+33,Mexican interest rates are normally substantially higher than U.S. interest rates.,"Assuming that interest rate parity exists, do you think hedging with a forward rate would be beneficial if the spot rate of the Mexican peso was expected to decline slightly over time?",Would hedging with a money market hedge be beneficial if the spot rate of the Mexican peso was expected to decline slightly over time (assume zero transaction costs)? Explain.,What are some limitations on using currency futures or options that may make it difficult for you to perfectly hedge against exchange rate risk over the next year or so.,,A,"a) Hedging with a forward rate would not be beneficial because it would have a large discount due to the substantially higher interest Mexican interest rate as compared to the U.S. Therefore, if the peso declined slightly the future spot rate would be higher than the current forward rate.
+b) In this situation hedging with a money market would not be beneficial. An investor would be borrowing pesos at a higher rate and converting them to U.S. dollars at a lower rate. They would be better off doing nothing and letting the peso just decline slightly.
+c) All investment involves risk and there is no guarantee of a future return. In addition, an investor would have to accurately predict the change in exchange rates to know what size option or currency future to purchase.","Interest Rates An interest rate is the proportion of a loan charged to the debtor that is owed per period and is usually expressed as an annual percentage. The rate can depend on several factors like supply and demand, the currency involved, or the creditworthiness of the borrower."
+34,Interest rates set by the European central bank during the period 1999?2004 resulted in what situation compared to that in the United States?,"European rates were exactly the same as those in the United States, resulting in uncovered interest parity.",European rates were consistently higher than U.S. rates.,European rates were consistently lower than U.S. rates.,"At first the European rates were much higher, but then the ECB acted aggressively to lower them.",B,"Answer) B. European rates were consistently higher than U.S. rates.
+short-term interest rates in the euro area and the United States and confirms that, while the rates were higher in euro than in US, the amplitude of the interest rate cycle is much smaller in the euro area than in the United States.",Interest Rate Drivers The interest rate charged by banks is determined by a number of factors such as the state of the economy. A country?s central bank sets the interest rate.
+35,"When the interest rate changes,",the demand curve for bonds shifts to the right.,the demand curve for bonds shifts to the left.,the supply curve for bonds shifts to the right.,it is because either the demand or the supply curve has shifted.,D,"Correct Answer
+Option D
+Explanation
+The interest rates changes when any of the demand curve or supply curve is shifted.
+The interest rates increases when
+1.	Increase in demand or Decrease in supply
+The interest rates decreases when
+1.	Decrease in demand or Increase in supply","Interest Rate: The percentage which is charged by the lender from the borrower is known as the interest rate. Generally, interest rate is some percentage on the total principal amount and interest rate is typically noted on an annual basis."
+36,An increase in the interest rate:,increases the demand for money.,increases the quantity of money demanded.,decreases the demand for money.,decreases the quantity of money demanded.,D,"An increase in the interest rate:
+D) decreases the quantity of money demanded.
+An increase in the interest rate increases the cost of money or capital, which in turn discourages households and firms from borrowing more. In other words, as the interest rate increases, the quantity of money demanded decreases.
+On the other hand, a decrease in the interest rate decreases the cost of money thereby encouraging entities to borrow more. Thus, we can say that the quantity of money demanded increases with an increase in the interest rate.",Interest Rates: The interest rate applicable on various financial assets or instruments may be expressed in nominal or real terms. The real interest rate is derived by adjusting the nominal interest rate for inflation. One can also derive the effective annual interest rate by considering the effect of compounding.
+37,"Suppose Big Bank offers an interest rate of 5.5% on both savings and loans, and Bank Enn offers an interest rate of 6% on both savings and loans.",What profit opportunity is available?,Which bank would experience a surge in the demand for loans? Which bank would receive a surge in deposits?,What would you expect to happen to the interest rates the two banks are offering?,,A,"a:
+Big Bank's interest rate is 5.5%, allowing one to borrow money from Big Bank at 5.5% and deposit it in Bank Enn, which has a 6% interest rate on deposits.
+The transaction results in a 0.5% profit on the borrowed funds
+b:
+A lower bank interest rate would result in a surge in the demand for loans in Big bank
+A higher bank interest rate would result in a surge in the deposits in Bank Enn
+c:
+Big bank would increase interest rates, while Bank Enn would decrease them.","Interest Rate: According to the interest rate concept, the amount of interest due per period is expressed as a percentage of loan, deposit, or borrowing amount. Amounts lent, deposited, or borrowed incur interest based on several factors, including the principal sum, the interest rate, the compounding frequency, and the period of time for which it is lent, deposited, or borrowed."
+38,A decline in the real interest rate will?,shift the investment demand curve to the left.,shift the investment demand curve to the right.,shift the investment schedule downward.,increase the amount of investment spending.,B,"The correct answer is
+B: shifts the investment demand curve to the right
+.
+The investment demand curve shifts right when real interest rates decrease because it reduces the amounts attracted by loans enabling consumers to increase their purchase power thus, increasing the demand for investments. Increased consumption of products creates a conducive investment environment since it indicates that investors have minimal risks when investing in a well-performing business environment. The attraction of investments in a business environment influences its growth because it creates a ripple effect of increased sustainability of economic practices.","Importance of interest rates: Interest rates are essential because they are adjusted to stabilize economic and financial activities by ensuring that banks don't run out of business. Besides, they enhance the growth of financial institutions because they enable financial institutions to earn benefits by lending money to businesses and individuals in an economy."
+39,"In the basic ""repricing gap"" model, an increase in market interest rates would:",lower the book value of stockholders' equity of a bank with a negative 1-year gap.,lower the net interest income of a bank with a negative 1-year gap.,increase the net interest income of a bank with a positive 1-year gap.,increase the market value of bank assets.,B,"The correct answers are:
+b. lower the net interest income of a bank with a negative 1-year gap
+and
+c. increase the net interest income of a bank with a positive 1-year gap
+.
+A negative gap means that a bank's rate-sensitive liabilities exceed its rate-sensitive assets, indicating that if interest rates increase, the cost of funding (liabilities) will rise more than the interest income earned on assets. As a result, the bank's net interest income, which is the difference between interest income and interest expenses, would decrease. Hence, answer option b. is correct.
+Again, a positive gap means that a bank's rate-sensitive assets exceed its rate-sensitive liabilities. If market interest rates increase, the interest income earned on the bank's assets would typically increase more than the interest expenses on its liabilities. This would lead to a situation where the bank's net interest income would increase. Hence, answer option c. is also correct.
+The book value of stockholders' equity is not directly impacted by changes in interest rates in the context of the repricing gap model. So, answer option a. is incorrect.
+The market value of bank assets is generally influenced by a combination of factors, including changes in interest rates, but it is not directly tied to the repricing gap in this manner. So, answer option d. is incorrect.","Repricing Gap: In the basic ""repricing gap"" model, the repricing gap measures the difference between the rate-sensitive assets and rate-sensitive liabilities of a bank over a specific time period, usually one year."
+40,An excess quantity of money demanded will lead to a rise in:,bond prices,investment,the interest rate,income,C,"The correct answer is
+C. the interest rate.
+When there is excess money demand, interest rates will rise to regulate the amount of money lent by financial institutions. Based on economic concepts, high-interest rates reduce money demand, and low-interest rates increase money demand. As interest rates increase, borrowing costs incline, making it expensive for people to borrow funds from financial institutions. On the other hand, when interest rates decline, people can effectively borrow more because the borrowing cost is low. Interest rates affect investments and income in that when interest rates are high, investments decline because people will want to generate most of their funds to savings rather than spending and investing, and income reduces because people can borrow less. Bond prices decline when interest rates are high and incline when interest rates are low.","Causes of Change in Money Demand: In economics, money demand can be perceived as the total desired financial asset's holdings in the form of money by people within a specified country or region. There are various causes of change in the demand for money, including changes in national income, inflation rates, real GDP, and interest rates."
+41,"One year ago, you invested $3,250. Today, it is worth $4,000. What rate of interest did you earn?",11.54 percent,5.33 percent,23.08 percent,1.92 percent,C,"Given information:
+Principal value (P) = $3,250
+Future value (FV) = $4,000
+Maturity period (n) = 1 year
+The three variables, that is, the principal value, the future value, and the maturity period needed to determine the interest rate, is already given in the question. So, the calculation of interest rate ( r ) is as follows:
+{eq}\begin{align*}{\rm{FV}} &= {\rm{P}} \times {\left( {1 + {\rm{r}}} \right)^{\rm{n}}}\\\$ 4,000 &= \$ 3,250 \times {\left( {1 + {\rm{r}}} \right)^1}\\\left( {1 + {\rm{r}}} \right) &= \dfrac{{\$ 4,000}}{{\$ 3,250}}\\\left( {1 + {\rm{r}}} \right) &= 1.2307\end{align*} {/eq}
+Solving further to determine the value of r,
+{eq}\begin{align*}{\rm{r}} &= 1.2308 - 1\\{\rm{r}} &= 0.2308\end{align*} {/eq}
+Therefore, the rate of interest earned is 0.2308 or 23.08%.
+Hence, the correct answer is option c.",Rate of Interest: The rate of interest depicts the rate at which extra cash is given on the principal amount for keeping the fund at a specified time frame. It helps in selecting the investment which can generate higher returns.
+42,The interest rate is the price paid for the use of a:,,real asset.,financial liability.,financial asset.,D,"The correct option is d. financial assets
+Reason: The liquid assets having some financial value which can be determined by contractual claims such as the deposits in the bank, shares of the company and bonds are known as financial assets. The business entity has to pay interest on the bonds issued to the investors. Therefore, it can be said that interest rate is paid in respect of financial assets.
+Explanation for incorrect options: All other options are incorrect because interest is not paid in respect of the real liability, real assets and financial liability.",Interest expense: The outflow of the money pertaining to the utilization of the money borrowed is known as interest expense. Such expenses are also reported in the income statement of the company. It includes the interest paid to bank against loan.
+43,Using the effective interest rate method to amortize bond premium will,cause the carrying value of the bond to increase as it approaches the maturity date.,cause the carrying value of the bond to decrease as it approaches the maturity date.,cause the carrying value to be the same as the issue price.,not change the carrying value.,B,"The effective interest rate method of amortization is a practice employed to account for the interest rate of a bond discount or a borrowed asset. The balance after a discount of a bond is transferred to interest income, thus amortizing the bond premium to an interest expenditure. This method causes the bond's carrying value to decrease as the bond approaches maturity date. The correct answer is B.","Interest rate: The interest rate refers to a percentage of borrowed assets that a lender charges the borrower. Several factors, like the amount borrowed, determine the price, rate applicable, and the duration agreed for lending the asset."
+44,"True or false? When comparing investments, it is best not to rely solely on quoted rates.",True,False,,,A,"True. Investment projects need to be compared to gauge each project's return on investment. However, the comparison should not focus on the quoted rates because they are estimated and may give inaccurate return calculations hence misleading investment choices. For example, the quoted price depicts the last price the asset or investment traded on; it may have increased in value over the period it takes from the previous issue to the current period. For this reason, a quoted rate on investment may give inaccurate data when comparing investments because investment projects and assets are subject to inflation and liquidity caused by changes in the interest rates. It is stipulated that investors adopt real rates in their analysis of investment projects because it accounts for the effects of inflation more than the other rates do.","Investments: An investment may be any project with a financial obligation to generate returns. Individuals and groups invest in projects or assets intending to make cash flow streams from the investments. However, before investing in anything, investors have to compare to gauge which investment is more profitable. As a result, investors seek to take advantage of the project or asset with the most significant return on investment. Investments can be compared using capital budgeting criteria."
+45,"As the interest rate rises, the quantity of money demanded:",rises,falls,rises but not as quickly,,B,"The correct answer is b) Falls.
+In the above-given statement, if the interest rate rises, then the quantity of money demanded declines. It is because personal final consumption expenditure such as housing, health, and education, will decrease due to a higher rate of interest. The higher interest rate causes lower consumption and investment in the economy.
+The explanation for incorrect answers
+Option a) is incorrect because the quantity of money demanded does not rise due to the higher interest rate.
+Option c) is incorrect because the increase in interest rates does not quickly raise the quantity of money demanded. A household sacrifice much income at higher interest rates.","Interest rate: Interest rate is defined as the interest amount on the deposited amount, the amount lent and borrowed amount. There are three types of interest rates: effective rate, nominal interest rate, and real interest rate."
+46,A decrease in the interest rate will:,produce an increase in current savings,produce an increase in current consumption,produce a decrease in current savings,depend on the particular consumer's preferences,D,"The correct answer is
+d. depend on the particular consumer's preferences.
+A decrease in the interest rates will lead to a corresponding incline in the current consumption of products and services, current savings, and current investments. As interest rates decline, the money supply increases, causing a rise in the amount available for consumers to spend, save and invest. When interest rates are low, it also indicates that the cost of borrowing is low, and hence people can borrow more and generate more funds for an activity of their choice. People who wish to invest will have the potential to invest, while the people who wish to save more will be able to save more without interfering with their consumption or investments. As the money supply increases per household, the people will tend to generate more to cater to their daily consumption needs because they will be in a better position to consume more compared to when the money supply declines or interest rates are high.","Causes of Changes in Interest Rates: Interest rates are mainly managed and controlled by the country's central bank, mainly through controlling the interest rates for the funds issued to commercial banks and other financial institutions. The interest rates mainly change due to changes in demand and supply for money or credit within a specified period."
+47,MULTIPLE CHOICE: Choose the one alternative that best completes the statement or answers the question.,0.0001,0.001,0.01,1.00,A,"The answer is A.
+1 BPS = 0.01% = 0.0001",Basis Point: Basis Point (BPS) is the unit of measure used in financial analysis for interest rate. A BPS will represent for the percentage changes and be equal to 0.01%.
+48,Suppose you enter into an interest rate swap where you are receiving floating and paying fixed. Which one of the following is true?,Your credit risk is greater when the term structure is flat.,Your credit risk is greater when the term structure is downward-sloping than when it is upward-sloping.,Your credit risk exposure increases when interest rates decline unexpectedly.,Your credit risk exposure increases when interest rates increase unexpectedly.,D,"The correct option is D.
+D) This option is true. When entering into an interest rate swap where receiving floating and paying fixed, essentially exchanging cash flows with the counterparty based on different interest rate benchmarks. The fixed-rate paying is predetermined and does not change over the life of the swap, while the floating rate received is based on a reference rate that resets periodically. Therefore, if interest rates increase unexpectedly, the floating rate received will increase, while the fixed rate pay remains the same, resulting in a higher net cash flow outflow, increasing your credit risk exposure. On the other hand, if interest rates decline unexpectedly, the floating rate received will decrease, resulting in a lower net cash flow outflow, decreasing credit risk exposure.
+The explanation for the incorrect option:
+""Option A is not correct"". When the term structure is flat, it means that the difference in interest rates between short- and long-term securities is relatively small. This does not necessarily increase your credit risk exposure in an interest rate swap where you are receiving floating and paying fixed.
+""Option B is not correct"". The slope of the term structure of interest rates does not directly affect your credit risk exposure in an interest rate swap where you are receiving floating and paying fixed. Credit risk is the risk that the counterparty in the swap will default on their obligation to make payments to you, and this is not directly affected by the slope of the term structure.
+""Option C is not correct"". In an interest rate swap where you are receiving floating and paying fixed, a decline in interest rates would decrease the amount of interest you receive, but it does not directly increase your credit risk exposure. However, a decline in interest rates could indirectly increase your credit risk exposure if it causes the value of the swap to decline, making it more difficult for the counterparty to meet its payment obligations.","Interest Rate Swap: The purpose of an interest rate swap will let each side manage its exposure to interest rate risk by exchanging the risk with another party. At regular times, the payments are made."
+49,Which theory of the term structure of interest rates says that a flat yield curve indicates that short-term interest rates are expected to fall?,the expectations hypothesis,the liquidity premium theory,the preferred habitat theory,,B,"*The correct answer is B. The liquidity premium theory.
+The liquidity premium theory says that a flat yield curve indicates that short-term interest rates are expected to fall. Further, liquidity premium theory long-term interest rate doesn't affect much on future assumptions about investment. Additionally, it shows that the short-term interest rate has a direct effect on the outcomes.","Theory Of Interest Rate: Interest rate is one of the reasons for investing money into a market. Further, numerous theories indicate various aspects of interest rate and outcomes."
+50,"When money supply increases, it causes aprice level effecton interest rates.",What is price level effect?,What is the direction of its impact?,,,A,"a) The price level effect is the economy's inflation or money buying power. The price level effect provides a snapshot of the available prices in the economy, making it easier to determine its variation over time.
+b) The price level effect generally has two impacts in an economy and can assume each of the directions. For instance, an increase in the price level effect (inflation) will increase the average interest rate of the economy. Contrary, a decrease in the price level effect (deflation) will lead to reduced interest rates in the country's economy. That implies that the economy can have either increased or decreased interest rates.",Interest Rates: Interest rates refer to the amount charged by the lenders on the assets used and is given as the principles percentage. Most financial institutions use the interest as the profit after the acquired amount is fully paid.
+51,How long will it take any sum of money to duplicate itself at a 7% simple interest rate?,n = 15 years,n = 7 years,n = 14 years,n = 14.3 years,D,"The answer is d. n= 14.3 years.
+Simple interest = principal {eq}\times
+
+{/eq} interest rate {eq}\times
+
+{/eq} number of periods.
+The number of periods required to earn a simple interest that is equal to principal = 1 / interest rate = 1 / 0.07 {eq}\approx
+
+{/eq} 14.286","Simple Interest Simple interest is the interest earned based on the principal. Simple interest does not compound, which means there is no interest earned on accumulated interests. Simple interest is equal to principal times interest rate times the number of periods."
+52,"Three years ago, you invested {eq}\$2,450.00 {/eq}. Today, it is worth {eq}\$3,250.00 {/eq}. What rate of interest did you earn?",4.06 percent.,4.94 percent.,9.88 percent.,0.82 percent.,C,"The correct answer is
+option c. 9.88%.
+Given information:
+Present value: $2,450
+Future value: $3,250
+Time: 3 years
+Determine the rate of interest by using the mathematical formula of calculating the future value of a lump sum investment.
+{eq}\begin{aligned} \text{Future value}&=\text{Present value}\times {{\left( 1+\text{Rate of interest} \right)}^{\text{Time}}} \\ \$3,250&=\$2,450\times {{\left( 1+r \right)}^{3}} \\ \left( 1+r \right)&={{\left( \frac{\$3,250}{\$2,450} \right)}^{\frac{1}{3}}} \\ \left( 1+r \right)&=1.0988 \\ r &=1.0988-1 \\ &=0.0988\,\text{or 9}\text{.88 }\!\!\%\!\!\text{ } \end{aligned} {/eq}
+The rate of interest is 9.88%.","Time Value: The time value of an amount arises because of the alternative uses of an idle sum of money. The surplus cash available can always be used to generate returns in some form. It can be put in a savings account, invested in financial securities, loaned to earn interest, or used for any other suitable investment alternative."
+53,Wesley Mouch's auto loan requires monthly payments and has an effective annual rate of 6.43%. The APR on this auto loan is closest to:,6.50%,6.00%,6.25%,6.62%,D,"The correct answer is
+d. 6.62%.
+The annual percentage rate (APR) on the auto loan is found using the effective annual rate of 6.43% and the number of payments per year as 12 months.
+{eq}\begin{align*}
+
+{\rm\text{APR}}\, &= \,{\left[ {1 + \dfrac{{{\rm\text{Effective annual rate}}\,}}{{{\rm\text{Number of payments per year}}}}} \right]^{{\rm\text{Number of payments per year}}}} - 1\\
+
+&= {\left[ {1 + \dfrac{{6.43\% }}{{12\,{\rm\text{months}}}}} \right]^{12\,{\rm\text{months}}}} - 1\\
+
+&= 1.0662 - 1\\
+
+&= 0.0662\\
+
+&= 6.62\%
+
+\end{align*}
+
+{/eq}
+Thus, the APR is
+6.62%.","Auto Loan: When the monetary resources are borrowed to purchase a vehicle, it is classified as an auto loan. It comes with a periodic interest payment, and the vehicle purchased is treated as a security for the loan."
+54,Which of the following is true with regards to rising interest rates.,Use long-term loans to take advantage of current low rates.,The term of the loan is not impacted by rising interest rates.,Use short term loans to take advantage of low-interest rates.,Select long-term savings option to lock in current rates.,A,"a) Use long-term loans to take advantage of current low rates.
+True, long term loans (as a borrower) obtained at lower rates is a good thing to have in periods of rising interest rates.
+b) The term of the loan is not impacted by rising interest rates.
+True, the term of the loan is not impacted by rising rates.
+c) Use short term loans to take advantage of low-interest rates.
+False, when the short-term loan ends you'll have to get another loan at a higher rate.
+d) Select long-term savings option to lock in current rates.
+False, if you're a saver you want rates to go up so you can get paid more. You can't take advantage of the higher rates, however, if you're locked into a long-term savings plan.","Interest Rates: Interest rateis a term used in business, finance and economics. It refers to the cost of money. For the borrower, the cost of money can't ever be too low, because it represents an expense. For the lender, the cost of money can't ever be too high because it represents income. Interest rates impact all levels of the economy from supplier to customer, from lender to borrower."
+55,"At what interest rate will $1,000 accumulate to $100,000 if the time to maturity is:",10 years.,20 years.,30 years.,50 years.,A,"Calculation of interest rate
+(a) When maturity is 10 year
+{eq}\begin{align*}
+
+FV &= PV{\left( {1 + r} \right)^n}\\
+
+\$ 100,000 &= \$ 1,000{\left( {1 + r} \right)^{10}}\\
+
+{\left( {1 + r} \right)^{10}} &= \frac{{\$ 100,000}}{{\$ 1,000}}\\
+
+r &= 58.49\%
+
+\end{align*}
+
+{/eq}
+(b) When maturity is 20 year
+{eq}\begin{align*}
+
+FV &= PV{\left( {1 + r} \right)^n}\\
+
+\$ 100,000 &= \$ 1,000{\left( {1 + r} \right)^{20}}\\
+
+{\left( {1 + r} \right)^{20}} &= \frac{{\$ 100,000}}{{\$ 1,000}}\\
+
+r &= 25.89\%
+
+\end{align*}
+
+{/eq}
+(c) When maturity is 30 year
+{eq}\begin{align*}
+
+FV &= PV{\left( {1 + r} \right)^n}\\
+
+\$ 100,000 &= \$ 1,000{\left( {1 + r} \right)^{30}}\\
+
+{\left( {1 + r} \right)^{30}} &= \frac{{\$ 100,000}}{{\$ 1,000}}\\
+
+r &= 16.59\%
+
+\end{align*}
+
+{/eq}
+(d) When maturity is 50 year
+{eq}\begin{align*}
+
+FV &= PV{\left( {1 + r} \right)^n}\\
+
+\$ 100,000 &= \$ 1,000{\left( {1 + r} \right)^{50}}\\
+
+{\left( {1 + r} \right)^{50}} &= \frac{{\$ 100,000}}{{\$ 1,000}}\\
+
+r &= 9.65\%
+
+\end{align*}
+
+{/eq}",Maturity period The maturity period refers to the time period for which money is invested. The interest rate has an inverse relationship with the maturity period means for a longer maturity period interest rate will be low. as compared to a shorter maturity period.
+56,"If interest rates rise by 5 percentage points, say, from 10 to 15%, bank profits (measured using gap analysis) will:",decline by $0.5 million.,decline by $1.5 million.,decline by $2.5 million.,increase by $1.5 million.,D,"Interest rate gap means the difference between the interest rate at which a bank lends and the interest rate at which a bank borrows. The higher the interest rate gap, the higher the bank's profits will be because it is earning more on its assets and paying less on its liabilities. Thus, if the interest rates rise, the bank's profit will also increase.
+Since only one option is with an increase in profit, it is the answer. Therefore, the correct option is
+D) increase by $1.5 million.",Banks Banks are financial intermediaries that accept deposits and lend money to individuals and business entities. They charge interest on loans and give interest on deposits. Interest is the primary income of the banks.
+57,What is the interest rate charged per period multiplied by the number of periods per year called?,compound interest rate,effective annual rate,periodic interest rate,annual percentage rate,B,"The correct answer is option
+b. annual percentage rate
+.
+The annual percentage rate is computed by multiplying the interest rate applicable per period by the number of periods per year. On the other hand, the effective annual rate is computed by considering the periodic interest rate and the multiplication factor consisting of the number of periods per year.
+The interest rate charged per period is called periodic interest rate whereas the compound interest rate is derived by considering all the periods till maturity.","Interest Rate: The interest rate applicable to a financial instrument can be expressed in terms of nominal interest rate, real interest rate, or effective interest rate. The quoted interest rate is usually the nominal interest rate."

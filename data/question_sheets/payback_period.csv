@@ -1,0 +1,516 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Which of the following statements indicates a disadvantage of using the discounted payback period for capital budgeting decisions?,The discounted payback period does not take the project's entire life into account.,The discounted payback period is calculated using net income instead of cash flows.,The discounted payback period does not take the time value of money into account.,,A,"a. Correct. The discounted payback period ignores cash flows after the payback, in which there might be large cash inflows after the payback.
+b. Incorrect. The discounted payback period uses the project's cash flows.
+c. Incorrect. The time value of money is included in the discounted payback period, in which each cash flow is measured in today's dollars.","Discounted Payback Period: The discounted payback period is a common budgeting method that describes the length of time to recover a project's initial investment. The discounted payback period includes the effects of the time value of money in its calculation, which is more relevant than the regular payback period."
+2,"If a payback period for a project is greater than its expected useful life, the:",project will always be profitable,entire initial investment will not be recovered,project would only be acceptable if the company's cost of capital was low,project's return will always exceed the company's cost of capital,B,"The correct answer is
+B. entire initial investment will not be recovered
+.
+A project's payback determines the company's years to recover the initial investment. If the project's payback period is greater than its useful life, it means that the project cannot recover the investment cost in its lifetime.
+Other options are incorrect:
+Options
+Analysis
+A. project will always be profitable
+A project cannot be profitable if it cannot recover its investment cost.
+C. project would only be acceptable if the company's cost of capital was low
+Cost of capital is not relevant for the payback period.
+D. project's return will always exceed the company's cost of capital
+Cost of capital is not relevant for the payback period.",Time Value of Money: All capital budgeting techniques do not use the time value of money except for a few. These techniques that don't use the time value are the payback period and accounting rate of return.
+3,"Given the following cash flows for project A: C0 = -1,000, C1 = +600, C2 = +400, and C3 = +1,500, calculate the payback period.",one year.,two years.,three years.,cannot be determined,B,"Answer:
+B. two years.
+The payback period for  a project with uneven cashflows is computed as follows:
+{eq}\text{Payback period= Year before payback}+\dfrac{\text{Cash to pay back}}{\text{Follwing years' cashflow}}
+
+{/eq}
+Step 1: Calculate the cumulative cash flow:
+Year
+Cashflow
+Cummulative cash flows
+1
+600
+600
+2
+400
+1,000
+3
+1,500
+2,500
+Step 2: Compute the payback period.
+{eq}\text{Payback period}= 1+\dfrac{1000-600}{400}
+
+{/eq}
+{eq}\text{Payback period}= 2\text{Years}
+
+{/eq}","Payback Period: The payback period criterion of capital budgeting is one of the techniques used when analyzing a project. However, this method has some limitations in that it may not consider the time value of money. To overcome this limitation, a technique known as discounted payback period was developed."
+4,Compute the payback period for a project with the following cash flows received uniformly within each year:,2.17 years.,3 years.,4 years.,3.17 years.,A,"The correct answer is option
+a. 2.17 years
+.
+The total cash flows for the first 2 years are computed as:
+= Cash flow for Year 1 + Cash flow for Year 2
+= $40 + $50
+= $90
+The time period in which the balance amount of $10 (i.e. initial cost of $100 - $90) can be paid back is given by:
+= Balance amount / Cash flow for Year 3
+{eq}= \dfrac{\$10}{\$60}
+
+{/eq}
+= 0.166 years
+The project's payback period is given by:
+= Time period in which $90 is paid back + Time period in which the balance amount of $10 is paid back
+= 2 years + 0.166 years
+= 2.17 years",Payback Analysis: The payback period represents the time horizon over which the investment in a project can be recouped. The shortcoming of the technique is that it does not take into account the time value of money or discount rate.
+5,True or False: A disadvantage of the payback method is that it does not consider which investment is the most profitable.,True,False,,,A,"The provided statement is
+true
+.
+The payback period only accounts for the length of time required to recover the initial outlay of investment.
+It doesn't consider the time value of money. It also does not consider what happens to cash inflows after the payback period is over. Thus, it disregards the overall profitability of an investment.","Capital Budgeting: Capital budgeting is an approach that identifies whether long-term projects or purchases of fixed assets must be initiated or not. It includes methods like payback period, net present value, and internal rate of return."
+6,An advantage of the break-even time (BET) method over the payback period method is that it recognizes the time value of money.,True,False,,,B,"The statement is
+Option b) False
+.
+Statement
+True/False
+An advantage of the break-even time (BET) method over the payback period method is that it recognizes the time value of money.
+The statement is false because both the break-even point and payback period don't use the time value of money. The payback period is a capital budgeting technique that determines the time investment needs to recover its cost. The break-even point determines the sales level at which a company makes no profits or losses.",Time Value of Money: The time value of money concept provides that money has potential earning capacity due to which its value in the future is far more than its current value. Most capital budgeting techniques use the concept to determine an investment's efficiency and profitability.
+7,The cash flows for a project are:,"If our company uses a 15% required return, what is the NPV of the project?",What is the IRR of the project?,What is the payback period?,,A,"Summary:
+CF0 = -$10,000
+CF5 = $20,000 - $2,000 = $18,000
+Required rate of return (I) = 15%
+a. Determine the project's NPV:
+{eq}NPV = \displaystyle \frac{CF5}{(1 + I)^5 }- CF0 \\
+
+NPV = \displaystyle \frac{\$18,000}{(1 + 15%)^5} - \$10,000 \\
+
+NPV = \displaystyle -1,050.82 {/eq}
+b. Determine the project's IRR:
+{eq}IRR = \displaystyle \sqrt[N]{\displaystyle \frac{CF5}{CF0}} -  1 \\
+
+IRR = \displaystyle \sqrt[5]{\displaystyle \frac{\$18,000}{\$10,000}} -  1 \\
+
+IRR = \displaystyle 12.47\% {/eq}
+c. Determine the payback period:
+In this case, there is only net cash inflow in year 5, which is greater than the initial investment. Hence, the payback period is 5 years.
+Year
+CF
+Accumulated CF
+0
+-$10,000
+-$10,000
+1
+-$10,000
+2
+-$10,000
+3
+-$10,000
+4
+-$10,000
+5
+$18,000
+$8,000",Payback Period: The payback period is a capital budgeting metric to evaluate the length of time that a project recovers its initial investment costs. This metric should be implemented for a screening test rather than making a final decision since it ignores all cash flows after the cutoff and the time value of money.
+8,"Determine whether the following statement is true or false: When computing payback period, the year in which a capital investment is made is year 1.",True,False,,,B,"The statement is
+False.
+Statement
+True/False
+When computing payback period, the year in which a capital investment is made is year 1.
+The statement is false because the initial investment is made in the year 0, using which the project generates cash flows annually. This is why the present value of investment cost is always the same as the cost itself. The present value factor at any discount rate for year 0 is 1.",Payback Period: A capital budgeting technique that determines how long an investment takes to recover its initial cost is known as the payback period. It can be computed using two formulas depending on the nature of annual cash flows.
+9,"For a project with a negative net present value, NPV, its discounted payback is _____.",determinate with a positive number,"indeterminate, i.e., it will never pay back",determinate with a negative number,none of the above,B,"The correct answer is
+B. indeterminate, i.e., it will never pay back.
+The net present value represents an actual cash value added to a project.
+The discounted payback period measures the length of time to recover the project's cash outlays with the consideration of the time value of money.
+A negative net present value indicates that the sum of present value of all cash flows is less than the initial costs. In this case, the discounted payback period cannot be determined.",Net Present Value (NPV): Net present value (NPV) is a capital budgeting technique to estimate the difference between the project's present value and its cash outlays. A project should be rejected if its NPV is negative.
+10,The Silverside Company is considering investing in two alternative projects:,3.85 years.,15.63 years.,8.55 years.,4.67 years.,A,"The correct option is
+A. 3.85 years.
+We can calculate the cash payback period by dividing the initial investment by the annual net cash inflows.
+Given that -
+Initial Investment = $500,000
+Annual net cash inflows = $130,000
+We know that -
+{eq}\text{Cash payback period} = \dfrac{\text{Initial Investment}}{\text{Annual net cash inflows}} {/eq}
+Putting values, we get -
+{eq}\begin{align} \text{Cash payback period} &= \dfrac{\text{Initial Investment}}{\text{Annual net cash inflows}}\\ &= \dfrac{\$500,000}{\$130,000}\\ &= \text{3.85 years} \end{align} {/eq}",Cash Payback Period: The cash payback period is useful for those industries which require quick recovery of the investments made. They can compare the cash payback period of different alternatives and select the alternative with the shortest cash payback period.
+11,Neither the payback period nor the accounting rate of return methods of evaluating investments considers the time value of money.,True,False,,,A,"The given statement is
+true
+.
+The payback period calculates the time needed to recover your investment. This computation totals the cash flows from each year and determines how long it will take to recover the invested money.
+Because of this, money's time value is not considered when calculating the cash flows for each year.
+{eq}{\rm{Accounting}}\;{\rm{rate}}\;{\rm{of}}\;{\rm{return}} = \frac{{{\rm{Average}}\;{\rm{profit}}}}{{{\rm{Average}}\;{\rm{investment}}}}
+
+{/eq}
+So, the accounting rate of return takes accounting profit and ignores the time value of money in calculations.",Payback period: The payback period is the duration needed to recover the investment made in a property or assets from its net cash flows. It is easy to assess the risk involved with a project proposal.
+12,Which of the following statements concerning payback analysis is true?,The payback method ignores the time value of money concept.,The payback method and the unadjusted rate of return are different approaches that will consistently lead to the same conclusion.,All of these are true.,An investment with a longer payback is preferable to an investment with a shorter payback.,A,"The correct answer is Option A.
+The payback period ignores the time value of money and is measured in terms of the years it takes to repay the money invested. It is based on the cash flow concept and does not cover discounting strategy. There are two possible calculations after finding the cumulative cashflows:
+1.	When there is an even cash flow, the payback period is the division of initial investment into annual cash flow.
+2.	When there is an unequal cash flow, payback time is the summation of years that came before the year of recovery and dividing the amount left to be recovered and cash flow during the final year.
+The project is certain if there is a shorter payback period. Therefore, money's risk and time value are disregarded when calculating the payback period.",Payback Period: The payback period is the duration spent to recover an investor's original investment. It helps the firms look for comparable investment avenues to help them choose the better option.
+13,"If a payback period for a project is greater than its expected useful life, the:",project will always be profitable,entire initial investment will not be recovered,project would only be acceptable if the company's cost of capital was low,project's return will always exceed the company's cost of capital,B,"The correct answer is
+B. entire initial investment will not be recovered
+.
+A project's payback determines the company's years to recover the initial investment. If the project's payback period is greater than its useful life, it means that the project cannot recover the investment cost in its lifetime.
+Other options are incorrect:
+Options
+Analysis
+A. project will always be profitable
+A project cannot be profitable if it cannot recover its investment cost.
+C. project would only be acceptable if the company's cost of capital was low
+Cost of capital is not relevant for the payback period.
+D. project's return will always exceed the company's cost of capital
+Cost of capital is not relevant for the payback period.",Time Value of Money: All capital budgeting techniques do not use the time value of money except for a few. These techniques that don't use the time value are the payback period and accounting rate of return.
+14,"A project's payback period is determined to be four years. If it is later discovered that additional cash flows will be generated in years five and six, then:",the project's payback period will be reduced.,the project's payback period will be increased.,the project's payback period will be unchanged.,the discount rate must be known to determine whether the payback period changes.,C,"Correct Answer:
+Option C. the project's payback period will be unchanged
+.
+The payback period ignores the cash flows generated after recovering the investment cost. A project's payback period is determined to be four years in the given case. The additional cash flows generated in years five and six have no impact on the payback period, as the investment cost is already recovered in four years.
+Based on the above explanation, the first two options are eliminated, and the last option is incorrect as the payback period ignores the time value of money, and using a discount rate is out of the question.",Capital Budgeting: Capital budgeting refers to evaluating capital investments and analyzing them according to their ability to create profits. They also help companies make decisions with regard to the opportunities available.
+15,Which of the following statements concerning payback analysis is true?,"If all other variables are the same, an investment with a shorter payback period is preferable to an investment with a longer payback period.",The payback method ignores the time value of money concepts.,The payback method and the unadjusted rate of return are different approaches that consistently lead to the same conclusions.,a & b.,D,"The correct answer would be ""d. a and b.""
+Explanation:
+In the PBP (payback period) method, the viability of a potential investment in a venture would be scrutinized on the basis of the length of time the venture would take to retrieve the initial cost assigned to the project or venture.
+Without any consideration of the TVM (time value of money) concept, a venture would be classified as feasible if its payback period is shorter than the maximum payback accepted by the entity, and if some ventures are competing, the most attractive venture would be the one of them with the shortest PBP.
+As a result, statement ""a"" is true that if all other variables are the same, an investment with a smaller payback period is preferable to an investment with a longer payback period. And also, the statement ""b"" is true that the payback method ignores the TVM concept.Hence, alternative ""d"" would be verified as the correct answer, and all other alternatives are not suitable.","Capital Investment Analysis Tools Enterprises have to invest their resources in the ventures that have been examined as feasible in financial terms. The feasibility is analyzed through capital investment analysis tools such as NPV (Net Present Value), IRR (internal rate of return), payback period, and so on."
+16,"When computing the payback period, the year in which capital investment is made in year 1.",True,False,,,B,"The statement is  FALSE.
+When computing the payback period, the year in which capital investment is made {is generally considered to be year 0|]. The cash flows from the investment are then calculated, with the first-year cash flows called Year 1 cash flows, and so on.
+This approach is generally used in all capital budgeting formulas, as the underlying assumption is that initial investment is made now, and the first benefits will be received one year from now (In Year 1, therefore).",Payback Period: The payback period is the number of years it is estimated to take to recover the cash invested in a new project. The payback period technique is used in capital budgeting to evaluate and compare proposed investments.
+17,"When a capital investment is expected to provide unequal annual cash inflows, the payback period cannot be calculated.",True,False,,,B,"The statement is FALSE.
+When a capital project is expected to provide unequal annual cash inflows, we cannot use the payable formula that divides the initial cash outflow through the expected annual cash inflows. We then rather use the cumulative cash flows from the project, and the year in which the cumulative cash flows exceed the initial cost, we use the average cash flow per month to find the exact answer.",Payback Period: The payback period technique is a popular technique used in capital budgeting to evaluate proposed investments. It is intuitive and it uses information that is readily available but has the drawback that it does not consider the time value of money.
+18,"A firm is evaluating a proposal that has an initial investment of $50,000 and has cash flows of $15,000 per year for five years. The payback period of the project is:",1.5 years,4 years,3.3 years,2 years,C,"The correct answer is option
+C) 3.3 years
+.
+The payback period of the project is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Initial investment}}{\text{Annual cash flows}} \\[0.3 cm]
+
+&= \dfrac{\$50,000}{\$15,000} \\[0.3 cm]
+
+&= 3.33
+
+\end{align*}
+
+{/eq}",Payback Analysis: The payback analysis technique gives an estimate of the time period in which the initial investment can be recovered through expected cash inflows. This technique does not take into account the time value of money.
+21,Neither the payback period nor the accounting rate of return methods of evaluating investments considers the time value of money.,True,False,,,A,"The given statement is
+true
+.
+The payback period calculates the time needed to recover your investment. This computation totals the cash flows from each year and determines how long it will take to recover the invested money.
+Because of this, money's time value is not considered when calculating the cash flows for each year.
+{eq}{\rm{Accounting}}\;{\rm{rate}}\;{\rm{of}}\;{\rm{return}} = \frac{{{\rm{Average}}\;{\rm{profit}}}}{{{\rm{Average}}\;{\rm{investment}}}}
+
+{/eq}
+So, the accounting rate of return takes accounting profit and ignores the time value of money in calculations.",Payback period: The payback period is the duration needed to recover the investment made in a property or assets from its net cash flows. It is easy to assess the risk involved with a project proposal.
+22,"An investment project provides cash inflows of {eq}\$780
+
+{/eq} per year for eight years.","What is the project payback period if the initial cost is {eq}\$3,000
+
+{/eq}?","What if the initial cost is {eq}\$5,000
+
+{/eq}?","What if it is {eq}\$7,000
+
+{/eq}?",,A,"a. Determine the payback period if the initial cost is $3,000:
+{eq}Payback\:period = \displaystyle\frac{Initial\:cost}{Annual\:cash\:inflow} {/eq}
+{eq}Payback\:period = \displaystyle\frac{\$3,000}{\$780} {/eq}
+{eq}Payback\:period = 3.85 \:years {/eq}
+b. Determine the payback period if the initial cost is $5,000:
+{eq}Payback\:period = \displaystyle\frac{Initial\:cost}{Annual\:cash\:inflow} {/eq}
+{eq}Payback\:period = \displaystyle\frac{\$5,000}{\$780} {/eq}
+{eq}Payback\:period = 6.41 \:years {/eq}
+c. Determine the payback period if the initial cost is $7,000:
+{eq}Payback\:period = \displaystyle\frac{Initial\:cost}{Annual\:cash\:inflow} {/eq}
+{eq}Payback\:period = \displaystyle\frac{\$7,000}{\$780} {/eq}
+{eq}Payback\:period = 8.97 \:years {/eq}","Payback Period: The payback period method is a capital budgeting approach to determine whether a new project is feasible. In practice, the payback period is relevant for the screening process since it represents some limitations:"
+23,There are several disadvantages to the payback method; among them is that payback _____.,ignores the time value of money,emphasizes receiving money back as fast as possible for reinvestment,is easy to use and to understand,can be used in conjunction with time adjusted methods of evaluation,A,"The answer is
+a. ignores the time value of money
+Compared to other available capital budgeting methods, the payback period will have the following limitations:
+The payback period ignores the time value of money by using the actual cash inflows in its analysis.
+This method also ignores all cash flows after the cutoff point, in which large cash flows can occur after the cutoff point.
+It is irrelevant to analyze projects with different initial investments.
+These limitations explain why the payback period method is relevant for the screening test.","Payback Period: The payback period is a capital budgeting method, which is usually practiced in a screening process. This method measures the length of time to recover the initial costs. An expected cutoff point will be compared with the estimated payback period, in which a project can pass the screening test if the cutoff point is greater than the estimated payback period."
+25,"Compute the payback period for a project with the following cash flows, if the company's discount rate is 12%.",3.43 years,3.17 years,2.88 years,2.6 years,D,"The calculated value of the project's payback period is
+option D. 2.60 years
+.
+The sum total of cash flows for the first 2 years is given by:
+= Cash flow for Year 1 + cash flow for Year 2
+= $325 + $65
+= $390
+The time period in which the balance amount of $60 (i.e. initial outlay of $450 - $390) can be recovered is given by:
+= Balance amount / cash flow for Year 3
+{eq}= \dfrac{\$60}{\$100}
+
+{/eq}
+= 0.60 years
+The project's payback period is given by:
+= Time period in which $390 is recovered + time period in which the balance amount of $60 is recovered
+= 2 years + 0.60 years
+= 2.60 years",Payback Analysis: The payback analysis technique is used to ascertain the time period in which the initial outlay for a project can be recovered by means of expected cash inflows. The disadvantage of this method is that it ignores the time value of money or interest rate.
+26,Which of the following statements concerning payback analysis is true?,All of the other answers are correct.,The payback method ignores the time value of the money concept.,An investment with a shorter payback is preferable to an investment with a longer payback.,The payback method and the unadjusted rate of return are different approaches that will not consistently lead to the same conclusion.,A,"The correct option is a.
+Let us discuss each alternative:
+a. All of the other answers are correct.
+This is the correct option.
+b. The payback method ignores the time value of the money concept.
+This is true. The method uses the undiscounted cash flows in its calculation.
+c. An investment with a shorter payback is preferable to an investment with a longer payback.
+This is true again. A shorter payback period means the company will recover its initial investment sooner, and that is preferable.
+d. The payback method and the unadjusted rate of return are different approaches that will not consistently lead to the same conclusion.
+This is also true. The unadjusted rate of return method uses the accounting operating income, not the net cash inflow,  and the average investment, not the initial cash outflow. The results can therefore differ, for instance when a project has large cash inflows in the first years, but the average operating income is relatively low.",Payback Analysis: Payback analysis is a tool used in capital budgeting to determine the number of years it will take a company to recover its initial cash outlay. The method is typically used with other methods to evaluate a proposed project.
+27,"An investment of $1,000 produces a net cash inflow of $600 in the first year and $2,000 in the second year. What is the payback period?",1.67 years.,0.50 year.,2 years.,1.20 years.,D,"Correct Answer:
+Option d) 1.20 years
+.
+The following format helps determine the payback period:
+Year
+Cash flows
+Cumulative cash flows
+0
+-$1,000
+-$1,000
+1
+$600
+-$400
+2
+$2,000
+$1,600
+Formula and calculation:
+{eq}\text{Payback period} = \text{Years before the recovery of investment} + \dfrac{\text{Unrecovered cost}}{\text{Cash flow of that year}} = 1\,years + \dfrac{\$400}{\$2,000} = 1.2\,years
+
+{/eq}","Payback Period: The disadvantage of the payback period method, a capital budgeting technique, is that it ignores the time value of money. The payback period calculates only an investment's cost recovery period."
+28,There are several disadvantages to the payback method; among them is that payback _____.,ignores the time value of money,emphasizes receiving money back as fast as possible for reinvestment,is easy to use and to understand,can be used in conjunction with time adjusted methods of evaluation,A,"The answer is
+a. ignores the time value of money
+Compared to other available capital budgeting methods, the payback period will have the following limitations:
+The payback period ignores the time value of money by using the actual cash inflows in its analysis.
+This method also ignores all cash flows after the cutoff point, in which large cash flows can occur after the cutoff point.
+It is irrelevant to analyze projects with different initial investments.
+These limitations explain why the payback period method is relevant for the screening test.","Payback Period: The payback period is a capital budgeting method, which is usually practiced in a screening process. This method measures the length of time to recover the initial costs. An expected cutoff point will be compared with the estimated payback period, in which a project can pass the screening test if the cutoff point is greater than the estimated payback period."
+29,The number of periods necessary to repay the original investment is the:,payback.,discount factor.,accounting rate of return.,time value of money.,A,"The correct answer is
+a. payback
+.
+Options
+Analysis
+a. payback.
+The payback period considers the annual cash flows and the investment cost to determine the number of years necessary to repay the original investment cost, ignoring the time value of money.
+b. discount factor.
+Discount factor is used when the time value of money is considered, which is not the case in the payback period computation.
+c. accounting rate of return.
+Accounting rate of return ignores the time value of money and uses net income and average capital employed to calculate the return.
+d. time value of money.
+Time value of money concept requires using present and future values of cash flows, which is not the case in the payback period computation.","Capital Budgeting Tools: Potential projects must be evaluated based on expected costs, cash flows, risks, and other relevant factors. This evaluation can be done using various tools of capital budgeting, such as payback period, net present value, or profitability index."
+30,"In order to use the payback period model, the proposed investment must have even cash inflows.",True,False,,,B,"The given statement is
+false.
+The cash payback period can be calculated by two different methods. When the cash flows are even, the payback period can be calculated by dividing the initial investment by the annual cash inflows. And when the cash flows are uneven, the payback period can be calculated by computing the cumulative cash flows and then using interpolation.
+Therefore the statement that the payback period model can only be used when the project has even cash inflows is
+false.",Payback Period: The payback period is a capital budgeting technique evaluating projects on basis of the time required to recover their initial investments. The technique only considers the cash flows of the payback period and ignores all other cash flows.
+31,The cash flows for a project are:,"If our company uses a 15% required return, what is the NPV of the project?",What is the IRR of the project?,What is the payback period?,,A,"Summary:
+CF0 = -$10,000
+CF5 = $20,000 - $2,000 = $18,000
+Required rate of return (I) = 15%
+a. Determine the project's NPV:
+{eq}NPV = \displaystyle \frac{CF5}{(1 + I)^5 }- CF0 \\
+
+NPV = \displaystyle \frac{\$18,000}{(1 + 15%)^5} - \$10,000 \\
+
+NPV = \displaystyle -1,050.82 {/eq}
+b. Determine the project's IRR:
+{eq}IRR = \displaystyle \sqrt[N]{\displaystyle \frac{CF5}{CF0}} -  1 \\
+
+IRR = \displaystyle \sqrt[5]{\displaystyle \frac{\$18,000}{\$10,000}} -  1 \\
+
+IRR = \displaystyle 12.47\% {/eq}
+c. Determine the payback period:
+In this case, there is only net cash inflow in year 5, which is greater than the initial investment. Hence, the payback period is 5 years.
+Year
+CF
+Accumulated CF
+0
+-$10,000
+-$10,000
+1
+-$10,000
+2
+-$10,000
+3
+-$10,000
+4
+-$10,000
+5
+$18,000
+$8,000",Payback Period: The payback period is a capital budgeting metric to evaluate the length of time that a project recovers its initial investment costs. This metric should be implemented for a screening test rather than making a final decision since it ignores all cash flows after the cutoff and the time value of money.
+32,The Silverside Company is considering investing in two alternative projects:,3.85 years.,15.63 years.,8.55 years.,4.67 years.,A,"The correct option is
+A. 3.85 years.
+We can calculate the cash payback period by dividing the initial investment by the annual net cash inflows.
+Given that -
+Initial Investment = $500,000
+Annual net cash inflows = $130,000
+We know that -
+{eq}\text{Cash payback period} = \dfrac{\text{Initial Investment}}{\text{Annual net cash inflows}} {/eq}
+Putting values, we get -
+{eq}\begin{align} \text{Cash payback period} &= \dfrac{\text{Initial Investment}}{\text{Annual net cash inflows}}\\ &= \dfrac{\$500,000}{\$130,000}\\ &= \text{3.85 years} \end{align} {/eq}",Cash Payback Period: The cash payback period is useful for those industries which require quick recovery of the investments made. They can compare the cash payback period of different alternatives and select the alternative with the shortest cash payback period.
+33,"If an asset costs $270,000 and is expected to have a $30,000 salvage value at the end of its 10-year life, and generates annual net cash inflows of $30,000 each year, the cash payback period is:",7 years.,8 years.,10 years.,9 years.,A,"The correct option is
+(a.) 7 years.
+Given that -
+Initial cost of asset = $270,000
+Annual net cash inflows = $30,000
+We know that -
+{eq}\text{Cash payback period} = \dfrac{\text{Initial cost of asset}}{\text{Annual net cash inflows}} {/eq}
+Putting values, we get -
+{eq}\begin{align} \text{Cash payback period} &= \dfrac{\text{Initial cost of asset}}{\text{Annual net cash inflows}}\\ &= \dfrac{\$270,000}{\$30,000}\\ &= \text{7 years} \end{align} {/eq}","Capital Budgeting: Businesses use capital budgeting to make capital investment decisions. Under capital budgeting, they study the investment alternatives by different methods and techniques."
+34,Which of the following is an advantage of the cash payback method?,It includes the cash flow over the entire life of the proposal.,It emphasizes accounting income.,It takes into consideration the time value of money.,It is easy to use.,D,"Correct Answer:
+Option d. It is easy to use.
+a. It includes the cash flow over the entire life of the proposal.
+This is not an advantage because the method does not consider the cash flows after the payback period.
+b. It emphasizes accounting income.
+It emphasizes annual cash flows.
+c. It takes into consideration the time value of money.
+It does not consider the time value of money, which is a disadvantage.
+d. It is easy to use.
+The cash payback method is very easy to use and is an advantage.","Payback Technique: The payback method of the capital budgeting process is used to evaluate the time required by an investment to recover its cost. The technique has its own advantages and disadvantages; to overcome the same, discounted payback was introduced."
+35,The amount of time required for an investment to generate cash flows sufficient to recover its initial cost is called the _____.,net present value,average accounting return,internal rate of return,payback period,D,"Correct Answer:
+Option d. payback period
+.
+a. net present value
+It represents the difference between the discounted value of the investment cash flows and the investment outlay.
+b. average accounting return
+It represents the ratio of the average annual net income relative to the average investment cost.
+c. internal rate of return
+At this rate, the discounted value of the investment cash flows equals the investment outlay.
+d. payback period
+It calculates the time in years an investment takes to recover its initial cost using the annual cash flows.","Discount Rate: To evaluate an investment's profitability using the money's time value, the investment's discount rate plays an essential role. It is using the discount rates that we can discount the cash flows."
+36,What is a significant disadvantage of the payback period?,Does not properly consider the time value of money.,Is complicated to explain.,Increase firm risk.,Provides a measure if liquidity.,A,"The correct answer is
+a. Does not properly consider the time value of money.
+The payback period's disregard for the time value of money is its most serious disadvantage. According to the principle of the time value of money, cash flows generated early on in a project are more valuable than those acquired in later years. This is because early cash flows have a more significant earning potential; they can be reinvested to earn profits, thus creating larger amounts of money in the future. The payback period technique does not clearly indicate which project should be chosen when two projects have the same payback duration but one earns more revenue in its early years and the other has better cash flows in its later years. Therefore the correct answer is option a), and the other options are incorrect.","Payback Period: In capital budgeting, the length of time required to recover an investment's cost is known as the payback period. It determines which project should be selected based on the time it will take to recover all initial expenses. Compared to projects with longer payback periods, those with shorter payback periods are more attractive."
+37,Which of the following statements indicates a disadvantage of using the discounted payback period for capital budgeting decisions?,The discounted payback period does not take the project's entire life into account.,The discounted payback period does not take the time value of money into an account.,The discounted payback period is calculated using net income instead of cash flows.,,A,"A. Correct. The discounted payback period ignores all cash flows after the payback. This is a disadvantage of the method since there might be large cash inflows after the cutoff point.
+B. Incorrect. Apart from the regular payback period, the discounted payback period considers the effects of the time value of money, which explains why a discounted payback period is usually longer than the regular payback period.
+C. Incorrect. Both the regular payback period and the discounted payback period are practiced on the project's cash flows.","Discounted Payback Period: The discounted payback period determines the length of time that a firm can regain all costs invested in a project. In practice, this method should be implemented with other capital budgeting methods to gain a consistent investment decision."
+38,The _____ is the exact amount of time it takes the firm to recover its initial investment in a project.,net present value,internal rate of return,average rate of return,payback period,D,"The
+d. payback period
+is the exact amount of time it takes the firm to recover its initial investment in a project.
+The following table explores each answer option and explains the right and wrong answers with reasons.
+a. net present value
+The net present value is the present value of future cash flows minus the initial cash outflow of a project.
+b. internal rate of return
+The internal rate of return is the discount percentage where the present value of all future cash flows equals the initial investment cost.
+c. average rate of return
+The average rate of return expresses the accounting profit from an investment as a percentage of the average capital invested.
+d. payback period
+This is the correct alternative because the payback period represents the number of years it will take to recover the initial cash outflow. It is calculated by dividing the initial investment by the expected annual cash flow.","Capital Budgeting Techniques: In capital budgeting, proposed capital projects are evaluated. The process uses various formulas, tools, and techniques to do this because these projects are typically large and they have an impact on the company over a long period of time."
+39,The number of periods necessary to repay the original investment is the:,payback.,discount factor.,accounting rate of return.,time value of money.,A,"The correct answer is
+a. payback
+.
+Options
+Analysis
+a. payback.
+The payback period considers the annual cash flows and the investment cost to determine the number of years necessary to repay the original investment cost, ignoring the time value of money.
+b. discount factor.
+Discount factor is used when the time value of money is considered, which is not the case in the payback period computation.
+c. accounting rate of return.
+Accounting rate of return ignores the time value of money and uses net income and average capital employed to calculate the return.
+d. time value of money.
+Time value of money concept requires using present and future values of cash flows, which is not the case in the payback period computation.","Capital Budgeting Tools: Potential projects must be evaluated based on expected costs, cash flows, risks, and other relevant factors. This evaluation can be done using various tools of capital budgeting, such as payback period, net present value, or profitability index."
+41,"If an asset costs $70,000 and generates annual net cash inflows of $10,000 each year, the cash payback period is:",8 years.,7 years.,6 years.,5 years.,B,"The cash payback period is
+b. 7 years
+.
+The cash payback period requires using the following inputs in its computation:
+Investment cost = $70,000
+Annual cash flows = $10,000
+When these inputs are arranged logically, we have the following output:
+{eq}\text{Payback Period} = \dfrac{\text{Investment cost}}{\text{Annual cash flows}} = \dfrac{\$70,000}{\$10,000} = 7\,years {/eq}
+The investment takes seven years to recover the entire cost of the investment.",Payback Period: Capital budgeting techniques are needed for making the right investment choices that will serve as a foundation for growth and profitability in the long run. The payback period is one of these techniques that finds the time an investment takes to recover the outlay.
+42,Compute the payback period for a project with the following cash flows received uniformly within each year:,2.17 years.,3 years.,4 years.,3.17 years.,A,"The correct answer is option
+a. 2.17 years
+.
+The total cash flows for the first 2 years are computed as:
+= Cash flow for Year 1 + Cash flow for Year 2
+= $40 + $50
+= $90
+The time period in which the balance amount of $10 (i.e. initial cost of $100 - $90) can be paid back is given by:
+= Balance amount / Cash flow for Year 3
+{eq}= \dfrac{\$10}{\$60}
+
+{/eq}
+= 0.166 years
+The project's payback period is given by:
+= Time period in which $90 is paid back + Time period in which the balance amount of $10 is paid back
+= 2 years + 0.166 years
+= 2.17 years",Payback Analysis: The payback period represents the time horizon over which the investment in a project can be recouped. The shortcoming of the technique is that it does not take into account the time value of money or discount rate.
+43,"By measuring how quickly a firm recovers its initials investments, the payback period gives implicit consideration to the time value of money and ignores the timing.",True,False,,,B,"The given statement is
+false.
+The payback period method measures how quickly a firm will recover its initial investments. It considers the timing of cash flows but ignores the time value of money.",Payback Period: The payback period is one of the popular capital budgeting techniques. It is a simple to internet technique where we select the projects or investments with lower payback periods.
+44,Which of the following is used as the equation's numerator when computing the payback period for a capital asset with equal annual net cash inflows?,Expected annual cash inflowB. Amount investedC. Net cash outflowD. Total cash inflows,,,,B,"Option
+(B.) Amount invested
+is the correct answer.
+The time it would take to recoup the value of an investment is often referred to as the payback period. The payback period is determined by dividing the initial investment by all of the yearly cash flow. The payback period is used by account and investment managers to assess whether or not to proceed with an investment.
+A. Expected annual cash inflow
+is incorrect because the expected cash flows are ignored here. Only actual cash inflows are used, and they are in the denominator.
+C. Net cash outflow
+is incorrect because it is not taken into account while calculating the payback period.
+D. Total cash inflows
+is incorrect because it is a part of the denominator; the amount invested is the numerator.","Payback Period: The payback period is the amount of time required to repay the invested amount or to achieve break-even for an investor. Longer payback periods are less appealing, while shorter payback periods are more appealing."
+45,A disadvantage of the payback period is that it ignores the time value of money.,True,False,,,A,"Itr is
+true
+to say that a disadvantage of the payback period is that it ignores the time value of money.
+The payback period is a simple capital budgeting technique that determines the time in which an investment will recover its initial investment. The method involves the calculation of the period at which the investment reaches the break-even point and starts generating profits after that. A project with a shorter payback is preferable because the investment will recover sooner. The payback method is used because of its simplicity and ease of use. However, there are many disadvantages to using the payback period method to evaluate capital projects. One of the main disadvantages is that it does not consider the time value of money when evaluating the cash flows. In the simple payback period method, there is no discounting of cash flows. It can lead to inaccurate decisions when choosing a project. The other disadvantages are that it does not account for cash flows beyond the payback period and ignores risk and profitability.",Capital Budgeting: Capital budgeting is a process that is used to make informed investment decisions that impact the long-term profitability and value of an enterprise. It includes analyzing projects like launching new products or buying new equipment.
+46,The payback period rule accepts all projects for which the payback period is:,Greater than the cut-off value.,Less than the cut-off value.,Positive.,An integer.,B,"Answer:
+B. Less than the cut-off value.
+When analyzing an independent project, the payback criterion dictates that one should accept a project whose payback period is less than the set cut-off. For example, let us say that the cut-off of a project is four years; however, you compute the payback period to be three years; therefore, you should accept such a project. However, if the payback period is more than the cut-off, say six years, in our case, you should decline such a project.
+Incorrect answers:
+A. Greater than the cut-off value
+is incorrect since this will be the basis of rejecting the project.
+C. Positive.
+is incorrect since the number of years will always be positive.
+D. An integer
+is incorrect since the payback value will always be an integer.",Payback Period: The payback period is a capital budgeting technique that estimates the time a project will take before recovering the initial investment cost. A project with a shorter payback period will be preferred when comparing two projects.
+47,"In order to use the payback period model, the proposed investment must have even cash inflows.",True,False,,,B,"The given statement is
+false.
+The cash payback period can be calculated by two different methods. When the cash flows are even, the payback period can be calculated by dividing the initial investment by the annual cash inflows. And when the cash flows are uneven, the payback period can be calculated by computing the cumulative cash flows and then using interpolation.
+Therefore the statement that the payback period model can only be used when the project has even cash inflows is
+false.",Payback Period: The payback period is a capital budgeting technique evaluating projects on basis of the time required to recover their initial investments. The technique only considers the cash flows of the payback period and ignores all other cash flows.
+48,"A $600,000 investment is expected to generate cash flows of $120,000 per year for each of the next six years. What is the investment's payback period?",2.50 years.,6.00 years.,4.00 years.,5.00 years.,D,"The correct answer is Option D. 5.00 years.
+Explanation
+Payback period = Initial Investment / Annual cash flows.
+Initial investment = $600,000
+Annual Cashflows = $120,000
+Payback period = $600,000 / $120,000
+Payback period = 5  years.",Payback Period The payback period is the period in which the company receives the invested amount completely back. A payback period is computed by considering the initial investment and the annual cash flows from the project.
+50,"An investment of $1,000 produces a net cash inflow of $600 in the first year and $2,000 in the second year. What is the payback period?",1.67 years.,0.50 year.,2 years.,1.20 years.,D,"Correct Answer:
+Option d) 1.20 years
+.
+The following format helps determine the payback period:
+Year
+Cash flows
+Cumulative cash flows
+0
+-$1,000
+-$1,000
+1
+$600
+-$400
+2
+$2,000
+$1,600
+Formula and calculation:
+{eq}\text{Payback period} = \text{Years before the recovery of investment} + \dfrac{\text{Unrecovered cost}}{\text{Cash flow of that year}} = 1\,years + \dfrac{\$400}{\$2,000} = 1.2\,years
+
+{/eq}","Payback Period: The disadvantage of the payback period method, a capital budgeting technique, is that it ignores the time value of money. The payback period calculates only an investment's cost recovery period."
+51,"If an asset costs $270,000 and is expected to have a $30,000 salvage value at the end of its 10-year life, and generates annual net cash inflows of $30,000 each year, the cash payback period is:",7 years.,8 years.,10 years.,9 years.,A,"The correct option is
+(a.) 7 years.
+Given that -
+Initial cost of asset = $270,000
+Annual net cash inflows = $30,000
+We know that -
+{eq}\text{Cash payback period} = \dfrac{\text{Initial cost of asset}}{\text{Annual net cash inflows}} {/eq}
+Putting values, we get -
+{eq}\begin{align} \text{Cash payback period} &= \dfrac{\text{Initial cost of asset}}{\text{Annual net cash inflows}}\\ &= \dfrac{\$270,000}{\$30,000}\\ &= \text{7 years} \end{align} {/eq}","Capital Budgeting: Businesses use capital budgeting to make capital investment decisions. Under capital budgeting, they study the investment alternatives by different methods and techniques."
+52,A disadvantage of the payback period is that it ignores the time value of money.,True,False,,,A,"Itr is
+true
+to say that a disadvantage of the payback period is that it ignores the time value of money.
+The payback period is a simple capital budgeting technique that determines the time in which an investment will recover its initial investment. The method involves the calculation of the period at which the investment reaches the break-even point and starts generating profits after that. A project with a shorter payback is preferable because the investment will recover sooner. The payback method is used because of its simplicity and ease of use. However, there are many disadvantages to using the payback period method to evaluate capital projects. One of the main disadvantages is that it does not consider the time value of money when evaluating the cash flows. In the simple payback period method, there is no discounting of cash flows. It can lead to inaccurate decisions when choosing a project. The other disadvantages are that it does not account for cash flows beyond the payback period and ignores risk and profitability.",Capital Budgeting: Capital budgeting is a process that is used to make informed investment decisions that impact the long-term profitability and value of an enterprise. It includes analyzing projects like launching new products or buying new equipment.
+53,True or False:The payback method is used only when the net cash inflows from a capital investment are the same for each period.,True,False,,,B,"The statement is
+false
+.
+When the net cash inflows from a capital investment are the same for each period, the following formula is used to calculate the payback period:
+{eq}\begin{align} \text{Cash Payback Period} &= \frac{\text{Iniital investment}}{\text{Annual cash flows}} \\ \end{align} {/eq}
+When the net cash inflows from a capital investment are NOT the same for each period, the payback method can still be used, but then the accumulated net inflow and the initial investment is used to determine the payback period.",Payback Method: The payback method is used in capital budgeting to evaluate a prospective investment. The method uses the cash flows from the project and its cost to calculate the number of years it would take to recover the initial cash outlay.
+54,he payback method is criticized on the grounds that it _____.,ignores obsolescence factors,ignores the cost of an investment,is complicated to use,ignores the time value of money,D,"The appropriate option is
+Option (d) - Ignores time value of money
+The PBP is the time in which the actual initial costs of the entity are recovered back in the form of earnings from such investment.
+a. It considers the obsolescence factors of the investment in its cashflow calculations and accordingly PBP is computed. Thus, these are not ignored.
+b. It considers the cost of investment as the cumulative cash flows are compared with such initial cost only to obtain the break-even. Thus, these are not ignored.
+c. The PBP calculation is very simple and it is not complicated for usage, and thus can be used easily for evaluation of any project.
+d. It ignores the time value of money in its computations as it compares only the cumulative actual cash flows from the investment with the initial costs to obtain the break-even. Thus, these are ignored.
+Thus, the option chosen is Option (d)",Payback Period The payback period (PBP) refers to the time in which an investment is able to give back the amount of initial investment to the entity. It technically points out the break-even time by which the entity would recover all the initial cost outlays.
+57,"The payback method of evaluating capital investments measures the recovery of the investment, but it does not measure profitability.",Trueb. False,,,,A,"The payback method of evaluating capital investments measures the recovery of the investment, but it does not measure profitability.
+This statement is
+(a.) TRUE
+.
+The payback period determines the number of years an investment takes to recover its initial cost using its annual cash flows. It does not consider the net income and time value of money in its computations. It comments on the recovery of the investment but not on its profitability, making the statement true.","Capital Budgeting: Capital budgeting is a process used to evaluate various investments based on how profitable they can prove to be for a company. Some capital budgeting techniques use the time value concepts, while others don't."

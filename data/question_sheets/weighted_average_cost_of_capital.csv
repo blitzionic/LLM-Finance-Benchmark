@@ -1,0 +1,388 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The after-tax cost of debt _____ the before-tax cost of debt for a firm that has a positive marginal tax rate.,is always less than,may be greater than or less than,is always greater than,is always equal to,A,"The answer is
+A. is always less than
+After-tax cost of debt = Pre-tax cost of debt x (1 - Tax rate)
+If the marginal tax rate is positive, the after-tax cost of debt will lower than the pre-tax cost of debt. An increase in the firm's marginal tax rate will reduce the after-tax cost of debt.","Cost Of Debt: Within a firm, the cost of debt refers to the financing cost of long-term borrowings. It is a component to determine the firm's weighted average cost of capital. Compared to a new equity, a new issue of debt is preferable due to its lower financing cost."
+2,"The MNO Company believes that it can sell long-term bonds with a {eq}6\%
+
+{/eq} coupon but at a price that gives a yield-to-maturity of {eq}9\%
+
+{/eq}. If such bonds are part of next year's financing plans, which of the following should be used for bonds in their after-tax {eq}(40\%)
+
+{/eq} cost-of-capital calculation?","{eq}3.6\%
+
+{/eq}.","{eq}5.4\%
+
+{/eq}.","{eq}4.2\%
+
+{/eq}.","{eq}6\%
+
+{/eq}.",B,"The answer is
+b. 5.4%
+Summary:
+Yield to maturity = 9%
+Tax rate = 40%
+Determine the after-tax cost of debt:
+After-tax cost of debt = Yield to maturity x (1 - Tax rate)
+After-tax cost of debt = 9% x (1 - 40%)
+After-tax cost of debt = 5.4%","Cost Of Debt: The cost of debt refers to the financing cost associated with long-term borrowing. It has a direct impact on the firm's average cost of capital. In practice, managers should account for the after-tax cost of debt since it reflects the tax shield of interest expenses."
+3,"The coupon rate on a debt issue is 12%. If the yield to maturity on the debt is 9.33%, what is the after-tax cost of existing debt if the firm's tax rate is 34%?",3.17%,4.08%,6.16%,7.92%,C,"The answer is
+c. 6.16%.
+Given information:
+Yield to maturity (YTM) = 9.33%
+Tax rate = 34%
+Determine the after-tax cost of debt on the existing debt:
+{eq}\text{After-tax cost of debt} = \displaystyle YTM \times (1 - \text{Tax rate}) \\
+
+\text{After-tax cost of debt} = \displaystyle 9.33\% \times (1 - 34\%) \\
+
+\text{After-tax cost of debt} = 6.16\% {/eq}","After-Tax Cost of Debt: The after-tax cost of debt represents the effective financing cost with the adjustment for the interest tax shield. Since interest is tax deductible, the effective cost of debt is more relevant to estimate the firm's weighted average cost of capital."
+4,The company cost of capital is the return investors would require on a portfolio of the company's:,debt securities only,equity securities only,debt and equity securities mixed in the same way as the company's capital structure.,debt and equity securities mixed equally regardless of the company's capital structure.,C,"Correct answer is Option c.
+The capital structure includes all the long-term sources of financing. Hence, all these sources must be included while computing the cost of capital.
+This cost of capital is calculated by adding the weighted costs of each source. These weights are the same as the proportions in which the sources are present in the capital structure.
+Thus, cost of capital of company is the return investors would require on a portfolio of the debt and equity securities of the company mixed in the same way as its capital structure.
+Explanation for incorrect answers:
+a. It is incorrect because only debt is not the part of capital structure.
+b. It is incorrect because only equity is not the part of capital structure.
+d. It is incorrect because the debt and equity ratio must be the same as that of their proportion in the capital structure.","Capital: Capital refers to the amount of money invested in a company that is used to fund its long-term, fixed assets and projects for survival and growth. This capital is raised using different sources like equity, preference shares, loans, debentures, etc."
+5,Which of the following statements is correct?,"If a company's tax rate increases, then, all else equal, its weighted average cost of capital will decline.",A change in a company's target capital structure cannot affect its WACC.,WACC calculations should be based on before-tax costs of all the individual capital components.,Flotation costs associated with issuing new common stock normally reduce the WACC.,A,"A) Correct. An increase in the tax rate will lower the after-tax cost of debt. Hence, the WACC will decline consequently.
+B) Incorrect. A change in the firm's capital structure will affect the weight of each capital component. Hence, it will change the firm's WACC.
+C) Incorrect. The cost of debt should be assessed as an after-tax metric since the interest expense is deducted from the taxable income. Alternatively, the after-tax cost of debt is more relevant to reflect the actual financing cost of debt capital since it accounts for the effect of the interest tax shield.
+D) Incorrect. Flotation costs reduce the net proceeds of a new issue of shares. Thus, it will raise the cost of common stock, which causes an increase in the WACC.","Weighted Average Cost Of Capital: The weighted average cost of capital (WACC) is the average financing cost to fund the firm's assets. This metric includes the cost of equity, the cost of preferred stock, and the cost of debt as well."
+6,Revive Co. can borrow at any interest rate of 12.5% for a period of eight years. its marginal federal-plus-state tax rate is 30%. What is Revive's after-tax cost of debt?,7.5%,8.8%,12.5%,8.4%,B,"The correct option is b, i.e. 8.8%.
+Given Information:
+The pre-tax cost of debt is 12.5%
+The marginal tax rate is 30%
+To calculate the after-tax cost of debt, use the following formula:
+{eq}\begin{align*}{\rm\text{After - tax cost of debt}} &= {\rm\text{Pre - tax cost of debt}} \times \left( {1 - {\rm\text{Marginal tax rate}}} \right)\\ &= 12.5\% \times \left( {1 - 30\% } \right)\\ &= 12.5\% \times 0.70\\ &= 8.75\% \end{align*} {/eq}
+Here, the pre-tax cost of debt is the interest rate that Revive Co. can borrow at, and the marginal tax rate is the combined federal-plus-state tax rate.
+Therefore,
+Revive Co.'s after-tax cost of debt is 8.8% approximately.","Marginal Federal-Plus-State Tax Rate: The marginal federal-plus-state tax rate can help individuals and businesses with tax planning and decision-making, such as deciding whether to take on additional income or invest in tax-advantaged accounts."
+7,"What is the WACC for a firm with {eq}45\% {/eq} debt and {eq}55\% {/eq} equity that pays {eq}12\% {/eq} on its debt, {eq}20\% {/eq} on its equity, and has a {eq}40\% {/eq} tax rate? (Do not round intermediate calculations.)",{eq}14.24\% {/eq}.,{eq}13.16\% {/eq}.,{eq}16.40\% {/eq}.,{eq}12.00\% {/eq}.,A,"The calculated value of WACC for the firm is option
+a. {eq}14.24\% {/eq}.
+The weighted average cost of capital (WACC) is computed as follows:
+{eq}\begin{align*} &= \text{(Cost of equity * equity percentage) + (cost of debt * debt percentage * (1 - tax rate))} \\[0.3 cm] &= (20\% * 55\%) + (12\% * 45\% * (1 - 40\%)) \\[0.3 cm] &= 11\% + (5.40\% * (1 - 0.40)) \\[0.3 cm] &= 11\% + 3.24\% \\[0.3 cm] &= 14.24\% \end{align*} {/eq}","Weighted Average Cost of Capital (WACC): The WACC value for a firm represents the total cost of capital in percentage terms. It is ascertained after taking into account the costs and proportions of various sources of funds in the overall capital structure like common equity, preferred equity, and debt."
+8,Delt Express has a debt-equity ratio is 0.6. The return on equity is 15% and the interest cost of debt before tax is 9%. Income tax 28%.,10.32%,12.15%,11.81%,14.25%,C,"The correct option is: (c) 11.81%
+The Weighted Average Cost of Capital or, WACC is calculated using the following formula:
+{eq}WACC = \dfrac{E}{V} \times K_{e}+\dfrac {D}{V} \times K_{d}\\
+
+Or,\ WACC = \dfrac {E}{D+E}\times K_{e}+\dfrac{D}{D+E}\times K_{d}
+
+{/eq}
+Where,
+D = Total Debt of the company
+E = Total Equity of the company
+V = Total firm value = Debt + Equity
+{eq}K_{e} = \text{required rate of return on equity}
+
+{/eq}
+{eq}K_{d} = \text{After-tax cost of debt}= Pre-tax\ cost\ of\ debt \times (1-tax\ rate)
+
+{/eq}
+Given in the problem,
+{eq}K_{e} = 0.15
+
+{/eq}
+{eq}K_{d} = 0.09\times (1-0.28)=0.0648\ or,\ 6.48\%
+
+{/eq}
+Debt-equity ratio = 0.60  Or, {eq}\dfrac {Debt}{Equity}=\dfrac{0.60}{1}
+
+{/eq}
+{eq}Debt = 0.60,\ Equity = 1,\ V = D+E= 1.6
+
+{/eq}
+Putting the corresponding values in the above formula, we get the WACC of Delt Express as follows:
+{eq}\begin{align*}
+
+WACC &= \dfrac {1}{1.60}\times 0.15+\dfrac{0.60}{1.60}\times 0.0648\\
+
+&=(0.625\times0.15)+(0.375\times0.0648)\\
+
+&=0.11805\\
+
+\end{align*}
+
+{/eq}
+Therefore, the WACC of Delt Express = 11.81%","Weighted Average Cost of Capital: The WACC of a company is the average rate of return at which the company is expected to pay to its equity shareholders, debt holders and preferred stockholders. It can be seen as the company's hurdle rate or required rate of return from an investment or a project. It is calculated by multiplying the weight of each source of capital in the company's capital structure by its corresponding after-tax cost, then adding them together to get the weighted average cost of capital."
+9,For which capital component must you make a tax adjustment when calculating the weighted average cost of capital (WACC) for a firm?,Preferred stock.,Debt.,Equity.,,B,"The correct answer is
+b) Debt
+.
+Options
+Analysis
+a. Preferred stock.
+The dividends on preferred stock are fully taxable. So, there is no tax adjustment when calculating the WACC.
+b. Debt.
+The interest on debt is tax-deductible which reduces the after-tax cost of debt. Therefore, the cost of debt is subject to a tax adjustment.
+c. Equity.
+The dividends on common stock are fully taxable. So, there is no tax adjustment.","Weighted Average Cost of Capital: The weighted average cost of capital (WACC) is computed using the capital weights presented in the capital structure. The cost of each source of capital is multiplied by its weight in the capital structure, and the values are summed to arrive at the WACC."
+10,The preferred capital structure weights to be used in the weighted average cost of capital are:,market weights.,nominal weights.,historic weights.,target weights.,A,"The answer is
+a. market weights.
+The weight for each capital component (common stock, preferred stock, and debt) should be estimated according to their market values. By using market values, it reflects the true economic value of each type of capital as of today while book values refer to historical costs.","Weighted Average Cost Of Capital: The weighted average cost of capital (WACC) is an average financing cost to the entire firm. It accounts the cost of equity, cost of preferred stock and cost of debt."
+11,The overall (weighted average) cost of capital is composed of a weighted average of:,The cost of common equity and the cost of debt.,The cost of common equity and the cost of preferred stock.,The cost of preferred stock and the cost of debt.,"The cost of common equity, the cost of preferred stock, and the cost of debt.",D,"Option d
+is the correct answer.
+The major sources of capital for any business are equity, preferred stock, and debt. So, one should use the weighted average of all three of them to compute the proper cost of capital. Leaving either of them out would result in a misleading WACC. If one of these is not present, then one should use the weighted average of the other two.
+All other options are wrong as one should use all three of them in computing WACC, i.e., equity, debt, and preferred stock.","Capital: Every business requires capital to expand its operations. There are numerous ways to raise capital, beginning with equity, debt, and preferred stock, each with its own risk and return characteristics."
+12,"For a typical corporation, which of the following capital structures will result in the lowest weighted average cost of capital?","40% debt, 20% preferred stock, 40% common equity","50% debt, 10% preferred stock, 40% common equity","60% debt, 10% preferred stock, 30% common equity","60% debt, 15% preferred stock, 25% common equity",D,"The answer is
+D) 60% debt, 15% preferred stock, and 25% common equity.
+Weighted Average Cost of Capital (WACC):
+{eq}WACC = \left(\text{Weight of common stock} \times \text{Cost of common stock}\right ) + \left(\text{Weight of preferred stock} \times \text{Cost of preferred stock}\right) +\left(\text{Weight of debt} \times \text{Cost of debt} \times (1 - \text{Tax rate})\right)  {/eq}
+According to the WACC formula, if the firm accounts for most debt in its capital structure, it will achieve a lower WACC since debt capital has the advantage of an interest tax shield. In addition, the cost of preferred stock is usually lower than the cost of common stock, which indicates that the firm can lower the WACC if it shifts common equity capital to preferred equity capital. Hence, if a firm's capital structure is raised mostly from selling bonds and preferred stocks, it will obtain a lower WACC.","Weighted Average Cost of Capital: The weighted average cost of capital (WACC) represents the firm's average financing cost, which includes the cost of common stock, the cost of preferred stock, and the cost of debt. In a capital budgeting analysis, the firm's WACC is the discount rate for cash flows."
+13,"If the return on total assets is {eq}10\%
+
+{/eq} and if the return on common stockholders' equity is {eq}12\%
+
+{/eq} then:","The after-tax cost of long-term debt is probably greater than {eq}10\%
+
+{/eq}.","The after-tax cost of long-term debt is {eq}12\%
+
+{/eq}.",Leverage is negative.,"The after-tax cost of long-term debt is probably less than {eq}10\%
+
+{/eq}.",D,"The answer is
+d. The after-tax cost of long-term debt is probably less than 10%.
+Summary:
+Return on total assets = 10%
+Return on stockholders' equity = 12%
+The weighted average cost of capital represents the firm's financing cost to fund its total assets. Thus, it can be treated as the required minimum rate of return on total assets. Since it is a weighted average figure, it will be between the after-tax cost of debt and the cost of equity.
+Hence, the after-tax cost of debt should be lower than the return on total assets in this case.","Cost Of Debt: The cost of debt is a necessary component in estimating the firm's average cost of capital. In practice, a firm will lower its cost of capital when it acquires more debt capital since the cost of debt is less than the cost of equity."
+14,"If a company has many divisions that operate in different lines of business, then the appropriate WACC for evaluating projects in a particular division should be:",the same across all divisions because the WACC applies to the whole firm.,adjusted downward for divisions in riskier lines of business.,"the same as the WACC for a ""pure-play"" firm that only operates in that line of business.",none of the above,D,"The answer is
+d. None of the above.
+a. Incorrect. Each division will have different operational risks and other risk premium, which means that the firm's WACC will be acquired for the evaluation as long as the division has the same risk as the entire firm.
+b. Incorrect. For a higher risk division, managers should raise the discount rate in the capital budgeting evaluation.
+c. Incorrect. If a firm operates in a single business line, it will have different risk compared to a multi-product line business. For instance, there might be a cannibalization in a firm operating several lines of products.","Weighted Average Cost Of Capital: The weighted average cost of capital (WACC) is the firm's financing cost to fund total assets. It is usually treated as the firm's discount rate in the capital budgeting process. Note that, the WACC will change according to the firm's capital structure."
+15,The true cost of lending is the:,annual percentage rate,effective annual rate,quoted interest rate,interest rate per period,A,"A. Incorrect. The annual percentage rate (APR) on a loan ignores the effects of the compounding interest. Thus, it is not an effective financing cost on a loan.
+B. Correct. The effective annual rate includes interest costs, flotation costs, and the effects of the compounding interest. Hence, it is a relevant financing cost for an assessment of a loan.
+C. Incorrect. The quoted interest rate is a nominal interest rate, which reflects the interest costs on the loan. This metric ignores flotation costs and the effects of compounding interest.
+D. Incorrect. The interest rate per period is derived by dividing the annual percentage rate by the number of periods per year. Hence, it is also a financing cost that excludes the effect of the compounding interest.","Cost Of Lending: The cost of lending is the financing cost undertaken by a borrower, which can be considered as a trade-off cost to use the lender's capital during a specific term. In practice, the cost of lending is affected by the term of a loan, the borrower's creditworthiness, and the compounding interest."
+16,A new debt issue will sell at par and have a coupon rate on be {eq}12\% {/eq}. What is the after-tax cost of debt if the firm's tax rate is {eq}34\% {/eq}?,{eq}3.17\% {/eq}.,{eq}4.08\% {/eq}.,{eq}6.16\% {/eq}.,{eq}7.92\% {/eq}.,D,"The answer is
+D. 7.92%.
+Given information:
+A new debt issue sells at par
+Coupon rate = 12%
+Tax rate = 34%
+Since the new debt is sold at par, the cost of debt is equal to the couon rate. Thus, the cost of debt is 12%.
+Estimate the after-tax cost of debt:
+{eq}\text{After-tax cost of debt} = \displaystyle \text{Cost of debt} \times (1 - \text{Tax rate}) \\ \text{After-tax cost of debt} = \displaystyle 12\% \times (1 - 34\%) \\ \text{After-tax cost of debt} = 7.92\%{/eq}","Cost Of Long-Term Debt: Within a business, the cost of long-term debt is the firm's financing cost to borrow money from the public. Practically, the cost of long-term debt is the yield to maturity on the firm's debentures."
+17,"For the purpose of calculating the cost of capital for a corporation, the capital components are:","long-term debt, common stock, and preferred stock.",long-term debt and common stock.,debt and preferred stock.,long-term and short-term debt.,A,"The answer is
+A. long-term debt, common stock, and preferred stock.
+The average cost of capital is determined as the weighted financing cost of each type of capital. Generally, all long-term capital (common equity, preferred equity, and long-term debt) will be included in the estimation of the cost of capital since these long-term capitals are more stable than the short-term debt.","Average Cost Of Capital: The average cost of capital should be determined and monitored by the firm's managers, which intend to maintain a reasonable financing cost for its operations and assets. The capital structure has a direct impact on the cost of capital."
+18,The weighted average cost of capital is:,The average return for the company's stock over the past several years.,"The average cost, including commissions, for raising capital for the firm.","An average required return for each of the sources of capital used by the firm to finance its projects, weighted by the amount contributed by each source.","Interest payments and dividends, divided by the price of bonds and stock, respectively.",C,"The correct answer is option
+c. An average required return for each of the sources of capital used by the firm to finance its projects, weighted by the amount contributed by each source.
+The weighted average cost of capital for a project is computed by taking a sum of the product of costs of various sources of financing and their respective weights in the overall capital structure.","Weighted Average Cost of Capital (WACC): In the context of finance, the weighted average cost of capital (WACC) metric is used to denote the overall cost of capital of a firm that resorts to different sources of funds. A project is usually considered accepted if the expected return is more than the WACC value."
+19,"A REIT has an expected total return on equity of {eq}15\% {/eq}, interest on their debt is {eq}9\% {/eq}, and their debt-to-total-value ratio is {eq}50\% {/eq}. What is the REIT's average cost of capital?",{eq}12.2\% {/eq}.,{eq}10.4\% {/eq}.,{eq}12.6\% {/eq}.,{eq}12.0\% {/eq}.,D,"The correct option is d, i.e., 12.0%.
+The average cost of capital (WACC) is the weighted average of the cost of equity and debt.
+To calculate it, first find the cost of equity and the cost of debt:
+Cost of equity = expected total return on equity = 15%
+Cost of debt = interest on debt = 9%
+Next, calculate the weights of equity and debt in the REIT's capital structure:
+{eq}\begin{align*}{\rm\text{Weight of Equity}} &= 1 - {\rm\text{Debt - to - total - value ratio}}\\ &= 1 - 0.5\\ &= 0.5\end{align*} {/eq}
+So, the weight of equity is 0.5
+Weight of debt = debt-to-total-value ratio = 0.5
+Here,
+The debt-to-total-value ratio is 50% or 0.5.
+Finally, calculate the WACC using the formula:
+{eq}\begin{align*}{\rm\text{WACC}} &= \left( {{\rm\text{Cost of equity}} \times {\rm\text{Weight of equity}}} \right) + \left( {{\rm\text{Cost of debt}} \times {\rm\text{Weight of debt}}} \right)\\ &= \left( {0.15 \times 0.5} \right) + \left( {0.09 \times 0.5} \right)\\ &= 0.075 + 0.045\\ &= 0.12{\rm\text{ or }}12\% \end{align*} {/eq}
+Therefore,
+the WACC is 12%. So, the answer is (d) 12.0%.",Average Cost of Capital (ACC): The Average Cost of Capital is a company's required capital contribution (return on investment) to sustain its stock price's current value. Investors use ACC to evaluate the performance of a company.
+20,"A semiannual, 8 percent bond matures in 14 years and has a face value of $1,000. The market quote on this bond is 1,017. What is the after-tax cost of debt if the tax rate is 32 percent?",7.11 percent,7.69 percent,5.08 percent,5.30 percent,D,"The answer is
+d. 5.30 percent
+Given information:
+Par = $1,000
+Price = $1,017
+Time to maturity (N) = 14 x 2 = 28
+Semiannual coupon payment (PMT) = $1,000 x 8% x 0.5 = $40
+Determine the pre-tax cost of debt, using the financial calculator:
+FV = 1,000
+PV = 1,017
+N = 28
+PMT = 40
+CPT I = 3.90
+Semiannual yield = 3.90%
+Annual yield to maturity (YTM) = Pre-tax cost of debt = 3.90% x 2 = 7.8%
+Determine the after-tax cost of debt:
+After-tax cost of debt = Pre-tax cost of debt x (1 - Tax rate)
+After-tax cost of debt = 7.80% x (1 - 32%)
+After-tax cost of debt = 5.30%",Cost Of Debt: The cost of debt refers to the long-term financing cost associated with the debt capital in a business. It is also creditor's required rate of return by lending the firm within a given period.
+21,What is the value of a preferred stock that pays a $3.50 dividend to an investor with a required rate of return of 9%? (round your answer to the nearest $1),$39,$31.50,$17,$23,A,"Correct Answer: Option a. $39.
+Explanation:
+{eq}\text{Current price of the preferred share} = \dfrac{\text{Annual dividend per share}}{\text{Cost of preferred stock}} = \dfrac{\$3.5}{9\%} = \$39
+
+{/eq}",Cost of Preferred Stock: Preferred stock is a corporate form of equity that is sold to the investors to raise capital from them and invest in the business. The return that investors expect from such investments is the cost of preferred stock.
+22,"What is the valuation using WACC of 11% and FCF of $400,00 with constant growth of 5%?","7,770,000","6,000,000","7,000,000","6,666,667",C,"Option c) 7,000,000
+is the correct answer.
+Calculations:
+The firm's valuation can be ascertained by multiplying the product of the organization's free cash flow with the growth rate and dividing the result by the difference of the weighted average cost of capital and the growth rate.
+{eq}\begin{align*}
+
+{\rm\text{Valuation}} &= \dfrac{{\left( {{\rm\text{Current FCF}} \times \left( {{\rm\text{1}} + {\rm\text{Growth rate}}} \right)} \right)}}{{{\rm\text{WACC}} - {\rm\text{Growth rate}}}}\\
+
+&= \dfrac{{\left( {\$ 400,000 \times \left( {1 + 0.05} \right)} \right)}}{{0.11 - 0.05}}\\
+
+&= \dfrac{{\$ 420,000}}{{0.06}}\\
+
+&= \$ 7,000,000
+
+\end{align*}
+
+{/eq}",WACC: It is a financial measure that determines the weight of the organization's capital. It considers the importance of debt and the significance of equity to calculate the optimal inclination of the company's total capital.
+23,Calculate the firm's after-tax cost of debt if the current coupon rate on existing debt is 7% and the firm has a tax rate of 40%.,2.8%,4.2%,4.0%,12.6%,B,"Correct answer is option b.
+Let Kd be the cost of debt.
+{eq}\begin{array}{l}
+
+Kd = {\rm\text{Coupon rate }} \times \left( {1 - {\rm\text{Tax rate}}} \right)\\
+
+Kd = 7\%  \times \left( {1 - 0.40} \right)\\
+
+Kd = 4.2\%
+
+\end{array}
+
+{/eq}
+Thus, the cost of debt is 4.2%.","Cost of Debt to Firm: Cost of debt refers to the cost that a firm bears in the form of fixed interest payments when it issues debt. However, the interest on debt is tax deductible and the total cost of debt to the firm is reduced by the rate of tax applicable on the firm."
+25,Donald's Trumpets on average pays 8.5 percent interest on its loans. This interest rate is referred to as the company's:,Capital gains yield.,Cost of debt.,Cost of capital.,Compound rate.,B,"The correct option is b.
+Cost of debt means the interest paid on the debts taken by the company during the accounting year. The cost of debt helps understand how much the company is paying the debenture holders for using the debt and also provides the investors with the risk associated with the company.
+Explanation of incorrect options:
+Option a: Capital gain yield is computed when one individual transfers the property or some asset to another.
+Option c: Cost of capital means the return a company must earn to justify the investment in the project.
+Option d: Compound rate is calculated on the amount of investment and the interest added on investment during the specified period.","Interest rate: It means the amount due to be paid in a loan or received from an investment after a specified period per the terms and conditions of the agreement. Interest can be paid annually or quarterly, or semiannually."
+27,Which of the following would not be considered a cost of debt financing?,The required return on a bank loan,The required return on preferred stock,The yield-to-maturity of a bond issued,The required return on money borrowed from a venture capitalist,B,"The correct option is (b) The required return on preferred stock
+The required return on preferred stock is not considered a cost of debt financing as the preferred stock does not have a fixed interest liability like in bonds and loans. Rather, preferred stockholders are paid dividends as and when declared by the company in view of the relevant terms and conditions. On the other hand, the required return on bank loan, bonds and the borrowings are considered as cost of borrowing because the interest on these borrowings are payable irrespective of the level of earnings of the company.",Debt financing Debt financing refers to the raising of funds that are to be paid back with interest at an agreed rate and for a particular period. It is mostly raised by small and newly established companies depending on buying resources which help in organization's growth.
+28,"Downs Company issued {eq}\$800,000
+
+{/eq} of {eq}8\%,\ 5
+
+{/eq}-year bonds at {eq}106
+
+{/eq}, which pays interest annually. Assuming straight-line amortization, what is the total interest cost of the bonds?","{eq}\$368,000
+
+{/eq}.","{eq}\$272,000
+
+{/eq}.","{eq}\$224,000
+
+{/eq}.","{eq}\$320,000
+
+{/eq}.",A,"The correct option is A. $368,000.
+Computation of total interest cost:
+Particulars
+Amount ($)
+Interest Cost (800,000 x 8% x 5)
+320,000
+Add: Premium (800,000 x 6/100)
+48,000
+Total Interest Cost
+368,000",Interest Cost: The aggregate value that is disbursed periodically by the borrower in respect to a debt obligation is referred to as interest cost. The amount of rebate is required to be deducted from the interest cost because they are considered a refund.
+29,Which of the following performance measures will decrease if the minimum required rate of return increases?,Option A.,Option D.,Option B.,Option C.,B,"The correct option is
+(b)Option B.
+We can answer this question by analyzing the formulae of return on investment and residual income.
+For return on investment
+{eq}\text{Return on Investment} = \dfrac{\text{Net Income}}{\text{Average Investment}}
+
+{/eq}
+As we can see that the above formula is independent of the minimum required rate of return and thus the return on investment will not change with the increase or decrease in the minimum required rate of return.
+For Residual Income
+{eq}\text{Residual Income} = \text{Net Income} - \text{(Average Investment * Minimum required rate of return)}
+
+{/eq}
+As the minimum required rate of return will increase, the amount to be subtracted will increase, and thus the residual income will decrease.",Minimum Required Rate of Return: The minimum required rate of return is the percentage that a business should earn on its investment to recover its costs and provide a return to investors. The minimum required rate of return is generally the cost of funds.
+30,"All other inputs are constant, if a firm's tax rate decreases and they use debt in their capital structure, their WACC will _____.",increase,decrease,stay the same,,A,"The correct answer is
+A. increase.
+Weighted Average Cost Of Capital formula;
+{eq}\text{WACC} = \displaystyle \text{Weight}_{equity} \times Cost_{equity} + \text{Weight}_{debt} \times Cost_{debt} \times (1 - \text{Tax rate}) {/eq}
+It is obvious that a lower tax rate will raise the after-tax cost of debt. Thus, the firm's WACC will increase if all other inputs are constant.","Weighted Average Cost Of Capital (WACC): A firm's WACC is its financing cost to fund total assets, which considers the cost of equity and the cost of debt. Investors should acknowledge that the cost of the capital component should be the after-tax figure."
+31,Tobin's Barbeque has a bank loan at 12% interest and an after-tax cost of debt of 6%. What will the after-tax cost of debt be when the loan is due if a new loan is taken out yielding 12%?,None of these options are true.,6%,11.05%,3.45%,B,"The correct answer is
+option b. 6%.
+Given information:
+After-tax cost of debt = 6%
+Cost of debt before tax = 12%
+New cost of debt before tax = 12%
+Step 1: Calculate the tax rate using the formula for the after-tax cost of debt:
+{eq}\begin{aligned} \text{After-tax cost of debt} &=\text{Cost of debt before tax}\times \left( 1-\text{Tax rate} \right) \\ 6\% &=12\%\times \left( 1-\text{Tax rate} \right) \\ \left( 1-\text{Tax rate} \right) &=\frac{6\%}{12\%} \\ \left( 1-\text{Tax rate} \right) &=0.50 \\ \text{Tax rate} &=1-0.50 \\ &=0.50 \end{aligned} {/eq}
+Step 2: Calculate the new after-tax cost of debt:
+{eq}\begin{aligned} \text{New after-tax cost of debt} &=\text{New cost of debt before tax}\times \left( 1-\text{Tax rate} \right) \\ &=12\%\times \left( 1-0.50 \right) \\ &=12\%\times 0.50 \\ &=6\% \end{aligned} {/eq}
+Thus, the new after-tax cost of debt will be 6%.",Cost of Debt: The cost of debt is the actual rate of interest that a business must pay on its long-term debt commitments and the minimum yield that lenders want to cover the potential capital loss when making the loan to a borrower.
+32,"In computing the weighted average cost of capital, the preferred weighting scheme is generally based on the market values of each source of capital.",True,False,,,A,"The statement ""In computing the weighted average cost of capital, the preferred weighting scheme is generally based on the market values of each source of capital"" is
+true
+.
+The WACC is computed by taking the weights and specific costs of components of the capital structure into account. The market value of the components is preferred in the computation because it reflects the true value and weights of the capital structure as of the present. It is more indicative and appropriate compared to the book value as the book value shows historical weights that may not be relevant today.","Weighted Average Cost of Capital: The weighted average cost of capital, generally referred to by its acronym WACC, is a metric that tells the cost of a firm's sources of funds. It shows the average cost that the firm has to bear to employ the various forms of capital in business operations."
+33,Which of the following statements about the cost of capital is INCORRECT?,A company's target capital structure affects its weighted average cost of capital.,Weighted average cost of capital calculations should be based on the after-tax costs of all the individual capital components.,"If a company's tax rate increases, then, all else equal, its weighted average cost of capital will increase.",Flotation costs can increase the cost of preferred stock.,C,"The answer is
+c. If a company's tax rate increases, then, all else equal, its weighted average cost of capital will increase.
+a. This is a correct statement. The target capital structure affects the weight of each source of capital, which has a direct impact on the firm's weighted average cost of capital (WACC).
+b. This is a correct statement. The after-tax cost of capital reflects the effective financing cost associated with each source of capital. Particularly, the use of the after-tax cost of debt is necessary for estimating the WACC since it accounts for the effects of the interest tax shield.
+c. This is an incorrect statement. An increase in the corporate tax rate will lower the effective after-tax cost of debt. With that being said, the firm's weighted average cost of capital will decrease.
+d. This is a correct statement. The flotation costs reduce the net proceeds from a new issue of stock, which raises the financing cost of stocks.","Weighted Average Cost Of Capital (WACC): The weighted average cost of capital (WACC) is the measure of the overall financing cost in the firm. The firm's WACC is affected by the cost of each source of capital, generally including equity capital and debt capital."
+35,A company has a 10% coupon bond outstanding that is trading in the market at a yield to maturity of 9%. The company's marginal corporate tax rate is 40%. The cost of debt is closest to:,5.4%,6.0%,9.0%,10.0%,A,"The answer is
+A. 5.4%
+Summary:
+Yield to maturity (YTM) = 9%
+Marginal tax rate (T) = 40%
+Determine the after-tax cost of debt:
+After-tax cost of debt = Pretax cost of debt x (1 - T)
+After-tax cost of debt = 9% x (1 - 40%)
+After-tax cost of debt = 5.4%","Bonds: A bond is a debenture that a firm can issue to raise debt capital. The bond issuer needs to pay periodic interest to the bondholder. In addition, the bond's principal will return to the bondholder at the maturity."
+36,"In order to find the cost of equity using the firm's cost of debt, the rule of thumb is to:",multiply Kd by one plus the tax rate.,multiply Kd by one minus the tax rate.,add 3% to 6% to Kd.,multiply Kd by the firm's beta.,C,"The answer is
+C. add 3% to 6% to Kd.
+In practice, the cost of equity can be determined by the bond-yield-plus-risk premium.
+Cost of equity = Bond's yield + Equity risk premium
+Bond's yield: Yield to maturity on the firm's outstanding bonds.
+Equity risk premium: Empirically, the equity risk premium can range from 3% - 6%.","Cost Of Equity: The cost of equity indicates the financing cost to fund the firm's assets by shareholders' capital. Usually, the cost of equity is greater than the cost of debt since the cost of debt is reduced by the interest tax shield generated by interest expenses."
+37,What is the weighted average cost of capital (WACC) for ABC Limited which has the following capital structure?,12.63%,13.73%,9.56%,8.63%,A,"Correct Answer:
+Option a) 12.63%
+.
+ABC Limited's weighted average cost of capital (WACC) can be computed under the following format:
+Security
+Value
+Weight (A)
+Cost (B)
+WACC (C = A × B)
+Equity
+$5 million
+0.625
+15%
+9.375%
+Mezzanine finance
+$2 million
+0.25
+9.5%
+2.375%
+Debt
+$1 million
+0.125
+7%
+0.88%
+Total
+$8 million
+1
+12.63%
+Working note:
+{eq}\text{Capital weight} = \dfrac{\text{Capital raised by the security}}{\text{Total capital}}
+
+{/eq}",Weights: Capital weights refer to the proportion of individual capital relative to the total capital in the capital structure. These weights are used to determine the weighted average cost of capital.
+38,Everything else being equal a lower corporate tax rate:,will increase the WACC of a firm with debt and equity in its capital structure,will not affect the WACC of a firm with debt in its capital structure,will decrease the WACC of a firm with some debt in its capital structure,will decrease the WACC of a firm with only equity in its capital structure,A,"Recall that the weighted-average cost of capital is the sum of the weighted average cost of debt and the weighted average cost of equity, and the cost of debt is reduced by the income tax benefit it brings.
+Let us discuss each alternative:
+A. will increase the WACC of a firm with debt and equity in its capital structure.
+This is the correct option. The cost of debt will increase when the corporate tax rate is lower because the income tax benefit from deducting interest will be less, and if the cost of the debt component is higher, the overall WACC will be higher
+B. will not affect the WACC of a firm with debt in its capital structure
+No, the cost of debt is affected by the income tax rate.
+C. will decrease the WACC of a firm with some debt in its capital structure.
+No, the weighted cost of debt would increase so the WACC will increase.
+D. will decrease the WACC of a firm with only equity in its capital structure
+No, income tax does not affect the cost of equity.","Weighted Average Cost of Capital: The weighted average cost of capital or WACC of a company is a formula used to determine the cost of the capital structure of a company. Once calculated, this rate can be used as a discount rate in capital budgeting."
+39,"Bin Restaurant Corp. preferred stock has a market price of $14.50. If it has a yearly dividend of $3.50, what is your expected rate of return if you purchase the stock at its market price?",41.43%,19.45%,22.36%,24.14%,D,"The expected return on Bin Restaurant Corp.'s stock is
+Option d) 24.14%
+.
+The expected return on preferred stock is the return investors want for purchasing the company's stock.
+The formula that can be used to determine the stock price is given as follows:
+Expected return ={eq}\dfrac{\text{Annual Dividend}}{\text{Current market price}} = \dfrac{\$3.50}{\$14.50} = 24.14\%
+
+{/eq}",Preferred Stock: Preferred stock has the quality of debt as it offers fixed dividends and is recorded as a part of equity until redeemed. The stock does not have voting rights but has the privilege to receive dividends before common stock.
+40,"What is the after-tax cost of debt if the company paid $6,000 for annual interest when the tax rate is 30%?","$4,200","$2,400","$1,800","$7,800",A,"The correct option is $4,200 (A).
+The calculation for the after-tax cost of debt is shown below.
+After tax cost of debt = Annual interest * (1 - Tax rate)
+After tax cost of debt = $6,000 * (1 - 30%)
+After tax cost of debt = $6,000 * 0.70
+After tax cost of debt = $4,200",Cost of Debt: A company can borrow funds to meet its capital requirement. Interest expense is paid on the borrowed amount along with the principal. The total cost incurred by the company on debt financing is called as cost of debt.
+41,"In order to recognize the interrelationship between financing and investments, a firm should use _____ when evaluating an investment.",the current opportunity cost,the least costly source of financing,the weighted average cost of all financing source,the most costly source of financing,C,"The correct option is
+(c).
+The weighted average cost (also known as WACC) means an organization's cost of capital in which every capital source is weighted. An entity's WACC is high if the stock value is rapidly changing or if there are higher risks associated with debts. In this case, the investors would undoubtedly demand greater monetary benefits. In this way, all the sources are covered in the analysis.
+Explanation for the incorrect options:
+Options (a), (b), and (d) are incorrect because they do not assist in deciding whether to finance or invest.","Financing: Financing is defined as a procedure in which one party offers money for a business affair or in a specific investment scheme. In other words, this process is associated with the cash flows of a business entity."

@@ -1,0 +1,392 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The following information is available on Company A.,"$13,000","$21,000","$45,000","$24,000",A,"The calculated value of Company A's  residual income is option A. $13,000.
+The residual income is given by:
+= Net operating income - (minimum required rate of return * average operating assets)
+= $40,000 - (15% * $180,000)
+= $40,000 - $27,000
+= $13,000","Residual Income: In the context of Finance and accounting, one can have different forms of income such as gross profit, net operating income, net income or residual income depending upon the stakeholders' or analyst's requirement. The residual income is usually the income meant for the shareholders once all the expenses are met."
+2,"Assume that Clampett, Inc., has $290,000 of sales, $240,000 of cost of goods sold, $150,000 of interest income, and $130,000 of dividends. What is Clampett, Inc.'s excess net passive income?",0,"137,500","187,500","280,000",D,"The correct answer is option (d).
+The total Clampett, Inc.'s excess net passive income is $280,000.
+Explanation:
+The total Clampett, Inc.'s excess net passive income is $280,000 ($130,000 + $150,000), which is the sum of the interest income and dividend income.",Passive Income: Passive income is the income other than the operating income which a company or an individual does not earn in a regular course of business. This type of income does not come from the operating activity of the company or entity.
+3,The division's residual income is closest to:,"$575,100","$1,175,100","$(1,980,900)","$(24,900)",D,"The calculated value of division's residual income is option
+d. ($24,900)
+.
+The division's residual income is given by:
+= Net operating income - (minimum required rate of return * average operating assets)
+= $575,100 - (12% * $5,000,000)
+= $575,100 - $600,000
+= -$24,900","Residual Income: In the context of accounting, the residual income for a firm or a division is the income generated in excess of the minimum return required by the investors such as shareholders and debt holders. The minimum return is governed by the required rate of return which in turn is determined by using the formula for weighted average cost of capital."
+4,"Two companies, A and B, have the same ROEs, but Company A has a higher residual income. Which of the following would explain this, all else equal?",Company A is riskier than Company B.B. Company A has a higher expected future growth.C. Company A has a greater net book value.D. Company A has a lower ROA.,,,,C,"(C.) Company A has a greater net book value.
+Net book value is the amount of assets over liabilities for an organization. The accounting formula of A = L + E will show us that if A is much greater than L, than E will be higher under Company A. Because ROE is the same, income is higher, resulting in a higher residual income.",Residual Income: Residual income is the amount of income in excess of a rate of return off the organization's assets. Assets are used to generate income and in return profit. Residual income will give you a monetary value of how much over the required return you are earning for profit.
+5,Which of the following is a measure of a manager's performance working in an investment center?,Residual income.,Return on investment.,Divisional income statements.,All of these choices are correct.,D,"The correct option is
+d. All of these choices are correct.
+The residual income measures the amount of income that the divisional manager has generated over and above the required income. The higher the residual income, the better the performance of the manager.
+The return on investment measures the divisional net income as a percentage of investment in the division. The higher the return on investment the better the performance of the manager.
+The divisional income statements shows the divisional net income and help in comparing the performance of investment centers.
+Hence all options are correct.",Performance Evaluation: Business needs to evaluate their investment centers to generate decent returns for the investors. Businesses use different evaluation metrics to evaluate the performance of their divisional managers.
+6,"If ROI for a division is 15% and the company's minimum required cost of capital is 18%, then:",residual income for the division is negative.,residual income for the division takes on a value between zero and positive one.,residual income cannot be computed.,EVA must be negative.,A,"The correct answer is
+a. residual income for the division is negative.
+Residual income is operating income minus required return. If return on investment is lower than the required return, the residual income is negative because of a lower return than what is required.",Residual Income: Residual income is used to measure the profitability of a specific investment. It evaluates the performance and if the investment would increase or decrease the value of the company.
+7,The performance of the manager of Division A is measured by residual income. Which of the following would increase the manager's performance measure?,Increase in average operating assets,Decrease in average operating assets,Increase in minimum required return,Decrease in net operating income,B,"Answer: B. Decrease in average operating assets
+An increase in the manager's performance measure would result to an increase in the residual income. Residual income is computed as follows:
+Net operating income
+XXX
+Average operating assets
+XXX
+X Minimum required rate of return
+XXX
+Required return on investment
+XXX
+Residual income (Net operating income - Required return on investment)
+XXX
+As indicated in the formula for computation above, the residual income would increase if there would be a decrease in average operating assets minimum required rate of return, or an increase in net operating income.","Residual Income Residual Income is the excess of the operating income for a specified period over the expected amount of return from the amount invested, using a defined required rate of return."
+8,Residual income is:,Net operating income plus the minimum required return on average operating assets.,Net operating income less the minimum required return on average operating assets.,Contribution margin plus the minimum required return on average operating assets.,Contribution margin less the minimum required return on average operating assets.,B,"Correct Answer:
+Option b) Net operating income less the minimum required return on average operating assets
+.
+Residual income is the profit over and above the normal profit. It is the profit above the minimum required return. We use the following equation to determine the residual income:
+Residual income = Net operating profit after taxes - (Average operating assets × Minimum required return)",Operating Income: Operating income can be computed by reducing the operating expenses from the gross profit. It accounts for the nonoperating expenses like interest and taxes. Both gross profit and operating income are reported on the income statement.
+9,Economic income is equal to residual income.,True,False,,,B,"The above statement is false.
+Reason: Economic income refers to the income generated through increase in the market value of the assets of the company while residual income can be defined as the income that business generate continuously after finishing its operating activity.",Income: Income can be defined as the money earned by any business entity against the product or service provided to the customer. Income earned by the company is used in the day-to-day operations of the business entity.
+10,What can be said if a division generates a positive residual income?,Performance was above expectations.,Operating income exceeds the division's minimum return.,Profitability was greater than that of other divisions in the company.,Asset turnover was very high.,C,"The correct answer is
+Operating income exceeds the division's minimum return.
+{eq}\begin{align} \text{Residual Income} &= \text{Net Operating Income} - (\text{Average Operating Assets} \times \text{Minimum rate of return})\\ &= \text{Net Operating Income} - \text{Division's Minimum return}\\ \end{align} {/eq}
+Hence, the residual income shows how much excess a business division generates over the desired minimum return.
+Explanation for incorrect answers
+The comment on profitability and asset turnover can be made by using the DuPoont analysis and not by the residual income metric; hence options (c) and (d) are incorrect.",Residual Income: Residual Income is a performance evaluation metric that is used to compare the performances of different investment centers of the business. The residual income compares the operating income and the minimum return.
+11,What is the formula for residual income?,Income from operations * Minimum Acceptable Income from Operators.,Income from Operations/Invested Assets.,Minimum Acceptable Income from Operations - Operating Expenses.,Income from Operations - Minimum Acceptable Income from Operations.,D,"The correct answer is option d. Income from Operations - Minimum Acceptable Income from Operations.
+Residual income is a financial metric used to measure the profitability of a business unit, department, or individual investment, taking into account the minimum acceptable return on the invested capital. The formula for calculating residual income is as follows:
+Residual Income = Income from Operations - Minimum Acceptable Income from Operations
+The components in the formula are explained below.
+Income from Operations: It refers to the operating income generated by the business unit, department, or investment, exclusive of any financing costs or extraordinary items.
+Minimum Acceptable Income from Operations: It is the minimum required return or profit that the company or investor expects to receive from the invested capital. It is calculated by multiplying the invested assets by the required rate of return (also known as the cost of capital or hurdle rate).","Investment Center: In management accounting, an investment center is a business unit or division within an organization responsible for generating its revenues, controlling costs, and making decisions related to asset investments."
+12,"If operating income is $43,000, average operating assets were $215,000, and the minimum required rate of return is 12%, what is the residual income?","$60,200","$8,600","$17,200","$25,800",C,"The correct answer to the above is Option C. $17,200
+Explanation
+Operating income = $43,000, Average operating assets = $215,000, minimum required rate of return = 12%
+Residual Income = Operating income - (Average operating assets * minimum required rate of return)
+Residual Income = $43,000 - ($215,000 * 12%)
+Residual Income = $43,000 - $25,800
+Residual Income = $17,200","Residual Income In the contemporary world, people look not only for the net income and EPS of a company but also for efficiency. The residual income approach is one of the ways by which the efficiency of a company can be found."
+13,Most organizations use the only residual income for performance measurement because of the weaknesses associated with using return on investment (ROI).,True,False,,,A,"The statement is true.
+In comparison to return on investment, residual income is a preferred evaluator of performance because measurement issues related to the asset base are removed. Also, divisions with a high ROI will not reject attractive investment options.
+Using an ROI to evaluate a unit's performance leads to investment decisions that are based on an unrealistic economic model.","Residual Income The sum of operating profit left after all capital expenses for producing revenues have been paid is described as ""residual income."" It is the net income an investment generates after deducting the required return on its operating assets."
+14,Projected disposal or residual values of replacement equipment are relevant to capital investment analysis because:,they represent future cash inflows and usually differ among the alternatives.,they represent future cash inflows.,they usually differ from the alternatives.,they reduce income taxes.,A,"The answer is
+a. they represent future cash inflows and usually differ among the alternatives.
+Assuming that the asset will be sold at the end of its useful life, Residual Value is the expected selling price. Therefore, a future cash inflow. Residual Value also differs in different alternatives.","Residual Value: Residual Value is the amount the company expects to sell an asset after its useful life. It is also called salvage value. In computing for depreciation, the initial cost of asset less the salvage value will result to a depreciable amount."
+15,Given the following data:,"$19,200",$0,"$18,000","$13,200",D,"The residual income would be $13,200 (d)
+The calculation for residual income is shown below.
+Residual income = (Sales * Margin) - (Average operating assets * Minimum required rate of return)
+Residual income = ($240,000 * 10%) - ($60,000 * 18%)
+Residual income = ($240,000 * 0.10) - ($60,000 * 0.18)
+Residual income = $24,000 - $10,800
+Residual income = $13,200",Residual Income: Residual income is a profit calculation method that is the difference between revenue and capital expenditures made to generate the revenue. Residual income = (Sales * Margin) - (Average operating assets * Minimum required rate of return)
+16,"Assume that Division P has achieved income from operations of $160,150 using $1,041,140 of invested assets. If management desires a minimum rate of return of 11%, what is the residual income?","$45,625",$23,"$94,649","$160,150",A,"Correct Answer:
+Option A. $45,625
+.
+The first step is to determine the minimum required return:
+Minimum required return = Average investment in assets × Minimum required rate of return
+Minimum required return = $1,041,140 × 0.11
+Minimum required return = $114,525
+The next step is to determine the residual income for division P:
+Residual Income = Net operating income - Minimum required return on assets
+Residual Income = $160,150 - $114,525
+Residual Income = $45,625","Residual Income: When a business earns profits above the required return, the excess profits are referred to as residual income. Residual income is also called economic profit. Residual income can be computed using the assets, operating income, and cost of capital."
+17,Given the following data:,"$11,700",$0,"$18,000","$20,300",A,"The correct option is a.
+To calculate the residual income, we use the net income for the year and the minimum required net income. We must use the information provided to calculate the net income before we can apply the residual income formula, and we can do it in one of two ways:
+Sales revenue
+$290,000
+Margin
+9%
+Net income = $290,000 × 0.09
+$26,100
+OR
+Return on investment
+29%
+Average operating assets
+$90,000
+Net income = $90,000 × 0.19
+$26,100
+Now we are ready to use the formula
+Average operating assets
+$90,000
+Minimum required rate of return
+16%
+Minimum required net income = $90,000 × 0.16
+$14,400
+Net income calculated above
+$26,100
+Residual income
+= Net income - Minimum required net income
+= $26,100 - $14,400
+= $11,700",Residual Income: Residual income is a performance evaluation tool. It is often used when evaluating the performance of an investment center in responsibility accounting and is a simplified version of the Economic Value Added formula.
+18,Which of the following is the correct formula for calculating residual income?,Weighted Average Cost of Capital - Net Operating Profit After Tax,Operating income - Minimum acceptable operating income,Historical cost of assets - Accumulated depreciation,Operating income + Average assets,B,"Let us discuss each alternative:
+a. Weighted Average Cost of Capital - Net Operating Profit After Tax
+No. The weighted average cost of capital or WACC is a percentage and it does not make sense to subtract NOPAT from that percentage.
+b. Operating income - Minimum acceptable operating income
+This is the correct option. The minimum acceptable operating income is calculated using the average assets and the WACC. This amount is then deducted from the actual operating income to calculate the excess or residual income.
+c. The historical cost of assets - Accumulated depreciation
+No, this will give us the book value of the assets.
+d. Operating income + Average assets
+No, this calculation will not result in any useful amount. Operating income ÷ Average assets is one formula used to calculate ROI","Responsibility Accounting: Responsibility accounting is an accounting system used to report on the results of segments of large companies. Each segment is classified as either a cost-, profit-, or investment center, and evaluated using tools appropriate for this classification."
+19,"Assume that Division J has achieved income from operations of $165,000 using $900,000 of invested assets.","$93,000.","$13,200.","$185,000.","$72,000.",A,"The residual income is calculated as follows:
+Residual income  = Operating Income  - ( Assets Invested * Minimum rate of return)
+= $165,000 - ($900,000  * 8%)
+=  $ 165,000 - $72,000
+= $93,000
+The residual income is $93,000
+So correct answer is an option (a) $93,000",Residual income : Residual income is the income left over after paying operating expenses and interest expenses. The residual income is calculated as income from operation minus the multiplication of assets invested and a minimum rate of return.
+20,Residual income:,is the return on investment (ROI) percentage multiplied by average operating assets.,is the net operating income earned above a certain minimum required return on sales.,is the net operating income earned above a certain minimum required return on average operating assets.,will always be greater than zero.,C,"The correct option is
+(C.) is the net operating income earned above a certain minimum required return on average operating assets.
+We can use residual income as a performance measure. It is the surplus income above the desired return on assets and can be computed by the below formula.
+{eq}\text{Residual Income} = \text{Net Income} - (\text{Average operating assets * ROI %})
+
+{/eq}
+Explanation of incorrect answers
+Return on investment (ROI) is the return on investment (ROI) percentage multiplied by average operating assets; hence option A is incorrect.
+the net operating income earned above a certain minimum required return on sales is not residual income; hence option B is incorrect.
+Residual income can be zero, positive or negative; hence option D is incorrect.",Performance Evaluation: Performance evaluation refers to an assessment of returns and costs of various investment or profit centers to determine how efficiently they are performing. We use return on investment or residual income for such evaluation.
+21,Residual income can be used as a company and intra-company performance measurement tool.,True,False,,,A,"The correct option is
+(a) true
+.
+Residual income can be used as a company and intra-company performance measurement tool. It helps in evaluating the income earned by the company in a particular year after the payment of all debts and obligations of the company.","Income Income refers to the money earned by performing certain activities by an individual or a firm. It is used to finance the day to day activities. It is received in the form of remuneration, salary or wages by the employers or employees of the company."
+22,The following information is available on Company A.,"$9,000","$21,000","$45,000","$24,000",A,"The calculated value of Company A's  residual income is option A. $9,000.
+The residual income is given by:
+= Net operating income - (minimum required rate of return * average operating assets)
+= $36,000 - (15% * $180,000)
+= $36,000 - $27,000
+= $9,000","Residual Income: In the context of Finance and accounting, one can have different forms of income such as gross profit, net operating income, net income or residual income depending upon the stakeholders' or analyst's requirement. The residual income is usually the income meant for the shareholders once all the expenses are met."
+23,The basic idea behind residual income is to have a division maximize its:,Net income.,Income in excess of a corporate imputed interest charge.,Cost of capital.,Cash flows.,B,"The basic idea behind residual income is to have a division maximize its (B.) income in excess of a corporate imputed interest charge.
+Companies often use residual income to measure the success of a capital investment team, business or division.","Residual income: Residual income is the amount of income earned over the minimum rate of return.  Residual income can be thought of as passive income from investing in real estate, stocks, or bonds."
+24,Residual income:,is the ROI percentage multiplied by average operating assets.,is the net operating income earned above a certain minimum required return on sales.,is the net operating income earned above a certain minimum required return on average operating assets.,will always be greater than zero.,C,"The correct answer is option
+c. is the net operating income earned above a certain minimum required return on average operating assets.
+The residual income is given by:
+{eq}\begin{align*}
+
+&= \text{Net operating income - minimum return required on the operating assets by the investors}
+
+\end{align*}
+
+{/eq}
+The minimum return required on the operating assets is given by:
+{eq}\begin{align*}
+
+&= \text{Minimum desired return on investment (ROI) percentage * average operating assets deployed by a firm}
+
+\end{align*}
+
+{/eq}","Residual Income: In the domain of accounting, the income for a firm may be expressed in various forms such as gross profit, net operating income, net income, and residual income. The return on investment (ROI) ratio gives an idea of the profitability in terms of operating income earned per unit of a dollar invested in the operaitng assets."
+25,Residual income is calculated as:,revenues less expenses.,contribution margin less minimum acceptable income.,operating income less minimum acceptable income.,sales less variable costs.,C,"Correct Answer: Option C. operating income less minimum acceptable income.
+Explanation:
+Residual income represents the income in excess of the minimum required return. To compute the same we use the following formula:
+Residual income = Net operating profit after taxes - (Average operating assets * WACC)","Net Income: Net income is the excess of revenues over expenses made during a period and it is the last derivation of the income statement. There are various profitability ratios such as net profit margin, return on assets, return on equity, etc, that use the net income in the numerator. Net income indicates the financial performance of the company."
+26,Residual income is NOPAT with an adjustment for:,accounting distortions.,profit required for the level of investment in the investment center.,standard cost variances.,taxes and depreciation.,B,"The correct option is B. profit required for the level of investment in the investment center.
+Residual income is calculated by deducting the minimum required to profit from the division's NOPAT. If a corporation does not expect any return on the assets invested in an investment center, residual income would be equal to NOPAT. This is however very unlikely.
+If an investment center has $1,000,000 of invested assets and the corporation expects a return of 10% on these assets, the minimum expected profit is $100,000. If the division has an NOPAT of $120,000, its residual income would be $20,000.","NOPAT: Net operating income after tax or NOPAT is a concept used in investment center evaluations. It is similar to the net income of a company, but it excludes some accounting gains or losses and extraordinary items, and their income tax effects."
+27,Which of the following is NOT a source of passive income or loss?,Net rental income earned by a landlord who owns one duplex.,Gain on the sale of a limited partnership interest.,Ordinary dividend income.,A loss from a sole proprietorship where the owner does not participate in management or operations.,D,"The correct answer is d. A loss from a sole proprietorship where the owner does not participate in management or operations.
+Passive Income or Loss is an income/loss where in the proprietor/owner does not participate in management and operations of the business. As what is mentioned in Letter D, the owner does not participate in managing or operating making it matched the passive income description.",Passive Income or Loss: It is part of Income/Loss where the proprietor is not participating in management or operations. Passive Income is presented in proprietor's Income Statement and is subject to Passive Income Tax.
+28,Use the following information to compute residual income:,"$52,800.","$15,840.","$66,000.","$19,008.",B,"The computation of residual income uses the following formula.
+Residual income = Net operating income - ((Net Operating Income / Return on Investment) x Minimum operating rate of return)
+Residual income = $79,200 - (($79,200 / 15%) x 12%)
+Residual income = $79,200 - ($528,000 x 12%)
+Residual income = $79,200 - $63,360
+Residual income = $15,840
+Accordingly,
+the correct answer is option b. $15,840.","Return on Investment: In management accounting, the return on investment is defined as the ratio of total net profit to investment made over a given time. It is used by the corporation to assess the profitability of a corporate investment."
+29,Residual income is another term for economic value added.,True,False,,,A,"The correct answer to the given question is
+option a. True
+.
+The residual income or the economic value added is determined by deducting the cost of capital from the net operating income after tax. The cost of capital in turn is determined by multiplying the investment made in assets with the weighted average cost of capital.","Residual Income: In the parlance of finance, the net operating firm for a firm is determined by deducting all the operating costs from the sales revenue and the net profit is ascertained by deducting the financing costs and tax costs from the operating income. The residual income gives an idea about the income left out after paying off the cost incurred for financing such as debt cost and equity cost."
+30,"When residual income is used to evaluate division managers, the goal for each division manager is to increase residual income over time.",True,False,,,A,"Residual income helps a company compare how efficiently a department or a division is operating. Every manager focuses on increasing residual income as it gives them the financial freedom to take decisions as per their wishes. Thus, every manager tries to increase residual income over time.
+Thus, the above statement is
+true
+.","Residual Income Residual income is the net income of a firm less the cost of capital of all its stakeholders. Residual income deducts all kinds of capital costs. Residual income is also known as economic profit. Residual income includes dividends and equity-related costs, which accounting income does not include."
+31,"If operating income is $60,000, average operating assets are $240,000, and the minimum required rate of return is 20%, what is the residual income?","$12,000","$48,000",40%,25%,A,"The correct answer is
+A. $12,000
+.
+Let's first determine the minimum required return using the average operating assets and minimum required rate of return:
+Minimum required return (Dollars) = Average operating assets × Minimum required return
+Minimum required return (Dollars) = $240,000 × 20%
+Minimum required return (Dollars) = $48,000
+The next step is to determine the residual income:
+Residual income = Operating income - Minimum required return
+Residual income = $60,000 - $48,000
+Residual income = $12,000","Residual Income: Residual income is the economic profit the business earns over the normal profit it is expected to earn on its investments. Its computation uses the net operating income, assets, and required return."
+32,Given the following data:,"$6,600",$0,"$13,860","$24,200",A,"The correct answer is option
+(a)
+.
+The residual income is the excess of actual net operating income generated minus the required return on investment on operating assets.
+Calculation of residual income by applying the following formula:
+$$\begin{align*}
+
+{\rm\text{Residual Income}} &= {\rm\text{Net Operating Income}} - \left( {{\rm\text{Average operating assets}} \times {\rm\text{Minimum rate of Return}}} \right)\\
+
+&= \$ 19,800 - \left( {\$ 66,000 \times 20\% } \right)\\
+
+&= \$ 6,600
+
+\end{align*}
+
+$$
+Working notes:
+Calculation of net operating income:
+$$\begin{align*}
+
+{\rm\text{Net operating income}} &= {\rm\text{Average operating assets}} \times {\rm\text{Return on investment}}\\
+
+&= {\rm\text{\$ 66,000}} \times {\rm\text{30}}\% \\
+
+&= {\rm\text{\$ 19,800}}
+
+\end{align*}
+
+$$
+Thus, the residual income is $6,600.","Residual income Net operational income is what the investment center calls residual income. The earnings that are more than the minimum desired return constitute this income. Accordingly, a residual income is the extra money made from an investment's return."
+33,Residual income is the dollar amount of division operating profit in excess of the division's cost of acquiring capital to purchase operating assets.,True,False,,,A,"Correct Answer:
+Option A) True
+.
+Residual income is the dollar amount of division operating profit in excess of the division's cost of acquiring capital to purchase operating assets.
+The statement given above is accurate as residual income represents operating profit over the minimum required return. We use the following formula to determine the same:
+Residual income = Operating profit × (Average investment in operating assets × Cost of capital)",Operating Assets: Operating assets are the company's assets that are used to generate sales and make profits. The operating assets include the tangible fixed assets and current assets but exclude intangible ones.
+34,"If operating income is $46,000, average operating assets are $230,000, and the minimum required rate of return is 11%, what is the residual income?","$66,700","$4,600","$20,700","$25,300",C,"The correct option is C. The residual income is $20,700
+Residual income is the net income that is earned above the threshold or the minimum required return from an investment.
+Explanation:
+Residual income can be calculated as follow.
+Residual income = Operating income - (Average operating assets * Minimum required rate of return)
+All the values are available in the questions. Let's put the values in the formula:
+Residual income = $46,000 - ($230,000 * 11%)
+Residual income = $46,000 - $25,300
+Residual income =
+$20,700","Net Income: Income is the amount of money left over after a person or business has paid all of its bills. It refers to the money that is left over after all of a company's financial obligations, like the cost of raw materials and utilities, have been paid."
+35,"If operating income is {eq}\$73,000
+
+{/eq}, average operating assets are {eq}\$365,000
+
+{/eq}, and the minimum required rate of return is {eq}11\%
+
+{/eq}, what is the residual income?","{eq}\$105,850
+
+{/eq}.","{eq}\$7,300
+
+{/eq}.","{eq}\$40,150
+
+{/eq}.","{eq}\$32,850
+
+{/eq}.",D,"Answer
+d. $32,850
+Residual income is calculated as follows:
+Residual income = Operating income - ( Operating assets * Required rate of return)
+= 73,000 - (365,000 * 11%)
+73,000 - 40,150
+= $32,850",Residual Income Residual income (RI) is used to measure divisional performance when divisions are organized into investment centers. RI is the amount of operating revenues that remain after deducting the imputed interest on the assets used by the division.
+36,"Killian Corp. has a residual income of $39,000 on invested assets of $457,000. If the hurdle rate is 10%, what is the operating income?","$39,000","$45,700","$3,900","$84,700",D,"Correct answer:
+Option d) $84,700
+Explanation:
+As per the data:
+Residual Income = $39,000
+Invested assets = $457,000
+Hurdle rate (minimum rate of return) = 10%
+Formula:
+Residual income = Operating income - (Invested capital * Minimum required return
+$39,000 = Operating income - ($457,000 * 10%)
+Operating income = $84,700",Net Operating Income : Net operating income refers to the earnings of the company before deducting the nonoperating expenses and adding the nonoperating revenues and is also referred to as earnings before interest and tax. It is a measure of profitability and it is used to evaluate the cash flows in relation to any investment before considering the effect of taxes and other financial costs like interest.
+37,Use the following information to compute residual income:,"$32,160.","$10,800.","$50,700.","$10,200.",D,"Correct Answer:
+Option d. $10,200
+.
+The first step is to determine the investment in assets:
+{eq}\text{Average investment in assets} = \dfrac{\text{Operating income}}{\text{Return on investment rate}} = \dfrac{\$51,000}{15\%} = \$340,000
+
+{/eq}
+Now, we can determine the residual income using the following formula:
+Residual income = Operating income - (Average investment in assets × Cost of capital)
+Residual income = $51,000 - ($340,000 × 12%)
+Residual income = $10,200",Residual Income: Residual income is the economic profit realized over the expected returns.  The expected return is the return that a company should achieve to compensate its financing sources.  Residual income indicates healthy business growth.
+38,"Dade Corp. has a residual income of $13,440. If operating income equals $34,000 and the minimum required rate of return is 8%.","$128,500","$514,000","$257,000","$385,500",C,"Correct Answer:
+Option c) $257,000
+.
+We can determine the average invested assets as follows:
+Residual income = Operating income - (Required return × Operating assets)
+On interchanging the equation:
+(Required return × Operating assets) = Operating income - Residual income
+Operating assets = ($34,000 - $13,440) / 8%
+Operating assets = $257,000","Residual Income: Residual income is the economic profit that the company earns from its assets, and it represents the difference between the operating income and the minimum return expected on the assets."
+39,What is the term for the residual interest in the assets of an entity that remains after deducting its liabilities?,assets,liabilities,shareholders' equity,revenues,C,"Option C: Shareholders equity
+is the correct option.
+The leftover interest from assets after deducting liabilities is known as residual interest. It is the shareholders interest as the asset belongs to shareholder and thus interest or any dividend achieved will be shareholders equity.
+Thus, residual interest in the assets after deducting its liabilities is termed as shareholders equity.",Residual interest: Residual interest is the interest that is left out after the liabilities are deducted from the assets. This is the income to the organization. The investors are attracted to this interest as the organization is in a position to pay its liabilities.
+40,Which of the following is true regarding the term residual income?,Residual income is the income over and above the amount needed to cover current expenses.,Residual income is the income in excess of a charge for the capital that is employed to generate that income.,Residual income is equal to economic income.,Residual income is called abnormal earnings when applied to the enterprise's operating income and invested capital.,B,"The correct answer is
+B) Residual income is the income in excess of a charge for the capital that is employed to generate that income.
+Residual income is calculated by finding the difference between the company's operating income and the required return on the invested capital. So, option B is the answer.",Residual Income: Residual income is another term for passive income. This is the amount earned after an active work that has been completed. It is an internal assessment technique to measure the success or failure of a specific business.
+41,"What is the residual income for a firm with $1 million in total capital, $300,000 in net income, and a 20% cost of capital?","$100,000","$140,000","$240,000","$500,000",A,"Correct answer:
+Option A) $100,000.
+Explanation:
+Residual income = Net income - (Total capital * Cost of capital)
+Residual income = $300,000 - ($1,000,000 * 20%)
+Residual income = $100,000","Residual Income: Residual income is the excess of net operating income over the required return on capital. It represents the economic profit of the company as it is the income in excess of the required return. To compute the residual income, we need net operating income after taxes, net income in case the company has no debt, cost of capital, and total capital."
+42,Residual income equals average operating assets multiplied by the difference between the return on investment and the required rate of return.,True,False,,,A,"The given statement is
+(a) True.
+The residual income is the excess of net income over the required income.
+{eq}\text{Return on Investment} = \dfrac{\text{Net Income}}{\text{Average operating assets}}\\ \text{Net Income} = \text{Average operating assets} \times \text{Return on investment} {/eq}
+{eq}\begin{align} \text{Residual Income} &= \text{Net Income} - (\text{Average operating assets} \times \text{Required rate of return})\\ &= (\text{Average operating assets} \times \text{Return on Investment}) - (\text{Average operating assets} \times \text{Required rate of return})\\ &= \text{Average operating assets} \times (\text{Return on Investment} - \text{Required rate of return}) \end{align} {/eq}",Residual Income: The residual income is a performance evaluation metric of different divisions and their managers. It computes how much extra the division has earned over the required return.
+43,"Whenever an individual takes on a personal effort and receives money, this is reported as _____ income.",passive,earned,portfolio,excluded capital gains,B,"The correct answer is
+(b) earned.
+Earned income is based on personal effort because organizations pay for the skills applied by employees in assigned roles. Further, increased growth and affordability of education have enabled people to acquire innovative skills in diverse business and production sectors. Increased innovation has influenced the discovery of new systems and technologies that have influenced the evolution of the global economy. Therefore, employees in an organization are subjected to different salaries due to differences in their skill level.","Significance of Employment: Employment influences economic growth because it enhances the stability of the money supply. Besides, employees save the income earned from employment to invest and improve their living standards. In addition, most nations recently have engaged in trade treaties to minimize trade barriers and increase the employment rate in their economies."
+44,"Residual income (RI) is a performance evaluation that is used in conjunction with, or instead of, return on investment (ROI). In many cases, residual income is preferred to ROI because:","With RI, desirable investment projects will not be neglected by high return divisions.",RI is easier to compute than ROI.,"RI is a measure over time, while ROI represents the results for one period.",RI concentrates on maximizing a percentage return rather than absolute dollars of income.,A,"Let us discuss the alternatives:
+A. With RI, desirable investment projects will not be neglected by high-return divisions.
+This is the correct option. Because residual income uses a bench-mark return, divisions will be keen to accept any investment opportunity that beats the requirement, and not only those that offer super-large ROIs.
+B. RI is easier to compute than ROI.
+No, the opposite is probably true. To calculate Residual Income, you need the entity's cost of capital, and this can be complicated to calculate.
+C. RI is a measure over time, while ROI represents the results for one period.
+No, both measures apply to one period only.
+D. RI concentrates on maximizing a percentage return rather than absolute dollars of income.
+No, this is true of ROI. Residual income measures the difference between the actual dollar income and the minimum required dollar income.","Residual Income: An entity's residual income is the difference between its operating income and the required minimum operating income, calculated using its operating assets and cost of capital. Residual income is a popular performance measurement tool in responsibility accounting."
+45,What is the outcome when one calculates the residual income?,"$75,000","$45,000","$225,000","$100,000",A,"The correct answer is option a.
+Computation of residual income:
+{eq}\begin{align}
+
+\text{Residual income} &= \text{Operating income - Desired income}
+
+\end{align}
+
+{/eq}
+Particulars
+Amount
+Invested capital
+$1,500,000
+Minimum acceptable return
+× 15%
+Residual income
+$225,000
+{eq}\begin{align}
+
+\text{Residual income} &= \text{\$300,000 - \$225,000} = \$75,000
+
+\end{align}
+
+{/eq}
+The residual income is
+$75,000.",Residual Income: Residual income is the portion of the operating income left after subtracting the cost of capital. It is also referred to as the economic profit and is commonly used to measure performance.
+46,Residual income is NOPAT with an adjustment for _____.,standard cost variances,profit required for the level of investment in the investment center,taxes and depreciation,accounting distortions,B,"The correct option is
+(b.) profit required for the level of investment in the investment center.
+Residual income is the difference between the net operating profit after tax and the required return on capital employed.","Residual Income: We need to evaluate the performance of investments. For this, we use various measures that help us compare the multiple investments' performance. One such measure is residual income."
+47,Given the following data:,"$9,100",$0,"$15,600","$26,000",A,"The answer is a. $9,100
+The residual income is computed as follows:
+Average operating assets
+$65,000
+X Return on investment
+32%
+Net income
+$20,800
+Less: Required return on investment
+Average operating assets
+$65,000
+X Minimum required rate of return
+18%
+$11,700
+Residual income
+$9,100",Return on Investment: Return on Investment (ROI) is the ratio of the income of a related investment over the total amount that is invested. This ratio helps determine how much of the investment would return and its timeline.
+48,"Miami Corp. has an operating income of $120,000, average invested assets of $600,000, and a cost of capital of 7%. What is the residual income?","$166,667","$42,000","$78,000","$100,000",C,"Correct option is $78,000 (C).
+The calculation for residual income is shown below.
+Residual income = Operating income - (Average invested assets * Cost of capital)
+Residual income = $120,000 - ($600,000 * 7%)
+Residual income = $120,000 - $42,000
+Residual income = $78,000",Residual Income: Residual income can be defined as the leftover income after all the capital expenditure has been made by a company. Residual income = Operating income - (Average invested assets * Cost of capital)

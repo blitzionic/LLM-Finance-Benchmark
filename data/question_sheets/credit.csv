@@ -1,0 +1,488 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,3/15 net 45 means the seller gets a 3% discount if they pay in 15 days otherwise they must pay within 60 days of the invoice.,TRUE,FALSE,,,B,"The statement is false.
+The traders follow a very common tactic of providing trade credits to their customers, which helps them to maintain capital for their day-to-day productions and also helps in the expansion of their business. 3/15 net 45 is also trade credit given to the debtors. It helps the traders to get returns before the decided time from the debtors. The trade-credit given in this question has three elements which are:
+1. 3 shows the discount the debtor will get if they pay the trader before the time.
+2. 15 shows that the debtors are eligible for the discount only when they pay back within 15 days.
+3. net 45 means that if the debtor decides not to accept this offer, they are liable to pay the amount for goods taken on credit within 45 days.
+Now, this statement is wrong as the discount rate and the duration of 15 days to get the discount is right, but they are liable to pay the trader within 45 days and not 60 days which makes this statement false.",Trade Credit: When a trader passes the ownership of a product to the customer without getting instant cash but with a promise that the customer will pay back within a decided time is known as trade credit.
+2,"A {eq}\$20,000 {/eq}, 90-day, {eq}8\% {/eq} note payable was issued on November 1, 2015. Which of the following would be included in the journal entry required on the note's maturity date?","A credit to note payable for {eq}\$20,400 {/eq}.","A credit to cash for {eq}\$10,000 {/eq}.",A debit to interest expense for {eq}\$133 {/eq}.,A debit to interest payable for {eq}\$133 {/eq}.,C,"To answer this problem, we must consider the date when the note was issued and the maturity date of the note.
+The note was issued on November 1,2015. Since it has 90-day maturity, it is expected to be settled on January 30, 2016. Let us make the above necessary journal entries.
+Date
+Account Title
+Debit
+Credit
+Nov. 1
+Cash
+$20,000
+Notes Payable
+$20,000
+To record the issuance of the note.
+November 30
+Interest Expense
+($20,000 x 8% x 1/12)
+$133
+Interest Payable
+$133
+To record interest expense for November 2015.
+December 31
+Interest Expense
+$133
+Interest Payable
+$133
+To record interest expense for December 2015.
+January 30
+Note Payable
+$20,000
+Interest Payable
+$266
+Interest Expense
+(for January)
+$133
+Cash
+$20,399
+To record settlement of the note at maturity.
+Therefore, at maturity, the note payable, interest payable, and interest expense are all debited while cash is credited. So,
+the correct answer is option C. A debit to interest expense for $133.","Notes Payable: A note payable is considered a liability for the borrower, representing money that must be repaid to the lender. In accounting, notes payable are recorded on the borrower's balance sheet as a liability, while the lender records it as a receivable in their financial statements."
+3,"A business issued a $5,000, 60-day, 12% note to the bank. The amount due at maturity is:","$4,900 ","$5,000 ","$5,100 ","$5,600 ",C,"The amount due at maturity is
+c) $5,100
+.
+The business should start by determining the total interest on the note for 60 days using the following equation:
+{eq}\text{Interest on the note} = \dfrac{\text{Face value of the note × Interest rate }}{\text{Total period}} × \text{ Interest period}= \dfrac{\$5,000 × 12\%}{360\,days} × 60\,days = \$100 {/eq}
+With the interest on the note, the maturity value of the note can be computed as follows:
+Note's maturity value = Face value of the note + Total interest
+Note's maturity value = $5,000 + $100
+Note's maturity value = $5,100
+Note:
+A year is assumed to have 360 days.",Notes Payable: Notes payable refer to a financial instrument representing a promise by one party (the borrower) to repay the sum borrowed from the other party (the lender) at a future date. Notes payable are used in business transactions as a source of finance.
+4,"A business issued a $5,000, 60-day, 12% note to the bank. The amount due at maturity is:","$5,000.00 ","$4,900.00 ","$5,100.00 ","$5,600.00 ",C,"The correct answer is
+c) $5,100
+.
+The interest accrued for 60 days should be calculated before proceeding with the maturity value computations. Assuming a year to have 360 days, we have accrued interest computation below:
+{eq}\text{Interest on the note} = \dfrac{\text{Face value of the note × Interest rate }}{\text{Total period}} × \text{ Interest period}= \dfrac{\$5,000 × 12\%}{360} × 60 = \$100 {/eq}
+With the above computation, the maturity value of the note can be computed as follows:
+Note's maturity value = Face value of the note + Accrued interest
+Note's maturity value = $5,000 + $100
+Note's maturity value = $5,100",Accrued Interest: Accrued interest refers to the amount incurred from using the borrowed capital for a specific period but unpaid. It should be recognized as a liability until paid along with the principal repayment.
+5,"A sales invoice included the following information: merchandise price, $5,000; terms 1/10, n/eom. Assuming that a credit for merchandise returned of $600 is granted prior to payment, and that the invoice is paid within the discount period, what is the amount of cash received by the seller?","$4,656 ","$4,400 ","$4,356 ","$4,950 ",C,"The correct answer is
+option c. $4,356.
+Given information:
+Sales invoice = $5,000
+Sales return = $600
+Discount rate = 1%
+The credit condition 1/10 indicates that if payment is made within 10 days of the date on the invoice, the company will receive a 1% discount on the total amount payable (excluding the freight amount). The term n/EOM indicates that if the business does not pay within ten days, the full amount will be owed at the end of the month.
+Step 1: Determine the net sales, as given below:
+{eq}\begin{aligned} \text{Net sales } &=\text{ Sales invoice }-\text{ Sales return} \\ &=\$5,000-\$600 \\ &=\$4,400 \end{aligned} {/eq}
+Step 2: Determine the cash received by the seller, as given below:
+The discount will also be subtracted from the net sales because the payment was received during the discount period:
+{eq}\begin{aligned} \text{Cash received by seller} &=\text{ Net sales }-\left( \text{Net sales}\times \text{Discount rate} \right) \\ &=\$4,400\text{ }-\text{ }\left( \$4,400\text{ }\times \text{ }1\% \right) \\ &=4,400\text{ }-\$44 \\ &=\$4,356 \end{aligned} {/eq}
+Thus, the cash received by the sellers will be $4,356.","Credit Term: In accounting, credit terms are the terms of the contract between a buyer and a seller that specify the frequency and sum of the buyer's future payments. In the market, credit terms are defined by four elements: time, interest, amount, and default terms."
+6,"Alco Inc. has assets of $100,000 and multiple bonds payable. Which of the following has the senior claim to Alco Inc.s assets in the event of bankruptcy?",Preferred stockholders.,Common stockholders.,Bondholders.,Owners.,C,"The correct answer is option c. Bondholders.
+As a general, the highest priority of claims in times of bankruptcy is the external creditors, then the internal one. In the event of bankruptcy, bondholders have the senior claim to a company's assets compared to stockholders (preferred and common) and owners. This is because bonds are considered debts owed by the company, and debt holders have a higher priority in the repayment hierarchy during bankruptcy proceedings. After bondholders are paid, any remaining assets can be distributed to preferred stockholders, followed by common stockholders and, finally, owners (if any assets remain).
+Accordingly, when we arranged the order of priority for the claim, the following is the order.
+c. Bondholders.
+a. Preferred stockholders.
+b. Common stockholders.
+d. Owners.
+Therefore,
+the correct answer is option c. Bondholders.","Bankruptcy: In business and finance, bankruptcy refers to legal steps through which individuals or businesses that are unable to repay their outstanding debts can seek financial relief and protection from their creditors."
+7,"Coronado Industries borrowed $410,000 on April 1. The note requires interest at 12% and principal to be paid in one year. How much interest is recognized for the period from April 1 to December 31?",$0 ,"$32,800 ","$36,900 ","$49,200 ",C,"The correct answer is
+c. $36,900
+.
+Coronado Industries should use the following inputs to determine the interest on the note to be recognized as on December 31:
+Face value of the promissory note = $410,000
+Interest rate = 12%
+Accrual period = 9 months (April 1 - December 31).
+Upon arranging these inputs logically, we have the following number:
+Interest on the note = Face value of the note × Interest rate × {eq}\dfrac{9}{12} {/eq}
+Interest on the note = $410,000 × 12% × {eq}\dfrac{9}{12} {/eq}
+Interest on the note = $36,900",Interest Computation: Interest should be accrued when it is not payable in the same period. The accrual should be for the time the interest is due and at the rate at which the lender charges the borrower on the loan amount.
+8,"If a supplier is offering trade credit of 1/10 net 30, and a buyer chooses not to take the discount, when should they pay, assuming that they wish to stay on good terms with the supplier?",any time before day 10,on day 10,any time after day 30,on day 30,D,"The correct answer is option D), i.e., on day 30.
+The trade-credit that the supplier is offering simplifies into that the customer will get a discount of 1% on payments for the goods purchased on credit if paid on or before the 10th day of the purchase; otherwise, the customer is liable to pay the full payment for the goods purchased on credit on or before 30 days. Now, it is given that the buyer chose to forgo the discount, which means that the buyer will not pay within or on the 10th day of the purchase, and therefore, now the buyer has 20 days left (30 days-10 days) to make the full payment to stay on good terms with the supplier. So, this deducts options A and B because the buyer has decided to forgo the discount as given in the question.
+Option C is that the buyer will pay any time after day 30, which will defer the buyer's payment as the payment will be made after the period decided for trade credit and can form bad terms between the buyer and the supplier.
+Option D, which is on day 30, if the buyer pays the amount, it will mean the trade credit terms have been followed, and the buyer has paid the supplier within time, and hence, it will form good terms between both parties.","Trade Credit: Trade credit is when the buyer and seller exchange goods where the seller shifts the ownership of the goods to the buyer, and the buyer promise to pay the amount for the goods on a future date."
+9,"Madison Bank lends Neenah Paper Company $120,000 on January 1, 2017. Neenah signs a $120,000, 5%, 6-month note. The journal entry made by Neenah on January 1, 2017, will debit:","Cash for $120,000 and credit Notes Payable for $120,000.","Cash for $114,000 and credit Note Payable for $114,000.","Interest Expense for $6,000 and credit Cash for $6,000.","Interest Expense for $6,000 and credit Interest Payable for $6,000.",A,"The correct answer is
+A. Cash for $120,000 and credit Notes Payable for $120,000
+.
+Neenah Company has borrowed funds from the bank by issuing them a note. The transaction results in an inflow of cash of $120,000 and a creation of a liability to pay the bank. The entry to record the transaction is given as follows:
+Date
+Account Title
+Debit
+Credit
+January 1, 2017.
+Cash
+$120,000
+Notes Payable
+$120,000
+Note:
+The interest payment will be made after six months and will not impact the transaction as of January 1. Also, the transaction will be recorded at face value of the note, which is $120,000 and not $114,000.","Promissory Note: A promissory note contains, in writing, a promise made by the issuer of the note to duly pay the face value of the note, along with interest accrued on it, on a specified and agreed-upon date in the future."
+10,"On June 5 Glover Co. issued a $60,000, 6%, 120-day note payable to Jones Co. How much will Glover Co. have to pay at maturity?","$63,600.00 ","$58,800.00 ","$60,000.00 ","$61,200.00 ",D,"The correct answer is
+d. $61,200
+.
+The maturity value of the note includes the principal amount and the accrued interest.
+The accrual of interest on the note is calculated using the following inputs:
+Face value of the note = $60,000
+Interest period = 120 days
+Days in a year (Assumed) = 360
+Interest rate = 6%
+Upon the logical arrangement of these inputs, we have the following output:
+Interest on the note = Face value of the note × Interest rate × {eq}\dfrac{120}{360} {/eq}
+Interest on the note = $60,000 × 6% × {eq}\dfrac{120}{360} {/eq}
+Interest on the note = $1,200
+Based on this computation, we can determine the note's maturity value:
+Note's maturity value = Face value of the note + Interest on the note
+Note's maturity value = $60,000 + $1,200
+Note's maturity value = $61,200","Interest: When a company borrows through loans or negotiable instruments, it should pay the cost of borrowing along with the principal repayment. The borrowing cost is called interest, which is tax-deductible. It is a non-operating expense found on the income statement."
+11,"On March 1, 2016, Mandau Services issued a 3% long-term note payable for $15,000. It is payable over a 3-year term in $5,000 principal installments on March 1 of each year, beginning March 1, 2017. Each yearly installment will include both principal repayment of $5,000 and an interest payment for the preceding one-year period. What is the amount of total cash payment that Mandau will make on March 1, 2017?","$15,000 ","$5,000 ","$5,225 ","$5,450 ",D,"The correct answer is
+d. $5,450.
+Given information:
+3% Long-term note payable value = $15,000
+Interest rate = 3%
+Principal repayment installment amount = $5,000
+Step 1:
+A note payable was issued on March 1, 2016, and the first cash payment is to be made on March 1, 2017, which is 1 year later. Therefore, the interest is calculated for the whole year. The interest payable on the long-term note payable is calculated below.
+{eq}\begin{align*}{\rm\text{Interest on long - term note payable}}& = {\rm\text{Note payable value}} \times {\rm\text{Interest rate}}\\ &= \$ 15,000 \times 3\% \\ &= \$ 450\end{align*} {/eq}
+The interest on the long-term note payable is $450.
+Step 2:
+The total cash payment is calculated as the given monthly installment of $5,000 plus the computed interest of $450.
+Particulars
+Amount
+Principal repayment installment amount
+$5,000
+Add: Interest on note payable
+$450
+Total cash payment on March 1, 2017,
+$5,450.
+The cash payment on March 1, 2017, is
+$5,450.","Long-term Note Payable: The long-term note payable refers to the monetary obligation a business is bound to discharge after the tenure of the note payable or a predetermined time, along with an excess payment for interest."
+12,"On May 1, Kingston Company received a $6,000, 10%, four-month note receivable. The cash to be received by Kingston Company when the note becomes due is:","$6,200.00 ","$6,600.00 ",$200.00 ,"$6,000.00 ",A,"The correct answer is
+a. $6,200
+.
+Given information:
+Value of note= $6,000
+Rate of interest= 10%
+Number of months = 4
+The total cash due is determined by adding the value of the note and the interest on it.
+Step 1: The interest on note is calculated below:
+{eq}\begin{aligned} \text{Interest on Note} &=\text{Value of Note} \times \text{Rate of Interest} \times \frac{\text{Number of Months}}{\text{Total Number of Months in a Year}} \\ &= \$6,000 \times 10\% \times \frac{4}{12}\\ &=\$200 \end{aligned} {/eq}
+The interest on note is $200.
+Step 2: The cash to be received is calculated below:
+{eq}\begin{aligned} \text{Cash to be Received} &=\text{Value of Note} + \text{Interest on Note} \\ &= \$6,000 + \$200\\ &=\$6,200\end{aligned} {/eq}
+The cash to be received when the note becomes due is $6,200.","Notes Receivable: Debts owed by customers to the company are referred to as notes receivable. The note clearly lays out all of the terms and conditions, and the notes receivable are shown as assets on the balance sheet."
+13,Sales to customers who use bank credit cards such as MasterCard and Visa are usually recorded by a(n):,"decrease in Bank Credit Card Sales, increase in Credit Card Expense, and increase in Sales.",increase in Cash and increase in Sales.,"increase in Cash, decrease in Credit Card Expense, and increase in Sales.","decrease in Sales, increase in Credit Card Expense, and decrease in Cash.",B,"When a customer uses bank credit cards as a payment for goods and services acquired, the seller must record the said sales as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Cash
+xx
+Credit Card Expense
+xx
+Sales
+xx
+To record receipt payment.
+The credit card expense is an expense the servicing bank charges as a form or service fee. The bank usually charges it to the seller. Therefore, the correct answer is option
+b. increase in Cash and increase in Sales.
+Note that credit card expense increases, not decreases.","Credit Cards: In business and finance, using credit cards provides convenience by allowing cardholders to make purchases without carrying cash or a checkbook. It can also be used to manage finances."
+14,"Taking advantage of a 2/10, n/30 purchases discount is equal to a yearly savings rate of approximately:",24%,20%,36%,2%,C,"The correct answer is
+option c. 36%.
+Given information:
+Discount percentage: 2% (2/10 means 2% discount if paid within 10 days)
+Credit days: 30 (n/30 means net (full) amount should be paid within 30 days)
+Discount days: 10
+Determine the yearly savings rate by dividing the number of days in a year by the difference between credit days and discount days and then multiplying the resultant by the discount rate:
+{eq}\begin{aligned} \text{Yearly savings rate} &=\text{Discount rate}\times \frac{\text{Number of days in a year}}{\text{Credit days}-\text{Discount days}} \\ &=2\%\times \frac{360}{30-10} \\ &=2\%\times 18 \\ &=36\% \end{aligned} {/eq}
+Hence, the yearly savings will be 36%.","Credit Terms: When goods are sold on credit, certain credit terms are already agreed upon by the parties concerned, such as the payment date, cash discount, interest rate, installment amount, and timings. It is crucial to decide the credit terms in advance to avoid encountering any irregularities and inconsistencies later."
+15,"The company needs more time to pay a $5,000 accounts payable and a 120-day, 10% note was issued. The journal entry to record this would include a credit to:",accounts payable.,sales tax payable.,cash.,note payable.,D,"The correct answer is
+d. note payable
+.
+In the given situation, the company borrows time by canceling the accounts payable and issuing a new note for the amount due, payable on the due date, along with accrued interest. The following entry should be recorded for this transaction:
+Date
+Account Title
+Debit
+Credit
+Accounts Payable
+$5,000
+Notes Payable
+$5,000
+Accounts payable have a credit balance, and to cancel them, we should debit the account and create a new liability by crediting notes payable.","Negotiable Instruments: An important feature of negotiable instruments is their negotiability, meaning they can be transferred to another party who becomes the new owner of the instrument. Checks, promissory notes, and bills of exchange are a few examples."
+,,,,,,,,
+17,The due date of a 60-day note dated July 12 is:,September 11.,September 8.,September 9.,September 10.,D,"The correct answer is
+d. September 10
+.
+A note's maturity date refers to the specified deadline by which the principal amount of the note must be repaid in full, along with any accrued interest, to the holder of the note. The key inputs in determining the note's maturity date include:
+Note issuance date = July 12
+Note period = 60 days
+The note's maturity date is September 10, as determined below:
+Month
+Days in each month to cover the note period
+July
+19 days
+August
+31 days
+September
+10 days
+Note term
+60 days","Notes Payable: Notes payable refers to a written promise by a borrower to repay a specific amount of money, along with any agreed-upon interest, to the lender on a predetermined future date. It represents a liability for the borrower and an asset for the lender."
+18,"The interest charged on a $100,000 note payable, at the rate of 8%, on a 90-day note would be:","$8,000.00 ","$4,444.00 ","$2,000.00 ",$667.00 ,C,"The correct answer is
+c. $2,000
+.
+The inputs needed to calculate the interest on notes payable are listed below:
+Face value of the note = $100,000
+Note period = 90 days
+Days in a year = 360 (Assumed)
+Interest rate = 8%
+The inputs when arranged logically, give us the desired metric:
+Interest on the note = Face value of the note × Interest rate × {eq}\dfrac{90}{360} {/eq}
+Interest on the note = $100,000 × 8% × {eq}\dfrac{90}{360} {/eq}
+Interest on the note = $2,000","Accrued Interest: Accrued interest computation determines the interest incurred and accumulated on a loan or investment over the note period. The main inputs to compute the metric are the interest rate, principal amount, and time elapsed since the last interest payment."
+19,The lender of a note recognizes a note receivable on the balance sheet and interest revenue on its income statement.,TRUE,FALSE,,,A,"The correct answer is option a. True.
+When a lender issues a note, they recognize a note receivable on their balance sheet, reflecting the amount owed to them by the borrower. As the borrower makes interest payments, the lender will record interest revenue on their income statement. It represents the income earned from lending the money to the borrower.
+Usually, when this transaction occurs, this must be recorded in the company's book as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Notes Receivable
+xx
+Cash
+xx
+To record the issuance of notes.
+Interest Receivable
+xx
+Interest Revenue
+xx
+To record accrual of interest.","Note Issuance: Note issuance refers to the process of creating and issuing a promissory note, which is a financial instrument or a written agreement between two parties - a borrower and a lender."
+20,"The management of Patricia's Paddle Boats has proposed to reorganize the firm. The proposal is based on a going-concern value of {eq}\$2,100,000 {/eq}. The proposed financial structure is {eq}\$1,000,000 {/eq} in new mortgage debt, {eq}\$100,000 {/eq} in subordinated debt, and {eq}\$1,000,000 {/eq} in new equity. All creditors, both secured and unsecured, are owed {eq}\$2,500,000 {/eq}. Secured creditors have a mortgage lien for {eq}\$1,300,000 {/eq} on the factory. The corporate tax rate is {eq}34\% {/eq}. What will the equity holders receive if they had 5 million shares with a par value of {eq}\$0.50 {/eq} each?",{eq}\$0 {/eq}.,"{eq}\$35,714 {/eq}.","{eq}\$583,333 {/eq}.","{eq}\$1,000,000 {/eq}.",A,"The new financial structure will be worth $2,100,000. All creditors are owed $2,500,000. As the secured creditors and unsecured creditors have a higher claim over equity holders in an event of liquidation or reorganization, the equity holders will not receive anything as the total worth of the company before restructuring is $5,000,000($2,500,000 + 5,000,000 * $0.50) and the new financial structure is only worth $2,100,000. Hence, the correct answer is
+a. {eq}\$0 {/eq}.","Capital Structure Reorganization: A company might need to rearrange its capital structure if the management thinks the present structure is not giving the desired results. By rearranging, the debt-equity mix, the company may get an optimum capital structure which will optimize the company's future operations and performance."
+21,The party promising to pay a note at maturity is the payee.,TRUE,FALSE,,,B,"The statement is
+b) False
+.
+There are two parties to a note:
+Maker
+Acceptor or Payee
+The maker, also called the borrower, is the person who issues a note to the lender against a borrowed sum. The payee is the party to whom the payment should be made at a predetermined future date.",Promissory Note: A promissory note is a legally binding document that contains a written promise from one party to pay a specific sum of money to another party at a specified future date. It is a negotiable instrument that is also a source of credit for businesses.
+22,The time frame when customers are allowed to pay their bills and still be eligible for a discount is the:,credit period,discount period,closing period,due date,B,"The correct answer is
+B. discount period.
+To encourage customers to pay their bills on time, the suppliers often offer a cash discount if the bill is paid within a specific time period. This time frame when a customer can pay a bill and be eligible for a discount is called the discount period.
+The other options are incorrect.
+A.
+Credit period:
+The total time period within which the customer needs to pay the invoice amount is called the credit period. During this time, no interest is charged on the outstanding invoice amount.
+C.
+Closing period:
+This is a term associated with credit cards and refers to the last of the billing cycle.
+D.
+Due date:
+This term is also associated with credit cards and refers to the last date when the credit card bill must be paid to avoid interest charges. However, usually, no discount is offered for paying the bill on or before the due date.","Terms of Payment: Trade credit is an important part of every business. It enables a business to acquire the required materials without making an upfront payment. However, the trade credit is granted on strict terms. The terms on which the credit is granted are called the terms of payment."
+23,"What is the nominal cost of trade credit if the terms are 3/10, net 40 assuming that customers forego the discount and pay on the 40th day?",35.90%,36.40%,37.60%,38.20%,C,"The correct answer is option c.
+Given information:
+The discount rate is 3%.
+The discount days are 10 days.
+The full payment days are 40 days.
+Assuming 365 days in a year.
+Calculation of the nominal cost of trade credit:
+The nominal cost of trade credit is a method used for computing the cost of the trade credit. It can be assessed with the help of the rate and days specified.
+{eq}\begin{align*}{\rm\text{Nominal cost}} &= \left( {\frac{{{\rm\text{Discount rate}}}}{{1 - {\rm\text{Discount rate}}}}} \right) \times \left( {\frac{{365}}{{{\rm\text{Full payment days}} - {\rm\text{Discount days}}}}} \right)\\ &= \left( {\frac{{3\% }}{{1 - 3\% }}} \right) \times \left( {\frac{{365}}{{40 - 10}}} \right)\\ &= 0.03 \times 12.6\\ &= 37.8\end{align*} {/eq}
+Therefore, the nominal cost of trade credit is 37.8%.
+This is not given in the above options, so taking the nearest value is 37.6%.",Trade credit: A type of credit that results from normal business dealings including credit purchases and unpaid bills is regarded as trade credit. The supplier company offers the buying company credit terms facilities.
+24,Which of the entities listed is not subject to an involuntary bankruptcy petition?,A municipality.,A partnership.,A wholesaler company.,A retailing corporation.,A,"The correct answer is
+a. A municipality.
+When businesses invest in their people by hiring smart people, training them well, and keeping them happy, they can provide superior service to their clientele, which in turn increases their satisfaction and loyalty. The Novel Nook should hire people who are enthusiastic about books and reading, provide extensive training opportunities, and prioritize employee happiness through fair pay, a welcoming environment, and ample room for professional development.
+The other answer options are incorrect.
+b. A partnership.
+If the partnership is unable to pay its debt, creditors can file an involuntary bankruptcy petition.
+C. A wholesaler company
+. This option is not correct because, like other private entities, a wholesaler company can also file an involuntary petition for bankruptcy.
+d. A retailing corporation.
+This option is not correct because retail corporations are private entities, and if they fail to meet their obligations, they can file an involuntary bankruptcy petition.","Involuntary Bankruptcy: Involuntary bankruptcy occurs when the creditor (the party who lends money) files for bankruptcy because the company is not able to pay its debt. The court processes the petition, and the debts are paid from the liquidation of the company's assets."
+25,Who typically receives first priority when resources are divided as part of a business's liquidation?,Stockholders,Owners,Creditors,Managers,C,"The correct answer is option C: Creditors.
+When a business is liquidated, the resources obtained from selling off its assets are distributed among the various entities that the business owes money to, and creditors are most always given first priority. According to the absolute priority rule in bankruptcy law, distribution of resources goes in the following order:
+Secured and unsecured creditors
+Stockholders
+That is, only
+after
+satisfying all the debts and obligations to creditors are any remaining assets divided among stockholders or owners.
+Below are the reasons why the other answer choices are incorrect.
+Choice A:
+Stockholders are individuals or companies that hold shares in the company. As mentioned above, the absolute priority rule lists them as second after creditors in order of asset distribution when a business is liquidated. Therefore, they receive second priority as opposed to first priority.
+Choice B:
+Most owners of a company are stockholders of the company. Hence, once again referring to the absolute priority rule, they receive second priority as opposed to first priority during liquidation.
+Choice D:
+Managers within a company are employees of that company. Hence, during a business liquidation, they don't generally receive any of the resulting resources. The only exception to this is if a manager holds stock in the company in which they are employed making them a shareholder, but managers in general do not receive any priority when dividing resources upon a businesses liquidation.","Business liquidation: Business liquidation is similar to individual bankruptcy, but it is specific to businesses. That is, when a business comes to a point where they can no longer meet their financial obligations, they may choose to liquidate. When this happens, the business liquidates its assets in order to pay those financial obligations that they otherwise could not. Closing of the business usually follows shortly after a liquidation."
+326,A company has the following balance sheet:,"$50,000 ","$100,000 ","$150,000 ","$200,000 ",B,"The correct option is b.
+To calculate the estimated deficiency, first the balance after considering the mortgage payable is calculated as follows:
+Net realizable value of plant and equipment
+$350,000
+Less: Mortgage payable
+$300,000
+Balance available to pay off creditors
+$50,000
+Thus balance available after considering the mortgage payable is $50,000.
+Now calculation of the Estimated deficiency is as follows:
+Loans payable
+$150,000
+Less: Balance available after mortgage payable
+$50,000
+Estimated deficiency
+$100,000
+Hence, the estimated deficiency is $100,000.",Bankruptcy: Continuous losses could lead the companies to a situation called Bankrupt. Bankruptcy makes companies incapable of discharging their dues and hence the companies shut down their operations.
+327,"Ayayai Corp. purchased merchandise inventory with an invoice price of $18,000 and credit terms of 2/8, n/30.","$17,640 ","$18,000 ","$17,726 ","$13,680 ",A,"The correct option is (a)
+Determining the net cost of the goods:
+Particulars
+Amount
+Invoice price of the goods (A)
+$18,000
+Less: Discount @2% ($18,000*2%)
+$360
+Cost of goods (A-B)
+$17,640
+Hence, the net cost of the goods if Ayayai Corp. pays within the discount period is $17,640
+Note: The discount is paid as Ayayai Corp. makes payment within the credit period.","Invoice: Whenever a buyer purchases goods from the seller, the buyer gets a document that lists all the details of the purchased goods with the amount of the merchandise, which is the invoice."
+328,"Company A sells $600 of merchandise on account to Company B with credit terms of 2/10, n/30. If Company B remits a check taking advantage of the discount offered, what is the amount of Company B's check?",$588 ,$600 ,$540 ,$560 ,A,"The credit terms extended to Company B are 2% off is paid in 10 days (2/10) with the balance in full due within 30 days (n/30). To find the check from Company B within the discount period, we multiply the amount due by 98% (100% - 2%)
+$600 × 98% =
+a. $588","Invoice Terms: An invoice is a document generated by a vendor to inform the customer that an order or service is fulfilled and requesting payment. When an invoice is sent, the invoice terms determine what amount is due and when that amount is due."
+329,The maturity date of a note payable is:,The date of the credit purchase.,The date the note was signed and replaced the account payable.,The day the note is due to be repaid.,The last day of the month.,C,"The maturity date of a note payable is
+c. the day the note is due to be repaid.
+For example, a note that is taken out on January 1st, 2023 and due on June 30th has a maturity date of June 30th. The repayment owed on this date is principal plus any interest accrued on the loan.
+Analysis of Alternatives
+a. The date of the credit purchase is the purchase date.
+b. The date the note was signed and replaced the account payable is the issue date.
+d. The last day of the month is the end of the month.","Note Payable: A note payable is issued to recognize a debt owed to an outside party. Unlike accounts payable, the terms usually include interest terms. The interest accrued on the note is recognized during the life of the note and, if the note's interest is due in a future period, it is accrued by adjusting entries."
+365,"A customer purchased a $2,200 item at ApplianceWorld, paying with a credit card. ApplianceWorld is charged a 3% fee by the credit card company. When recording this sale, ApplianceWorld would:","debit accounts receivable for $2,200.","credit unearned sales revenue for $2,200.","credit sales revenue for $2,134.","credit sales revenue for $2,200.",D,"The correct answer is option
+(d)
+.
+Appliance World will enter an entry that is a debit to Cash for $2,134 ($2,200 - $66), a debit to Credit Card Expense for $66 and a credit to Sales for $2,200, to record the sales by credit card.
+Calculation of credit card expense:$$\begin{align*}
+
+{\rm\text{Credit card expense}} &= {\rm\text{Sale value}} \times {\rm\text{credit card charge}}\% \\
+
+&= {\rm\text{\$ 2,200}} \times {\rm\text{3}}\% \\
+
+&= {\rm\text{\$ 66}}
+
+\end{align*}
+
+$$","Credit card expense One of the most popular methods of payment when a customer buys something from the market is a credit card. The credit card provider levies a fee that must be paid by the merchant. As a result, the person selling the thing must pay for it."
+366,"A trade credit bill of {eq}\$80,000
+
+{/eq} with terms of sale of 2/5, net 30 means the buyer saves _____ if the bill is paid within the discount period.","{eq}\$0
+
+{/eq}.","{eq}\$1,600
+
+{/eq}.","{eq}\$2,500
+
+{/eq}.","{eq}\$4,000
+
+{/eq}.",B,"The correct answer is
+b. {eq}\$1,600
+
+{/eq}.
+A sale term of 2/5 net 30 means that the credit period is 30 days but if the debtors pay within 5 days, they get a discount of 2% on the bill amount of $80,000. Hence, the buyer will save $80,000 x 0.02 = $1,600",Trade Credit: Trade credits are sources of short-term financing and serve as a lifeline for small business holders. Trade credits help them gain debtor trust and build their business. The terms of trade credits have to be changed from time to time to avoid lag in receiving payments.
+367,"Holmes Company received payment from a customer within the discount period; the payment terms of the sale were 2/10, n/30. The journal entry to record this transaction is:","Debit Accounts Receivable $9,800; debit Sales Discounts $200; credit Cash $10,000.","Debit Cash $10,000; credit Sales Discounts $200; credit Accounts Receivable $9,800.","Debit Accounts Receivable $10,000; credit Cash $9,800: credit Sales Discounts $200.","Debit Cash $9,800; debit Sales Discounts $200; credit Accounts Receivable $10,000.",D,"The discount period on the invoice of 2/10 means that 2% is taken off the total if paid within 10 days. The journal entry to record the receipt of cash is
+D.Debit Cash $9,800; debit Sales Discounts $200; credit Accounts Receivable $10,000
+Analysis of Alternatives
+A. and C. Both credit Cash when cash is received and can be dismissed as the answer.
+B. The cash received is the amount due, less the discount, so it should be a debit for $9,800 not $10,000.",Invoice: An invoice is a request to a customer for payment for goods or services rendered. Invoices are extensions of credit that include terms of credit such as payment dates and discount periods.
+368,Lines of credit are short-term loans that are secured by collateral.,TRUE,FALSE,,,B,"The statement is
+FALSE.
+A lender usually offer a line of credit to existing customers who have a strong financial stability and a good payment history. Thus, most lines of credit are unsecured loans.",Open-End Credit: The open-end credit refers to a financing option that the borrower is assigned a credit limit and can spend up to the given limit. Interest will be charged on the borrowed fund. There are two common types of open-end credit: credit cards and lines of credit.
+369,Making a credit card minimum payment:,Means you are paying a small portion of your total credit card debt,Is the same thing as making a late credit card payment,Will have a negative effect on your credit score,Will cause your credit card to be canceled,A,"The correct option is
+A. means you are paying a small portion of your total credit card debt
+.
+A credit card is a type of card from which a person can make their purchases in the present period with a promise for its repayment in the future with a minimum amount. Thus, it can be stated that making a minimum credit card payment is a small fraction of the total credit card debt paid by a person each month.","Loan: In economics, a loan is the sum of money that a person takes from the bank with a promise of its future repayment in a series of payments that can be made each month."
+370,Negative aspects of using credit include which of the following?,The use of credit allows you to own expensive products sooner.,Negative aspects of using credit include both loss of financial flexibility and overspending.,The use of credit often leads to overspending.,The use of credit results in the loss of financial flexibility in personal money management.,B,"The correct answer is:
+B. Negative aspects of using credit include both loss of financial flexibility and overspending.
+One must use credit on things that will add value to their life, career, or business. When one borrows more money than they need, they might be tempted to spend it on things they do not need. This can cause them a great burden in the long run when servicing the credit. It also denies them financial flexibility regarding personal money management and generally reduces their quality of life.
+Reasons for other incorrect options:
+Using credit to acquire expensive products is simply a bad use of credit. Options (c) and (d) are both parts of the correct answer to this question.","Credit: As part of growth, organizations and individuals often find themselves in a situation where they need more money than they have. In these cases, it is prudent to access one's needs and determine the reasons for borrowing."
+371,"On February 3, Smart Company sold merchandise in the amount of $5,800 to Truman Company with credit terms of 2/10,n/30. The cost of the items sold is $4,000. Truman pays the invoice on February 8 and takes the appropriate discount. The journal entry Smart records on February 8 is:","Debit Cash $5,800, credit Accounts Payable $5,800.","Debit Cash $4,000, Accounts Receivable $4,000.","Debit Cash $3,920, credit Sales Discount $80, credit Accounts Receivable $4,000.","Debit Cash $5,684, debit Sales Discount $116, credit Accounts Receivable $5,800.",D,"We begin by finding the amount of the discount that can be taken by Truman Company:
+$5,800 × 2% = $116
+This means that the company will enter
+D. Debit Cash $5,684, debit Sales Discount $116, credit Accounts Receivable $5,800.","Accounts Receivable Turnover: Accounts receivable turnover refers to the rate at which the balance of outstanding invoices, on average, take to be paid. One change that can improve the A/R turnover ratio is the use of a discount which incentivized early payment."
+372,"Spruce Company purchased $8,250 of merchandise on October 1 with terms 1/10, n/30. On October 3, it returned $1,250 worth of merchandise. On October 10, Spruce paid the full amount due. The amount of the discount Spruce recorded was:",$70.00 ,$1.25 ,$700.00 ,$12.50 ,A,"The correct option is A. $70.00 .
+The terms of the invoice of 1/10, n/30 mean that the buyer is entitled to a 1% discount if the invoice is paid within 10 days, and the invoice must be paid within 30 days.
+Spruce paid the invoice on the 10th day, so it can take a 1% discount on the amount outstanding:
+Total purchase price
+$8,250
+Purchase returns
+(1,250)
+Total amount due
+$7,000
+Discount
+= $7,000 × 0.01
+$70
+Amount paid
+$6,930",Invoice Terms; Invoice terms are the payment conditions that are stated on an invoice for sales on account. These terms detail when the last date to pay an invoice is and if there is a settlement discount available to the buyer.
+,,,,,,,,
+374,The supplier's invoice is the source document for a purchase on credit transaction.,TRUE,FALSE,,,A,"The given statement is true.
+The supplier's invoice is the source document for a purchase made with credit.
+Supplier invoices are sales invoices and bills that the providing vendor issues and the purchasing client receives. Customers also call vendor invoices supplier invoices.
+The buyer and seller's transaction is itemized on a supplier invoice. The invoice will often outline the payment conditions and offer several ways to make payments if the seller gave the customer credit in exchange for the transaction.","Invoice: A time-stamped business document known as an invoice lists the specifics of a transaction between a buyer and a seller and records it. Usually, the invoice details the conditions of the contract."
+375,"Town Crier has 10 million shares of common stock outstanding, 2 million shares of preferred stock outstanding, and 10 thousand bonds. If the common shares are selling for $28 per share, the preferred shares are selling for $15.50 per share, and the bonds are selling for 97 percent of par, what would be the weight used for debt in the computation of Town Crier's WACC?",3.02%,3.12%,3.20%,3.33%,A,"The correct option is (a) i.e. 3.02%
+The weightage of debt is calculated:
+{eq}{\rm\text{WD}} = \frac{{\rm\text{D}}}{{\rm\text{V}}}
+
+{/eq}
+Where, WD = weightage of debt
+D = Market value (MV) of debt, and
+V = Market value (MV) of combined capital
+{eq}\begin{align*}{\rm\text{MV of common shares}} &= {\rm\text{No}}{\rm\text{. of shares}} \times {\rm\text{Cost per share}}\\ &= 10{\rm\text{ million}} \times {\rm\text{\$ 28}}\\ &= \$ 280{\rm\text{ million}}\end{align*}
+
+{/eq}
+{eq}\begin{align*}{\rm\text{MV of preferred share}} &= {\rm\text{No}}{\rm\text{. of share}} \times {\rm\text{Cost per share}}\\ &= 2{\rm\text{ million}} \times {\rm\text{\$ 15}}{\rm\text{.50}}\\ &= \$ 31{\rm\text{ million}}\end{align*}
+
+{/eq}
+{eq}\begin{align*}{\rm\text{MV of Debt}} &= {\rm\text{No}}{\rm\text{. of bonds}} \times {\rm\text{Selling price at par}} \times {\rm\text{Cost price}}\\ &= 10,000 \times 0.97 \times \$ 1,000\\ &= \$ 9.7{\rm\text{ million}}\end{align*}
+
+{/eq}
+{eq}\begin{align*}{\rm\text{WD}} &= \frac{{\rm\text{D}}}{{\rm\text{V}}}\\ &= \frac{{\$ 9.7}}{{\left( {\$ 9.7 + \$ 31 + \$ 280} \right)}}\\ &= 3.02\% \end{align*}
+
+{/eq}
+Therefore, the weight of debt in the computation of WACC is calculated at 3.02%.",Weightage of debt: Weightage of debt refers to the total market value of the combined capital of the company over the debt percentage of the company. It represents the cost incurred by the company during a year.
+376,What do credit bureaus do?,They share information with each other.,They lend money to people who are members of the credit bureau.,They collect and provide credit information.,They make decisions regarding who should get credit.,C,"The correct answer is
+C. They collect and provide credit information.
+Money lenders assess the default risk of a client before lending them money. However, they don't have the credit data of all their customers. This is where credit bureaus come in. They collect information about different accounts from different creditors, organize it, and offer it to creditors at a fee. This way, the credit bureaus make money, and creditors have the data they need on their customers.","Credit Bureaus: Before a creditor can give an individual a loan, they need to know some facts about their financial health. They need to do this to establish whether one will be able to return the money they lend them."
+377,What is a credit card balance?,The amount of interest you must pay the credit card company,The required minimum payment to your credit card company,A way to track your incoming and outgoing purchases,The amount of money you still owe to the credit card company,D,"The correct answer is D. the amount of money an individual owes to a credit card company is a credit card balance. Accounts activity determines the changes in an individual's account. A balance increases when purchases are made using a credit card, while a decrease is recorded when a payment is made.
+Options A, B, and C are incorrect. According to the terms and agreements, the credit card company charges card members a credit card interest. In each billing cycle, an account holder must keep the account's status 'current' rather than 'late' and pay the lowest amount, the credit card minimum payment. Tracking credit card spending is done using the online account review of transactions or credit card apps.","Credit: In economics and the financial world, credit is obtained from financial institutions as an agreement between the borrower and the financial institution. Before extending credit to borrowers, traders have to make decisions based on financial records about the borrower."
+378,"When a company defaults on a secured debt, it is rare for the secured asset to be sold and the proceeds distributed to the debtor.",TRUE,FALSE,,,A,"The statement is
+TRUE.
+The secured asset will be liquidated to resolve the debt obligation for the creditors. The remainder of the net proceeds from selling the asset will be distributed to the firm's owners.","Secured Debt: A secured debt is a loan that is backed by property. Usually, the loan amount must be less than the appraised value of the property when the lender approves the loan. Usually, a lender will require collateral if the loan amount is significant."
+379,"When evaluating credit, a customer who has sufficient disposable income and cash flow to pay off a loan is said to have:",Capacity.,Creditworthiness.,Character.,Collateral.,A,"The correct answer is
+option A) Capacity.
+A) The ability of a person who obtains debt to repay it from future income and cash flows is referred to as capacity. When analysing credit, a person's ability is assessed by determining whether or not they have the finances to repay the loan. Hence, the correct answer is option (A).
+B) Creditworthiness is the perception of a person or corporation as being appropriate for financial credit, typically based on their historical regularity in repaying the money. Here, the sufficiency of income in the future is tested. So, option (B) is incorrect.
+C) Character refers to an individual's personal and social attributes, which define themselves. The given situation does not examine the character. Hence, option (C) is incorrect.
+D) Collateral is an asset that is provided by the borrower as a guarantee for loan repayment and is taken away in the event of non-payment.","Disposable Income: Disposable income is the leftover money earned by an individual or company which can be spent or saved by them in the manner they wish. It is derived after meeting all the expenses, dues, deductions and taxes."
+380,Which is least important to maintaining a healthy credit score?,Making on-time payments,Checking your credit report annually,Knowing your exact credit score,Letting the credit bureaus know about any inaccurate information on your credit report,C,"C. Knowing your exact credit score
+is the least important in maintaining a credit score.
+Knowing your credit score does not brings any improvement in the credit score of individuals. The individuals should devise ways to improve their credit score.
+Analysis of incorrect options:
+A. Making on-time payments is incorrect as regularity in making payments is checked while formulating the credit score.
+B. Checking your credit report annually is incorrect as it is an important step in credit score process.
+D. Letting the credit bureaus know about any inaccurate information on your credit report is incorrect because inaccurate information can cause legal offense.","Credit Score: Credit scores are provided by credit bureaus for individuals. For companies, credit ratings is provided by the credit rating companies. The credit score affects individual to borrow money from various sources. That is, a better credit score helps individual to borrow money with relative ease."
+381,Which of the following actions can negatively impact your credit score?,You disputed an item on your credit report,You forgot to pay the cable,You pay all your bills in cash,You use a small amount of available credit,B,"The correct answer is B. payment history is an important aspect of a credit score, and therefore a late payment in a 30-day or a missed payment results in a negative impact. The overutilization of credit can cause a missed payment, and this can be a red flag to creditors that an individual or an organization depends on credit.
+Options A, C, and D are incorrect. Filling a disputed error on an item on your credit report has no impact on your credit score. Late or on-time payment of bills in cash does not make any difference in a credit score. Low credit use ratio positively impacts the credit score as this tries to build up a good credit utilization.","Credit: In business and economics, credit can be defined as an agreement in a situation where one party is involved in borrowing money from another party, promising to pay the amount back with some interest on it."
+382,Which of the following actions can negatively impact your credit score?,You disputed an item on your credit report.,You forgot to pay the cable bill.,You paid all your bills in cash.,You use a small amount of your available credit.,B,"The correct option is
+B. You forgot to pay the cable bill
+.
+Credit scores are the numbers 300 to 850 that help to determine the creditworthiness of a person. Various factors affect the credit scores of a person like non-payment of a bill or delayed payments. In this case, option b will negatively affect the credit score as it is related to forgetting a cable bill payment.","Technological Advancement: In economics, technological advancement is an upgradation in the existing level of technology. It helps to reduce the time, effort, and money of a person or an economy as a whole."
+383,Which of the following actions would improve your credit score?,Closing out old credit cards,Paying off your credit card bill,Using a large portion of your credit limit,Opening a new savings account,B,"The correct option is
+B. Paying off your credit card bill
+.
+A credit score helps to determine the creditworthiness of a person. The highest credit score is 850 and the lowest credit score is 300. There are several ways to raise a credit score out of which the most possible and easiest way is to make a regular on-time repayment off credit cards.","Interest Rate: In macroeconomics, the interest rate is the rate charged by a lender to a borrower while lending money in the market. This interest rate is the gap between the sum of money borrowed and repaid by the borrower."
+384,Which of the following factors will have the greatest impact on your credit score?,I & II,II & III,I & III,II & IV,B,"The correct answer is option B: II &III
+All the factors mentioned above have an impact on the credit score of an individual. However the most important is the Payment history which is given a weightage of 35 percent. That is followed by the Amount Owed which is given a weightage of 30 percent. The payment history shows whether the payment made by the individual is on time or not.  The amount owed gives a reflection of the amount an individual owes to the creditor.
+The explanation for the incorrect options:
+Option A) I & II
+The length of Credit History gives information regarding the duration for which an individual has been using credit. The length of credit history is given a weightage of 15 percent so, it cannot be considered as one of the greatest factors. Payment history is an important factor. But these two factors together cannot be considered as the factors having the greatest impact.
+Option C) I & III
+As explained above, the length of the Credit History is not given too much weightage. Although the amount owed holds a lot of significance. But these two factors together cannot be considered as the factors having the greatest influence on credit score.
+Option D) II & IV
+The types of credit used is given a weighatge of 10 percent, so it does not hold much of a significance. Thus the type of credit used and Payment History together cannot be taken together for determining the impact on credit score.",Credit Score A credit score refers to the three-digit number which gets assigned to an individual based on the statement of loans or credit card. They are based on the information of credit report. The credit score of an individual is evaluated by the banks and other lending sources before issuing a loan.
+385,Which of the following actions can negatively impact your credit score?,You disputed an item on your credit report.,You forgot to pay the cable bill.,"You paid all your bills in cash.
+",You use a small amount of your available credit.,B,"The correct option is B. You forgot to pay the cable bill.
+
+Credit scores are the numbers 300 to 850 that help to determine the creditworthiness of a person. Various factors affect the credit scores of a person like non-payment of a bill or delayed payments. In this case, option b will negatively affect the credit score as it is related to forgetting a cable bill payment.","Technological Advancement:
+In economics, technological advancement is an upgradation in the existing level of technology. It helps to reduce the time, effort, and money of a person or an economy as a whole."

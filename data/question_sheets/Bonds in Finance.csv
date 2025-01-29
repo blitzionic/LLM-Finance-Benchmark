@@ -1,0 +1,516 @@
+id,question,A,B,C,D,answer,explanation,hint
+1,"A bond has a face value of $100,000. The issuing company received $100,000 in cash for the bonds. The bonds were issued at:",a premium,par,none of the available choices,a discount,B,"The correct answer is
+b. par
+.
+Options
+Analysis
+a. a premium
+A bond's sale proceeds must exceed the par value if the bond sells at a premium.
+b. par
+The par value and the bond's sale proceeds equal $100,000. It means that the bonds are sold at par.
+c. none of the available choices
+Option b) is correct.
+d. a discount
+A bond's par value must exceed the sale proceeds if the bond sells at a premium.","Debt Instruments: The various sources that help raise capital for the business are referred to as the instruments of debt. These debt instruments include bonds, debentures, notes payable, mortgages payable, bank loans, and loans from creditors. Debt capital should be less than equity."
+2,"A bond has a par value of $100. It pays 10 percent interest. 1,000 are issued. How much capital is raised?","$110,000 ","$100,000 ","$10,000 per year","$90,000 ",B,"The correct answer is
+B) $100,000
+.
+Bonds are debt instruments that are issued by organizations to raise capital. The par value of a bond is the amount of money that is raised as capital from that bond. The interest paid for a bond is the amount of money, over and above the par value, that the issuing organization pays back to the bondholder in return for the debt, after a certain interval of time. So, the interest paid for a bond does not constitute the capital raised through the bond but is rather the cost of the capital raised.
+Hence, in this case, we do not require the information regarding the percent interest.
+The known and required values are:
+The par value of each bond {eq}= \$100 {/eq}
+Number of bonds issued {eq}= 1,000 {/eq}
+{eq}\begin{align*} \therefore \text{ Total capital raised }&= \text{ Par value per bond }\times \text{ Number of bonds issued} \\ &= \$100 \times 1,000 \\ &= \$100,000 \end{align*} {/eq}
+Therefore,
+the capital raised by issuing 1,000 bonds at the par value of $100 is $100,000
+.","Capital: The resources that are used to generate wealth are known as capital. Capital can also be financial assets that are invested in business activities. Money, machinery, land, and other assets of economic value can be considered as different forms of capital."
+3,Bonds are sold at face value when the contract rate is equal to the market rate of interest.,TRUE,FALSE,,,A,"The statement is
+a. True
+.
+If the bond's contract and market rates are the same, the bond will sell at its
+par value
+.
+If the bond's contract rate exceeds the market rate, the bond will sell at a price higher than the par value or at a
+premium
+.
+If the bond's contract is less than the market rate, the bond will sell at a price lower than the par value or a
+discount
+.","Bonds: Bonds are reported under the company's financing cash flows as they represent a long-term source of finance. When the business invests bond capital in its fixed assets, it creates revenue in excess of the costs associated with such borrowed capital."
+4,"If the market interest rate is 5%, a $10,000, 6%, 10-year bond, that pays interest annually would sell at an amount:",greater than face value.,that cannot be determined.,equal to face value.,less than face value.,A,"The correct answer is
+A. greater than face value
+.
+We are provided with the following information:
+Market interest rate = 5%
+Bond's coupon rate = 6%
+If the first rate is less than the second rate, as mentioned above, the bonds will sell at a premium because investors will be willing to pay more for a higher return.","Bonds: Bonds, when issued at par, mean that the market rate and the company's bond rate are the same. The difference in these two rates causes a bond to sell at a discount or at a premium, depending on which one is higher and which one is lower."
+,,,,,,,,
+6,Most corporate bonds are,Mortgage bonds.,Debenture bonds.,Secured bonds.,Collateral bonds.,B,"The correct answer is
+B) Debenture bonds
+.
+Debentures are the most common type of corporate bond. These are unsecured and unbacked by any collateral; instead, the reputation of the company issuing them serves as their only security.
+The other options are incorrect because these are not the most common corporate bonds.
+A) Mortgage bonds: A mortgage bond refers to a bond backed by mortgages, often secured by real estate or other tangible assets.
+C) Secured bonds: A secured bond, also known as a mortgage bond, is one where the firm commits particular collateral. Municipalities frequently issue this kind of bond to fund the execution of a particular investment project.
+D) Collateral bonds: Borrowing money while providing a valuable asset as security for the lender is known as a collateral bond.","Bonds: Bonds are the instruments that are issued by the business to raise money. There are several dimensions to bonds, including things such as ratings, protective covenants, security, etc."
+7,"On January 1, 20X1, Carbonville Company issued bonds with a face value of $1,000. The bonds were issued for $920. Which one of the following should be included in the journal entry necessary on Carbonville's books to record the issuance of these bonds?","Debit to Bonds Payable of $1,000",Debit to Discount on Bonds Payable of $80,"Debit to Cash of $1,000","Credit to Cash of $1,000",B,"The correct option is
+B) Debit to Discount on Bonds Payable of $80
+.
+The bond's issue price is $920, and its par value is $1,000. It is issued at a discount (a price lower than par).
+When bonds are issued, a company receives cash and recognizes a liability.
+Date
+Account Title
+Debit
+Credit
+January 1, 20X1
+Cash
+$920
+Discount on Bonds Payable
+$80
+Bonds Payable
+$1,000
+Here, the points to be noted include:
+The cash account will reflect the issued price of the bonds.
+Bonds Payable account reflects the par value.
+Discount on Bonds Payable refers to the gap between the issue price and par value ($1,000 - $920 = $80)
+A brief explanation of each incorrect option is provided in the table below:
+Answer Options
+Explanation
+A) Debit to Bonds Payable of $1,000
+Bonds Payable refers to a liability and needs a credit entry.
+C) Debit to Cash of $1,000
+Cash will be debited for $920.
+D) Credit to Cash of $1,000
+As the company receives cash, it should debit it.","Bonds: When bonds are sold, their prices vary due to factors such as interest rates, time until maturity, and credit rating. Bonds with higher interest rates or longer maturities usually sell at a higher price and vice versa."
+8,"On July 1, 20X1, Stockton Company issued bonds with a face value of $1,000. The bonds were issued for $1,030. Which ONE of the following should be included in the journal entry necessary on Stockton's books to record the issuance of these bonds?",CREDIT to Premium on Bonds Payable of $30,DEBIT to Premium on Bonds Payable of $30,"DEBIT to Cash of $1,000","DEBIT to Bonds Payable of $1,000",A,"The correct answer is
+Option a) CREDIT to Premium on Bonds Payable of $30
+.
+The following data is worth understanding:
+Bond's face value = $1,000
+Bond's issue price = $1,030
+As the issue price or the sale proceeds exceed the par value, we say the bonds are issued at a premium. This means that investors have paid a $30 premium in addition to the bond's par value when purchasing the bonds.
+The entry to record the bonds issued at a premium is given below:
+Date
+Account Title
+Debit
+Credit
+July 1, 20X1
+Cash
+$1,030
+Premium on Bonds Payable
+$30
+Bonds Payable
+$1,000
+(To record the issuance of bonds at a premium.)
+Now, note these points:
+Cash will be debited for the amount received on issuance, which is $1,030.
+Bonds Payable will always be credited at the par value of $1,000.
+Premium represents the difference between 1 and 2, equalling $30.","Bonds: Bonds are a type of debt security representing an investor's loan to a corporation or government entity. When investors purchase a bond, they lend money to the issuer, who promises to repay the principal at a set maturity date and make periodic interest payments."
+9,The printing costs and legal fees associated with the issuance of bonds should:,be expensed when incurredb) be reported as a deduction from the face amount of bonds payablec) be accumulated in a deferred charge account and amortized over the life of the bondsd) not be reported as an expense until the period the bonds mature or are retired,,,,C,"The printing costs and legal fees associated with the issuance of bonds should
+(c) be accumulated in a deferred charge account and amortized over the life of the bonds
+.
+Under US GAAP, bond issue costs are capitalized. This means that bond issue costs are recorded in a contra-liability account and then amortized to the interest expense over the bonds' term. Issue costs are amortized to the interest expense along with any discount or premium on the bond issue.
+The other options are wrong:
+(a) Be expensed when incurred
+is wrong because under US GAAP, the expense must be deferred and recognized over the bond's term.
+(b) Be reported as a deduction from the face amount of bonds payable
+is wrong because the issue costs do not decrease the amount due at maturity. The cost can therefore not be deducted from the face value.
+(d) Not be reported as an expense until the period the bonds mature or are retired
+is also wrong because the expense must be recognized over the entire bond term, not just in the last year.",Bonds Payable: Bonds payable are obligations a company has to pay bondholders; the firm is required to pay a stated amount on a specified future date. The carrying amount of bonds payable is usually included in the long-term liability section of the balance sheet.
+10,True or false? A hydrogen bond is a special kind of dispersion force that can occur only in a molecule containing hydrogen.,TRUE,FALSE,,,B,"A hydrogen bond is a special kind of dispersion force that can occur only in a molecule containing hydrogen.
+This statement is
+FALSE
+.
+A hydrogen bond is not a dispersion force because it is a special type of dipole-dipole interaction. This is exhibited by a hydrogen atom that is directly attached to a highly electronegative atom (N, O, or F) and a highly electronegative atom. On the other hand, dispersion force is exhibited by all chemical species and occurs by the momentary production of a dipole upon contact.",Intermolecular Forces of Attraction: Intermolecular forces of attraction are interactions that occur between molecules that impact physical qualities such as boiling and melting temperatures. Understanding these forces is critical for describing the diverse characteristics of substances in various states of matter.
+11,Use the data table to answer the question that follows.,"Stock B, because lower-priced stocks are more likely to be good deals in the financial market.b. Stock B, because its P/E ratio means that it is earning more per share than its price.c. Stock C, because its relatively lower P/E ratio indicates the others may be overvalued.d. Stock C, because its relatively higher Div value means it is the best overall deal.",,,,C,"The most correct solution to this problem is provided by
+(C) Stock C, because its relatively lower P/E ratio indicates the others may be overvalued
+.
+Decision-making in investment should always consider the primary goals of the investor. What is good for one investor can be bad for another. In this case, the investor is primarily concerned with whether or not a stock is worth its current price. One indicator that we can use to determine a stock's value is the price per earning ratio, or P/E ratio. A low P/E ratio means that the stock is currently undervalued, while a high P/E ratio means that the stock is currently overvalued.
+Assuming that the three stocks given are in the same industry or sector (different sectors can have different typical P/E ratios), the investor should choose Stock C because it has the lowest P/E ratio.","Investing Styles: In general, there are several styles of investing, one of which is called value investing. This style of investing focuses on acquiring companies that have good performance but are undervalued. Another is called growth investing, which focuses on obtaining stocks that have great growth potential even when they are currently not performing that well."
+12,"When the market rate of interest is less than the contract rate for a bond, the bond will sell for a discount.",TRUE,FALSE,,,B,"The given statement is
+(b.) False.
+The theoretical price of the bond is equal to the present value of expected cash flows from the bond.
+If the market rate of interest is less than the contract rate for a bond, then the present value of expected cash flows from the bond will be higher than the face value of the bond.
+Hence the bond will sell
+at a premium
+, and not at a discount.",Bonds: Bonds are financial instruments that pay regular interest to their buyers against the money lent to the company. Companies issue bonds to meet their requirement for funds.
+13,"When the market rate of interest on bonds is equal to the contract rate, the bonds will sell at:",a premium.,their face value.,a discount.,a discount or a premium.,B,"The correct answer is
+b. their face value.
+When the market rate of interest on bonds is equal to the contract rate, the bonds will sell at their face value.
+Because the price of the bonds is equal to the present value of expected cash flows from the bond. If the market interest rate of interest on bonds and the contract rate of bonds are equal, the present value of the expected cash flows from the bond will be equal to the face value of the bond.",Bonds: Bonds are types of financial instruments that have similar characteristics to a loan. Bonds are issued to the general public/ financial institutions to raise funds and they carry interest.
+14,Which of the following is not a current liability?,Accounts payable.,Sales tax payable.,Unearned revenues.,Bonds.,D,"The correct answer is
+d. Bonds
+Let's first understand the definition of a current liability. Any liability that is due within one year is a current liability and the one that is due post one year is a long-term liability.
+Answer Options
+Explanation
+a. Accounts payable.
+Accounts payable indicate supplies that should be settled within one year.
+b. Sales tax payable.
+The business should pay the sales tax due on behalf of the customers on the respective due date, usually less than a year.
+c. Unearned revenues.
+Unearned revenue is a current liability resulting from the advance receipt of cash for providing future services.
+d. Bonds.
+Bonds are long-term sources of debt that a company uses to raise money for enlarging its business operations.","Liabilities: Liabilities represent amounts that the business must pay within the time allowed to it for settlement. Based on the time allowed, we can classify liabilities as short-term (current) and long-term. Liabilities represent an accounting element of the balance sheet."
+15,Which of the following is true about bonds?,None of the listed choices,All bonds traded at a discount to par make periodical semi-annual interest,Only governments and central banks can issue bonds,"Whether a bond is trading at a premium to par, a discount to par, or at par depends on both its price and the par value",D,"The correct answer is
+d. Whether a bond is trading at a premium to par, a discount to par, or at par depends on both its price and the par value.
+The price of a bond refers to the amount for which the bond can be bought and sold in the market. The par value refers to the amount the bond issuer is obliged to pay investors when the bond matures. The relationship between these values determines if the bond will trade at premium, par, or discount. If the price is greater than par, the bond trades at a premium. If the price is equivalent to par, the bond trades at par. If the price is less than par, the bond trades at a discount.
+The other options are incorrect.
+b. All bonds traded at a discount to par make periodical semi-annual interest:
+The frequency of interest payments depends on the terms of coupon payments stated in the bond indenture. The fact that a bond trades at par, premium, or discount is irrelevant to the frequency of interest payments.
+c. Only governments and central banks can issue bonds:
+In addition to governments and central banks, bonds can be issued by other entities like corporations and municipalities.","Bond: A bond is a debt instrument that enables borrowers to raise finance from willing lenders for a specific time period to meet their operational and expansion needs. Some bonds also have options like callability, putability, and convertibility embedded into them."
+205,"The anniversary date of a $100,000, 6% bond is June 30th. Interest is to be paid twice per year. The amount of interest to be accrued at the end of August is:","$3,000 ","$2,000 ","$1,000 ","$6,000 ",C,"The correct answer is
+c) $1,000
+.
+The key inputs to determine the accrued interest are given below:
+Face value of the bond = $100,000
+Interest rate = 6%
+Accrual period = 2 months (July 1 - August 31).
+As the payments are made twice a year, the last payment would be on June 30, and interest should be accrued for the next two months until the end of August.
+Upon arranging the above-mentioned inputs logically, we have the following number:
+Interest on the bond = Face value of the bond × Interest rate × {eq}\dfrac{2}{12} {/eq}
+Interest on the bond = $100,000 × 6% × {eq}\dfrac{2}{12} {/eq}
+Interest on the bond = $1,000","Interest: Interest can be classified as an expense for the business when paid on the borrowed amount and classified as income when it is received on the amount lent. The former represents a financing activity, while the latter is an investing activity."
+206,"When the bond rate is _____ the market rate, the company sells the bond at _____.",lower than; par,higher than; a discount,lower than; a premium,equal to; par,D,"The correct answer is
+d. equal to; par
+.
+Options
+Analysis
+a. lower than; par
+When the bond rate is lower than the market rate, the company sells the bond at a discount, not at par.
+b. higher than; a discount
+When the bond rate is higher than the market rate, the company sells the bond at a premium, not at a discount.
+c. lower than; a premium
+When the bond rate is lower than the market rate, the company sells the bond at a discount, not at a premium.
+d. equal to; par
+When the bond rate is equal to the market rate, the company sells the bond at par.",Bonds: Bonds are debt instruments that increase a company's debt capital and the associated financial risks. The selling price of the bond is determined by comparing the market rate on similar bonds with the coupon rate offered by the company.
+230,"ABC Company issued $100,000 face value of bonds on January 1, 2014. The bonds had a 5 percent stated rate of interest and a 10-year term. Interest is paid in cash annually, beginning December 31, 2014. The bonds were issued at 96. (Use straight-line amortization for the bond discount or premium.)","$5,400.00 ","$5,000.00 ","$4,600.00 ",None of the above.,A,"The correct option is a. $5,400.
+When bonds are issued at a discount, the amortization of the discount increases the interest expense, and when the straight-line method is used, the same amount is amortized with each interest payment.
+Straight-line amortization schedule
+Period End
+Beginning carrying value (A)
+Discount amortization = (B) = $4,000 / 10
+Cash Payment = (C)
+Interest expense = (B) + (C)
+Closing carrying value (A-B)
+Unamortized Discount
+01/01/14
+= $100,000 x 0.96 = $96,000
+= $100,000 - $96,000 = $4,000
+12/31/14
+$96,000
+$400
+= $100,000 x 0.05 = $5,000
+$5,400
+$96,400
+$3,600","Interest on Bonds: The interest expense incurred on bonds payable is usually not equal to the face value of the bonds and the stated interest rate, because the premium or discount on the bond issue must be amortized to the interest expense over the term of the bonds."
+,,,,,,,,
+232,Bonds are sometimes called __________ securities because they pay set amounts on specific future dates.,fixed-income,variable-income,real,bully,A,"A) Correct. Bond issuers will usually make periodic coupons to bondholders until bonds mature in the future. This feature explains why bonds can be considered fixed-income securities.
+B) Incorrect. Mostly, a regular bond makes constant interest payments until its maturity date.
+C) Incorrect. The coupon rate on a bond is a nominal interest rate. Hence, a bond is not a real security since its rate of return does not exclude the inflation risk premium.
+D) Incorrect. Bonds are fixed-income securities, which should be considered less risky than other securities. In addition, an investor will select a bond rather than a stock since a bond contributes periodic payments. A capital gain is not the main investing purpose of bonds. Thus, it is irrelevant to confirm bonds are bully securities.","Bonds: In practice, bonds are issued by either a government or a corporate entity. Bonds are sold to raise debt capital at a lower financing cost compared to equity capital. In practice, a firm can earn an advantage of debt capital since interest expenses are deductible for tax purposes, which generates an interest tax shield."
+233,Bonds issued by a corporation represent a means of borrowing funds from the general public or institutional investors on a long-term basis.,TRUE,FALSE,,,A,"The statement 'Bonds issued by a corporation represent a means of borrowing funds from the general public or institutional investors on a long-term basis.' is
+true
+as bonds are a sort of debt product that firms sell to investors to raise cash for long-term borrowing. These bonds pay investors interest regularly, and the principal amount is reimbursed at maturity. Investors might be members of the public or institutional investors.","Institutional Investors: Institutional investors are a valuable source of funding for businesses and governments. They have vast aids, financial experts, and advanced analytical tools to assist in making investment decisions."
+234,Bonds that give the holder the option of exchanging the bonds for capital stock of the corporation are called:,Convertible bonds.,Debenture bonds.,Callable bonds.,Coupon bonds.,A,"The correct option is
+a. Convertible bonds.
+If the bondholder wants to convert his bonds into the issuer's common stock, then he must have a convertible bond. This bond type facilitates converting the bonds into the predetermined number of shares of common stock. This way, the bondholder benefits when the company's stock price goes up. However, if the stock price does not go up, the bondholder still gets the annual interest rate on bonds in a predetermined manner.
+Reasons why other options are incorrect:
+b. Debenture bonds :
+Debenture bonds are not correct because such bonds are unsecured and are backed only by the creditworthiness of the issuer. These bonds do not have a conversion feature.
+c. Callable bonds :
+This bond has the facility that the issuer of the bond can call it before its maturity date at a specific call price. This bond also does not have a conversion feature.
+d. Coupon bonds :
+This bond also does not have a conversion feature and provides periodic interest payments, also known as coupons, to the bondholders.","Common Stock: The common stock gives the holder ownership in the company as well as the power to elect the board of directors and voting rights. In the event of bankruptcy, they are not eligible for compensation first. Preference is given to the preferred stockholders."
+235,"Commodity-backed bonds are redeemable in measures of a commodity such as barrels of oil, tons of coal, or ounces of rare metal.",TRUE,FALSE,,,A,"The statement 'Commodity-backed bonds are redeemable in measures of a commodity such as barrels of oil, tons of coal, or ounces of rare metal' is
+true
+as these bonds are also known as asset-backed securities, backed by physical assets such as commodities or real estate, as opposed to traditional bonds backed by the issuer's creditworthiness. The value of commodity-backed bonds is tied to the underlying commodity's price, and the bonds can be redeemed for them at maturity. These bonds may expose investors to commodity prices excluding physical requirements to own the commodity.",Assets-Backed Securities: Credit rating agencies grade asset-backed securities based on the underlying asset's quality and the credit advancements granted as they are formed by combining various forms of assets and other loan types.
+236,How would you calculate the amount of premium amortized?,Dividing the premium at issuance with the number of interest payments.,Dividing the premium at issuance with the life of the bond.,Dividing the premium at issuance with the amount at maturity.,Dividing the premium at issuance with the face value of the bond.,A,"The correct option is
+(a) Dividing the premium at issuance by the number of interest payments.
+The premium on bonds issued arises when the bonds are issued at a price higher than the face value of the bonds. The premium on bonds issued has a credit balance that is amortized over the tenure of the bonds.
+The premium on bonds issued is debited by the amortization amount on each interest payment date. Under the straight-line amortization method, the amortization amount is computed by dividing the premium by the number of interest payments.
+{eq}\text{Premium on bonds} = \dfrac{\text{Premium}}{\text{Number of interest payments}} {/eq}","Premium on Bonds Payable: Bonds are issued at a premium when the market interest rate is lower than the stated interest rate of bonds. In such cases, the premium on the bonds payable account is credited by the difference between the issue price and the bonds' face value."
+237,"If 1-year interest rates for the next three years are expected to be 4, 2, and 3 percent, and the 3-year term premium is 1 percent, then the 3-year bond rate will be:",1 percent,2 percent,3 percent,4 percent,D,"The correct option is D.
+4%
+.
+The 3-year bond rate can be calculated by taking the average of the 1-year interest rate of the 3 years and adding a premium to it.
+The calculation of the average interest rate is as follows:
+{eq}\begin{align*}{\rm\text{Average}}\,{\rm\text{interest}}\,{\rm\text{rate}}\, &= \,\frac{{{\rm\text{Sum}}\,{\rm\text{of}}\,{\rm\text{the}}\,{\rm\text{short}}\,{\rm\text{term}}\,{\rm\text{interest}}\,{\rm\text{rate}}\,{\rm\text{for}}\,{\rm\text{each}}\,{\rm\text{year}}}}{{{\rm\text{Number}}\,{\rm\text{of}}\,{\rm\text{years}}}}\\ &= \,\frac{{4\% \, + \,2\% \, + \,3\% }}{{3\,{\rm\text{years}}}}\\ &= \,\frac{{9\% }}{{3\,{\rm\text{years}}}}\\ &= \,3\% \end{align*} {/eq}
+Hence, the average interest rate is 3%
+.
+The calculation of the 3-year bond rate is as follows:
+{eq}\begin{align*}3{\rm\text{ - year}}\,{\rm\text{bond}}\,{\rm\text{rate}}\, &= \,{\rm\text{Average}}\,{\rm\text{interest}}\,{\rm\text{rate}}\, + \,{\rm\text{Premium}}\\ &= \,3\% \, + \,1\% \\ &= \,4\% \end{align*} {/eq}
+Hence, the 3-year bond rate is 4%
+.","Short-Term Interest Rates: Short-term interest rates refer to the interest rates on financial instruments, such as government bonds, influenced by the monetary policies of central banks and the supply and demand of money in the economy."
+238,"If bonds are issued at a discount, the amortization of the discount over the life of the bonds causes the:",Interest expense to decrease each period.,Interest expense to increase each period.,Carrying value of the bonds to decrease.,Cash paid to increase.,B,"If bonds are issued at a discount, the amortization of the discount over the life of the bonds causes the
+b. interest expense to increase each period.
+The company can amortize the discount on the bonds using the straight-line method or the effective interest method. The bond discount is credited at each payment and the interest expense is increased so the company reports a greater expense than they pay in cash to bondholders.
+Analysis of Alternatives
+a. The interest expense is decreased each period if the bond is sold a premium.
+c. The carrying value of the bonds decreases each period if the bond is issued as a premium.
+d. The cash payment is stipulated by the bond certificate and is the same regardless of whether the bond is issued at a premium, discount, or at par.","Bond Discounts: When a company issues bonds at a rate that is lower than the going market rate, the company has to accept less than the face value of the bond to attract investors. The resulting difference between the issue value and face value is known as a bond discount. If, by contrast, the bond is sold for more than face value, the difference is known as a bond premium."
+239,"If bonds with a face value of $100,000 are issued at 105, what amount is recorded in the Premium on Bonds Payable account?","$105,000 ",$105 ,"$5,000 ","$100,500 ",C,"The correct option is
+(c.) $5,000
+If the bonds are issued at 105, it means that the bonds are issued at a premium of 5% of the face value.
+So the premium on bonds payable account will have
+$100,000 X 5% = $5,000","Bonds: Bonds have a face value, however, they can be issued either at a discount or a premium depending on the market interest rate. If the market interest rate is lower than the stated interest rate, then the bonds are issued at a premium and vice versa."
+240,"If bonds with a face value of $50,000 are issued at 95, what amount would they be issued for:","$52,500 ","$50,095 ","$47,500 ",$95 ,C,"The correct option is
+(c.) $47,500
+If bonds with a face value of $50,000 are issued at 95, that means the bonds are issued at 95% of their face value.
+So the amount received on issue of such bonds will be
+$50,000 X 95% = $47,500","Bonds: Bonds are securities issued by companies to raise debt. Like equities, bonds can also be traded on a securities exchange. Bonds are liabilities for the issuing company."
+241,"If Interest on bonds of $4,500 is paid semi-annually for 10 years, what is the total cost of borrowing $150,000?","$90,000 ","$45,000 ","$105,000 ","$60,000 ",A,"The correct option is
+(a.) $90,000
+Interest paid semiannually means interest is paid twice during the year.
+If interest on bonds of $4,500 is paid semi-annually for 10 years, it means that the total interest paid during tenure of 10 years will be
+$4,500 X 2 X 10 years = $90,000",Bonds: Bonds are financial instruments that companies issue to raise funds in the form of debt. Bonds Payable have credit balances and appear on the liability side of the balance sheet.
+242,"If the bond's stated rate of interest is greater than the market rate of interest, the bond will be issued at:",a discount.,par.,a premium.,maturity value.,C,"The correct answer is
+c. a premium
+.
+Options
+Analysis
+a. a discount.
+Bonds are sold at a discount when the market rate on similar bonds exceeds the bond's stated rate.
+b. par.
+The bonds sell at par when both market and stated interest rates are the same.
+c. a premium.
+When the market rate on similar bonds is less than the bond's stated rate, the bonds will sell at a premium.
+d. maturity value.
+Bonds are never issued at maturity value. They may be redeemed at maturity value.",Issuing Bonds: A corporation issue bonds to expand its business though it knows that excess debt capital brings with them a default risk of bankruptcy in the long run. Bond proceeds are reported as cash inflows under financing activities.
+243,"If the interest paid is $4,000 and the premium amortized is $200, how much will go into the interest expense account?","$3,800 ","$4,200 ","$4,000 ",$0 ,A,"The correct option is
+(a.) $3,800
+The premium on the bonds payable account has a credit balance and is amortized over the tenure of the bond. With each interest payment, it is debited along with the interest expense account. This means that it reduces the interest expense.
+So, if the interest paid is $4,000 and the premium amortized is $200, then $4,000 - $200 = $3,800 will go into the interest expense account.",Bonds: Bonds are a form of liability for the company. Bonds are issued by the company to raise long-term funds. Bonds have a stated rate of interest and require periodic payment of interest.
+244,"On December 31, 2017, Lopez Sales has a Bonds Payable balance of $72,000 and a Premium on Bonds Payable balance of $4,000. On the balance sheet, how will this information be shown?","$72,000 less premium of $4,000 for a net balance of $68,000.","$72,000 plus a premium of $4,000 for a net balance of $76,000.","$72,000.00 ","$72,000 less one-tenth of $4,000 for a net balance of $71,600.",B,"The correct option is b. $72,000 plus a premium of $ 4,000 for a net balance of $ 76,000.
+Given information:
+Bond payable balance = $72,000.
+The premium of bonds payable = $4,000.
+The balance sheet will contain the bond payable as follows:
+Liabilities
+Amount
+Bonds payable balance
+$72,000
+Add: Premium on bonds payable
+$4,000
+Net bonds payable
+$76,000
+Thus, the amount of bonds payable is $76,000.
+Explanation:
+The premium on bonds payable of $4,000 is recorded in the liability as this amount is the excess received by the company. It is added to the bonds payable amount of $72,000 to show net bonds payable of $76,000 in the liability section of the balance sheet.","Premium on Bonds Payable: The excess money a corporation receives when issuing bonds beyond its value at par is known as the premium on bonds due, which is amortized as interest expenses throughout the bond's useful life."
+245,"On Jan 2018, your company issued a $1,000,000, 8% payable annually, 5-year, bond when the market rate was 10%. Did your company issue its bond on Jan 1, 2018, at a premium or discount?",neither at a premium nor at a discount.,at par value.,at a premium.,at a discount.,D,"If a company issues bonds for less than the market rate, the bond will have to sell for less than face value to attract buyers and this means that the bonds are sold
+d. at a discount.
+Bonds sold at a discount will account for the difference between the bond's face value and its issue value in a contra liability account Discount on Bonds Payable. The discount is amortized by a company over the bond's life and increases the interest expense.
+Analysis of Alternatives
+A. The bond is issued at neither a premium nor at a discount when the market rate is equal to the stated rate of interest on the bond.
+B. A bond is issued at par value when it's stated rate of interest is the same as the market rate.
+C. If a bond offers a higher rate of interest than the market rate, then the bond would be issued at a premium to reflect the higher returns.","Bonds: A company issues bonds as an alternative means of raising funds for operations instead of issuing stock. Issuing bonds preserves the integrity of stockholders' equity and payments of interest, unlike dividend payments, have benefits for a company's tax liability."
+246,"On January 1, Hanley Corporation issued $2,300,000, 10-year, 9% bonds at 101. The journal entry to record this transaction would include a:","debit to Discount on Bonds Payable $23,000.","credit to Bonds Payable $2,323,000.","debit to Cash $2,300,000","credit to Premium on Bonds Payable $23,000.",D,"The correct option is
+option D. credit to Premium on Bonds Payable
+.
+The required journal entry would be as follows:
+Date
+Accounts and Explanation
+Debit ($)
+Credit ($)
+Jan. 1
+Cash (2,300,000+23,000)
+2,323,000
+Bonds Payable
+2,300,000
+Premium on Bonds (working note)
+23,000
+(to record the issuance of bonds on premium)
+Cash is received with the issuance of bonds; thus, cash is debited. The bond payable is a liability account, and it is credited when increased. Premium is a contra account, and it is credited when increased.
+It is assumed that the face value was $100.
+The premium on the bond can be calculated as follows:
+{eq}\begin{aligned} \text{Premium}\ \text{on}\ \text{bonds} &=\text{Face}\ \text{value}\ \text{of}\ \text{bonds}\times \frac{\left( \text{Issue}\ \text{price}-\text{Face}\ \text{value} \right)}{\text{Face}\ \text{value}} \\ &=\$2,300,000\times \frac{\left( \$101-\$100 \right)}{\$100} \\ &=\$2,300,000\times \frac{1}{\$100} \\ &=\$23,000 \end{aligned} {/eq}
+Explanations for incorrect options:
+A. debit to Discount on Bonds Payable $23,000. This is incorrect because this transaction does not involve a discount.
+B. credit to Bonds Payable $2,323,000. This is incorrect because the amount is incorrect.
+C. debit to Cash $2,300,000. This is incorrect because the amount is incorrect.",Bonds Payable: Bonds payable are a liability for the issuing organization. Bonds can be issued at a premium or discount. Bond holders receive regular returns in terms of periodic interest payments.
+247,"On January 1, Zee Products sells bonds at a face value of $250,000. The interest rate is 6%, payable semi-annually. What is the amount of interest expense on July 1?","$15,000 ","$7,500 ","$3,750 ",$0 ,B,"The correct option is
+(b.) $7,500
+The interest is paid semi-annually, it means that interest will be paid every six months.
+The interest expense can be computed by the following formula -
+{eq}\begin{align} \text{Interest Expense} &= \text{Bond Amount} \times \text{Interest Rate} \times \dfrac{\text{Number of months}}{12}\\ &= \$250,000 \times 6\% \times \dfrac{6}{12}\\ &= \$250,000 \times 3\%\\ &= \$7,500\\ \end{align} {/eq}",Bonds: Bonds are financial instruments issued by companies to raise funds. Bonds are less riskier than equity as they involve periodic payment of interest and sometimes also have underlying security.
+248,"On January 1st, JK Company issued $400,000, 5-year, 4% bonds. The market rate at the time of the sale was greater than 4% so the bonds were sold at 93. Interest is payable on June 30th and December 31st.","Credit to Cash for $10,800.","Debit to Interest Expense for 8,000.","Debit to Interest Expense for $10,800.","Debit to Discount on Bonds Payable for $2,800.",C,"The correct option is
+C. Debit to Interest Expense for $10,800
+The par value of the bonds is $400,000, the bonds were sold at $93
+The cash received against the sale of bonds will be {eq}\dfrac{\$400,000}{100} \times \$93 = \$372,000 {/eq}
+The difference between the par value of bonds and cash received against the sale will be debited to the discount on Bonds Payable.
+Discount of Bonds Payable = $400,000 - $372,000 = $28,000
+As the company will use the straight-line method to amortize discounts on the bonds. The bond's tenure is 5 years and interest will be paid semi-annually. So, the discount on bonds will be amortized in 5 X 2 = 10 installments.
+So, on the first interest payment, the amortization of the discount on bonds will be $28,000 / 10 = $2,800
+The interest payment will be $400,000 X 4% X (1/2) = $8,000
+The interest expenses debited will be the sum of the actual interest payment and the amortization of the discount on bonds. = $10,800
+The journal entry will be -
+Date
+Account
+Debit
+Credit
+Interest Expense --- Dr.
+$10,800 ($8,000 + $2,800)
+Discount on Bonds Payable --- Cr.
+$2,800
+Cash --- Cr.
+$10,800",Bonds Payable: Bonds are financial instruments that companies sell to raise funds and they have a stated rate of interest and par value. They appear on the balance sheet as Bonds Payable.
+,,,,,,,,
+250,Secured bonds are bonds that:,are in the possession of a bank.,are registered in the name of the owner.,have specific assets of the issuer pledged as collateral.,have detachable interest coupons.,C,"The correct answer is
+c. have specific assets of the issuer pledged as collateral
+.
+Secured bonds are debt instruments that have specified assets as collateral. In the event of default, the borrower has a claim on the pledged assets, which can be used to repay bondholders. Thus, these bonds have a minimal credit risk. Secured bonds usually have lower interest rates. Therefore, secured bonds are less risky than unsecured bonds.
+The other options are incorrect.
+Option a.
+are in the possession of a bank:
+This is incorrect because possession does not determine whether a bond is secured or unsecured.
+Option b.
+are registered in the name of the owner
+: This is incorrect because the registration of a bond is a feature of the bond and does not determine whether the bond is secured or unsecured.
+Option d.
+have detachable interest coupons
+: This is incorrect because the detachable interest coupons are features of a bond and do not determine whether the bond is secured or unsecured.","Bonds: The bond is a financial instrument that represents the loan made by the investor in exchange for interest rate and principal amount at maturity. Bonds can be issued at par, premium, or discount to investors."
+251,Shares of stock reacquired by the issuing company are called:,Par value stock.,Stock subscription.,Treasury stock.,no-par value stock.,C,"The correct answer is
+c. Treasury stock.
+Treasury stocks are contra-equity accounts that indicate the shares reacquired by the company. They can be resold by the companies later or written off from the books. They are usually purchased to avoid hostile takeovers.
+Explanation for incorrect answers
+Par value stocks have a par value below which the shares cannot be sold.
+Stock subscription refers to subscribing to shares on public offers.
+The no-par value stocks do not have any par value and their price is decided by the demand in the market.",Stocks: Stocks are financial instruments that can be traded freely on stock markets. Stocks indicate ownership of companies. Stocks are generally more risky than bonds.
+252,"The Fuller Company issued a $500,000, 5-year, 6% bond at par. It is a semiannual bond with interest paid on June 30th and December 31st. The entry to record the sale of the bond would include a:","$500,000 credit to Cash.","$500,000 credit to Bonds Payable.","$30,000 debit to Interest Expense.","$500,000 debit to Accounts Payable.",B,"The correct answer is
+B. $500,000 credit to Bonds Payable
+.
+The Fuller Company's bonds are issued at par value, and the bond issuance at par can be recorded using the following accounts:
+Date
+Account Title
+Debit
+Credit
+Jan 1.
+Cash
+$500,000
+Bonds Payable
+$500,000
+Cash represents the proceeds from bond issuance through the creation of a liability.
+Other options:
+Options
+Analysis
+A. $500,000 credit to Cash.
+Cash is coming into the business and will be debited.
+C. $30,000 debit to Interest Expense.
+Interest expense is not recorded at the time of issuance.
+D. $500,000 debit to Accounts Payable.
+Accounts payable are not used when recording bond issuance.",Bonds: Bonds are risk-free because they offer fixed returns in the form of interest and repay the par value of the bonds at maturity. Bonds are long-term liabilities of a company that helps build assets.
+253,"The Fuller Company issued a $500,000, 5-year, 6% bond at par. It is a semiannual bond with interest paid on June 30th and December 31st. The entry to record the semiannual interest payment is:","Dr. Interest Expense, $15,000; Cr. Cash, $15,000.","Dr. Interest Expense, $30,000; Cr. Cash, $30,000.","Dr. Interest Expense, $30,000; Cr. Interest Payable, $30,000.","Dr. Interest Expense, $15,000; Cr. Interest Payable, $15,000.",A,"The correct answer is
+A. Dr. Interest Expense, $15,000; Cr. Cash, $15,000
+.
+The Fuller Company's entry to record the semiannual interest payment can be recorded as follows:
+Date
+Account Title
+Debit
+Credit
+June 30th
+Interest Expense
+$15,000
+Cash
+$15,000
+Working note for semiannual interest
+:
+Semiannual interest = Par value of bonds × Interest rate × {eq}\dfrac{6}{12} {/eq}
+Semiannual interest = $500,000 × 6% × {eq}\dfrac{6}{12} {/eq}
+Semiannual interest = $15,000
+Other options are incorrect:
+Options
+Analysis
+B. Dr. Interest Expense, $30,000; Cr. Cash, $30,000.
+The semiannual interest equals $15,000, not $30,000.
+C. Dr. Interest Expense, $30,000; Cr. Interest Payable, $30,000.
+The semiannual interest equals $15,000, not $30,000.
+D. Dr. Interest Expense, $15,000; Cr. Interest Payable, $15,000.
+Interest payable account is used when interest incurs and is not paid, not when it's paid.","Bond Interest: Interest on bonds differs depending on whether bonds are issued at par, at a premium, or at a discount. In addition, unlike dividends, the company pays interest to the bondholders, which is tax-deductible."
+254,The issuance of bonds by a corporation is,an example of debt financing.,an example of equity financing.,None of the above.,,A,"The correct answer is
+A. an example of debt financing
+.
+Bonds are debt securities, and by selling bonds, a corporation is actually raising debt capital. Too much debt is unsuitable for a company as the risk of bankruptcy increases in the long run. The issuance of bonds is recorded as a cash inflow under the cash flow statement's financing activities.
+Other options are incorrect:
+Options
+Analysis
+B an example of equity financing.
+Bonds are not a source of equity financing.
+C None of the above.
+As option A) is correct, this option is not valid.","Sources of Financing: A corporation needs capital for projects impacting sales growth and profits. These external sources can be classified as short-term and long-term, depending on the borrowing period."
+255,The journal entry a company records for the issuance of bonds when the contract rate is greater than the market rate would be:,"debit Bonds Payable, credit Cash.","debit Cash, credit Bonds Payable.","debit Cash, credit Premium on Bonds Payable, and Bonds Payable.","debit Cash and Discount on Bonds Payable, credit Bonds Payable.",C,"The correct answer is
+c. debit Cash, credit Premium on Bonds Payable, and Bonds Payable
+.
+The bonds will sell at a premium if the company's bond's contract rate exceeds the market rate. The bonds sold at a premium are recorded as follows:
+Date
+Account Title
+Debit
+Credit
+Cash (Proceeds)
+$XX
+Bonds Payable (Par)
+$XX
+Premium on Bonds Payable
+$XX
+The bond premium reflects in the premium on the bonds payable account, which is subject to amortization.",Bonds: Debt instruments are issued to raise capital and invest in the current level of operations to improve them. Bonds can be sold at any value and not just at par value. Bonds need to be redeemed at maturity.
+256,The premium on bonds payable account would be classified as a(n):,Current liability.,Contra-liability.,Adjunct-liability.,Contra-asset.,C,"The correct answer is
+c. Adjunct-liability.
+The following table explores each answer option and explains the right and wrong answers with reasons.
+a. Current liability.
+Currrent liabilities are short-term liabilities and bonds payable are long-term liabilities. The related premium on the bonds is therefore also accounted for in a long-term liability account.
+b. Contra-liability.
+Discount on bonds payable is a contra-liability account because it decreases the carrying amount of bonds payable on the balance sheet.
+c. Adjunct-liability.
+This is the correct alternative because the premium on bonds payable increases the carrying amount of bonds payable on the balance sheet
+.
+d. Contra-asset.
+Contra-asset accounts are accounts like accumulated depreciation that decreases the carrying amount of an asset in the balance sheet.",Premium on Bonds Payable: A premium on bonds payable is recorded when the issue price of bonds is higher than their maturity value. The premium is recorded in the general ledger and then amortized to the interest expense over the term of the bonds.
+257,The premium on bonds payable is added to _____ report of the bond's carrying value.,Cash account,Bonds payable account,Interest expense account,Cash account and bonds payable account,B,"The correct option is b. Bonds payable account.
+The table explores each answer option and explains the right and wrong answers with reasons:
+a. Cash account
+The premium affects the cash account when the bonds are issued, but the unamortized premium is not added to cash to calculate the carrying value of bonds.
+b. Bonds payable account
+This is the correct alternative because the unamortized premium on bonds payable increases the carrying amount of the bonds payable liability.
+c. Interest expense account
+The premium is amortized over time to the interest expense but is unamortized balance is not added to the interest expense in the income statement.
+d. Cash account and bonds payable account
+No, the premium does not affect the carrying amount of the cash asset.",Carrying Amount of Bonds Payable: Bonds payable is usually presented as a long-term liability unless their maturity date is within 12 months. Bonds are carried at their issue price plus or minus the accumulated amortization of discounts or premiums on the issue.
+258,The rate of interest specified on the bond is referred to as the:,Debenture rate.,Market rate.,Par rate.,Stated rate.,D,"The correct option is
+d. Stated rate.
+The stated interest rate on the bonds is the specified interest rate of the bonds by which the interest will be calculated on the par value of the bonds. The stated interest rate is shown with the bonds payable on the balance sheet.
+Explanation for incorrect options
+a. Debenture rate - The stated interest rate of debentures is referred to as the debenture rate.
+b. Market rate - The market interest rate is the prevailing interest rate in the market, it is used to affect the sale price of the bond.
+c. Par rate - The par rate is the cost of interest without any other adjustments.","Bonds: Bonds are financial instruments that companies use to raise funds as debts from the general public. As bonds involve regular interest payments, they are considered less risky than equity."
+259,True or False: Discount on bonds is an additional cost of borrowing and should be recorded as interest expense over the life of the bonds.,TRUE,FALSE,,,A,"The statement is true.
+Bonds are issued at a discount when the market interest rate is higher than the coupon rate of the bonds. This implies that investors paid less for the bonds in order to increase their yields, and this difference is therefore additional interest that the company must expense over the life of the bonds. The discount can be amortized using the straight-line of effective interest methods.",Discount on Bonds Payable: Discount on bonds payable is a contra-liability that is recorded when the issue price of bonds is lower than their face value. This amount must then be amortized to the bond interest expense over the bond's term.
+260,"When bonds are issued at a discount, how is the discount amount treated by the issuing company?",It is amortized over the life of the bond.,It is recorded as a loss on issuance.,The recording of the discount decreases interest expense.,It is collected at the time of maturity.,A,"The correct option is
+a. It is amortized over the life of the bond.
+Bonds are issued at a discount when the stated interest rate is lower than the market rate of interest as in such a case the present value of the interest payments and redemption amount is less than the face value of the bond.
+The discount is credited at the time of issuance and is amortized over the life of the bond.
+Explanation for incorrect options
+The discount on bonds payable is not recorded as a loss on issuance rather it is amortized over the life of the bond; hence option (b) is incorrect.
+The amortization of the discount increases the interest expense; hence option (c) is incorrect.
+The discount on the bonds payable is not collected at the time of maturity; hence option (d) is incorrect.",Bonds: The issue price of the bonds depends on the stated interest rate and the market interest rate. As the theoretical value of the bond is equal to the present value of interest payments and the redemption value.
+261,"When bonds are issued at a discount, the carrying value of the bond is:",The face value less discount on bonds payable.,The face value plus a discount on bonds payable.,The face value.,None of these choices are correct.,A,"The correct option is
+a. The face value less discount on bonds payable.
+The bonds are issued at a discount when the market interest rate is higher than the stated interest rate. Due to this the bond issue price is lower than the face value of the bonds and bonds are issued at a discount. Bonds payable have a credit balance and discount on the bonds payable have a debit balance; hence the carrying value of bonds is the face value less discount.
+Explanation for incorrect options
+When bonds are issued at a premium, then the carrying value of the bonds is the face value plus the premium on the bonds payable; hence option (b) is incorrect.
+The carrying value of bonds payable is the face value when the bonds are issued at par; hence option (c) is incorrect.",Bonds: Bonds are financial instruments that are issued by companies in order to raise funds for business. The bonds payable are liability accounts with a credit balance.
+262,When bonds are issued at a premium:,The market rate of interest is higher than the stated rate.,The market rate and the stated rate of interest are the same.,The stated rate of interest exceeds the market rate.,None of these choices are correct.,C,"The correct option is
+c. The stated rate of interest exceeds the market rate.
+The issue price of bonds depends on the stated rate of interest and the market interest rate. If the stated interest rate is higher than the market rate of interest, then the bonds are issued at a premium because in such case the present value of interest payments and redemption value at the market interest rate will be higher than the face value of the bond.
+Explanation of incorrect options
+a. If the market rate of interest is higher than the stated rate, then the bonds will be issued at a discount; hence option (a) is incorrect.
+b. If the market rate and the stated rate of interest are the same, then the bonds will be issued at par; hence option (b) is incorrect.",Bonds: Bonds are financial securities that have a face value and a stated interest rate. The bonds payable account has a credit balance and appears on the liability side of the balance sheet.
+633,"When the Treasury bond market becomes more liquid, other things equal, the demand curve for corporate bonds shifts to the _____ and the demand curve for Treasury bonds shifts to the _____.",right; right,right; left,left; right,left; left,C,"The correct answer is option C.
+left; right
+.
+When the Treasury bond market becomes more liquid, it becomes easier for investors to buy and sell Treasury bonds, causing an increase in demand. As a result, the demand curve for Treasury bonds moves rightward.
+On the other hand, the increased liquidity in the Treasury bond market means that investors do not need corporate bonds as a substitute investment. As a result, there is less demand for corporate bonds, which leads to a leftward shift.
+Reasons for incorrect options:
+A
+: The increased liquidity in the Treasury bond market would not cause an increase in demand for corporate bonds. Instead, it would cause a decrease in demand for corporate bonds.
+B
+: The increased liquidity in the Treasury bond market would lead to a rise in the purchase of Treasury bonds, causing a rightward change in the demand curve, not the left.
+D
+: The increased liquidity in the Treasury bond market would not cause a decrease in demand for Treasury bonds. Instead, it would cause an increase in demand for Treasury bonds.","Demand Curve for Bonds: The demand curve for bonds is a graphical representation of the correlation between the value of a bond and the number of bonds that investors are willing and able to buy, keeping all other elements stable."

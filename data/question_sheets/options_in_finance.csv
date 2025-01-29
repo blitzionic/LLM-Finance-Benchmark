@@ -1,0 +1,500 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Selling options on stock you already own:,is illegal under federal law.,cannot benefit you financially.,is called a covered call strategy.,is not a very good idea.,C,"Correct Answer: c
+A call option writer can write the option in two conditions: firstly, when the writer owns the stock and secondly, when the writer does not own the stock. Here, the first strategy depicts the covered strategy. Such a strategy is appreciable for the options because it reduces the risk associated with the transaction. A holder can take a short position for the stock they already own in this strategy.
+An explanation for incorrect options:
+Option a: Writing such types of options is not illegal.
+Option b: The financial benefit of these options depend on specific terms of contracts.
+Option d: It depends on the contract terms and price situation.","Regulator: In the options market, a body that oversees the legal validity of different projects and frames rules for their identification. It is called the regulator. New financial innovations have increased the complexity of the regulators' role."
+2,A straddle is a combination of a put and call on _____.,"the same stock, with the same strike price and expiration date.","different stocks, with the same strike price and expiration date.","different stocks, with different strike price and expiration dates.","the same stock, with the same strike price and different expiration dates.",A,"A straddle is a combination of a put and call on
+a. the same stock, with the same strike price and expiration date.
+Purchasing a call and a put option on the same stock with the same strike price and expiration allows the investor to benefit from both an increase in the stock price (by exercising the call) and a decrease in the stock price (by exercising the put).  This strategy is called a straddle.  The higher the price change, the higher its payoff.  The cost of the strategy is equal to the premium paid for the two options.
+b., c. and d. are incorrect.  Purchasing options on different stocks or the same stock with different expiration dates is not known as any type of option strategy.",Options Strategies: Combinations that involve buying and selling options are called options strategies.  The goal of these strategies is to create a specific payoff profile that is desirable to the investor.
+3,"A put option has an exercise price of {eq}\$40
+
+{/eq} and the call premium is {eq}\$5
+
+{/eq}. The current market price of the underlying stock is {eq}\$38
+
+{/eq}.",Is the option in the money or out of the money?,What is the intrinsic value of the option? The time value?,What is the break-even stock price on the option's expiration date?,"If you purchase this option, what is your maximum possible gain?",A,"Part A.
+The option is currently in-the-money, because its exercise price is higher than the underlying stock price ($40 vs. $38).
+Part B.
+The intrinsic value of the option is $2, the difference between its exercise price and the underlying stock price ($40 - $38 = $2).
+The time value of the option is $3, the difference between its premium and the intrinsic value ($5 - $2 = $3).
+Part C.
+The break-even stock price is $35.  At this point, the potential payoff of $5 ($40 - $35 = $5) just equals the cost of the option of $5.
+Part D.
+The maximum possible gain is as follows:
+Max Gain = Strike Price - $0 - $Put Premium
+Max Gain = $40 - $0 - $5 = $35","Put Premium: A put premium is the cost of buying a put option, which is the right, but not the obligation, to sell an underlying asset at a specified strike price for a period of time.  The buyer must pay the premium to the seller of the option."
+4,Which of the following is a characteristic of put and call options?,They are contracts to buy or sell 100 shares of common stock.,There is always a specified price.,There is always a specified time period to exercise options.,All of the above,D,"The correct answer is d. All of the above
+A call option is a contract that allows the investor to buy a specific asset at a predetermined price at some point in the future.  A put option is similar, except that it allows the sale of a particular asset in the future.  Call and put options can be written on both real assets (like crude oil) and financial assets (like stocks).
+a. is correct.  When the underlying asset is the stock of a company, a call or a put option gives the investor the right to buy or sell 100 shares of that stock.
+b. is correct.  The option price is also called the exercise price because this is the price, at which the option can be exercised.  The exercise price is always included in the option contract.
+c. is correct.  The option contract also specifies the time period, in which the option can be exercised.  The vast majority of stock options are American-style options.  That means that they can be exercised on the expiration date as well as at any time prior to the expiration date.","Options vs Futures: Options and futures are both legally enforceable contracts.  Unlike futures contracts, in which both parties are bound by their contractual obligations, options contracts are mandatory only for the issuer.  The buyer has the option to back out of the contract."
+5,"Although the payouts on a long position in an options contract are never negative, the profit from purchasing and holding it could be negative.",True,False,,,A,"The answer is a. True.  The payoff on a long option contract is associated with the difference between the underlying asset price and the strike price.  If the underlying asset price does not move into a position that warrants a payoff, one will not occur.  However, the profit from purchasing and holding an option could be negative, because a long position entrails a cost, the premium.","Option Premium: An option premium is cost of obtaining an option.  For a long option holder, it entails an expenditure.  For a short option seller, it entails an inflow of income."
+6,An American call option gives the owner:,the right but not the obligation to sell the stock at the strike price on or before the expiration date.,the right to buy or sell the stock at the strike price on or before the expiration date.,the right and the obligation to buy the stock at the strike price on or before the expiration date.,the right but not the obligation to buy the stock at the strike price on or before the expiration date.,D,"A) Incorrect. A call option refers to the right to buy underlying securities in the future. Note that, it is not an obligation to exercise the option.
+B) Incorrect. See the explanation in part A.
+C) Incorrect. See explanation in part A.
+D) Correct. Apart from European options, American options allow the purchasers to exercise their rights at anytime.",Option: An option is a derivative that helps investors to protect their capital against the unfavorable movement of the market conditions. There are two types of option: call option and put option.
+7,A major disadvantage of using call options to hedge a short position is that _____.,hedging increases the risk of loss on the short sale.,the option premium and commission reduce profit potential.,the price of the stock may go up.,None of the above,B,"A major disadvantage of using call options to hedge a short position is that
+b. the option premium and commission reduce profit potential.
+A short position loses money if the asset sold increases in price.  To counter this, an investor may purchase a call option on the same asset.  The call option becomes more valuable as the asset price goes up.  To purchase an option, however, the investor must pay an upfront premium, which reduces the profit potential from the short position.  This is the main disadvantage of using options to hedge investment risk.
+a. is incorrect because hedging reduces the risk.
+c. is incorrect because if the price goes up, the call option will be an advantage, not a disadvantage.
+d. is incorrect because of b.","Option Hedging: Option hedging typically involves purchasing options that have the opposite payoff profile from the profile of the asset that the investor is trying to hedge.  For example, if a person owns a stock and is worried about the stock price going down, the person might purchases a put option on the stock.  The value of this option increases as the stock price decreases."
+8,"The higher the call option premium, other things being equal, __________ the maturity of the option.",shorter,longer,no impact,,B,"The higher the call option premium, other things being equal, the
+b. longer
+the maturity of the option.
+The option premium (or price) depends on (1) the exercise price, (2) the current asset price, (3) the time to maturity, and (4) the volatility of the asset.  The question specifies that everything else is the same, and only the time to maturity is allowed to change.  Since the option premium is higher, and (1), (2), and (4) are the same, the time to maturity must be higher.  A longer time to maturity increases the call option value because there is more time for the asset price to increase above the strike price.","Maturity: The time to maturity of an option is the time to expiration.  European options can be exercised at maturity only, while American options can be exercised both at maturity and at any time prior to that."
+9,Which of the following is a characteristic of put and call options?,They are contracts to buy or sell 100 shares of common stock.,There is always a specified price.,There is always a specified time period to exercise options.,All of the above,A,"a. is true.  One option contract is for the purchase or sale of 100 shares.  Thus, the underlying asset is 100 shares.
+b. is true. The specified price in the option contract is called the strike price or the exercise price.  Most stock options are American type options.  They can be exercised by purchasing or selling shares at the specified price at any time before maturity.
+c. is true.  The specified time period is the time until the option can be exercised. Every option quote includes the expiration date and exercise price of the option.
+The correct answer is d. All of the above","Option Exchanges: Like stocks, most stock options are traded on exchanges.  The first exchange, on which stock options began trading in 1973 was the Chicago Board Option Exchange.(CBOE).  Today stock options are traded on numerous exchanges worldwide."
+10,"A put option has an exercise price of {eq}\$40
+
+{/eq} and the put premium is {eq}\$5
+
+{/eq}. The current market price of the underlying stock is {eq}\$38
+
+{/eq}.",Is the option in the money or out of the money?,What is the intrinsic value of the option? The time value?,What is the break-even stock price on the option's expiration date?,"If you purchase this option, what is your maximum possible gain?",A,"The exercise price of the put option is $40 with a put premium of $5. The current market price is $38.
+A.
+Presently, the option is in the money as the strike price of the put option is greater than the underlying stock price.
+B.
+The intrinsic value of the option is
+= Stock price - Exercise price
+= $40 - $38
+= $2
+The time value represents the volatility of the stock price till the option expires. Here, the information regarding expiration time is not given. So, the time value is zero.
+C.
+The break-even stock price on the option's expiration date is the expiration price = $40
+D.
+The maximum possible gain for purchasing this option is
+= Stock price - Exercise price
+= $40 - $38
+= $2
+But since the put premium is $5, the holder will incur a loss as the net payoff amounts to $2 - $5 = -$3",Net Pay-off: The net pay-off in options represents the net gain realized from exercising the option. Often a holder realizes that an in-the-money option results in a loss upon exercising because the gain is offset by the amount of premium paid.
+11,True or False: Foreign currency options are available both over-the-counter and on organized exchanges.,True,False,,,A,"The statement is
+True.
+Both over-the-counter (OTC) and regulated exchanges are platforms for trading foreign currency options. In the OTC market, currency options are customized contracts between two parties, while on exchanges such as the Chicago Mercantile Exchange (CME) or the Philadelphia Stock Exchange (PHLX), standardized contracts are traded.","Over the Counter (OTC): OTC market can be described as a market in which direct trading of financial assets is done between two parties, typically via the dealers, and does not have a centralized exchange system."
+12,The call-option value of a callable bond is likely to be high when,interest rates are high and expected to remain high.,interest rates are volatile.,markets are inefficient.,interest rates are low and expected to remain low.,B,"Option b, interest rates are volatile
+is right.
+When interest rates (IR) are volatile, the premium of callable bonds increases as there is a good chance that the call option will end in the money. With an increase in volatility, the BSM Model incorporates a high volatility number, resulting in higher premiums.
+Option a: When IR is high, there is a less chance that the instrument will be called. Hence, option a is wrong.
+Option c: When markets are inefficient, the price of the instrument may remain low as it does not represent all the public information available in its pricing. Hence, option c is wrong.
+Option d: When IR is low, callable bonds will exhibit negative convexity, and there is a high chance that the instrument will be called. Hence, the option is wrong.",Bonds: Bonds are a kind of fixed income instrument that allows an issuer to fund capital for business purposes from potential business with the assurance of interest rate and principal repayment in the future.
+13,A protective put written on a portfolio (rather than a single stock) is known as:,portfolio insurance,put-call parity,a warrant,Black-Scholes,A,"The answer is A) portfolio insurance.  Like a protective put, it is a hedging strategy used to limit portfolio losses when stocks decline in value.  However, portfolio insurance does not entail actually selling off stock.  Risk mitigation is achieved by short-selling stock index futures.  The strategy can reduce downside exposure, but it limits gains.","Protective Put: A protective put is an investing strategy whereby a put is purchased (short position) on a stock that is held (long position).  For a premium, the put grants the holder the right, but not the obligation to sell the underlying stock.  Essentially, is puts a floor on the price of the stock, but still provides for upside potential."
+14,Which of the positions is the riskiest (offers the possibility of the greatest loss)?,Long position (purchase) on call option,Short position (sale) on call option,Long position (purchase) on a put option,Short position (sale) on a put option,B,"Correct Answer:
+B
+- Short position (sale) on call option.
+Explanation:
+As the call option itself is riskier than the put option and the short position elaborate that one buys it not for own, which means to sale the call option against such stock which are not even self-owned by the investors contains high risk than any other. The perfect term to give justification is the uncovered security option where premium is considered as the only benefit.
+Explanation for Incorrect options:
+Option A: It is wrong because generally, investors prefer to hold long position (purchase) on call option to gain more profit as by predicting that the value will increase in future that's why it is the safe option.
+Option C: This is incorrect as the long position (purchase) on put option offset any kind of loss occurred on underlying asset through the profit generated when stock value drops. So, this option less risky.
+Option D: The short position on the (sale) of put option is risky but the covered put option is less risky which means investor will gain over the option on the short position but it will put the limitation over the potential gain in the same period.",Call and Put Option: Call option is the option which grant right but not the obligation to purchase the underlying security with in the pre-mentioned time while put option grant right but not obligation to sell the underlying security with in the pre- mentioned time frame.
+15,"True or False: A call option gives the owner the right to purchase a fixed number of shares at a specified price, but no right to receive dividends paid during the life of the option.",True,False,,,A,"The statement is
+TRUE.
+By purchasing a call option, a buyer is eligible for a right to acquire the underlying assets or securities at a predetermined price in the future. Thus, the ownership will not be established as long as the option is not exercised. Consequently, a call option holder will not receive dividends from underlying shares during the life of the option since they are not holding these shares.","Option: An option is a common derivative for hedging against an unfavorable change in the price of an asset. In practice, there are two types of options: call option and put option."
+16,Suppose that a stock sells at a price of $60 on the expiration date. Compute the payoff to the seller of a call option if the option strike price is $20.,-$20,-$30,-$40,-$50,C,"The answer is
+C)-$40
+The seller of a call option will have to sell underlying securities to the option holder at the strike price if the option holder decides to exercise the option. In the case that market price of security is greater than the strike price, the option seller will engage a loss.
+Loss = Market price - Strike price = $60 - $20 = $40",Call Option: A call option is attached with a right to buy underlying securities at a predetermined price in the future. Purchasing a call option would be ideal when the price of security is expected to increase.
+17,Given the following:,"What is the profit (loss) at the expiration date of the options if the price of the stock is {eq}\$14,\ \$20
+
+{/eq}, or {eq}\$25
+
+{/eq} and if the investor buys the option with the {eq}\$20
+
+{/eq} strike price and sells the other option?","Compare the profit (loss) from this strategy with shorting the stock at {eq}\$18
+
+{/eq}.","What is the profit (loss) at the expiration date of the options if the price of the stock is {eq}\$14,\ \$20
+
+{/eq}, or {eq}\$25
+
+{/eq} and if the investor buys the option with the {eq}\$15
+
+{/eq} strike price and sells the other option?","Compare the profit (loss) from this strategy with buying the stock at {eq}\$18
+
+{/eq}.",A,"Part a)
+The profit (loss) at the expiration date of the options if the price of the stock is $14, $20, or $25 and if the investor buys the options with the $20 strike price and sells the other option is shown in the following table:
+$14 Stock Price at Expiration
+$20 Stock Price at Expiration
+$25 Stock Price at Expiration
+Value of Call at $20
+$0
+$0
+$5
+Profit of Call at $20
+-$2
+-$2
+$3
+Value of Call at $15
+$0
+$5
+$10
+Profit of Call at $15
+$5
+0
+-$5
+Net Profit (loss)
+$3
+($2)
+($2)
+The price of the stock at $14 has a $0 value call at $20. The profit of the call at $20 is -$2 which is the price of the call at $20. The value of the call at $15 is $5. As a result, the net profit is $3 ($5 profit of call at $15 - $2 profit of call at $20)
+With a stock price of $20 and a call at $20 will result in $0 value (20 - 20 = 0). At this stock price, the purchase of a $20 call would result in a loss of -$2 since the price of a $20 call at a strike of $20 is $2. The value of call at $15 is $5 which is the price of the call at $15. After selling the $15 option, there will be $0 profit. As a result, the net profit (loss) = -$2 (profit of call at $20) + $0 profit of call at $15 = -$2.
+With a stock price of $25 and a call at $20 will result in $5 value (25 stock price - 20 call strike price = 5). At this stock price, the purchase of a $20 call would result in a profit of $3 ($5 Value of Call at $20 - $2 Price of Call at $20 = $3). The value of call at $15 ($25 stock price - $15 strike price call = 10). After selling the $15 option, there will be -$5 loss ($10 value of $15 call price - $15 price of call = -5). As a result, the net profit (loss) = -$2 (-$5 Profit of Call at $15 + $3 profit of call at $20 = -$2)
+Part b)
+According to short selling theory, losses are unlimited and higher compared to the current strategy. Conversely, the losses in the current strategy (i.e. Bear strategy) are limited according to long selling theory.
+Current Strategy
+$14 Stock Price at Expiration
+$20 Stock Price at Expiration
+$25 Stock Price at Expiration
+Value of Call at $20
+$0
+$0
+$5
+Profit of Call at $20
+-$2
+-$2
+$3
+Value of Call at $15
+$0
+$5
+$10
+Profit of Call at $15
+$5
+0
+-$5
+Net Profit (loss)
+$3
+($2)
+($2)
+The calculations for determining the profit on the short strategy are in the chart below:
+Shorting the Stock Strategy
+Stock Price at Expiration
+Profit on Short Strategy
+$14
+$4 = ($18 - $14)
+$20
+-$2 = ($18 - $20)
+$25
+-$7 = ($18 - $25)
+Part c)
+The profit (loss) at the expiration date of the options if the price of the stock is $14, $20, or $25 and if the investor buys the options with the $15 strike price and sells the other option is shown in the following table:
+$14 Stock Price at Expiration
+$20 Stock Price at Expiration
+$25 Stock Price at Expiration
+Value of Call at $20
+$0
+$0
+$5
+Profit of Call at $20
+$2
+$2
+-$3
+Value of Call at $15
+$0
+$5
+$10
+Profit of Call at $15
+-$5
+0
+$5
+Net Profit (loss)
+-$3
+$2
+$2
+The price of the stock at $14 has a $0 value at a call of $20. The profit of call at $20 is $2 which is the price of the call at $20. The value of call at $15 is $0. The profit of the call at $15 is -$5 which is the price of the call at $15. As a result, the net loss is -$3 (-$5 profit of call at $20 + $2 profit of call at $15)
+With a stock price of $20 and a call at $20 will result in $0 value (20 - 20 = 0). At this stock price, the purchase of a $20 call would result in a profit of $2 since the price of a $20 call at a strike of $20 is $2 which is now a profit. The value of call at $15 is $5 which is the price of the call at $15. After selling the $15 option, there will be $0 profit ($5 value - 5 price of call = $0). As a result, the net profit (loss) = $2 (profit of call at $20) + $0 profit of call at $15 = $2.
+With a stock price of $25 and a call at $20 will result in $5 value (25 stock price - 20 call strike price = 5). At this stock price, the purchase of a $20 call would result in a loss of $3. The value of call at $15 = $25 stock price - $15 strike price call = $10). After selling the $15 option, there will be $5 profit. The net profit will be $2 (-$3 profit of call at $20 - $5 profit call at $15).
+Part d)
+According to theory of the bull spread strategy which comprises buying stock low and selling high as in the scenario of buying stock at $18 will limit losses and profits.
+Buying Stock at $18
+Stock Price at Expiration
+Profit on Short Strategy
+$14
+-$4 = ($14 - $18)
+$20
+$2 = ($20 - $18)
+$25
+$7 = ($25 - $18)
+Bull Strategy
+$14 Stock Price at Expiration
+$20 Stock Price at Expiration
+$25 Stock Price at Expiration
+Value of Call at $20
+$0
+$0
+$5
+Profit of Call at $20
+$2
+$2
+-$3
+Value of Call at $15
+$0
+$5
+$10
+Profit of Call at $15
+-$5
+0
+$5
+Net Profit (loss)
+-$3
+$2
+$2","Call Options: Call options are investment options related to stocks and bonds. Call options are agreements that allow the buyer to purchase stocks at a stated price from a seller during a duration of time. The agreement expires at a specified time, also known as the expiration date."
+18,"A firm owns a put option on 10,000 barrels of oil with a strike price of $37.50 per barrel.",Does the firm exercise the option if on the day the option expires the price of oil is $40 per barrel?,What is the cash flow on the day the option expires if the price of oil is $40 per barrel?,,,A,"a.
+A put option with an exercise price of $37.50 allows the holder to sell oil at $37.50.  Since the price, at which the investor can sell on the open market is higher,
+the option will not be exercised.
+b.
+Since the option will not be exercised,
+the cash flow will be $0.","Commodity Option Settlement: Commodity options, such as the option to purchase crude oil are settled in cash at the time of the exercise.  Commodity options can be both American and European style options."
+19,"A call option on Canadian dollars with a strike price of $.60 is purchased by a speculator for a premium of $.06 per unit. Assume each option calls for the delivery of 50,000 CAD.","If the Canadian dollar's spot rate is $.65 at the time the option is exercised, what is the net profit to the speculator?",What would the spot rate need to be at the time the option is exercised for the speculator to break even?,What is the net profit to the seller of this option?,,A,"Part A)
+The net profit to the speculator is computed as follows:
+Net Profit = ($.65 - $.60 - $.06) * 50,000 = -$500
+Part B)
+The spot rate would need to be $.66 for the speculator to break even.  At this price, he would cover the cost of the option with the payoff proceeds.
+Part C)
+The net profit to the speculator is computed as follows:
+Net Profit = ($.60 - $.65 + $.06) * 50,000 = $500","Strike Price: In regard to an option, the strike price is the price at which it can be exercised.  For a call option, a payoff will occur when the strike is less than the price of the underlying.  For a put option, a payoff will occur when the strike is more than the price of the underlying."
+20,"If the delta of a call option is 0.4, calculate the delta of an equivalent put option.",0.6,0.4,-0.4,-0.6,D,"The correct answer is option D. -0.6.
+Always remember that:
+delta of Put Option = delta of Call Option  - 1
+So,
+delta of Put Option = 0.4 - 1
+delta of Put Option =-0.6
+Thus, the correct answer is option D.","Put and Call Options: In business and finance, a put option is an option that gives the buyer an option a right to sell if the price goes favorable on an exercise date. On the other hand, a call option is an option to purchase or buy the assets or commodity at a predetermined price on or before an expiration date."
+21,"A trader shorts 2 European calls and 3 European puts on a stock. Both the calls and puts will be expired in 3 months and are traded at $5 and $4 with strike prices $45 and $40, respectively.",Find the range of the underlying asset price such that the trader's positions will lead to a profit in three months.,"What will be the profit/loss of a short strangle created using the call and put options, if the stock price is $60 at expiration?","If the risk-free rate is 5% with continuous compounding and the stock price is 43, what is the price of the 3-month European put option with a strike price of $45?",,A,"a.
+2 European calls: Strike price = $45; Premium = $5
+3 European puts: Strike price = $40; Premium = $4
+Breakeven price for call = 45+5 =$50
+Breakeven price for put = 40-4 =$36
+b.
+If it is short strangle then trader must short both call and put
+Loss on call: (45-60+5)*2 = 20
+Gain on put: 4*3 = 12
+Net loss = 8
+c.
+Price of European put
+Strike price: $45
+Spot price: $43
+Interest rate 5%
+Time 3 months
+{eq}\begin{align*}
+
+{\rm\text{Price of put}} &= \;\dfrac{{{\rm\text{Strike price}}}}{{{{\left( {1 + {\rm\text{r}}} \right)}^{\rm\text{t}}}}} - {\rm\text{Spot price}}\\
+
+&= \dfrac{{45}}{{{{\rm\text{e}}^{0.05 \times 0.25}}}} - 43\\
+
+&= 44.44 - 43\\
+
+&= 1.44
+
+\end{align*}
+
+{/eq}",Breakeven Price For Call Breakeven price is the price at which an investor will not incur any loss or gain. Breakeven price for a call option is strike price plus premium because strike price is purchase price and premium become the expense to purchase it.
+22,"If an investor writes an ABC stock put and the option is exercised, the investor must:",Receive cash,Deliver cash,Buy stock,Deliver stock,C,"The correct answer is
+c. Buy stock
+.
+A put option is a contract that allows you to sell a specific amount of an asset, like stocks, at a set price, called the strike price, within a certain time.
+There are two main parties in a put option:
+Buyer: This person pays a fee, called a premium, to get the option. It gives a right to sell the asset at the strike price. The buyer can make money using the option if the market price drops.
+Seller: This person sells (writes) the put option, receiving the premium from the buyer, and if the buyer decides to exercise the put, the seller is obligated to buy the asset at the strike price. The seller benefits if the option isn't used, meaning the market price stays above the strike price.
+Based on the explanation above, the investor is the seller who writes an ABC stock put. When the put is exercised, the investor must buy the stock at the set price, making all other options incorrect
+.",Options: Options are derivatives that indicate contracts allowing an investor to buy/sell an asset at a strike price before a specific date. There are two main types: call options (to buy) and put options (to sell). They can be used for trading or hedging risks.
+23,"When the right to purchase stock in the future is used as a substitute for a cash bonus, the company is granting:",Post-retirement benefits,Compensated absences,Stock options,Post-employment benefits,C,"The correct answer is option
+C.  Stock options
+Employee stock option is a type of call option in which the employee of the business entity can buy shares of the company at an agreed price during a given period of time. The advantage of having employee stock options are as follows:
+Ownership;
+Right to vote;
+Dividend.","Call Option: Under the call option, the buyer receives the right to buy security/stock in return for paying the premium to the writer. On the other hand, the writer is the one who receives the premium coming from the buyer."
+24,"Considering a put option, an increase in the strike price:",causes the intrinsic value of the option to decrease if it is above zero.,causes the intrinsic value of the option to increase if it is above zero.,causes the value of the option to decrease.,,B,"The answer is
+B. causes the intrinsic value of the option to increase if it is above zero.
+Intrinsic value of a put option:
+Intrinsic Value = Strike Price - Market price
+If all else things are constant, an increase in the strike price will raise the intrinsic value of a put option. Alternatively, the potential profit associated with this put option will increase if it is exercised.","Put Option: A put option is a derivative that allows the put purchaser to sell the underlying securities at a predetermined price in the future. Thus, a put option allows an investor to limit a massive loss if the price of the underlying security falls down significantly."
+25,Which of the following statements is incorrect?,The vega of a European call option is highest when the option is at-the-money.,The delta of a European-styled put option on an underlying stock moves toward zero as the price of the underlying stock rises.,The gamma of an at-the-money European-styled option tends to increase as the remaining maturity of the option decreases.,"Compared to an at-the-money European-styled call option, an out-of-the-money European-styled option with the same strike price and remaining maturity has a greater negative value for theta.",B,"Correct Option:
+B .
+Explanation for the correct answer:
+The delta of a European styled option actually rises and does not move towards zero when the price of the stock rises as it is positively co-related.
+Explanation for the incorrect answers:
+The following statements are the correct statements:
+Option: A - The Vega of a European call option is highest when the option is at-the-money because its sensitivity will be at the implied volatility. Due to the implications of the time value of money, Vega will be at its highest as long as its expiration.
+Option: C- The gamma of the European option at the money increases when the remaining maturity of the option decreases because the European option can be exercised at its maturity only, unlike the American option, making the value increasing as the maturity comes closer.
+Option: D-  Compared to an at-the-money European-styled call option, an out-of-the-money European-styled option with the same strike price and remaining maturity has a greater negative value for theta because the European style option will not react to price changes when the strike price matches, that makes theta negative.","European Call-Put Option: European call and put options are the contracts that can be executed on the maturity date only. There are various types such as delta, gamma, Vega & theta as per its volatile attributes resulting in different outcomes and sensitivity."
+26,A European option is different from an American option in that:,one is traded in Europe and one in traded in the United States.,European options can only be exercised at maturity; American options can be exercised anytime till maturity.,"European options tend to be worth more than American options, ceteris paribus.",American options have a fixed exercise price; European options' exercise price is set at the average price of the underlying asset during the life of the option.,B,"The answer is B. European options can only be exercised at maturity; American options can be exercised anytime till maturity.
+The terms European and American options were coined by the economist Paul Samuelson to differentiate between options that can be exercised at maturity and those that can be exercised at any time. Most options traded over the counter are European, while most options traded on organized exchanges are American.  Pricing European options is usually easier because they can be exercised only at a particular time.
+A. is incorrect because the terms European and American do not refer to the trading venue.
+C. is incorrect. American options are worth more because they can be exercised at any time until maturitiy.
+D. is incorrect because the exercise price of both types of options is fixed.","Exercise Price: The exercise price is one of the most important components of an options contract.  This is the price, at which the option can be exercised by the buyer.  The buyer of a call option can purchase an asset at the exercise price, while the buyer of a put option can sell an asset at the exercise price."
+27,You have taken a long position in a call option on IBM common stock. The option has an exercise price of $156 and IBM's stock currently trades at $160. The option premium is $5 per contract.,How much of the option premium is due to the intrinsic value versus time value?,What is your net profit on the option if IBM s stock price increases to $170 at the expiration of the option and you exercise the option? (Negative amount should be indicated by a minus sign.),What is your net profit if IBM s stock price decreases to $150? (Negative amount should be indicated by a minus sign.),,A,"Part a.
+The intrinsic value of the option premium is $4, which represents the difference between the underlying stock price and the exercise price ($160 - $156 = $5).
+Part b.
+The profit is computed as follows:
+Profit = Stock Price - Strike Price - Premium
+Profit = $170 - $156 - $5 = $9
+Part c.
+The profit is computed as follows:
+Profit = $150 - $156 - $5 = -$11","Long Stock Call: A long call is a phrase used to describe a long position in a call stock option.  This position grants the option holder the right, but not the obligation, to buy the underlying stock at a specified price during a specific period."
+28,True or False: A put option with a strike price of 60 is out of the money if the spot price of the underlying asset is 65.,True,False,,,A,"It is
+true
+that a put option with a strike price of 60 is out of the money if the spot price of the underlying asset is 65.
+When an underlying asset's spot price is higher than the strike price for a put option, it is said to be ""out of the money"". This is because if buyers exercised the option, they would be able to sell the underlying assets for less money.
+For example, if a put option's strike price is $70 per share and the stock's market price is $85 per share, the option is out of the money, since its holder cannot profitably exercise it at this time.
+In the given statement, the market price is greater than the strike price. Hence, it should be considered out of the money.",Put Option: A put option grants the option holder the right to sell an underlying financial asset at a certain price on or before the contract expires. Put options are used to protect portfolios from market collapses. Investors have two alternatives for realizing profits from put options: reselling or exercising.
+29,Debt holders can be thought of as owning the firm but having _____ a call option on the assets of the firm with a strike price equal to _____.,"written, face value of debt","bought, face value of debt","written, value of equity","bought, value of equity",A,"The answer is
+A) written, face value of debt
+Debt holder can be treated as a firm owner and his ownership can be explained by the concept of a call option. That person can sell a call option. The strike price would be the face value of debt.
+If the value of firm is greater than debt, the call option will be exercised, debt holder gives up his ownership to receive the face value.
+If the value of firm is less than debt, bankruptcy happens and debt holder will clam on firm's assets.",Call Option: A call option is a derivative that represents a right to purchase underlying securities at a predetermined price in the future. A call option purchaser might either exercise or not exercise the option on the expiration date.
+30,"When dealing with options, what is the meaning of the following terms?",'time value','strike price','in the money',,A,"a.	Time value is a portion of the premium of an option that is traceable to the time remaining to the expiry of option contract.
+b.	Strike price refers to the price at which the option is exercised by the parties to the option contract at a particular future date.
+c.	""In the money"" option refers to the option that has a positive intrinsic value. An ""In the money"" call option refers to the one where the strike price of the underlying asset is lower than the market price. Whereas, an ""In the money"" put option refers to the one where the strike price of the underlying asset is higher than the market price.",Options: Options refer to the agreement between two parties under which the seller provides the right to the option buyer to buy or sell a particular asset at a specific price at a specific future date. The option types include call option and put option.
+31,Suppose that a stock sells at a price of $60 on the expiration date. Compute the payoff to the seller of a put option if the option strike price is $20.,-$20,-$10,0,$40,C,"The correct answer is C) $0.  The put expires out of the money ($60 > $20 strike).  This means the buyer of the option will let it expire worthless.  The seller will pocket the premium charged, but will not be obligated to make any form of payoff.","Stock Put Option: A stock put option is a financial derivative security.  A long position on a put entails a buy.  This provides the holder the option, but not the obligation, to sell an underlying security.  A short position on a put entails a sell.  This obligates the seller to buy an underlying security at a specified price."
+32,A call option gives the writer:,the obligation to buy something.,the right to sell something.,the right to buy something.,the obligation to sell something.,C,"The answer is
+c. the right to buy something.
+A call option is an agreement between the option buyer and the option writer that the option buyer will purchase the underlying securities or assets at a strike price in the future. In fact, the option buyer is not obligated to exercise the option.","Option: An option is a derivative that specializes a transaction in the future with a given price. Note that, an option is not an obligation, in which the option buyer might not exercise it."
+33,"For European options, the value of a put is equal to:",The value of the share minus the value of a call plus the present value of the exercise price.,The value of a call minus the value of a share plus the present value of the exercise price.,The value of the share minus the present value of the exercise price plus the value of a call.,The value of a call plus the value of a share plus the present value of the exercise price.,B,"Option b): The value of a call minus the value of a share plus the present value of the exercise price.
+From the general formula, the value of the put option is derived as shown below:
+{eq}\begin{align*}
+
+Value\,of\,call\,option - Value\,of\,put\,option &= Value\,\,of\,a\,share - Exercise\,price\\
+
+Value\,of\,put\,option &= Value\,of\,a\,call\,option - Value\,\,of\,share\\
+
+&+ \Pr esent\,value\,of\,the\,Exercise\,price
+
+\end{align*}
+
+{/eq}
+Therefore, the more the value of a share, the less will be the value of the put option as the put option rises when the value of the share falls.
+Explanations for incorrect options:
+Option a: In order to find out the value of any option, the value of exercise price and the value of a share are never added.
+Option c: The present value of the exercise price is never subtracted from the value of a share while finding a put option.
+Option d: In order to find out the value of any option, the value of exercise price, the value of a call option, and the value of a share are never added.","European Options European Options options refer to the type of options contract which cannot be exercised before the expiration date. European options are used in the case of several stocks listed in the S&P 500 Index, the Nasdaq and many more."
+34,An instrument is dishonored when the party to whom the instrument is presented refuses to pay it.,True,False,,,A,"The correct option is A) True.
+A monetary instrument is a bank-issued financial product with a specific value. It is a contract between two parties that guarantees future payment. A financial instrument is supposed to be dishonored when the party who possesses the instrument denies or refuses to pay it. In such cases, the other party has the right to sue the party who denied to pay.",Breach of Contract A contract is violated or breached when one party fails or refuses to act in accordance with the contract's terms and conditions. This action could result in legal consequences for the party that broke the agreement.
+35,"A call option on ABCD stock, with an exercise price of $50, will either be worth $12 or worthless. The call option has a delta of 0.3. What is the binomial spread of possible stock prices?",Low of $22 and high of $62,Low of $50 and high of $62,Low of $58 and high of $62,Low of $38 and high of $62,D,"The correct answer is option
+D. Low of $38 and high of $62.
+To answer this problem, we must compute the change in stock price to get the binomial spread of possible stock prices. Accordingly, we know that:
+Option Delta = Change in option price / change in stock price, therefore,
+Change in stock price = change in option price / Option Delta
+Change in Option Price = $12
+Option Delta = 0.30
+Change in stock price = $12 / 0.30
+Change in stock price = $40
+Thus, based on the options above, option D. is the correct answer. The binomial spread of possible stock prices is low at 38 and high of 62.","Options: In finance, options are the right, not an obligation, to perform a particular transaction at a specified date on particular terms. It has wide applicability and can be linked to a variety of assets. Accordingly, options can be categorized into put options and call options."
+36,A European option with a later exercise date may trade potentially for less than an otherwise identical option with an earlier exercise date.,True,False,,,A,"The statement is true. A European option is traded only at the expiration date or exercise date. In case the exercise dates of one European option is longer than another European option. Then, the option with a longer exercise date takes time to exercise than the option with a shorter exercise date.","Derivative A derivative is a type of commercial security in which the value derived from a specific asset, like currencies, shares, and so on, typically it is an agreement formed by individuals on an agreed underlying asset at a fixed price and time. Example: Option."
+37,An investor owns a call option on 100 shares of XYZ stock with a strike price of $25.,Does the investor exercise the option if on the day the option expires the price of the stock is $30 per share?,What is the cash flow on the day the option expires if the price of the stock is $30 per share?,,,A,"a.
+Yes, the option will be exercised if the market price is higher than the strike price.
+The call option allows the investor to purchase 100 shares of XYZ stock at the price of $25 each.  If he/she exercises the option, the investor will be able to purchase each share for $25 and sell it for $30, thus realizing a $5 profit per share.
+b.
+The cash flow from exercising the option is:
+{eq}Cash \ flow = (Selling \ price-Purchase \ price)*Shares \ per \ contract\\
+
+Cash \ flow = (30-25)*100\\
+
+Cash \ flow = \$500\\
+
+{/eq}
+The cash flow on the day the option expires is $500.",Option Cash Flows: The cash flows of an option consist of two parts.  The first part is negative.  It is the option premium paid by the investor when he/she acquires the option.  The second part is either zero or positive.  It is the profit from the option on the date it expires.
+38,A put option in which the stock price is $21.5 and the exercise price is $22 is said to be:,in-the-money.,out-of-the-money.,at-the-money.,exercisable.,A,"The answer is
+a. in-the-money.
+Given information:
+Market price = $21.50
+Strike price = $22
+Intrinsic value = Strike price - Market price = $22 - $21.50 = $0.50
+A positive intrinsic vale indicates that the put option happens the in-the-money position.","Put Option: A put option is a derivative that helps investors to limit the potential loss if the price of a security falls down in the future. In detail, a put option allows an investor to sell underlying securities at a predetermined price at a specific future date."
+39,A _____ put seller has the possible obligation to buy stock at the strike price.,Long.,Short.,Strike.,,A,"The correct answer is A.
+The long-put seller is obligated to purchase the stock from the holder of the put option. The obligation requires the put seller to buy the underlying asset from the put buyer. The asset is bought at the strike price. The seller has the obligation because they receive an upfront premium for such obligation.
+The explanation for incorrect answers is:
+Option B is incorrect as the short put seller is provided with a premium for writing the option, and the premium is the profit they receive. They are not obligated to buy stock.
+Option C is incorrect as the strike seller does not have this obligation to buy the stock.",Put to Seller: Put to seller means the procedure to be followed in the exercise of the put option. This procedure involves the put writer obtaining the underlying shares. The put holder has the right to sell the put option before the option matures.
+40,Suppose there is a risk premium of $1.00. The spot price is $10.00 and the futures price is $12.00.,$22.00,$13.00,$11.00,$10.00,B,"The answer is
+b. $13
+Given information:
+Futures price = $12
+Risk premium = $1
+Expected price = Futures price + Risk premium = $12 + $1 = $13","Derivative: A derivative is an agreement between two parties about a future transaction of buying or selling a particular item at a predetermined price. There are some common derivatives such as futures, forwards, and options."
+41,True or False: An American option can be exercised only at specified times prior to the expiration date.,True,False,,,B,"The statement ""An American option can be exercised only at specified times before the expiration date"" is
+false
+.
+It is because the American option has the feature of allowing the holder to exercise the option prior to the expiration date. The holder of the option can exercise the option if the position is profitable without any bounds before the expiration; it does not constrain the holder to only exercise at some specific times. The statement explains that the Bermuda option, which is a modified version of the American option, allows the holder to exercise the option only on some specific dates.","Options: Options can be explained as financial derivative instruments that have the inherent feature of enabling the holder to exercise the options at his will but do not obligate him to do so. Options are of three types: American options, European options, and Bermuda options."
+42,XYZ CORPExerciseNYSEDatePricePriceCloseCallsOCT8516 3/4101 11/16OCT9012101 11/16OCT957 5/8101 11/16PutsOCT851/8101 11/16OCT903/8101 11/16OCT9513/16101 11/16,"If you establish a long strip using the options with a 90 exercise price, what is your dollar gain or loss if at expiration XYZ is trading at 101 11/16?","If you establish a long strip using the options with a 95 exercise price, what is your profit or loss if at expiration XYZ is trading at 101 11/16?","If you establish a long straddle using the options with a 95 exercise price, what is your dollar gain or loss if at expiration XYZ is trading at 101 11/16?",,A,"a.
+To establish Long Strip we need,
+Buy 1 Call
+Buy 2 Puts
+Strike price: 90
+Spot price: 101.69
+Loss on call: 101.69-90 -12 = 0.31
+Loss on Put: 2*0.375 = 0.75
+Net loss: 1.06
+b.
+To establish Long Strip we need,
+Buy 1 Call
+Buy 2 Puts
+Strike price: 95
+Spot price: 101.69
+Loss on call: 101.69-95-7.625 = 0.935
+Loss on Put: 2*0.813= 1.626
+Net loss: 2.561
+b.
+To establish Long Straddle we need,
+Buy 1 Call
+Buy 1 Puts
+Strike price: 95
+Spot price: 101.69
+Loss on call: 101.69-95-7.625 = 0.935
+Loss on Put: 1*0.813= 0.813
+Net loss: 1.748",Strip and Straddle Strip is an extension of straddle strategy. It case of straddle an investor has to long or short one put and 1 call but in strip investor long one call and long 2 put. The market outlook is same in both the strategy i.e. market is going move significantly.
+43,Suppose that a stock sells at a price of $50 on the expiration date. Compute the price of a put option if the option strike price is $80.,$20,$30,$40,$50,B,"The correct answer is B) $30.  Computation support is below.
+At expiration, the price of a put option would be equal to its intrinsic value.  In this case, this reflects the difference between the exercise price ($80) and the underlying stock price ($50).  Therefore, this price is $30 ($80 - $50 = $30).","Strike Price: For a stock option, the strike price, which is also referred to as the exercise price, is the price at which the option can be executed.  For example, consider a call with a strike price of $25.  This means the option can be executed at a price of $25.  This would generate a payoff for any underlying stock price above $25."
+44,A share of stock can be thought of as a call option on the assets of the firm with a strike price equal to the face value of debt.,True,False,,,A,"The answer is
+a. True
+.
+The statement given in the question is true. This is because, if liquidation of a firm occurs, its shareholders get the amount of money equal to the value of equity minus the value of debt. If the debt is more valuable than equity, the holders of the stock will receive nothing but if the opposite is true, they will receive the difference between these two amounts. That is why a shareholder's investment can be compared with having a call option on the company's assets whose strike price is the value of debt.","Call Option: A call option is a contract that allows the option buyer to purchase a given asset at a specific date and price. It is important to note that the option does not necessarily have to be exercised as it is only the right to buy the underlying asset, and not the obligation."
+45,"How can a trader produce a short vega, long gamma position?","Buy short-maturity options, sell long-maturity options.","Buy long-maturity options, sell short-maturity options.",Buy and sell options of long maturity.,Buy and sell options of short maturity.,A,"Correct Option:
+A .
+Explanation for the correct answer:
+A short Vega is possible only on buying the options having maximum 3 months to maturity and selling it with the maturity more than a year i.e long maturities. Because Vega is sensitive to the implied volatility.
+Explanation for the incorrect answers:
+Option: B - When buying long maturity & selling short maturity options, gamma will be largest but Vega cannot be static as short as per the requirement hence it is not possible.
+Option: C- There has to opposite directional actions for short Vega and Long gamma. So selling & buying both of long maturity is not possible.
+Option: D-  There has to opposite directional actions for short Vega and Long gamma. So selling & buying both of short maturity is not possible.",Trader: A trader is a person who buys & sells the stocks as an asset for himself or for anyone else in which the difference in buying & selling price turns his return. All traders can be said as investors but not all investors as trader.
+46,Which of the following statements is FALSE?,The option price is more sensitive to changes in volatility for at-the-money options than it is for in-the-money options.,A share of stock can be thought of as a put option on the assets of the firm with a strike price equal to the value of debt outstanding.,"In the context of corporate finance, equity is at-the-money when a firm is close to bankruptcy.","Because the price of equity is increasing with the volatility of the firm's assets, equity holders benefit from a zero-NPV project that increases the volatility of the firm's assets.",B,"The incorrect option is
+B) A share of stock can be thought of as a put option on the assets of the firm with a strike price equal to the value of debt outstanding.
+When the strike price is equivalent to the value of debt outstanding, then the share of stock is considered as a call option.
+The explanation for correct options:
+Option A: Generally, the value of the option will fluctuate to volatility more than with at-the-money option rather than in-the-money options.
+Option C: Equity always comes to at-the-money if a company is at the edge of bankruptcy.
+Option D: Equity holders get an advantage of a neutral NPV project when the volatility of the assets increases as it increases the value of the equity.",Equity share An equity share is a portion of shares of an organization; those who own such shares become part of the business and they are called equity shareholders. These shareholders can participate in voting and have the right to choose the board of directors.
+47,A purchaser of a currency put option buys the right to sell a specific currency at a specific price within a specific period of time.,True,False,,,A,"The statement is TRUE.
+A put option provides the purchaser a right to sell underlying assets or securities at a given price after a specific period. Both the selling price and the date of sale are predetermined when the put option is written by its seller.","Derivatives: A derivative is a security that its value is derived from underlying securities. In practice, there are some common types of derivatives: call option, put option, futures contract, and forward contract."
+48,A European option on a stock is more valuable than an otherwise similar American option on the same stock.,True,False,,,B,The answer is b. False.  American options offer a higher degree of flexibility with regard to exercisability.  This flexibility is worthwhile and makes American options generally more valuable than European options.,"American vs. European Options: The primary difference between an American and a European option relates to the exercise date.  A European option may be exercised only at expiration, while an American option can be exercised at any time prior to expiration."
+49,"An investor purchases a call option and its underlying stock on the same day. If the stock appreciates by 25%, the call option will appreciate by:",more than 25%,less than 25%,exactly 25%,none of the above,A,"The answer is
+A) more than 25%.
+Value of call option = Market price - Strike price - Premium
+If the market price increases by 25%, but strike price and premium stay unchanged, the percentage increase in option value will be more than 25%.","Call Option: A call option refers to a right of purchasing underlying securities at the strike price in the future. A call option will be executed when the market price is greater than the strike price. Usually, an investor will purchase a call option if he expected the market will increase at the option expiry."
+50,Suppose that a stock sells at a price of $10 on the expiration date. Compute the price of a call option if the option strike price is $20.,$20,$30,$40,$0,D,"The answer is
+D) $0.
+On the expiration date, the market price of the stock is less than the strike price so, the price of this call option would be $0.",Call Option: A call option is a right to purchase the underlying securities at the strike price on the expiration date. A call option should be purchased if the investor believes that the price of the securities will increase in the future.
+51,Which of the following affects the value of a call option?,I and III only,II and IV only,"I, II, and IV only","II, III, and IV only",C,"The correct answer is c.
+The value of a call option is affected by three factors:
+1) The strike price is the value of the underlying asset. If the strike price is low, the call option is valuable due to the difference between the strike price and stock value. The more the stock value is above the strike price, the chances of profit also increase.
+2) The longer the time remaining in the expiry of the contract, the more valuable it is. This is because it provides more time for the value of the asset to increase.
+3) The call option is directly proportional to its risk-free rate. This means that the value of the call option will increase with an increase in the risk-free rate and vice-versa.",Call Option: A call option is a contract between two parties giving one of them the right to buy an asset at a pre-determined price within a pre-determined period. The contract is made for the purchase of an underlying asset.
+52,A call option is said to be __________ when the market price of the underlying security exceeds the exercise price.,in-the-money,at-the-money,out-of-the-money,none of the above,A,"A call option is said to be
+a. in-the-money
+when the market price of the underlying security exceeds the exercise price.
+An option that is in the money is one that will result in a positive payoff, if exercised immediately.  When the market price is above the exercise price, the option holder can purchase the security at the lower exercise price and sell it at the higher market price, thus realizing a profit.  This option is said to be in-the-money.
+b. is incorrect.  This is the case when the market price is equal to the exercise price.
+c. is incorrect.  This is the case when the market price is below the exercise price, so the option would not be exercised.
+d. is incorrect because of a.","Call Option: A call option gives the buyer of the option the right, but not the obligation, to purchases a particular asset at a prespecified price.  This asset may be a real asset or a financial one."
+53,"All else equal, as the underlying stock price decreases:",The call price increases.,The put price decreases.,The put price increases.,There is no effect on put price.,C,"The answer is C. The put price increases.  The payoff on a put option is equal to the exercise price less the underlying stock price.  So, as the stock price declines, the payoff becomes larger, which results in a greater value assigned to the option.","Put Option: A put option is a derivative security.  This means it derives its value from an underlying security.  IN the case of a stock put option, it grants the holder the right, but not the obligation, to sell the underlying stock.  This differs from a call option, which grants the holder the right to buy the underlying stock."
+54,The potential loss for a writer of a call option on a stock is _____.,equal to the call premium,larger the lower the stock price,limited,unlimited,D,"The potential loss for a writer of a call option on a stock is
+unlimited
+.
+The situation of loss to a seller occurs when the price starts going up and goes above the agreed price. The loss linked to the seller is unlimited since the asset price can rise to infinity. Hence, option D is valid.
+The explanations for incorrect options are as follows:
+Option A: equal to the call premium: To acquire the right associated with a call option, a buyer is required to pay some amount to the seller, which is in the form of a premium. In the case of the seller, the maximum profit is equal to the amount received and not the maximum loss. Therefore, it is incorrect to say that the loss is equal to the call premium due to the situation of potentially unlimited loss. Hence, option A is incorrect.
+Option B: larger the lower the stock price: It is also incorrect since profit is generated for a seller when the price falls.
+Option C: limited: It is incorrect since the potential loss is unlimited.","Call Option: A call option provides a choice under which a buyer has the right to acquire or buy an asset. The choice is exercised only when it is beneficial for the option buyer. However, there is no compulsion on the buyer to exercise the option, since the buyer receives a choice and not an obligation."

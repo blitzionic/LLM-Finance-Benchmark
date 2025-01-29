@@ -1,0 +1,373 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"What annual payment must you receive in order to earn a 6.5% rate of return on a perpetuity that has a cost of $1,250?",$77.19,$81.25,$85.31,$89.58,B,"The present value of a perpetuity is
+{eq}\rm PV = \displaystyle \dfrac{Cash~flow}{Rate~of~return}\\ \rm \$1,250 = \displaystyle \dfrac{Cash~flow}{0.065}\\ \rm Cash~flow = \$81.25 {/eq}
+Hence, the correct answer is
+b. $81.25
+.","Present Value of a Perpetuity: In finance, perpetuity refers to a security with infinite annual cash flows. Perpetuities can be either with stable cash flows or growing cash flows. The practical aspect of perpetuities is very limited but it is an important concept to master the understanding of the time value of money on which, business finance is based."
+2,Which securities has the pattern of cash flows of perpetuities?,Common shares.,Preferred shares.,Corporate bonds.,Government bonds.,B,"The answer is
+b) Preferred shares
+.
+The pattern of cash flows of perpetuity is cash inflows would last forever.
+The preferred stockholders would receive the annual dividend as long as they keep the ownership of these shares. Thus, it represents the pattern of perpetuity if the preferred shares are held forever.
+Common stock might not pay out the dividends if there are some upcoming plans that require a large volume of capital. The firm would retain the net income to support those projects.
+Both corporate and government bonds would pay the interest payments until the maturity. There would be no subsequent cash flows after the maturity date.",Perpetuity: A perpetuity is a fixed-income security that investors would be able to gain an infinite stream of payments. The value of a perpetuity is subjective to the changes in the market interest rates.
+3,"What is the value today of $700 paid every six months forever, with the first $700 payment occuring five years from today? Interest rates are 8% p.a. compounded half-yearly.","$12,295.27","$17,500.00","$4,377.18","$11,822.37",A,"The answer is
+a. $12,295.27.
+Given information:
+Semiannual payment (PMT) = $700
+Waiting periods (N) = 9 semiannual periods
+Semiannual interest rate (I) = 8% x 0.5 = 4%
+Step 1: Estimate the value of all semiannual payments one period before the first payment (9 periods from now):
+{eq}\text{Value}_9 = \displaystyle \frac{\text{PMT}}{\text{I}} \\ \text{Value}_9 = \displaystyle \frac{\$700}{4\%} \\ \text{Value}_9 = \displaystyle $17,500 {/eq}
+Step 2: Estimate the current value of the perpetuity:
+{eq}\text{Current value} = \displaystyle \frac{\text{Value}_9}{(1 + I)^N} \\ \text{Current value} = \displaystyle \frac{\$17,500}{(1 + 4\%)^9} \\ \text{Current value} = \displaystyle \$12,295.27 {/eq}","Perpetuity: Apart from an annuity, a perpetuity will contribute periodic payments forever. Due to a stable stream of payments forever, perpetuity should be considered for a retirement portfolio."
+4,TRUE or FALSE: An increase in the interest rate (assuming positive interest rates) will always cause the present value of a perpetuity (with annual cash flows greater than 0) to decrease.,True,False,,,A,"An increase in the interest rate (assuming positive interest rates) will always cause the present value of a perpetuity (with annual cash flows greater than 0) to decrease.
+True
+The evaluation of the value of a property is done by the capitalization of net income by dividing periodic payment by desired return or interest rates. With higher interest rates, the value for upcoming payments starts falling. This lowers the value of the perpetuity.",Perpetuity: Perpetuity is an annual payment that has no maturity as there is no finite period of time for the payments. The most appropriate example for perpetuity is a payment of dividends on equity shares that are continuously paid until the winding up of the firm.
+5,Perpetuity can be described as:,an annuity that lasts longer than 25 years,an amount of interest that is annually adjusted up or down and is paid forever,an annuity that goes on forever,principal that is repaid after 100 years,C,"The answer is
+c. an annuity that goes on forever
+A perpetuity will have an infinite series of cash flows, in which it could be described as an annuity with unlimited number of interest payments.","Perpetuity: A perpetuity is a fixed income, which should be selected as a component for a low-risk investment portfolio. The cash flows generated from a perpetuity can secure investor's financial health."
+6,"a. Your grandfather wants to establish a scholarship in his father's name at a local university and has stipulated that you will administer it. As you've committed to fund a $20,000 scholarship every year beginning one year from tomorrow, you'll want to set aside the money for the scholarship immediately. At tomorrow's meeting with your grandfather and the bank's representative, you will need to deposit _____ so that you can fund the scholarship forever, assuming that the account will earn 5.50% per annum every year.",,Oops! The bank representative just reported that he misquoted the available interest rate on the scholarship's account. Your account should earn 3.50%. The amount of your required deposit should be revised to _____.,This suggests there is (a direct/an inverse) relationship between the interest rate earned on the account and the present value of the perpetuity.,,A,"Perpetuity formula:
+{eq}Value_{perpetuity} = \displaystyle \frac{PMT}{I} {/eq}
+a.
+{eq}Value_{perpetuity} = \displaystyle \frac{\$20,000}{5.5\%} = $363,636.36 {/eq}
+b.
+{eq}Value_{perpetuity} = \displaystyle \frac{\$20,000}{3.5\%} = $571,428.57{/eq}
+c.
+There is an inverse relationship between interest rate and the value of a perpetuity. An increase in interest rate will decrease the initial required deposit.","Perpetuity: A perpetuity is a fixed-income security that investors will gain an infinite series of cash inflows in the future. With that being said, it is also known as an annuity with unlimited payments."
+7,Preferred stock valuation usually treats the preferred stock as a:,capital asset.,perpetuity.,common stock.,long-term bond.,B,"The answer is
+b. perpetuity.
+A preferred stock will make its dividends indefinitely as long as the business is operated. With that being said, the series of dividends can be treated as perpetuity. Hence, the value of a preferred stock can be estimated by using the present value formula for perpetuity.","Preferred Stocks: Preferred stocks are also the firm's shares issued to raise additional equity capital. Compared to common stocks, preferred stocks offer a higher dividend payout ratio. In addition, dividends from preferred stocks are senior to common stocks' dividends."
+8,"Perpetuity pays  {eq}\$500
+
+{/eq} each and every year forever. The duration of this perpetuity will be  {eq}\_\_\_\_
+
+{/eq} if its yield is  {eq}\$10 \ \%.
+
+{/eq}","{eq}7
+
+{/eq}","{eq}9
+
+{/eq}","{eq}11
+
+{/eq}","{eq}12
+
+{/eq}.",C,"The correct answer: Option C.
+The duration of perpetuity will be 11.
+Workings:
+Yield (r) = 10%
+{eq}\begin{align*}
+
+{\rm\text{Duration of Perpetuity  }}&=\frac{{1 + r}}{r}\\
+
+&= \frac{{1 + 0.10}}{{0.10}}\\
+
+&= 11
+
+\end{align*}
+
+{/eq}",Perpetuity: Perpetuity is a concept in which identical cash flows are to be received or paid for an infinite period. There are two concepts related to perpetuity one is constant and another one is growing perpetuity.
+9,What's the present value of a perpetuity that pays $100 per year if the appropriate interest rate is 6%?,"$2,854.13","$1,324.89","$1,011.87","$1,666.67",D,"The correct option is
+option D. $1,666.67
+.
+Given information:
+Identical cash flows = $100
+Interest rate = 6%
+The present value of perpetuity can be computed by dividing the identical cash flows by the interest rate.
+{eq}\begin{aligned} \text{Present}\ \text{value}\ \text{of}\ \text{perpetuity} &=\frac{\text{Identical}\ \text{cash}\ \text{flows}}{\text{Interest}\ \text{rate}} \\ &=\frac{\$100}{6\%} \\ &=\$1,666.67 \end{aligned} {/eq}",Perpetuity: A perpetuity is a type of security that pays a constant amount over infinite periods. It is like an annuity with no end. The present value of perpetuity can be calculated using the interest rate and a constant amount.
+10,"Life Insurance Co. is selling a perpetuity contract that pays $1,050 monthly. The contract currently sells for $75,000.",What is the monthly return on this investment vehicle?,What is the APR?,What is the effective annual return?,,A,"Summary:
+Monthly payment = $1,050
+Current price = $75,000
+a. Determine the monthly return on the investment:
+{eq}Monthly\:rate\:of\:return = \displaystyle \frac{Monthly\:payment}{Current\:price} {/eq}
+{eq}Monthly\:rate\:of\:return = \displaystyle \frac{\$1,050}{\$75,000} {/eq}
+{eq}Monthly\:rate\:of\:return = 1.4\% {/eq}
+b. Determine the annual percentage return (APR):
+APR = Monthly rate of return x Number of months per year
+APR = 1.4% x 12
+APR = 16.8%
+c. Determine the effective annual return, assuming monthly compounding interest:
+{eq}Effective\:annual\:return = \displaystyle (1 + Monthly\:rate\:of\:return)^{Months\:per\:year} - 1 {/eq}
+{eq}Effective\:annual\:return = \displaystyle (1 + 1.4\%)^{12} - 1 {/eq}
+{eq}Effective\:annual\:return = 18.16\% {/eq}","Perpetuity: A perpetuity is a fixed-income investment that contributes a series of indefinite cash inflows. With that being said, a perpetuity is recommended for people's retirement investment."
+12,"If a perpetuity pays $100 at the end of every year, starting in one year, and the interest rate is 2%, then the price of the perpetuity is $5,000.",True,False,,,A,"True.
+The present value of a perpetuity is the same as the price of the perpetuity. It is calculated as follows:
+{eq}PV=\dfrac{A}{r}
+
+{/eq}
+Where {eq}A
+
+{/eq} is the perpetuity amount and {eq}r
+
+{/eq} is the interest rate.
+If a perpetuity pays $100 at the end of every year, starting in one year, and the interest rate is 2%, then the present value of this perpetuity is equal to:
+{eq}PV=\dfrac{\$100}{0.02}\\[0.3cm]
+
+PV=\bf \boxed{\$5,000}
+
+{/eq}","Perpetuity In economics and accounting, when we receive or pay the same amount of money each period for an undefined period of time, we refer to the fixed payment or income as a perpetuity."
+13,An annuity that involves equal periodic payments without end is called:,An annuity due.,A perpetuity.,An interest-only loan.,Taxes.,B,"b) A perpetuity.
+An annuity that involves equal periodic payments without end is called
+perpetuity
+.
+An annuity is a fixed payment made on a regular basis for a set period of time. An annuity may be either an ordinary annuity or an annuity due. Payments for the ordinary annuity will be made at the end of each period, while payments for the annuity due will be made at the beginning of each period. A perpetuity is a form of annuity where payments occur forever.","Investment Cash flows: An investment is an opportunity that requires incurring a cost today in order to receive future economic benefits. An investment's cash flows may be a lump sum, a sequence of unequal cash flows, or an annuity. The cash flows, risk, return, and investment duration are all factors considered when determining the value of an investment."
+14,What is the present value of a bond that pays $50 per year forever if your required rate of return is 12%?,$417,$600,"$4,167",infinity,A,"Correct Answer:
+Option a. $417
+.
+As per the data:
+Annual cash flows = $50
+Required rate = 12%
+The following formula helps determine the perpetual bond's present value:
+{eq}\text{Present value of the perpetual bond} = \dfrac{\text{Annual cash flows}}{\text{Required rate}} = \dfrac{\$50}{12\%} = \$417
+
+{/eq}",Bonds: Bonds are categorized as a long-term source of finance. They offer fixed income to the investors through periodic interest payments until maturity and par value redemption when the bonds mature.
+15,"Suppose a perpetuity bond with a face value of $1,000 has a coupon rate of 8%. If market interest rates rise to 12%, the price of the bond:","rises to $1,120","rises to $1,080",falls to $666.67,falls to $880,C,"The correct answer is option
+C. falls to $666.67
+The coupon amount is given by:
+= Coupon rate * face value
+= 8% * $1,000
+= $80
+The revised price of the bond is given by:
+= Coupon amount / revised market interest rate
+= $80 / 12%
+= $666.67",Perpetuity Bond: A bond is a debt instrument meant to raise borrow funds from investors. The bonds may or may yield periodic coupons to the investors. A perpetuity bond is a bond that pays coupons for an indefinite time horizon.
+16,What would the present value be if a person received $900 in perpetuity and the interest rate is 16%?,"$14,400","$5,625","$9,722","$1,044",B,"Correct Answer:
+Option b. $5,625
+.
+We can determine the present value of perpetuity using the following equation:
+{eq}\text{Present value of perpetuity} = \dfrac{\text{Annual cash flows}}{\text{Discount rate}}= \dfrac{\$900}{16\%} = \$5,625
+
+{/eq}",Perpetuity: A perpetuity is an investment option available to investors who seek periodic income for an indefinite time. A perpetuity's present value is the discounted value of the future annual cash flows.
+17,"The formula for calculating the present value (PV) of perpetuity is PV = PP/(1 + i), where PP is the perpetuity payment andiis the discount rate.",True,False,,,B,"Correct Answer:
+Option b) False.
+The statement is false and the correct formula for calculating the present value (PV) of perpetuity is given below:
+{eq}\text{Present value of a perpetuity} = \dfrac{\text{Annual cash flows }}{\text{Discount rate}}
+
+{/eq}
+Where,
+Annual cash flows refer to the periodic payment amounts.
+Discount rate refers to the interest rate at which the investment is made.","Perpetuity: Perpetuity is a series of periodic payments of equal amounts for an indefinite time. It is an investment opportunity that provides returns forever and is suitable for employees nearing retirement. To determine its current value, we should use the time value of money."
+19,Which of the following cannot be calculated?,present value of a perpetuity,interest rate on a perpetuity given the present value and payment,present value of an annuity due,future value of a perpetuity,D,"Correct Answer:
+Option d. future value of a perpetuity.
+Explanation:
+a. present value of perpetuity
+It can be computed by dividing the annual payments by the interest rate on perpetuity.
+b. interest rate on perpetuity given the present value and payment
+It can be computed by dividing the annual payments by the present value of the perpetuity.
+c. present value of an annuity due
+It can be computed using the present value annuity factor for an annuity due.
+d. future value of perpetuity
+We cannot compute the future value of perpetuity as it offers payments periodically forever.",Time Value of Money: Time value of money is an essential concept when discussing making investment decisions. Money's time value emphasizes that money has potential earning capacity and can grow from time to time if invested wisely.
+20,Most loans are a form of perpetuity. True or False?,True,False,,,B,"False
+Most loans are a form of perpetuity are a false statement. In finance, the cash flows associated with various types of investments can be a lump sum, an annuity, or uneven cash flows. An annuity is a fixed amount of payment made each period for example in the case of a fixed-rate loan. The term perpetuity is an annuity that occurs infinitely. Loans in most cases have a defined life period hence they are not perpetuities.","Loans: Loans are funds provided by a lender to a borrower to facilitate the financing of a project or asset. The borrower will pay back the loan plus the interest charged by the lender. The payments are in installments and will be determined based on the features of the loan and the time value of money equations. The features include; loan amount, loan life period, and interest rate."
+21,The duration of perpetuity varies _____ with interest rates.,inversely,concavely,convexly,,A,"Option a is the correct answer
+Reason:
+There is a negative relationship between interest rate and perpetuity securities since these types of securities offer fixed interest rate and becomes more welcoming when the interest rate in the market decreases.
+Reason for incorrect option:
+Option (b) Concavely:
+The word Concavely is not used in terms of Perpetuity. Rather it is mostly used in mathematics.
+Option (c) Convexly:
+Securities bearing a convex relationship with interest rate tend to decrease with the decrease in the price of the securities.
+Option (d) Directly:
+Since the security price is fixed with no maturity date and these securities do not pay regular interest like zero-coupon bonds. Therefore, bonds do not have a direct relationship with the interest rate.","Perpetuity Securities: Perpetuity securities are those bonds that do not have a maturity date. The obligation to repay the principal amount of perpetuity securities is not necessary. Generally, these types of securities are treated as equity and not debt."
+22,"An investment promises to pay you $4,000 per year starting in 4 years. The cash flow from the investment is expected to increase by 3% per year forever.","If alternative investments of similar risk earn a return of 5% per year, determine the maximum you would be willing to pay for this investment today.","If the nominal interest rate is 6.6% and the inflation rate is 3.6%, what is the real interest rate?",,,A,"Given information:
+First payment = $4,000
+Growth rate (g) = 3%
+Discount rate (I) = 5%
+a. Estimate the maximum price of the investment today:
+Step 1: Estimate the value of these payments at year 3 using the present value for a growing perpetuity:
+{eq}\text{Value}_3 = \displaystyle \frac{\text{First payment}}{\text{I} - \text{g}} \\ \text{Value}_3 = \displaystyle \frac{\$4,000}{5\%- 3\%} \\ \text{Value}_3 = \displaystyle \$200,000 {/eq}
+Step 2: Estimate the maximum price of the investment today:
+{eq}\text{Maximum price}_0 = \displaystyle \frac{\text{Value}_3}{(1 + \text{I})^3} \\ \text{Maximum price}_0 = \displaystyle \frac{\$200,000}{(1 + 5\%)^3} \\ \text{Maximum price}_0 = \displaystyle \frac{\$200,000}{1.157625} \\ \text{Maximum price}_0 = \displaystyle \$172,767.52 {/eq}
+b. Estimate the real interest rate:
+{eq}\text{Real interest rate} = \displaystyle \frac{1 + \text{Nominal interest rate}}{1 + \text{Inflation rate}} - 1 \\ \text{Real interest rate} = \displaystyle \frac{1 + 6.6\%}{1 + 3.6\%} - 1 \\ \text{Real interest rate} = 2.90\%{/eq}","Growing Perpetuity: Growing perpetuity will distribute an indefinite series of cash inflows, in which these cash inflows grow at a fixed rate annually. The growth opportunity can be treated as an attempt to protect the value of money against the inflation."
+23,"A perpetuity makes monthly cash payments of $200. If the first cash payment is made in six months' time, in which month is the present value of the perpetuity determined?",Month 6,Month 5,Month 1,Month 0,B,"The correct answer is option
+b. Month 5
+.
+The present value of a series of payments or perpetuity represents the equivalent worth 1 period before the first payment. Since in the given question, the first payment for the perpetuity is made in six months' time, the present value will be determined in month 5 (i.e. 6 months - 1 month).",Perpetuity: Perpetuity is a type of annuity where payments or deposits of equal amounts are made at equal intervals of time for an indefinite time horizon. The present value of a perpetuity is inversely related to the discount rate.
+24,The terminal value of a business that grows indefinitely is calculated as follows:,Cash flow from period t+1 divided by (discount rate - growth rate),Cash flow from period t+1 divided by (1 + discount rate),Cash flow from period t divided by (discount rate - growth rate),None of the above.,A,"Option A is the right formula
+for the terminal value of the business with indefinite growth. The formula calculates the present value of the future cash flows that grow indefinitely. The formula looks like this:
+{eq}\begin{align}
+
+\text{Terminal value} &= \frac{\text{Cash flow from operations}_{\text{t}+1}}{\text{discount rate - growth rate}} \\
+
+\end{align}
+
+{/eq}
+The numerator is the next period's cash flow from operations, and the denominator is the difference between the discount and growth rates.
+The following options are incorrect formulas of terminal value.
+Option B.
+The formula's numerator is correct, but its denominator is incorrect. It calculates the present value for one cash flow period, not the terminal value.
+Option C.
+The denominator is correct, but the numerator is incorrect. The cash flow from period t is already at the present value since ""t"" means the current year (year zero).
+Option D.
+Option A is correct. So, there is one suitable option.","Terminal Value: The terminal value considers the current cash flow, the growth rate, and the discount rate. Its calculation assumes that the periodic cash flow is also indefinite and growing at a fixed rate."
+25,a. What is the present value of a $700 perpetuity if the interest rate is 10%?,,"If interest rates doubled to 20%, what would its present value be?",,,A,"a.The present value would be
+$70,000,
+if the interest rate is 10%.
+b.The present value would be
+$35,000,
+if the interest rate is 20%.
+Given information:
+Cash flow= $700
+Interest rate= 10%
+The quantum of the regular cash flows is divided by the discount rate to get the present value of a perpetuity. The present value will increase if the discount rate decreases, and vice versa.
+a. Determine the present value of perpetuity if the interest rate is 10% as follows:
+{eq}\begin{aligned} \text{Present valu}{{\text{e}}_{10\%}} &=\text{ }\frac{\text{Cash flow}}{\text{Interest rate}} \\ &=\frac{\$700}{10\%} \\ &=\$70,000 \end{aligned} {/eq}
+b. Determine the present value of perpetuity if the interest rate is 20% as follows:
+{eq}\begin{aligned} \text{Present valu}{{\text{e}}_{20\%}} &=\text{ }\frac{\text{Cash flow}}{\text{Interest rate}} \\ &=\frac{\$700}{20\%} \\ &=\$35,000 \end{aligned} {/eq}
+Thus, the present value of perpetuity would be $70,000 if the interest rate is 10% and $35,000 if the interest rate is 20%.","Perpetuity: A cash flow stream that never expires or reaches maturity is known as perpetuity. It is also known as a perpetual payment because it is made at regular intervals of time, which could be monthly, quarterly, or annually."
+26,Preferred dividend is a form of ordinary annuity. True or False?,True,False,,,B,"This statement is False.
+Preferred stock dividends are an infinite stream of equal payments.  Because they are expected to be received forever, they are a perpetuity, not an annuity.
+It is customary to differentiate between an annuity and a perpetuity, although the boundary between the two is somewhat blurred because a perpetuity is in essence an infinite annuity.","Preferred Shares: Preferred shares are issued by corporations to finance their operations.  Although not as popular as common shares or debt, preferred shares offer some advantages to both corporations and investors.  From the point of view of a corporation, they are cheaper than common shares.  From the point of view of investors, they are safer and offer more predictable dividends than common shares.  They also have a higher return than debt."
+28,"A perpetuity of $5,000 per year, beginning today, is said to offer a 15% interest rate. What is its present value?","$33,333.33","$37,681.16","$38,333.33","$65,217.39",C,"The calculated present value of the given perpetuity is option
+c. $38,333.33.
+The present value of the perpetuity is given by:
+{eq}= \dfrac{\text{Perpetuity Value at the end of year 1}}{\text{Discount rate}}
+
+{/eq}
+{eq}= \dfrac{\text{(Perpetuity Value today) * (1 + interest rate)}}{\text{Discount rate}}
+
+{/eq}
+{eq}= \dfrac{\$10,000 * (1 + 15\%)}{15\%}
+
+{/eq}
+{eq}= \dfrac{\$10,000 * 1.15}{15\%}
+
+{/eq}
+{eq}= \dfrac{\$5,750}{15\%}
+
+{/eq}
+{eq}= \$38,333.33
+
+{/eq}",Perpetuity: An annuity is a stream of deposits or payments expected to occur for a predetermined time horizon. A perpetuity is a kind of annuity where periodic payments occur indefinitely. The equivalent present value of a perpetuity is affected by the relevant interest rate.
+29,"A firm plans to start paying a $1 dividend forever three years from today. The required return is 20%, what is its price?",$2.89,3.47,$4.17,$5.00,B,"The current price is $3.47 (b)
+The calculation current price is shown below.
+{eq}Current \ price \ = \ \dfrac{Dividend}{Return} \ \times \ \dfrac{1}{\left ( 1 \ + \ Return \right )^{2}}
+
+\\
+
+Current \ price \ = \ \dfrac{\$1}{20\%} \ \times \ \dfrac{1}{\left ( 1 \ + \ 20\% \right )^{2}}
+
+\\
+
+Current \ price \ = \ \$5 \ \times \ 0.6944
+
+\\
+
+Current \ price \ = \ \$3.47
+
+{/eq}","Perpetuity: Perpetuity is a type of cash flow that lasts forever. In a perpetuity cash flow, a fixed amount is received or paid at regular intervals. To calculate the present value of a perpetuity, periodic cash flow is discounted with the required rate."
+30,"A lottery winner was given a perpetual payment of $25,362. She could invest the cash flows at 7.5 percent. What is the present value of this perpetuity? (Round to the nearest dollar.)","$338,160","$390,215","$238,160","$201,356",A,"The calculated present value of the given perpetuity is option
+A. $338,160
+The present value of the perpetuity is computed as follows:
+{eq}\begin{align*} &= \dfrac{\text{Perpetuity payments}}{\text{Interest rate}} \\[0.3 cm] &= \dfrac{\$25,362}{7.5\%} \\[0.3 cm] &= $338,160 \end{align*} {/eq}",Perpetuity Value: Perpetuity represents a series of equal payments occurring at equal intervals of time for an indefinite time frame. Its present value is inversely related to the relevant discount rate or interest rate.
+31,"You just paid $350,000 for a policy that will pay you and your heirs $12,00 a year forever. What is the rate of return are you earning on this policy?",25 percent,3.33 percent,3.43 percent,3.50 percent,C,"The answer is
+C. 3.43 percent.
+Given information:
+Price = $250,000
+Annual payment = $12,00
+Estimate the rate of return:
+{eq}Rate\:of\:return = \displaystyle \frac{Annual\:payment}{Price} = \frac{\$12,000}{\$350,000} = 3.43 \:percent {/eq}","Perpetuity: A perpetuity is a fixed-income security that perpetuity purchaser will receive periodic payments forever. A perpetuity could be acquired by an immediate payment or cumulative deposits. Usually, a perpetuity is selected for a retirement plan due to its stability of cash inflows."
+32,Preferred stock with no fixed maturity can be valued using the present value of a perpetuity formula.,True,False,,,A,"The statement is
+Option a) True
+.
+If the preferred stock does not have a maturity period, we can determine its current value, assuming it to be a perpetuity. The value can be determined using the following formula:
+{eq}\text{Current price of a perpetuity} = \dfrac{\text{Annual dividend per share}}{\text{Cost of preferred stock}}
+
+{/eq}",Perpetuity: Perpetuity refers to a series of periodic payments of equal amounts payable for an indefinite time. Perpetuity is chosen as an investment alternative by the employees nearing retirement for regular income.
+33,"You will receive $1,500 per year forever. The present value of this stream of cash flows is $12,500. What is the discount rate?",3.3%,9.3%,12%,13.6%,C,"The answer is
+c. 12%.
+Given information:
+Annual payment = $1,500
+Present Value = $12,500
+Discount rate = I
+Estimate the discount rate for the perpetuity in this case:
+{eq}\text{I}=\displaystyle \frac{\text{Annual payment}}{\text{Present Value}} \\ \text{I}=\displaystyle \frac{\$1,500}{\$12,500} \\ \text{I}=\displaystyle 12\% {/eq}",Perpetuity: Perpetuity refers to a security that makes periodic payments indefinitely. The present value of a perpetuity reflects the sums of present value of expected cash inflows at an investor's desired rate of return.
+34,"Sumi Inc. has policy of paying a Rs 9 per share dividend every year. If this policy is to continue indefinitely, what will be the value of a share of stock at a 12% required rate of return?",Rs 30,Rs 45,Rs 60,Rs 75,D,"Correct Answer:
+Option d. Rs 75
+.
+The value of a share of stock at a 12% required rate of return is computed using the following equation:
+{eq}\text{Current price of a perpetual preferred share} = \dfrac{\text{Annual dividend per share}}{\text{Cost of preferred stock}} = \dfrac{\,Rs 9}{12\%} = \,Rs 75
+
+{/eq}","Perpetuity: A perpetuity is an investment that provides cash flows for an indefinite time. The cash flows are equal each time, and the investment is chosen by many individuals as their retirement plans."
+35,The cash flows for a perpetuity continue into the future indefinitely. An example of a perpetuity is:,preferred stock,corporate bonds,a home mortgage,a consumer loan,A,"A. Correct. Preferred stock does not have a maturity date, which will make dividends indefinitely. Thus, the pattern of its dividend payments represents a perpetuity.
+B. Incorrect. Coupon payment on a bond will not continue forever. A bond issuer will stop making interest payment when the bond matures.
+C. Incorrect. Of a home mortgage, the borrower will make monthly payments within the service life of the loan.
+D. Incorrect. A consumer loan is offered with a specific service life.",Perpetuity: A perpetuity is a fixed-income investment providing an indefinite series of annual payments. People are recommended a perpetuity for their retirement investment to sustain retirement income.
+36,"What is the value today of $700 paid every six months forever, with the first $700 payment occurring five years from today? The interest rate is 8% per annum, compounded half-yearly.","$4,377.18","$11,822.37","$12,295.27","$17,500.00",C,"The correct answer is
+c. $12,295.27.
+Given information:
+Semiannual payment = $700
+Semiannual interest rate (I) = 8% x 0.5 = 4%
+Step 1: Determine the value of these semiannual payment after 9 semiannual periods:
+{eq}\text{Value}_9 = \displaystyle \frac{\text{Payment}}{I} = \frac{\$700}{4\%} = $17,500 {/eq}
+Step 2: Determine the present value of these payments:
+The value of these payments after 9 semiannual periods will be discounted back to today. The total number of waiting periods is 9 (4.5 years from now).
+{eq}\text{Present value} = \displaystyle \frac{\text{Value}_9}{(1 + I)^9} \\ \text{Present value} = \displaystyle \frac{\$17,500}{(1 + 4\%)^9} \\ \text{Present value} = \displaystyle \$12,295.27 {/eq}","Perpetuity: Perpetuity will pay out a stream of payments without the maturity date. Thus, a perpetuity can be included in an investment portfolio to secure a stable series of future income."
+37,"You have just won the lottery and will receive $1,500 per year forever. What is the present value of this infinite stream of cash flows given an 8% discount rate?","$ 3,721.60","$13,419.54","$18,750","$21,428.57",C,"The answer is
+c. $18,750.
+Given information:
+Annual payment = $1,500
+Discount rate (I) = 8%
+Determine the present value of the lottery:
+{eq}\text{Present Value} = \displaystyle \frac{\text{Annual payment}}{\text{I}} \\ \text{Present Value} = \displaystyle \frac{\$1,500}{8\%} \\ \text{Present Value} = \$18,750 {/eq}","Perpetuity: A perpetuity will contribute a series of annual payments indefinitely. In practice, its payments can grow at a constant rate to overcome the effects of the inflation rate in the economy, Or, a stream of growing payments is to protect the purchasing power of money."
+38,An annuity that involves equal periodic payments without end is called:,An annuity due.,A perpetuity.,An interest-only loan.,Taxes.,B,"b) A perpetuity.
+An annuity that involves equal periodic payments without end is called
+perpetuity
+.
+An annuity is a fixed payment made on a regular basis for a set period of time. An annuity may be either an ordinary annuity or an annuity due. Payments for the ordinary annuity will be made at the end of each period, while payments for the annuity due will be made at the beginning of each period. A perpetuity is a form of annuity where payments occur forever.","Investment Cash flows: An investment is an opportunity that requires incurring a cost today in order to receive future economic benefits. An investment's cash flows may be a lump sum, a sequence of unequal cash flows, or an annuity. The cash flows, risk, return, and investment duration are all factors considered when determining the value of an investment."
+39,"What is the present value of a growing perpetuity that has an initial payment of $20,000 one year from now? Assume a growth rate of 5% and a rate of return equal to 9%.","$50,000.00","$500,000.00","$222,222,22","$400,000.00",B,"The correct answer is
+option b. $500,000.
+Given information:
+Initial Payment at the end of year: $20,000
+Growth rate: 5%
+Rate of return: 9%
+Determine the perpetuity by dividing the initial payment at the end of the year by the difference between the rate of return and growth rate.
+{eq}\begin{aligned} \text{Value of growing perpetuity} &=\frac{\text{Initial payment at the end of the year}}{\text{Rate of return}-\text{Growth rate}} \\ &=\frac{\$20,000}{9\%-5\%} \\ &=\frac{\$20,000}{4\%} \\ &=\$500,000 \end{aligned} {/eq}
+Hence, the value of growing perpetuity is $500,000.",Perpetual Payments: Perpetual payments are a type of annuity wherein an individual chooses to make a fixed payment at a fixed interval but for an infinite duration. Growing perpetual payments means that the fixed payment increases by a fixed rate every time.
+40,Which of the following is used as the denominator while calculating the present value for a growing perpetuity that begins the next period (PVP)?,The difference between i (the discount or interest rate) and g (the constant rate of growth of the cash flow),i (the discount or interest rate),g (the constant rate of growth of the cash flow),The addition of i (the discount or interest rate) and g (the constant rate of growth of the cash flow),A,"Present value formula for growing perpetuity:
+{eq}\text{Value} = \displaystyle \frac{\text{Payment}}{\text{Required rate of return} - \text{Growth rate}} {/eq}
+According to the present value formula for growing perpetuity, the correct answer should be
+A. The difference between i (the discount or interest rate) and g (the constant rate of growth of the cash flow).
+Incorrect answers:
+B. i (the discount or interest rate):
+The growth rate for cash flows should be not ignored.
+C. g (the constant rate of growth of the cash flow):
+The required rate of return or the discount rate must be considered in the discount factor.
+D. The addition of i (the discount or interest rate) and g (the constant rate of growth of the cash flow)
+: Generally, if cash flows grow quickly, the present value of all cash flows become larger. However, the addition of discount rate and the growth rate will lower the present value of cash flows, which is irrelevant.","Perpetuity: Perpetuity will provide a stream of payments to an investor indefinitely. Generally, periodic payments on perpetuity are constant. However, an investor might acquire a growing perpetuity to protect the purchasing power of money from the inflation."
+41,Most loans are a form of perpetuity. True or False?,True,False,,,B,"False
+Most loans are a form of perpetuity are a false statement. In finance, the cash flows associated with various types of investments can be a lump sum, an annuity, or uneven cash flows. An annuity is a fixed amount of payment made each period for example in the case of a fixed-rate loan. The term perpetuity is an annuity that occurs infinitely. Loans in most cases have a defined life period hence they are not perpetuities.","Loans: Loans are funds provided by a lender to a borrower to facilitate the financing of a project or asset. The borrower will pay back the loan plus the interest charged by the lender. The payments are in installments and will be determined based on the features of the loan and the time value of money equations. The features include; loan amount, loan life period, and interest rate."
+42,"If perpetuity has a price of $500 and an annual interest payment of $25, the interest rate is:",2.5 percent.,5 percent.,7.5 percent.,10 percent.,B,"The correct option is B)
+The formula to calculate the present value of a perpetuity is:
+Present value = Cash flow / Interest rate. The present value is the price of the investment and the cash flow is equal to the annual interest payment, so we can therefore calculate the interest rate like this:
+$500 = $25 / Interest Rate
+Interest Rate  = $25 / $500
+Interert rate = 0.05 or 5%","Perpetuity: A  perpetuity is an infinite stream of cash flows. To calculate the present value of this stream, the amount of the cash flows and the discount rate that applies to the payor or recipient are used. For an investor in a perpetuity, the interest rate is the same as the yield of the investment."
+43,"The Alkins Brothers recently established a trust fund that will provide annual scholarships of $10,000 indefinitely. These annual scholarships are:",An ordinary annuity.,an annuity due.,amortized payments.,a perpetuity.,D,"The answer is
+D. a perpetuity
+.
+Since scholarships are to be provided for an indefinite amount of time, we should consider them as perpetuity. A perpetuity is a sequence of equal cash flows that are evenly-spaced and have no ending date. Perpetuity differs from an annuity in that it has no end.",Time Value of Money: The time value of money theory gives us the base for financial concepts such as the present and future value. These concepts also apply to the streams of cash flows like annuities and perpetuities.
+44,What is the term used to describe an annuity with an infinite life?,Perpetuity.,Infinuity.,Infinity due.,There is no special term for an infinite annuity.,A,"The correct choice is
+a. Perpetuity.
+The term used to describe an annuity with an infinite life is
+perpetuity
+A perpetuity is referred to as a special form of annuity. An annuity has a set time period; for example, you can purchase an annuity that will pay you for the next twenty years. A perpetuity, on the other hand, is infinite, implying that the cash flows will continue forever. We can calculate the present value of a perpetuity, but not its future value because it occurs indefinitely. The annuity amount and the rate of return are considered in the present value computations.","Types of cash flows: Before making an investment, an investor considers a variety of factors. The cash flows, required rate of return, useful life of the investment, and risk level are all factors to consider. Cash flows can be a single payment or a series of payments. An annuity is defined as multiple payments of the same amount at regular time intervals. The timing of the cash flow determines whether the annuity is an ordinary annuity or annuity due."
+45,"What is the present value (PV) of an investment that will pay $400 in one year's time, and $400 every year after that, when the interest rate is 5%?","$2,400","$3,600","$7,200","$8,000",D,"The correct answer is option
+d. $8,000
+.
+The present value of the perpetuity is given by:
+{eq}\begin{align*}
+
+&= \dfrac{\text{Annual payment}}{\text{Interest rate}} \\[0.3 cm]
+
+&= \dfrac{\$400}{5\%} \\[0.3 cm]
+
+&= \dfrac{\$400}{0.05} \\[0.3 cm]
+
+&= $8,000
+
+\end{align*}
+
+{/eq}",Perpetuity: A perpetuity is a sequence of payments or deposits expected to occur periodically for an indefinite time horizon. The equivalent present worth of perpetuity is inversely related to the applicable interest rate.

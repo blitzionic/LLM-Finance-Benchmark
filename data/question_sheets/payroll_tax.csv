@@ -1,0 +1,450 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,"If the employee has $300 withheld from her check for FICA-OASDI, what is the amount that the employer would need to pay?",300,100,0,400,A,"The correct option is A. 300.
+The employer must pay FICA taxes that are exactly the same as the amount that it deducts from the wages of its employees. The same rate and wage basis applies when calculating the employee's withholding tax and employer tax. This means that if an employee must pay $300, the employer must also pay $300 and the total amount of $600 must be paid over to the revenue authorities.",Employer Payroll Tax: Employer payroll tax refers to an additional cost of employment that an employer incurs that is separate from the gross wages it pays to its employees. Employer payroll taxes comprise of FICA and unemployment tax in the USA.
+2,"During 2010, Lakeview Company completed the following two transactions. The annual accounting period ends December 31.","On December 31, 2010, calculated the payroll, which indicates gross earnings for wages ($80,000), payroll deductions for income tax ($8,000), payroll deductions for FICA ($6,000), payroll deductions for American Cancer Society ($2,000), employer contributions for FICA (matching), state unemployment taxes ($500), and federal unemployment taxes ($100). Employees were paid in cash, but these payments and the corresponding payroll deductions and employer taxes have not yet been recorded.","Collected rent revenue of $3,000 on December 10, 2010, for office space that Lakeview rented to another business. The rent collected was for 30 days from December 11, 2010, to January 10, 2011, and was credited in full to Unearned Rent Revenue.",,,A,"Account   description
+Debit
+Credit
+A)
+Wages
+$80,000
+To   income tax
+$8,000
+To   contribution in cancer society
+$6,000
+To   FICA tax
+$2,000
+To   cash
+$64,000
+(Being   the amount of payroll is recorded)
+B)
+Payroll   tax expenses
+$6,600
+To   FICA payable
+$6,000
+To   unemployment tax (state)
+$500
+To   unemployment tax (federal)
+$100
+(Being   record the payroll tax expenses)",Payroll deductions: The amount deducted from an employee's remuneration for each remuneration period is defined as payroll deductions. The amount of an employee's salary differs from the amount received to him/her due to deductions. There are both compulsory and voluntary deductions.
+3,The employer is responsible for which of the following payroll taxes?,6.2% Social Security,1.45% Medicare tax,Federal and state unemployment taxes,All of the above,D,"Answer choice:
+d.  All of the above
+Explanation:
+The employer is responsible for half of the social security taxes (6.2%) and half of the medicare taxes (1.45%).  The other half is paid by the employee.  Also, federal and state unemployment taxes are the responsibility of the employer but the employer only pays these taxes up to the wage base.",Payroll Taxes: When companies hire individuals as employees they must withhold certain payroll taxes from the employees checks and they must pay some of the payroll taxes for their employees.  The reason that these are referred to as payroll taxes is because they are associated with the payroll of an employee.
+4,"Although most of the burden of social security payroll tax is paid by both employers and employees, most of the burden would actually fall on employees.",True,False,,,A,"True.
+It is true that although most of the burden of the social security payroll tax is paid by both employers and employees, a larger chunk of the burden is borne by employees. This is because of the influence of tax incidence by markets, not by the law. Therefore, as changes occur in the market, employees tend to carry more tax burden because the person required to pay a tax may be different from the bearer of the tax burden, owing to the market system. Due to the market's control of the tax burden, employers lower their burden by reducing workers' wages so that they do not feel the burden of paying the taxes but instead pay them by reducing employees' wages. Even after the workers' wages are reduced, their share of the payroll tax is deducted from their already-low wages. Therefore, more payroll tax burden is borne by employees.",Taxation: Taxation refers to the imposition of mandatory levies on citizens of a country by its government. Failing to pay taxes as required by the government is known as tax evasion and is punishable by law. The government receives tax payments from taxpayers to raise revenue for use in state and community projects.
+5,"In 2015, Lew earned wages of $384,828.",What is the amount of Social Security tax withheld from his salary?,What is the amount of Medicare tax withheld from his salary?,,,A,"Requirement a.
+To determine the Social Security tax in 2015, consider the tax rate, which is 6.2%, and the wage base limit of $118,500. Since Lew had earned more than that, the Social Security tax would equal the wage base limit times the tax rate.
+{eq}\begin{align}
+
+\text{Social Security tax} &= \text{Wage base limit x Tax rate} \\
+
+&=\$118,500 \times 6.2\%\\
+
+&=\$7,347
+
+\end{align}
+
+{/eq}
+Requirement b.
+The Medicare tax is 1.45% of all wages of Lew.
+{eq}\begin{align}
+
+\text{Medicare tax} &= \text{Wages x Tax rate} \\
+
+&=\$384,828 \times 1.45\%\\
+
+&=\$5,580.01
+
+\end{align}
+
+{/eq}
+The Social Security tax is $7,347, and Medicare tax is $5,580.01.","Payroll Taxes: The employees' payroll taxes are the Federal income tax and FICA taxes, such as Social Security and Medicare taxes. These are deducted from the employee's gross pay."
+6,For which of the following taxes is there no ceiling on the amount of employee annual earnings subject to the tax?,Only federal withholding tax,Only Social Security tax,Only unemployment compensation tax,None of the above,A,"Answer choice:
+a. Only federal withholding tax
+Explanation:
+There is no ceiling on the amount of employee annual earnings subject to federal income tax. That means regardless of how much an employee earns it is subject to federal income tax. In contrast, wages of up to $137,700 are taxed for social security taxes. The ceiling for earnings subject to unemployment tax is dependent upon the state.",Payroll Tax: During the payroll process there are different taxes that are withheld from employees checks and there are taxes that the employer has to pay. Some taxes have a ceiling meaning that there is a limit to how many wages are subject to the tax but some taxes have no ceiling.
+7,Federal law requires that the employer withhold __________ from the employee's pay.,"federal income tax, social security tax, medicare tax, and FUTA.","federal income tax, social security tax, and medicare tax.","federal income tax, social security tax, medicare tax, and state and local taxes.","federal and state income tax, social security tax, medicare tax, and FUTA.",A,"The correct answer is:
+A. federal income tax, social security tax, medicare tax, and FUTA
+Federal Income Taxes are determined by one's income. Depending on how much money is earned, the employee will fall into a certain tax bracket.
+Social Security Tax is 6.2% of an employee's income. This is used for paying benefits of social security.
+Medicare Tax is 1.45% of an employee's income. This is used for funding the Medicare health system in the United States for senior citizens and individuals with disabilities.
+FUTA is the Federal Unemployment Tax Act. This is used for unemployment payments and other work-related funds.
+State and local taxes are not required by the federal law. Their amounts and usage are determined by each state and municipality. Although the federal government can enact laws that impact state and local taxes, it is mainly controlled by states and municipalities.","Federal Taxes: Federal taxes are taken out of one's income to be used to fund government projects. Some things that federal taxes are used for are military, national debt, education, and scientific research, among many other operations. Penalties and compound interest on unpaid amounts will be charged for any outstanding balances for federal tax payments."
+8,"Employees claim withholding allowances on form W-4. For each withholding allowance claimed, their withholding base is reduced by what amount for calendar year 2011?","3,550","3,600","3,650","3,700",D,"The correct answer is d. 3,700.
+Explanation:
+A withholding allowance is about how much income tax should be deducted by an employer from an employee's payroll. To claim that allowance form w-4 is used. There is an inverse relationship between withholding allowance and salary. Higher is the allowance, the lesser is the salary paid. According to the Internal Revenue Service (IRS) withholding allowance amount in the year 2011 is 3,700 annually.","Allowance: According to tax laws, allowance refers to an amount that is given by the employer to the employee to fulfill additional expenditures. It is an additional amount paid above the salary of an employee. Some allowances are fully taxable and some of them are partially taxable."
+9,Which of the following is not an additional company expense?,Charitable contribution from employees.,Pension benefit costs.,Employer FICA.,Unemployment tax.,A,"The correct answer is
+a. Charitable contribution from employees.
+We are asked to identify the item that is NOT an additional company expense. The table below analyzes the options.
+a. Charitable contribution from employees.
+This is the correct alternative because charitable contributions from employees are simply deducted from their earnings and paid to the charity instead of to the employee. The company does not incur any additional expenses.
+b. Pension benefit costs.
+Pensions offered as a fringe benefit to employees are an additional cost on top of the gross earnings for employees.
+c. Employer FICA.
+This is another additional expense because employers must pay additional FICA taxes equal to the amounts paid by employees.
+d. Unemployment tax.
+Unemployment tax is also an additional expense for the company because it is an employer payroll tax.","Payroll Expenses: The largest payroll expense is the gross earnings of employees. However, employers incur various additional payroll-related expenses because of benefits offered to employees and employer payroll taxes imposed on them."
+10,A payroll voucher:,authorizes an employee paycheck to be written.,authorizes the transfer of cash from a main operating account to a payroll account.,authorizes the transfer of cash from a payroll account to a main operating account.,authorizes the paymaster to distribute paychecks.,B,"The correct option is b. authorizes the transfer of cash from a main operating account to a payroll account
+Reason: Payroll voucher records all the transactions that are related to the payroll of the business entity and therefore provide as base that authorize the business entity to transfer the amount of money relating to payroll from the checking account to the payroll account.
+Explanation for incorrect options: All other options are incorrect because the payroll voucher does not authorize about the pay check, distribution of pay check and also does not authorize the transfer of fund from the payroll account to main operating account.",Payroll: The process which is adopted by each and every company for the purpose of providing the reward or compensation to the employees for their services in the organization is known as payroll. It records all the information of the employees to whom payment is to be made.
+11,What type of account is the payroll tax withholding account?,liability,asset,revenue,xp,A,"The correct answer is option a) liability.
+The payroll tax withholding account is a liability account. This account represents the payroll taxes (such as income tax, Social Security, and Medicare) that have been withheld from employees' wages but have not yet been remitted to the appropriate government authorities. Once withheld, the payroll tax is recorded as follows.
+Date
+Account Title
+Debit
+Credit
+xx
+Wages/Salary Expense
+xx
+Payroll Tax Payable
+xx
+Please be aware that according to the Internal Revenue Service (IRS), employers must withhold payroll taxes and keep them in a separate account until they are due to be paid to the appropriate tax agencies. These withheld amounts are considered a company's financial responsibility to the government and are classified as a current liability.",Payroll Accounting: Accurate payroll accounting is vital for avoiding penalties and legal consequences related to non-compliance with tax laws. It is why companies must invest in technology and human resources to ensure accuracy and efficiency.
+12,"Ben Lieber is a waiter at Harbor House, where he receives a weekly wage of $81.20 plus tips for a 40-hour work week. Lieber's weekly tips usually range from $275 to $390.","Under the Fair Labor Standards Act, what is the minimum amount of wages that Lieber must receive for a 40-hour workweek?",,,,A,"As per the provision of the Fair Labor Standards Act (FLSA), the minimum wage per hour is $2.13, and the minimum tip credit per hour is $5.12.
+a)	Computation of Minimum Amount of Wages
+Particular
+Amount
+Number of hours
+40
+Wage Rate
+$2.13
+Minimum amount of wages
+$85.20
+Therefore, as per FLSA, Ben is not receiving the minimum amount of wages, and Harbor House is in violation of the FLSA.",Payroll: Payroll refers to the process by which the employees of an organization are paid for the work done by them. Employees are paid at a rate that is agreed upon mutually. Payroll is prepared for gross monthly emolument.
+13,Employers who do not deduct statutory withholdings from employee payments have nothing to worry about.,True,False,,,B,"The above-stated statement is false.
+Explanation:
+There are two types of deductions:
+1) compulsory deductions and
+2) voluntary deductions.
+Voluntary deductions can be deducted from an employee's salary only if the deduction is approved by the employee or is optional. Various penalties apply depending on national regulations if a compulsory deduction must be made and the employer fails to make the deduction. In the united states,
+the trust fund recovery penalty may apply if federal income, social security, or Medicare taxes are required to be withheld or aren't deposited or paid to the U.S. Treasury.
+The penalty is 100% of the unpaid trust fund tax. If these due taxes can't be immediately collected from the employer or business, then the trust fund recovery penalty may be imposed on all persons who the IRS determines is to be responsible for collecting, accounting for, or paying over these taxes,
+The penalty is a non-tax deductible expense that will reduce the net income by that much amount.","Deduction: It is an expense deductible from taxable income to reduce the amount payable and is different from a tax credit, which is deducted from the amount of tax payable rather than from your reported income."
+14,Employers withhold which of the following from employees' paychecks?,LFRA,FICA,Unemployment Tax,All of the Above,B,"The correct option is
+b) FICA.
+Explanation:
+The employers are required to deduct the amount from the payroll of the employees, which is to be contributed for social security and medicare programs under the Federal Insurance Contributions Act. It is applied only to the earned income. Currently, the FICA tax rate is 7.65% (comprises of 6.20% allocated to social security and 1.45% allocated to Medicare), in which the employer and employee equally contribute.
+Explanation for the incorrect options:
+Option a. It is incorrect because LFRA is not deducted from the employee's salary.
+Option c. It is incorrect because employers cannot withhold the amount for unemployment taxes.","Employers: Employers are those individuals who recruit different individuals and assign the work as per their skills and talents. In return for their work, the employers provide them compensation and other perquisites as per their work profile."
+15,"Assuming a Medicare tax rate of 1.45% and monthly gross wages of $2,500, the amount recorded in Medicare Tax Payable for one quarter for the employee's payroll deduction is:",a debit for $36.25.,a credit for $36.25.,a debit for $108.75.,a credit for $108.75.,D,"In the given case, Medicare Tax Rate is multiplied by the monthly gross income to get the amount of Medicare tax payable.
+Thus,
+{eq}\text{Monthly Medicare Tax Payable} = 1.45\% * $2500 \\[0.3cm]
+
+\text{Monthly Medicare Tax Payable} = $36.25 \\[0.3cm]
+
+\text{Quarterly Medicare Tax Payable} = $36.25 * 3 \\[0.3cm]
+
+\text{Quarterly Medicare Tax Payable} = $108.75
+
+{/eq}
+Correct Answer: D. a credit for $108.75.","Medicare Tax A Medicare tax, also called hospital insurance tax is a charge on the monthly gross wage of an employee to finance a part of the Medicare insurance programs. It is a withholding tax because it is collected by the employer and paid to the federal Medicare fund."
+16,"Employers with a payroll tax liability of less than $2,500 at the end of any quarter pay their tax liability:",directly to the authorized depository after the end of the quarter when Form 941 is filed.,directly to the authorized depository on the same day Form 941 is mailed.,directly to the Internal Revenue Service when they file Form 941.,directly only if they use the EFTPS form of payment before Form 941 is filed.,C,"The correct answer is
+option c
+"" Directly to the Internal Revenue Service when you file form 941.""
+Employers who have a payroll tax liability of less than $2,500 need to submit it with Form 941. If an employer has a tax liability of less than $2,500, then a safe harbor will be applied.
+The explanation for the options:
+a. Liability should not be paid directly to the authority; instead, it should be paid along with Form 941.
+b. Form 941 should not be mailed but instead, be filled out along with the liability.
+c. Liability is to be paid to the IRS while filing Form 941.
+d. Tax liability should not be paid before filing form 941.","Payroll Tax Liability The term ""payroll"" means the number of wages paid to an employee by an employer over a particular year. An employer deducts a certain part of wages as tax but hasn't paid the tax to the government yet. This outstanding tax from the employer is considered the payroll tax liability."
+17,"Suppose Jim worked 72 hours during this payroll period and is paid $14.00 per hour. Assume FICA is 6.2%, Medicare is 1.45% and withholding tax is 10%.",Calculate Jim's employer's payroll tax expense for the period.,Calculate Jim's employer's total payroll tax liability for the period.,,,A,"a.
+Jim's employer has a payroll tax expense for Social Security and Medicare tax, based on Jim's salary. The employer does not pay and federal income tax as a payroll ax thought:
+Social security (FICA) tax = $14 × 72 = $1,008 × 0.062
+$62.50
+Medicare tax = $1,08 × 0.0145
+14.62
+Total employer payroll tax expense
+$77.12
+b.
+The employer's payroll tax
+liability
+is the sum of the taxes it should withhold from Jim and pay over and its payroll tax expense:
+Taxes withheld:
+Social security (FICA) tax = $14 × 72 = $1,008 × 0.062
+$62.50
+Medicare tax = $1,08 × 0.0145
+14.62
+Income tax = $1,008 × 0.10
+100.80
+Employer payroll tax:
+Social security (FICA) tax
+$62.50
+Medicare tax
+14.62
+Total payroll tax liability
+$255.04","Payroll Tax: Payroll taxes are taxes that are paid by employees through a deduction from their gross earnings. Employers are also liable for some payroll taxes, and these are based on the gross wages and salaries they pay."
+18,A payroll tax that would be an employer's expense is:,Federal Withholding Tax.,State Withholding Tax.,Social Security and Medicare.,All of the Above.,C,"A payroll tax that would be an employer's expense is
+c. Social Security and Medicare
+.
+Social Security and Medicare are paid by both the employer and the employee. The employer is responsible for half of the employee's withholding (referred to as FICA Payable in journal entries that combines both social security and medicare). Social Security is capped at a certain amount while medicare is taxable at any level of income and employees are required to pay an additional tax above a certain income.
+Analysis of Alternatives
+a. Federal Withholding Tax is only paid by the employee.
+b. State Withholding Tax is only paid by the employee.
+d. Is incorrect because a. and b. are incorrect.","Payroll Tax: Payroll is a specialty of accounting that deals with the costs related to employment. Payroll requires that the company act as an intermediary between employees and government agencies and, due to employment laws, also requires paying additional costs for hiring and employing workers."
+19,Which of the following is not a payroll tax expense to the employer?,State unemployment taxes.,Federal unemployment taxes.,Social Security and Medicare taxes.,Federal income taxes withheld from employee paychecks.,D,"The answer is
+option d.
+The federal income taxes withheld from the employees' paychecks are not the employer's payroll tax expenses but the employees'. This amount is deducted from the employee's gross pay and remitted by the employer to the government. So, it is not part of the employer's payroll tax expense, which includes the unemployment taxes, like FUTA and SUTA, and FICA taxes, such as Social Security and Medicare.",Payroll Tax: The companies would record journal entries related to payroll tax in two types: one for the employee's payroll taxes and another for the employer's payroll tax expenses.
+20,The social security and medicare taxes deducted from employees become the liabilities of the employers.,True,False,,,A,"The correct answer is option A. True.
+The Social Security and Medicare taxes deducted from employees' wages are considered liabilities for employers. Employers are responsible for withholding the employee portion of these taxes from their employee's paychecks and remitting them to the Internal Revenue Service (IRS) on behalf of the employees.
+Take note that when recording payroll expenses, we usually record them in the company's book of accounts as follows.
+Account Title
+Debit
+Credit
+Payroll Taxes
+xx
+FUTA Payable
+xx
+FICA Payable
+xx
+Social Security Payable
+xx
+Medicare
+xx
+Additionally, employers are responsible for contributing their portion of Social Security and Medicare taxes, often equal to the amount withheld from employees. Employers must accurately withhold, report, and promptly pay these taxes to the IRS. Failure to do so can result in significant penalties for the employer.","Payroll Taxes: Payroll taxes can affect hiring and maintaining employees, as employers must factor in their portion of payroll tax contributions when determining labor costs. In some cases, high payroll taxes may influence hiring decisions."
+21,There is a ceiling on the total earnings for each employee that are subject to federal income tax. True or false?,True,False,,,A,"True
+The ""taxable wage base"" is the upper limit the federal government establishes for determining whether or not an employee's wages are subject to income tax. In 2021, for instance, earnings in excess of $142,800 were not subject to Social Security taxation because that was the taxable wage base.
+As a result, a worker's take-home pay may be less than their total pay, and the worker may owe no federal income tax on any portion of their salary or wages. Inflation and other economic factors can cause annual fluctuations in the taxable wage base amount.","Social Security Tax: In addition to their own contributions, employers must withhold a portion of their workers' wages to cover Social Security costs. Social security money is made possible with these resources."
+22,Identify the statement below that is not true regarding social security tax.,Both the employee and the employer pay an equal amount of social security tax on the employee's wages.,The social security tax provides benefits for retirement as well as worker disability.,Social security is sometimes called FICA.,"In any given year, there is no limit on the amount of wages subject to social security tax.",D,"The answer is
+option D.
+The social security tax, one of the FICA taxes, is calculated based on the employee's gross wages within the maximum amount the government sets. So, there is a limit, which makes the statement of option D incorrect.
+Analysis of other options
+A. For social security tax, its rate is multiplied by the employee's wages, which is within the limit, to determine the amount, which is withheld from the employee's gross pay, and employers will also pay the same amount. So, the statement is correct.
+B. The social security tax will benefit the employee when he is retired and disabled.
+C. Another term for the social security tax is the FICA tax, which includes the Medicare tax.","Payroll Taxes: The payroll taxes that the employer and employee share to pay to the government are the FICA taxes, including Medicare and Social Security taxes."
+23,Employer taxes include all the following except _____.,Federal Unemployment Tax,State Unemployment Tax,,Federal Income Tax Withholdings,D,"Employer taxes include all of the following except
+d) federal income tax withholdings
+.
+Federal income tax withholdings are withheld from employee pay, but do not obligate the employer to pay anything more than the agreed-upon wages. Federal and state unemployment taxes are payroll taxes that are owed on a fixed dollar figure of employee pay while social security and medicare taxes are split by employers with employees in terms of cost.",Payroll Taxes: Payroll taxes are those costs incurred by the employer for having employees and include payments to a variety of agencies. These taxes are different from withholdings that are deducted from the employee's paycheck and remitted on their behalf by their employer.
+24,Which of the following taxes would be deducted in determining an employee's net pay?,FUTA taxes,SUTA taxes,FICA taxes,all of the above,C,"The correct answer is option
+c. FICA taxes.
+As per Internal Revenue service, an employee's net income must be deducted by the amount of FICA. Employers and employees split for the FICA payable. Both of them are obliged to pay the current Social Security and Medicare tax with the rates equivalent  6.2% and 1.45%, respectively of the gross pay. It means that the employee's net home pay is subject to a total deduction of 7.65%.
+FUTA and SUTA are the taxes payable by the employer, not by the employee. So the correct answer is option c.","Payroll Tax: In payroll accounting, payroll taxes are taxes paid by employers and employees. These are taxes imposed on the employees and employers usually on a certain percentage based on the gross pay of the former."
+25,"During the current year, Margie earned wage income of {eq}\$300,000
+
+{/eq}. If Margie is single, which of the following statements regarding her Medicare tax liability is true?","Margie will owe both the regular {eq}1.45
+
+{/eq} percent Medicare tax and the additional {eq}0.9
+
+{/eq} percent Medicare tax on her entire wage income.","Margie will owe the regular {eq}1.45
+
+{/eq} percent Medicare tax on her entire wage income and the additional {eq}0.9
+
+{/eq} percent Medicare tax only on her wage income in excess of {eq}\$200,000
+
+{/eq}.","Margie will owe the regular {eq}1.45
+
+{/eq} percent Medicare tax on her entire wage income and the additional {eq}0.9
+
+{/eq} percent Medicare tax only on her wage income in excess of {eq}\$250,000
+
+{/eq}.","Margie's employer is required to withhold both the regular Medicare tax but does not withhold the additional {eq}0.9
+
+{/eq} percent Medicare tax.",B,"The correct option is
+b. Margie will owe the regular 1.45 percent Medicare tax on her entire wage income and the additional 0.9 percent Medicare tax only on her wage income in excess of $200,000.
+Explanation:
+According to IRS, the employer is required to withhold 1.45% for Medicare taxes. The total tax rate is 2.9%, collected equally from the employer and employee. Further, wages earned by Margie is $300,000, which is higher than the threshold limit of $200,000. Therefore, 0.9% additional Medicare tax will be withheld from Margie's earnings.","Wage Income: Wage income is defined as the earnings obtained by the worker after considering the contributions made for retirement, social security, and other payroll contributions. It is computed based on work executed by the person."
+26,"During the year, Zeno Company has a SUTA tax rate of 6.5%. The taxable payroll for the year for FUTA and SUTA is $75,000. Compute:",Net FUTA tax,Net SUTA tax,Total unemployment taxes,,A,"(a)
+{eq}\begin{align*}
+
+\text{Net FUTA tax}&= \text{Taxable wages}\times \text{FUTA rate}\\
+
+&= \$75,000\times 6\%\\
+
+&= \$4,500
+
+\end{align*}
+
+{/eq}
+(b)
+{eq}\begin{align*}
+
+\text{Net SUTA tax}&= \text{Taxable wages}\times \text{SUTA rate}\\
+
+&= \$75,000\times 6.5\%\\
+
+&= \$4,875
+
+\end{align*}
+
+{/eq}
+(c)
+{eq}\begin{align*}
+
+\text{Total unemployment taxes}&= \text{Net FUTA tax + Net SUTA tax}\\
+
+&= \$4,500+\$4,875\\
+
+&= \$9,375
+
+\end{align*}
+
+{/eq}",Payroll Tax: The state and federal government along with IRS (Internal Revenue Service) make it compulsory for the employee and employers to pay certain taxes on their compensation received and compensation  paid in the organization.
+27,"Pat Maninen earns a gross salary of $2,900 each week. Assume a rate of 6.2% on $110,100 for Social Security and 1.45% for Medicare.",What are Pat's first week's deductions for Social Security and Medicare?,Will any of Pat's wages be exempt from Social Security and Medicare for the calendar year?,,,A,"Summary:
+Weekly gross income = $2,900
+Social Security payroll tax = 6.2%
+Medicare payroll tax = 1.45%
+a. Determine the Social Security and Medicare contribution:
+Social Security contribution = Gross income x 6.2% = $2,900 x 6.2% = $179.8
+Medicare contribution = Gross income x 1.45% = $2,900 x 1.45% = $42.05
+b. Exemption for FICA:
+In practice, there is no exemption for FICA contributions. However, there is a limit for annual income on FICA taxes.
+Given limit = $110,100
+Total annual gross income = Weekly income x Number of weeks per year = $2,900 x 52 = $150,800
+Determine the amount of gross income that will not be charged by FICA:
+Amount = Total annual gross income - Limit = $150,800 - $110,100 = $40,700","FICA: The Federal Insurance Contribution Act (FICA) is imposed on an employee's gross income at 6.2% for Social Security and 1.45% for Medicare as of 2022. Simultaneously, the employer will also match the employee's contribution."
+28,For which of the following taxes is there no ceiling on the amount of employee annual earnings subject to the tax?,only FICA tax,only federal income tax,only federal unemployment compensation tax,only state unemployment compensation tax,A,"Let us look at the alternatives:
+a. only FICA tax
+No. The FICA taxes are Social Security tax, which has a ceiling of $100,000 earnings per year, and Medicare tax, which does not have a ceiling.
+b. only federal income tax
+This is the correct option. Income taxes in fact increase as your earnings increase.
+c. only federal unemployment compensation tax
+No. State and federal unemployment taxes have a ceiling of $7,000 per employee.
+d. only state unemployment compensation tax
+No. State and federal unemployment taxes have a ceiling of $7,000 per employee.",Payroll Tax Payroll Tax refers to the taxes that employees pay through payroll deductions and those taxes that employers pay based on their payrolls. These include the federal and state income taxes and the FICA taxes.
+29,Employers are required to withhold a portion of earnings from paychecks and remit those withholdings to the federal government as FICA taxes. What programs do FICA taxes support?,Social Security and Unemployment insurance,Medicare and Unemployment insurance,Unemployment insurance and Disability insurance,Social Security and Medicare,D,"Employers are required to withhold a portion of earnings from paychecks and remit those withholdings to the federal government as FICA taxes. What programs do FICA taxes support?
+The correct answer is D.
+Social Security and Medicare| Yes, this is correct. FICA stands for Federal Insurance Contributions Act. The current tax rate is 7.65, of which 6.20% is Social Security tax, the remaining 1.45% is Medicare tax. The employer's share is the same, 7.65%.
+These answers are incorrect:
+A. Social Security and Unemployment insurance
+No, see answer d. above.
+B. Medicare and Unemployment insurance
+No, see answer d. above.
+C. Unemployment insurance and Disability insurance
+No, this is paid for by employers.",Payroll Tax: The government asks employers to collect income tax and other taxes on behalf of the federal government. The employer calculates the income taxes from tables provided by the IRS.
+30,"As of June 30, 2012 (the computation date for the 2013 tax rate), Amanda Company had a negative balance of $1,015 in its unemployment reserve account in State A. The company's average payroll over the last three 12- month periods amounted to $525,000. The unemployment compensation law of State A provides that the tax rate of an employer who has a negative balance on the computation date shall be 7.2% during the following calendar year.",The smallest voluntary contribution that Amanda Company should make in order to effect a change in its tax rate.,"The amount of the tax savings as a result of the voluntary contribution if Amanda Company's taxable payroll for 2013 is $650,000.",,,A,"(a): Computation of smallest voluntary contribution:
+Particulars
+Amount ($)
+Reserve ratio (1,015/525,000)
+0.19%
+Contribution rate
+6.7%
+Smallest contribution (525,000 x 0.19%)
+1,015
+Hence, the amount of smallest contribution is $1,015.
+(b): Computation of tax savings:
+Particulars
+Amount ($)
+Taxable payroll
+650,000
+Net Contribution rate (7.2%-6.7%)
+0.5%
+Smallest contribution
+1,015
+Tax savings (650,000 x 0.5%)-1,015
+2,235
+Hence, the tax savings are $2,235.
+The contribution rate of 6.7% is taken from the unemployment tax rate schedule of State A.","Tax Saving: Tax saving refers to the amount by which the taxpayer minimizes the tax liability. When a person or business entity avails deductions or adopts methods by which the taxable amount is reduced, it results in tax savings."
+31,The social security and medicare taxes deducted from employees become the liabilities of the employers.,True,False,,,A,"The correct answer is option A. True.
+The Social Security and Medicare taxes deducted from employees' wages are considered liabilities for employers. Employers are responsible for withholding the employee portion of these taxes from their employee's paychecks and remitting them to the Internal Revenue Service (IRS) on behalf of the employees.
+Take note that when recording payroll expenses, we usually record them in the company's book of accounts as follows.
+Account Title
+Debit
+Credit
+Payroll Taxes
+xx
+FUTA Payable
+xx
+FICA Payable
+xx
+Social Security Payable
+xx
+Medicare
+xx
+Additionally, employers are responsible for contributing their portion of Social Security and Medicare taxes, often equal to the amount withheld from employees. Employers must accurately withhold, report, and promptly pay these taxes to the IRS. Failure to do so can result in significant penalties for the employer.","Payroll Taxes: Payroll taxes can affect hiring and maintaining employees, as employers must factor in their portion of payroll tax contributions when determining labor costs. In some cases, high payroll taxes may influence hiring decisions."
+32,Which of the following taxes would not be withheld from an employee's paycheck?,Medicare taxes.,Federal unemployment taxes.,Social Security taxes.,Federal income taxes.,B,"The answer is
+option B.
+Federal unemployment taxes are one of the unemployment taxes, aside from state unemployment taxes, that the employer is liable to pay for each employee. Medicare, Social Security, and Federal income taxes are employees' deductions from their gross pay. Thus, B is the answer.",Payroll Taxes: The payroll taxes are either from employees' gross pay or expenses of the employer. The former is the firm serves as a collector since it will remit it to the government. The latter is the employer is the taxpayer.
+33,Unemployment tax payable under the Federal Unemployment Tax Act (FUTA) is:,paid to the Social Security Administration.,a tax-deductible employer's expense.,payable by all employers.,deducted from employee wages.,B,"Answer choice:
+B.  a tax-deductible employer's expense.
+Explanation:
+Employers can deduct the amount of FUTA and SUTA taxes paid during the year on their taxes. This is deducted alongside the self-employment taxes paid (half).  The FUTA tax is paid to the Internal Revenue Service (IRS) through the electronic tax payment system.  It is payable by employers who have W2 employees and not independent contractors.  It is not deducted from employee wages since the employers are solely responsible for the unemployment taxes.","Payroll Taxes: Taxes paid as a result of the payroll process are considered payroll taxes.  These could encompass unemployment taxes, federal/state income taxes, and FICA taxes."
+34,Which of the following is paid by the employer only?,OASDI tax,Employee income tax,Medicare tax,Federal unemployment tax,D,"The correct answer is option D. Federal unemployment tax.
+To answer the above problem, let us discuss each of the options.
+Option
+A. OASDI tax
+is incorrect. The Social Security or Old Age Survivors, and Disability Insurance (OASDI) paid both the employer and the employee. The number of deductions is usually annually set by the Social Security Administration (SSA).
+Option
+B. Employee income tax
+is incorrect. Employees' income taxes are paid solely by the employees.
+Option
+C. Medicare tax
+is incorrect. Like OASDI, the Medicare tax is paid to both the employer and the employee.
+Option
+D. Federal unemployment tax
+is the correct answer.  As instructed in Form 940, only the employer pays the federal unemployment tax.","Payroll Accounting: Payroll accounting is a subset of accounting that focuses on the proper computation of salaries and wages of employees. It includes the basic concept of gross pay, deductions, and net pay."
+35,Employer premiums paid for health insurance are called _____.,retirement plan expense,health insurance expense,state unemployment tax expense,worker's compensation tax expense,B,"Let us discuss each alternative:
+a. retirement plan expense
+No, this is the expense account used to record contributions by the employer to the pension plans of employees.
+b. health insurance expense
+This is the correct option. This is an operating expense account that is part of the larger compensation expense.
+c. state unemployment tax expense
+No, the employer's SUTA tax payments are recorded in this account.
+d. worker's compensation tax expense
+No, the compensation tax payments are recorded in this expense.","Fringe Benefits Expenses: Besides the salaries that employers pay their employees, they also pay various other compulsory and voluntary fringe benefits to employers, the state,  or on behalf of employees to funds. These expenses must be recorded as they are accused."
+36,"FUTA requires employers to pay a federal unemployment tax on the first {eq}\$7,000 {/eq} in salary or wages paid to each employee.",True,False,,,A,"The statement is TRUE.
+The Federal Unemployment Tax Act or FUTA imposes a payroll tax on employers (not employees). This tax is subject to a wage base limit of $7,000 per employee, meaning that the company must pay FUTA tax on the first $7,000 earned by each employee each year. As soon as the total wages of an employee exceed $7,000 in a year, the company can stop paying FUTA on the earnings of that employee.","Unemployment Tax: An unemployment tax is a payroll tax that is imposed on the earnings of employees of a company and used by governments to pay unemployment benefits and run programs for unemployed persons. In the USA, the unemployment tax is imposed by both the federal and most state governments."
+37,Which of the following payroll taxes are usually filled and remitted annually?,Federal unemployment taxes.,FICA taxes.,State unemployment taxes.,Federal and state unemployment taxes.,A,"The correct option is a.
+Federal unemployment taxes are usually filled and remitted annually by the employer. The federal unemployment tax act imposes a federal unemployment tax on any business with employees. As per the act, employers are required to pay tax annually, becoming part of payroll taxes.
+Explanation of incorrect option:
+Option b: Full form of FICA is the Federal Insurance Contributions Act. FICA taxes are required to pay by the employer quarterly. Tax revenue generated from FICA taxes is used to fund the programs.
+Option c: State unemployment taxes is one of the payroll taxes levied by some states that require their employer to pay tax. State unemployment taxes are required to pay by the employer quarterly.",Payroll taxes: Payroll tax is a tax paid by the employer directly to the government on behalf of an employee. It is calculated on the salary or wages of an employee. These taxes are used for the welfare of society.
+38,Which of the following will have no effect on an employee's take-home pay?,Social Security tax,Unemployment tax,Marital status,Number of exemptions claimed,B,"Let us look at the alternatives
+a. Social Security tax
+Social Security tax  is one of the withholding taxes that affect take-home pay
+b. Unemployment tax
+This is the correct option. Only employers (and not employees) pay unemployment tax in the USA
+c. Marital status
+This affects the federal income tax withheld, which in turn affects the take-home pay
+d. The number of exemptions claimed
+This also affects the federal income tax withheld.","Gross and Net Salaries An employee's gross salary is his/her total earnings for the period, often calculated using the hours worked and the hourly rate. Their net salary is the gross salary minus certain mandatory and voluntary payroll deductions."
+39,Which of the following is the type of account that represents taxes withheld from employees' gross pay?,Asset,Expense,Contra asset,Liability,D,"The correct answer is option (d).
+All the taxes that are withheld from the gross pay of employees are considered under the liability account in the balance sheet.
+The tax liabilities of employees' pay are cleared from the balance sheet when that amount is paid out to the government. All the business does not consider these taxes as an expense, it is only considered as a liability.","Employees' Gross Pay Employees' gross pay is a term that can be defined as the sum of money that an employee has earned for the work that he has done for the business. It is considered as a salary from which the deductions of income tax, PF, etc., had not been made."
+40,Which of the following payroll taxes is not paid by the employee?,federal unemployment tax,federal income tax,state income tax,FICA (Social Security and Medicare),A,"The correct option is:
+Option A: federal unemployment tax
+.
+Option A: Federal Unemployment Tax Act (FUTA) is a payment that is provided to employees who have lost their occupation as compensation for unemployment. FUTA tax is solely the employer's liability and is not collected from employees. Thus, this option is accurate.
+Option B: Federal income tax specifies the tax amount deducted as per the IRS table publication 15T and withholding methods are applied as per IRS regulations. Form W-4 provides the details on how this tax is to be paid. So, this option is incorrect.
+Option C: State income tax is solely indemnified by the employee as this tax is provided to the state by its residents. This tax varies from location to location. So this option is also inaccurate.
+Option D: FICA comprises Medicare tax and Social Security tax, which the federal government makes mandatory to be paid by the employee and employer at different rates according to the employee's earnings. So, this option is also false.",Payroll Tax: Payroll tax describes the amount restrained from the employee's paycheck and is paid by the entity's employer to the IRS. These taxes are mostly based on employees' salaries and wages.
+41,The Salaries Payable account is an example of an unearned revenue account.,True,False,,,B,"False
+For instance, the Salaries Payable account is not a type of unearned revenue. When a business receives payment in advance of providing the promised goods or services, this is known as ""unearned revenue."" The revenue has been received but has not been earned, so it is considered a liability for the business. Salaries Payable, on the other hand, is a liability account that keeps track of unpaid employee wages. It's a promise that the business will pay workers a wage for their efforts. That's why you won't find the Salaries Payable account listed under ""unearned revenue,"" but rather among the ""accruals"" in your balance sheet.","Payroll Taxes: Payroll taxes are a source of income for the government, paid by the employers on behalf of the employees and used for funding the welfare programs related to employees and unemployed people."
+42,Which of the following is a factor in the determination of the amount of social security tax to withhold from an employee's pay?,Hours worked during the pay period.,Marital status.,Withholding allowances claimed on Form W-4.,Gross wages,D,"The answer is
+option D.
+Gross wages are one of the factors in calculating social security taxes, aside from the tax rate and the maximum amount prescribed by law. It is calculated as taxable earnings times the tax rate. The hours worked during the pay period, marital status, and withholding allowances are not considered for the computation of social security tax.","Payroll Taxes: One of the payroll taxes is the FICA taxes, which include Medicare taxes and social security taxes. The latter is calculated with a maximum earnings amount, while the former has no limit."
+43,The amount of federal income tax withheld depends on the employee's annual earnings rate and the number of withholding allowances claimed by the employee.,True,False,,,A,"The statement is TRUE.
+The amount to be withheld from the salary of an employee can be calculated using payroll software, various internet resources, or the wage bracket tables published by the IRS. The amount depends on two factors; the earnings of the employee and the number of withholding allowances, which is based on the employee's number of dependents that for whom they can claim income tax deductions on their personal income tax returns.",Federal Withholding Tax: Federal withholding tax is an income tax that employers are required to deduct from the salaries of their employees and pay over to the federal government. The payroll department of a company is responsible for calculating the correct amount to withhold.
+44,Payroll taxes typically include all of the following except:,Social Security tax,Federal excise tax,Medicare tax,Federal income tax,B,"Answer choice:
+b.  Federal excise tax
+Explanation:
+Payroll taxes include social security tax, Medicare tax, federal income tax, state income tax, and unemployment tax.  Payroll taxes are taxes associated with the payroll of employees.  These employees are considered W2 employees.  A federal excise tax is a tax that is imposed on certain types of goods and services but not on payroll.",Payroll Tax: Payroll tax is the topic of many accountants and managements conversations.  Payroll taxes must be properly accounted for and disbursed to the appropriate party on time to ensure the company is in compliance with payroll tax law.
+45,Which of the following is a tax borne by the employer but not the employee?,medicare taxb. social security taxc. state income taxd. s.s. tax.,,,,C,"The correct option is c. state income tax.
+State income tax is a form of tax that various states levy on corporations. This tax is paid only by the employers. Every state has its own rate of tax for which they levy on employers. Employees, individually, are not required to contribute to this tax.
+Analysis of the incorrect options:
+a. Medicare tax is a tax levied by the federal government on both employers and employees. The amount collected through this tax contributes to funds kept for medicare insurance programs. Both employers, as well as employees, are liable to pay the Medicare tax.
+Therefore, this is an incorrect option.
+b. Social security tax is a type of tax that contributes to the funds for benefits provided to underprivileged people, retired people, and survivors. The social security tax is a mandated tax that is paid by employers and employees equally.
+Therefore, this is an incorrect option.
+d. S.S. Tax is an acronym used for Social Security Tax. The proceeds from this tax are used by the federal government for social security programs. Employers, as well as employees, contribute to the funding of social security programs in the form of S.S. Tax.
+Therefore, this is an incorrect option.","Taxation Taxation refers to the monetary imposition that federal, state, and local governments levy on individuals, businesses, and entities. Tax is considered the main source of income for different governments that they use in various areas such as development schemes, defense, and social and security programs."
+46,"FICA Taxes Payable was credited for $7,500 in the entry when Antonio Company recorded payroll. When Antonio Company records employer's payroll taxes, FICA Taxes Payable should be credited for:",$0.,"$7,500.","$15,000.",Some other amount.,B,"Answer choice:
+b.  $7,500
+Explanation:
+FICA taxes payable should be credited for $7,500 when Antonia Company records employer's payroll taxes.  Employees are responsible for half of the FICA taxes and employers are responsible for the other half.","Payroll Taxes: Three examples of payroll taxes are social security, medicare, and unemployment taxes.  These taxes are paid to the appropriate party based on the wages earned by the employee and the amount of wages that are applicable to each type of tax."
+47,Net pay less one or more deductions equal gross pay. True or false?,True,False,,,B,"False
+Gross pay is the amount an employee receives before taxes, deductions, and other withholdings are subtracted, while net pay is the amount the employee actually receives.
+Taxes, retirement payments, insurance premiums, and other costs may all be subtracted from a worker's gross pay. Individual factors such as tax filing status and participation in employer-provided benefit programs can affect the total amount of these deductions.","Social Security Tax: Social Security taxes are the tax deducted from the paychecks of the employees, and the employer also pays the amount from their side. These funds are used to fund social security benefits."
+48,An example of an optional deduction from pay for an employee would be:,FICA,state income taxes,charitable contributions,federal income taxes,C,"The correct option is c. charitable contributions
+Reason: The charitable contribution is an optional deduction because it is included in the list of the voluntary payroll deduction or such deduction cannot be made without authorization of the employee. Therefore, the above option is correct.
+Explanation for incorrect options: FICA, state income tax and federal income tax are the necessary or mandatory deductions that are to be made from the salary of the employee without any authorization from the employee.",State income tax: The fee charged directly on the income earned by the state government is known as state income tax. A taxpayer has to file for the state income tax return for the income earned in every state which is charging state income tax.
+49,The employer is responsible for which of the following payroll taxes?,6.2% FICA OASDI tax,1.45% FICA Medicare tax,Federal and state unemployment taxes,All of the above,D,"The answer is
+d. All of the above.
+Employers are required to pay for the Federal and State unemployment taxes.
+Employers are responsible a half of Social Security  and Medicare taxes, that matches the employees' contribution at 6.2% and 1.45% respectively.","Payroll Taxes: Payroll taxes will be charged to both employers and employees. Depending on the type of payroll tax, the tax rate will be different. There are some common payroll taxes such as federal withholding tax, federal unemployment tax, etc."
+50,The Form W-4 is the source of information to complete the annual earnings statement.,True,False,,,B,"b. False
+The annual income statement is not completed using data from the Form W-4. The employer will give the worker a Form W-2, or annual earnings statement, at the end of each year. This form will detail the worker's pay and any taxes that were withheld from that pay. However, the Form W-4 is filled out by the employee and used to calculate the amount of federal income tax that will be withheld from their pay. The employee's filing status, the number of allowances claimed, and the need for any additional withholdings are all included. While the Form W-4 is essential for calculating tax withholding on a monthly basis, it is not required for filing the W-2, the annual earnings statement.","Payroll Tax: Government programs that help workers and the unemployed are supported in part by payroll taxes, which are levied on employers on behalf of their employees. The employers pay that from the paychecks of the employees."
+51,Which of the following is classified as an accrued payroll liability?,"Federal Income Tax Withheld: yes, Employee's Share of F.I.C.A. Taxes: yes","Federal Income Tax Withheld: yes, Employee's Share of F.I.C.A. Taxes: no","Federal Income Tax Withheld: no, Employee's Share of F.I.C.A. Taxes: no","Federal Income Tax Withheld: no, Employee's Share of F.I.C.A. Taxes: yes",A,"The correct answer is
+a. Federal Income Tax Withheld and Employee's Share of F.I.C.A. Taxes
+. They are classified as an accrued payroll liability because:
+Federal Income Tax Withheld represents an amount deducted from employees' gross pay that must be paid to the income tax authorities on a stipulated date. It is, therefore, a current liability that the employer incurs on the date the pay period ends.
+Employee's Share of F.I.C.A. Taxes represents deductions from gross salaries that must be paid to the relevant authorities on the FICA tax payment dates. It is also recorded as an accrued payroll liability when the pay period ends.","Payroll Liabilities: On the date a payroll period ends, the employer incurs the liability to pay the wages and salaries of its employees and to pay over the various payroll deductions to the relevant organization. These liabilities are called accrued payroll liabilities."

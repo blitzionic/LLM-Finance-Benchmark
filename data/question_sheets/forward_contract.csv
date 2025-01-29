@@ -1,0 +1,378 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The forward rate differs from the unbiased expected rate due to the :,default risk premium,term premium,local sales tax,risk-free rate,A,"The correct answer is
+a.  default risk premium
+.
+The unbiased expected rate does not include a default premium risk for changing market conditions meaning no basis exists when anticipating a future price.  A default risk premium serves as protection for risks assumed when entering a long-term agreement.  Unbiased means that no assumptions are being made on potential variances between the predicted and actual outcomes when considering potential future values (e.g., commodity prices, interest rates, etc.).
+The unbiased expected rate is based on a predictor that assumes spot prices at a future point  in time will be equal to current forward prices.  Spot prices represent the current cost for product, service, or commodity if purchased or obtained today.  The forward rate is the spot rate adjusted based on a future financial obligation or other cost adjustments.  The forward rate considers risk, and an offsetting premium or interest rate for risks assumed including the potential for default when entering into a long-term (i.e., greater than six months) contractual agreement.
+Answer b, c, and d are incorrect.","Expectations Theory: The concept of expectations theory is the prediction of future values based on current information.  More specifically, the expectations theory represents an attempt to forecast long-term values based on short-term information.  For example, investors may use short-term interest rates to predict future rates when evaluating investment options."
+2,Which of the following scenarios would cause a speculator to buy low and sell high?,Farmers expect to have a bumper harvest of corn next year.,Imports of corn begin to flood the country.,The government is expected to pass legislation making it mandatory for all vehicles to use corn-based fuels within one year.,The government is expected to subsidize corn production for farmers.,C,"The correct option is c. The government is expected to pass legislation making it mandatory for all vehicles to use corn-based fuels within one year.
+When the government passes the legislation making corn-based fuels mandatory for vehicles, the demand for corn-based fuels will increase, increasing the demand for corn. As the demand for corn increases, the price of corn will increase.
+Thus, the speculator could buy the corns at a low price today and sell them at the increased price due to the government`s legislation, making profits.
+Reasons for incorrect options:
+Option a. is incorrect because if farmers have expectations of a bumper harvest of corn in the next year, then the price of corn will not increase next year, making it impossible to sell high.
+Option b. is incorrect because if the imports of corn increase, the price decreases, and the corn cannot be sold at a higher price.
+Option d. is incorrect because if the corn production is expected to be subsidized, the corn price will not increase, making it impossible for the speculator to sell the corn at high prices.",Speculation The formation of a theory or concept without having any empirical evidence or proof. Speculation in sales and purchase is the expectation-based purchase of a good in the hope that its price will increase in the future.
+3,Forward rates are:,quoted in both direct and indirect form.,quoted at a premium or discount.,beneficial to risk-reduction.,all of the above,B,"b. quoted at a premium or discount.
+The forward rates are quoted at a premium or discount to the spot rate, points are added or subtracted to the spot rate to arrive at a forward rate. The forward rate is affected by the  prevailing interest rates in the two currencies. It is a rate that will be applied to future transactions when they mature or get to expiration.","Currency Forward A currency forward, is a  forward contract or  an agreement between the buyer and the seller, that allows the buyer to lock in an exchange rate for a transaction that will be executed in the future. This is an over the counter financial instrument."
+4,Under which scenario is basis risk likely to exist?,A hedge (which was initially matched to the maturity of the underlying) is lifted before expiration.,The correlation of the underlying and the hedge vehicle is less than one and their volatilities are unequal.,The underlying instrument and the hedge vehicle are dissimilar.,All of the above are correct.,D,"Correct Option:
+D .
+Explanation for the correct answer:
+All the options have the possibilities to create the basis risk as it includes the dissimilar assets, not having perfectly co-related attributes and hedging due to volatility in prices.
+Explanations:
+Option: A - Because hedging is lifted before the expiration of the maturity period, attached with the security.
+Option: B- This options possible as the asset are not identical & not even completely co-related.
+Option: C- Basis risk definitely arises when there is hedging between mismatched securities.
+Hence, All of the above options are correct.",Basis risk: It is a risk arises when the assets or the instruments under hedging are of not the similar attributes and hence it is imperfectly compared which cannot offset the losses that arises out of such hedging. Potential risk under such hedging increases.
+5,Fine Goods Company and Global Sales Corporation enter into a contract that does not specify the payment terms. Payment may be made in:,cash or check only,cash only,cash or any commercially acceptable substitute,none of the above,C,"The correct answer is
+c.
+If any two parties enter into a contract with each other, and do not specify the terms if ayement, the payment can be made using cash or any other acceptable substitute. The payment shall be made on time and the acceptable means shall be used for it.
+The analysis of the incorrect options.
+a) There are various other means of making payment instead of just cash and check only. Such measures should be legally and commercially acceptable. The options of payment are not just restricted to cash and check now.
+So, it is an incorrect option.
+b) if the legally accepted mode of payment is cash only, it really limits the options of the person or party making the payment. It may also cause delay in the payment. So, only cash is not the only means of payment that can be used by ether of the parties of the contract.
+So, it is an incorrect answer.
+d) The correct answer of the above question is option c, so none of the above cannot be the correct option.
+So, it is an incorrect choice.","Contract Contract is an agreement between two or more than two parties which is enforced by the law. All the mentioned parties  have to fulfill the terms mentioned in the contract. If any of the parties fails to fulfill the terms, the other party can file a suit against them."
+6,The price of a forward contract on a foreign currency is nondecreasing in its maturity date.,True,False,,,A,"The correct option is a
+. Always true.
+The price of a forward contract on a foreign currency is determined by the difference between the current spot exchange rate and the forward exchange rate, which is the rate agreed upon for future delivery.
+Assuming all else constant, the longer the contract's maturity date, the greater the uncertainty and risk associated with the future exchange rate. Therefore, the higher the forward exchange rate will be to compensate for this risk.","Forward contract: A forward contract is not standardized since it can vary among various trades. This indicates that it can be altered to reflect the traded item, expiration date, and trading volume."
+7,"IMXP Corp. enters into a 30-day forward exchange contract to buy 113,540,000 yen for $100,000. Which of the following statements is true concerning this transaction?","IMXP will pay $100,000 today and receive 113,540,000 yen 30 days from now.",The spot exchange rate in 30 days will be 113.54 yen per dollar.,"IMXP will receive 113,540,000 yen today and pay $100,000 30 days from now.","IMXP will pay $100,000 and receive 113,540,000 yen 30 days from now.",D,"Correct optin is""d. IMXP will pay $100,000 and receive 113,540,000 yen 30 days from now.""
+Reason- a forward contract is an agreement to buy or sell an asset on a specified future date for a specified price","Forward Contract: A Forward contract is a one-to-one, bipartite/tripartite contract, which is to be performed mutually by the contracting parties, in future, at the terms decided upon, on the contract date. In other words, a forward contract is an agreement to buy or sell an asset on a specified future date for a specified price. One of the parties to the contract assumes a long position, i.e. agrees to buy the underlying asset while the other assumes a short position, i.e. agrees to sell the asset."
+8,Most forward contracts are closed by:,delivery.,offset.,exercise.,default.,D,"Option A is correct
+A forward contract can be settled by delivery or cash payment. When the parties enter into a forward contract, both sell or buy assets. The contract can be closed when the contract ends by delivering the asset to the buyer and paying the seller.
+Explanations for other options
+Option B is wrong because offset means to cancel the liabilities. A forward contract cannot be closed by offsetting the position.
+Option C is wrong because exercise means the first step in a contract. It involves the right to buy or sell the asset.
+Option D is wrong because, by default, forward contracts cannot be closed. Default means the cancelation of the contract.",Forward contract: Forward contracts are custom-made; the parties in the agreement can make changes as per their needs. Forward contracts are used for speculations and are exchanged through the Over The Counter platform. These types of arrangements help to eliminate risk.
+9,a. Why is the value of a futures or forward contract at the time it is purchased equal to zero?,,Contrast this with the value of the corresponding spot commodity?,,,A,"a. The value of a forward contract is equal to zero since no money is paid between parties to the contract. The entire value of a forward contract is paid on the expiry of a contract. Only a valid contract is entered into by parties at the time of purchase.
+b. Spot price is used as a basis to decide the future contract price. Parties to the contract take reference from the real world market to determine the price at which parties agree to buy or sell in the future. Hence, the future price is determined using spot price and carrying cost.",Forward contract: A forward contract refers to a contract between two parties where one agrees to buy or sell a commodity or stock on a future date at a price agreed between them. It is a private contract between two parties and terms and conditions are as per the agreement and not governed by any stock exchange.
+10,A lawn mower costs $500 in the US and 5188 Mexican Pesos in Mexico. The current exchange rate is 1 USD = 12.97 MXN. At this rate:,The good costs more in the US.,The good costs more in Mexico.,The good costs the same across the two countries.,None of the above.,A,"The correct answer is option
+a. The good costs more in the US.
+The value of the lawn mower in terms of Mexican Pesos if bought in the US is given by:
+{eq}\begin{align*}
+
+&= \text{Value of 1 USD as per the exchange rate} \times \text{Cost of the lawn mower in US dollars} \\[0.3 cm]
+
+&= 12.97 MXN \times $500 \\[0.3 cm]
+
+&= 6,485 MXN
+
+\end{align*}
+
+{/eq}
+From the above calculations, it is clear that the cost of the lawn mower is more in the US (
+6,485 Mexican Pesos
+) than that in Mexico (
+5,188 Mexican Pesos
+).","Foreign Exchange: In the context of economics, the currencies of different countries are usually traded in the foreign exchange market. The cross-rate between any two currencies is usually derived by considering their standard exchange rate quoted against US dollars."
+11,"Find the price bounds for the five-month forward price for Boring Unreliable Gadgets, when:","BUG's stock price, S, is $50 today","a trader can borrow money, at 5%, and lend money at 4%, where the interest rates are annual simple interest rates","a brokerage commission, of 0.5% of the stock price, is charged today, but your broker waives transaction costs on the maturity date",,C,"Given the above information, we can determine the following answer.
+{eq}R_c = mln(1+R_m/m)
+
+\\
+
+R_c = 1*ln(1+0.05/1)
+
+\\
+
+R_c = 0.0488
+
+{/eq}
+A 4% lending rate can be converted into a continuously compounding rate of 3.92%.
+{eq}R_c = mln(1+R_m/m)
+
+\\
+
+R_c = 1*ln(1+0.04/1)
+
+\\
+
+R_c = 0.0392
+
+{/eq}
+{eq}C (commission) = S_0*0.005 = $50*0.005 = $0.25
+
+{/eq}
+The five-month forward price bounds are determined below:
+{eq}F_0 = (S_0-C)e^{rT}
+
+\\
+
+At \ r = 0.0488
+
+\\
+
+F_0 = ($50-$0.25)e^{0.0488*5/12}
+
+\\
+
+F_0 = $50.77
+
+\\
+
+At \ r = 0.0392
+
+\\
+
+F_0 = ($50-$0.25)e^{0.0392*5/12}
+
+\\
+
+F_0 = $50.57
+
+{/eq}
+The price bounds are between $50.57 and $50.77.","Forward Price A forward contract lays out the price, maturity, underlying, risk-free rate, and other terms and conditions of the contract that both parties need to abide by. The contract is traded over the counter market or customized in nature."
+12,The demand curve for foreign currency slopes downward because as the exchange rate _____ the quantity demanded _____.,"Increases; decreases,","Increases; increases,","Decreases; decreases,",Decreases; stays fixed.,A,"The correct option is
+a. Increases; decreases.
+Explanation:
+Demand for a currency and its exchange rate experience inverse relation that can be defined by the downward sloping curve. Foreign currency curve explains that when exchange rate for a currency increases, it implies that the currency appreciates and its value increases in the market. Due to increase in the value, people from different countries discourage to demand this currency as they have to pay higher money to purchase that currency due to which demand for this currency decreases in the foreign market.","Foreign Exchange Market: A market where people from different nations interact to exchange their currencies to make economic, business, and personal transactions. This market is known as the foreign exchange market and it helps to make economic relations with the rest of the world."
+13,Which of the following would tend to shift the supply of Singaporean dollars in the market for the foreign-currency exchange of the open-economy macroeconomic model to the left?,The exchange rate rises.,The exchange rate falls.,The expected rate of return on Singaporean assets rises.,The expected rate of return on Singaporean assets falls.,D,"The correct answer is
+D) The expected rate of return on Singaporean assets falls
+.
+In the market for foreign currency exchange, a leftward shift in the supply curve of Singaporean dollars would mean that fewer Singaporean dollars are supplied at each exchange rate. This could occur if the expected rate of return on Singaporean assets falls.
+When the expected rate of return on Singaporean assets falls, investors will be less likely to invest in Singapore, as they can get higher returns on investments in other countries. As a result, there will be less demand for Singaporean dollars, leading to a leftward shift in the supply curve of Singaporean dollars in the market for foreign currency exchange.
+Conversely, a rise in the expected rate of return on Singaporean assets would make Singapore more attractive to investors, leading to an increase in demand for Singaporean dollars and a rightward shift in the supply curve.
+Changes in the exchange rate (options A and B) do not directly affect the supply of Singaporean dollars, but rather the demand. A rise in the exchange rate would decrease the quantity of Singaporean dollars demanded (shift demand left) while a fall in the exchange rate would increase the quantity of Singaporean dollars demanded (shift demand right).","Supply Curve: In economics, the supply curve is a graphical representation of the relationship between the price of a good or service and the quantity of that good or service that producers are willing and able to supply to the market. The supply curve is typically depicted as a line on a graph, with the price of the good or service on the vertical axis and the quantity supplied on the horizontal axis."
+14,A long forward contract and a long futures contract have the same cash flow.,True,False,,,B,"The correct answer is
+b. False
+Long futures contracts and long forward contracts do not have similar cash flows. In the case of forward contracts, payment is made once at the end of the contract period. On the other hand, forward contracts are settled daily; the losses or profits from a position are computed and settled daily at the close of trading in a stock exchange market.",Forward Contracts and Futures Contracts: Forward contracts are customizable agreements where two parties agree to trade in an asset at a particular future date and price. A long futures contract is a standardized contract involving the trade of an asset at a future date for a set price; these contracts are traded in stock exchanges.
+15,Which one of the following is not associated with forward contracts?,The contract may require a future purchase or sale.,The contract provides for using the at the date the contract is fulfilled.,The contract may permit a future purchase or sale.,The contract specifies the subject matter of the exchange.,B,"The correct answer is option (b).
+The date set by the parties to begin the period of performance under the contract is referred to as the ""contract effective date."" The effective date may never be earlier than the day the contracting officer or other specified higher approval authority signs it.
+The explanation for the wrong options.
+Option A: A futures contract is a formal agreement to buy or sell a certain commodity asset, investment, or other financial instruments at a defined price at a predetermined point in the future.
+Option C: In the future contract both parties are liable to buy and sell future.
+Option D: In the future contract the subject matter of exchange clearly mentioned.",Forward Contracts A legally enforceable agreement between two parties that calls for the sale of a good or service at a price decided upon today in the future is known as a forward contract.
+16,A lender who is worried that its cost of funds might rise during the term of a loan it has made can hedge against this rise by,buying call options on Treasury bills.,selling futures contracts on Treasury bills.,buying futures contracts on Treasury bills.,increasing the amount of money which it lends.,B,"The correct answer is
+B. selling futures contracts on Treasury bills.
+This is because the futures contract would have an opposite effect on the portfolio as a whole than the loaned funds. If the cost of the loaned funds rises, then the futures contracts sold will yield more profit in order to offset the cost increase.",Hedging: One of the most popular techniques used by investment managers to reduce or eliminate a certain risk is Hedging. Hedging refers to the purchase of a financial instrument that is aimed to mitigate the potential losses in another security owned.
+17,Colleen has decided to purchase a T-bill futures contract. Colleen is expecting interest rates and T-bill prices to do what in the next several months?,Interest rates will increase and T-bill prices will fall.,Neither is expected to change.,Both will change in the same direction and by about the same magnitude.,Interest rates will decrease and T-bill prices will rise.,D,"Colleen has decided to purchase a T-bill futures contract. Colleen is expecting interest rates and T-bill prices to do what in the next several months?
+d. Interest rates will decrease and T-bill prices will rise.
+A contract would be bought when there is an expectation of an increase in the price of the asset and one can purchase it at a lower contracted price. T-Bills or other bonds would rise in price when the rates fall.
+Let's analyze other options too:
+a. Interest rates will increase and T-bill prices will fall. - This would have lead to the selling of contracts.
+b. Neither is expected to change. - Then there is no need to buy any contract as it may result in transaction charges.
+c. Both will change in the same direction and by about the same magnitude. - Interest rates and prices will always change in opposite directions.",Futures Contract: The futures contract enables the sale and purchase of a given asset at a specified time in the future at a contracted price. There are both buyers and sellers to the contract that take opposite positions.
+18,Which of the following is NOT true regarding non-deliverable forward (NDF) contracts?,NDFs are used primarily for emerging market currencies.,NDFs can only be traded by central banks.,Pricing of NDFs reflects basic interest rate differentials plus an additional premium charged for dollar settlement.,All of the above are true.,A,"In the table below each statement will be answered by true or false:
+Statement
+True or False
+a. NDFs are used primarily for emerging market currencies.
+False
+NDFs are commonly used for illiquid or untraded currency
+b. NDFs can only be traded by central banks.
+False
+NDFs are available to all interested parties who has access to over-the-counter trading
+c. Pricing of NDFs reflects basic interest rate differentials plus an additional premium charged for dollar settlement.
+False
+Pricing of NDFs are based on agreed upon rates against the spot rate at the time of settlement.
+d. All of the above are true.
+False
+All of the above statements are false
+The answer to the question is
+d. All of the above are true.",Forward Contract Non-deliverable forward (NDF) contracts are traded over-the-counter (OTC) and have been widely used for two-party currency contracts to exchange cashflows. There are two types of parties in a forward contract. A hedger is someone who wants to lessen the risk and a speculator is someone who wants to make a profit from taking a risk.
+19,The forward rate differs from the unbiased expected rate due to the :,default risk premium,term premium,local sales tax,risk-free rate,A,"The correct answer is
+a.  default risk premium
+.
+The unbiased expected rate does not include a default premium risk for changing market conditions meaning no basis exists when anticipating a future price.  A default risk premium serves as protection for risks assumed when entering a long-term agreement.  Unbiased means that no assumptions are being made on potential variances between the predicted and actual outcomes when considering potential future values (e.g., commodity prices, interest rates, etc.).
+The unbiased expected rate is based on a predictor that assumes spot prices at a future point  in time will be equal to current forward prices.  Spot prices represent the current cost for product, service, or commodity if purchased or obtained today.  The forward rate is the spot rate adjusted based on a future financial obligation or other cost adjustments.  The forward rate considers risk, and an offsetting premium or interest rate for risks assumed including the potential for default when entering into a long-term (i.e., greater than six months) contractual agreement.
+Answer b, c, and d are incorrect.","Expectations Theory: The concept of expectations theory is the prediction of future values based on current information.  More specifically, the expectations theory represents an attempt to forecast long-term values based on short-term information.  For example, investors may use short-term interest rates to predict future rates when evaluating investment options."
+20,Which of the following scenarios would cause a speculator to buy low and sell high?,Farmers expect to have a bumper harvest of corn next year.,Imports of corn begin to flood the country.,The government is expected to pass legislation making it mandatory for all vehicles to use corn-based fuels within one year.,The government is expected to subsidize corn production for farmers.,C,"The correct option is c. The government is expected to pass legislation making it mandatory for all vehicles to use corn-based fuels within one year.
+When the government passes the legislation making corn-based fuels mandatory for vehicles, the demand for corn-based fuels will increase, increasing the demand for corn. As the demand for corn increases, the price of corn will increase.
+Thus, the speculator could buy the corns at a low price today and sell them at the increased price due to the government`s legislation, making profits.
+Reasons for incorrect options:
+Option a. is incorrect because if farmers have expectations of a bumper harvest of corn in the next year, then the price of corn will not increase next year, making it impossible to sell high.
+Option b. is incorrect because if the imports of corn increase, the price decreases, and the corn cannot be sold at a higher price.
+Option d. is incorrect because if the corn production is expected to be subsidized, the corn price will not increase, making it impossible for the speculator to sell the corn at high prices.",Speculation The formation of a theory or concept without having any empirical evidence or proof. Speculation in sales and purchase is the expectation-based purchase of a good in the hope that its price will increase in the future.
+21,Suppose that the rate on a 3 -month treasury bills is (on a yearly basis) 10% in London and 6% in New York and the spot rate of the pound is $2.,How can a US investor undertake uncovered interest arbitrage?,What happens if the spot rate of the pound in 3 months is $ 1.99? $1.98? $ 1.96?,How can the US investor undertake covered interest arbitrage if the pound is at a 3-month forward discount of 1% (per year)?,,A,"We can derive the following information from the question.
+The rate of a 3-month treasury bill is:
+10% in London,
+6% in New York.
+The pound's spot rate is $2.
+(A)	How can a US investor undertake uncovered interest arbitrage?
+Present Borrow: $100 in USD = 6% for 3 months
+Convert the dollars to pounds = {eq}\dfrac{100}{2}
+
+{/eq} = 50 pounds
+Purchase British treasury bills worth 50 pounds. The bills will earn 10% interest in three months.
+Matured value of UK Treasury bill = {eq}50(1 + \dfrac{0.10}{4})
+
+{/eq} = 51.25 pounds
+Convert 51.25 pounds to USD using expected exchange rates = {eq}2* \dfrac{(1+\dfrac{0.1}{4})}{\dfrac{0.06}{4}}
+
+{/eq} = 2.01 USD per GBP
+Convert revenue to USD = 51.25*2.01 = 103.0125 USD
+Earnings due if borrowed in the US = {eq}100* (1+\dfrac{0.06}{4})
+
+{/eq}
+=
+101.5 USD
+Arbitrage earning = 103.0125 - 101.5 =
+1.5125 USD
+(B)	What happens if the spot rate of the pound in 3 months is $ 1.99? $1.98? $ 1.96?
+If spot rate in 3 months is $1.99/GBP:
+Arbitrage earning = (51.25 * 1.99) - 101.5
+= $0.4375
+If spot rate 3 months is $1.98/GBP
+Arbitrage earning = (51.25 * 1.98) - 101.5 =
+$-0.025
+If spot rate 3 months is $1.96/GBP
+Arbitrage earning = (51.25 * 1.96) - 101.5 =
+$-1.05
+(C)	How can the US investor undertake covered interest arbitrage if the pound is at a 3-month forward discount of 1% (per year)?
+Get into a 3 months forward contract for GBP in USD
+{eq}\dfrac{2}{1+(\frac{0.01}{4})}
+
+{/eq} =
+1.995 USD/GBP","Foreign Exchange: Foreign exchange refers to the act of swapping one currency for another. Foreign exchange transactions are facilitated through the foreign exchange market. Just like other free markets, pricing in forex markets is dependent on forces of supply and demand."
+22,The buyer of a forward contract agrees to:,Deliver a product at a later date for a price set today.,Receive a product at a later date at the price on that later date.,Receive a product at a later date for a price set today.,Deliver a product at a later date for a price set on that later date. E.None of the above answers.,C,"The correct answer is C.
+A forward contract's purchaser concedes to acquire a product afterward for a currently set price. A forward contract is usually described as a specialized agreement linking two parties to purchase or sell assets at a particular price later. A buyer buys a forward contract when they anticipate that a commodity's price or demand levels will rise in the future. Therefore, the buyers usually purchase the good when it is in plenty; they stockpile it and sell the same good when its supply has diminished. Buyers can always purchase a forward contract for some goods, but not all.","Contract: A contract is described as an obligatory official instrument joining two or more parties that explains and influences the participants' freedoms and responsibilities to an agreement. Every nation identified by the private international law has its local structure of law to control contracts. Therefore, the law structures usually vary significantly across various countries."
+23,A forward contract is an example of a balance sheet hedge. True or False?,True,False,,,B,"This statement is false
+.
+The balance sheet is a list of the company's assets and liabilities, all recorded at their historical cost and at the historical currency exchange rate.  The value of the balance sheet cannot be influenced by derivative contracts.  A forward contract, however, can be an example of an income statement hedge because this contract can affect the value of expected revenues and costs.","Hedging vs Speculating: Derivative contracts, such as forwards and futures, can be used for both hedging and speculating.  Hedging aims to reduce the the overall portfolio risk of an investor, while speculating aims to increase it."
+24,Which of the following is NOT true regarding non-deliverable forward (NDF) contracts?,NDFs are used primarily for emerging market currencies.,NDFs can only be traded by central banks.,Pricing of NDFs reflects basic interest rate differentials plus an additional premium charged for dollar settlement.,All of the above are true.,A,"In the table below each statement will be answered by true or false:
+Statement
+True or False
+a. NDFs are used primarily for emerging market currencies.
+False
+NDFs are commonly used for illiquid or untraded currency
+b. NDFs can only be traded by central banks.
+False
+NDFs are available to all interested parties who has access to over-the-counter trading
+c. Pricing of NDFs reflects basic interest rate differentials plus an additional premium charged for dollar settlement.
+False
+Pricing of NDFs are based on agreed upon rates against the spot rate at the time of settlement.
+d. All of the above are true.
+False
+All of the above statements are false
+The answer to the question is
+d. All of the above are true.",Forward Contract Non-deliverable forward (NDF) contracts are traded over-the-counter (OTC) and have been widely used for two-party currency contracts to exchange cashflows. There are two types of parties in a forward contract. A hedger is someone who wants to lessen the risk and a speculator is someone who wants to make a profit from taking a risk.
+25,A forward contract:,commits the parties to the contract upfront to do something in the future.,"creates a right, but not an obligation to do something in the future.",are standardized and trade on stock markets and exchanges.,"are settled through clearing houses, thus removing credit risk.",A,"The correct answer is the a. commits the parties to the contract upfront to do something in the future.
+A forward contract is a contract between two parties committing to buy or sell an asset at a specified price on a future date.",Forward Contract: A Forward Contract is a contract that specifies the price and quantity of an asset to be purchased and delivered in a future period. It is not standardized and not traded in the regular exchanges. Forward contract is an agreement to buy or sell an asset for a certain price on a certain future date.
+26,"Suppose the gold spot price is $1700/oz, the 1-year forward price is 1760.54, and the continuously compounded risk-free rate is 4%. Calculate the following:",the lease rate,the return on a cash-and-carry if gold cannot be loaned,the return on a cash-and-carry if gold is loaned and it earns the lease rate,,A,"a.
+{eq}Lease \ rate \ = \ Risk-free \ rate \ - \ \left ( \dfrac{Forward \ price \ - \ Spot \ price}{Spot \ price} \right )
+
+\\
+
+Lease \ rate \ = \ 4\% \ - \ \left ( \dfrac{1,760.54 \ - \ 1,700}{1,700} \right )
+
+\\
+
+Lease \ rate \ = \ 0.04 \ - \ \left ( \dfrac{60.54}{1,700} \right )
+
+\\
+
+Lease \ rate \ = \ 0.04 \ - \ 0.0356
+
+\\
+
+Lease \ rate \ = \ 0.0044 \ or \ 0.44\%
+
+{/eq}
+b.
+{eq}Return \ on \ cash \ and \ carry \ = \ \dfrac{Forward \ price \ - \ Spot \ price}{Spot \ price}
+
+\\
+
+Return \ on \ cash \ and \ carry \ = \ \dfrac{1,760.54 \ - \ 1,700}{1,700}
+
+\\
+
+Return \ on \ cash \ and \ carry \ = \ \dfrac{60.54}{1,700}
+
+\\
+
+Return \ on \ cash \ and \ carry \ = \ 0.0356 \ or \ 3.56\%
+
+{/eq}
+c.
+Return on cash and carry = 3.56% + 0.44%
+Return on cash and carry = 4%","Forward: A forward contract is a financial agreement between two or more parties to exchange assets at a future date. A forward contract is regulated, which means it is not traded on a stock exchange."
+27,Which of the following has provided a major inducement for speculators to participate in the futures market?,low margin requirements,low bid-ask spreads,high volume compared to the forward market,all of the above,D,"The correct option is d) all of the above
+Let's analyze why each of the options is beneficial:
+a) low margin requirements - Since there is an exchange involved, a low margin can be offered.
+b) low bid-ask spreads - Due to a large volume of trades, the bid-ask spread is low.
+c) high volume compared to the forward market - Since they trade on an exchange, the volume is higher than OTC forward markets.",Futures Market: Futures markets have standardized contracts that trade on an exchange. They allow buyers and sellers to buy or sell a given asset at a future date at an agreed price. Futures may be preferred as they offer various benefits.
+28,"If the spot price of gold is $1,100 per ounce and the future contract on gold which matures in six months is $1,275. What is the BASIS:",$200,$275,$225,$175,D,"Basis = Spot price - forward price
+Basis = $1,100 - $1,275
+Basis = $175 The answer is D.",Basis: Spot price is the current market price. It is the price for immediate delivery whereas forward price is the price agreed to today for delivery to take place in future. The difference between spot price and forward price is called basis.
+29,The forward market is especially well-suited to offer hedging protection against:,translation risk exposure,transactions risk exposure,political risk exposure,taxation,A,"Correct Answer: b
+The forward market is the means for hedging the transaction risk. One reason for the existence of multinational firms in the forward market is transaction exposure. The multinational firm cannot get away from the forward market in the flexible exchange rate scenario. They have to trade in different tools that help them hedge transaction exposure.
+An explanation for incorrect options:
+Option a: Forward market is not very much suited for translation risk as this risk applies to the balance sheet items. The market is helpful only for monetary items.
+Option c: Political risk exposure is not dealt with in the forward market; a firm can manage it through other policies.
+Option d: Taxation is not related to the forward market; it depends on the profit and taxation strategies.","Translation: A reconciling activity facilitating the compliance of laws by changing the subsidiary's financial records into its reported currency is the translation. Different firms have different reporting currencies, and they translate the statement accordingly."
+30,"Assume you are an American importer and expect to pay 50,000 pounds at the end of 60 days. You can remove the risk of loss due to an appreciation of the pound by:",Selling pounds in the forward market for 60-day delivery.,Buying pounds now and selling it at the end of 60 days.,Buying pounds in the forward market for 60-day delivery.,Keeping the pounds in Britain after it is delivered to you.,C,"The answer is C).
+To remove the risk, you need to fix an exchange rate between pounds and U.S. dollars. Since you need to pay pounds at the end of 60 days, you need a contract that allows you to purchase pounds using U.S. dollars in 60 days. A forward contract to buy pounds for 60-day delivery will achieve this purpose.","Forward Contracts: Forward contracts allow investors to lock in a price for a commodity or asset at a future date of transaction. In this way, the investors can remove risks associated with changes in prices over time."
+31,The spot price of an investment asset that provides no income is $30 and the risk-free rate for all maturities (with continuous compounding) is 10%. What is the three-year forward price?,$50.40,$33.00,$40.50,$33.16,C,"Assuming no arbitrage opportunities, the spot market price (S) of the asset must be the present value of the forward price (F) discounted at the risk-free rate (r) for a period of three years (t = 3):
+{eq}S=F*e^{-r*t}\\
+
+30=F*e^{-0.1*3}\\
+
+F=\$40.50\\
+
+{/eq}
+The correct answer is C).",Forward Value vs. Forward Price: The value of a forward contract should not be mistaken with the forward price.  The forward price is fixed.  It is the price at which the buyer and the seller will exchange the futures asset.  The forward value changes with the market conditions.  It can be a positive or negative change.
+32,A single stock futures contract on a non-dividend-paying stock with current price $170 has a maturity of one year.,"If the T-bill rate is 4.8%, what should the futures price be? (Round your answer to 2 decimal places.)",What should the futures price be if the T-bill rate is still 4.8% and the maturity of the contract is three years? (Do not round intermediate calculations. Round your answer to 2 decimal places.),What if the interest rate is 6.3% and the maturity of the contract is three years? (Do not round intermediate calculations. Round your answer to 2 decimal places.),,A,"We can use the following non-arbitrage pricing formula to compute the forward price of a stock with no dividend payments:
+{eq}\displaystyle
+
+S_T = S_0e^{rT}
+
+{/eq}
+where
+{eq}T{/eq} is the number of periods before the forward contract expires
+{eq}S_0{/eq} is current asset price
+{eq}S_T{/eq} is the forward asset price
+{eq}r{/eq} is the risk free rate
+a. Applying the formula, the futures price for a one-year maturity is:
+{eq}\displaystyle
+
+170*e^{4.8\%} = 178.36
+
+{/eq}
+b. If the maturity date is three years, the price of the futures is:
+{eq}\displaystyle
+
+170*e^{4.8\%*3} = 196.33
+
+{/eq}
+c. If the interest rate is 6.3%, the price of the futures is:
+{eq}\displaystyle
+
+170*e^{6.3\%*3} = 205.37
+
+{/eq}","Stock Future: A stock future is a financial derivative that specifies the price and the time of contract between two parities, with a stock being the commodity to be transacted. A long position in a future contract is similar to (but different from) a call option, while a short position is similar to (but different from) a put option."
+33,A forward exchange agreement between currencies states the rate of exchange at which a foreign currency will be bought forward or sold forward at a specific date in the future. True or False?,True,False,,,A,"The answer is
+True
+A forward exchange contract serves the following two purposes:
+1. Minimize foreign exchange losses - The exchange rates keep changing dynamically. Hence a forward exchange contract enables the selection of a conversion rate at any future date called Spot Rate. On the future date, that is the date of settlement, irrespective of the prevailing rate of exchange, the transaction is carried out at the agreed spot rate only.
+2. Hedging- The forward exchange contracts themselves are traded as an instrument. The lower the spot rate of a contract, the more money a buyer will pay for the said contract.","Contract A contract is an agreement between any two parties. It can be enforced and thereby assures one and another of performance. Documentation of the same is not a statutory mandate. However, it is advisable."
+34,"The forward premium on the British pound sterling, given a spot rate of $1.8000 and a three-month forward rate of $1.7800 is:",-11.11%,-4.44%,+1.10%,-1.10%,B,"Because you can buy less $ in the forward market than in the spot market, the British pound trades at a forward discount.  Using the formula for the forward premium:
+{eq}Premium=\frac{Forward \ rate - Spot \ rate}{Spot \ rate}*\frac{360}{Contract \ days}\\
+
+Premium=\frac{1.78- 1.8}{1.8}*\frac{360}{90}\\
+
+Premium=-4.44\%\\
+
+{/eq}
+The discount is 4.44% (Answer: b.)","Forward Premium vs Discount: If a currency trades at a forward premium, this currency is expected to appreciate and its forward rate is higher than its spot rate.  If it trades at a discount, the currency is expected to depreciate."
+35,Four investors enter into long oil contracts. Three are speculators and one is hedging. Which of the following is hedging?,Farmer,Cereal company,Mutual fund,Airline company,D,"Four investors enter into long oil contracts. Three are speculators and one is hedging. Which of the following is hedging?
+D. Airline company
+The cost of an airline company is highly dependent on fuel or oil. Hence they are hedging to save themselves from increased prices.
+Let's analyze the incorrect options:
+A. Farmer - A farmer has nothing do do with oil prices and is a speculator.
+B. Cereal company - Similarly a cereal company does not depend on oil.
+C. Mutual fund - A mutual fund would again be speculating against the oil prices.",Hedging And Speculation: The hedgers are the investors or parties that enter into a contract to save themselves from the ill effect of the adverse change in prices of the commodity. The speculators just want to earn profit by estimating the direction of change in the prices.
+36,Which of the following statements is most accurate?,Futures contracts are private transactions.,Forward contracts are marked to market daily.,Futures contracts have more default risk than forward contracts.,Forward contracts require that both parties to the transaction have a high degree of credit worthiness.,D,"The correct answer is option D. A high degree of the creditworthiness of both the buyer and the seller is required in forward contracts as counterparty default risk is a major risk faced by investors while trading in forward contracts.
+An explanation for incorrect answers:
+A.	Futures contracts are not private transactions as they are traded in the public market. Hence, option a is incorrect.
+B.	Marking to market is done incase of futures contracts as futures are governed and regulated by the respective exchanges. Hence, option b is incorrect.
+C.	Futures contracts have less default risk as the settlement of futures is guaranteed by the clearing corporation. Hence, option c is incorrect.","Forward Contracts: Investors can trade and invest in forward contracts on the OTC i.e., over-the-counter markets. These contracts can be customized according to the needs of the investor but have low liquidity."
+37,Expected future value of a currency is reflected in its spot rate.,True,False,,,B,"The answer is:
+B. False
+. The spot rate is the current price. The expected future value or forward rate can be calculated using the spot rate, but the spot rate does not reflect the future value.","Forward Rate vs Spot Rate: The forward rate is the price of a forward contract. A forward contract is a non-standardized contract to buy or to sell an asset in the future at a price agreed on today. By contrast, the spot rate is the price of a spot contract. A spot contract is a contract for immediate settlement. A spot rate is used by buyers and sellers in need of an immediate purchase or sale, while forwards are considered the market's expectation of the future."
+38,"Pre-harvest, a Basis contract will downward price risk reduce.",True,False,,,B,"The answer is
+False
+As the commodity prices fluctuate all the year-round. During the pre-harvest period, the farmer or producer of the commodity may want to get into a contract to lock the price for the commodity that is going to be delivered in the future date; based on the future price after taking into account the agreed-upon quality & quantity, and transportation cost estimates. This is done because there is always a fear of the commodity price decrease in the future. The basis is the difference between the cash price and the futures contract price of the commodity in question. The basis contract is a method of forward contracting because it is agreed upon the basis that is fixed, which in turn is related to the specified futures contract price. No doubt that the basis contract is entered with an intention to eliminate the downward price risk. However, if the prices go high during the delivery time, one is still required to honor the contract at the pre-decided negotiable price, which will turn out to be a loss to the farmer. Thus, during the pre-harvest time, there is no guarantee that the basis contract will reduce the downward price risk because there may be chances of the prices going high, leading to losses at the delivery time. So, the statement in the question is false.",Law Of One Price: The Law of one price for commodities theoretically is that the difference in prices for identical commodities from one location to the other shouldn't be greater than the transportation cost and must be sold at equal prices.
+39,What is an advantage of using a forward contract to hedge against exchange rate risk?,Eliminates risk but preserves the potential to profit from favorable exchange rate changes,Forwards are marked to market,Forwards can be customized to the firm's needs,Forwards are exposed to counter party risk,A,"Answer:
+a. Eliminates risk but preserves the potential to profit from favorable exchange rate changes
+Explanation:
+Forward contracts are traded over-the-counter contracts and are between two parties. The advantage of using forward contracts is the flexibility of accommodating each party's concerns. Forward contracts can be customized thus making it better instrument to use for hedging risks. The party involved has the option to create an agreement based on the situation they are in.",Hedging Hedging is the process of lessening the risk of adverse price movement in the spot market. Hedging is a simple process of taking an offsetting position for the same security you own.

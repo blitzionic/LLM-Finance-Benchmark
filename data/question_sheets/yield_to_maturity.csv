@@ -1,0 +1,428 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,Commercial banks are a major source of term loans. These loans are best used for:,financing the expansion of the business.,financing the establishment of overseas operations.,financing current assets like inventory and accounts receivable.,financing the payment of dividends.,A,"The answer would be A.
+The expansion of a business could be funded by medium-term and long-term loans. A firm would take a long-term loan since the expansion will consume a significant time. In addition, a long-term loan would have a stable financing costs.","Commercial Banks: Commercial bank would be the largest type of banks in the financial industry. It would be allowed to receive deposits from individuals, householders and organization. In addition, commercial banks would offer a variety numbers of financial products and services."
+2,"Which of the following $1,000 face value securities has the highest yield to maturity?","a 12% coupon bond selling for $1,100","a 10% coupon bond selling for $1,000","a 5% coupon bond selling for $1,000","a 12% coupon bond selling for $1,000",D,"The correct answer is option
+D) a 12% coupon bond selling for $1,000
+A bond is issued at the face value (i.e. $1,000) if the yield to maturity is the same as the stated coupon rate. On the other hand, if a bond is issued at a premium to the face value, the yield to maturity is less than the stated coupon rate in such a case.
+Among the given options, the bond is selling at the face value for options B), C)  and D), and, hence, we can say that the respective yield to maturity is the same as the respective coupon rate (i.e. 10%, 5%, and 12% respectively). For option A), since the selling price (i.e. $1,100) is more than the face value, we can say that the yield to maturity is less than the coupon rate of 12%.
+From the above explanation we can conclude that the highest yield to maturity is for option D), which is 12%.","Bond Yields: In the domain of accounting, the coupon rate for a bond is the quoted interest rate that dictates the periodic coupon or interest payments to the investors. On the other hand, the yield to maturity is the interest rate for which the issue price is the same as the sum of present values of all prospective interest payments and face value repayment."
+3,"If a corporation were to choose between issuing a debenture, a mortgage bond, or a subordinated debenture, which would have the highest yield to maturity, everything else equal?",the debenture,the mortgage bond,the subordinated debenture,all of the above,C,"The correct option is (c)
+.
+A bond or a debt of an organization that ranks below then other bonds or debentures would be classified as subordinated debentures.
+When a company is required to choose between issuing a debenture, a subordinated debenture, or a mortgage debenture, then it is said that the subordinated debenture would have the highest yield to maturity, everything else otherwise equal because senior securities are paid first in this case, whereas, if an organization is required to choose amongst them that would sell for the greatest price, then only the mortgage bond would be selected because in this case, the holders would have a claim on the real estate assets.
+Hence, it is the correct option.","Financing Activities Financing activities are recorded and reported in one of the statements of financial reputation that is a cash flow statement. It records the transactions related to bonds, equity, or debt that would have an impact on the financial status of the company."
+4,The type of corporate security that pays periodic interest as well as the eventual return of principal is:,Preferred stock,Debt Securities,Equity Securities,Fixed asset loans,B,"The correct answer to the given question is option
+B) Debt Securities
+.
+The debt security is a type of corporate security which pays fixed periodic interest or coupon payments along with repayment of principal amount at maturity to the investors.","Financing of Assets: In the context of finance, the assets of a firm may be financed by using different sources of funding such as debt and equity. The equity may be raised in the form of common equity or preferred equity while the debt may be raised in the form of loans or corporate bonds."
+5,Which of the following is not a typical cash flow under operating activities?,Cash inflows from sale of goods or services.,"Cash inflows from sale of property, plant, and equipment.",Cash outflows to employees.,Cash outflows to suppliers.,B,"b. Cash inflows from sale of property, plant, and equipment.
+The overall cash flow under operating activities consists of cash inflows from sale of goods or services, cash outflows to employees for salaries and cash outflows to suppliers for purchase of raw materials. The cash inflows from sale of property, plant and equipment is reported under investing activities.","Cash Flow Statement: In the context of accounting, the cash flow statement is one of the three prominent financial statements prepared by any firm for a given period. The cash flow statement shows the cash flows occurring from three kinds of activities during given period, namely, operating activities, investing activities and financing activities."
+6,"A coupon bond has a face value of $1000, a coupon rate of 6%, and 2 years to maturity. If the price of the bond is $1100, then the yield to maturity it __________.",10%,6%,less than 6%.,greater than 6%.,C,"Answer: C. less than 6%
+Face Value, FV= $1000
+Present Value (Price), PV= $1100
+Coupon Payment, C= 60 (6% of $1000)
+Maturity, t=2 years
+Yield to Maturity (YTM)= ?
+{eq}\begin{align*}
+
+{\rm\text {YTM}} &= \frac{{{\rm\text {C}} + \frac{{{\rm\text {FV}} - {\rm\text {PV}}}}{{\rm\text {t}}}}}{{\frac{{{\rm\text {FV}} + {\rm\text{PV}}}}{2}}}\\
+
+&= \frac{{\$ 60 + \frac{{\$ 1000 - \$ 1100}}{2}}}{{\frac{{\$ 1000 + \$ 1100}}{2}}}\\
+
+&= \frac{{\$ 10}}{{\$ 1050}}\\
+
+&= 0.95\%
+
+\end{align*}
+
+{/eq}",Yield to Maturity: Yield to maturity is the rate of return that is expected by investors when they invest in bonds and hold it till its maturity period. Yield to maturity can also be negative if the bond price is greater than the face value.
+7,Which of the following is true of microfinance?,It is a not-for-profit concept.,The effects of lending are lower for higher-income borrowers.,It is subject to nonmarket risks.,Those borrowing for non-business purposes decreased household consumption.,B,"Answer b
+Microfinance means that the organisation provides microfinance services, ranging from a small non-profit organisation to large commercial banks. It lacks access to banking-related services like giving small loans, money transfer services etc.","Finance Finance means evaluating an investment in business and raising capital to fund them and concerned about investing, savings and earnings of individuals and firms. Financial management and financial services are considered as a part of finance."
+8,"A {eq}\$1,000
+
+{/eq} par value 8-year bond with a 7 percent coupon rate recently sold for {eq}\$1,100
+
+{/eq}. The yield to maturity is:",greater than 7 percent.,7 percent.,less than 7 percent.,cannot be determined.,C,"The answer is
+c) less than 7 percent.
+Summary:
+Par = $1,000
+Coupon rate = 7%
+Price =  $1,1,00
+In this case, the price of this bond is greater than its par value, which indicates that the yield to maturity is less than the coupon rate. As the yield is less than the coupon rate, the present value of all cash inflows will increase greatly, which will exceed the par value.","Yield To Maturity: The yield to maturity (YTM) is an expected rate of return on a bond that an investor holds the bond until its maturity. Alternatively, the yield to maturity can be treated as the internal rate of return on a bond investment."
+9,Which of the following bonds has a comparatively higher yield to maturity?,A one-year bond with a 6.7 percent interest today,A three-year bond with a 5 percent interest today,A two-year bond with a 4 percent interest today,A four-year bond with a 4.5 percent interest today,A,"The answer is
+a. A one-year bond with a 6.7 percent interest today
+To attract investors to purchase new bonds, these bonds would usually offer the coupon rate that is equal to the current yield to maturity. Considering this assumption, a bond with a higher coupon rate indicates that it yields at a higher rate of return.",Yield to Maturity: Yield to maturity (YTM) is the investor's expected rate of return by holding a bond until its maturity. The investor's forecast of future interest rates has a direct impact on deciding whether the bond should be purchased since any change in the market interest rates will influence the fair value of the bond.
+10,The most widely used calculated measure of interest rate in bond markets is the:,coupon rate.,discount rate.,yield to maturity.,current yield.,C,"Correct Answer: Option c. yield to maturity.
+Explanation:
+Yield to maturity is the holding period return on a bond that is realized by holding the bond until maturity. It is the most widely used measure in the bond markets. The bond valuation is not possible if it isn't for the yield to maturity. The purchase price of a bond is equal to the present value of the future cash flows from the bond discounted at the yield to maturity.","Cost of Debt: The cost of issuing bonds to raise capital and invest in the business is called the cost of debt. It is associated with the interest expense that is paid periodically to the bondholders. For the purpose of computing WACC, the cost of debt is the after-tax yield to maturity."
+11,One method of decreasing the cash outflows of a firm is to:,decrease depreciation,increase capital expenditures,decrease dividends,increase debt repayment,C,"The correct answer to the given question is option
+C) decrease dividends
+.
+The cash outflows of a firm can be reduced by using following measures:
+1) Decreasing the dividends to be paid to the shareholders
+2) Decreasing capital expenditures
+3) Decreasing debt repayment
+The depreciation expense is a non-cash item and therefore it does not affect the cash flows.","Cash Flows: In the parlance of finance, the cash flow statement is one of the four financial statements which may be prepared by any firm for a financial period. The cash flow statement shows the cash inflows, cash outflows and net cash flows for a given period in terms of investing activities, operating activities and financing activities."
+12,Behavioral finance suggests that,investors may be subject to bias which leads to excessive buying or selling of stocks,investors are not informed,individuals make rational investment decisions,emotion plays only a minor role in security selection,A,"The correct answer is a. investors may be subject to the bias which leads to excessive buying or selling of stocks
+The investor is biased in decisions and not always a rational investor. This partiality results in the preference of a stock.
+The explanation for incorrect answers:
+Option B is incorrect as investors are informed but do make errors in making an investment decision.
+Option C is incorrect as individuals are not rational but rather normal.
+Option D is incorrect as investors are emotional and are biased.",Behavioral Finance: Behavioral finance refers to the field that studies the effect of psychology on investment decisions. This field scrutinizes the factors that affect the investor's decisions. This theory is based on the fact that the investor is biased and not always take rational decisions.
+13,"The relative proportion of debt, equity, and other securities that a firm has outstanding constitute its:",asset ratio,current ratio,capital structure,retained earnings,C,"The correct answer to the given question is option
+C) capital structure
+.
+The relative proportion of debt, equity and other securities that a firm has outstanding constitute its capital structure. These securities are used to raise the overall capital required to invest in the assets and operations of the firm.","Financing the Assets: In the parlance of finance, the total assets of a given firm may be financed by using a mix of different sources of funds. The prominent sources of funds are debt and equity. The debt may be categorized into short-term and long-term debt while the equity may be bifurcated into common equity and preferred equity."
+14,"In terms of campaign financing, hard money refers to _____ .",the amount of money required to buy a favor from officeholders,the impact of an alternative on the constituents or policy interests of an officeholder,contributions to a candidate's campaign,expenditures in electoral campaigns,C,"Option (c) Contributions to a candidate's campaign is the correct answer.
+Reason:
+Campaign Financing deals with arranging and allocating funds to campaigns related to elections or any political contribution in which a candidate is fighting for a position. The money which is incurred for the candidate's promotion for the purpose of the vote is known as hard money.
+Reason for incorrect options:
+Option (a), Option (b), and Option(d) are incorrect since these are not related to the campaign financing.","Financing: Financing is a term used in financial management where funds are being arranged from the market to work. Financing is of two types i.e., equity financing and debt financing. Money can be financed through any internal or external forces."
+15,Which of the following statements concerning external sources of financing for nonfinancial businesses in the United States are true?,Issuing marketable securities is the primary way that they finance their activities.,Bonds are the least important source of external funds to finance their activities.,Stocks are a relatively unimportant source of finance for their activities.,Selling bonds directly to the American household is a major source of financing.,D,"The correct answer is an option D) Selling bonds directly to the American household is a major source of financing
+In this scenario, indeed, the American companies for the organization don't show the keen interest in the financing by the stocks for the organization because the business of America prefers to do the finance of the business by giving the bonds to the people of America and this can give the money to the organization that can give the benefit in the long and short run.","Financing: Financing is the basic need of every business because, without financing, the business or the organization can not fulfill the needs so finance is compulsory for the business or the organization and the bank provide this finance to the business."
+16,"A municipal bond carries a coupon of {eq}6 \dfrac 34
+
+{/eq} percent and is trading at par. To a taxpayer in the 34 percent tax bracket, what would the taxable equivalent yield of this bond be?",4.5 percent.,10.2 percent.,13.4 percent.,19.9 percent.,B,"The answer is
+b. 10.2 percent.
+Summary:
+Coupon rate on a municipal bond = 6 3/4
+Tax bracket for the investor = 34%
+Determine the yield to maturity on the municipal bond:
+Since the bond is issued at par, its yield to maturity is equal to its coupon rate.
+{eq}Yield_{municipal} = \displaystyle 6 + \frac{3}{4} = 6.75\% {/eq}
+Determine the taxable equivalent yield of the municipal bond:
+{eq}Equivalant\:yield = \displaystyle \frac{Yield_{mubicipal}}{1 - Tax\:rate} {/eq}
+{eq}Equivalant\:yield = \displaystyle \frac{6.75\%}{1 - 34\%} {/eq}
+{eq}Equivalant\:yield = \displaystyle 10.2\% {/eq}","Yield To Maturity: The bond's yield to maturity indicates the investor's rate of return by carrying the bond until its maturity. In practice, if the bondholder lowers the desired rate of return, the price of the bond is expected to increase."
+17,"The bond's market value is the sum of the present value of future interest payments and the present value of the amount to be repaid at maturity, discounted at?",the market rate.,the coupon rate.,the dividend rate.,the prime rate.,A,"Correct Answer: Option A. the market rate.
+Explanation:
+The current price value of the bond is the present value of the future interest payments until maturity and the present value of the face value of bonds. These cash flows are discounted at the yield to maturity, which can also be referred to as the market rate. Yield to maturity is the return that an investor will realize from the bond investment, if the bond is held until maturity.","Sources of Capital: The various sources of capital that are available to a company include the issuance of common stock, the issuance of preferred stock, and the issuance of debt instruments. Bonds are secured and provide periodic interest payments to the bondholders until maturity."
+18,A bond's yield to maturity is the same as the market's required return on the bond.,True,False,,,A,"The correct answer is option
+a. True
+.
+The market's required return on the bond is represented by the yield to maturity. It represents the discount rate for which the current selling price of the bond is equal to the sum of the present value of all the periodic coupon payments and par value repayment at maturity.
+It also represents the interest rate prevailing on securities having comparable risk and time till maturity.","Bonds: Bonds are financial instruments issued by corporations and financial institutions to borrow funds from investors for a long time horizon. Depending upon the yield to maturity, a bond may be issued at a discount, premium, or at the face value."
+19,Which of the following is true about the Statement of Cash Flows (SCF)?,The SCF is more subject to manipulation than the income statement.,Cash flow from financing activities is considered to be the most important part of the SCF.,Classification rules prevent manipulation of cash flows from operating activities on the SCF.,Flexibility in applying classification rules on the SCF allows companies in the same industry to give vastly different perspectives.,D,"Correct Answer: D
+Explanation:
+As the statement of cash flows deals with different activities such as operations, investing, and financing, the management can think from different perspectives to increase their return. This classification gives the flexibility to decide on investments, operating expenses, and transactions related to shareholders and loans taken by the company, etc.
+Incorrect options: A, B, C
+A: In comparison with the income statement, cash flows are less manipulative. Most of the companies try to manipulate net income showing high profits or fewer expenses. But only some of the individuals manipulate cash flow statements by showing fewer operating expenses.
+B: As Cash flow from operating activities is the vital activity that deals with the daily production level, it's important for the companies than financing activities.
+C: As the classification rule includes operating, investing, and financing activities, the cash flows from operating activities can't be prevented from manipulation through this classification. The employees can anyhow manipulate the expenses if they try to show more operating profits.",Analysis of cash flows: This analysis helps the companies to monitor the inflows and outflows of cash used in different operations of their businesses. The management makes decisions on how to control and monitor the cash outflows and analyzes whether the company earns the maximum return or not.
+20,"An investor buys a bond for $3,466 that pays out $4,117.99 in 2 years. This bond has a yield to maturity of:",4.1%,5.1%,7%,9%,D,"The correct answer is
+option d. 9%.
+Given information:
+Purchase price: $3,466
+Redemption price: $4,117.99
+Time to maturity: 2 years
+Since there are no coupons, the only component of the yield to maturity is the earnings due to capital appreciation.
+Determine the yield to maturity as the yield of a zero-coupon bond as follows:
+{eq}\begin{aligned} \text{Redemption price} &=\text{Purchase price}\times {{\left( 1+\text{Yield to maturity} \right)}^{\text{Time to maturity}}} \\ \$4,117.99 &=\$3,466\times {{\left( 1+\text{Yield to maturity} \right)}^{2}} \\ {{\left( 1+\text{Yield to maturity} \right)}^{2}} &=\frac{\$4,117.99}{\$3,466} \\ \left( 1+\text{Yield to maturity} \right)&=\sqrt{\text{1}\text{.18811}} \\ \text{Yield to maturity} &=1.09-1 \\ \text{Yield to maturity} &=0.09\,\,or\,9\% \end{aligned} {/eq}",Zero-Coupon Bonds: A zero-coupon bond does not make regular payments. It helps eliminate reinvestment risk because there is only one payment at maturity. Such bonds trade at a significantly lower value than their redemption price.
+21,Which of the following is correct regarding the relationship between bond yield to maturity and value of bond?,"When the yield to maturity increases, the bond value decreases.","When the yield to maturity decreases, the bond value decreases.","When the yield to maturity increases, the bond value remains the same.","When the yield to maturity increases, the bond value increases.",A,"Correct Answer: Option a. When the yield to maturity increases, the bond value decreases.
+Explanation:
+There is an inverse relationship between the price of a bond and the yield to maturity. If the yield to maturity increases, the price of the bond decreases. Similarly, when the yield to maturity decreases, the price of the bond increases. We can conclude that option a is the best answer.",Yield To Maturity: The yield that a bondholder realizes by holding the bond until maturity is called yield to maturity. It is used to determine the bond's current value. The present value of the future cash flows related to the bond are discounted at the yield to maturity.
+22,"From the following list, identify each item as operating, investing, financing, or not separately reported on the statement of cash flows.",Payment of cash dividend on common stock,Payment of cash dividend on preferred stock,Distribution of stock dividend,Declaration of stock split,A,"A) Payment of cash dividend on common stock  -  Operating
+B) Payment of cash dividend on preferred stock  - Operating
+C) Distribution of stock dividend  - Not included in the statement of cash flows
+D) Declaration of stock split - not included in the statement of cash flows
+The items c and d were not considered when preparing the statement of cash flows because these transactions do not involve the cash account.","Statement of Cash Flows: The statement of cash flows is one component of financial statements which can be presented using either the direct or indirect method. The activities involving cash are categorized as to operating, investing and financing."
+23,The advantages of going public include which of the following? (Select all that apply.),One advantage of going public is increased liquidity. It is easier to buy and sell the company's shares.,A very significant advantage of going public is that by doing so a firm can satisfy all of the requirements of being a public company such as SEC filings and listing requirements of the securities exchanges.,Increased access to capital markets is a primary advantage of going public.,Decreased exposure to sources of capital is another advantage of going public.,A,"A. is true.  A public market for the company's shares allows outside investors to buy shares and inside investors to sell shares.  Thus, increased liquidity benefits all investors.
+B is false.  Public companies are subject to higher disclosure standards and listing requirements.  This is considered a disadvantage of going public.
+C. is true.  After the IPO, companies can easily issue more shares and raise more external equity.
+D. is false.  Going public increases the company's exposure to sources of both equity and debt capital.",IPO: An initial public offering (IPO) is the first sale of common equity to the general public.  A company is said to have gone public if it has had an IPO.  The IPO shares are typically listed and traded on a stock exchange.
+24,An example of a firm's financing decision would be:,acquiring a competitive firm.,determining how much to pay for a specific asset.,issuing 10-year versus 20-year bonds.,deciding whether or not to increase the price of its products.,C,"Correct answer:
+Option C) issuing 10-year versus 20-year bonds.
+Explanation:
+Financing decisions of a company involve evaluation of the type of source that should be used for raising capital and deciding the maturity period of the same. Financing decisions include whether the common stock should be issued, or debt securities, etc. These decisions help the company in raising capital in a way that the cost is minimum and the profits are maximum.","Capital Budgeting Decisions: Capital budgeting decisions require a company to evaluate various alternatives and whether they are worth the present capital expenditure or not. This is done by comparing the initial investment cost with the present value of cash flows that are expected from the investments. There are various techniques such as net present value, internal rate of return, discounted payback period, etc. that are used to make capital budgeting decisions."
+25,"Generally, more use is made of short-term financing because:",short-term interest rates are generally lower than long-term interest rates.,most firms do not have basic access to the capital markets.,short-term financing is usually more predictable than long-term financing.,Both A and B.,D,"Answer:
+D. Both A and B.
+Most of the firms will prefer to use short-term sources of finances because:
+The short-term sources of finances are mostly cheaper due to the low-interest rate.
+In most cases, firms are blocked from accessing long-term sources of finances due to a lack of collateral.","Financing Methods: Aggressive Financing: In a firm, financing means mobilizing resources, especially cash, to facilitate business undertakings. In financing, various strategies may be exploited, one of them aggressive financing. According to this financing technique, the firm will use the short-term sources of finances only."
+26,An advantage of preferred stock financing is:,Preferred stockholders can vote for the Board of Directors and be an integral part of the direction of the company.,Preferred stock dividends are tax-deductible for the investor.,Preferred stock dividends are flexible. The penalties for not paying a dividend are not severe.,Preferred stock is the most preferred method of raising capital.,C,"The correct option is
+C) Preferred stock dividends are flexible. The penalties for not paying a dividend are not severe.
+Even though dividend on preferred stock is much stable than common stock, sometimes, in case, if the company lacks sufficient profit, it may disrupt the flow of dividend to preferred stockholders and under the preferred stock, there are no many consequences, like a penalty when the company defaults the payment of dividend to preferred stockholders.
+The explanation for incorrect options:
+Option A: Common stockholders are entitled to elect the board of directors and they can also manage the internal affairs of the company's management. Preferred stockholders have no role in it. Hence, it is an incorrect option.
+Option B: Dividend distribution on the preferred stock has no tax advantage as it is not considered as the tax-deductible item. Generally, interest on debt capital is tax-deductible to investors. Hence, it is an incorrect option.
+Option D: Preferred stock is one of the methods used by businesses to raise capital. Debt and equity capital are the most common form of capital utilized by firms. Hence, it is an incorrect option.","Stock Stock is a portion of a company that represents the ownership of the respective entity. It is available in various kinds, via equity and preferred stock and the owners of stock can be called the shareholder of the company."
+27,Which of the following is NOT a reason why a firm's financial managers must take great care when making investment decisions?,These investment decisions determine whether the firm will add value for its owners.,These investments determine the long-term directions in which the company may move.,These investment decisions determine the corporation's mix of debt and equity.,These investment decisions typically involve substantial costs which must be carefully weighed against their potential benefits.,C,"The current statement is option C) These investment decisions determine the corporation's mix of debt and equity.
+The investment decision is not a determent factor to decide the company's capital structure, which is prominent in taking the financing decision of a firm.
+Option A: Investment decisions should add value to the company owners (shareholders). The future returns of the company ultimately depends on the selection of assets chose for investment in the investment decision. Based on the investment the company can improve the dividend distribution to its shareholders that eventually leads to an increase in the value of shareholders.
+Option B: Investment decision helps a business to predict the long-term directions as the decision is to invest in suitable assets that covers long-term as well as short-term assets, by making use of the available resource of a business, which should benefit the company in future, otherwise, it leads to the wastage of resources.
+Option D: The investment decision should balance the cost and benefit that arrives from the endowments. If the cost is more than the benefit, then the company would incur a loss in the future. So, adequate care must take before making an investment decision.",Financial manager A financial manager is an individual who controls the financial management of a business. One of the duties of a financial manager is to create plans and tactics that perform to reduce the financial risk and must take the major financial decision of business.
+28,The preferred method of showing interest rates between competing instruments is the yield to maturity.,True,False,,,A,"The above statement is True.
+The yield to maturity method shows interest rates between the competing instruments.
+This is so because the yield to maturity reflects the return of the total rate that will occur by the bond's maturity by paying off the interest rates. The competing instruments are those the firm has promoted to attract consumers to purchase, and these instruments have to pay off timely when there is maturity. The increase in interest rate leads to an increase in yield to maturity.
+Thus, it is shown that competing instruments yield to maturity when there is an increase in interest rate.","Maturity: The maturity of financial instruments is the final date of paying off loans, debts, and other interest of the instruments that an individual has acquired from the market. Some instruments have a fixed period to be paid off."
+29,"The present value of a $25,000 perpetuity at a 14 percent discount rate is:","$285,000","$178,571","$219,298","$350,000",B,"The correct answer is option B.
+Calculation of yield-to-maturity:
+Perpetuity = $25,000
+Discount rate = 14%
+{eq}\begin{align*}
+
+{\rm\text{Present value}} &= \dfrac{{{\rm\text{Perpetuity}}}}{{{\rm\text{Discount rate}}}}\\
+
+&= \dfrac{{\$ 25,000}}{{0.14}}\\
+
+&= \$ 178,571
+
+\end{align*}
+
+{/eq}",Equivalent Annual Cost: Equivalent Annual Cost (EAC) is the standardized effective cost of an asset. It is different from the whole life cost of the asset. EAC helps in the decision-making of buying or renting an asset. Its calculation considers the discount rate or the cost of capital.
+30,"Ten-year Ford Motor Co semiannual payment bonds with a 6% coupon were issued on 1/1/13 and are callable on 1/1/17 and are trading at 1,030. What is the yield to the call date?",2.89%,4.18%,4.42%,5.18%,D,"The yield to call, YTC (Approximate calculation) is calculated as = {eq}\displaystyle \frac{\left ( C+\frac{CP-P}{N} \right )}{\frac{\left ( CP+P \right )}{2}}
+
+{/eq}
+Where:
+C is the coupon payment. Here it is calculated as a product of assumed face value of $1,000 = (0.06 x $1,000)
+= $60.
+Semi-annual coupon will be $60/2 = $30
+CP is the call price assumed to be $1,000 and the same as the face value
+P is the current price of the bond. The bond is selling at $1,030
+n is the number of periods the bond has until the call period. For this question that will be (1/1/17 -  1/1/13) 4 x 2 = 8 since the bond makes semiannual payments.
+Therefore, the YTC is = {eq}\displaystyle \frac{\left ( \$30+\frac{1000-1030}{8} \right )}{\frac{\left (1000+1030 \right )}{2}}
+
+{/eq}
+= 0.02586 or 2.59%
+This is the semi-annual yield. The annual yield will be = 2.59% x 2 =
+5.18%
+The correct answer is
+D. 5.18%",The YTC: The YTC or the yield to call is the yield of the bond till its call date. The call date is usually halfway through maturity or a few years before maturity. A higher call premium attracts investors to invest in bonds with a call provision.
+31,A zero coupon bond paying $100 at maturity 10 years from now has a current price of $50. Its yield to maturity is closest to which of the following?,5 percent,6 percent,7 percent,8 percent,C,"The correct answer is
+c. 7 percent
+Face value = $100
+Bond's life = 10 years
+Current price = $50
+Compute its yield to maturity:
+{eq}\begin{align*}
+
+YTM&=\dfrac{Face \ value}{ Price}^{1/n} - 1\\
+
+&=\dfrac{100}{ 50}^{1/10} - 1\\
+
+& =1.07177 - 1 \\
+
+&= 0.07177\\
+
+&= 7.177\%\\
+
+\end{align*}
+
+{/eq}
+Its yield to maturity is closest to
+7 percent","Yield to Maturity: If you opt to invest in a zero coupon bond, the only cash flow you will receive at maturity is the face value. We discount the face value of this sort of bond to establish the issue price, and the elements necessary are the yield to maturity and the bond's life duration. Because the issue price is projected to be less than the face value, the bond is known as a discount bond. The yield to maturity is calculated as the bond's internal rate of return."
+32,The yield to maturity of a bond is:,the interest rate that equates the present value of a bond's face value with the bond's price.,the interest rate that equates the present value of a bond's coupon payments with the bond's price.,the interest rate that equates the present value of all future payments with the bond's price.,the interest rate that equates the present value of capital gains with the bond's price.,D,"The correct answer is
+d
+:
+Yield to maturity is the total return that an investor gets i.e. coupon payments along with capital gains. The formula to calculate yield to maturity is shown under:
+{eq}{\rm\text{YTM}} = \frac{{{\rm\text{C}} + \frac{{{\rm\text{FV}} - {\rm\text{PV}}}}{{\rm\text{n}}}}}{{\frac{{{\rm\text{FV}} + {\rm\text{PV}}}}{2}}}
+
+{/eq}
+Explanation for incorrect options:
+a.	The present value of a bond's face value is not calculated rather the face value is deducted from the issue price to know the YTM.
+b.	The sum of the present value of a bond's face value and interest is calculated to know the current price of the bond, not for Yield to maturity.
+c.	 When all the future payments are equated with the bond's price, it is used to know whether the bond is undervalued or overvalued.","Bond Price: Also called fair price, it is calculated after discounting the interest payments and redeemable value with YTM or the required rate of return. If the fair value of a bond is higher than its current price, it is an overvalued bond and vice-versa."
+33,"Finance, generally, deals with:",money,markets,people,all of the above,D,"The main finance component of finance is Money. Generally involving investments, credits, loans, etc. But money becomes more valuable and its true essence is reflected only when the relevant market and people come into the picture.
+Hence, the term finance generally deals with money, markets, and people.
+Therefore, the correct option is D) all of the above.","Finance The term Finance literally means money and related activities. But finance involves markets and people as well. Money alone cannot define the term finance. When markets and people come into the picture, money becomes more valuable and important."
+34,An example of an investing activity is:,Issuing new corporate stock,Paying corporate income taxes,Buying new computers,Taking out a new loan.,C,"The correct answer to the given question is option
+C) Buying new computers
+The activity of issuing new corporate stock and the activity of taking a new loan are financing activities as they are meant to raise funds from shareholders and lenders respectively. The activity of paying corporate income taxes is an operating activity as it is concerned with the operations of the firm.  The activity of buying new computers is an investing activity as the computers are assets of the firm.","Cash Flow Statement: In the parlance of finance and accounting, the cash flow statement of a firm shows the cash receipts, cash payments and net cash flows for a firm during a given period. The cash flows are usually shown for three activities, namely, the operating activity, the financing activity and the investing activity"
+35,"A ten-year bond pays 11% interest on a $1,000 face value annually. If it currently sells for $1,195, what is its approximate yield to maturity?",9.33%,7.94%,12.66%,8.10%,D,"The formula for the approximate yield to maturity (YTM) is given below.
+{eq}Approximate\ YTM = \dfrac{C+ \frac{F-P}{n}}{\frac{F+P}{2}}
+
+{/eq}, where:
+C
+= coupon payment = 11% x $1,000 = $110
+F
+= face value = $1,000
+P
+= current price = $1,195
+n
+= number of periods to maturity = 10
+So:
+{eq}Approximate\ YTM = \dfrac{110+ \frac{1,000-1,195}{10}}{\frac{1,000+1,195}{2}} =  0.082 = 8.2\%
+
+{/eq}
+Since this is an approximation formula, the option we should choose is
+D. 8.10%
+.","Yield to Maturity: The yield to maturity is a measure of return generated by a bond that is expected to be held until its maturity date. It takes into account both the coupons and the capital gains, and also the reinvestment of income which makes it one of the most commonly used bond measures."
+36,"A $1,000 face value bond with a 20-year maturity makes a coupon payment of 10% every year and it's on the market for its face value. What is its yield to maturity?",20%,10%,6%,12%,B,"Option b. is correct.
+Time: 20 years
+Face value: $1000
+Coupon (C): 10%$1000 = $100
+Current market value: $1000
+{eq}\begin{align*}
+
+{\rm{Yield}}\;{\rm{to}}\;{\rm{maturity}} &= \frac{{{\rm{C}} + \frac{{{\rm{Face}}\;{\rm{value}} - {\rm{Current}}\;{\rm{market}}\;{\rm{value}}}}{{{\rm{Time}}}}}}{{\frac{{{\rm{Face}}\;{\rm{value}} + {\rm{Current}}\;{\rm{market}}\;{\rm{value}}}}{2}}} \times 100\\
+
+& = \frac{{100 + \frac{{{\rm{1000}} - 1000}}{{20}}}}{{\frac{{1000 + {\rm{1000}}}}{2}}} \times 100\\
+
+& = \frac{{100}}{{2000}} \times 2 \times 100\\
+
+& = 10\%
+
+\end{align*}
+
+{/eq}
+Yield to maturity is 10%.","Face Value v/s Market Value: Face value is the initial value at which a stock or a bond is issued on IPO. Later, these securities start trading on the exchange of the price, either moving up or down or remaining the same depending on the demand and supply of the security; this price is called market value."
+37,The Federal Truth in Lending Act does NOT require the disclosure of,all finance charges connected to the loan.,all compensation to originating brokers.,legal fees.,any other compensation the lender receives in connection with the charges.,B,"The correct option is B
+Brokers are intermediaries who facilitate interaction between borrowers and lenders. His fees are generally determined by mutual consent of the parties, and it is not recorded.
+Explanation for other options
+Option A) It is an incorrect option because all financial charges must be disclosed as it eases to prevent chaos.
+Option C) It is incorrect because legal fees are to be disclosed as per the said act.
+Option D) It is incorrect because any miscellaneous or other compensation is to be disclosed as per the said act.","Financing: Financing is used to describe the borrowing or lending activities of the organizations. It is based on the requirements of funds. Some organizations need to satisfy working capital requirements from short-term financing, while others use it to acquire fixed assets."
+38,Short-term interest rates are generally lower than long-term interest rates.,True,False,,,A,"The provided statement is
+True
+.
+In normal circumstances, the interest rate of fixed-income financial securities varies with the time period involved. Long-term rates are customarily higher or above than short-term rates, resulting in higher returns or yields for long-term projects or securities, and the yield curve will incline upward.
+The short-term rate is commonly lower because of the premium aspect, which means investors earn more for lending capital for a longer period.
+Thus, this statement is true.","Yield Curve: The yield curve denotes the relationship and comparison between short and long-term securities or bonds by taking their interest rate. The term ""Yield"" denotes the investment return on the capital invested in bonds."
+39,What does AICPA stand for?,American Inquirers of Certified Public Accountants,All Incidents of Creative Public Accountants,American Institute of Certified Public Accountants,American Institute of Chartered Public Accountants,C,"The correct answer is option
+C) American Institute of Certified Public Accountants
+It is a national organization for certified public accountants in the United States. It is founded in 1887 and sets the benchmark for the accounting profession. It is the world's largest association representing the accounting profession. The mission of AICPA is to power the success of the global business by providing relevant knowledge required in the field and to make available resources in the accounting domain.","Financial Accounting Financial accounting helps an organization to analyze a company's performance in monetary terms. Financial accounting is the way toward recording, summing up, and detailing an organization's business exchanges through financial statements. These statements are the income statement, the monetary record, the income statement, and the statement of held profit."
+40,"Which of the following $1,000 face-value securities has the highest yield to maturity (assume n = 5)?",A 5 percent coupon bond with a price of $1200.,"A 5 percent coupon bond with a price of $1,000.",A 5 percent coupon bond with a price of $800.,A 5 percent coupon bond with a price of $600.,D,"The correct answer is:
+D) A 5 percent coupon bond with a price of $600.
+.
+Recall that the formula for calculating the yield to maturity is:
+{eq}YTM=\dfrac{C+\dfrac{FV-PV}{n}}{\dfrac{FV+PV}{2}}
+
+{/eq}
+Where:
+{eq}C
+
+{/eq} is the periodic coupon,
+{eq}PV
+
+{/eq} is the price or the present value,
+{eq}FV
+
+{/eq} is the face value and,
+{eq}n
+
+{/eq} is the number of periods to maturity.
+A) A 5 percent coupon bond with a price of $1200.
+The yield to maturity of this bond is equal to:
+{eq}YTM=\dfrac{50+\dfrac{1000-1200}{5}}{\dfrac{1000+1200}{2}}\\[0.3cm]
+
+YTM=\dfrac{10}{1100}\\[0.3cm]
+
+YTM=0.0091=0.91\%
+
+{/eq}
+B) A 5 percent coupon bond with a price of $1,000.
+The yield to maturity of this bond is equal to:
+{eq}YTM=\dfrac{50+\dfrac{1000-1000}{5}}{\dfrac{1000+1000}{2}}\\[0.3cm]
+
+YTM=\dfrac{50}{1000}\\[0.3cm]
+
+YTM=0.05=5\%
+
+{/eq}
+C) A 5 percent coupon bond with a price of $800.
+The yield to maturity of this bond is equal to:
+{eq}YTM=\dfrac{50+\dfrac{1000-800}{5}}{\dfrac{1000+800}{2}}\\[0.3cm]
+
+YTM=\dfrac{90}{900}\\[0.3cm]
+
+YTM=0.1=10\%
+
+{/eq}
+D) A 5 percent coupon bond with a price of $600.
+The yield to maturity of this bond is equal to:
+{eq}YTM=\dfrac{50+\dfrac{1000-600}{5}}{\dfrac{1000+600}{2}}\\[0.3cm]
+
+YTM=\dfrac{130}{800}\\[0.3cm]
+
+YTM=0.1625=16.25\%
+
+{/eq}",Yield to Maturity The yield to maturity of a bond or an investment is the total rate of return that an investment should yield if it is held up to the time of its maturity. Investors chose investments that have high yield to maturity.
+41,"If Jordan River Company issues 3,000 shares of $5 par value common stock for $225,000, the account:","Cash will be debited for $210,000.","Paid-in Capital in Excess of Par Value will be credited for $15,000.","Paid-in Capital in Excess of Par Value will be credited for $210,000.","Common Stock will be credited for $225,000.",C,"The correct answer is c., i.e., Paid-in capital above par value will be credited for $210,000.
+Explanation:
+Date
+Particulars
+Debit
+Credit
+Cash
+$225,000
+Common stock (3,000*$5)
+$15,000
+Paid-in capital in excess of par value ($225,000-$15,000)
+$210,000
+(To record the issue of common stock)",Par Value: Par value is utilized with bonds more frequently than equities. The amount that bond issuers promise to repay the buyer at the bond's maturity is known as the par value in the context of bonds.
+42,"What is the amount of the annual coupon payment for a bond that has 6 years until maturity, sells for $1,050, and has a yield to maturity of 9.37%?",$98.64,$95.27,$101.38,$104.97,D,"Option (d) is correct.
+Calculation of coupon amount:
+Year to maturity (n) is 6.
+Let par value (P) be $1,000.
+Yield to maturity (r) is 9.37%
+Current price of bond (CP) is $1,050
+Coupon amount is (C)
+{eq}\begin{align*}
+
+CP &= C \times PVIF{A_{\left( {r,n} \right)}} + P \times PVF\left( {r,n} \right)\\
+
+\$ 1,050 &= C \times PVIF{A_{\left( {9.37\% ,6} \right)}} + \$ 1,000 \times PV{F_{\left( {9.37\% ,6} \right)}}\\
+
+\$ 1,050 &= C \times 4.437 + \$ 1,000 \times 0.58426\\
+
+C &= \$ 104.97
+
+\end{align*}
+
+{/eq}",Yield to Maturity: The current bond price of a bond is ascertained by discounting the future cash inflow of the bond by YTM. Yield to maturity and bond price shows the change in opposite direction with respect to each other.
+43,Later stage financing of a burgeoning venture is often used for:,designing new products.,establishing production capabilities.,developing a detailed business plan.,acquiring other companies to accelerate growth.,D,"The correct option is d
+The final stage financing is used towards the expansion of business through mergers and acquisitions. It acquires other companies to accelerate growth.
+The explanation for the incorrect option is
+Option a) It is an incorrect option because final stage financing is not used to design new products. New product development and designing occur at the initial stage.
+Option b) It is an incorrect option because production capabilities are analyzed initially.
+Option c) It is an incorrect option because the detailed plan of business is created and developed while taking financing decisions of the firm.",Financing: Financing is the process of gathering funds for organization activities. It enhances the purchase and investing decisions of the business. The funds obtained are allocated towards the functioning of the organization. It is important to avoid misuse of funds.
+44,"A statement of cash flows reports on cash flows for operating, investing, and financing activities at a point in time.",True,False,,,A,"The following statement is
+a. True
+.
+A statement of cash flows is made up of operating, investing and financing activities and reports the final balances from these activities for the period which is generally an accounting year.",Cash Flows and Decision Making: Cash flows are vital for decision-making in financial management. Project cash flows are evaluated to see if the project will be beneficial to the firm in the long run.
+45,A bond's yield to maturity takes into consideration _____.,current yield but not any price changes,price changes but not the current yield,both the current yield and any price changes,neither the current yield nor any price changes,C,"Option c) Both the current yield and any price changes
+is the correct answer.
+Reason:
+A bond's yield to maturity includes both the current yield and the change in prices of the bond. It is because when ascertaining the yield rate to maturity, the coupon payment and bond price are used. An investor using yield to maturity believes that purchasing the bond at the current prevailing price in the market and selling the same bond until its maturity period yields.
+Reason for incorrect options:
+Option a is incorrect because a variation in the security price is used to determine the future value of a bond.
+Option b is incorrect because current yield is used while ascertaining the yield to maturity as per the formula.
+Option d is incorrect because both terms are necessary to identify the yield to maturity.","Bonds: Bonds carry the most prominent feature of credit quality, i.e., many organizations rate the quality of bonds in the market in the form of ratings. These ratings are essential to ascertain the condition of bonds to decide which bond to purchase by investors."
+46,Corporations finance their operations using the following:,debt such as purchasing on account or issuing bonds or notes payable.,issuing common stock.,issuing preferred stock.,all of the answers are correct.,D,"The correct option is
+d. all of the answers are correct.
+Explanation:
+Option A: Purchase on account and Bond or notes payable is a kind of short-term debt and long-term debt used by business, respectively.
+Option B: Company issue common stock as a part of raising funds. It is another form of finance utilized by businesses.
+Option C: Preferred stock is a kind of stock declared by a business to finance a business, which has preference over common stock.","Finance Finance described as anything that provides cash or credit. It intends to assist individuals or businesses to save, administer, and collect funds. There are various kinds of finance available, such as debt finance and equity finance."
+47,Which is not a characteristic of bonds?,Par value.,Dividend yield.,Coupon.,Maturity date.,B,"The correct option is B) Dividend yield.
+Explanation:
+Dividend Yield. It refers to the ratio of dividends paid in relation to their price. The issuing company uses this financial ratio to analyze the dividend paid out.
+Dividend Yield
+is not characteristic of the bond.
+Explanation for incorrect options:
+Par Value, Coupon, and Maturity date are the characteristics of bonds.
+A. Par value
+is the price of the bond that is set by the issuing firm. It is repaid to the bondholder upon maturity.
+C. A coupon
+is a rate that is paid by the issuing company to the bondholder until maturity. The rate is paid based on the par value.
+D. The maturity date
+is the time period till which the bond is held by the bondholder. On the date of maturity, the bond is redeemed along with interest.",Par Value: Par Value is the price of the bond that the issuing company sets. This is the price that the bondholder pays to buy a bond. The issuing company pays interest on the bond and repays the par value and interest at maturity.
+48,"Ezzell Enterprises non-callable bonds currently sell for $1,165. They have a 15-year maturity, an annual coupon of $95, and a par value of $1,000. What is their yield to maturity?",6.20%,6.53%,6.87%,7.62%,D,"The correct answer is option d. 7.62%
+Given Information:
+Par value (Face value) is $1,000
+Selling price is $1,165
+Annual coupon is of $95
+Maturity period is 15 years
+Calculation of yield to maturity:
+{eq}\begin{align*}{\rm{Yield}}\,{\rm{to}}\,{\rm{maturity}} &= \left[ {\frac{{{\rm{Annual}}\,{\rm{coupon}} + \left( {\frac{{{\rm{Par \;value}} - {\rm{Market\; price}}}}{{{\rm{Number\; of \;years}}}}} \right)}}{{\left( {\frac{{{\rm{Par \; value}} + {\rm{Market \;price}}}}{2}} \right)}}} \right] \times 100\\ &= \left[ {\frac{{\$ 95 + \left( {\frac{{\$ 1,000 - \$ 1,165}}{{15}}} \right)}}{{\left( {\frac{{\$ 1,000 + \$ 1,165}}{2}} \right)}}} \right] \times 100\\ &= \left[ {\frac{{\$ 95 - \$ 11}}{{\$ 1,082.5}}} \right] \times 100\\ &= 7.75\% \end{align*} {/eq}
+Therefore, the yield to maturity is 7.75% since the nearest option is 7.62%; hence, option d is the correct answer.","Yield to maturity: In a bond investment, when all the payments received are reinvested and kept by the investor for the duration it was issued, the returns from such investment are termed yield to maturity."
+49,Corporations that issue financial securities such as stock or debt obligations to the public do so primarily to:,increase sales.,become profitable.,increase their access to funds.,avoid double taxation of their profits.,C,"The correct answer to the given question is option
+C. increase their access to funds.
+The corporations can get access to huge amount of funds provided by retail and institutional investors by issuing financial securities such as stock or debt obligations to public.
+The stock holders usually get dividends and the debt holders usually get interest or coupons in exchange for the funds provided.","Financing of Assets: In the parlance of finance, the overall assets of a firm may be financed by using various kinds of funds such as debt and equity. The debt may be raised by borrowing loans or by issuing bonds. On the other hand, the equity may be issued in the form of common equity or preferred equity."
+50,Which of the following would be included in cash and cash equivalents on the balance sheet?,certificates of deposit,bank overdrafts,commercial paper,postage stamps,C,"The correct option is
+(c) commercial paper.
+Commercial papers are security instruments. These are traded in money markets. Money markets are places where large corporation and banks sell and purchase security instruments for their short term requirements. Commercial paper is one such instruments sold by banks or corporation to meet their short-term requirements. These have very short maturity normally less than 90 days. It is considered as a cash equivalent because of its high liquidity.
+Certificate of deposits are for long-term deposits and are classified as investments.
+Bank overdrafts are current liabilities.
+Postage stamps are not cash equivalents.","Cash Equivalents: Not all investments of business are for long-term, some of them are for short term-period and some are for very short-term period say for 90 days or even less. Such investments have maturity of 90 days of less are classified as cash equivalents."

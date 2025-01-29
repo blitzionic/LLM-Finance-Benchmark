@@ -1,0 +1,875 @@
+id,question,A,B,C,D,Answer,Explanation,Hint
+1,The Black-Scholes option pricing model is dependent on which five parameters?,"Stock price, exercise price, risk-free rate, probability, and time to maturity.","Stock price, exercise price, risk-free rate, variance and time to maturity.","Stock price, risk-free rate, probability, time to maturity, and variance.","Exercise price, probability, stock price, variance and time to maturity.",B,"The correct answer is
+b) Stock price, exercise price, risk-free rate, variance and time to maturity.
+The pricing formula is as follows:
+{eq}SN(d_1) - KN(d_2)*e^{-rt} \\
+
+\delta = N(d_1),\\
+
+\displaystyle d_1 = \frac{ln(S/K) + (r + \sigma^2/2)t }{\sigma\sqrt{t}}\\
+
+d_2 = d_1 - \delta \sqrt{t}
+
+{/eq}
+where
+K
+= strike price
+S
+= current stock price
+{eq}\sigma{/eq} = volatility of the asset
+t
+= time to expiry
+r
+= risk-free rate
+N(.)
+= the standard function",The Black-Scholes Model: This is a widely used model for pricing financial assets. It is an equation used to guess how financial instruments vary over time. The model is used for option pricing.
+2,"_____ is the relationship between the value of a stock, bond and the call and put options on the same stock and the same exercise price.",Dividend exclusion,Limit law,Put-call parity,Put option equality,C,"The answer is
+C) Put-call parity
+.
+The put-call parity is a concept used to value options. It is used to determine the price for a put option that has the same strike price and expiration date as a given call option. The equation for this is the following:
+C + PV(x) = P + S
+, where:
+C
+- current value of a call option
+PV(x)
+- present value of the strike price
+P
+- current value of a put option
+S
+- spot price","Options: Options are derivatives, that is, financial securities whose value is dependent upon the value of an underlying asset. The two main types of options are call options and put options which give investors the right whether to buy or sell an asset."
+3,a. Suppose you enter into a short 6-month forward position at a forward price of $60.,,Suppose you buy a 6-month put option with a strike price of $60.,"Comparing the payoffs of parts (a) and (b), which contract should be more expensive (i.e., the long put or short forward)? Why is this so?",,A,"a. With a short position in a forward contract, you enter into an agreement to sell the underlying asset at the  forward price of $60. When the contract expires, you will earn a profit is the price of the underlying asset is lower than the forward price, and a loss if otherwise. Specifically, the payoff in 6 months is given by:
+payoff to forward contract =  forward price - spot price at expiration
+Applying this formula, the payoff at different prices is:
+if price is 50, payoff = 60 - 50 = 10
+if price is 55, payoff = 60 - 55 = 5
+if price is 60, payoff = 60 - 60 = 0
+if price is 65, payoff = 60 - 65 = -5
+if price is 70, payoff = 60 - 70 = -10
+b. The payoff to put option is given by:
+payoff = max(0, strike price - spot price at expiration)
+Applying this formula, the payoff at different prices is:
+if price is 50, payoff = max(0, 60 - 50) = 10
+if price is 55, payoff = max(0, 60 - 55)  = 5
+if price is 60, payoff = max(0, 60 - 60) = 0
+if price is 65, payoff = max(0, 60 - 65)  = 0
+if price is 70, payoff = max(0, 60 - 70)  = 0
+c. The option should be more expensive, because the payoff to the option contract is less risky. If we compare the two payoffs, the upside profit is the same between forward contract and a put option, but the downward loss is limited with a put option. This is because the option holder could choose not to exercise the option if the spot price at expiration is unfavorable. Since put option provides a higher payoff in the future, its cost must also be higher at the present day.","Put Option: A put option provides the buyer the rights, but not the obligations to sell the underlying asset at the exercise price (also called the strike price). When the option is exercised, the payoff to the holder of the put option is higher if the spot price of the underlying asset is lower."
+4,The payoff to the holder of a put option is:,strike price minus stock price if stock price is more than strike price,strike price minus stock price if stock price is less than strike price,stock price minus strike price if stock price is less than strike price,stock price minus strike price if stock price is more than strike price,B,"The answer is
+B) strike price minus stock price if stock price is less than strike price
+Holding a put option aims to protect the investment of securities when the market falls down. When the market price of securities decreases, investor can still sell securities at a strike price, which is higher than the market price. With that being said, the potential profit would be equal to strike price minus the market price.","Put Option: A put option represents a right to sell underlying securities at a fixed price on the expiration date of option. Note that, this is not an obligation that the put option holder must exercise the transaction."
+5,Which of the following is true upon the exercise of a short put?,The writer is required to make a closing purchase if they do not own the underlying stock for delivery.,The writer would have to make a closing sale if they cannot accept delivery.,The writer is required to accept delivery of the underlying stock.,The writer is required to deliver the underlying stock.,C,"The answer is c.
+Since the writer sell the right to purchase the underlying securities in the future, if the put buyer exercise the option, the writer would have to accept the delivery of underlying securities.",Short Put: A short put refers to an action that the investor writes or sell a put option on particular underlying securities. It means the writer sells the right to buy the underlying securities at a predetermined price in the future.
+6,"In case of normal swings in the risk-free rate, option prices are not very sensitive to changes in the risk-free rate.",True,False,,,B,"The statement is false. The risk-free rate is one of the factors that affect the price of the option. The increase in the risk-free rate increases the value of the call option. Alternatively, the rise in the risk-free rate lowers the price of the put option. Hence, option values are sensitive to the risk-free rate.","Call option A call option is one of the options strategies to subscribe to an underlying asset at a fixed price and time, which is an agreement between individuals to earn a profit. It used for speculation and arbitrage purposes. It is a kind of option in the market."
+7,Suppose that a stock sells at a price of $40 on the expiration date. Compute the payoff to the seller of a call option if the option strike price is $50.,-$20,-$10,0,$20,C,"The answer is
+C. 0
+The seller of a call option needs to sell underlying securities to the buyer of that call option at the strike price.
+In this case, the strike price is higher than the market price, in which the option will not be exercised by the holder.
+Hence, the payoff is $0, addressed below:
+Payoff = Min (Strike price - Market price, 0) =  Min ($50 - $40,0) = 0","Option: An option is a derivative that represents a right to sell or purchase underlying securities at a specific price in the future. Note that, the buyer of an option will not be obligated to exercise the transaction."
+8,The Black-Scholes formula gives the price of an American call option.,True,False,,,B,"The correct answer is
+b. False
+.
+An American option is a type of option that gives its holder the right to purchase or sell an asset at any time before the expiration date. In contrast, a European option can be exercised only at a specified date. The Black-Scholes formula is used to estimate the price of a European option as it gives us only one price. Hence, the price of an American call option cannot be determined using this model.",Options: Options are financial instruments whose price is dependent upon the price of another asset called the underlying asset. The price of an option can be determined by using the Black-Scholes model.
+9,"When you purchase a put option while still holding the underlying stock, it is known as a:",protective put,protective call,speculative put,speculative call,A,"The answer is
+A) Protective put.
+A protective put indicates two simultaneous transactions:
+Purchase of securities will be processed. Or, an investor might currently hold securities.
+Investor will buy a put option that has underlying securities as same as his holding securities.
+By this strategy, when the price of holding securities drops down, the put option provides a protection to investor since he can sell his securities at the strike price. If the price of securities increases, investor will have unlimited profit.","Put Option: A put option is a derivative that represents the right to sell underlying securities at a fixed price in the future. Note that, it is not obligation that requires an option buyer to execute the transaction on the expiration date. Instead, the option buyer can close their position by not exercising the option and accepting the loss of premium fee."
+10,KD Industries stock is currently trading at $32 per share. Consider a put option on KD stock with a strike price of $30. The maximum value of this put option is:,$0,$32,$30,$2,C,"The answer is
+C) $30
+The maximum value of a put option occurs when the underlying securities become worthless. In that case, the maximum value would be the strike price, which is $30.","Put Option: A put option represents a right to sell underlying securities at the strike price. A put option buyer would expect the market price of securities falls down in the future. Note, the option buyer could select not to exercise the option at the expiration date."
+11,A share of stock is a _____ option on the assets of the firm with a strike price equal to _____.,"put option, face value of debt","call option, market value of equity","call option, face value of debt","put option, market value of equity",C,"The answer is
+C) call option, face value of debt
+If the value of the firm is greater than the firm's liabilities, equity holders will receive the net asset of the business, which is computed by subtracting debt from firm's total assets. Alternatively, shareholders will receive whatever is left on assets after debt is paid off completely.
+If the value of the firm is less than firm's liabilities, bankruptcy will be filed and shareholders will earn nothing on firm's assets.",Option: An option refers to a right to buy or sell underlying securities at a specific price in the future. It helps investors to protect their investment portfolio when market has high degree of uncertainty.
+12,"A firm owns a put option on 10,000 barrels of oil with a strike price of $37.50 per barrel.",Does the firm exercise the option if on the day the option expires the price of oil is $40 per barrel?,What is the cash flow on the day the option expires if the price of oil is $40 per barrel?,,,A,"a) No. The market price of oil is $40 per barrel, which is more than the strike price of $37.50 per barrel. Since this is an options contract, the firm is not obligated to sell the oil barrels on the date of expiry of the contract. The firm has the choice of not exercising the option till the time the strike price exceeds the market price.
+b) Cash flow on the day of expiry of the option will be equal to the payoff from the options.
+Particulars
+Value
+Cash flow
+40*10,000= $400,000",Expiration Date The expiration date of any financial instrument refers to the maximum time or the last date for which the instrument is valid. The expiration date is different for different types of assets. Money market instruments have a short expiration period whereas capital market instruments have long expiration period.
+13,Suppose that a stock is $75 at maturity and the continuous RFR is 8%.,XYZ 70 call at $3.87,LMN 75 call at $2.44,,,A,"Calculation of profit at maturity:
+(a) For XYZ 70 call at $3.87:
+{eq}\begin{align*}
+
+{\rm\text{Profit}} &= {\rm\text{Max}}\left[ {\left( {{\rm\text{Stock Price}} - {\rm\text{Strike Price}}} \right),0} \right] - {\rm\text{Premium Paid}}\\
+
+&= {\rm{Max}}\left[ {\left( {\$ 75 - \$ 70} \right),0} \right] - \$ 3.87\\
+
+&= \$ 1.13
+
+\end{align*}
+
+{/eq}
+(b) For LMN 75 call at $2.44:
+{eq}\begin{align*}
+
+{\rm\text{Profit}} &= {\rm\text{Max}}\left[ {\left( {{\rm\text{Stock Price}} - {\rm\text{Strike Price}}} \right),0} \right] - {\rm\text{Premium Paid}}\\
+
+&= {\rm{Max}}\left[ {\left( {\$ 75 - \$ 75} \right),0} \right] - \$ 2.44\\
+
+&= \$ \left( {2.44} \right)
+
+\end{align*}
+
+{/eq}",Call option The Call Option is one of the options contracts that give the right to call option holder to buy the assets and not the liabilities. Call Option holder gets this right to buy by paying a premium to the writer of the call option contract.
+14,"_____ is the relationship between the value of a stock, bond and the call and put options on the same stock and the same exercise price.",Dividend exclusion,Limit law,Put-call parity,Put option equality,C,"The answer is
+C) Put-call parity
+.
+The put-call parity is a concept used to value options. It is used to determine the price for a put option that has the same strike price and expiration date as a given call option. The equation for this is the following:
+C + PV(x) = P + S
+, where:
+C
+- current value of a call option
+PV(x)
+- present value of the strike price
+P
+- current value of a put option
+S
+- spot price","Options: Options are derivatives, that is, financial securities whose value is dependent upon the value of an underlying asset. The two main types of options are call options and put options which give investors the right whether to buy or sell an asset."
+15,Suppose that a stock sells at a price of $40 on the expiration date. Compute the price of a put option if the option strike price is $20.,$0,$10,$20,$30,C,"The answer
+C) $0
+Value of a put option = Strike price - Market price = $20 - $40 = -$20
+In this case, the put option is out of the money, which means its value is zero.","Put Option: A put option represents a right to sell the underlying securities at the strike price in a future date. Note that, it is not an obligation that the purchaser of the option exercises the right."
+16,Foreign currency forward and future options are contracts that reflect :,an obligation,a choice,a delivery date of the product,a specific requirement,D,"The answer. D.
+A forward or an option would mention about an transaction of buying or selling a product or a security at predetermined fixed price in the future, which represents a special requirement.","Option: An option is a derivative that allows the buyer to execute a transaction of buying a product at a predetermined price in the future. Note that, option buyer is not required to execute the transaction if the product's price does not favor the buyer's interest."
+17,What input do both absolute valuation and relative valuation typically require?,long term forecasts,short term forecasts,historic revenue,historic earnings,B,"The correct option is (B).
+short term forecasts
+.
+In general, the short term forecast is associated with the tactic reasons that include the production, control, cash requirements, adjustments, seasonal sales fluctuations, et cetera for the period less than a year. Henceforth, the short-term forecast is basic input that is required for evaluating the absolute and relative valuation.","Valuation: The term valuation is a kind of quantitative process that helps to estimate the true value of an asset or a firm. In general, it is of two types relative and absolute terms."
+18,A _____ the price at which a specific derivative contract can be exercised.,strike,long position,short put,short,A,"The answer is A.
+The exercise price is the pre-determined price of a financial derivative when the contract expires. This price is also called the strike price.","Derivative: A finance, a derivative is a financial contract whose value is derived from the value of the underlying asset. Examples of derivatives include options, futures contracts and forward contracts."
+19,"A Japanese EXPORTER has a 1,000,000 receivable due in one year. Estimate the cost today of an options strategy that will eliminate exchange rate risk.","$20,000.","$5,000.","$12,500.",None of the above,A,"The answer is (a) $20,000,
+We have to remove the Euro 1,000,000 with sixteen (16) put option on the euro:
+So,
+16 = Euro 1,000,000/ Euro62,500
+Strike price of the USD1.25 =  Euro1.0 this will generate $1,250,000
+For purchasing (buying) the USD1,250,000 of Yen with 10 (ten) call option
+So,
+Number of calls/puts
+Value
+Equivalent in other currency
+16 puts
+USD 7,500
+=0.0075/Euro1,000,000
+10 calls
+USD 12,500
+=USD 0.01/JPY100*JPY125,000,000
+Total cost
+USD 7,500+USD 12,500=USD 20,000
+JPY stands for Japanese Yen
+USD stands for US Dollars",Options strategy and call/put option Options strategies help a trader to book profit basis the value of underlying security of the option. A call option lets the buyer buy the option at the strike price whereas a put option enables a buyer to sell the option at its strike price.
+20,"Of the following options, which would you expect to have the highest option price?",A European 3-month put option on a stock whose market price is $90 where the strike price is $100. The standard deviation of the stock price over the past 5 years has been 15%.,A European 3-month put option on a stock whose market price is $110 where the strike price is $100. The standard deviation of the stock price over the past 5 years has been 15%.,A European 1-month put option on a stock whose market price is $90 where the strike price is $100. The standard deviation of the stock price over the past 5 years has been 15%.,,A,"For all calculation, I will assume a risk-free rate of 8%
+a.)
+{eq}P= Xe^-rcT [1-N(d2)]- S_o[1-N(d1)]
+
+{/eq}
+{eq}d1= Ln(S_o/x) +[ rc+(Q^{2}/2)T]/(Q*T^{0.5})
+
+{/eq}
+{eq}d2=d1- Q*T^{0.5}
+
+{/eq}
+Where;
+p = put price
+X= Exercise price
+rc= risk free rate
+So= Spot price
+T= Time to expiration
+Nd1 and Nd2 normal probability distributions of d1 and d2
+Q= Volatility
+{eq}*d1={ Ln(90/100)+ [0.08+(0.15^{2}/2)0.25}/0.15*0.25^{0.5}=-1.1006
+
+{/eq}
+{eq}*d2= -1.006- (0.15*0.25^{0.5}= -1.1756
+
+{/eq}
+Nd1=0.1357
+Nd2=0.1190
+{eq}*p =100*e^{-0.08*0.25}*(1-0.1190) - 90*(1-0.1357) = 8.569
+
+{/eq}
+b.)
+{eq}*d1={ Ln(110/100)+ [0.08+(0.15^{2}/2)0.25}/0.15*0.25^{0.5}=1.5750
+
+{/eq}
+{eq}*d2= 1.5750- (0.15*0.25^{0.5}=1.5
+
+{/eq}
+Nd1=0.9429
+Nd2=0.9332
+{eq}*p =100*e^{-0.08*0.25}*(1-0.7611) - 110*(1-0.8508) = 7.005
+
+{/eq}
+c.)
+{eq}*d1={ Ln(90/100)+ [0.08+(0.15^{2}/2)0.083333}/0.15*0.08333^{0.5}=-2.2576
+
+{/eq}
+{eq}*d2= -2.2576 - (0.15*0.083333^{0.5}= -2.300
+
+{/eq}
+Nd1=0.0119
+Nd2=0.0107
+{eq}*p =100*e^{-0.08*0.0833}*(1-0.0107) - 90*(1-0.0119) = 9.3439
+
+{/eq}
+A European 1-month put option has the highest option price of $9.3439","Options Options are derivative instruments. There are two types, the put option, and the call option. The put options give the holders the right to sell the underlying asset while the call gives the holders the right to buy the underlying asset at the expiration of the contract."
+21,Which of the following is true upon the exercise of a short put?,The writer is required to make a closing purchase if they do not own the underlying stock for delivery.,The writer would have to make a closing sale if they cannot accept delivery.,The writer is required to accept delivery of the underlying stock.,The writer is required to deliver the underlying stock.,C,"The answer is c.
+Since the writer sell the right to purchase the underlying securities in the future, if the put buyer exercise the option, the writer would have to accept the delivery of underlying securities.",Short Put: A short put refers to an action that the investor writes or sell a put option on particular underlying securities. It means the writer sells the right to buy the underlying securities at a predetermined price in the future.
+22,Compute estimated profit in 1 year if XYZ buys paylater puts as follows (the net premium may not be exactly zero):,Sell one 1.025-strike put and buy two 0.975-strike puts.,Sell two 1.034-strike puts and buy three 1.00-strike puts.,,,A,"a.
+1 short put with strike price 1.025; let premium be 0.005
+2 long put with strike price 0.975;  let premium be 0.002
+Spot price
+1 Short put
+2 Long put
+Net payoff
+0.965
+-0.055
+0.016
+-0.039
+0.970
+-0.050
+0.006
+-0.044
+0.975
+-0.045
+-0.004
+-0.049
+0.980
+-0.040
+-0.004
+-0.044
+0.985
+-0.035
+-0.004
+-0.039
+0.990
+-0.030
+-0.004
+-0.034
+0.995
+-0.025
+-0.004
+-0.029
+1.000
+-0.020
+-0.004
+-0.024
+1.005
+-0.015
+-0.004
+-0.019
+1.010
+-0.010
+-0.004
+-0.014
+1.015
+-0.005
+-0.004
+-0.009
+1.020
+0
+-0.004
+-0.004
+1.025
+0.005
+-0.004
+0.001
+1.030
+0.005
+-0.004
+0.001
+1.035
+0.005
+-0.004
+0.001
+b.
+2 short put with strike price 1.034; let premium be 0.007
+3 long put with strike price 1.000;  let premium be 0.004
+Spot price
+2 Short put
+3 Long put
+Net payoff
+0.965
+-0.124
+0.093
+-0.031
+0.970
+-0.114
+0.078
+-0.036
+0.975
+-0.104
+0.063
+-0.041
+0.980
+-0.094
+0.048
+-0.046
+0.985
+-0.084
+0.033
+-0.051
+0.990
+-0.074
+0.018
+-0.056
+0.995
+-0.064
+0.003
+-0.061
+1.000
+-0.054
+-0.012
+-0.066
+1.005
+-0.044
+-0.012
+-0.056
+1.010
+-0.034
+-0.012
+-0.046
+1.015
+-0.024
+-0.012
+-0.036
+1.020
+-0.014
+-0.012
+-0.026
+1.025
+-0.004
+-0.012
+-0.016
+1.030
+0.006
+-0.012
+-0.006
+1.035
+0.016
+-0.012
+0.004","Strike Put Strike put is the strike price of the put option. It is the price fixed buy the buyer as well as seller, on the date of execution strike price is taken into consideration. At this price buyer sells the  underlying to the writer of the contract."
+23,A stock that pays a constant dividend of $1.50 forever currently sells for $10.71.,10%,12%,13%,14%,D,"The rate of return of the firm for discounting of the fixed dividend payments will be;
+{eq}Intrinsic Value = \dfrac {D1}{Ke }
+
+{/eq}
+Where
+D1 = expected dividend in the coming year = D0 (1+g) where D0 is the current dividend
+Ke is the cost of equity
+{eq}10.71= \dfrac {1.5}{Ke} \\
+
+10.71Ke=1.5\\
+
+=0.1400
+
+{/eq}
+Ans=14% (D)",Dividend Discounting Model: The intrinsic value of a stock using the dividend discounting model formula for fixed dividend payment is simply the expected fixed dividend payment divided by the rate of return. The dividend discounting model is used to forecast the return to how profitable a firm will be to its shareholders.
+24,A call option on euros is written with a strike price of $1.30/euro. Which spot price maximizes your profit if you choose to exercise the option before maturity?,$1.35/euro,$1.25/euro,$1.30/euro,$1.20/euro,A,"The correct answer is option A.
+$1.35/euro.
+If the spot price is less than the strike price ($1.30/euro), exercising the option will result in a loss because you would buy euros at a higher price than the current market rate. If there are two prices, the spot price, and the strike price, an individual should choose the higher spot price corresponding to the strike price to get more profits.
+Assuming that the increase in the spot price has covered the premium paid for the option, the profit from exercising the option can be calculated as follows:
+Profit = Spot price - Strike price
+The spot price should be above the price of the strike for the option exercise to be profitable. The only option that meets this criterion is A) $1.35/euro from the given answer choices.
+Therefore, if you exercise the call option at a
+$1.35/euro spot
+, your profit would be $0.05/euro.","Spot Price: The Spot price is the price quoted for the purchase or sale of a good at the present moment, as opposed to a future date. It is an important metric used in trading, investing, and valuation of assets."
+25,Which of the following is not one of the four general classes of real options?,Expansion option.,Exercise option.,Abandonment option.,"Investment-timing option (e.g., delay).",B,"The correct option is (b), exercise option
+Real options are the rights to the business which allows the business to take effective decisions for the overall success of the organization. It enables the business to take effective and profitable business decisions.  The categories of real options are Expansion option, abandonment option, investment-timing option, contract option, and switch option.","Options Options are the financial instruments in which two parties come together for the transactions at a predetermined date and at a predetermined price. The owner of the option has the right to buy or sell the underlying asset under contract in the future, however, there are no such obligations."
+26,Which of the following is not used in the Black-Scholes option pricing formula?,stock price,dividend yield,strike price,risk-free rate,B,"The answer is
+B) dividend yield
+There are six components that an investor should consider to implement the Black-Scholes model: price of underlying securities, strike price, risk-free rate, time, volatility, and type of option. In addition, this model assumes that underlying stocks would not pay out dividends, meaning that dividend yield should be ignored in this model.","Black-Scholes Model: The Black-Scholes model is a pricing model, which will be implemented to estimate the theoretical value of an option. Note that, this model would be used to determine the fair price of European call option, indicating that the option must be exercised on the expiration date."
+27,"Let S = $100, K = $95, {eq}\sigma
+
+{/eq} = 30%, r = 8%, T = 1, and {eq}\delta
+
+{/eq} = 0. Let u = 1.3, d = 0.8, and n = 2.","Construct the binomial tree for a call option. At each node provide the premium, {eq}\Delta
+
+{/eq}, and B.","Repeat the option-price calculation in the previous question for stock prices of $80, $90,  110, $120, and $130, keeping everything else fixed.",What happens to the initial option \Delta as the stock price increases?,,A,"a.
+Step 1:
+Given,
+Strike price = $95
+Spot price = $100
+Rate = 1.08
+u: 1.3
+d : 0.8
+T = 1
+Step 2:
+Computation of risk neutral probability
+{eq}\begin{align*}
+
+{\rm{Probability (P)}}\;& = \frac{{{\rm{R}} - {\rm{d}}}}{{{\rm{u}} - {\rm{d}}}}\\
+
+& = \frac{{1.08 - 0.8}}{{1.3 - 0.8}}\\
+
+& = 0.56
+
+\end{align*}
+
+{/eq}
+Low probability 1-0.56 = 0.44
+Step3:
+Binomial Tree
+{eq}\begin{align*}
+
+100 \to {130^{{\rm{Cu}} = 35}} \to {169^{{\rm{Cu}} = 74}}\\
+
+100 \to {130^{{\rm{Cu}} = 35}} \to {104^{{\rm{Cd}} = 9}}\\
+
+100 \to {80^{{\rm{Cd}} = 0}} \to {104^{{\rm{Cu}} = 9}}\\
+
+100 \to {80^{{\rm{Cd}} = 0}} \to {64^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+Step 4:
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {74 \times 0.56} \right) + \left( {9 \times 0.44} \right)}}{{1.08}}\\
+
+& = 42.04
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {9 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 4.67
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {42.04 \times 0.56} \right) + \left( {4.67 \times 0.44} \right)}}{{1.08}}\\
+
+& = 23.70
+
+\end{align*}
+
+{/eq}
+Price of call option is $23.70.
+Calculation of D
+D1 = Change in premium/Change in spot price = (35-0)/(130-80) = 0.70
+D2 = Change in premium/Change in spot price = (74-9)/(169-104) = 1
+D3 = Change in premium/Change in spot price = (9-0)/(104-64) = 0.225
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.8*35)/1.08(1.3-0.8) =  51.85
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*9-0.8*74)/1.08(1.3-0.8) =  131.3
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.8*9)/1.08(1.3-0.8) =  13.333
+b.
+If, spot price is $80
+Then,
+Binomial Tree
+{eq}\begin{align*}
+
+80 \to {104^{{\rm{Cu}} = 9}} \to {135.2^{{\rm{Cu}} = 40.2}}\\
+
+80 \to {104^{{\rm{Cu}} = 9}} \to {83.2^{{\rm{Cd}} = 0}}\\
+
+80 \to {64^{{\rm{Cd}} = 0}} \to {83.2^{{\rm{Cu}} = 0}}\\
+
+80 \to {64^{{\rm{Cd}} = 0}} \to {51.2^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {40.2 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 20.84
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {0 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 0
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {20.84 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 10.80
+
+\end{align*}
+
+{/eq}
+Price of call option is $10.80.
+Calculation of D
+D1 = Change in premium/Change in spot price = (9-0)/(104-64) = 0.225
+D2 = Change in premium/Change in spot price = (40.2-0)/(135.2-83.2) = 0.77
+D3 = Change in premium/Change in spot price = (0-0)/(83.2-51.2) = 0
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.225*9)/1.08(1.3-0.8) =  -3.75
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.77*40.2)/1.08(1.3-0.8) =  -57.32
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0*0)/1.08(1.3-0.8) =  0
+If, spot price is $90
+Then,
+Binomial Tree
+{eq}\begin{align*}
+
+90 \to {117^{{\rm{Cu}} = 22}} \to {152.1^{{\rm{Cu}} = 57.1}}\\
+
+90 \to {117^{{\rm{Cu}} = 22}} \to {93.6^{{\rm{Cd}} = 0}}\\
+
+90 \to {72^{{\rm{Cd}} = 0}} \to {93.6^{{\rm{Cu}} = 0}}\\
+
+90 \to {72^{{\rm{Cd}} = 0}} \to {57.6^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {57.1 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+&= 29.61
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {0 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 0
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {29.61 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+&= 15.35
+
+\end{align*}
+
+{/eq}
+Price of call option is $15.35.
+Calculation of D
+D1 = Change in premium/Change in spot price = (22-0)/(117-72) = 0.49
+D2 = Change in premium/Change in spot price = (57.1-0)/(152.1-93.6) = 0.97
+D3 = Change in premium/Change in spot price = (0-0)/(93.6-57.6) = 0
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.49*22)/1.08(1.3-0.8) =  -20
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.97*57.1)/1.08(1.3-0.8) =  -102.56
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0*0)/1.08(1.3-0.8) =  0
+If, spot price is $110.
+Then,
+Binomial Tree
+{eq}\begin{align*}
+
+110 \to {143^{{\rm{Cu}} = 48}} \to {186^{{\rm{Cu}} = 91}}\\
+
+110 \to {143^{{\rm{Cu}} = 48}} \to {114.4^{{\rm{Cd}} = 19.4}}\\
+
+110 \to {88^{{\rm{Cd}} = 0}} \to {114.4^{{\rm{Cu}} = 19.4}}\\
+
+110 \to {88^{{\rm{Cd}} = 0}} \to {70.4^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {91 \times 0.56} \right) + \left( {19.4 \times 0.44} \right)}}{{1.08}}\\
+
+& = 55.12
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {19.4 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 10.06
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {55.12 \times 0.56} \right) + \left( {10.06 \times 0.44} \right)}}{{1.08}}\\
+
+& = 32.68
+
+\end{align*}
+
+{/eq}
+Price of call option is $32.68.
+Calculation of D
+D1 = Change in premium/Change in spot price = (48-0)/(143-88) = 0.87
+D2 = Change in premium/Change in spot price = (91-19.4)/(186-114.4) = 1
+D3 = Change in premium/Change in spot price = (19.4-0)/(114.4-70.4) = 0.44
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.87*48)/1.08(1.3-0.8) =  -77.33
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*19.4-1*91)/1.08(1.3-0.8) =  -121.81
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.44*0)/1.08(1.3-0.8) =  0
+If, spot price is $120.
+Then,
+Binomial Tree
+{eq}\begin{align*}
+
+120 \to {156^{{\rm{Cu}} = 61}} \to {202.8^{{\rm{Cu}} = 107.8}}\\
+
+120 \to {156^{{\rm{Cu}} = 61}} \to {124.8^{{\rm{Cd}} = 29.8}}\\
+
+120 \to {96^{{\rm{Cd}} = 1}} \to {124.8^{{\rm{Cu}} = 29.8}}\\
+
+120 \to {96^{{\rm{Cd}} = 1}} \to {76.8^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {107.8 \times 0.56} \right) + \left( {29.8 \times 0.44} \right)}}{{1.08}}\\
+
+& = 68.04
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {29.8 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 15.45
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {68.04 \times 0.56} \right) + \left( {15.45 \times 0.44} \right)}}{{1.08}}\\
+
+& = 41.57
+
+\end{align*}
+
+{/eq}
+Price of call option is $41.57.
+Calculation of D
+D1 = Change in premium/Change in spot price = (61-0)/(156-96) = 1.017
+D2 = Change in premium/Change in spot price = (107.8-29.8)/(202.8-124.8) = 1
+D3 = Change in premium/Change in spot price = (29.8-0)/(124.8-76.8) = 0.62
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*1-1.017*61)/1.08(1.3-0.8) =  -112.47
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*29.8-1*107.8)/1.08(1.3-0.8) =  -127.89
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.62*29.8)/1.08(1.3-0.8) =  -34.21
+If, spot price is $130.
+Then,
+Binomial Tree
+{eq}\begin{align*}
+
+130 \to {169^{{\rm{Cu}} = 74}} \to {219.7^{{\rm{Cu}} = 124.7}}\\
+
+130 \to {169^{{\rm{Cu}} = 74}} \to {135.2^{{\rm{Cd}} = 40.2}}\\
+
+130 \to {104^{{\rm{Cd}} = 9}} \to {135.2^{{\rm{Cu}} = 40.2}}\\
+
+130 \to {104^{{\rm{Cd}} = 9}} \to {83.2^{{\rm{Cd}} = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {124.7 \times 0.56} \right) + \left( {40.2 \times 0.44} \right)}}{{1.08}}\\
+
+& =81.05
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {40.2 \times 0.56} \right) + \left( {0 \times 0.44} \right)}}{{1.08}}\\
+
+& = 20.84
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff}}& = \frac{{\left( {81.05 \times 0.56} \right) + \left( {20.84 \times 0.44} \right)}}{{1.08}}\\
+
+& = 50.53
+
+\end{align*}
+
+{/eq}
+Price of call option is $50.53.
+Calculation of D
+D1 = Change in premium/Change in spot price = (74-9)/(169-104) = 1
+D2 = Change in premium/Change in spot price = (124.7-40.2)/(219.7-135.2) = 1
+D3 = Change in premium/Change in spot price = (40.2-0)/(135.2-83.2) = 0.77
+Calculation of B
+B1 = (u*Cd-D*Cu)/R(u-d) = (1.3*9-1*74)/1.08(1.3-0.8) =  -115.37
+B2 = (u*Cd-D*Cu)/R(u-d) = (1.3*40.2-1*124.7)/1.08(1.3-0.8) =  -134.15
+B3 = (u*Cd-D*Cu)/R(u-d) = (1.3*0-0.77*40.2)/1.08(1.3-0.8) =  -57.32
+c.
+If the spot price increases the initial delta (D1) also increases.",Delta Or Hedge Ratio: Delta is the measurement of change in price or premium of the option when there is a change in the spot price. The investor or hedger uses this ratio to hedge their portfolio by selling or buying the number of shares as the hedge ratio signifies.
+28,Which type of real option allows the outputs of the production process to be altered if market conditions change during a project's life?,An expansion option,An input flexibility option,A growth option,An output flexibility option,A,"a. is incorrect. An expansion option allow the firm to expand in other markets or geographic territories.
+b. is incorrect. This option allows the company to use different inputs to produce the same outputs.  For example, natural gas may be produced using sugar cane or corn.
+c. is incorrect.  This option allows the company to sell more of the same product in the same market and grow its operations.
+d. is correct.  This option allows the outputs of the process to be changed.  For example, depending on market conditions, a bakery can stop manufacturing bread and start manufacturing pastry.","Real Options: Real options are opportunities to take certain action in the future in order to increase the net present value of a project.  Like financial options, real options become more valuable as uncertainty increases."
+29,A call option priced at $2 with a current stock price of $30 in the market and an exercise price of $35 would be worth (you don't own the stock)?,$2,$32,$3,-$2,C,"Option c. is the correct answer.
+Call Premium (P) is $2.
+The strike price (S) is $30.
+Exercise price (E) is $30.
+{eq}\begin{align*}
+
+{\rm\text{Value of Call Option}} &= \left( {E - S} \right) - P\\
+
+&= \left( {\$ 35 - \$ 30} \right) - \$ 2\\
+
+&= \$ 5 - \$ 2\\
+
+&= \$ 3
+
+\end{align*}
+
+{/eq}","Call Premium: The purchaser of the call option has the right to buy,the right purchaser has to pay a premium amount to the writer of the option. This premium amount is an expense for the purchaser, whereas income for the writer."
+30,A stock is selling today for $80. The stock has annual volatility of 40 percent and the annual risk-free rate is 12 percent.,Calculate the fair price for a 1-year European call option with an exercise price of $95.,Calculate how much the current stock price would need to change for the purchaser of the call option to break even in one year.,Calculate the fair price for a 1-year European put option with an exercise price of $95.,Calculate how much the current stock price would need to change for the purchaser of the put option to break even in one year.,A,"a.
+Given,
+Spot price = $80
+Strike price = $95
+Rate = 1.12
+Volatility = 0.40
+{eq}\begin{align*}
+
+{\rm{u}}\;& = {{\rm{e}}^{{\rm{\sigma }}\sqrt {\rm{t}} }}\\
+
+& = {{\rm{e}}^{0.40\sqrt 1 }}\\
+
+& = 1.50
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{d}}\;& = \frac{1}{{\rm{u}}}\\
+
+& = \frac{1}{{1.50}}\\
+
+& = 0.67
+
+\end{align*}
+
+{/eq}
+Computation of risk neutral probability
+{eq}\begin{align*}
+
+{\rm\text{Probability(u)}} &= \dfrac{{{\rm\text{R}} - {\rm\text{d}}}}{{{\rm\text{u}} - {\rm\text{d}}}}\\
+
+&= \dfrac{{1.12 - 0.67}}{{1.5 - 0.67}}\\
+
+&= 0.54
+
+\end{align*}
+
+{/eq}
+Low probability 1-0.54 = 0.46
+Binomial tree
+{eq}\begin{align*}
+
+80 \to {120^{Cu = 25}}\\
+
+80 \to {53.6^{Cd = 0}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff }}& = \frac{{\left( {25 \times 0.54} \right) + \left( {0 \times 0.46} \right)}}{{1.12}}\\
+
+& = 12.05
+
+\end{align*}
+
+{/eq}
+Price of the European call option is 12.05.
+b.
+Breakeven price for call: Strike price +Premium =95+12.05 = $107.05
+To become breakeven current spot price increase by $27.05 (107.05-80).
+c.
+Given,
+Spot price = $80
+Strike price = $95
+Rate = 1.12
+Volatility = 0.40
+{eq}\begin{align*}
+
+{\rm{u}}\;& = {{\rm{e}}^{{\rm{\sigma }}\sqrt {\rm{t}} }}\\
+
+& = {{\rm{e}}^{0.40\sqrt 1 }}\\
+
+& = 1.50
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{d}}\;& = \frac{1}{{\rm{u}}}\\
+
+& = \frac{1}{{1.50}}\\
+
+& = 0.67
+
+\end{align*}
+
+{/eq}
+Computation of risk neutral probability
+{eq}\begin{align*}
+
+{\rm\text{Probability(u)}} &= \dfrac{{{\rm\text{R}} - {\rm\text{d}}}}{{{\rm\text{u}} - {\rm\text{d}}}}\\
+
+&= \dfrac{{1.12 - 0.67}}{{1.5 - 0.67}}\\
+
+&= 0.54
+
+\end{align*}
+
+{/eq}
+Low probability 1-0.54 = 0.46
+Binomial tree
+{eq}\begin{align*}
+
+80 \to {120^{Cu = 0}}\\
+
+80 \to {53.6^{Cd = 41.4}}
+
+\end{align*}
+
+{/eq}
+{eq}\begin{align*}
+
+{\rm{PV}}\;{\rm{of}}\;{\rm{gross}}\;{\rm{payoff }}& = \frac{{\left( {0 \times 0.54} \right) + \left( {41.4 \times 0.46} \right)}}{{1.12}}\\
+
+& = 17
+
+\end{align*}
+
+{/eq}
+Price of the European put option is17.
+d.
+Breakeven price for put: Strike price-Premium =95-17 = $78
+To become breakeven current spot price decrease by $2 (80-78).",Impact Cost Impact cost helps to measure the liquidity of the stock market and is considered the true cost of the transaction. The cost that the seller and the buyer have to incur for executing their trade; depends on the share's liquidity or underlying.
