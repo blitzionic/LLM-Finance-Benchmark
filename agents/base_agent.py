@@ -7,16 +7,17 @@ from abc import ABC, abstractmethod
 load_dotenv()
 
 class Agent:
-  def __init__(self, model = "gpt-4o"):
+  def __init__(self, model = "gept-4o", response_model = None):
     self.model = model
+    self.pyd_reponse_model = response_model
     self.api_key = os.getenv("OPEN_AI_KEY")
     if not self.api_key:
         raise ValueError("OpenAI API key not found. Please set the OPENAI_API_KEY environment variable.")
     openai.api_key = self.api_key
   
   @abstractmethod
-  def system_prompt(self):
-    # system prompt for the agent - to be implemented in agent classes
+  def system_prompt(selfn_schema = None):
+    # returns system prompt for the agent - to be implemented in agent classes
     pass
 
   def generate_response(self, prompt, temperature = 0, max_tokens = 1000, stop = None):
@@ -30,21 +31,16 @@ class Agent:
         response = openai.ChatCompletion.create(
           model = self.model,
           messages = messages, 
-          functions = [self.function_schema],
-          function_call = {"name": self.function_schema["name"]},
+          response_format = self.pyd_response_model
           temperature = temperature,
           max_tokens = max_tokens,
           stop = stop,
         )
         message = response.choices[0].message
-        if message.get("function_call"):
-          args = json.loads(message["function_call"]["arguments"])
-          return args
-        else:
-          return message.get("content", "").strip()
+        return message.parsed.dict() 
         
       else:
-        print("not using defined function schema in base_agent.py")
+        print("not using defined pydantic model in base_agent.py")
         response = openai.ChatCompletion.create(
           model=self.model,
           messages=messages,
