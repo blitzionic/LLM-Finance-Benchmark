@@ -5,8 +5,8 @@ import json
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
-from .base_agent import Agent
-from .answer_schema import AnswerSchema
+from base_agent import Agent
+from answer_schema import AnswerSchema
 
 class ChallengerAgent(Agent):
     def __init__(self, topic, model="gpt-4", index=None, embedding_model=None, documents=None, topic_roles_json="topic_roles.json"):
