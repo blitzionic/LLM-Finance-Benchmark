@@ -37,15 +37,6 @@ def save_results(results, output_path):
 
 
 def calculate_score(results, answer_column="answer", guess_column="guess"):
-    """
-    Calculates the accuracy of the model.
-    Parameters:
-        results (DataFrame): The DataFrame containing answers and model guesses.
-        answer_column (str): The column name with the correct answers.
-        guess_column (str): The column name with the model's guesses.
-    Returns:
-        float: The percentage accuracy of the model.
-    """
     try:
         correct = (results[guess_column] == results[answer_column]).sum()
         total = len(results)
@@ -60,7 +51,6 @@ def calculate_score(results, answer_column="answer", guess_column="guess"):
         raise
 
 def load_config(file_path="config.json"):
-    """Loads the configuration from a JSON file."""
     try:
         with open(file_path, "r") as file:
             return json.load(file)

@@ -1,0 +1,15 @@
+{
+  "default_profile": "finance",
+  "profiles": {
+    "finance": {
+      "model": "gpt-4o",
+      "data_sheet": "data/question_sheets/Asset.csv",
+      "description": "Profile for general finance questions."
+    },
+    "tax": {
+      "model": "gpt-4o",
+      "data_sheet": "data/question_sheets/Tax.csv",
+      "description": "Profile for tax-related questions."
+    }
+  }
+}

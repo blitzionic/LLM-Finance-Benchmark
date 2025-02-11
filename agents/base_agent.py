@@ -24,13 +24,14 @@ class Agent(ABC):
 
     def generate_response(self, prompt, temperature=0, max_tokens=1000, stop=None):
       try:
+        # print(self.system_prompt)
         messages = [
             {"role": "system", "content": self.system_prompt()},
             {"role": "user", "content": prompt}
         ]
-        
-        if self.function_schema:
-          response = openai.ChatCompletion.create(
+        # print(self.function_schema) 
+        if self.function_schema: 
+          response = openai.chat.completions.create(
             model=self.model,
             messages=messages,
             functions=[self.function_schema],
@@ -41,11 +42,12 @@ class Agent(ABC):
           )
           
         message = response.choices[0].message
-        # Extract the JSON arguments returned by the function call.
-        arguments = message.get("function_call", {}).get("arguments", "{}")
-        return json.loads(arguments)
+        args = message.function_call.arguments
+        parsed_args = json.loads(args)
+        print(parsed_args)
+        return parsed_args
         
         return response.choices[0].message["content"].strip()
       except Exception as e:
-          print(f"Error generating response for Base Agent: {}")
+          print(f"Error generating response for Base Agent: {e}")
           return {}

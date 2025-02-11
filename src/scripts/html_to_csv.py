@@ -6,7 +6,7 @@ import re
 input_folder = "./data/temp_html"
 output_folder = "./data/question_sheets"
 os.makedirs(output_folder, exist_ok=True)  # Ensure output folder exists
-output_file = os.path.join(output_folder, "dividend.csv")
+output_file = os.path.join(output_folder, "dividend .csv")
  
 
 header = ["id","question","A","B","C","D","Answer","Explanation","Hint"]

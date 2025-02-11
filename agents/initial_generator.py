@@ -24,16 +24,15 @@ FUNCTION_SCHEMA = {
 }
 class InitialGeneratorAgent(Agent):
     def __init__(self, model = "gpt-4o"):
-        self.function_schema = FUNCTION_SCHEMA
         #super().__init(model = model)    
         super().__init__(model=model, pyd_model=AnswerSchema)
+        self.function_schema = FUNCTION_SCHEMA
     
     def system_prompt(self):
         return (
             "Provide an answer to the following finance question(s)." 
             "Answer the following multiple-choice question by selecting one letter: A, B, C, or D."           
         )
-
+    # returns dictionary {answer, feedback}
     def process(self, question):
-        model_response = self.generate_response(question)
-        return model_response.get("answer", "")
+        return self.generate_response(question)
