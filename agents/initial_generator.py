@@ -14,14 +14,15 @@ FUNCTION_SCHEMA = {
                 "enum": ["A", "B", "C", "D"],
                 "description": "The candidate answer, which must be one letter: A, B, C, or D."
             },
-            "feedback": {
+            "reasoning": {
                 "type": "string",
                 "description": "A brief explanation of the reasoning behind the chosen answer."
             }
         },
-        "required": ["answer", "feedback"]
+        "required": ["answer", "reasoning"]
     }
 }
+
 class InitialGeneratorAgent(Agent):
     def __init__(self, model = "gpt-4o"):
         #super().__init(model = model)    
@@ -33,6 +34,6 @@ class InitialGeneratorAgent(Agent):
             "Provide an answer to the following finance question(s)." 
             "Answer the following multiple-choice question by selecting one letter: A, B, C, or D."           
         )
-    # returns dictionary {answer, feedback}
+    # returns dictionary {answer, reasoning}
     def process(self, question):
         return self.generate_response(question)

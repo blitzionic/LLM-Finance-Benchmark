@@ -20,7 +20,6 @@ def load_dataset(file_path):
         print(f"Error loading dataset: {e}")
         raise
 
-
 def save_results(results, output_path):
     """
     Saves the results DataFrame to a CSV file.
@@ -34,7 +33,6 @@ def save_results(results, output_path):
     except Exception as e:
         print(f"Error saving results to {output_path}: {e}")
         raise
-
 
 def calculate_score(results, answer_column="answer", guess_column="guess"):
     try:
