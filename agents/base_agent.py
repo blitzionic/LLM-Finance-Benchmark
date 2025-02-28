@@ -7,7 +7,7 @@ from abc import ABC, abstractmethod
 load_dotenv()
 
 class Agent(ABC):
-    def __init__(self, model="gpt-4o", pyd_model=None):
+    def __init__(self, model, pyd_model=None):
         self.model = model
         self.pyd_model = pyd_model
         self.api_key = os.getenv("OPENAI_API_KEY") 

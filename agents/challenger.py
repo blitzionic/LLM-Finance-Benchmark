@@ -8,8 +8,28 @@ from sentence_transformers import SentenceTransformer
 from base_agent import Agent
 from answer_schema import AnswerSchema
 
+FUNCTION_SCHEMA = {
+    "name": "generate_answer",
+    "description": "Generate a candidate answer along with a brief explanation. The candidate answer must be one letter among A, B, C, or D.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "answer": {
+                "type": "string",
+                "enum": ["A", "B", "C", "D"],
+                "description": "The candidate answer, which must be one letter: A, B, C, or D."
+            },
+            "feedback": {
+                "type": "string",
+                "description": "A brief explanation of the reasoning behind the chosen answer."
+            }
+        },
+        "required": ["answer", "feedback"]
+    }
+}
+
 class ChallengerAgent(Agent):
-    def __init__(self, topic, model="gpt-4", index=None, embedding_model=None, documents=None, topic_roles_json="topic_roles.json"):
+    def __init__(self, topic, model="gpt-4o-mini", index=None, embedding_model=None, documents=None, topic_roles_json="topic_roles.json"):
         if os.path.exists(topic_roles_json):
             with open(topic_roles_json, 'r', encoding='utf-8') as f:
                 roles = json.load(f)

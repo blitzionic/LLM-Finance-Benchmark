@@ -24,7 +24,7 @@ FUNCTION_SCHEMA = {
 }
 
 class InitialGeneratorAgent(Agent):
-    def __init__(self, model = "gpt-4o"):
+    def __init__(self, model = "gpt-4o-mini"):
         #super().__init(model = model)    
         super().__init__(model=model, pyd_model=AnswerSchema)
         self.function_schema = FUNCTION_SCHEMA
