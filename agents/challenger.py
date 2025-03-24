@@ -29,7 +29,7 @@ FUNCTION_SCHEMA = {
 }
 
 class ChallengerAgent(Agent):
-    def __init__(self, topic, model="gpt-4o-mini", index=None, embedding_model=None, documents=None, topic_roles_json="topic_roles.json"):
+    def __init__(self, topic, model="gpt-4o-mini", query_engine=None, topic_roles_json="topic_roles.json"):
         if os.path.exists(topic_roles_json):
             with open(topic_roles_json, 'r', encoding='utf-8') as f:
                 roles = json.load(f)
@@ -40,12 +40,7 @@ class ChallengerAgent(Agent):
         self.topic = topic
         # Lookup the role description for the given topic; default if not found.
         self.role_description = roles.get(topic, "You are a critical financial analyst, experienced in scrutinizing financial data.")
-        
-        # Set retrieval parameters.
-        self.index = index
-        self.embedding_model = embedding_model
-        self.documents = documents
-        
+        self.query_engine = query_engine
         # Use the Pydantic model for structured output.
         super().__init__(model=model, response_model=AnswerSchema)
     
@@ -58,18 +53,16 @@ class ChallengerAgent(Agent):
     
     def retrieve_relevant_documents(self, query, top_k=5):
         try:
-            # Convert the query into an embedding vector using SentenceTransformer.
-            query_embedding = self.embedding_model.encode([query])
-            # Use FAISS to search for the top_k most similar documents.
-            distances, indices = self.index.search(np.array(query_embedding).astype("float32"), top_k)
-            retrieved_docs = [self.documents[i] for i in indices[0]]
+            # returns most relevent chunks from financial source
+            response = self.query_engine.query(query)
+            retrieved_docs = [node.node.txt for node in response.source_nodes]
             return retrieved_docs
         except Exception as e:
-            print(f"Error in retrieve_relevant_documents: {e}")
+            print(f"Error in retrieving relevant documents: {e}")
             return []
     
     def process(self, current_answer, question):
-        # Retrieve relevant context documents based on the question.
+        # retrieve relevant context documents based on the question.
         retrieved_docs = self.retrieve_relevant_documents(question)
         context = "\n\n".join(retrieved_docs) if retrieved_docs else "No additional context available."
         
