@@ -51,7 +51,7 @@ class ChallengerAgent(Agent):
             "Answer by selecting one letter: A, B, C, or D."
         )
     
-    def retrieve_relevant_documents(self, query, top_k=5):
+    def retrieve_relevant_docs(self, query, top_k=5):
         try:
             # returns most relevent chunks from financial source
             response = self.query_engine.query(query)
@@ -61,14 +61,14 @@ class ChallengerAgent(Agent):
             print(f"Error in retrieving relevant documents: {e}")
             return []
     
-    def process(self, current_answer, question):
+    def process(self, question, previous_model_answer):
         # retrieve relevant context documents based on the question.
-        retrieved_docs = self.retrieve_relevant_documents(question)
-        context = "\n\n".join(retrieved_docs) if retrieved_docs else "No additional context available."
-        
-        # Build a prompt that includes the current answer, the question, and the retrieved context.
+        retrieved_docs = self.retrieve_relevant_docs(question)
+        context = "\n\n".join(retrieved_docs)
+
+        # build a prompt that includes the current answer, the question, and the retrieved context
         prompt = (
-            f"Current answer: '{current_answer}'.\n"
+            f"Current answer: '{previous_model_answer}'.\n"
             f"Question: {question}\n"
             f"Relevant context:\n{context}\n\n"
             "Based on the above, identify any potential flaws or overlooked aspects in the current answer. "
