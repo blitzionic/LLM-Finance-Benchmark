@@ -26,8 +26,7 @@ FUNCTION_SCHEMA = {
 class InitialGeneratorAgent(Agent):
     def __init__(self, model = "gpt-4o-mini"):
         #super().__init(model = model)    
-        super().__init__(model=model, pyd_model=AnswerSchema)
-        self.function_schema = FUNCTION_SCHEMA
+        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=AnswerSchema)
     
     def system_prompt(self):
         return (

@@ -28,17 +28,17 @@ FUNCTION_SCHEMA = {
 }
 
 class ReviewerAgent(Agent):
-    def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="config/topic_roles.json"):
+    def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="topic_roles.json"):
         if os.path.exists(topic_roles_json):
-          with open(topic_roles_json, 'r', encoding='utf-8') as f:
-            roles = json.load(f) 
-    
-        # set agent's role description
-        print(f"TOPIC: {topic.lower()}")
+            with open(topic_roles_json, 'r', encoding='utf-8') as f:
+                roles = json.load(f) 
+        else:
+            roles = {}
+            print(f"Warning: {topic_roles_json} not found. Using default role.")
+            
+        self.topic = topic 
         self.role_description = roles.get(topic.lower(), "")
-        print(f"ROLE DESCRIPTION: {self.role_description}")
-        super().__init__(model=model, pyd_model=AnswerSchema)
-        self.function_schema = FUNCTION_SCHEMA
+        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=AnswerSchema)
     
     # task the agent as a reviewer
     def system_prompt(self):

@@ -36,13 +36,11 @@ class ChallengerAgent(Agent):
         else:
             roles = {}
             print(f"Warning: {topic_roles_json} not found. Using default role.")
-        
+    
         self.topic = topic
-        # Lookup the role description for the given topic; default if not found.
         self.role_description = roles.get(topic, "You are a critical financial analyst, experienced in scrutinizing financial data.")
         self.query_engine = query_engine
-        # Use the Pydantic model for structured output.
-        super().__init__(model=model, response_model=AnswerSchema)
+        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, response_model=AnswerSchema)
     
     def system_prompt(self):
         return (

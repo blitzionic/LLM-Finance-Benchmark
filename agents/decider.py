@@ -29,7 +29,7 @@ FUNCTION_SCHEMA = {
 }
 
 class DeciderAgent(Agent):
-    def __init__(self, model="gpt-4o-mini", topic_roles_json="config/topic_roles.json"):
+    def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="config/topic_roles.json"):
         # Optionally load a role description if needed; here we use a default.
         self.role_description = "You are an analytical decision-maker with expertise in financial reasoning."
         super().__init__(model=model, pyd_model=AnswerSchema)
