@@ -24,7 +24,7 @@ FUNCTION_SCHEMA = {
                 "description": "A brief explanation summarizing why this answer was chosen."
             }
         },
-        "required": ["answer", "feedback"]
+        "required": ["answer", "reasoning"]
     }
 }
 
@@ -38,26 +38,21 @@ class DeciderAgent(Agent):
     def system_prompt(self):
         return (
             f"{self.role_description}\n"
-            "You have received candidate answers from several agents, each with their chosen answer and supporting reasoning. "
-            "Your task is to review all candidate responses, compare their strengths and weaknesses, and select the best final answer for the question. "
-            "Return your final decision as a JSON object with two keys: 'answer' (one letter: A, B, C, or D) and 'feedback' (a brief explanation of your decision)."
+            "You are the final decision-maker. Review the candidate answers and reasonings from the inital, reviewer, challenger, and refiner agents. "
+            "Evaluate the strengths and weaknesses of each response and select the final best answer and provide your justification. "
+            "Select the best final answer (A, B, C, or D) and your reasoning."
         )
     
-    def process(self, candidate_responses):
-        """
-        candidate_responses: a list of dictionaries, each containing keys "answer" and "feedback"
-        """
-        # Format the candidate responses for the prompt.
-        responses_str = "\n".join(
-            [f"Candidate {i+1}: Answer: {resp.get('answer')}, Feedback: {resp.get('feedback')}"
-             for i, resp in enumerate(candidate_responses)]
-        )
-        
+    def process(self, question, initial_answer, initial_reasoning, reviewer_answer, reviewer_reasoning, challenger_answer,
+                challenger_reasoning, refiner_answer, refiner_reasoning):
         prompt = (
-            "Below are the candidate answers provided by different agents:\n"
-            f"{responses_str}\n\n"
-            "Please analyze these responses and select the best final answer. "
-            "Return your final decision as a JSON object with two keys: 'answer' and 'feedback'."
+            "Based on the following question and each question/reasoning, synthesize the strengths of each persecptive into a single "
+            "refined answer and reasoning.\n"
+            f"Original Question: {question}\n"
+            f"Initial Answer: '{initial_answer}', Initial Reasoning: '{initial_reasoning}'\n"
+            f"Reviewer Answer: '{reviewer_answer}, Reviewer Reasoning: '{reviewer_reasoning}'\n"
+            f"Challenger Answer: '{challenger_answer}', Challenger Reasoning: '{challenger_reasoning}'\n"
+            f"Refiner Answer: '{refiner_answer}', Refiner Reasoning: '{refiner_reasoning}'"
         )
         response = self.generate_response(prompt)
-        return response.get("answer", "")
+        return response 

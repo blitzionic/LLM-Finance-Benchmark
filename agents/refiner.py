@@ -19,7 +19,7 @@ FUNCTION_SCHEMA = {
                 "description": "A brief explanation summarizing why this answer was chosen."
             }
         },
-        "required": ["answer", "feedback"]
+        "required": ["answer", "reasoning"]
     }
 }
 
@@ -33,26 +33,28 @@ class RefinerAgent(Agent):
             print(f"Warning: {topic_roles_json} not found. Using default role.")
 
         self.topic = topic
-        self.role_desc = roles.get(topic, "You are a finance expert tasked with refining the current answer based"
+        self.role_description = roles.get(topic, "You are a finance expert tasked with refining the current answer based"
             "on the feedback provided.")
         super().__init__(model=model, function_schema=FUNCTION_SCHEMA, response_model=AnswerSchema)
     
     def system_prompt(self):
         return (
-            f"{self.role_desc} "
-            "You are a finance expert tasked with refining the current answer based on the feedback provided. "
-            "Consider both the review and challenge feedback to integrate insights and produce the best final answer. "
-            "Finally, select one letter as your answer: A, B, C, or D."
+            f"{self.role_description} "
+            "You are tasked with synthesizing multiple perspectives. Give the initial answer, the reviewer's answer, challenger's "
+            "answer, produce a refined answer that combines the strongest elements from each response. Ensure that your final answer "
+            " and reasoning are clear and coherent." 
+            "Produce the best final answer. Select one letter as your answer: A, B, C, or D."
         )
     
-    def process(self, current_answer: str, reviewer_feedback: str, challenger_feedback: str) -> str:
+    def process(self, question, initial_answer, initial_reasoning, reviewer_answer, revierwer_reasoning, challenger_answer,
+                challenger_reasoning):
         prompt = (
-            f"Current answer: '{current_answer}'\n"
-            f"Reviewer feedback: '{reviewer_feedback}'\n"
-            f"Challenger feedback: '{challenger_feedback}'\n"
-            "Based on the above, please refine the answer and provide the best final answer. "
-            "Select one letter: A, B, C, or D."
+            "Based on the following question and each question/reasoning, synthesize the strengths of each persecptive into a single "
+            "refined answer and reasoning.\n"
+            f"Original Question: {question}\n"
+            f"Initial Answer: '{initial_answer}', Initial Reasoning: '{initial_reasoning}'\n"
+            f"Reviewer Answer: '{reviewer_answer}, Reviewer Reasoning: '{revierwer_reasoning}'\n"
+            f"Challenger Answer: '{challenger_answer}', Challenger Reasoning: '{challenger_reasoning}'\n"
         )
         response = self.generate_response(prompt)
-        # Assuming AnswerSchema defines an 'answer' field in the returned dictionary.
-        return response.get("answer", "")
+        return response 

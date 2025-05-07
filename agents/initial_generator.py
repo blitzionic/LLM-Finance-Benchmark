@@ -41,4 +41,9 @@ class InitialGeneratorAgent(Agent):
             "reasoning": "Because option A best fits the data."
         }
         '''
-        return self.generate_response(question)
+        prompt = ( 
+            "Answer the following question and provide your reasoning."           
+            f"Question: {question}"
+        )
+        response = self.generate_response(prompt)
+        return response 

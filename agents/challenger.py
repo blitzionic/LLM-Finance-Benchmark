@@ -24,7 +24,7 @@ FUNCTION_SCHEMA = {
                 "description": "A brief explanation of the reasoning behind the chosen answer."
             }
         },
-        "required": ["answer", "feedback"]
+        "required": ["answer", "reasoning"]
     }
 }
 
@@ -45,8 +45,8 @@ class ChallengerAgent(Agent):
     def system_prompt(self):
         return (
             f"{self.role_description} "
-            "Using any relevant context, critically evaluate the current answer and determine what you believe is the correct answer. "
-            "Answer by selecting one letter: A, B, C, or D."
+            "Using the relevant context provided, critically evaluate the current answer and determine what you believe is the correct answer. "
+            "Identify any inconsistencies or overlooked details. Answer by selecting one letter: A, B, C, or D. Provide your reasoning."
         )
     
     def retrieve_relevant_docs(self, query, top_k=5):
@@ -59,18 +59,19 @@ class ChallengerAgent(Agent):
             print(f"Error in retrieving relevant documents: {e}")
             return []
     
-    def process(self, question, previous_model_answer):
+    def process(self, question, refiner_answer, refiner_reasoning):
         # retrieve relevant context documents based on the question.
         retrieved_docs = self.retrieve_relevant_docs(question)
         context = "\n\n".join(retrieved_docs)
 
         # build a prompt that includes the current answer, the question, and the retrieved context
         prompt = (
-            f"Current answer: '{previous_model_answer}'.\n"
+            "Based on the following question, identify any potential flaws or overlooked aspects in the refiner answer. "
+            "Then, determine what you believe is the correct answer and explain your reasoning.\n" 
             f"Question: {question}\n"
+            f"Refiner answer: '{refiner_answer}'.\n"
+            f"Refiner reasoning: '{refiner_reasoning}'"
             f"Relevant context:\n{context}\n\n"
-            "Based on the above, identify any potential flaws or overlooked aspects in the current answer. "
-            "Then, determine what you believe is the correct answer by selecting one letter: A, B, C, or D."
         )
         response = self.generate_response(prompt)
-        return response.get("answer", "")
+        return response 
