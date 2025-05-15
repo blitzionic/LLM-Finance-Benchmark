@@ -29,9 +29,9 @@ class InitialGeneratorAgent(Agent):
     
     def system_prompt(self):
         return (
-            "Provide an answer to the following finance question(s)." 
-            "Answer the following multiple-choice question by selecting one letter: A, B, C, or D."           
-            "Provide your reasoning."
+            "You are a financial analyst AI. Think step by step and propose an answer to the question, explaining your reasoning. "
+            "Do not use any external sources or references. "
+            "Select one letter: A, B, C, or D."
         )
     
     def process(self, question):

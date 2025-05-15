@@ -9,50 +9,45 @@ from base_agent import Agent
 from answer_schema import AnswerSchema
 
 FUNCTION_SCHEMA = {
-    "name": "decide_answer",
-    "description": "Select the best candidate answer from multiple agents and provide a brief evaluation summary. The final answer must be one letter among A, B, C, or D.",
+    "name": "decide_final_answer",
+    "description": "Select the final best candidate answer based on critic reasoning and research evidence. Provide the answer and your rationale.",
     "parameters": {
         "type": "object",
         "properties": {
             "answer": {
                 "type": "string",
                 "enum": ["A", "B", "C", "D"],
-                "description": "The final selected answer, one letter: A, B, C, or D."
+                "description": "The final selected answer choice."
             },
-            "feedback": {
+            "reasoning": {
                 "type": "string",
-                "description": "A brief explanation summarizing why this answer was chosen."
+                "description": "Explanation combining critical reasoning and evidence supporting the final answer."
             }
         },
         "required": ["answer", "reasoning"]
     }
 }
 
-class DeciderAgent(Agent):
+class ConsensusArbiterAgent(Agent):
     def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="config/topic_roles.json"):
-        # Optionally load a role description if needed; here we use a default.
-        self.role_description = "You are an analytical decision-maker with expertise in financial reasoning."
-        super().__init__(model=model, pyd_model=AnswerSchema)
-        self.function_schema = FUNCTION_SCHEMA
+        self.role_description = "You are a senior financial QA evaluator, combining critical review and research evidence to decide the final answer."
+        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=None)
     
     def system_prompt(self):
         return (
             f"{self.role_description}\n"
-            "You are the final decision-maker. Review the candidate answers and reasonings from the inital, reviewer, challenger, and refiner agents. "
-            "Evaluate the strengths and weaknesses of each response and select the final best answer and provide your justification. "
-            "Select the best final answer (A, B, C, or D) and your reasoning."
+            "Your job is to consolidate the critic's improved reasoning and the researcher's evidence-backed answer. "
+            "Decide on the final answer and provide combined rationale."
         )
     
-    def process(self, question, initial_answer, initial_reasoning, reviewer_answer, reviewer_reasoning, challenger_answer,
-                challenger_reasoning, refiner_answer, refiner_reasoning):
+    def process(self, question, critic_answer, critic_reasoning, research_answer, research_evidence):
         prompt = (
-            "Based on the following question and each question/reasoning, synthesize the strengths of each persecptive into a single "
-            "refined answer and reasoning.\n"
-            f"Original Question: {question}\n"
-            f"Initial Answer: '{initial_answer}', Initial Reasoning: '{initial_reasoning}'\n"
-            f"Reviewer Answer: '{reviewer_answer}, Reviewer Reasoning: '{reviewer_reasoning}'\n"
-            f"Challenger Answer: '{challenger_answer}', Challenger Reasoning: '{challenger_reasoning}'\n"
-            f"Refiner Answer: '{refiner_answer}', Refiner Reasoning: '{refiner_reasoning}'"
+            "Consolidate the following critical reasoning and research evidence to choose the final answer.\n"
+            f"Original Question: {question}\n\n"
+            f"Critic's Answer: {critic_answer}\n"
+            f"Critic Reasoning: {critic_reasoning}\n\n"
+            f"Researcher's Answer: {research_answer}\n"
+            f"Researcher's Evidence: {research_evidence}\n\n"
+            "Provide the final answer choice and combined explanation."
         )
-        response = self.generate_response(prompt)
-        return response 
+        return self.generate_response(prompt) 
