@@ -1,0 +1,30 @@
+# Core dependencies
+pandas
+numpy
+torch
+transformers
+accelerate
+openai
+python-dotenv
+tqdm
+requests
+json
+
+# RAG and document processing
+llama-index
+faiss-cpu
+beautifulsoup4
+pdfplumber
+python-docx
+pydub
+speech_recognition
+tiktoken
+
+# API and web
+fastapi
+uvicorn
+
+# Data validation
+pydantic
+
+python-multipart
