@@ -14,6 +14,7 @@ model = AutoModelForCausalLM.from_pretrained(
 # Test prompt
 prompt = "What is the capital of France?"
 inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+prompt = "Who are you"
 
 # Generate response
 outputs = model.generate(
