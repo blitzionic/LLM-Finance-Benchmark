@@ -1,8 +1,8 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-# Load model and tokenizer - using a smaller, open-source model
-model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"  # 1.1B parameter model, no approval needed
+# Load model and tokenizer
+model_name = "meta-llama/Llama-2-70b-chat-hf"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -10,28 +10,18 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto"
 )
 
-# Format chat prompt
-prompt = """<|system|>
-You are a helpful AI assistant.
-</s>
-<|user|>
-What is the capital of France?
-</s>
-<|assistant|>"""
-
-# Tokenize and generate
+# Test prompt
+prompt = "What is the capital of France?"
 inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+
+# Generate response
 outputs = model.generate(
     **inputs,
     max_new_tokens=100,
     temperature=0.7,
-    do_sample=True,
-    pad_token_id=tokenizer.eos_token_id
+    do_sample=True
 )
 
 # Decode and print response
 response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-print("\nFull conversation:")
 print(response)
-print("\nModel's response:")
-print(response.split("<|assistant|>")[-1].strip())
