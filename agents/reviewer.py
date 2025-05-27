@@ -21,9 +21,13 @@ FUNCTION_SCHEMA = {
             "reasoning": {
                 "type": "string",
                 "description": "A brief explanation of the reasoning behind the chosen answer."
+            },
+            "critique": {
+                "type": "string",
+                "description": "A critique of the initial answer, highlighting strengths and weaknesses."
             }
         },
-        "required": ["answer", "reasoning"]
+        "required": ["answer", "reasoning", "critique"]
     }
 }
 
@@ -47,10 +51,24 @@ class CriticReviewerAgent(Agent):
             "Identify any gaps in reasoning or potential errors, then select the correct answer (A, B, C, or D) and explain your reasoning."
         )
     
-    def process(self, question, initial_answer, initial_reasoning):
+    def review_answer(self, question, initial_answer, initial_reasoning):
+        """
+        Review the initial answer and provide a critique and improved answer.
+        
+        Args:
+            question: The original question
+            initial_answer: The initial answer to review
+            initial_reasoning: The reasoning behind the initial answer
+            
+        Returns:
+            Dict containing:
+            - answer: The reviewed answer (A, B, C, or D)
+            - reasoning: The reasoning behind the reviewed answer
+            - critique: A critique of the initial answer
+        """
         prompt = (
             "Review the question and the initial answer thoroughly. "
-            "Assess its strengths and weaknesses, and then determine provide an improved answer with better reasoning if applicable."
+            "Assess its strengths and weaknesses, and then determine provide an improved answer with better reasoning if applicable. "
             "Select the best final answer and provide your reasoning.\n"
             f"Original Question: {question}\n"
             f"Initial Answer: {initial_answer}\n"
