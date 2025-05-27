@@ -8,7 +8,6 @@ openai
 python-dotenv
 tqdm
 requests
-json
 
 # RAG and document processing
 llama-index
@@ -27,4 +26,5 @@ uvicorn
 # Data validation
 pydantic
 
+# Utilities
 python-multipart
