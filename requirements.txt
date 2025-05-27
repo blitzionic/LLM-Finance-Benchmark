@@ -16,7 +16,7 @@ beautifulsoup4
 pdfplumber
 python-docx
 pydub
-speech_recognition
+SpeechRecognition
 tiktoken
 
 # API and web
