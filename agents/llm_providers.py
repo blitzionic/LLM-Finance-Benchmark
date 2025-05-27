@@ -31,15 +31,9 @@ class OpenAIProvider(LLMProvider):
         self.model = model
         self.client = OpenAIClient(api_key=os.getenv("OPENAI_API_KEY"))
     
-    def generate_response(
-        self,
-        prompt: str,
-        system_prompt: Optional[str] = None,
-        temperature: float = 0,
-        max_tokens: int = 1000,
-        functions: Optional[List[Dict]] = None,
-        function_call: Optional[Dict] = None
-    ) -> Dict:
+    def generate_response(self, prompt: str, system_prompt: Optional[str] = None, temperature: float = 0,
+        max_tokens: int = 1000, functions: Optional[List[Dict]] = None, function_call: Optional[Dict] = None) -> Dict: 
+        # returns a dictionary with the answer and the reasoning 
         messages = []
         if system_prompt:
             messages.append({"role": "system", "content": system_prompt})
@@ -215,12 +209,11 @@ class GoogleProvider(LLMProvider):
 
 def get_llm_provider(provider: str, model: Optional[str] = None, **kwargs) -> LLMProvider:
     """
-    Factory function to get the appropriate LLM provider.
+    Returns the corresponding LLM provider defined above 
     
-    Args:
-        provider: One of "openai", "runpod", "anthropic", "google"
-        model: Model name/identifier
-        **kwargs: Additional provider-specific arguments
+    provider: One of "openai", "runpod", "anthropic", "google"
+    model: Model name/identifier
+    **kwargs: Additional provider-specific arguments
     
     Returns:
         An instance of the requested LLM provider

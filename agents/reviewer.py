@@ -2,6 +2,7 @@ import os
 import json
 from base_agent import Agent
 from answer_schema import AnswerSchema
+from .llm_providers import get_llm_provider
 
 # Intitial Generator -> Reviewer -> Challenger Agent 
 # The Reviewer Agent is intended to "review" the initial generated solution. 

@@ -1,4 +1,5 @@
 import os
+import openai 
 import sys
 import glob
 from tqdm import tqdm
@@ -18,19 +19,17 @@ def run_pipeline(
     config: str,
     dataset_path: str,
     output_dir: str,
-    provider: str = "openai",
-    model: str = "gpt-4",
+    model: str = "llama-2-70b-chat",
     **kwargs
 ):
     """
     Run the pipeline on a dataset with the specified configuration.
     
     Args:
-        config: Pipeline configuration (B-0 to B-4)
+        config: Pipeline configuration (B-0 to B-3)
         dataset_path: Path to the dataset file
         output_dir: Directory to save results
-        provider: LLM provider to use
-        model: Model name/identifier
+        model: Llama model to use
         **kwargs: Additional provider-specific arguments
     """
     # Load environment variables
@@ -38,13 +37,13 @@ def run_pipeline(
     
     # Set up RAG if needed
     query_engine = None
-    if config in ["B-1", "B-3", "B-4"]:
+    if config in ["B-1", "B-3"]:
         query_engine = setup_rag()
     
-    # Initialize pipeline
+    
     pipeline = Pipeline(
         config=config,
-        provider=provider,
+        provider="runpod",
         model=model,
         query_engine=query_engine,
         **kwargs
@@ -75,20 +74,18 @@ def run_pipeline(
 
 def main():
     """Run the pipeline for all configurations and datasets"""
-    # Get all dataset files
-    dataset_files = glob.glob("data/question_sheets/*.csv")
+    # Get dataset file
+    dataset_file = "data/question_sheets/Asset.csv" 
+    dataset_files = [dataset_file]
     
     # Run each configuration
-    configs = ["B-0", "B-1", "B-2", "B-3", "B-4"]
-    providers = {
-        "openai": {"model": "gpt-4"},
-        "runpod": {
-            "model": "llama-2-70b-chat",
-            "endpoint": os.getenv("RUNPOD_ENDPOINT"),
-            "api_key": os.getenv("RUNPOD_API_KEY")
-        },
-        "anthropic": {"model": "claude-3-opus"},
-        "google": {"model": "gemini-pro"}
+    configs = ["B-0", "B-1", "B-2", "B-3"]
+    
+    # RunPod configuration
+    runpod_config = {
+        "model": "llama-2-70b-chat",
+        "endpoint": os.getenv("RUNPOD_ENDPOINT"),
+        "api_key": os.getenv("RUNPOD_API_KEY")
     }
     
     for dataset_file in dataset_files:
@@ -98,18 +95,16 @@ def main():
         print(f"\nProcessing dataset: {dataset_name}")
         
         for config in configs:
-            for provider, provider_kwargs in providers.items():
-                print(f"\nRunning {config} with {provider}")
-                try:
-                    run_pipeline(
-                        config=config,
-                        dataset_path=dataset_file,
-                        output_dir=output_dir,
-                        provider=provider,
-                        **provider_kwargs
-                    )
-                except Exception as e:
-                    print(f"Error running {config} with {provider}: {e}")
+            print(f"\nRunning {config} with RunPod Llama")
+            try:
+                run_pipeline(
+                    config=config,
+                    dataset_path=dataset_file,
+                    output_dir=output_dir,
+                    **runpod_config
+                )
+            except Exception as e:
+                print(f"Error running {config}: {e}")
 
 if __name__ == "__main__":
     main() 

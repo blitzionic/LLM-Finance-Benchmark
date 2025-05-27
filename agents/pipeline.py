@@ -4,7 +4,6 @@ from base_agent import Agent
 from .initial_generator import InitialGeneratorAgent
 from .reviewer import CriticReviewerAgent
 from .knowledge_researcher import KnowledgeResearcherAgent
-from .decider import ConsensusArbiterAgent
 
 class Pipeline:
     """
@@ -14,7 +13,6 @@ class Pipeline:
     B-1: RAG Retriever -> chunks + question -> Base Generator -> Answer
     B-2: Base Generator -> critic reviewer -> Answer
     B-3: RAG Retriever -> chunks + question -> Base Generator -> Critic Reviewer -> Answer
-    B-4: RAG Retriever -> Chunks + question -> Base Generator -> Critic Reviewer Comments -> Arbiter
     """
     
     def __init__(
@@ -28,13 +26,16 @@ class Pipeline:
         """
         Initialize the pipeline with the specified configuration and LLM provider.
         
-        Args:
-            config: One of "B-0", "B-1", "B-2", "B-3", "B-4"
+        Args: 
+            config: One of "B-0", "B-1", "B-2", "B-3" 
             provider: LLM provider to use ("openai", "runpod", "anthropic", "google")
             model: Model name/identifier
             query_engine: Optional RAG query engine for knowledge retrieval
             **kwargs: Additional provider-specific arguments
         """
+        if config not in ["B-0", "B-1", "B-2", "B-3"]:
+            raise ValueError("Config must be one of: B-0, B-1, B-2, B-3")
+            
         self.config = config
         self.provider = provider
         self.model = model
@@ -47,27 +48,20 @@ class Pipeline:
             **kwargs
         )
         
-        if config in ["B-2", "B-3", "B-4"]:
+        if config in ["B-2", "B-3"]:
             self.critic_reviewer = CriticReviewerAgent(
                 provider=provider,
                 model=model,
                 **kwargs
             )
             
-        if config in ["B-1", "B-3", "B-4"]:
+        if config in ["B-1", "B-3"]:
             if not query_engine:
-                raise ValueError("Query engine required for configurations B-1, B-3, and B-4")
+                raise ValueError("Query engine required for configurations B-1 and B-3")
             self.knowledge_researcher = KnowledgeResearcherAgent(
                 provider=provider,
                 model=model,
                 query_engine=query_engine,
-                **kwargs
-            )
-            
-        if config == "B-4":
-            self.arbiter = ConsensusArbiterAgent(
-                provider=provider,
-                model=model,
                 **kwargs
             )
     
@@ -142,35 +136,6 @@ class Pipeline:
                 "reviewed_reasoning": review.get("reasoning"),
                 "critique": review.get("critique"),
                 "evidence": evidence
-            })
-            
-        # B-4: Full pipeline with Arbiter
-        elif self.config == "B-4":
-            evidence = self.knowledge_researcher.retrieve_evidence(question)
-            initial_response = self.initial_generator.process_question(
-                question,
-                context=evidence
-            )
-            review = self.critic_reviewer.review_answer(
-                question,
-                initial_response.get("answer"),
-                initial_response.get("reasoning")
-            )
-            final_decision = self.arbiter.make_decision(
-                question,
-                initial_response,
-                review,
-                evidence
-            )
-            result.update({
-                "initial_answer": initial_response.get("answer"),
-                "initial_reasoning": initial_response.get("reasoning"),
-                "reviewed_answer": review.get("answer"),
-                "reviewed_reasoning": review.get("reasoning"),
-                "critique": review.get("critique"),
-                "evidence": evidence,
-                "final_answer": final_decision.get("answer"),
-                "final_reasoning": final_decision.get("reasoning")
             })
             
         return result 

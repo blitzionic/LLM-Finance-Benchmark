@@ -17,7 +17,7 @@ class Agent(ABC):
     ):
         """
         Initialize the agent with the specified LLM provider.
-        
+    
         Args:
             provider: One of "openai", "runpod", "anthropic", "google"
             model: Model name/identifier
