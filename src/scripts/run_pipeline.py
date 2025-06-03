@@ -7,13 +7,8 @@ import pandas as pd
 from dotenv import load_dotenv
 from llama_index import StorageContext, load_index_from_storage
 from agents.pipeline import Pipeline
+from RAG import get_query_engine
 from utils import calculate_score
-
-def setup_rag():
-    """Set up the RAG query engine"""
-    storage_context = StorageContext.from_defaults(persist_dir="storage")
-    index = load_index_from_storage(storage_context)
-    return index.as_query_engine()
 
 def run_pipeline(
     config: str,
@@ -38,7 +33,7 @@ def run_pipeline(
     # Set up RAG if needed
     query_engine = None
     if config in ["B-1", "B-3"]:
-        query_engine = setup_rag()
+        query_engine = get_query_engine() 
     
     
     pipeline = Pipeline(
