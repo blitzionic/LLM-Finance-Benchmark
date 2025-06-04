@@ -6,7 +6,7 @@ from llama_index.core import (
     SimpleDirectoryReader,
     StorageContext,
     Settings,
-    load_index_from_storage
+    load_index_from_storage,
 )
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.openai import OpenAI
@@ -33,7 +33,7 @@ def build_index(documents_dir: str, persist_dir: str = "storage"):
     
     print(f"Loading documents from {documents_dir}")
     
-    # Load documents with progress bar
+    # Load and clean documents
     documents = SimpleDirectoryReader(documents_dir).load_data()
     print(f"Loaded {len(documents)} documents")
     
@@ -53,7 +53,7 @@ def build_index(documents_dir: str, persist_dir: str = "storage"):
         index = GPTVectorStoreIndex.from_documents(
             documents, 
             embed_model=embed_model,
-            show_progress=True
+            show_progress=True,
         )
     
     # Persist index
