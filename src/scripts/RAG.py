@@ -9,7 +9,6 @@ from llama_index.core import (
     load_index_from_storage,
 )
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.llms.openai import OpenAI
 from dotenv import load_dotenv
 from tqdm import tqdm
 
@@ -78,7 +77,7 @@ def get_query_engine(persist_dir: str = "storage"):
     # Create query engine for retrieval only
     query_engine = index.as_query_engine(
         embed_model = HuggingFaceEmbedding(model_name="all-MiniLM-L6-v2"), 
-        similarity_top_k = 5
+        similarity_top_k = 3
     )
     
     return query_engine
