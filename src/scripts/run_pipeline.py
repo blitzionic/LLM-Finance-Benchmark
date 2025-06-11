@@ -1,18 +1,17 @@
 import os
-import openai 
 import sys
 import glob
 import argparse
 from tqdm import tqdm
 import pandas as pd
 from dotenv import load_dotenv
+from typing import List, Dict, Optional
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 from agents.pipeline import Pipeline
 from RAG import get_query_engine
 
-# example: gpt-4o-mini, B-1, runs through all agent configuration
 def run_pipeline(config: str, dataset_path: str, output_dir: str, model: str = "llama-2-70b-chat", **kwargs):
     """
     Run the pipeline on a dataset with the specified configuration.
@@ -36,7 +35,7 @@ def run_pipeline(config: str, dataset_path: str, output_dir: str, model: str = "
     
     # set up RAG if needed
     query_engine = None
-    if config in ["B-1", "B-3"]:
+    if config in ["B-3"]:
         query_engine = get_query_engine() 
     
     # Remove provider from kwargs since it's already in the config
@@ -65,6 +64,7 @@ def run_pipeline(config: str, dataset_path: str, output_dir: str, model: str = "
         D) {row['D']}
         """
         result = pipeline.process(question_text)
+        # adds ground truth to the result
         result["ground_truth"] = row["answer"]
         results.append(result)
     
@@ -104,7 +104,7 @@ def get_provider_config(provider: str, model: str = None) -> dict:
         "openai": ["gpt-4o-mini", "gpt-4-turbo", "gpt-3.5-turbo"],
         "runpod": ["llama-2-70b-chat", "llama-2-13b-chat", "llama-2-7b-chat"],
         "anthropic": ["claude-3-opus-20240229", "claude-3-sonnet-20240229", "claude-3-haiku-20240307"],
-        "google": ["gemini-pro", "gemini-pro-vision"]
+        "google": ["gemini-2.0-flash-lite", "gemini-2.0-flash", "gemini-pro", "gemini-pro-vision"]
     }
     
     if provider not in available_models:
@@ -135,6 +135,7 @@ def get_provider_config(provider: str, model: str = None) -> dict:
 
 def main():
     """Run the pipeline for all configurations and datasets"""
+    # example: python run_pipeline.py --provider openai --model gpt-4o-mini --config B-0
 
     parser = argparse.ArgumentParser(description="Run the pipeline with different LLM providers")
     parser.add_argument(
@@ -152,7 +153,7 @@ def main():
     parser.add_argument(
         "--config",
         type=str,
-        choices=["B-0", "B-1", "B-2", "B-3", "all"],
+        choices=["B-0", "B-2", "B-3", "all"],
         default="all",
         help="Which configuration to run (B-0 to B-3, or 'all' for all configurations)"
     )
@@ -201,7 +202,7 @@ def main():
     
     # Determine which configs to run
     if args.config == "all":
-        configs = ["B-0", "B-1", "B-2", "B-3"]
+        configs = ["B-0", "B-2", "B-3"]
     else:
         configs = [args.config]
     

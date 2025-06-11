@@ -5,8 +5,8 @@ The decider agent aggregates candidate answers and their reasoning, and selects 
 
 import os
 import json
-from base_agent import Agent
-from answer_schema import AnswerSchema
+from .base_agent import Agent
+from .pyd_schema import AnswerSchema
 
 FUNCTION_SCHEMA = {
     "name": "decide_final_answer",
@@ -29,9 +29,9 @@ FUNCTION_SCHEMA = {
 }
 
 class ConsensusArbiterAgent(Agent):
-    def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="config/topic_roles.json"):
+    def __init__(self, model, provider, api_key=None):
         self.role_description = "You are a senior financial QA evaluator, combining critical review and research evidence to decide the final answer."
-        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=None)
+        super().__init__(model=model, provider=provider, function_schema=FUNCTION_SCHEMA, pyd_model=None, api_key=api_key)
     
     def system_prompt(self):
         return (

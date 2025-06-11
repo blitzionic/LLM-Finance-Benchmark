@@ -1,39 +1,13 @@
 import os
 import json
-from base_agent import Agent
-from answer_schema import AnswerSchema
-from .llm_providers import get_llm_provider
+from .base_agent import Agent
+from .pyd_schema import AnswerSchema
 
-# Intitial Generator -> Reviewer -> Challenger Agent 
-# The Reviewer Agent is intended to "review" the initial generated solution. 
-# It reviews the solution returns its own answer. 
-
-FUNCTION_SCHEMA = {
-    "name": "generate_answer",
-    "description": "Generate a candidate answer along with a brief explanation. The candidate answer must be one letter among A, B, C, or D.",
-    "parameters": {
-        "type": "object",
-        "properties": {
-            "answer": {
-                "type": "string",
-                "enum": ["A", "B", "C", "D"],
-                "description": "The candidate answer, which must be one letter: A, B, C, or D."
-            },
-            "reasoning": {
-                "type": "string",
-                "description": "A brief explanation of the reasoning behind the chosen answer."
-            },
-            "critique": {
-                "type": "string",
-                "description": "A critique of the initial answer, highlighting strengths and weaknesses."
-            }
-        },
-        "required": ["answer", "reasoning", "critique"]
-    }
-}
+# Initial Generator -> Reviewer -> Initial Generator (with feedback)
+# The Reviewer Agent is intended to "review" the initial generated solution and provide feedback only.
 
 class CriticReviewerAgent(Agent):
-    def __init__(self, topic, model="gpt-4o-mini", topic_roles_json="topic_roles.json"):
+    def __init__(self, model, provider, api_key=None, topic_roles_json="topic_roles.json"):
         if os.path.exists(topic_roles_json):
             with open(topic_roles_json, 'r', encoding='utf-8') as f:
                 roles = json.load(f) 
@@ -41,39 +15,32 @@ class CriticReviewerAgent(Agent):
             roles = {}
             print(f"Warning: {topic_roles_json} not found. Using default role.")
             
-        self.topic = topic 
-        self.role_description = roles.get(topic.lower(), "")
-        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=AnswerSchema)
+        self.role_description = roles.get("default", "")
+        # No function schema needed - just return string feedback
+        super().__init__(model=model, provider=provider, function_schema=None, pyd_model=None, api_key=api_key)
     
     def system_prompt(self):
         return (
             f"{self.role_description}\n"
-            "You are a strict critic. Evaluate the given solution for accuracy and correctness. "
-            "Identify any gaps in reasoning or potential errors, then select the correct answer (A, B, C, or D) and explain your reasoning."
+            "You are a strict critic focused on evaluating answers. Your role is to:\n"
+            "1. Identify strengths in the reasoning and answer\n"
+            "2. Point out weaknesses and gaps in the logic\n"
+            "3. Provide specific suggestions for improvement\n"
+            "4. Do NOT provide your own answer - focus solely on critique\n"
+            "Be thorough, specific, and constructive in your feedback."
         )
     
     def review_answer(self, question, initial_answer, initial_reasoning):
-        """
-        Review the initial answer and provide a critique and improved answer.
-        
-        Args:
-            question: The original question
-            initial_answer: The initial answer to review
-            initial_reasoning: The reasoning behind the initial answer
-            
-        Returns:
-            Dict containing:
-            - answer: The reviewed answer (A, B, C, or D)
-            - reasoning: The reasoning behind the reviewed answer
-            - critique: A critique of the initial answer
-        """
+        """Review the initial answer and provide detailed feedback"""
         prompt = (
-            "Review the question and the initial answer thoroughly. "
-            "Assess its strengths and weaknesses, and then determine provide an improved answer with better reasoning if applicable. "
-            "Select the best final answer and provide your reasoning.\n"
+            "Review the following question and answer thoroughly. Provide a detailed critique focusing on:\n"
+            "1. What aspects of the answer and reasoning are strong?\n"
+            "2. What are the weaknesses or gaps in the logic?\n"
+            "3. What specific improvements could be made?\n\n"
             f"Original Question: {question}\n"
             f"Initial Answer: {initial_answer}\n"
-            f"Initial Reasoning: {initial_reasoning}"
+            f"Initial Reasoning: {initial_reasoning}\n\n"
+            "Provide your critique in a clear, constructive manner."
         )
         response = self.generate_response(prompt)
         return response

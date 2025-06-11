@@ -27,10 +27,11 @@ class LLMProvider(ABC):
 class OpenAIProvider(LLMProvider):
     """OpenAI API provider"""
     
-    def __init__(self, model: str = "gpt-4o-mini"):
+    def __init__(self, model: str, api_key: str):
         self.model = model
-        self.client = OpenAIClient(api_key=os.getenv("OPENAI_API_KEY"))
+        self.client = OpenAIClient(api_key=api_key)
     
+    # called in each agent class
     def generate_response(self, prompt: str, system_prompt: Optional[str] = None, temperature: float = 0,
         max_tokens: int = 1000, functions: Optional[List[Dict]] = None, function_call: Optional[Dict] = None) -> Dict: 
         # returns a dictionary with the answer and the reasoning 
@@ -54,8 +55,14 @@ class OpenAIProvider(LLMProvider):
         response = self.client.chat.completions.create(**kwargs)
         message = response.choices[0].message
         
-        if hasattr(message, 'function_call'):
-            return json.loads(message.function_call.arguments)
+        # Handle function call response
+        if hasattr(message, 'function_call') and message.function_call is not None:
+            try:
+                return json.loads(message.function_call.arguments)
+            except (json.JSONDecodeError, AttributeError):
+                return {"answer": message.content}
+        
+        # Handle regular text response
         return {"answer": message.content}
 
 class RunPodLlamaProvider(LLMProvider):
@@ -73,15 +80,8 @@ class RunPodLlamaProvider(LLMProvider):
         if not self.api_key or not self.endpoint:
             raise ValueError("RunPod API key and endpoint must be provided")
     
-    def generate_response(
-        self,
-        prompt: str,
-        system_prompt: Optional[str] = None,
-        temperature: float = 0,
-        max_tokens: int = 1000,
-        functions: Optional[List[Dict]] = None,
-        function_call: Optional[Dict] = None
-    ) -> Dict:
+    def generate_response(self, prompt: str, system_prompt: Optional[str] = None, temperature: float = 0, max_tokens: int = 1000,
+        functions: Optional[List[Dict]] = None, function_call: Optional[Dict] = None) -> Dict:
         # Format the prompt according to Llama chat format
         messages = []
         if system_prompt:
@@ -165,28 +165,34 @@ class AnthropicProvider(LLMProvider):
 class GoogleProvider(LLMProvider):
     """Google Gemini provider"""
     
-    def __init__(self, model: str = "gemini-pro"):
+    def __init__(self, model: str = "gemini-pro", api_key: Optional[str] = None):
         self.model = model
-        self.api_key = os.getenv("GOOGLE_API_KEY")
+        self.api_key = api_key or os.getenv("GOOGLE_API_KEY")
         if not self.api_key:
             raise ValueError("Google API key must be provided")
     
-    def generate_response(
-        self,
-        prompt: str,
-        system_prompt: Optional[str] = None,
-        temperature: float = 0,
-        max_tokens: int = 1000,
-        functions: Optional[List[Dict]] = None,
-        function_call: Optional[Dict] = None
-    ) -> Dict:
+    def generate_response(self, prompt: str, system_prompt: Optional[str] = None, temperature: float = 0, max_tokens: int = 1000,
+        functions: Optional[List[Dict]] = None, function_call: Optional[Dict] = None) -> Dict:
         import google.generativeai as genai
+        import re
         
         genai.configure(api_key=self.api_key)
         model = genai.GenerativeModel(self.model)
         
-        # Combine system prompt and user prompt if system prompt exists
-        full_prompt = f"{system_prompt}\n\n{prompt}" if system_prompt else prompt
+        # If functions are provided, modify the prompt to request structured output
+        if functions:
+            function_schema = functions[0]  # We only use one function schema
+            full_prompt = (
+                f"{system_prompt}\n\n{prompt}\n\n"
+                "IMPORTANT: Your response must be in this exact format:\n"
+                "{\n"
+                '  "answer": "A",  # Must be exactly one of: A, B, C, or D\n'
+                '  "reasoning": "Your explanation here"\n'
+                "}\n"
+                "Do not include any other text or formatting."
+            )
+        else:
+            full_prompt = f"{system_prompt}\n\n{prompt}" if system_prompt else prompt
         
         response = model.generate_content(
             full_prompt,
@@ -201,9 +207,27 @@ class GoogleProvider(LLMProvider):
         # If functions were requested, try to parse the response as JSON
         if functions:
             try:
-                return json.loads(content)
-            except json.JSONDecodeError:
-                return {"answer": content}
+                # First try to find JSON in the response
+                json_match = re.search(r'\{[\s\S]*\}', content)
+                if json_match:
+                    json_str = json_match.group(0)
+                    parsed = json.loads(json_str)
+                    # Ensure answer is one of A, B, C, D
+                    if parsed.get("answer") in ["A", "B", "C", "D"]:
+                        return parsed
+            except (json.JSONDecodeError, AttributeError):
+                pass
+            
+            # If JSON parsing fails, try to extract just the answer letter
+            answer_match = re.search(r'[A-D]', content)
+            if answer_match:
+                return {
+                    "answer": answer_match.group(0),
+                    "reasoning": content
+                }
+            
+            # If all else fails, return the raw content
+            return {"answer": content}
         
         return {"answer": content}
 

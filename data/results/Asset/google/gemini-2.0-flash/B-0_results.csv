@@ -1,0 +1,479 @@
+question_gemini-2.0-flash_B-0,config_gemini-2.0-flash_B-0,answer_gemini-2.0-flash_B-0,reasoning_gemini-2.0-flash_B-0,ground_truth_gemini-2.0-flash_B-0
+"
+        On December 31, Strike Company sold one of its batting cages for $55,000. The equipment had an initial cost of $310,000 and has accumulated depreciation of $260,000. Depreciation has been taken up to the end of the year. What is the amount of the gain or loss on this transaction?
+
+
+        A) $10,000 loss
+        B) $5,000 gain
+        C) $5,000 loss
+        D) $10,000 gain
+        ",B-0,B,"To determine the gain or loss on the sale, we need to calculate the book value of the asset and compare it to the selling price. The book value is the initial cost minus accumulated depreciation: $310,000 (initial cost) - $260,000 (accumulated depreciation) = $50,000 (book value). The selling price was $55,000. Therefore, the gain is $55,000 (selling price) - $50,000 (book value) = $5,000. Since the selling price is higher than the book value, there is a gain.",B
+"
+        Merchandise Inventory is reported on the balance sheet in the section entitled:
+
+
+        A) current liabilities
+        B) plant assets
+        C) current assets
+        D) owner's equity
+        ",B-0,C,"Merchandise inventory represents goods held for sale to customers in the ordinary course of business. These goods are expected to be sold within a relatively short period (usually within a year or the operating cycle, whichever is longer). Therefore, merchandise inventory is classified as a current asset on the balance sheet. Current assets are assets that are expected to be converted into cash or used up within one year or the operating cycle, whichever is longer. Options A, B, and D are incorrect because merchandise inventory does not represent a liability, a plant asset, or owner's equity.",C
+"
+        A company has the following assets and liabilities:
+
+Cash at bank: $27,400
+Accounts payable: $20,400
+Inventory: $22,700
+Accumulated depreciation: $17,200
+Accounts receivable: $16,600
+Mortgage payable: $115,000
+Equipment (cost): $124,000
+Dividends: $8,600
+Net Assets would be:
+        A) $46,700
+        B) $38,100
+        C) $29,500
+        D) $53,300
+        ",B-0,A,"Net Assets = Total Assets - Total Liabilities. First, calculate total assets: Cash ($27,400) + Inventory ($22,700) + Accounts Receivable ($16,600) + Equipment (Cost) ($124,000) - Accumulated Depreciation ($17,200) = $173,500. Then, calculate total liabilities: Accounts Payable ($20,400) + Mortgage Payable ($115,000) = $135,400. Finally, Net Assets = $173,500 - $135,400 = $38,100. Dividends are a distribution of equity, not a liability. Therefore, the answer is B. I made a calculation error in my initial assessment. The correct calculation is $173,500 - $135,400 = $38,100. The correct answer is B.",B
+"
+        Classify a building as one of the following.
+        A) current asset
+        B) intangible asset
+        C) tangible asset
+        D) investments
+        ",B-0,C,"A building is a physical object that can be touched and seen. Therefore, it is a tangible asset. Current assets are expected to be converted to cash within a year. Intangible assets lack physical substance. Investments are assets held for capital appreciation or income.",C
+"
+        Why are some intangible assets amortized and others are not?
+        A) Because all intangible assets must be amortized over their legal life
+        B) Because finite-lived intangible assets are amortized, while indefinite-lived intangible assets are not
+        C) Because intangible assets with physical substance are amortized, while others are not
+        D) Because indefinite-lived intangible assets are amortized, while finite-lived intangible assets are not
+        ",B-0,B,"Intangible assets are amortized to reflect the consumption of their economic benefits over time. Finite-lived intangible assets have a defined useful life, so their cost is systematically allocated over that period through amortization. Indefinite-lived intangible assets, on the other hand, are not amortized because their useful life is not limited. Instead, they are tested for impairment annually to determine if their fair value has declined below their carrying amount. Options A, C, and D are incorrect because they do not accurately reflect the accounting treatment of intangible assets.",B
+"
+        Sloan Company uses its own executive charter plane that originally cost $800,000. It has recorded straight-line depreciation on the plane for six full years, with an $80,000 expected salvage value at the end of its estimated 10-year useful life. Sloan disposes of the plane at the end of the sixth year. What is the (1) accumulated depreciation and (2) net book value of the plane?
+        A) Accumulated depreciation: $432,000; Net book value: $368,000
+        B) Accumulated depreciation: $432,000; Net book value: $80,000
+        C) Accumulated depreciation: $72,000; Net book value: $728,000
+        D) Accumulated depreciation: $368,000; Net book value: $432,000
+        ",B-0,A,"First, calculate the annual depreciation expense: ($800,000 - $80,000) / 10 years = $72,000 per year. Then, calculate the accumulated depreciation after six years: $72,000/year * 6 years = $432,000. Finally, calculate the net book value: $800,000 (original cost) - $432,000 (accumulated depreciation) = $368,000.",A
+"
+        A company reported total equity of $146,000 on its December 31, 2008, balance sheet. The following information is available for the year ended December 31, 2009:
+
+2009 Revenues	$210,000
+2009 Expenses	179,000
+Liabilities, at December 31, 2009	97,000
+What are the total assets of the company at December 31, 2009?
+        A) $389,000.00
+        B) $177,000.00
+        C) $128,000.00
+        D) $274,000.00
+        ",B-0,D,"We can use the accounting equation: Assets = Liabilities + Equity. First, we need to calculate the equity at the end of 2009. The beginning equity was $146,000. The net income for 2009 is Revenues - Expenses = $210,000 - $179,000 = $31,000. Assuming no other changes to equity (like dividends or stock issuances), the ending equity is $146,000 + $31,000 = $177,000. Now we can calculate the total assets at the end of 2009: Assets = Liabilities + Equity = $97,000 + $177,000 = $274,000.",D
+"
+        The difference between an asset's cost and its accumulated depreciation is called
+        A) market value
+        B) fair value
+        C) book value
+        D) real value
+        ",B-0,C,"The book value of an asset is calculated by subtracting the accumulated depreciation from the original cost of the asset. Market value is what the asset could be sold for, fair value is a rational and unbiased estimate of the potential market price of a good, service, or asset, and real value is an economic term that adjusts nominal values for inflation.",C
+"
+        Listed below are year-end account balances ($ in millions) taken from the records of Symphony Stores.
+
+Debit	Credit
+Accounts receivable	$ 678	
+Building and equipment	934	
+Cash	49	
+Interest receivable	46	
+Inventory	17	
+Land	164	
+Notes receivable (long-term)	484	
+Prepaid rent	37	
+Supplies	10	
+Trademark	54	
+Accounts payable		$ 676
+Accumulated depreciation		79
+Additional paid-in capital		483
+Dividends payable		21
+Common stock (at par)		13
+Income tax payable		64
+Notes payable (long-term)		805
+Retained earnings		296
+Deferred revenue		36
+TOTALS	$ 2,473	$ 2,473
+What would Symphony report as total assets?
+        A) $2,394 million
+        B) $2,473 million
+        C) $2,473 million (net of accumulated depreciation)
+        D) $2,315 million
+        ",B-0,A,"Total assets are the sum of all debit balances representing assets. These include: Accounts receivable ($678), Building and equipment ($934), Cash ($49), Interest receivable ($46), Inventory ($17), Land ($164), Notes receivable (long-term) ($484), Prepaid rent ($37), Supplies ($10), and Trademark ($54). We must subtract accumulated depreciation from the building and equipment. Therefore, the calculation is: $678 + $934 + $49 + $46 + $17 + $164 + $484 + $37 + $10 + $54 - $79 = $2394. Therefore, the total assets are $2,394 million.",A
+"
+        IPOD Corporation's end-of-year balance sheet consisted of the following amounts.
+
+Cash	$250,000	Accounts receivable	$500,000
+Property, plant & equipment	900,000	Long-term debt	$300,000
+Capital stock	1,200,000	Accounts payable	$100,000
+Retained earnings	?	Inventory	450,000
+What amount should IPOD report on in the balance sheet for total assets?
+        A) $2,000,000
+        B) $2,550,000
+        C) $2,100,000
+        D) $1,900,000
+        ",B-0,C,"The total assets are the sum of all assets listed on the balance sheet. In this case, that's Cash + Accounts Receivable + Property, Plant & Equipment + Inventory = $250,000 + $500,000 + $900,000 + $450,000 = $2,100,000.",C
+"
+        Distinguish between Current and Non-Current Assets, giving four examples of each.
+        A) Current assets are liquidated within a year, while non-current assets are held for more than a year. Examples:
+
+Current Assets: Cash, inventory, accounts receivable, prepaid expenses.
+Non-Current Assets: Equipment, land, copyrights, patents.
+        B) Current assets are tangible, while non-current assets are intangible. Examples:
+
+Current Assets: Cash, machinery, buildings, inventory.
+Non-Current Assets: Patents, trademarks, prepaid rent, accounts receivable.
+        C) Current assets depreciate over time, while non-current assets do not. Examples:
+
+Current Assets: Inventory, accounts receivable, cash, notes payable.
+Non-Current Assets: Land, copyrights, accounts payable, machinery.
+        D) Current assets are resources purchased for long-term operations, while non-current assets are for short-term needs. Examples:
+
+Current Assets: Equipment, land, cash, inventory.
+Non-Current Assets: Prepaid expenses, patents, accounts receivable, trademarks.
+        ",B-0,A,"Current assets are those expected to be converted to cash or used up within one year or the operating cycle, whichever is longer. Non-current assets are those expected to benefit the company for more than one year. Option A correctly defines current and non-current assets and provides appropriate examples. Cash, inventory, accounts receivable, and prepaid expenses are all current assets. Equipment, land, copyrights, and patents are all non-current assets. Option B is incorrect because current assets are not always tangible, and non-current assets are not always intangible. Option C is incorrect because not all current assets depreciate, and some non-current assets do depreciate (e.g., equipment). Option D has the definitions reversed.",A
+"
+        A machine costing $171,600 was destroyed when it caught fire. At the date of the fire, the accumulated depreciation on the machine was $84,000. An insurance check for $203,800 was received based on the replacement cost of the machine. The entry to record the insurance proceeds and the disposition of the machine will include a:
+        A) gain on disposal of $116,200.
+        B) credit to the Equipment account for $119,800.
+        C) gain on disposal of $32,200.
+        D) credit to the Accumulated Depreciation account for $84,000.
+        ",B-0,A,"Here's the step-by-step reasoning:
+1. **Calculate the book value of the machine:** The book value is the original cost minus accumulated depreciation.  $171,600 (original cost) - $84,000 (accumulated depreciation) = $87,600.
+2. **Calculate the gain or loss on disposal:** This is the difference between the insurance proceeds received and the book value of the asset. $203,800 (insurance proceeds) - $87,600 (book value) = $116,200.
+3. **Determine the journal entry components:**
+    *   Debit Cash for $203,800 (insurance proceeds received).
+    *   Debit Accumulated Depreciation for $84,000 (to remove the accumulated depreciation).
+    *   Credit Equipment for $171,600 (to remove the asset from the books).
+    *   Credit Gain on Disposal for $116,200 (the calculated gain).
+
+Therefore, the entry will include a gain on disposal of $116,200.",A
+"
+        Gains on the cash sales of fixed assets
+        A) are the excess of the book value over the cash proceeds.
+        B) are part of cash flows from operations.
+        C) are reported on a net-of-tax basis if material.
+        D) are the excess of the cash proceeds over the book value of the assets sold.
+        ",B-0,D,"A gain on the sale of a fixed asset occurs when the cash proceeds received from the sale exceed the asset's book value (original cost less accumulated depreciation). Option A describes a loss, not a gain. Option B is incorrect because gains and losses on the sale of fixed assets are typically classified as investing activities, not operating activities. Option C is generally true for income statement presentation, but the question specifically asks about the *gain* itself, not its reporting treatment. Option D accurately describes the calculation of a gain: Cash Proceeds - Book Value.",D
+"
+        Which one of the following types of assets should not be classified as property, plant, and equipment?
+        A) Idle land and buildings.
+        B) Leasehold improvements.
+        C) Fully-depreciated building (still in use).
+        D) Long-lived tangible assets.
+        ",B-0,D,"Property, plant, and equipment (PP&E) are tangible assets that are held for use in production or supply of goods or services, for rental to others, or for administrative purposes; and are expected to be used during more than one period. Options A, B, and C all fit this description. Idle land and buildings are still tangible assets held for potential future use. Leasehold improvements are capital improvements made to leased property. A fully depreciated building still in use is still a tangible asset used in operations. Option D, 'Long-lived tangible assets,' is too broad. While PP&E are long-lived tangible assets, not all long-lived tangible assets are PP&E. For example, land held for speculation is a long-lived tangible asset, but it is classified as an investment property, not PP&E. Therefore, D is the best answer because it is too broad of a category.",D
+"
+        Which one of these is a correct definition?
+        A) Net working capital equals current assets plus current liabilities.
+        B) Current liabilities are debts that must be repaid in 18 months or less.
+        C) Current assets are assets with short lives, such as accounts receivable.
+        D) Long-term debt is defined as a residual claim on a firm's assets.
+        ",B-0,C,"Let's analyze each option:
+
+A) Net working capital equals current assets *minus* current liabilities. So, this is incorrect.
+
+B) Current liabilities are debts that must be repaid in 12 months or less, not 18 months. So, this is incorrect.
+
+C) Current assets are assets expected to be converted to cash or used up within one year. Accounts receivable fits this definition as they are expected to be collected within a short period. This is correct.
+
+D) Long-term debt is not a residual claim. Equity is the residual claim on a firm's assets after all debts (including long-term debt) are paid. So, this is incorrect.
+
+Therefore, the correct definition is C.",C
+"
+        How is the Return on Assets (ROA) calculated?
+        A) Net Income÷Average Total Liabilities
+        B) Net Income÷Average Total Assets
+        C) Net Income×Total Revenue
+        D) Net Income÷Total Equity
+        ",B-0,B,"Return on Assets (ROA) is a financial ratio that shows the percentage of profit a company earns relative to its total assets. It is calculated by dividing net income by average total assets. Therefore, the correct answer is B.",B
+"
+        If a fixed asset with an original cost of $18,000 and accumulated depreciation of $2,000 is sold for $15,000, the company must:
+        A) recognize a loss on the income statement under other expenses.
+        B) recognize a loss on the income statement under operating expenses.
+        C) recognize a gain on the income statement under other revenues.
+        D) Gains and losses are not to be recognized upon the sell of fixed assets.
+        ",B-0,,,A
+"
+        The following data came from the balance sheet of Han Company as of December 31, 20X2.
+
+Machine	$3,500	$2,950
+Accumulated depreciation on machines	1,400	1,300
+Cash	135	180
+The following additional data were found in Han Company's financial statements for 20X2.
+
+Sales	$10,000
+Cash dividends paid	65
+New machine purchases (for cash)	1,000
+Net income	300
+Depreciation expense	270
+Gain on sale of old machines	140
+How much cash did Han Company receive from the sale of old machines during the year? (Assume that all machine sales were cash transactions.)
+        A) $210
+        B) $420
+        C) $490
+        D) $590
+        ",B-0,,,B
+"
+        Sunday Company reports the following information on December 31, 2014:
+
+Cash	$20,000
+Accounts receivable	112,000
+Accounts payable	91,000
+Accrued wages payable	6,000
+Unearned revenue	2,000
+Paid-in capital	59,000
+Retained earnings	80,000
+Inventory	30,000
+Prepaid rent	4,000
+Equipment (net)	12,000
+What are total assets at December 31, 2014?
+        A) {eq}\$178,000 {/eq}.
+        B) {eq}\$162,000 {/eq}.
+        C) {eq}\$180,000 {/eq}.
+        D) {eq}\$166,000 {/eq}.
+        ",B-0,,,A
+"
+        A company purchased a basket of assets for a lump sum payment of $73,000. However the appraised values for property, plant and equipment were $50,000, $40,000 and $10,000, respectively. Therefore, the journal entry to record the purchase includes:
+        A) a debit to equipment of $7,300
+        B) None of the available choices.
+        C) a debit to long-term assets of $100,000
+        D) a debit to equipment of $10,000
+        ",B-0,,,A
+"
+        Link's Emporium decides to sell an old truck. The balance in the accumulated depreciation account related to this truck after its disposal would be:
+        A) zero
+        B) the cost of disposed asset
+        C) the amount of cash received from sale
+        D) the profit or loss resulting from the sale of the asset
+        ",B-0,,,A
+"
+        Which financial statement would contain the following account balance: Gain on disposal of equipment?
+        A) Balance Sheet
+        B) Income Statement
+
+
+        C) Statement of Owners' Equity
+        D) Cash Flow Statement
+        ",B-0,,,B
+"
+        Ace Corporation sold equipment for $12,000. The equipment had an original cost of $36,000 and accumulated depreciation of $18,000. As a result of the sale,
+        A) net income will increase by $12,000.
+        B) net income will increase by $6,000.
+        C) net income will decrease by $6,000.
+        D) net income will decrease by $12,000.
+        ",B-0,,,C
+"
+         car that originally cost $12,000, with $9,000 of accumulated depreciation recorded, was disposed of for $2,000 cash on January 1. The entry to record this event would include a:
+        A) Gain on car disposal of $1,000
+        B) Loss on car disposal of $1,000
+        C) Debit to the car account for $2,000
+        D) Credit to the accumulated depreciation account for $2,000
+        ",B-0,,,B
+"
+        On January 1,2011, Pizza Notra purchased a van for $45,000. Red Rock expects the van to have a useful life of 5 years and a residual value of $5,500. The depreciation method used was straight-line. On December 31,2014, the van was sold for $15,000 cash.
+
+What was the carrying amount of the van at the date of sale?
+        A) $45,000
+        B) $13,400
+        C) 15,000
+        D) $16,600
+        ",B-0,,,B
+"
+        Which ONE of the following is part of the journal entry when recording the sale of a building for cash?
+        A) Debit to Building
+        B) Debit to Accumulated Depreciation
+        C) Debit to Gain
+        D) Debit to Cost of Goods Sold
+        ",B-0,,,B
+"
+        Which of the following is not an asset?
+        A) Inventory.
+        B) Owner's equity.
+        C) Investments.
+        D) Cash.
+        ",B-0,,,B
+"
+        On December 31, 2013, Braun Corporation’s accounting records include the following:
+
+Accounts Payable: $15,000
+Accounts Receivable: $33,000
+Land: $238,000
+Cash: $64,000
+Capital Stock: ?
+Equipment: $118,000
+Building: $178,000
+Notes Payable: $188,000
+Retained Earnings: $158,000
+What is the total amount of Braun Corporation’s assets on December 31, 2013?
+        A) $601,000
+        B) $631,000
+        C) $651,000
+        D) $598,000
+        ",B-0,,,B
+"
+        Which of the following assets is eligible for bonus depreciation?
+        A) used office machinery.
+        B) qualified leasehold improvements.
+        C) a new delivery truck.
+        D) used office furniture.
+        ",B-0,,,C
+"
+        _____ refers to converting a noncash item to cash, for example, collecting an account receivable.
+        A) Actualization
+        B) Recognition
+        C) Realization
+        D) Materialization
+        ",B-0,,,C
+"
+        The classified balance sheet will show which asset subsections?
+        A) current assets and property, plant, and equipment
+        B) other revenues and property, plant, and equipment
+        C) current assets and other equity
+        D) current liabilities and short-term assets
+        ",B-0,,,A
+"
+        All of the following assets will be included as intangible assets on the balance sheet except:
+        A) goodwill.
+        B) investments.
+        C) copyrights.
+        D) patents.
+        ",B-0,,,B
+"
+        What ratio is used to measure the profit earned on each dollar invested in a firm?
+        A) Current ratio
+        B) Asset turnover
+        C) Return on sales
+        D) Return on total asset
+        ",B-0,,,D
+"
+        Which of the following is not one of the three major assets Brick & Mortar retailers must invest in?
+        A) People
+        B) Inventory
+        C) Company Cars
+        D) Real Estate
+        ",B-0,,,C
+"
+        Which of the following is representative of safeguarding assets?
+        A) Attaching electronic sensors to merchandise inventory
+        B) Reducing expense to increase operating profit
+        C) Increasing operating profit to increase net income
+        D) Allowing company accountants to handle cash
+        ",B-0,,,A
+"
+        A photocopier cost $95,000 when new and has an accumulated depreciation of $90,000. If the business discards this plant asset, the result is _____.
+        A) a loss of $5,000.
+        B) a loss of $11,250.
+        C) a gain of $5,000.
+        D) a gain of $11,250.
+        ",B-0,,,A
+"
+        Blossom Company purchases a new delivery truck for $77,000. The sales taxes are $4,300. The logo of the company is painted on the side of the truck for $1,000. The truck's annual license is $120. The truck undergoes safety testing for $300.
+
+What does Blossom record as the cost of the new truck?
+        A) $82,720.00
+        B) $81,300.00
+        C) $82,600.00
+        D) $80,600.00
+        ",B-0,,,C
+"
+        When cash is received in payment of an accounts receivable, which of the following is true?
+        A) Total assets and total owner's equity increase.
+        B) Total assets increase.
+        C) Total assets decrease.
+        D) Total assets remain the same.
+        ",B-0,,,D
+"
+        Which of the following is the most liquid asset?
+        A) Building.
+        B) Prepaid Expenses.
+        C) Accounts Receivable.
+        D) Cash.
+        ",B-0,,,D
+"
+        _____ and _____ are assets, _____ is a liability and _____ is an owner's equity accounts.
+        A) Cash, accounts payable, notes payable, owner's drawings
+        B) Accounts receivable, prepaid rent, accounts payable, unearned revenue
+        C) Buildings, supplies, accounts receivable, owner's drawings
+        D) Prepaid insurance, accounts receivable, unearned revenue, owner's capital
+        ",B-0,,,D
+"
+        Roberts Construction Group paid $11,000 for a plant asset that had a market value of $20,500. At which of the following amounts should the plant asset be recorded?
+        A) $20,500
+        B) $5,500
+        C) $11,000
+        D) $22,000
+        ",B-0,,,C
+"
+        If the disposal of a plant asset occurs during the year, depreciation is:
+        A) not recorded for the year
+        B) recorded for the whole year
+        C) not recorded if the asset is scrapped
+        D) recorded for the fraction of the year to the date of the disposal
+        ",B-0,,,D
+"
+        Liquidity is a measure of how _____.
+        A) quickly an asset may be converted into cash
+        B) long an asset can be used
+        C) easily an asset can be exchanged for another asset
+        D) quickly an asset appreciates in value
+        ",B-0,,,A
+"
+        Which of the following items would be classified as long-term operational assets?
+        A)  Accounts Payable, Unearned Revenue, Notes Payable.
+        B) Building, Equipment, Patent.
+        C) Cash, Inventory, Accounts Receivable.
+        D) Accounts Receivable, Prepaid Rent, Inventory.
+        ",B-0,,,B
+"
+        Bob Co. purchased land and buildings for {eq}\$1,500,000 {/eq} in a basket purchase. The fair value of the land and buildings respectively are determined to be {eq}\$1,200,000 {/eq} and {eq}\$600,000 {/eq}. The assets acquired will be recorded on Bob's balance sheet as:
+        A) Land {eq}\$1,200,000 {/eq}; Buildings {eq}\$600,000 {/eq}.
+        B) Land {eq}\$1,200,000 {/eq}; Buildings {eq}\$300,000 {/eq}.
+        C) Land {eq}\$1,000,000 {/eq}; Buildings {eq}\$500,000 {/eq}.
+        D) Land {eq}\$900,000 {/eq}; Buildings {eq}\$600,000 {/eq}.
+        ",B-0,,,C
+"
+        ABC Company sold a machine for $5,500 that originally cost $12,000. The balance of the Accumulated Depreciation account related to this equipment was $9,000. The entry to record the gain or loss on the disposal of this machine would include:
+        A) A debit to loss in the amount of $3,500.
+        B) A debit to loss in the amount of $6,500.
+        C) A debit to gain in the amount of $2,500.
+        D) A credit to gain in the amount of $2,500.
+        ",B-0,,,D
+"
+        Assets that are expected to be converted to cash, sold, or used up during the next 12 months, or within the business's normal operating cycle if the cycle is longer than a year, are called _____ assets.
+        A) intangible
+        B) plant
+        C) long-term
+        D) current
+        ",B-0,,,D
+"
+        Company A gave land to an employee as payment for services rendered. The land originally cost $43,000 when the Company bought it, but it had a value of $52,000 on the date it was given to the employee. Make the journal entry (or entries) necessary to record this transaction. Select one:
+        A) Wage Expense 43,000, Land $43,000
+        B) Wage Expense 43,000, Loss on Sale of Land 9000, Land$52,000
+        C) Wage Expense 52,000, Land $52,000
+        D) Wage Expense 52,000, Land $43,000, Gain on Sale of Land $9,000
+        ",B-0,,,D
+"
+        On January 1, 2015, a company purchased a new piece of equipment to use in its business. The details of the purchase are as follows:
+
+Purchase Price	$45,000
+Shipping Costs	$250
+Install/Setup Costs	$1,000
+Salvage Value	$3,950
+Useful Life	6 Years
+What is the capitalized cost of the equipment?
+        A) $46,000
+        B) $45,000
+        C) $45,250
+        D) $46,250
+        ",B-0,,,D
+"
+        If an asset is being sold or exchanged, the gain or loss is always computed by comparing the:
+        A) market value and cost.
+        B) book value and salvage value.
+        C) market value and salvage value.
+        D) market value and book value.
+        ",B-0,,,B

@@ -9,8 +9,8 @@ load_dotenv()
 class Agent(ABC):
     def __init__(
         self,
-        provider: str = "openai",
-        model: str = "gpt-4o-mini",
+        model: str,
+        provider: str,
         function_schema: Optional[Dict] = None,
         pyd_model = None,
         **kwargs
@@ -19,8 +19,8 @@ class Agent(ABC):
         Initialize the agent with the specified LLM provider.
     
         Args:
-            provider: One of "openai", "runpod", "anthropic", "google"
             model: Model name/identifier
+            provider: One of "openai", "runpod", "anthropic", "google"
             function_schema: Optional function schema for structured output
             pyd_model: Optional Pydantic model for validation
             **kwargs: Additional provider-specific arguments
@@ -36,13 +36,7 @@ class Agent(ABC):
         """Return the system prompt for this agent"""
         pass
 
-    def generate_response(
-        self,
-        prompt: str,
-        temperature: float = 0,
-        max_tokens: int = 1000,
-        stop: Optional[str] = None
-    ) -> Dict:
+    def generate_response(self, prompt: str, temperature: float = 0, max_tokens: int = 1000, stop: Optional[str] = None) -> Dict:
         """
         Generate a response using the configured LLM provider.
         
@@ -56,14 +50,19 @@ class Agent(ABC):
             Dict containing the response
         """
         try:
-            response = self.llm.generate_response(
-                prompt=prompt,
-                system_prompt=self.system_prompt(),
-                temperature=temperature,
-                max_tokens=max_tokens,
-                functions=[self.function_schema] if self.function_schema else None,
-                function_call={"name": self.function_schema.get("name")} if self.function_schema else None
-            )
+            # Only include function-related parameters if function_schema is provided
+            kwargs = {
+                "prompt": prompt,
+                "system_prompt": self.system_prompt(),
+                "temperature": temperature,
+                "max_tokens": max_tokens
+            }
+            
+            if self.function_schema:
+                kwargs["functions"] = [self.function_schema]
+                kwargs["function_call"] = {"name": self.function_schema.get("name")}
+            
+            response = self.llm.generate_response(**kwargs)
             
             # Validate against Pydantic model if provided
             if self.pyd_model:

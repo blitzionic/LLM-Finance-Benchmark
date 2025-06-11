@@ -1,47 +1,35 @@
 import os
 import json
-from base_agent import Agent
-
-FUNCTION_SCHEMA = {
-    "name": "research_answer",
-    "description": "Retrieve evidence from external sources and provide a candidate answer. The answer must be one letter among A, B, C, or D, and include a list of evidence citations.",
-    "parameters": {
-        "type": "object",
-        "properties": {
-            "answer": {
-                "type": "string",
-                "enum": ["A", "B", "C", "D"],
-                "description": "The candidate answer."
-            },
-            "evidence": {
-                "type": "string",
-                "description": "Evidence supporting your answer, including citations from reliable sources."
-            }
-        },
-        "required": ["answer", "evidence"]
-    }
-}
+from .base_agent import Agent
+from .pyd_schema import AnswerSchema
+from typing import List
+import re
 
 class KnowledgeResearcherAgent(Agent):
-    def __init__(self, topic="finance", model="gpt-4o-mini", query_engine=None):
-        self.topic = topic
+    def __init__(self, model, provider, api_key=None, query_engine=None):
         self.query_engine = query_engine
         self.role_description = "You are a research assistant with access to financial documents and external data sources."
-        super().__init__(model=model, function_schema=FUNCTION_SCHEMA, pyd_model=None)
+        # Initialize without function schema since we want direct text responses
+        super().__init__(model=model, provider=provider, function_schema=None, pyd_model=None, api_key=api_key)
 
     def system_prompt(self):
         return (
             f"{self.role_description}\n"
-            "Search for information that answers the question and use it to provide a supported answer. "
-            "Analyze the evidence objectively and determine the most accurate answer based on facts. "
-            "Select one letter: A, B, C, or D, and provide evidence from reliable sources."
+            "Your task is to summarize evidence into clear, concise bullet points. "
+            "Focus on extracting the most relevant information that could help answer the question. "
+            "Format your response as a list of bullet points, starting each point with a dash (-)."
         )
 
-    def retrieve_relevant_docs(self, query, top_k=3):
+    def retrieve_evidence(self, query, top_k=3):
         try:
             if self.query_engine:
                 response = self.query_engine.query(query)
-                retrieved_docs = [node.node.text for node in response.source_nodes]
+                # remove pdf markers from retrieved chunks
+                retrieved_docs = [
+                    node.node.text.replace("Final PDF to printer", "").replace("Page", "").replace("page", "").strip() 
+                    for node in response.source_nodes
+                ]
+                print(f"Retrieved docs: {retrieved_docs}")
                 return retrieved_docs
             else:
                 return ["No query engine available."]
@@ -49,18 +37,71 @@ class KnowledgeResearcherAgent(Agent):
             print(f"Error retrieving documents: {e}")
             return []
 
-    def process(self, question):
-        # Retrieve relevant context documents based on the question
-        retrieved_docs = self.retrieve_relevant_docs(question)
-        context = "\n\n".join(retrieved_docs)
+    def summarize_evidence(self, evidence_chunks: List[str]) -> str:
+        """Summarize the retrieved evidence into bullet points"""
+        # Clean and join the evidence chunks
+        cleaned_chunks = []
+        for chunk in evidence_chunks:
+            # Remove page numbers and chapter numbers
+            chunk = re.sub(r'\d+\s+Chapter\s+\d+', '', chunk)
+            # Remove standalone numbers
+            chunk = re.sub(r'^\d+$', '', chunk)
+            # Remove special characters and standardize dashes
+            chunk = chunk.replace('–', '-').replace('●', '-')
+            # Replace newlines with spaces
+            chunk = chunk.replace('\n', ' ')
+            # Remove extra whitespace
+            chunk = ' '.join(chunk.split())
+            if chunk.strip():  # Only add non-empty chunks
+                cleaned_chunks.append(chunk)
+        
+        # Join cleaned chunks with proper spacing
+        context = ' '.join(cleaned_chunks)
+        
+        # Create summary prompt
+        summary_prompt = f"""Based on the following evidence, create a clear and concise summary in bullet points. Focus on the most relevant information and remove any duplicates or irrelevant details.
+        Evidence:
+        {context}
+        Summary:"""
+        
+        # Generate summary
+        summary_response = self.generate_response(summary_prompt)
+        
+        # Ensure we get a string response
+        if isinstance(summary_response, dict):
+            if "answer" in summary_response:
+                summary = summary_response["answer"]
+            else:
+                summary = str(summary_response)
+        else:
+            summary = str(summary_response)
+            
+        print(f"Summarized evidence: {summary}")
+        return summary
 
-        # Build a prompt that includes the retrieved context
-        prompt = (
-            "Based on the provided context and your financial knowledge, answer the following question. "
-            "Analyze the evidence objectively and determine the correct answer.\n" 
-            f"Question: {question}\n\n"
-            f"Context:\n{context}\n\n"
-            "Provide your answer and supporting evidence."
-        )
-        response = self.generate_response(prompt)
-        return response 
+    def process_retrieval(self, question):
+        """Process the retrieval and return the evidence"""
+        # Get relevant context
+        evidence_chunks = self.retrieve_evidence(question)
+        
+        # Clean the evidence chunks
+        # lowercase all comments 
+        cleaned_chunks = []
+        for chunk in evidence_chunks:
+            chunk = re.sub(r'\d+\s+Chapter\s+\d+', '', chunk)
+            # Remove standalone numbers
+            chunk = re.sub(r'^\d+$', '', chunk)
+            # Remove special characters and standardize dashes
+            chunk = chunk.replace('–', '-').replace('●', '-')
+            # Replace newlines with spaces
+            chunk = chunk.replace('\n', ' ')
+            # Remove extra whitespace
+            chunk = ' '.join(chunk.split())
+            if chunk.strip():  # Only add non-empty chunks
+                cleaned_chunks.append(chunk)
+        
+        # Join cleaned chunks with proper spacing
+        cleaned_evidence = ' '.join(cleaned_chunks)
+        
+        print(f"Cleaned evidence: {cleaned_evidence}")
+        return cleaned_evidence 
